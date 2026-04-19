@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import {
   MapPin, Mountain, Gem, Clock, ChevronRight, AlertTriangle,
-  Car, Signal, Users, Baby, Dog, Leaf, Info, FileText, Star
+  Car, Signal, Info, FileText, Star, DollarSign, ShieldCheck, Navigation, Wrench
 } from 'lucide-react'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
@@ -252,9 +252,9 @@ export default async function LocationPage({ params }: Props) {
               )}
 
               {location.written_directions && (
-                <div className="bg-cream-100 border border-border rounded-xl p-5 mb-4">
+                <div className="bg-muted/40 border border-border rounded-xl p-5 mb-4">
                   <h3 className="font-semibold text-foreground text-sm mb-2 flex items-center gap-2">
-                    <MapPin className="w-4 h-4 text-primary" /> Written Directions from Nearest Highway
+                    <Navigation className="w-4 h-4 text-primary" /> Directions from Nearest Highway
                   </h3>
                   <p className="text-sm text-foreground/80 leading-relaxed">{location.written_directions}</p>
                 </div>
@@ -278,7 +278,7 @@ export default async function LocationPage({ params }: Props) {
                 )}
                 {location.road_conditions && (
                   <div className="col-span-2 sm:col-span-2 flex items-start gap-2 p-3 rounded-lg border border-border bg-card text-sm">
-                    <Info className="w-4 h-4 text-primary mt-0.5 shrink-0" />
+                    <Wrench className="w-4 h-4 text-muted-foreground mt-0.5 shrink-0" />
                     <div>
                       <div className="text-xs text-muted-foreground mb-0.5">Road Conditions</div>
                       <div className="font-medium text-foreground">{location.road_conditions}</div>
@@ -287,7 +287,7 @@ export default async function LocationPage({ params }: Props) {
                 )}
                 {location.parking_notes && (
                   <div className="col-span-full flex items-start gap-2 p-3 rounded-lg border border-border bg-card text-sm">
-                    <Info className="w-4 h-4 text-muted-foreground mt-0.5 shrink-0" />
+                    <MapPin className="w-4 h-4 text-muted-foreground mt-0.5 shrink-0" />
                     <div>
                       <div className="text-xs text-muted-foreground mb-0.5">Parking</div>
                       <div className="text-foreground/80">{location.parking_notes}</div>
@@ -317,17 +317,14 @@ export default async function LocationPage({ params }: Props) {
                 )}
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                  <div className={cn(
-                    'flex items-start gap-3 p-4 rounded-xl border',
-                    location.permit_required ? 'border-amber-200 bg-amber-50' : 'border-emerald-200 bg-emerald-50'
-                  )}>
-                    <AlertTriangle className={cn('w-4 h-4 mt-0.5 shrink-0', location.permit_required ? 'text-amber-600' : 'text-emerald-600')} />
+                  <div className="flex items-start gap-3 p-4 rounded-xl border border-border bg-card">
+                    <ShieldCheck className="w-4 h-4 text-muted-foreground mt-0.5 shrink-0" />
                     <div>
-                      <div className="text-sm font-semibold text-foreground mb-0.5">Permit Required</div>
-                      <div className="text-sm">{location.permit_required ? 'Yes - permit required' : 'No permit needed'}</div>
+                      <div className="text-sm font-semibold text-foreground mb-0.5">Permit</div>
+                      <div className="text-sm text-foreground/75">{location.permit_required ? 'Permit required' : 'No permit needed'}</div>
                       {location.permit_link && (
                         <a href={location.permit_link} target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline mt-1 block">
-                          Get permit →
+                          Get permit
                         </a>
                       )}
                     </div>
@@ -335,7 +332,7 @@ export default async function LocationPage({ params }: Props) {
 
                   {location.fee_amount != null && (
                     <div className="flex items-start gap-3 p-4 rounded-xl border border-border bg-card">
-                      <Info className="w-4 h-4 text-primary mt-0.5 shrink-0" />
+                      <DollarSign className="w-4 h-4 text-muted-foreground mt-0.5 shrink-0" />
                       <div>
                         <div className="text-sm font-semibold text-foreground mb-0.5">Entry Fee</div>
                         <div className="text-sm text-foreground/75">
@@ -347,15 +344,18 @@ export default async function LocationPage({ params }: Props) {
                 </div>
 
                 {location.collection_rules && (
-                  <div className="p-4 rounded-xl border border-border bg-card">
-                    <div className="text-sm font-semibold text-foreground mb-2">Collection Rules</div>
-                    <p className="text-sm text-foreground/75 leading-relaxed">{location.collection_rules}</p>
+                  <div className="flex items-start gap-3 p-4 rounded-xl border border-border bg-card">
+                    <FileText className="w-4 h-4 text-muted-foreground mt-0.5 shrink-0" />
+                    <div>
+                      <div className="text-sm font-semibold text-foreground mb-1">Collection Rules</div>
+                      <p className="text-sm text-foreground/75 leading-relaxed">{location.collection_rules}</p>
+                    </div>
                   </div>
                 )}
 
                 {location.quantity_limits && (
-                  <div className="flex items-start gap-3 p-4 rounded-xl border border-amber-200 bg-amber-50">
-                    <AlertTriangle className="w-4 h-4 text-amber-600 mt-0.5 shrink-0" />
+                  <div className="flex items-start gap-3 p-4 rounded-xl border border-border bg-card">
+                    <AlertTriangle className="w-4 h-4 text-muted-foreground mt-0.5 shrink-0" />
                     <div>
                       <div className="text-sm font-semibold text-foreground mb-0.5">Quantity Limits</div>
                       <p className="text-sm text-foreground/75">{location.quantity_limits}</p>
@@ -364,8 +364,8 @@ export default async function LocationPage({ params }: Props) {
                 )}
 
                 {location.commercial_use_allowed && (
-                  <div className="flex items-start gap-3 p-4 rounded-xl border border-blue-200 bg-blue-50">
-                    <Info className="w-4 h-4 text-blue-600 mt-0.5 shrink-0" />
+                  <div className="flex items-start gap-3 p-4 rounded-xl border border-border bg-card">
+                    <Info className="w-4 h-4 text-muted-foreground mt-0.5 shrink-0" />
                     <div>
                       <div className="text-sm font-semibold text-foreground mb-0.5">Commercial Collection</div>
                       <p className="text-sm text-foreground/75">Commercial use and resale are permitted at this location.</p>
@@ -374,8 +374,8 @@ export default async function LocationPage({ params }: Props) {
                 )}
 
                 {location.rules && (
-                  <div className="flex items-start gap-3 p-4 rounded-xl border border-ruby-100 bg-ruby-50">
-                    <AlertTriangle className="w-4 h-4 text-primary mt-0.5 shrink-0" />
+                  <div className="flex items-start gap-3 p-4 rounded-xl border border-border bg-card">
+                    <AlertTriangle className="w-4 h-4 text-muted-foreground mt-0.5 shrink-0" />
                     <div>
                       <div className="text-sm font-semibold text-foreground mb-0.5">Additional Rules</div>
                       <p className="text-sm text-foreground/75 leading-relaxed">{location.rules}</p>
@@ -458,60 +458,54 @@ export default async function LocationPage({ params }: Props) {
               <h3 className="font-heading font-semibold text-foreground mb-4 text-base">Quick Facts</h3>
               <dl className="space-y-3 text-sm">
                 {location.difficulty && (
-                  <div className="flex justify-between">
-                    <dt className="text-muted-foreground flex items-center gap-1.5"><Mountain className="w-3.5 h-3.5" /> Difficulty</dt>
-                    <dd className="font-medium">{DIFFICULTY_LABELS[location.difficulty]}</dd>
+                  <div className="flex items-center justify-between gap-2">
+                    <dt className="text-muted-foreground flex items-center gap-1.5 shrink-0"><Mountain className="w-3.5 h-3.5" /> Difficulty</dt>
+                    <dd className="font-medium text-right">{DIFFICULTY_LABELS[location.difficulty]}</dd>
                   </div>
                 )}
                 {location.primary_category && (
-                  <div className="flex justify-between">
-                    <dt className="text-muted-foreground flex items-center gap-1.5"><MapPin className="w-3.5 h-3.5" /> Land Type</dt>
-                    <dd className="font-medium text-right max-w-[55%]">{CATEGORY_LABELS[location.primary_category]}</dd>
+                  <div className="flex items-center justify-between gap-2">
+                    <dt className="text-muted-foreground flex items-center gap-1.5 shrink-0"><MapPin className="w-3.5 h-3.5" /> Land Type</dt>
+                    <dd className="font-medium text-right">{CATEGORY_LABELS[location.primary_category]}</dd>
                   </div>
                 )}
                 {location.best_season && (
-                  <div className="flex justify-between">
-                    <dt className="text-muted-foreground flex items-center gap-1.5"><Clock className="w-3.5 h-3.5" /> Best Season</dt>
-                    <dd className="font-medium">{location.best_season}</dd>
+                  <div className="flex items-start justify-between gap-2">
+                    <dt className="text-muted-foreground flex items-center gap-1.5 shrink-0 pt-0.5"><Clock className="w-3.5 h-3.5" /> Best Season</dt>
+                    <dd className="font-medium text-right leading-snug">{location.best_season}</dd>
                   </div>
                 )}
                 {location.vehicle_required && (
-                  <div className="flex justify-between">
-                    <dt className="text-muted-foreground flex items-center gap-1.5"><Car className="w-3.5 h-3.5" /> Vehicle</dt>
-                    <dd className="font-medium text-right max-w-[55%]">{VEHICLE_LABELS[location.vehicle_required]}</dd>
+                  <div className="flex items-center justify-between gap-2">
+                    <dt className="text-muted-foreground flex items-center gap-1.5 shrink-0"><Car className="w-3.5 h-3.5" /> Vehicle</dt>
+                    <dd className="font-medium text-right">{VEHICLE_LABELS[location.vehicle_required]}</dd>
                   </div>
                 )}
                 {location.cell_service && (
-                  <div className="flex justify-between">
-                    <dt className="text-muted-foreground flex items-center gap-1.5"><Signal className="w-3.5 h-3.5" /> Cell Service</dt>
-                    <dd className="font-medium">{CELL_LABELS[location.cell_service]}</dd>
+                  <div className="flex items-center justify-between gap-2">
+                    <dt className="text-muted-foreground flex items-center gap-1.5 shrink-0"><Signal className="w-3.5 h-3.5" /> Cell</dt>
+                    <dd className="font-medium text-right">{CELL_LABELS[location.cell_service]}</dd>
                   </div>
                 )}
                 {location.fee_amount != null && (
-                  <div className="flex justify-between">
-                    <dt className="text-muted-foreground">Entry Fee</dt>
-                    <dd className="font-medium">{location.fee_amount === 0 ? 'Free' : `$${location.fee_amount}`}</dd>
+                  <div className="flex items-center justify-between gap-2">
+                    <dt className="text-muted-foreground flex items-center gap-1.5 shrink-0"><DollarSign className="w-3.5 h-3.5" /> Entry Fee</dt>
+                    <dd className="font-medium text-right">{location.fee_amount === 0 ? 'Free' : `$${location.fee_amount}`}</dd>
                   </div>
                 )}
                 {location.permit_required != null && (
-                  <div className="flex justify-between">
-                    <dt className="text-muted-foreground">Permit</dt>
-                    <dd className={cn('font-medium', location.permit_required ? 'text-amber-600' : 'text-emerald-600')}>
-                      {location.permit_required ? 'Required' : 'Not Required'}
+                  <div className="flex items-center justify-between gap-2">
+                    <dt className="text-muted-foreground flex items-center gap-1.5 shrink-0"><ShieldCheck className="w-3.5 h-3.5" /> Permit</dt>
+                    <dd className="font-medium text-right">
+                      {location.permit_required ? 'Required' : 'Not required'}
                     </dd>
-                  </div>
-                )}
-                {location.latitude && location.longitude && (
-                  <div className="pt-2 border-t border-border">
-                    <dt className="text-muted-foreground text-xs mb-1">GPS Coordinates</dt>
-                    <dd className="font-mono text-xs text-foreground">{location.latitude.toFixed(6)}, {location.longitude.toFixed(6)}</dd>
                   </div>
                 )}
               </dl>
 
               {/* Visitor flags */}
               <div className="mt-4 pt-4 border-t border-border flex flex-wrap gap-2">
-                <BoolBadge value={location.beginner_friendly} trueLabel="Beginner OK" falseLabel="Not for Beginners" />
+                <BoolBadge value={location.beginner_friendly} trueLabel="Beginner Friendly" falseLabel="Not for Beginners" />
                 <BoolBadge value={location.family_friendly} trueLabel="Family Friendly" />
                 <BoolBadge value={location.dog_friendly} trueLabel="Dog Friendly" />
               </div>
@@ -532,11 +526,23 @@ export default async function LocationPage({ params }: Props) {
                 </div>
               )}
 
+              {/* GPS */}
+              {location.latitude && location.longitude && (
+                <div className="mt-4 pt-4 border-t border-border">
+                  <div className="text-xs font-semibold text-foreground mb-1">GPS Coordinates</div>
+                  <p className="font-mono text-xs text-muted-foreground">{location.latitude.toFixed(6)}, {location.longitude.toFixed(6)}</p>
+                </div>
+              )}
+
               {/* Nearest services */}
               {location.nearest_services && (
                 <div className="mt-4 pt-4 border-t border-border">
-                  <div className="text-xs font-semibold text-foreground mb-1">Nearest Services</div>
-                  <p className="text-xs text-muted-foreground">{location.nearest_services}</p>
+                  <div className="text-xs font-semibold text-foreground mb-2">Nearest Services</div>
+                  <div className="flex flex-wrap gap-1.5">
+                    {location.nearest_services.split(',').map((s) => s.trim()).filter(Boolean).map((s) => (
+                      <span key={s} className="text-xs bg-muted text-muted-foreground px-2 py-0.5 rounded-full border border-border">{s}</span>
+                    ))}
+                  </div>
                 </div>
               )}
             </div>
