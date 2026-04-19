@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!stateInfo) return {}
 
   const cityName = toTitleCase(citySlug)
-  const title = `Rockhounding near ${cityName}, ${stateInfo.name} — Sites & Locations`
+  const title = `Rockhounding near ${cityName}, ${stateInfo.name} - Sites & Locations`
   const description = `Find rockhounding sites near ${cityName}, ${stateInfo.name}. Verified gem hunting locations with GPS coordinates, directions, and what to find.`
 
   return {

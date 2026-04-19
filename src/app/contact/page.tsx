@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import { Mail, MessageSquare, MapPin } from 'lucide-react'
 import { SITE_NAME, SITE_URL } from '@/lib/constants'
 
@@ -44,7 +44,7 @@ export default function ContactPage() {
               </div>
               <h3 className="font-heading font-semibold text-foreground mb-1">Suggest a Location</h3>
               <p className="text-sm text-muted-foreground">
-                Know a great rockhounding spot we&apos;re missing? Send us the details — we&apos;ll research and add it.
+                Know a great rockhounding spot we&apos;re missing? Send us the details  -  we&apos;ll research and add it.
               </p>
             </div>
 
@@ -102,7 +102,7 @@ export default function ContactPage() {
                     name="subject"
                     className="w-full px-3.5 py-2.5 rounded-lg border border-input bg-background text-sm text-foreground focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary transition-colors"
                   >
-                    <option value="">Select a topic…</option>
+                    <option value="">Select a topic...</option>
                     <option value="suggest">Suggest a Location</option>
                     <option value="error">Report an Error</option>
                     <option value="general">General Question</option>
@@ -120,7 +120,7 @@ export default function ContactPage() {
                     name="body"
                     required
                     rows={5}
-                    placeholder="Tell us what's on your mind…"
+                    placeholder="Tell us what's on your mind..."
                     className="w-full px-3.5 py-2.5 rounded-lg border border-input bg-background text-sm placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary transition-colors resize-none"
                   />
                 </div>

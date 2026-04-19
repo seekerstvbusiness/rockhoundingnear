@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import { useState } from 'react'
 import { useRouter } from 'next/navigation'
@@ -32,7 +32,7 @@ export function SearchBar() {
         <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground pointer-events-none" />
         <Input
           type="text"
-          placeholder="Search by state, city, or gem type…"
+          placeholder="Search by state, city, or gem type..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           className="pl-10 h-12 bg-white border-white/30 text-foreground placeholder:text-muted-foreground shadow-lg rounded-lg text-sm"

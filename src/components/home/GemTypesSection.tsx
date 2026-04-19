@@ -1,11 +1,11 @@
-import Link from 'next/link'
+﻿import Link from 'next/link'
 import { Gem } from 'lucide-react'
 
 const gems = [
   { name: 'Agate', emoji: '🪨', desc: 'Colorful banded chalcedony found across the West' },
   { name: 'Jasper', emoji: '🟤', desc: 'Opaque quartz in rich red, yellow, and green hues' },
   { name: 'Obsidian', emoji: '⚫', desc: 'Volcanic glass prized by rockhounds in the Pacific Northwest' },
-  { name: 'Quartz', emoji: '💎', desc: 'The most abundant mineral — from clear to rose to smoky' },
+  { name: 'Quartz', emoji: '💎', desc: 'The most abundant mineral  -  from clear to rose to smoky' },
   { name: 'Garnet', emoji: '🔴', desc: 'Deep red crystals found in schist and metamorphic rock' },
   { name: 'Turquoise', emoji: '🔵', desc: 'Iconic blue-green gem of the American Southwest' },
   { name: 'Petrified Wood', emoji: '🌲', desc: 'Ancient trees preserved as mineral in spectacular detail' },

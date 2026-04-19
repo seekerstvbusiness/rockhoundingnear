@@ -1,4 +1,4 @@
-import Link from 'next/link'
+﻿import Link from 'next/link'
 import { Gem } from 'lucide-react'
 import { Separator } from '@/components/ui/separator'
 import { SITE_NAME, SITE_DESCRIPTION, US_STATES } from '@/lib/constants'
@@ -25,7 +25,7 @@ export function Footer() {
             Ready to Start Your Hunt?
           </h2>
           <p className="text-white/80 mb-5 text-sm max-w-xl mx-auto">
-            Browse over 1,000 rockhounding locations across all 50 states — free, curated, and detailed.
+            Browse over 1,000 rockhounding locations across all 50 states  -  free, curated, and detailed.
           </p>
           <Link
             href="/locations"

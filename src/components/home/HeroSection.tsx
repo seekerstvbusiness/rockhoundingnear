@@ -1,4 +1,4 @@
-import Link from 'next/link'
+﻿import Link from 'next/link'
 import { MapPin, Gem, Mountain } from 'lucide-react'
 import { SearchBar } from './SearchBar'
 
@@ -38,7 +38,7 @@ export function HeroSection() {
           {/* Subheading */}
           <p className="text-white/75 text-lg sm:text-xl mb-10 max-w-2xl mx-auto leading-relaxed">
             Discover over 1,000 hand-curated rockhounding locations across all 50 states.
-            From agates to amethysts — your next gem hunt starts here.
+            From agates to amethysts  -  your next gem hunt starts here.
           </p>
 
           {/* Search */}

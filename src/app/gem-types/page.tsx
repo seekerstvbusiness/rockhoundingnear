@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Link from 'next/link'
 import { ChevronRight, Gem } from 'lucide-react'
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '@/components/ui/breadcrumb'
@@ -12,24 +12,24 @@ export const metadata: Metadata = {
 }
 
 const GEM_DESCRIPTIONS: Record<string, string> = {
-  Agate: 'One of the most common and beloved finds — bands of chalcedony in every color.',
+  Agate: 'One of the most common and beloved finds  -  bands of chalcedony in every color.',
   Amethyst: 'Purple variety of quartz found in geodes and volcanic rock across the US.',
-  Gold: 'Placer gold in riverbeds and lode deposits — still found in many western states.',
+  Gold: 'Placer gold in riverbeds and lode deposits  -  still found in many western states.',
   Garnet: 'Deep red crystals common in metamorphic rock; several varieties in mountain states.',
   Jasper: 'Opaque variety of chalcedony found in vivid reds, yellows, and greens.',
-  Obsidian: 'Volcanic glass formed from rapid lava cooling — razor-sharp edges, glassy luster.',
+  Obsidian: 'Volcanic glass formed from rapid lava cooling  -  razor-sharp edges, glassy luster.',
   Opal: 'Fire opal, common opal, and precious opal found in western volcanic deposits.',
   Turquoise: 'Sky-blue copper mineral prized for jewelry; major deposits in Arizona and Nevada.',
-  Quartz: 'The most abundant mineral on Earth — clear, rose, smoky, and more varieties.',
-  'Petrified Wood': 'Ancient trees replaced by silica over millions of years — often agate-filled.',
+  Quartz: 'The most abundant mineral on Earth  -  clear, rose, smoky, and more varieties.',
+  'Petrified Wood': 'Ancient trees replaced by silica over millions of years  -  often agate-filled.',
   Tourmaline: 'Colorful crystals ranging from pink to green found in pegmatites.',
   Topaz: 'Hard silicate mineral; blue topaz known from Utah\'s Thomas Range.',
   Sapphire: 'Blue corundum from Montana\'s Yogo Gulch and other western deposits.',
-  Ruby: 'Red corundum — North Carolina\'s Cowee Valley is a famous US source.',
+  Ruby: 'Red corundum  -  North Carolina\'s Cowee Valley is a famous US source.',
   Emerald: 'Green beryl; found in North Carolina\'s Hiddenite area.',
   'Rose Quartz': 'Pink quartz common in pegmatite deposits and riverbeds.',
   'Smoky Quartz': 'Brownish-gray quartz from granite pegmatites and mountain areas.',
-  Fluorite: 'Colorful cubic mineral in purples, greens, yellows — found in veins.',
+  Fluorite: 'Colorful cubic mineral in purples, greens, yellows  -  found in veins.',
   Chalcedony: 'Microcrystalline quartz including agate, jasper, and chert.',
 }
 

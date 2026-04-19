@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import { useState } from 'react'
 import { X, ChevronLeft, ChevronRight, Camera } from 'lucide-react'
@@ -41,7 +41,7 @@ export function PhotoGallery({ images, locationName }: PhotoGalleryProps) {
           >
             <img
               src={src}
-              alt={`${locationName} — photo ${i + 1}`}
+              alt={`${locationName}  -  photo ${i + 1}`}
               className="w-full h-full object-cover"
             />
           </button>
@@ -64,7 +64,7 @@ export function PhotoGallery({ images, locationName }: PhotoGalleryProps) {
 
           <img
             src={images[lightbox]}
-            alt={`${locationName} — photo ${lightbox + 1}`}
+            alt={`${locationName}  -  photo ${lightbox + 1}`}
             className="max-h-[85vh] max-w-[90vw] object-contain rounded-lg"
             onClick={(e) => e.stopPropagation()}
           />

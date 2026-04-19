@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const location = await getLocationBySlug(state, city, slug)
   if (!location) return {}
 
-  const title = location.meta_title ?? `${location.name} — Rockhounding in ${location.county ? location.county + ' County, ' : ''}${location.state}`
+  const title = location.meta_title ?? `${location.name} - Rockhounding in ${location.county ? location.county + ' County, ' : ''}${location.state}`
   const description = location.meta_description ?? location.short_description ??
     `Find ${location.gem_types?.join(', ')} at ${location.name} in ${location.state}. Access info, GPS coordinates, directions, and rockhounding tips.`
   const url = `${SITE_URL}/locations/${state}/${city}/${slug}`
@@ -324,7 +324,7 @@ export default async function LocationPage({ params }: Props) {
                     <AlertTriangle className={cn('w-4 h-4 mt-0.5 shrink-0', location.permit_required ? 'text-amber-600' : 'text-emerald-600')} />
                     <div>
                       <div className="text-sm font-semibold text-foreground mb-0.5">Permit Required</div>
-                      <div className="text-sm">{location.permit_required ? 'Yes — permit required' : 'No permit needed'}</div>
+                      <div className="text-sm">{location.permit_required ? 'Yes - permit required' : 'No permit needed'}</div>
                       {location.permit_link && (
                         <a href={location.permit_link} target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline mt-1 block">
                           Get permit →

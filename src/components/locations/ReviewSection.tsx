@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import { useState, useRef } from 'react'
 import { Star, ThumbsUp, Camera, X, Upload, ImageIcon } from 'lucide-react'
@@ -100,12 +100,12 @@ export function ReviewSection({
     const photoUrls: string[] = []
 
     for (let i = 0; i < validPhotos.length; i++) {
-      setUploadProgress(`Uploading photo ${i + 1} of ${validPhotos.length}…`)
+      setUploadProgress(`Uploading photo ${i + 1} of ${validPhotos.length}...`)
       const url = await uploadReviewPhoto(locationId, validPhotos[i].file)
       if (url) photoUrls.push(url)
     }
 
-    setUploadProgress('Saving review…')
+    setUploadProgress('Saving review...')
     const ok = await submitReview({
       location_id: locationId,
       author_name: form.author_name,
@@ -184,7 +184,7 @@ export function ReviewSection({
       ) : (
         <div className="border border-dashed border-border rounded-xl p-8 text-center mb-8">
           <Camera className="w-8 h-8 text-muted-foreground/40 mx-auto mb-2" />
-          <p className="text-muted-foreground text-sm">No reviews yet — be the first to share your experience!</p>
+          <p className="text-muted-foreground text-sm">No reviews yet  -  be the first to share your experience!</p>
         </div>
       )}
 
@@ -245,7 +245,7 @@ export function ReviewSection({
                 rows={3}
                 value={form.comment}
                 onChange={(e) => setForm({ ...form, comment: e.target.value })}
-                placeholder="Tips, conditions, what to expect…"
+                placeholder="Tips, conditions, what to expect..."
                 className="w-full px-3.5 py-2.5 rounded-lg border border-input bg-background text-sm focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary resize-none"
               />
             </div>
@@ -309,7 +309,7 @@ export function ReviewSection({
                 >
                   <Upload className="w-6 h-6" />
                   <span className="text-sm">Click to upload photos</span>
-                  <span className="text-xs">JPG, PNG, WebP — up to {MAX_PHOTOS} photos, {MAX_SIZE_MB}MB each</span>
+                  <span className="text-xs">JPG, PNG, WebP  -  up to {MAX_PHOTOS} photos, {MAX_SIZE_MB}MB each</span>
                 </button>
               )}
 
@@ -329,7 +329,7 @@ export function ReviewSection({
                 disabled={loading || !form.rating || !form.author_name}
                 className="bg-primary hover:bg-ruby-700 disabled:opacity-50 disabled:cursor-not-allowed text-white font-semibold px-6 py-2.5 rounded-lg transition-colors text-sm"
               >
-                {loading ? (uploadProgress || 'Submitting…') : 'Submit Review'}
+                {loading ? (uploadProgress || 'Submitting...') : 'Submit Review'}
               </button>
               {photos.filter((p) => !p.error).length > 0 && !loading && (
                 <span className="text-xs text-muted-foreground flex items-center gap-1">

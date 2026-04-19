@@ -1,4 +1,4 @@
-export const US_STATES = [
+﻿export const US_STATES = [
   { name: 'Alabama', slug: 'alabama', abbreviation: 'AL' },
   { name: 'Alaska', slug: 'alaska', abbreviation: 'AK' },
   { name: 'Arizona', slug: 'arizona', abbreviation: 'AZ' },
@@ -120,7 +120,7 @@ export const HAZARD_LABELS: Record<string, string> = {
   sharp_material: 'Sharp Rock Material',
   loose_rock: 'Loose / Unstable Rock',
   wildlife: 'Wildlife (Bears, Mountain Lions)',
-  remote: 'Very Remote — No Cell Service',
+  remote: 'Very Remote  -  No Cell Service',
 }
 
 export const SITE_NAME = 'RockhoundingNear.com'

@@ -1,10 +1,10 @@
-import { Shield, MapPin, BookOpen, Users } from 'lucide-react'
+﻿import { Shield, MapPin, BookOpen, Users } from 'lucide-react'
 
 const features = [
   {
     icon: MapPin,
     title: 'Verified Locations',
-    desc: 'Every site is hand-researched and verified with GPS coordinates, directions, and access info — no generic AI filler.',
+    desc: 'Every site is hand-researched and verified with GPS coordinates, directions, and access info  -  no generic AI filler.',
   },
   {
     icon: Shield,

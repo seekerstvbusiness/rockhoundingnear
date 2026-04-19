@@ -1,10 +1,10 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import { Gem, Shield, MapPin, Heart } from 'lucide-react'
 import { SITE_NAME, SITE_URL } from '@/lib/constants'
 
 export const metadata: Metadata = {
   title: 'About Us',
-  description: `Learn about ${SITE_NAME} — our mission to help rockhounds find the best gem hunting locations across all 50 US states.`,
+  description: `Learn about ${SITE_NAME}  -  our mission to help rockhounds find the best gem hunting locations across all 50 US states.`,
   alternates: { canonical: `${SITE_URL}/about` },
 }
 
@@ -12,7 +12,7 @@ const values = [
   {
     icon: Gem,
     title: 'Accuracy Over Quantity',
-    desc: 'Every location is verified with real coordinates, honest access info, and what you can actually expect to find — not exaggerated listings.',
+    desc: 'Every location is verified with real coordinates, honest access info, and what you can actually expect to find  -  not exaggerated listings.',
   },
   {
     icon: Shield,
@@ -22,7 +22,7 @@ const values = [
   {
     icon: MapPin,
     title: 'Genuinely Useful Data',
-    desc: 'GPS coordinates, seasonal access windows, fee amounts, nearby facilities — the details that make the difference between a great trip and a wasted one.',
+    desc: 'GPS coordinates, seasonal access windows, fee amounts, nearby facilities  -  the details that make the difference between a great trip and a wasted one.',
   },
   {
     icon: Heart,
@@ -41,7 +41,7 @@ export default function AboutPage() {
             About {SITE_NAME}
           </h1>
           <p className="text-white/75 text-xl max-w-2xl mx-auto leading-relaxed">
-            We built the rockhounding directory we always wished existed — honest, detailed, and genuinely useful.
+            We built the rockhounding directory we always wished existed  -  honest, detailed, and genuinely useful.
           </p>
         </div>
       </section>
@@ -52,14 +52,14 @@ export default function AboutPage() {
           <h2 className="font-heading text-3xl font-bold text-foreground mb-5">Our Mission</h2>
           <div className="prose prose-stone max-w-none text-foreground/80 text-lg leading-relaxed space-y-4">
             <p>
-              Rockhounding is one of America&apos;s most accessible and rewarding outdoor hobbies — yet finding
+              Rockhounding is one of America&apos;s most accessible and rewarding outdoor hobbies  -  yet finding
               reliable, specific information about where to go has always been frustratingly difficult. Forums
               are scattered, guidebooks go out of date, and generic lists rarely tell you what you actually need to know.
             </p>
             <p>
               {SITE_NAME} was created to solve that. We&apos;ve spent thousands of hours researching, verifying,
-              and documenting rockhounding sites across all 50 states. Our goal is simple: give rockhounds —
-              whether complete beginners or seasoned collectors — the most useful directory available anywhere.
+              and documenting rockhounding sites across all 50 states. Our goal is simple: give rockhounds  - 
+              whether complete beginners or seasoned collectors  -  the most useful directory available anywhere.
             </p>
             <p>
               We are not a content farm. We don&apos;t generate pages to game search engines. Every location

@@ -1,4 +1,4 @@
-import { Suspense } from 'react'
+﻿import { Suspense } from 'react'
 import { HeroSection } from '@/components/home/HeroSection'
 import { StateGrid } from '@/components/home/StateGrid'
 import { FeaturedLocations } from '@/components/home/FeaturedLocations'
@@ -13,7 +13,7 @@ export default function HomePage() {
       <OrganizationSchema />
       <HeroSection />
       <StateGrid />
-      <Suspense fallback={<div className="py-20 text-center text-muted-foreground">Loading locations…</div>}>
+      <Suspense fallback={<div className="py-20 text-center text-muted-foreground">Loading locations...</div>}>
         <FeaturedLocations />
       </Suspense>
       <GemTypesSection />

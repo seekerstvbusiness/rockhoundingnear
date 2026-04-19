@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!gemName) return {}
 
   return {
-    title: `Where to Find ${gemName} — Rockhounding Locations | ${SITE_NAME}`,
+    title: `Where to Find ${gemName} - Rockhounding Locations | ${SITE_NAME}`,
     description: `Find rockhounding sites where ${gemName} has been reported across the US. Locations include GPS coordinates, access details, and tips from fellow rockhounds.`,
     alternates: { canonical: `${SITE_URL}/gem-types/${gemSlug}` },
     openGraph: {

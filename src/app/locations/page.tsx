@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Link from 'next/link'
 import { MapPin, ChevronRight, Gem, SlidersHorizontal } from 'lucide-react'
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '@/components/ui/breadcrumb'
@@ -8,11 +8,11 @@ import { getLocations } from '@/lib/supabase'
 import { US_STATES, GEM_TYPES, SITE_URL, SITE_NAME } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: `All Rockhounding Locations — ${SITE_NAME}`,
+  title: `All Rockhounding Locations  -  ${SITE_NAME}`,
   description: 'Browse rockhounding sites across all 50 US states. Filter by state, gem type, difficulty, or access. Find your next adventure with maps, GPS, and tips.',
   alternates: { canonical: `${SITE_URL}/locations` },
   openGraph: {
-    title: `All Rockhounding Locations — ${SITE_NAME}`,
+    title: `All Rockhounding Locations  -  ${SITE_NAME}`,
     description: 'Browse rockhounding sites across all 50 US states.',
     url: `${SITE_URL}/locations`,
   },
@@ -67,7 +67,7 @@ export default async function LocationsPage() {
             Rockhounding Locations
           </h1>
           <p className="text-white/75 text-lg max-w-2xl">
-            Verified gem hunting, mineral collecting, and fossil sites across every US state — with GPS, access details, and rockhound-reviewed tips.
+            Verified gem hunting, mineral collecting, and fossil sites across every US state  -  with GPS, access details, and rockhound-reviewed tips.
           </p>
         </div>
       </section>
@@ -139,7 +139,7 @@ export default async function LocationsPage() {
           {/* Alphabetical quick links */}
           <div className="mt-5 p-4 rounded-xl border border-border bg-muted/40">
             <div className="text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-3">
-              All States A–Z
+              All States A-Z
             </div>
             <div className="flex flex-wrap gap-x-3 gap-y-1">
               {US_STATES.map((state) => (

@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const stateInfo = US_STATES.find((s) => s.slug === stateSlug)
   if (!stateInfo) return {}
 
-  const title = `Rockhounding in ${stateInfo.name} — Sites, Maps & Tips`
+  const title = `Rockhounding in ${stateInfo.name} - Sites, Maps & Tips`
   const description = `Discover the best rockhounding sites in ${stateInfo.name}. Browse verified locations with GPS coordinates, gem types, difficulty ratings, and access information.`
 
   return {
