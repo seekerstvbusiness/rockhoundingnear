@@ -135,6 +135,22 @@ export async function getReviewsForLocation(locationId: string): Promise<Review[
   return data ?? []
 }
 
+export async function uploadReviewPhoto(
+  locationId: string,
+  file: File
+): Promise<string | null> {
+  const ext = file.name.split('.').pop() ?? 'jpg'
+  const path = `${locationId}/${Date.now()}-${Math.random().toString(36).slice(2)}.${ext}`
+  const { data, error } = await supabase.storage
+    .from('review-photos')
+    .upload(path, file, { contentType: file.type, upsert: false })
+  if (error) { console.error(error); return null }
+  const { data: { publicUrl } } = supabase.storage
+    .from('review-photos')
+    .getPublicUrl(data.path)
+  return publicUrl
+}
+
 export async function submitReview(review: {
   location_id: string
   author_name: string
@@ -143,6 +159,7 @@ export async function submitReview(review: {
   comment?: string
   visit_date?: string
   gem_found?: string
+  photo_urls?: string[]
 }): Promise<boolean> {
   const { error } = await supabase.from('reviews').insert([review])
   if (error) { console.error(error); return false }

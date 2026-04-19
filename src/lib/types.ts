@@ -77,6 +77,7 @@ export interface Review {
   comment: string | null
   visit_date: string | null
   gem_found: string | null
+  photo_urls: string[]
   verified: boolean
   created_at: string
 }
