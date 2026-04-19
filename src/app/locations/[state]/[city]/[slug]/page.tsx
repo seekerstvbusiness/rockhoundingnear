@@ -82,7 +82,7 @@ export default async function LocationPage({ params }: Props) {
   const { state: stateSlug, city: citySlug, slug } = await params
   const [location, nearby, reviews] = await Promise.all([
     getLocationBySlug(stateSlug, citySlug, slug),
-    getNearbyLocations(stateSlug, slug, 3),
+    getNearbyLocations(stateSlug, slug, 5),
     getLocationBySlug(stateSlug, citySlug, slug).then((loc) =>
       loc ? getReviewsForLocation(loc.id) : []
     ),
@@ -448,6 +448,31 @@ export default async function LocationPage({ params }: Props) {
               ratingAverage={location.rating_average}
               ratingCount={location.rating_count}
             />
+
+            {/* Nearby locations */}
+            {nearby.length > 0 && (
+              <>
+                <Separator />
+                <section>
+                  <div className="flex items-center justify-between mb-6">
+                    <h2 className="font-heading text-2xl font-bold text-foreground">
+                      More Rockhounding in {location.state}
+                    </h2>
+                    <Link
+                      href={`/locations/${stateSlug}`}
+                      className="text-sm text-primary hover:underline flex items-center gap-1 shrink-0"
+                    >
+                      All {location.state} locations <ChevronRight className="w-3.5 h-3.5" />
+                    </Link>
+                  </div>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    {nearby.map((loc) => (
+                      <LocationCard key={loc.id} location={loc} />
+                    ))}
+                  </div>
+                </section>
+              </>
+            )}
           </div>
 
           {/* ── Right: sidebar ── */}
@@ -547,34 +572,8 @@ export default async function LocationPage({ params }: Props) {
               )}
             </div>
 
-            {/* State link */}
-            <div className="rounded-xl border border-ruby-100 bg-ruby-50 p-5 text-center">
-              <p className="text-sm text-muted-foreground mb-3">Explore more sites in {location.state}</p>
-              <Link
-                href={`/locations/${stateSlug}`}
-                className="inline-flex items-center gap-2 bg-primary text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-ruby-700 transition-colors"
-              >
-                <MapPin className="w-3.5 h-3.5" />
-                All {location.state} Locations
-              </Link>
-            </div>
           </div>
         </div>
-
-        {/* Nearby locations */}
-        {nearby.length > 0 && (
-          <div className="mt-14">
-            <Separator className="mb-10" />
-            <h2 className="font-heading text-2xl font-bold text-foreground mb-6">
-              More Rockhounding in {location.state}
-            </h2>
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
-              {nearby.map((loc) => (
-                <LocationCard key={loc.id} location={loc} />
-              ))}
-            </div>
-          </div>
-        )}
       </div>
     </>
   )
