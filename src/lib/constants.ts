@@ -76,6 +76,53 @@ export const ACCESS_LABELS: Record<string, string> = {
   permit: 'Permit Required',
 }
 
+export const CATEGORY_LABELS: Record<string, string> = {
+  public_blm: 'Public BLM Land',
+  national_forest: 'National Forest',
+  fee_dig: 'Fee Dig Site',
+  private: 'Private Land',
+  state_park: 'State Park',
+  closed: 'Closed / No Collecting',
+  other: 'Other',
+}
+
+export const CATEGORY_COLORS: Record<string, string> = {
+  public_blm: 'bg-emerald-100 text-emerald-800 border-emerald-200',
+  national_forest: 'bg-green-100 text-green-800 border-green-200',
+  fee_dig: 'bg-amber-100 text-amber-800 border-amber-200',
+  private: 'bg-orange-100 text-orange-800 border-orange-200',
+  state_park: 'bg-blue-100 text-blue-800 border-blue-200',
+  closed: 'bg-red-100 text-red-800 border-red-200',
+  other: 'bg-gray-100 text-gray-800 border-gray-200',
+}
+
+export const VEHICLE_LABELS: Record<string, string> = {
+  passenger: 'Passenger Car',
+  awd: 'AWD / SUV Recommended',
+  '4x4': '4x4 Required',
+  atv: 'ATV / OHV Only',
+  hiking: 'Hiking Only (No Vehicle)',
+}
+
+export const CELL_LABELS: Record<string, string> = {
+  none: 'No Cell Service',
+  spotty: 'Spotty Service',
+  reliable: 'Reliable Service',
+}
+
+export const HAZARD_LABELS: Record<string, string> = {
+  snakes: 'Rattlesnakes',
+  cliffs: 'Cliffs / Drop-offs',
+  abandoned_mines: 'Abandoned Mine Shafts',
+  heat: 'Extreme Heat',
+  cold: 'Extreme Cold',
+  flash_floods: 'Flash Flood Risk',
+  sharp_material: 'Sharp Rock Material',
+  loose_rock: 'Loose / Unstable Rock',
+  wildlife: 'Wildlife (Bears, Mountain Lions)',
+  remote: 'Very Remote — No Cell Service',
+}
+
 export const SITE_NAME = 'RockhoundingNear.com'
 export const SITE_URL = 'https://www.rockhoundingnear.com'
 export const SITE_DESCRIPTION =

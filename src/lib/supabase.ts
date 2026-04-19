@@ -1,5 +1,5 @@
 import { createClient } from '@supabase/supabase-js'
-import type { Location, StateData } from './types'
+import type { Location, StateData, Review } from './types'
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!
 const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
@@ -122,4 +122,29 @@ export async function getCitiesInState(stateSlug: string) {
     seen.add(r.city_slug)
     return true
   })
+}
+
+export async function getReviewsForLocation(locationId: string): Promise<Review[]> {
+  const { data, error } = await supabase
+    .from('reviews')
+    .select('*')
+    .eq('location_id', locationId)
+    .eq('published', true)
+    .order('created_at', { ascending: false })
+  if (error) { console.error(error); return [] }
+  return data ?? []
+}
+
+export async function submitReview(review: {
+  location_id: string
+  author_name: string
+  author_email?: string
+  rating: number
+  comment?: string
+  visit_date?: string
+  gem_found?: string
+}): Promise<boolean> {
+  const { error } = await supabase.from('reviews').insert([review])
+  if (error) { console.error(error); return false }
+  return true
 }

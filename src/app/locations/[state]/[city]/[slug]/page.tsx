@@ -1,14 +1,28 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { MapPin, Mountain, Gem, Clock, ChevronRight, AlertTriangle, Navigation } from 'lucide-react'
+import {
+  MapPin, Mountain, Gem, Clock, ChevronRight, AlertTriangle,
+  Car, Signal, Users, Baby, Dog, Leaf, Info, FileText, Star
+} from 'lucide-react'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
-import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '@/components/ui/breadcrumb'
+import {
+  Breadcrumb, BreadcrumbItem, BreadcrumbLink,
+  BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator,
+} from '@/components/ui/breadcrumb'
 import { LocationCard } from '@/components/locations/LocationCard'
-import { LocationSchema, BreadcrumbSchema } from '@/components/seo/JsonLd'
-import { getLocationBySlug, getNearbyLocations } from '@/lib/supabase'
-import { DIFFICULTY_LABELS, ACCESS_LABELS, SITE_NAME, SITE_URL } from '@/lib/constants'
+import { PhotoGallery } from '@/components/locations/PhotoGallery'
+import { LocationMap } from '@/components/locations/LocationMap'
+import { FaqSection } from '@/components/locations/FaqSection'
+import { ReviewSection } from '@/components/locations/ReviewSection'
+import { LocationSchema, FaqSchema, BreadcrumbSchema } from '@/components/seo/JsonLd'
+import { getLocationBySlug, getNearbyLocations, getReviewsForLocation } from '@/lib/supabase'
+import {
+  DIFFICULTY_LABELS, ACCESS_LABELS, CATEGORY_LABELS, CATEGORY_COLORS,
+  VEHICLE_LABELS, CELL_LABELS, HAZARD_LABELS, SITE_NAME, SITE_URL,
+} from '@/lib/constants'
+import { cn } from '@/lib/utils'
 
 type Props = { params: Promise<{ state: string; city: string; slug: string }> }
 
@@ -17,19 +31,30 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const location = await getLocationBySlug(state, city, slug)
   if (!location) return {}
 
-  const title = location.meta_title ?? `${location.name} — Rockhounding in ${location.state}`
-  const description = location.meta_description ?? location.short_description ?? `Rockhound at ${location.name} in ${location.state}. Find ${location.gem_types?.join(', ')} and more.`
+  const title = location.meta_title ?? `${location.name} — Rockhounding in ${location.county ? location.county + ' County, ' : ''}${location.state}`
+  const description = location.meta_description ?? location.short_description ??
+    `Find ${location.gem_types?.join(', ')} at ${location.name} in ${location.state}. Access info, GPS coordinates, directions, and rockhounding tips.`
   const url = `${SITE_URL}/locations/${state}/${city}/${slug}`
+  const keywords = [
+    location.name,
+    ...(location.alternative_names ?? []),
+    `rockhounding ${location.state}`,
+    location.county ? `rockhounding ${location.county} county` : '',
+    location.nearest_city ? `rockhounding near ${location.nearest_city}` : '',
+    location.city ? `rockhounding near ${location.city}` : '',
+    ...(location.gem_types ?? []),
+    location.beginner_friendly ? 'beginner rockhounding' : '',
+    location.family_friendly ? 'family rockhounding' : '',
+  ].filter(Boolean)
 
   return {
     title,
     description,
+    keywords,
     alternates: { canonical: url },
     openGraph: {
-      title,
-      description,
-      url,
-      ...(location.images?.[0] && { images: [{ url: location.images[0] }] }),
+      title, description, url,
+      ...(location.cover_photo && { images: [{ url: location.cover_photo }] }),
     },
   }
 }
@@ -41,108 +66,162 @@ const difficultyColor: Record<string, string> = {
   expert: 'bg-red-100 text-red-700 border-red-200',
 }
 
+function BoolBadge({ value, trueLabel, falseLabel }: { value: boolean | null; trueLabel: string; falseLabel?: string }) {
+  if (value === null || value === undefined) return null
+  return (
+    <span className={cn(
+      'inline-flex items-center gap-1 text-xs font-medium px-2.5 py-1 rounded-full border',
+      value ? 'bg-emerald-50 text-emerald-700 border-emerald-200' : 'bg-gray-50 text-gray-500 border-gray-200'
+    )}>
+      {value ? '✓' : '✗'} {value ? trueLabel : (falseLabel ?? trueLabel)}
+    </span>
+  )
+}
+
 export default async function LocationPage({ params }: Props) {
   const { state: stateSlug, city: citySlug, slug } = await params
-  const [location, nearby] = await Promise.all([
+  const [location, nearby, reviews] = await Promise.all([
     getLocationBySlug(stateSlug, citySlug, slug),
-    getNearbyLocations(stateSlug, slug, 4),
+    getNearbyLocations(stateSlug, slug, 3),
+    getLocationBySlug(stateSlug, citySlug, slug).then((loc) =>
+      loc ? getReviewsForLocation(loc.id) : []
+    ),
   ])
 
   if (!location) notFound()
 
   const pageUrl = `${SITE_URL}/locations/${stateSlug}/${citySlug}/${slug}`
+  const allImages = [location.cover_photo, ...(location.images ?? [])].filter(Boolean) as string[]
+
+  const breadcrumbItems = [
+    { name: 'Home', url: SITE_URL },
+    { name: 'Locations', url: `${SITE_URL}/locations` },
+    { name: location.state, url: `${SITE_URL}/locations/${stateSlug}` },
+    ...(location.city ? [{ name: location.city, url: `${SITE_URL}/locations/${stateSlug}/${citySlug}` }] : []),
+    { name: location.name, url: pageUrl },
+  ]
 
   return (
     <>
       <LocationSchema location={location} />
-      <BreadcrumbSchema items={[
-        { name: 'Home', url: SITE_URL },
-        { name: 'Locations', url: `${SITE_URL}/locations` },
-        { name: location.state, url: `${SITE_URL}/locations/${stateSlug}` },
-        ...(location.city ? [{ name: location.city, url: `${SITE_URL}/locations/${stateSlug}/${citySlug}` }] : []),
-        { name: location.name, url: pageUrl },
-      ]} />
+      <FaqSchema faqs={location.faq ?? []} />
+      <BreadcrumbSchema items={breadcrumbItems} />
 
-      {/* Hero image or gradient */}
-      <section className="relative bg-ruby-gradient py-14 overflow-hidden">
-        {location.images?.[0] && (
+      {/* ── Cover photo hero ── */}
+      <section className="relative bg-ruby-gradient min-h-[380px] flex items-end overflow-hidden">
+        {location.cover_photo && (
           <div className="absolute inset-0">
-            <img src={location.images[0]} alt={location.name} className="w-full h-full object-cover opacity-25" />
+            <img src={location.cover_photo} alt={location.name} className="w-full h-full object-cover" />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-black/10" />
           </div>
         )}
-        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <Breadcrumb className="mb-6">
-            <BreadcrumbList className="text-white/70">
+
+        <div className="relative w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-10 pt-20">
+          {/* Breadcrumb */}
+          <Breadcrumb className="mb-5">
+            <BreadcrumbList className="text-white/65">
               <BreadcrumbItem><BreadcrumbLink href="/" className="hover:text-white">Home</BreadcrumbLink></BreadcrumbItem>
-              <BreadcrumbSeparator><ChevronRight className="w-4 h-4" /></BreadcrumbSeparator>
+              <BreadcrumbSeparator><ChevronRight className="w-3.5 h-3.5" /></BreadcrumbSeparator>
               <BreadcrumbItem>
-                <BreadcrumbLink href={`/locations/${stateSlug}`} className="hover:text-white">
-                  {location.state}
-                </BreadcrumbLink>
+                <BreadcrumbLink href={`/locations/${stateSlug}`} className="hover:text-white">{location.state}</BreadcrumbLink>
               </BreadcrumbItem>
               {location.city && (
                 <>
-                  <BreadcrumbSeparator><ChevronRight className="w-4 h-4" /></BreadcrumbSeparator>
+                  <BreadcrumbSeparator><ChevronRight className="w-3.5 h-3.5" /></BreadcrumbSeparator>
                   <BreadcrumbItem>
-                    <BreadcrumbLink href={`/locations/${stateSlug}/${citySlug}`} className="hover:text-white">
-                      {location.city}
-                    </BreadcrumbLink>
+                    <BreadcrumbLink href={`/locations/${stateSlug}/${citySlug}`} className="hover:text-white">{location.city}</BreadcrumbLink>
                   </BreadcrumbItem>
                 </>
               )}
-              <BreadcrumbSeparator><ChevronRight className="w-4 h-4" /></BreadcrumbSeparator>
+              <BreadcrumbSeparator><ChevronRight className="w-3.5 h-3.5" /></BreadcrumbSeparator>
               <BreadcrumbItem><BreadcrumbPage className="text-white">{location.name}</BreadcrumbPage></BreadcrumbItem>
             </BreadcrumbList>
           </Breadcrumb>
 
+          {/* Badges row */}
           <div className="flex flex-wrap gap-2 mb-4">
+            {location.primary_category && (
+              <span className={cn('text-xs font-semibold px-3 py-1 rounded-full border', CATEGORY_COLORS[location.primary_category])}>
+                {CATEGORY_LABELS[location.primary_category]}
+              </span>
+            )}
             {location.difficulty && (
-              <span className={`text-xs font-semibold px-3 py-1 rounded-full border ${difficultyColor[location.difficulty]}`}>
+              <span className={cn('text-xs font-semibold px-3 py-1 rounded-full border', difficultyColor[location.difficulty])}>
                 {DIFFICULTY_LABELS[location.difficulty]}
               </span>
             )}
-            {location.access_type && (
-              <span className="text-xs font-semibold px-3 py-1 rounded-full bg-white/15 border border-white/30 text-white">
-                {ACCESS_LABELS[location.access_type]}
+            {location.beginner_friendly && (
+              <span className="text-xs font-semibold px-3 py-1 rounded-full bg-sky-100 text-sky-700 border border-sky-200">
+                Beginner Friendly
+              </span>
+            )}
+            {location.family_friendly && (
+              <span className="text-xs font-semibold px-3 py-1 rounded-full bg-purple-100 text-purple-700 border border-purple-200">
+                Family Friendly
               </span>
             )}
           </div>
 
-          <h1 className="font-heading text-4xl md:text-5xl font-bold text-white mb-3">
+          <h1 className="font-heading text-4xl md:text-5xl font-bold text-white mb-3 leading-tight">
             {location.name}
           </h1>
 
-          <div className="flex items-center gap-1.5 text-white/75 text-base">
-            <MapPin className="w-4 h-4" />
-            <span>
-              {location.city ? `${location.city}, ` : ''}{location.state}
+          {/* Alt names */}
+          {location.alternative_names?.length > 0 && (
+            <p className="text-white/60 text-sm mb-2 italic">
+              Also known as: {location.alternative_names.join(', ')}
+            </p>
+          )}
+
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-white/75 text-sm">
+            <span className="flex items-center gap-1.5">
+              <MapPin className="w-3.5 h-3.5" />
+              {[location.city, location.county ? location.county + ' County' : null, location.state].filter(Boolean).join(', ')}
             </span>
+            {location.nearest_city && (
+              <span className="flex items-center gap-1.5">
+                <Mountain className="w-3.5 h-3.5" />
+                {location.nearest_city_distance ? `${location.nearest_city_distance} mi from ` : 'Near '}{location.nearest_city}
+              </span>
+            )}
+            {location.rating_count > 0 && (
+              <span className="flex items-center gap-1">
+                <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
+                {location.rating_average.toFixed(1)} ({location.rating_count})
+              </span>
+            )}
           </div>
         </div>
       </section>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      {/* ── Main body ── */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
-          {/* Main content */}
-          <div className="lg:col-span-2 space-y-8">
+
+          {/* ── Left: main content ── */}
+          <div className="lg:col-span-2 space-y-10">
+
             {/* About */}
             {location.description && (
-              <div>
-                <h2 className="font-heading text-2xl font-bold text-foreground mb-4">About This Location</h2>
-                <div className="prose prose-stone max-w-none text-foreground/80 leading-relaxed">
-                  {location.description.split('\n').map((para, i) => (
-                    <p key={i}>{para}</p>
-                  ))}
+              <section>
+                <h2 className="font-heading text-2xl font-bold text-foreground mb-4">
+                  About {location.name}
+                </h2>
+                <div className="text-foreground/80 leading-relaxed space-y-3">
+                  {location.description.split('\n').map((para, i) => <p key={i}>{para}</p>)}
                 </div>
-              </div>
+              </section>
             )}
 
-            {/* What to find */}
+            {/* What you'll find */}
             {location.gem_types?.length > 0 && (
-              <div>
+              <section>
                 <h2 className="font-heading text-2xl font-bold text-foreground mb-4">
-                  What You Can Find Here
+                  What You&apos;ll Find at {location.name}
                 </h2>
+                {location.short_description && (
+                  <p className="text-foreground/75 mb-4 leading-relaxed">{location.short_description}</p>
+                )}
                 <div className="flex flex-wrap gap-2">
                   {location.gem_types.map((gem) => (
                     <Link
@@ -155,101 +234,322 @@ export default async function LocationPage({ params }: Props) {
                     </Link>
                   ))}
                 </div>
-              </div>
+              </section>
             )}
 
-            {/* Directions */}
-            {location.directions && (
-              <div>
-                <h2 className="font-heading text-2xl font-bold text-foreground mb-4">
-                  Getting There
-                </h2>
-                <div className="bg-cream-100 rounded-xl p-5 border border-border">
-                  <div className="flex items-start gap-3">
-                    <Navigation className="w-5 h-5 text-primary mt-0.5 shrink-0" />
-                    <p className="text-foreground/80 leading-relaxed text-sm">{location.directions}</p>
+            <Separator />
+
+            {/* Map + How to get there */}
+            <section>
+              <h2 className="font-heading text-2xl font-bold text-foreground mb-5">
+                How to Get to {location.name}
+              </h2>
+
+              {location.latitude && location.longitude && (
+                <div className="mb-5">
+                  <LocationMap lat={location.latitude} lon={location.longitude} name={location.name} />
+                </div>
+              )}
+
+              {location.written_directions && (
+                <div className="bg-cream-100 border border-border rounded-xl p-5 mb-4">
+                  <h3 className="font-semibold text-foreground text-sm mb-2 flex items-center gap-2">
+                    <MapPin className="w-4 h-4 text-primary" /> Written Directions from Nearest Highway
+                  </h3>
+                  <p className="text-sm text-foreground/80 leading-relaxed">{location.written_directions}</p>
+                </div>
+              )}
+
+              {location.directions && location.written_directions !== location.directions && (
+                <div className="bg-muted rounded-xl p-4 mb-4">
+                  <p className="text-sm text-foreground/75 leading-relaxed">{location.directions}</p>
+                </div>
+              )}
+
+              <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+                {location.vehicle_required && (
+                  <div className="flex items-start gap-2 p-3 rounded-lg border border-border bg-card text-sm">
+                    <Car className="w-4 h-4 text-primary mt-0.5 shrink-0" />
+                    <div>
+                      <div className="text-xs text-muted-foreground mb-0.5">Vehicle</div>
+                      <div className="font-medium text-foreground">{VEHICLE_LABELS[location.vehicle_required]}</div>
+                    </div>
                   </div>
-                  {location.latitude && location.longitude && (
-                    <div className="mt-3 pt-3 border-t border-border">
-                      <p className="text-xs text-muted-foreground">
-                        GPS: {location.latitude.toFixed(6)}, {location.longitude.toFixed(6)}
-                      </p>
+                )}
+                {location.road_conditions && (
+                  <div className="col-span-2 sm:col-span-2 flex items-start gap-2 p-3 rounded-lg border border-border bg-card text-sm">
+                    <Info className="w-4 h-4 text-primary mt-0.5 shrink-0" />
+                    <div>
+                      <div className="text-xs text-muted-foreground mb-0.5">Road Conditions</div>
+                      <div className="font-medium text-foreground">{location.road_conditions}</div>
+                    </div>
+                  </div>
+                )}
+                {location.parking_notes && (
+                  <div className="col-span-full flex items-start gap-2 p-3 rounded-lg border border-border bg-card text-sm">
+                    <Info className="w-4 h-4 text-muted-foreground mt-0.5 shrink-0" />
+                    <div>
+                      <div className="text-xs text-muted-foreground mb-0.5">Parking</div>
+                      <div className="text-foreground/80">{location.parking_notes}</div>
+                    </div>
+                  </div>
+                )}
+              </div>
+            </section>
+
+            <Separator />
+
+            {/* Rules & Access */}
+            <section>
+              <h2 className="font-heading text-2xl font-bold text-foreground mb-5">
+                Rockhounding at {location.name}: Rules &amp; Access
+              </h2>
+
+              <div className="space-y-4">
+                {location.primary_category && (
+                  <div className="flex items-start gap-3 p-4 rounded-xl border border-border bg-card">
+                    <FileText className="w-5 h-5 text-primary mt-0.5 shrink-0" />
+                    <div>
+                      <div className="text-sm font-semibold text-foreground mb-0.5">Land Type</div>
+                      <div className="text-sm text-foreground/75">{CATEGORY_LABELS[location.primary_category]}</div>
+                    </div>
+                  </div>
+                )}
+
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                  <div className={cn(
+                    'flex items-start gap-3 p-4 rounded-xl border',
+                    location.permit_required ? 'border-amber-200 bg-amber-50' : 'border-emerald-200 bg-emerald-50'
+                  )}>
+                    <AlertTriangle className={cn('w-4 h-4 mt-0.5 shrink-0', location.permit_required ? 'text-amber-600' : 'text-emerald-600')} />
+                    <div>
+                      <div className="text-sm font-semibold text-foreground mb-0.5">Permit Required</div>
+                      <div className="text-sm">{location.permit_required ? 'Yes — permit required' : 'No permit needed'}</div>
+                      {location.permit_link && (
+                        <a href={location.permit_link} target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline mt-1 block">
+                          Get permit →
+                        </a>
+                      )}
+                    </div>
+                  </div>
+
+                  {location.fee_amount != null && (
+                    <div className="flex items-start gap-3 p-4 rounded-xl border border-border bg-card">
+                      <Info className="w-4 h-4 text-primary mt-0.5 shrink-0" />
+                      <div>
+                        <div className="text-sm font-semibold text-foreground mb-0.5">Entry Fee</div>
+                        <div className="text-sm text-foreground/75">
+                          {location.fee_amount === 0 ? 'Free' : `$${location.fee_amount} per person`}
+                        </div>
+                      </div>
                     </div>
                   )}
                 </div>
+
+                {location.collection_rules && (
+                  <div className="p-4 rounded-xl border border-border bg-card">
+                    <div className="text-sm font-semibold text-foreground mb-2">Collection Rules</div>
+                    <p className="text-sm text-foreground/75 leading-relaxed">{location.collection_rules}</p>
+                  </div>
+                )}
+
+                {location.quantity_limits && (
+                  <div className="flex items-start gap-3 p-4 rounded-xl border border-amber-200 bg-amber-50">
+                    <AlertTriangle className="w-4 h-4 text-amber-600 mt-0.5 shrink-0" />
+                    <div>
+                      <div className="text-sm font-semibold text-foreground mb-0.5">Quantity Limits</div>
+                      <p className="text-sm text-foreground/75">{location.quantity_limits}</p>
+                    </div>
+                  </div>
+                )}
+
+                {location.commercial_use_allowed && (
+                  <div className="flex items-start gap-3 p-4 rounded-xl border border-blue-200 bg-blue-50">
+                    <Info className="w-4 h-4 text-blue-600 mt-0.5 shrink-0" />
+                    <div>
+                      <div className="text-sm font-semibold text-foreground mb-0.5">Commercial Collection</div>
+                      <p className="text-sm text-foreground/75">Commercial use and resale are permitted at this location.</p>
+                    </div>
+                  </div>
+                )}
+
+                {location.rules && (
+                  <div className="flex items-start gap-3 p-4 rounded-xl border border-ruby-100 bg-ruby-50">
+                    <AlertTriangle className="w-4 h-4 text-primary mt-0.5 shrink-0" />
+                    <div>
+                      <div className="text-sm font-semibold text-foreground mb-0.5">Additional Rules</div>
+                      <p className="text-sm text-foreground/75 leading-relaxed">{location.rules}</p>
+                    </div>
+                  </div>
+                )}
               </div>
-            )}
+            </section>
+
+            <Separator />
 
             {/* Tips */}
             {location.tips && (
-              <div>
+              <section>
                 <h2 className="font-heading text-2xl font-bold text-foreground mb-4">
-                  Rockhounding Tips
+                  Tips for Rockhounding at {location.name}
                 </h2>
-                <div className="bg-amber-50 border border-amber-100 rounded-xl p-5">
+                <div className="bg-amber-50 border border-amber-100 rounded-xl p-6">
                   <p className="text-foreground/80 leading-relaxed text-sm">{location.tips}</p>
                 </div>
-              </div>
+              </section>
             )}
 
-            {/* Rules */}
-            {location.rules && (
-              <div>
-                <h2 className="font-heading text-2xl font-bold text-foreground mb-4">
-                  Rules & Regulations
-                </h2>
-                <div className="flex items-start gap-3 bg-ruby-50 border border-ruby-100 rounded-xl p-5">
-                  <AlertTriangle className="w-5 h-5 text-primary mt-0.5 shrink-0" />
-                  <p className="text-foreground/80 leading-relaxed text-sm">{location.rules}</p>
-                </div>
-              </div>
+            {/* Terrain notes */}
+            {location.terrain_notes && (
+              <section>
+                <h2 className="font-heading text-xl font-bold text-foreground mb-3">Terrain &amp; Conditions</h2>
+                <p className="text-foreground/75 leading-relaxed text-sm">{location.terrain_notes}</p>
+              </section>
             )}
+
+            {/* History */}
+            {location.history && (
+              <>
+                <Separator />
+                <section>
+                  <h2 className="font-heading text-2xl font-bold text-foreground mb-4">
+                    History of {location.name}
+                  </h2>
+                  <div className="text-foreground/80 leading-relaxed space-y-3 text-sm">
+                    {location.history.split('\n').map((p, i) => <p key={i}>{p}</p>)}
+                  </div>
+                </section>
+              </>
+            )}
+
+            <Separator />
+
+            {/* Photo gallery */}
+            {allImages.length > 1 && (
+              <>
+                <PhotoGallery images={allImages} locationName={location.name} />
+                <Separator />
+              </>
+            )}
+
+            {/* FAQ */}
+            {location.faq?.length > 0 && (
+              <>
+                <FaqSection faqs={location.faq} locationName={location.name} />
+                <Separator />
+              </>
+            )}
+
+            {/* Reviews */}
+            <ReviewSection
+              locationId={location.id}
+              locationName={location.name}
+              reviews={reviews}
+              ratingAverage={location.rating_average}
+              ratingCount={location.rating_count}
+            />
           </div>
 
-          {/* Sidebar */}
+          {/* ── Right: sidebar ── */}
           <div className="space-y-5">
+
             {/* Quick facts */}
-            <div className="rounded-xl border border-border bg-card p-5">
-              <h3 className="font-heading font-semibold text-foreground mb-4">Quick Facts</h3>
-              <dl className="space-y-3">
+            <div className="rounded-xl border border-border bg-card p-5 sticky top-20">
+              <h3 className="font-heading font-semibold text-foreground mb-4 text-base">Quick Facts</h3>
+              <dl className="space-y-3 text-sm">
                 {location.difficulty && (
-                  <div className="flex justify-between text-sm">
+                  <div className="flex justify-between">
                     <dt className="text-muted-foreground flex items-center gap-1.5"><Mountain className="w-3.5 h-3.5" /> Difficulty</dt>
-                    <dd className="font-medium text-foreground">{DIFFICULTY_LABELS[location.difficulty]}</dd>
+                    <dd className="font-medium">{DIFFICULTY_LABELS[location.difficulty]}</dd>
                   </div>
                 )}
-                {location.access_type && (
-                  <div className="flex justify-between text-sm">
-                    <dt className="text-muted-foreground flex items-center gap-1.5"><MapPin className="w-3.5 h-3.5" /> Access</dt>
-                    <dd className="font-medium text-foreground">{ACCESS_LABELS[location.access_type]}</dd>
-                  </div>
-                )}
-                {location.fee_amount && (
-                  <div className="flex justify-between text-sm">
-                    <dt className="text-muted-foreground">Entry Fee</dt>
-                    <dd className="font-medium text-foreground">${location.fee_amount}/person</dd>
+                {location.primary_category && (
+                  <div className="flex justify-between">
+                    <dt className="text-muted-foreground flex items-center gap-1.5"><MapPin className="w-3.5 h-3.5" /> Land Type</dt>
+                    <dd className="font-medium text-right max-w-[55%]">{CATEGORY_LABELS[location.primary_category]}</dd>
                   </div>
                 )}
                 {location.best_season && (
-                  <div className="flex justify-between text-sm">
+                  <div className="flex justify-between">
                     <dt className="text-muted-foreground flex items-center gap-1.5"><Clock className="w-3.5 h-3.5" /> Best Season</dt>
-                    <dd className="font-medium text-foreground">{location.best_season}</dd>
+                    <dd className="font-medium">{location.best_season}</dd>
+                  </div>
+                )}
+                {location.vehicle_required && (
+                  <div className="flex justify-between">
+                    <dt className="text-muted-foreground flex items-center gap-1.5"><Car className="w-3.5 h-3.5" /> Vehicle</dt>
+                    <dd className="font-medium text-right max-w-[55%]">{VEHICLE_LABELS[location.vehicle_required]}</dd>
+                  </div>
+                )}
+                {location.cell_service && (
+                  <div className="flex justify-between">
+                    <dt className="text-muted-foreground flex items-center gap-1.5"><Signal className="w-3.5 h-3.5" /> Cell Service</dt>
+                    <dd className="font-medium">{CELL_LABELS[location.cell_service]}</dd>
+                  </div>
+                )}
+                {location.fee_amount != null && (
+                  <div className="flex justify-between">
+                    <dt className="text-muted-foreground">Entry Fee</dt>
+                    <dd className="font-medium">{location.fee_amount === 0 ? 'Free' : `$${location.fee_amount}`}</dd>
+                  </div>
+                )}
+                {location.permit_required != null && (
+                  <div className="flex justify-between">
+                    <dt className="text-muted-foreground">Permit</dt>
+                    <dd className={cn('font-medium', location.permit_required ? 'text-amber-600' : 'text-emerald-600')}>
+                      {location.permit_required ? 'Required' : 'Not Required'}
+                    </dd>
+                  </div>
+                )}
+                {location.latitude && location.longitude && (
+                  <div className="pt-2 border-t border-border">
+                    <dt className="text-muted-foreground text-xs mb-1">GPS Coordinates</dt>
+                    <dd className="font-mono text-xs text-foreground">{location.latitude.toFixed(6)}, {location.longitude.toFixed(6)}</dd>
                   </div>
                 )}
               </dl>
+
+              {/* Visitor flags */}
+              <div className="mt-4 pt-4 border-t border-border flex flex-wrap gap-2">
+                <BoolBadge value={location.beginner_friendly} trueLabel="Beginner OK" falseLabel="Not for Beginners" />
+                <BoolBadge value={location.family_friendly} trueLabel="Family Friendly" />
+                <BoolBadge value={location.dog_friendly} trueLabel="Dog Friendly" />
+              </div>
+
+              {/* Hazards */}
+              {location.hazards?.length > 0 && (
+                <div className="mt-4 pt-4 border-t border-border">
+                  <div className="text-xs font-semibold text-foreground mb-2 flex items-center gap-1.5">
+                    <AlertTriangle className="w-3.5 h-3.5 text-amber-500" /> Hazards
+                  </div>
+                  <div className="flex flex-wrap gap-1.5">
+                    {location.hazards.map((h) => (
+                      <span key={h} className="text-xs bg-amber-50 text-amber-700 border border-amber-100 px-2 py-0.5 rounded-full">
+                        {HAZARD_LABELS[h] ?? h}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Nearest services */}
+              {location.nearest_services && (
+                <div className="mt-4 pt-4 border-t border-border">
+                  <div className="text-xs font-semibold text-foreground mb-1">Nearest Services</div>
+                  <p className="text-xs text-muted-foreground">{location.nearest_services}</p>
+                </div>
+              )}
             </div>
 
             {/* State link */}
-            <div className="rounded-xl border border-border bg-ruby-50 p-5 text-center">
-              <p className="text-sm text-muted-foreground mb-3">
-                Explore more sites in {location.state}
-              </p>
+            <div className="rounded-xl border border-ruby-100 bg-ruby-50 p-5 text-center">
+              <p className="text-sm text-muted-foreground mb-3">Explore more sites in {location.state}</p>
               <Link
                 href={`/locations/${stateSlug}`}
                 className="inline-flex items-center gap-2 bg-primary text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-ruby-700 transition-colors"
               >
                 <MapPin className="w-3.5 h-3.5" />
-                View {location.state} Locations
+                All {location.state} Locations
               </Link>
             </div>
           </div>
@@ -262,7 +562,7 @@ export default async function LocationPage({ params }: Props) {
             <h2 className="font-heading text-2xl font-bold text-foreground mb-6">
               More Rockhounding in {location.state}
             </h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
               {nearby.map((loc) => (
                 <LocationCard key={loc.id} location={loc} />
               ))}
