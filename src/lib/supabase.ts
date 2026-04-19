@@ -151,6 +151,19 @@ export async function uploadReviewPhoto(
   return publicUrl
 }
 
+export async function getLocationsByGemType(gemType: string, limit = 24): Promise<Location[]> {
+  const { data, error } = await supabase
+    .from('locations')
+    .select('*')
+    .contains('gem_types', [gemType])
+    .eq('published', true)
+    .order('featured', { ascending: false })
+    .order('name')
+    .limit(limit)
+  if (error) { console.error(error); return [] }
+  return data ?? []
+}
+
 export async function submitReview(review: {
   location_id: string
   author_name: string

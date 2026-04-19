@@ -26,9 +26,9 @@ export function LocationCard({ location, className }: LocationCardProps) {
       <Card className="h-full overflow-hidden border border-border hover:border-ruby-300 hover:shadow-lg transition-all duration-200 bg-card">
         {/* Image placeholder */}
         <div className="relative h-44 bg-gradient-to-br from-ruby-100 to-cream-100 overflow-hidden">
-          {location.images?.[0] ? (
+          {(location.cover_photo ?? location.images?.[0]) ? (
             <img
-              src={location.images[0]}
+              src={location.cover_photo ?? location.images[0]}
               alt={location.name}
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
             />
