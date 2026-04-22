@@ -52,10 +52,12 @@ export function NearbyStatesSection({ currentStateName, nearbyStates }: NearbySt
             </div>
 
             <div className="p-4">
-              <div className="flex items-center gap-1.5 text-xs text-muted-foreground mb-2">
-                <MapPin className="w-3.5 h-3.5 shrink-0" />
-                <span>{state.location_count} rockhounding site{state.location_count !== 1 ? 's' : ''}</span>
-              </div>
+              {state.location_count > 0 && (
+                <div className="flex items-center gap-1.5 text-xs text-muted-foreground mb-2">
+                  <MapPin className="w-3.5 h-3.5 shrink-0" />
+                  <span>{state.location_count} rockhounding site{state.location_count !== 1 ? 's' : ''}</span>
+                </div>
+              )}
 
               {state.featured_gems?.length > 0 && (
                 <p className="text-xs text-muted-foreground mb-3 line-clamp-1">

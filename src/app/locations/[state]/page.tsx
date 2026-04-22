@@ -109,9 +109,22 @@ export default async function StatePage({ params }: Props) {
 
   const faqs = generateStateFaqs(stateInfo.name, locations)
   const nearbyStateSlugs = getNearbyStateInfo(stateSlug, 6)
-  const nearbyStatesData = nearbyStateSlugs
-    .map((si) => allStatesData.find((s) => s.slug === si.slug))
-    .filter(Boolean) as typeof allStatesData
+  const nearbyStatesData = nearbyStateSlugs.map((si) => {
+    const dbData = allStatesData.find((s) => s.slug === si.slug)
+    return dbData ?? {
+      id: si.slug,
+      name: si.name,
+      slug: si.slug,
+      abbreviation: si.abbreviation,
+      short_description: null,
+      description: null,
+      location_count: 0,
+      image_url: null,
+      meta_title: null,
+      meta_description: null,
+      featured_gems: [],
+    }
+  })
 
   const description = stateData?.description
     ?? stateData?.short_description
@@ -189,7 +202,7 @@ export default async function StatePage({ params }: Props) {
           .map((l) => ({ id: l.id, name: l.name, slug: l.slug, latitude: l.latitude!, longitude: l.longitude! }))
         return mapLocations.length > 0 ? (
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-            <div className="rounded-2xl overflow-hidden border border-border shadow-sm" style={{ height: '380px' }}>
+            <div className="rounded-2xl overflow-hidden border border-border shadow-sm" style={{ height: '380px', isolation: 'isolate', position: 'relative', zIndex: 0 }}>
               <StateMapLoader locations={mapLocations} />
             </div>
             <p className="text-xs text-muted-foreground mt-2 text-center">
@@ -244,7 +257,7 @@ export default async function StatePage({ params }: Props) {
                 <section
                   key={citySection.city_slug}
                   id={`rockhounding-in-${citySection.city_slug}`}
-                  className="scroll-mt-6"
+                  className="scroll-mt-24"
                 >
                   <div className="mb-8">
                     <h2 className="font-heading text-2xl sm:text-3xl font-bold text-foreground mb-1">
@@ -272,7 +285,7 @@ export default async function StatePage({ params }: Props) {
               ))}
 
               {uncategorized.length > 0 && (
-                <section id="rockhounding-in-other" className="scroll-mt-6">
+                <section id="rockhounding-in-other" className="scroll-mt-24">
                   <div className="mb-8">
                     <h2 className="font-heading text-2xl sm:text-3xl font-bold text-foreground mb-1">
                       Other Rockhounding Sites in {stateInfo.name}

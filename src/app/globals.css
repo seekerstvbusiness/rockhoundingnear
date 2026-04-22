@@ -3,6 +3,12 @@
 @import "shadcn/tailwind.css";
 @import "leaflet/dist/leaflet.css";
 
+/* Keep Leaflet controls inside the map stacking context so they don't overlap the sticky header */
+.leaflet-top,
+.leaflet-bottom {
+  z-index: 10 !important;
+}
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
