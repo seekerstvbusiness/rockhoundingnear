@@ -1,0 +1,99 @@
+{
+  "slug": "point-of-rocks-nm",
+  "name": "Point of Rocks",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Springer",
+  "city_slug": "springer",
+  "county": "Colfax",
+  "county_slug": "colfax",
+  "lat": 36.425121,
+  "lng": -104.151962,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Springer offering easy access to agate and jasper specimens. Personal use rockhounding on high-elevation New Mexico terrain with moderate slopes.",
+  "description": "Point of Rocks is a public BLM rockhounding destination in Colfax County, New Mexico, situated at 6,559 feet elevation on land managed by the Bureau of Land Management. This location offers visitors the opportunity to search for agate, chalcedony, jasper, and quartz specimens typical of the Raton Basin geology. The site features moderate slopes and is accessible to rockhounders of various skill levels seeking personal use collecting without commercial intent.\n\nThe area sits within a transition zone between the Great Plains and Rocky Mountain foothills, where Cenozoic volcanic and sedimentary activity created a diverse mineral assemblage. Silica-rich groundwater percolating through Tertiary volcanic deposits and sedimentary layers formed the chalcedony nodules and banded agates found in this region. The moderate elevation and exposure have created ideal conditions for both mineral formation and collecting accessibility.\n\nVisitors should expect mixed terrain with scattered rock outcrops and wash areas where material weathering and erosion expose fresh specimens. The moderate slope requires sturdy footwear and careful footing, but the terrain is generally negotiable for most able-bodied hikers. No special permits are required for personal use collection under FLPMA regulations, making this an excellent location for weekend rockhounding trips.\n\nThe best approach is to scan hillsides and washes for colorful banded material and translucent specimens. Look for the characteristic banding patterns in agates and the milky to honey-colored chalcedony that weathering exposes. This location rewards systematic searching and patience rather than heavy excavation.",
+  "history": "This area lies within the Raton Basin, a Laramide structural depression filled with Cretaceous sandstones and shales overlain by Tertiary volcanic rocks and pyroclastic deposits. Miocene volcanic activity and associated hydrothermal fluids created silica-rich solutions that precipitated within fractures and cavities to form the agate and chalcedony specimens found today, while ongoing weathering and erosion continue to expose fresh material at the surface.",
+  "tips": "Search wash bottoms and hillside exposures where erosion has concentrated weathered material; look for banded agate with distinct color patterns and translucent chalcedony nodules in cream, white, and honey tones. Bring a 5-gallon bucket and small chisel or pry bar to work material out of soft matrix, and plan to hike several hundred yards from the parking area to find the most productive spots. Examine recently exposed soil banks after seasonal rains, which typically reveal fresher specimens than surface scatters.",
+  "terrain_notes": "Elevation 6,559 feet with moderate slopes and mixed vegetation including pinyon, juniper, and grassland. Terrain is rocky with scattered outcrops and erosion washes. Walking distance from parking likely 0.25 to 0.5 miles to productive areas. Footing is uneven and requires sturdy footwear due to loose rock and exposed stone.",
+  "best_season": "May - October. Late spring through early fall provides dry conditions and comfortable temperatures at this elevation. Avoid winter months when snow may restrict access and summer monsoons (July-August) can cause flash flooding in washes.",
+  "written_directions": "From Springer, New Mexico, take US 56 northeast toward Raton for approximately 12 miles. Look for BLM land markers and turn right (southeast) onto a dirt road marked for public access in the Point of Rocks area. Continue on this dirt road approximately 1-2 miles to a small pullout or informal parking area. GPS coordinates 36.425121, -104.151962 will guide you to the main rockhounding zone. The last 1-2 miles may be rough depending on recent weather.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Dirt road, likely rough in places, may have washboard. High-clearance recommended after rain. Passenger vehicles may navigate in dry conditions but AWD preferable.",
+  "parking_notes": "Informal pullout area with space for 2-4 vehicles. No developed amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or heavy equipment use. Collect only loose material and small hand-portable specimens. Leave the site cleaner than you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "loose_rock",
+    "wildlife",
+    "heat"
+  ],
+  "nearest_services": "Springer, New Mexico - approximately 12-15 miles southwest. Gas, food, and water available. Raton, New Mexico - approximately 25 miles north for additional services.",
+  "accessibility_notes": "Relatively easy terrain accessible to most hikers with moderate fitness. Moderate slopes with uneven rocky footing requiring sturdy boots. Informal dirt parking area with short walking distance (0.25-0.5 miles) to productive collecting zones. Not wheelchair accessible. Some climbing over low rock outcrops may be necessary.",
+  "alternative_names": [],
+  "nearest_city": "Springer",
+  "nearest_city_distance": 13,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/point-of-rocks-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/point-of-rocks-nm/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding at Point of Rocks near Springer, New Mexico?",
+      "answer": "Point of Rocks is known for agate, chalcedony, jasper, and quartz specimens. The banded agates typically display cream, white, brown, and rust banding patterns, while chalcedony nodules range from milky white to honey-colored. Small to medium-sized specimens are most common in the washes and hillside areas."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Point of Rocks BLM land?",
+      "answer": "No permit is required for personal use rockhounding on BLM land at Point of Rocks. Collection is allowed under FLPMA regulations for non-commercial purposes. You are limited to 25 lbs per day and must leave excavation equipment at home."
+    },
+    {
+      "question": "What is the best season for rockhounding at Point of Rocks, New Mexico?",
+      "answer": "May through October is optimal. Spring and fall provide comfortable temperatures at the 6,559-foot elevation, while winter brings snow that restricts access and summer monsoons (July-August) create flash flood hazards in washes. Dry conditions in May and September-October make collecting easiest."
+    },
+    {
+      "question": "How do I get to Point of Rocks rockhounding site from Springer?",
+      "answer": "From Springer, take US 56 northeast toward Raton approximately 12 miles. Watch for BLM land markers and turn right onto a dirt access road in the Point of Rocks area. Drive 1-2 miles on rough dirt road to the parking area. A high-clearance or AWD vehicle is recommended, especially after rain."
+    },
+    {
+      "question": "Is Point of Rocks rockhounding site good for beginners and families?",
+      "answer": "Yes, Point of Rocks is beginner and family-friendly. The terrain is relatively easy with moderate slopes, no permit required, and no commercial restrictions. Children ages 6 and up can participate. The informal setting and short hikes from parking make it ideal for introducing rockhounding basics."
+    },
+    {
+      "question": "What tools and safety gear do I need for rockhounding at Point of Rocks?",
+      "answer": "Bring sturdy hiking boots for rocky terrain, a small chisel or pry bar for extracting specimens, a 5-gallon bucket, sunscreen, and plenty of water. Check for snakes in washes before placing hands. Dress in layers as temperatures can be cool even in May and September at 6,559 feet elevation."
+    }
+  ],
+  "meta_title": "Point of Rocks Rockhounding - New Mexico",
+  "meta_description": "Hunt agate, chalcedony, and jasper at Point of Rocks BLM land near Springer, NM. No permit needed, 25 lb daily limit. Easy access for families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "written_directions specifics",
+    "road_conditions detail",
+    "parking_notes capacity"
+  ],
+  "enriched_at": "2026-04-22T09:50:10.171Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:39.494Z"
+}

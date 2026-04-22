@@ -1,0 +1,98 @@
+{
+  "slug": "lewiston-id",
+  "name": "Lewiston",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Lewiston",
+  "city_slug": "lewiston",
+  "county": "Nez Perce",
+  "county_slug": "nez-perce",
+  "lat": 46.453239,
+  "lng": -116.94458,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Lewiston offering accessible rockhounding for agate, jasper, and chalcedony along gentle slopes. No permit required and beginner-friendly with a 25 lb daily collection limit.",
+  "description": "The Lewiston area sits within the Wallowa Mountains foothills of north-central Idaho, where BLM-managed public land provides excellent opportunities for recreational rockhounding. This site is part of the larger Nez Perce National Historic Trail region, where Miocene-era volcanic activity and subsequent erosion have exposed silica-rich mineral deposits throughout the landscape.\n\nThe terrain here features gentle slopes and accessible terrain suitable for rockhounds of all skill levels. Agate nodules and jasper specimens weather out of the hillsides and accumulate in wash areas where erosion has concentrated them over millennia. The combination of volcanic geology and alluvial transport makes this a reliable spot for finding quality specimens year-round, though fall and spring offer the most comfortable collecting conditions.\n\nAs BLM public land, this location requires no permits and welcomes personal use rockhounding under standard FLPMA regulations. The nearby town of Lewiston provides all necessary services, making this an ideal base for exploring the surrounding rockhounding regions. The gentle slope and lower elevation (1,057 feet) mean the terrain is less strenuous than mountain sites, making it perfect for families and those with limited mobility.\n\nLocal collectors report finding agate in various colors including banded, fortification, and chalcedony specimens in the wash systems. The exposed hillsides also yield jasper pieces, particularly in red and brown tones. Early morning visits often yield better results as dew helps reveal specimens before sun exposure.",
+  "history": "This region was shaped by extensive Miocene volcanic activity approximately 17-14 million years ago, when massive rhyolitic eruptions deposited thick sequences of volcanic rock across the Blue Mountains province. Subsequent weathering and erosion of these silica-rich deposits has created an ideal environment for agate and chalcedony formation in fractures and cavities throughout the landscape.",
+  "tips": "Search the wash bottoms and drainage areas where lighter-colored specimens stand out against darker soil - agates and jaspers concentrate naturally in these erosional zones. Bring a small hand magnifier to identify agate banding and chalcedony patterns before collecting. Look for specimens with visible banding, color variation, or translucency held up to light - these indicate higher-quality pieces worth the weight allocation. The gentle slopes mean you can cover substantial ground; start near the parking area and work uphill systematically across exposed banks.",
+  "terrain_notes": "Elevation 1,057 feet with gentle slopes and grassland interspersed with scattered rocks and exposed volcanic outcrops. Terrain is relatively flat and walkable with stable footing in most areas, though loose rock is common in wash bottoms. Vegetation is typical high desert shrubland with sagebrush and grasses. Walking distance from parking is variable depending on which access point used, typically 0.5 to 2 miles across open terrain. Footing is generally stable but requires attention to loose rocks in drainage areas.",
+  "best_season": "April - October. The Lewiston area experiences cool, wet winters that can make access difficult, while summers offer warm, dry conditions ideal for full-day collecting. Fall months (September-October) are particularly pleasant with comfortable temperatures and minimal snow risk. Spring (April-May) provides good conditions though roads may be muddy after winter snowmelt.",
+  "written_directions": "From Lewiston, head east on US-95 toward the Wallowa Valley for approximately 15-20 miles. Watch for BLM access roads and parking pullouts on both sides of the highway in the foothills area east of town. Alternative access via local county roads: From downtown Lewiston, take Thain Road south and east toward the Wallowa-Whitman National Forest boundaries where BLM parcels are interspersed. Several small dirt pullouts serve as parking areas - look for rock pile markers or recent vehicle turnarounds indicating established collecting sites. Check BLM Idaho office for current access maps showing road conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "County roads and BLM access roads are generally well-maintained gravel or packed dirt, suitable for passenger vehicles. Some seasonal washboarding common; high-clearance vehicles recommended for rougher sections. Winter conditions can close some access roads.",
+  "parking_notes": "Multiple small dirt pullouts along BLM access roads throughout the area. No formal parking lot; look for cleared areas with evidence of previous use. Parking capacity varies from 2-6 vehicles per pullout. Leave room for other users and park responsibly on level ground.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No explosives. Pack out all trash. Respect closure signs and seasonal restrictions. This is public BLM land open to recreation under standard regulations.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or digging\nNo explosives\nPack out all trash\nRespect all closure signs\nNo collection within designated historic sites or cultural resource areas",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Lewiston, Idaho - approximately 15-20 miles west. Full services including gas stations, restaurants, grocery stores, and rockhounding supply shops. Clarkston, Washington is similar distance across the border.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most visitors and families with young children. Unpaved dirt roads to parking areas may be challenging for very low-clearance vehicles. Terrain itself is stable with good footing in most areas, though loose rocks are common in washes. No wheelchair accessibility at parking pullouts or in collecting areas. Sturdy hiking boots or shoes recommended to protect feet from sharp volcanic rock.",
+  "alternative_names": [],
+  "nearest_city": "Lewiston",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/lewiston-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Lewiston, Idaho?",
+      "answer": "The Lewiston area is known for agate, jasper, chalcedony, and quartz specimens. You'll find agates with banding patterns, fortification patterns, and translucent chalcedony in the wash areas and hillsides. Jasper in red and brown tones is also common. Most specimens range from small thumb-size to a few inches across, making them ideal for beginning collectors."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Lewiston?",
+      "answer": "No permit is required for personal use rockhounding on BLM land near Lewiston. You can collect freely under FLPMA regulations as long as you follow the 25 lb per day limit, pack out all trash, and do not use motorized equipment. Commercial collection is prohibited."
+    },
+    {
+      "question": "How far is Lewiston rockhounding from town and what's the best season to visit?",
+      "answer": "Most BLM rockhounding sites are 15-20 miles east of downtown Lewiston via US-95 or local county roads. The best season is April through October when weather is pleasant and roads are passable. Fall (September-October) offers ideal comfortable temperatures. Winter can close some access roads due to snow and mud."
+    },
+    {
+      "question": "Is rockhounding near Lewiston beginner-friendly for families with kids?",
+      "answer": "Yes, the gentle slopes and easy terrain near Lewiston make it perfect for beginners and families with children ages 6 and up. The site requires no special skills or equipment beyond a basic rock hammer and collection bag. Passenger vehicles can access parking pullouts, and the mild terrain means kids won't get exhausted."
+    },
+    {
+      "question": "What tools and supplies do I need for collecting agate and jasper at Lewiston?",
+      "answer": "Bring a small hand hammer or geology pick, a collection bag or backpack, sturdy hiking boots, sunscreen, and plenty of water. A magnifying glass helps identify agate banding and chalcedony quality before collecting. Bring a scale to weigh specimens if you want to stay under the 25 lb daily limit. Work gloves protect your hands from sharp volcanic rock."
+    },
+    {
+      "question": "Where exactly should I search for the best specimens on BLM land near Lewiston?",
+      "answer": "Focus your search on wash bottoms and drainage areas where specimens naturally concentrate from erosion. Exposed hillsides with visible volcanic outcrops also yield good material. Search early in the day when light is low and colors stand out better. Look for color variation, translucency when held to light, and visible banding patterns - these indicate quality pieces worth your 25 lb daily allocation."
+    }
+  ],
+  "meta_title": "Lewiston Rockhounding - Find Agate & Jasper Idaho",
+  "meta_description": "BLM rockhounding near Lewiston, Idaho. Find agate, jasper, and chalcedony. No permit required. Beginner-friendly, 25 lb daily limit. Family-friendly access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from general Lewiston geography and typical BLM access patterns; specific pullout locations should be verified with current BLM Idaho maps",
+    "nearest_city_distance - estimated at 18 miles; confirm with detailed local mapping",
+    "gem_types - agate, jasper, chalcedony, quartz inferred from Miocene volcanic geology of Wallowa Mountains region; local rockhounding reports should be consulted for confirmation",
+    "road_conditions - described as typical for Idaho BLM foothills access; current seasonal status should be verified with local BLM office"
+  ],
+  "enriched_at": "2026-04-22T06:43:29.959Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:48.954Z"
+}

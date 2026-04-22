@@ -1,0 +1,101 @@
+{
+  "slug": "white-pine-county-nv",
+  "name": "White Pine County",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Ely",
+  "city_slug": "ely",
+  "county": "White Pine",
+  "county_slug": "white-pine",
+  "lat": 39.760114,
+  "lng": -115.517989,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper",
+    "Topaz"
+  ],
+  "short_description": "BLM public land in Nevada's high desert offering free rockhounding for quartz, agate, and chalcedony. Personal use collecting with no permit required on expansive Great Basin terrain.",
+  "description": "White Pine County encompasses some of Nevada's most accessible high-elevation rockhounding on BLM-managed public land. This area sits at approximately 6,500 feet elevation within the Great Basin physiographic province, where Tertiary volcanic activity and subsequent weathering have created abundant opportunities to find quality specimens of quartz, chalcedony, agate, and jasper. The moderate slopes and open terrain make exploration relatively straightforward for rockhounders of varying experience levels.\n\nThe geological history of this region reflects classic Basin and Range extension, with volcanic deposits and silica-rich rhyolite flows that have weathered into nodules and fragments containing microcrystalline quartz varieties. Secondary mineralization from hydrothermal activity has produced localized deposits of topaz and other minerals in certain drainages and weathered outcrops. The high elevation and semi-arid climate mean that frost-wedging and wind erosion continuously expose fresh material in wash beds and on hillsides.\n\nThis location is ideal for beginners and experienced rockhounders alike due to the ease of access, lack of permit requirements, and the abundance of collectable material. The terrain is open enough to survey larger areas efficiently, and the surrounding landscape provides excellent opportunities for geological observation and understanding how minerals form in this distinct Basin and Range environment.\n\nBe prepared for high elevation conditions including significant temperature swings between sun and shade. Early morning and late afternoon collecting often yields the best visibility for spotting specimens. The open nature of the terrain requires sun protection and adequate water.",
+  "history": "White Pine County sits within the Great Basin portion of the Basin and Range physiographic province, where Tertiary-age rhyolitic volcanism (approximately 30 million years ago) deposited extensive tuffs and flows rich in silica. Subsequent hydrothermal circulation during the waning stages of volcanism created quartz veins and chalcedony deposits, while erosion and weathering have exposed nodules and fragments across BLM-managed valleys and foothills. This area has long been known to local rockhounders as a reliable source for quality quartz specimens and agate nodules.",
+  "tips": "Search wash beds and arroyo bottoms first, as gravity concentrates heavier specimens and recent water flow exposes fresh material. Look for white, translucent to milky quartz fragments and banded agate with warm earth tones (reds, browns, creams) weathering from rhyolite outcrops on moderate slopes. Use a hand lens to identify chalcedony's waxy luster and micro-banding, which distinguishes it from common quartz. Carry plenty of water at this elevation - dehydration is a real risk in the dry, thin-air environment, and there are no reliable water sources in the collecting areas.",
+  "terrain_notes": "Moderate elevation at 6,508 feet with gentle to moderate slopes across open high desert terrain sparsely vegetated with sagebrush and scattered low shrubs. Walking surfaces range from soft sandy wash bottoms to rocky foothills with scattered loose material underfoot. Most productive collecting areas are within 1-2 miles of rough pullouts, requiring moderate hiking on uneven but not technical terrain. No major obstacles but footing can be uneven with hidden rocks.",
+  "best_season": "April - May and September - October. The spring months offer mild daytime temperatures and clear skies ideal for extended field time, while fall conditions are similarly excellent. Summer heat at this elevation can exceed 85 degrees F, and winter (November - March) brings occasional snow and cold temperatures that make access difficult.",
+  "written_directions": "From Ely, Nevada, take US Highway 50 east approximately 15 miles toward White Pine. Look for BLM land access points and rough dirt roads branching north and south off Highway 50 in the high desert areas east of Ely. Park at pullouts along these secondary roads. The GPS coordinates (39.760114, -115.517989) mark a representative collecting area on BLM land accessible via these rough desert roads. A high-clearance or 4-wheel-drive vehicle is recommended for accessing prime collecting sites on rougher secondary roads, though some material can be found near main highway pullouts with a standard vehicle.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt and gravel roads with occasional washboard surfaces. High-clearance vehicle strongly recommended for accessing remote collecting areas. Main highway access is paved (US 50), but secondary BLM roads are unpaved with potential ruts and rocks.",
+  "parking_notes": "Dispersed pullouts and informal parking areas along BLM dirt roads. No developed facilities. Pull completely off roads to avoid blocking access. Capacity varies by location but generally ample informal parking available.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection or resale. No motorized excavation, trenching, or use of heavy equipment. Collect hand-portable specimens only. Pack out all waste and respect other visitors.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nHand tools only\nPack out all waste\nRespect other rockhounders and public land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "remote",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Ely, Nevada approximately 15-20 miles west. Full services including gas, food, lodging, and supplies.",
+  "accessibility_notes": "Relatively open and flat to gently rolling terrain accessible to most hikers and rockhounders in moderate fitness. Unpaved roads to parking areas require high-clearance vehicles. Once parked, most collecting is walking across open desert with uneven but not steep terrain. No specific wheelchair accessibility, but terrain is more open and navigable than mountainous sites. Sturdy hiking boots recommended for uneven ground and potential sharp rock fragments.",
+  "alternative_names": [],
+  "nearest_city": "Ely",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/white-pine-county-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/white-pine-county-nv/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding in White Pine County, Nevada?",
+      "answer": "White Pine County BLM land is known for quartz, chalcedony, agate, jasper, and topaz. Quartz is the most abundant, found as translucent to milky fragments and nodules. Chalcedony and agate often appear with banding in warm earth tones (reds, browns, creams). Topaz is less common but can be found in certain weathered drainages, making it a prize find for collectors."
+    },
+    {
+      "question": "Do I need a permit to rockhound on White Pine County BLM land?",
+      "answer": "No permit is required for recreational rockhounding on BLM land in White Pine County. This is free public collecting under FLPMA personal use guidelines. You can simply drive to accessible areas and begin collecting without any paperwork or fees, as long as you respect the 25 lb per day limit and collect for personal use only."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Ely, Nevada?",
+      "answer": "April through May and September through October are ideal. Spring offers mild daytime temperatures and clear skies perfect for extended field time. Fall provides similar conditions before winter weather arrives. Avoid summer heat (often above 85 degrees F at this elevation) and winter snow. High elevation means temperature swings can be dramatic, so bring layers."
+    },
+    {
+      "question": "How much weight can I collect per day in White Pine County?",
+      "answer": "BLM regulations allow a maximum of 25 lbs per day per person for personal use rockhounding. This limit applies to your total collection for the day. Plan your collecting and transport accordingly - a 25 lb limit of quartz and agate is a reasonable single-day haul for most rockhounders."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding in White Pine County?",
+      "answer": "Bring a hand lens for identifying chalcedony banding and quartz varieties, a small rock hammer or chisel, a collection bag, and plenty of water - dehydration is a real risk at 6,500+ feet elevation. Wear sturdy hiking boots for uneven terrain and bring sun protection (hat, sunscreen). A high-clearance or 4WD vehicle helps access prime BLM collecting areas on rough desert roads."
+    },
+    {
+      "question": "Is White Pine County a good rockhounding location for beginners?",
+      "answer": "Yes, White Pine County BLM land is excellent for beginners. Access is free and unrestricted, terrain is relatively open and navigable, and quartz and agate are abundant and easy to identify. The high desert landscape allows you to survey large areas efficiently. Start in wash beds and arroyo bottoms where specimens naturally concentrate - this is where most productive beginner collecting happens."
+    }
+  ],
+  "meta_title": "White Pine County Rockhounding - Nevada BLM",
+  "meta_description": "Free rockhounding on Nevada BLM public land near Ely. Find quartz, agate, chalcedony. No permit required. Personal use collecting allowed.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:43:43.026Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:51.300Z"
+}

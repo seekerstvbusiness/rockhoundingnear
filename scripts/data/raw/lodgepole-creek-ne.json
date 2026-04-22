@@ -1,0 +1,57 @@
+{
+  "slug": "lodgepole-creek-ne",
+  "name": "Lodgepole Creek",
+  "lat": 41.140349,
+  "lng": -102.627876,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Cheyenne County",
+  "city_slug": "cheyenne-county",
+  "county": "Cheyenne",
+  "county_slug": "cheyenne",
+  "geocoded_city": "Cheyenne County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Lodgepole%20Creek%20Nebraska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Lodgepole%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Lodgepole%20Creek%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:59:53.014Z"
+  },
+  "scraped_at": "2026-04-21T16:59:53.014Z",
+  "scrape_quality": "minimal"
+}

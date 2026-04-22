@@ -1,0 +1,60 @@
+{
+  "slug": "pipers-gap-va",
+  "name": "Pipers Gap",
+  "lat": 36.642626,
+  "lng": -80.844516,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Carroll County",
+  "city_slug": "carroll-county",
+  "county": "Carroll",
+  "county_slug": "carroll",
+  "geocoded_city": "Galax",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pipers%20Gap%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pipers%20Gap",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pipers%20Gap%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2782,
+      "meters": 848
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:56:49.758Z"
+  },
+  "scraped_at": "2026-04-21T18:56:49.759Z",
+  "scrape_quality": "minimal"
+}

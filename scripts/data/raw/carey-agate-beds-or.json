@@ -1,0 +1,65 @@
+{
+  "slug": "carey-agate-beds-or",
+  "name": "Carey Agate Beds",
+  "lat": 44.033015,
+  "lng": -120.418529,
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "state_code": "OR",
+  "city": "Crook County",
+  "city_slug": "crook-county",
+  "county": "Crook",
+  "county_slug": "crook",
+  "geocoded_city": "Crook County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oregon.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Carey%20Agate%20Beds%20Oregon"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Carey%20Agate%20Beds",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Carey%20Agate%20Beds%20Oregon"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 6043,
+      "meters": 1842
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:41:41.700Z"
+  },
+  "scraped_at": "2026-04-21T18:41:41.700Z",
+  "scrape_quality": "partial"
+}

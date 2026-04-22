@@ -1,0 +1,96 @@
+{
+  "slug": "gold-run-ak",
+  "name": "Gold Run",
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "city": "Unorganized Borough",
+  "city_slug": "unorganized-borough",
+  "county": "Unorganized Borough",
+  "county_slug": "unorganized-borough",
+  "lat": 65.032963,
+  "lng": -166.254924,
+  "gem_types": [
+    "Gold",
+    "Quartz"
+  ],
+  "short_description": "Remote Alaskan location near the Seward Peninsula with placer gold potential in creeks and gravels. Accessed via small aircraft or hiking in subarctic terrain.",
+  "description": "Gold Run is a remote rockhounding location in western Alaska near the Seward Peninsula, an area with significant placer gold deposits tied to the region's rich mining history. The site sits at low elevation (478 ft) on relatively flat terrain that transitions between tundra and sparse vegetation typical of arctic Alaska. This location is accessible primarily to experienced outdoors people willing to use bush planes or undertake multi-day backcountry hiking expeditions from nearby communities. The geological setting is favorable for gold panning and placer mining: the Seward Peninsula and surrounding areas contain ancient metamorphic bedrock and Tertiary sedimentary deposits that have yielded gold for over a century. Creeks and stream gravels in this region commonly carry fine to medium placer gold, and the area remains largely undisturbed by modern mining.\n\nThe terrain around Gold Run is typical Arctic tundra with low vegetation, permafrost, and unstable ground in wet areas. Seasonal access is limited by weather and daylight: summer (June-August) offers 24-hour daylight and navigable terrain, but the landscape becomes impassable mud and water during the brief thaw. Winter (September-May) brings extreme cold and darkness that makes rockhounding impractical. The flat topography makes foot travel relatively easy when conditions allow, but the remoteness, lack of services, and unpredictable weather demand serious preparation.\n\nRockhounds visiting Gold Run should focus on creek gravels, old stream terraces, and exposed cutbanks where water has naturally concentrated heavier minerals over millennia. Quartz veining in bedrock outcrops is common and often associated with gold mineralization. The isolation of this location appeals to adventurous prospectors seeking relatively unexplored territory with proven mineral potential.",
+  "history": "The Seward Peninsula, including the area around Gold Run, was part of the major gold rushes of the late 1800s and early 1900s. The region's gold deposits formed during Tertiary hydrothermal activity and were concentrated in placer deposits by glacial and fluvial processes over millions of years. Small-scale placer mining and prospecting have occurred sporadically since discovery, making this one of Alaska's historically significant but underdeveloped gold districts.",
+  "tips": "Focus your search on creek beds and gravel bars where water has naturally sorted materials by weight - gold concentrates in low spots behind boulders and in clay layers. A small hand pan or sluice box is essential for testing material; bring 5-gallon buckets and a classifier to process gravels efficiently. Look for quartz veins and iron-stained bedrock in hillside outcrops, as these often accompany placer gold. The ground can be unstable and boggy even in summer - wear waterproof boots and probe the ground ahead with a walking stick.",
+  "terrain_notes": "Flat to gently rolling tundra at 478 feet elevation. Sparse low vegetation (dwarf willow, sedges) with wet areas and occasional exposed bedrock. Ground is often muddy and unstable due to permafrost. No developed trails or parking areas. Access on foot from airstrip or hiking entry point covers variable distances depending on approach.",
+  "best_season": "June - August. Brief Arctic summer offers navigable terrain, extended daylight (near 24 hours), and liquid water. September brings freeze-up and impassable conditions; October through May is extreme cold, darkness, and ice.",
+  "written_directions": "Gold Run is accessible only by bush plane (chartered from Fairbanks, Kotzebue, or Nome) or multi-day backcountry hiking. No roads lead to this remote location. Charter aircraft typically land on gravel bars or designated airstrips near the site. Contact local Alaskan air services for current access options and conditions.",
+  "directions": null,
+  "difficulty": "expert",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "hiking",
+  "road_conditions": "No roads; access by aircraft or hiking only",
+  "parking_notes": "No formal parking. Bush planes land on gravel bars or tundra. Backcountry camping required.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Rockhounding is allowed on public lands in Alaska under state law. Maximum 25 lbs per day for personal use. No commercial collection or motorized equipment without permits. Respect any active mining claims posted on the ground.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only. No commercial collection. No motorized excavation or heavy equipment. Maximum 25 lbs per day. Respect posted mining claims. Comply with Alaska Department of Natural Resources regulations. Pack out all trash.",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cold",
+    "remote",
+    "wildlife",
+    "flash_floods"
+  ],
+  "nearest_services": "Kotzebue or Nome, approximately 60-100 miles away (accessible by air). Limited services; fuel and food must be brought in or arranged in advance.",
+  "accessibility_notes": "Difficult terrain in remote, extreme environment. Tundra is uneven, wet, and unstable. No trails or marked routes. Requires expert backcountry navigation, cold-weather survival skills, and aircraft access. Not suitable for limited mobility, families with young children, or inexperienced hikers. Permafrost creates invisible hazards. Multi-day expedition required.",
+  "alternative_names": [],
+  "nearest_city": "Kotzebue",
+  "nearest_city_distance": 75,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/alaska/gold-run-ak/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "Can I find gold at Gold Run, Alaska?",
+      "answer": "Yes. Gold Run is in the Seward Peninsula gold district where placer gold is found in creek gravels, stream terraces, and old riverbeds. Quartz veins in bedrock also accompany mineralization. Success depends on knowledge of panning techniques and willingness to test multiple gravels."
+    },
+    {
+      "question": "How do I get to Gold Run rockhounding site in Alaska?",
+      "answer": "Gold Run is accessible only by chartered bush plane from Kotzebue or Nome, or by multi-day backcountry hiking expedition. No roads exist in this remote area. Contact Alaska air taxi services for charter costs and landing options on gravel bars or designated tundra sites."
+    },
+    {
+      "question": "What permits do I need to rockhound at Gold Run, Alaska?",
+      "answer": "No permit is required for personal use rockhounding on public lands in Alaska under state law. Collect a maximum of 25 lbs per day. Do not collect on posted mining claims. Check current Alaska Department of Natural Resources regulations before your trip."
+    },
+    {
+      "question": "When is the best time to go rockhounding at Gold Run?",
+      "answer": "June through August is the only viable season. Arctic summer brings extended daylight (up to 24 hours), stable ground, and liquid water. September through May is impassable due to extreme cold, ice, darkness, and permafrost instability."
+    },
+    {
+      "question": "What tools should I bring for gold panning at Gold Run, Alaska?",
+      "answer": "Bring a hand pan, classifier, and 5-gallon buckets for processing creek gravels. A small sluice box or portable rocker increases efficiency. Also pack a sturdy walking stick to probe ground stability, waterproof boots, and a hand lens for examining quartz and mineral specimens."
+    },
+    {
+      "question": "Is Gold Run, Alaska good for beginning rockhounds?",
+      "answer": "No. Gold Run is an expert-level destination requiring backcountry survival skills, aircraft access, extreme weather tolerance, and self-sufficiency. Beginners should start at more accessible Alaskan rockhounding sites with developed access and fewer hazards."
+    }
+  ],
+  "meta_title": "Gold Run Rockhounding - Alaska",
+  "meta_description": "Find placer gold and quartz at remote Gold Run, Alaska. Expert-level site accessible by bush plane. Learn access, permits, and best season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "hazards",
+    "collection_rules",
+    "terrain based on general Arctic Alaska knowledge without site-specific verification"
+  ],
+  "enriched_at": "2026-04-21T18:30:44.123Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:33:29.360Z"
+}

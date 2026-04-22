@@ -1,0 +1,60 @@
+{
+  "slug": "tri-state-marker-ok",
+  "name": "Tri-State Marker",
+  "lat": 36.999126,
+  "lng": -103.000575,
+  "state": "Oklahoma",
+  "state_slug": "oklahoma",
+  "state_code": "OK",
+  "city": "Cimarron County",
+  "city_slug": "cimarron-county",
+  "county": "Cimarron",
+  "county_slug": "cimarron",
+  "geocoded_city": "Cimarron County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oklahoma.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Tri-State%20Marker%20Oklahoma"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Tri-State%20Marker",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Tri-State%20Marker%20Oklahoma"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4449,
+      "meters": 1356
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:03:46.493Z"
+  },
+  "scraped_at": "2026-04-21T17:03:46.493Z",
+  "scrape_quality": "minimal"
+}

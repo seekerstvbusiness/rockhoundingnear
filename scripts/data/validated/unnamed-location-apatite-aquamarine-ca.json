@@ -1,0 +1,99 @@
+{
+  "slug": "unnamed-location-apatite-aquamarine-ca",
+  "name": "Unnamed Location (Apatite/Aquamarine)",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Pala",
+  "city_slug": "pala",
+  "county": "San Diego",
+  "county_slug": "san-diego",
+  "lat": 33.390493,
+  "lng": -117.069335,
+  "gem_types": [
+    "Beryl",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding site near Pala known for apatite and aquamarine specimens. Free public collecting with no permit required, ideal for Southern California gem hunters.",
+  "description": "This unnamed BLM location in San Diego County near Pala offers rockhounders access to apatite and aquamarine in a moderate slope terrain at 1,619 feet elevation. The site sits within the Peninsular Ranges geologic province, where Cretaceous-age pegmatitic intrusions and associated hydrothermal activity created the beryl-group minerals found here today. Apatite typically occurs as green to blue-green crystals or masses in pegmatite and metamorphic rocks, while aquamarine - the blue variety of beryl - forms in coarse-grained pegmatite pockets.\n\nAccess is straightforward for public BLM land: no permit required and no fees apply. Collectors are limited to 25 pounds per day per FLPMA regulations and must practice personal use only collection. The moderate slope and elevation make this a manageable hike for experienced rockhounders with basic fitness. The nearest town of Pala is approximately 8-10 miles away via South Stage Coach Lane and De Luz Road, both secondary routes that require high-clearance or four-wheel-drive vehicles, especially after rain.\n\nExpect to search rocky hillsides and washes where pegmatite outcrops and weathered mineral fragments concentrate. Apatite specimens often appear as small crystals or gemmy pieces in quartz-rich material, while aquamarine crystals are larger but rarer finds. The terrain is typical chaparral-covered foothills with scattered outcrops of granite and pegmatite.\n\nThis location is best suited for intermediate to advanced rockhounders comfortable with remote, rugged terrain and self-guided prospecting. Cell service is spotty, so bring a GPS unit and paper map. Water is not available on-site, so carry sufficient supply. The site's remoteness and moderate difficulty make it less ideal for young children or beginners, though persistent collectors often find quality specimens.",
+  "history": "The Peninsular Ranges of San Diego County formed during the Cretaceous period through batholithic intrusion and pegmatitic crystallization. Apatite and aquamarine here are products of late-stage hydrothermal fluids that enriched pegmatite bodies after the primary granite crystallized, typically occurring as accessory minerals in quartz-rich pockets.",
+  "tips": "Search along rocky washes and exposed pegmatite outcrops on the hillsides where weathering has loosened crystals. Use a crack hammer and cold chisel to carefully extract specimens from quartz veins - apatite is relatively soft (Mohs 5) so work gently to avoid shattering. Look for blue-green colors on weathered rock surfaces; even small fragments 1-2 cm indicate pegmatite nearby. Bring a 10x loupe to identify apatite (hexagonal crystals, waxy luster) versus similar minerals like tourmaline or topaz.",
+  "terrain_notes": "Moderate slope with elevation of 1,619 feet. Chaparral-covered foothills with scattered granite and pegmatite outcrops. Rocky, uneven ground with loose boulders and sharp-edged quartz fragments. Walking distance from parking area is variable depending on outcrops located, typically 0.5-2 miles cross-country. Sturdy hiking boots and long pants recommended. No trails; off-trail hiking required.",
+  "best_season": "October - April. Southern California low-elevation desert foothills are extremely hot May through September (90-100+ F) with minimal shade. Winter months offer cooler temperatures (50-65 F) ideal for extended field work. Avoid summer heat and spring wildflower season when BLM land may have temporary closures.",
+  "written_directions": "From Pala, take De Luz Road east and north approximately 10.5 miles toward the unimproved BLM land. Alternatively, approach via South Stage Coach Lane from the south, approximately 9.2 miles to the area. These are secondary roads with rough conditions; high-clearance or 4WD vehicle strongly recommended, especially after rain. The GPS coordinates (33.390493, -117.069335) mark the general location. Park in a pullout or cleared area and hike into the foothills to locate pegmatite outcrops and rocky washes. No developed parking or facilities.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Secondary roads (South Stage Coach Lane, De Luz Road) are unpaved or minimally maintained. High-clearance or 4WD recommended. Surface may be washboard dirt with ruts and rocky patches. Impassable or difficult after heavy rain.",
+  "parking_notes": "No developed parking area. Park in pullouts or cleared areas along the access roads. Capacity is informal and minimal. Check for recent tire tracks and space before leaving your vehicle.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Rock hammers and hand tools only. Leave no trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only (rock hammer, chisel)\nNo open fires\nPack out all trash",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Pala, approximately 8-10 miles west. Limited services; nearest full amenities in Fallbrook or Escondido (20+ miles).",
+  "accessibility_notes": "Uneven rocky terrain with no marked trails or wheelchair access. Moderate slope requires sustained hiking on slopes up to 20-30 degrees. Footing is loose with scattered boulders and sharp quartz fragments. Sturdy hiking boots essential. Not suitable for limited mobility. Off-trail navigation required; bring GPS or map/compass.",
+  "alternative_names": [],
+  "nearest_city": "Pala",
+  "nearest_city_distance": 9,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/unnamed-location-apatite-aquamarine-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "Can I find aquamarine and apatite rockhounding near Pala, California without a permit?",
+      "answer": "Yes. This BLM location near Pala allows free personal-use rockhounding with no permit required. You can collect apatite and aquamarine specimens up to 25 pounds per day under FLPMA rules. No fees apply."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding for apatite near Pala, San Diego County?",
+      "answer": "October through April offers the best conditions. Summer heat (90-100+ F) and minimal shade make the chaparral foothills uncomfortable for extended collecting. Winter temperatures of 50-65 F are ideal for fieldwork."
+    },
+    {
+      "question": "How do I identify apatite crystals when rockhounding in the Peninsular Ranges?",
+      "answer": "Apatite typically shows hexagonal crystals in blue-green, yellow, or brown colors with a waxy or glassy luster. It ranks 5 on the Mohs hardness scale, making it softer than quartz. Look for small to medium crystals (1-3 cm) in quartz-rich pegmatite outcrops and weathered fragments along washes."
+    },
+    {
+      "question": "What vehicle do I need to reach this rockhounding site near Pala?",
+      "answer": "A high-clearance or 4WD vehicle is strongly recommended. The access roads (South Stage Coach Lane and De Luz Road) are unpaved secondary roads with ruts and rocky patches. They become difficult or impassable after rain."
+    },
+    {
+      "question": "Is this BLM rockhounding location suitable for beginners and children?",
+      "answer": "No, this site is best for intermediate to advanced rockhounders age 12 and up. The remote location, moderate slope terrain, loose rocks, and lack of trails or facilities make it challenging for beginners. Cell service is spotty and the area is isolated."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding apatite and aquamarine at this Pala location?",
+      "answer": "Bring a rock hammer, cold chisel, heavy leather gloves, and safety glasses. A 10x loupe helps identify specimens. Pack 2-3 liters of water (none available on-site), a GPS unit or map/compass, sun protection, sturdy hiking boots, and a collection bag. A headlamp is useful for morning or late-day collecting."
+    }
+  ],
+  "meta_title": "Apatite & Aquamarine Rockhounding near Pala, CA",
+  "meta_description": "Free BLM rockhounding for apatite, aquamarine, and beryl near Pala, San Diego County. No permit required. 25 lb daily limit. Perfect for California gem hunters.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated from GPS and terrain data)",
+    "written_directions (constructed from road names and distances in terrain data)",
+    "accessibility_notes (inferred from moderate slope and remote BLM terrain)",
+    "best_season (inferred from Southern California low-elevation desert climate)",
+    "cell_service (estimated as spotty for remote BLM in foothills)"
+  ],
+  "road_name": "South Stage Coach Lane",
+  "enriched_at": "2026-04-21T19:32:45.376Z",
+  "scrape_quality": "rich",
+  "images_processed_at": "2026-04-21T19:35:49.889Z"
+}

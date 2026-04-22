@@ -1,0 +1,96 @@
+{
+  "slug": "airpoint-va",
+  "name": "Airpoint",
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "city": "Roanoke",
+  "city_slug": "roanoke",
+  "county": "Roanoke",
+  "county_slug": "roanoke",
+  "lat": 37.176054,
+  "lng": -80.110803,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "High elevation plateau rockhounding site in the southern Appalachian Mountains. Search for quartz, feldspar, and mica specimens in metamorphic outcrops and stream beds.",
+  "description": "Airpoint is a modest rockhounding destination located on the elevated plateau of southwestern Virginia's Roanoke County, at roughly 2,550 feet elevation. This area sits within the Appalachian Mountain system, where Precambrian metamorphic bedrock dominates the landscape. The region's ancient mountain-building events created excellent conditions for finding quartz veins, feldspar crystals, and mica sheets throughout the local geology.\n\nThe terrain here is relatively flat for the Appalachian region, with gentle slopes that make access straightforward compared to more rugged mountain sites. Rockhounders typically focus on exposed bedrock outcrops, roadcuts, and small streams that naturally expose fresh mineral specimens. The metamorphic rocks of this area frequently contain pegmatitic zones - coarse-grained igneous rock pockets - that yield nice quartz and feldspar crystals.\n\nVisit during the cooler months when hiking conditions are most comfortable and visibility is excellent. The area offers a good introduction to Appalachian rockhounding for beginners, with relatively easy terrain and abundant mineral diversity. Local streams and weathered outcrops provide the best hunting grounds, though respect for private land boundaries is essential.",
+  "history": "This locality sits within the ancient Grenville orogen of the Appalachian Mountains, where Precambrian metamorphic rocks were uplifted and altered during continental collisions roughly 1 billion years ago. Quartz veins and pegmatitic intrusions formed as silica-rich fluids percolated through the metamorphic host rocks during these mountain-building events, creating the mineral deposits rockhounders find here today.",
+  "tips": "Search along small stream beds and eroded hillsides where fresh material is continuously exposed - quartz veins weather out naturally and accumulate in creek bottoms. Look for areas of white quartz outcropping on hillsides and roadcuts; feldspar and mica will typically be found in close association within the same pegmatitic zones. Bring a small hammer and chisel to carefully extract specimens from exposed veins without damaging the surrounding rock. The flat terrain makes walking easy, but wear sturdy boots for scrambling over rocky outcrops.",
+  "terrain_notes": "Elevation 2,552 feet with flat to gently rolling terrain typical of the high Appalachian plateau. Vegetation includes deciduous forest and mountain laurel. Access to most rockhounding areas requires short walks of 0.25 to 1 mile from parking. Footing is generally stable on rocky outcrops and stream beds, though loose rock is common.",
+  "best_season": "April - June, September - November. Spring and fall offer mild temperatures and low humidity, ideal for extended rockhounding trips. Summer heat and humidity can be uncomfortable at this elevation; winter brings occasional snow and icy conditions that make stream access hazardous.",
+  "written_directions": "From downtown Roanoke, take VA Route 220 south toward Blacksburg for approximately 18 miles. Continue on US Route 460 east toward Pearisburg. Near Airpoint (a small unincorporated community), watch for pullouts along the highway where exposed roadcuts and nearby stream access are visible. Park safely off the main road and walk upslope or downstream to reach mineralized outcrops. Local residents and published Virginia rockhounding guides can provide more precise coordinates for specific productive sites.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 460 is paved and well-maintained. Pullouts and informal parking areas are unpaved dirt/gravel. No high-clearance vehicle required for main highway access.",
+  "parking_notes": "Informal roadside pullouts along US 460. Limited capacity, typically 2-4 vehicles. No developed parking facilities. Park completely off the roadway.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Rockhounding is permitted on public roadways and publicly accessible stream beds. Always respect private property boundaries - do not trespass on private land. Remove only small portable specimens (hand-sized). Do not use mechanized excavation equipment. Leave the area as clean as you found it. Contact Virginia Department of Conservation and Recreation or local property owners before collecting on any uncertain parcels.",
+  "quantity_limits": null,
+  "rules": "Collect hand-sized specimens only. Respect private property - no trespassing. No motorized excavation or heavy equipment. Leave the site clean. Check local regulations before visiting to confirm access.",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Roanoke, Virginia (approximately 18 miles north) has full services including gas stations, restaurants, and grocery stores. Blacksburg (approximately 20 miles south) also offers all amenities.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Stream and outcrop areas require scrambling over rocks. Sturdy footwear required. No wheelchair accessibility on natural rockhounding routes, though paved parking areas are accessible.",
+  "alternative_names": [],
+  "nearest_city": "Roanoke",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/virginia/airpoint-va/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Airpoint, Virginia?",
+      "answer": "The primary specimens found at Airpoint are quartz crystals, feldspar crystals, and mica sheets. These minerals occur in metamorphic bedrock and pegmatitic zones that are common throughout the Appalachian Mountains. Specimens range from small hand-sized pieces to larger crystal clusters found in stream beds and exposed outcrops."
+    },
+    {
+      "question": "Is rockhounding at Airpoint free or do you need a permit?",
+      "answer": "Rockhounding at Airpoint is free and does not require a permit, as long as you stay on public roads and publicly accessible stream beds. However, you must respect private property boundaries. Always ask permission before collecting on private land."
+    },
+    {
+      "question": "How far is Airpoint rockhounding site from Roanoke, Virginia?",
+      "answer": "Airpoint is located approximately 18 miles south of downtown Roanoke. The drive takes about 30-40 minutes via VA Route 220 and US Route 460. This makes it an easy day trip destination for rockhounders based in the Roanoke area."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Airpoint?",
+      "answer": "Spring (April - June) and fall (September - November) offer the best rockhounding conditions at Airpoint. Mild temperatures, low humidity, and comfortable weather make extended collecting trips enjoyable. Summer heat can be uncomfortable, and winter snow and ice create hazardous conditions on stream banks."
+    },
+    {
+      "question": "Is Airpoint a good rockhounding site for beginners?",
+      "answer": "Yes, Airpoint is excellent for beginners. The terrain is relatively flat and easy to navigate, specimens are accessible in both streams and roadcuts, and the mineral types found here are easy to identify. No specialized equipment is required beyond a small hammer and chisel."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at Airpoint?",
+      "answer": "Bring sturdy hiking boots, a small hammer and chisel for specimen extraction, a collection bag or backpack, water, and a headlamp or flashlight. A hand lens (10x magnification) is helpful for identifying quartz, feldspar, and mica. Gloves protect hands when handling sharp mineral specimens and rocky terrain."
+    }
+  ],
+  "meta_title": "Airpoint Rockhounding - Virginia Quartz & Feldspar",
+  "meta_description": "Find quartz, feldspar, and mica at Airpoint, Virginia. Free public rockhounding in the Appalachian Mountains near Roanoke. Easy terrain, beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category (inferred as 'other' due to unclear public/private mix)",
+    "cell_service (estimated as spotty based on rural Appalachian location)",
+    "remoteness_rating (estimated at 3 based on proximity to Roanoke)",
+    "specific_parking_details (no established facility found)",
+    "exact_road_access_conditions"
+  ],
+  "enriched_at": "2026-04-21T19:16:05.823Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:20:09.156Z"
+}

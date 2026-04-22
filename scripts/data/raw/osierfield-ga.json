@@ -1,0 +1,60 @@
+{
+  "slug": "osierfield-ga",
+  "name": "Osierfield",
+  "lat": 31.649429,
+  "lng": -83.120845,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Irwin County",
+  "city_slug": "irwin-county",
+  "county": "Irwin",
+  "county_slug": "irwin",
+  "geocoded_city": "Osierfield",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Osierfield%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Osierfield",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Osierfield%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 314,
+      "meters": 96
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:16:46.738Z"
+  },
+  "scraped_at": "2026-04-21T19:16:46.739Z",
+  "scrape_quality": "minimal"
+}

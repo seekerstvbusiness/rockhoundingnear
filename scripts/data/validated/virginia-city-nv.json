@@ -1,0 +1,102 @@
+{
+  "slug": "virginia-city-nv",
+  "name": "Virginia City",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Virginia City",
+  "city_slug": "virginia-city",
+  "county": "Storey",
+  "county_slug": "storey",
+  "lat": 39.320179,
+  "lng": -119.640187,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Gold"
+  ],
+  "short_description": "Historic mining town with accessible BLM rockhounding for quartz, agate, and gold. No permits required, free personal collecting at this high-elevation Nevada site.",
+  "description": "Virginia City sits at 6013 feet elevation in the heart of the Comstock Lode region, one of America's most productive silver and gold mining districts. The surrounding Storey County BLM land offers excellent opportunities for rockhounding without permits or fees, making it ideal for beginners and families exploring Nevada's rich geological heritage.\n\nThe area benefits from intense mineralization due to Cretaceous and Tertiary hydrothermal activity that created the famous Comstock vein system. You'll find quartz specimens, agate nodules, and jasper scattered across exposed hillsides and along erosional washes where mining activity has exposed fresh material. Small flakes and dust of gold can occasionally be panned or found in quartz specimens, connecting you directly to the region's legendary mining history.\n\nTerrain around Virginia City transitions between sagebrush-covered slopes and exposed bedrock outcrops. The moderate slope and moderate elevation make this accessible to most skill levels, though the thin mountain air requires acclimatization for those arriving from lower elevations. Multiple access points along BLM land near town allow short hikes to productive collecting areas.\n\nThe historic Victorian-era buildings of Virginia City proper sit adjacent to collecting areas, so you can combine rockhounding with exploring 1800s saloons, museums, and original mining infrastructure. This makes Virginia City unique among Nevada rockhounding sites - active gemstone hunting paired with living history.\n\nWater and services are available in town, but bring extra water for collecting - the high elevation and exposure mean temperatures drop quickly in shoulder seasons, and afternoon winds are common.",
+  "history": "Virginia City emerged from the 1859 discovery of the Comstock Lode, one of North America's richest silver deposits. The intense Tertiary-age hydrothermal activity that created the famous ore bodies also produced abundant silica mineralization, quartz veins, and secondary minerals still visible in outcrops and mine tailings across the surrounding BLM land today.",
+  "tips": "Search along eroded gullies and washes on the north and east-facing slopes where mining tailings have been naturally sorted by gravity - this is where the best specimens collect. Quartz clusters and agate nodules commonly have a weathered white or cream exterior, so look for these color contrasts against darker host rock. Early morning collecting (before afternoon winds pick up) gives you steadier footing and better lighting to spot translucent specimens. Bring a jeweler's loupe to examine quartz for pyrite or microscopic gold; even small flakes add authenticity to your finds.",
+  "terrain_notes": "Elevation 6013 feet on moderate slopes with sparse high-desert sagebrush and scattered juniper. Rocky, uneven footing with loose talus common on steeper sections. Exposed bedrock outcrops dominate higher elevations. Walking distance from BLM access points ranges from 0.5 to 2 miles depending on pullout chosen. Afternoon winds are significant due to exposure.",
+  "best_season": "May - October. Winter snow closes some access roads above 6000 feet; spring runoff creates muddy conditions in April. Summer (June-August) has reliable access but intense afternoon heat and UV exposure at this elevation. Fall offers ideal conditions with cool mornings, stable weather, and clear skies.",
+  "written_directions": "From Virginia City downtown, head east on C Street toward the Storey County fairgrounds. Continue on the dirt extension past the fairgrounds for approximately 1.5 miles - you'll see BLM boundary markers on both sides. Look for informal pullouts on the north side of the road near small ravines cutting through sagebrush slopes. Alternatively, from US 395 north of town, take the Virginia City exit and head west 2 miles into the historic district, then follow the same eastbound route. No high-clearance vehicle required for main access roads, though rougher terrain opens up with 4WD.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt access road with minor washboard, passable by standard vehicles. Pullout parking areas are unimproved but stable.",
+  "parking_notes": "Informal pullouts along the BLM access road east of Virginia City. No developed parking lot. Space for 4-6 vehicles per pullout. High-clearance not required for parking areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation. No picks, hammers, or powered tools. Hand tools only (chisels, small digging tools). Collect only loose material and specimens from the surface or easily removable fragments.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only - no picks or powered equipment\nCollect surface and loose material only\nNo damage to exposed bedrock",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "abandoned_mines"
+  ],
+  "nearest_services": "Virginia City proper - 2 miles west. Multiple restaurants, museums, hotels, and shops in historic district. Gas stations and grocery 20 miles away in Carson City.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Uneven rocky footing with scattered talus requires sturdy footwear. No wheelchair access to productive collecting areas due to loose rock and slope. Older adults and families should stick to lower pullouts within 0.5 miles of parking.",
+  "alternative_names": [
+    "Comstock Lode Site",
+    "Virginia City BLM Land"
+  ],
+  "nearest_city": "Virginia City",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/virginia-city-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/virginia-city-nv/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Can you find gold rockhounding near Virginia City, Nevada?",
+      "answer": "Yes. Virginia City sits within the historic Comstock Lode district where gold and silver ore was mined for over 100 years. You'll find small flakes and dust of gold embedded in quartz specimens on BLM land east of town. While you won't find nuggets, examining quartz clusters with a magnifier often reveals gold dust particles, making this a unique way to connect with Nevada's mining heritage."
+    },
+    {
+      "question": "Is there a permit or fee required to rockhound in Virginia City?",
+      "answer": "No. The surrounding BLM land requires no permit or fee for recreational rock and mineral collecting. You're limited to 25 lbs per day per FLPMA regulations, hand tools only, and personal use (no commercial sales). Simply park along the BLM access roads east of town and start collecting."
+    },
+    {
+      "question": "What is the best season for rockhounding at Virginia City?",
+      "answer": "May through October offers the best collecting conditions. The site sits at 6013 feet elevation, so winter snow closes access from November through April. Spring (May-early June) can be muddy. Summer (June-August) provides reliable access but expect intense afternoon heat and strong winds. Fall (September-October) offers ideal cool temperatures and stable weather."
+    },
+    {
+      "question": "What gems and rocks can you find at Virginia City, Nevada?",
+      "answer": "The primary finds are quartz clusters, agate nodules, and jasper. Specimens often show secondary mineralization from the intense hydrothermal activity that created the Comstock vein system. Quartz specimens frequently contain visible pyrite or microscopic gold flakes. Agate nodules tend to have cream or white weathered exteriors concealing patterned interiors."
+    },
+    {
+      "question": "Is Virginia City a good rockhounding site for beginners and families?",
+      "answer": "Absolutely. The terrain is gently rolling with easy access from pullouts near town, making it suitable for children age 6 and up. No permits or special skills required - you simply walk exposed slopes looking for surface specimens. The nearby historic town provides restaurants, museums, and activities, making it an excellent combined rockhounding and tourism trip."
+    },
+    {
+      "question": "What tools and supplies do I need to rockhound in Virginia City?",
+      "answer": "Bring a small chisel or digging tool for extracting specimens from soil, a jeweler's loupe to examine quartz for gold and pyrite, and a collection bag. Hand tools only - no motorized equipment or heavy picks allowed on BLM land. Bring extra water (the 6000+ foot elevation is dry), sunscreen, and a hat. Sturdy hiking boots are essential due to loose rock and uneven footing."
+    }
+  ],
+  "meta_title": "Virginia City Rockhounding - Find Quartz & Gold, Nevada",
+  "meta_description": "Free rockhounding near Virginia City, NV. Collect quartz, agate, and gold flakes on BLM land. No permit required. Perfect for families and beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "cell_service (based on high elevation and remote terrain, spotty is estimated)",
+    "family_friendly (inferred true based on easy difficulty and historic town amenities)",
+    "parking_notes (based on typical BLM pullout infrastructure, not verified ground survey)"
+  ],
+  "enriched_at": "2026-04-22T09:27:56.654Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:51.763Z"
+}

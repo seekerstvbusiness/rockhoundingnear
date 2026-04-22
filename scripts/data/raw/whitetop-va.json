@@ -1,0 +1,85 @@
+{
+  "slug": "whitetop-va",
+  "name": "Whitetop",
+  "lat": 36.649174,
+  "lng": -81.566058,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Grayson County",
+  "city_slug": "grayson-county",
+  "county": "Grayson",
+  "county_slug": "grayson",
+  "geocoded_city": "Grayson County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Whitetop%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Whitetop",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Whitetop%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4278,
+      "meters": 1304
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "Whitetop Road",
+        "ref": "SR 600",
+        "type": "secondary",
+        "dist": 3
+      },
+      {
+        "name": "Whitetop Road",
+        "ref": "SR 600",
+        "type": "secondary",
+        "dist": 7.4
+      },
+      {
+        "name": "Fox Valley Road",
+        "ref": "US 11",
+        "type": "secondary",
+        "dist": 11.4
+      },
+      {
+        "name": "West Lee Highway",
+        "ref": "US 11",
+        "type": "secondary",
+        "dist": 12.2
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:01:38.863Z"
+  },
+  "scraped_at": "2026-04-21T19:01:38.863Z",
+  "scrape_quality": "minimal"
+}

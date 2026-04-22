@@ -1,0 +1,100 @@
+{
+  "slug": "diamond-peak-co",
+  "name": "Diamond Peak",
+  "state": "Colorado",
+  "state_slug": "colorado",
+  "city": "Fort Collins",
+  "city_slug": "fort-collins",
+  "county": "Larimer",
+  "county_slug": "larimer",
+  "lat": 40.980197,
+  "lng": -105.55936,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "High-elevation BLM rockhounding site near Fort Collins offering quartz and feldspar specimens. Free public access with no permits required for personal collecting.",
+  "description": "Diamond Peak sits at 8,473 feet in the Front Range of Colorado, offering rockhounders access to public BLM land with excellent mineral diversity. The moderate slopes and high alpine setting create unique collecting opportunities in a region shaped by Precambrian metamorphic geology and Laramide orogeny. This location provides spectacular views while you search for quartz crystals, feldspar specimens, and mica flakes weathered from the surrounding granitic and metamorphic outcrops.\n\nThe area's geology reflects the ancient mountain-building events that created the Colorado Front Range. Granitic intrusions mixed with metamorphosed sedimentary rocks form the bedrock, weathering over millions of years to release mineral specimens into accessible surface deposits and washlines. Quartz veins cross-cutting the granite provide the primary collecting targets here.\n\nExpect moderate hiking terrain with elevation gain from the parking area. Rocky footing and exposed granite are common, so sturdy boots are essential. The site works well for experienced beginners and intermediate rockhounds comfortable with higher elevation and cooler temperatures. Summer afternoon thunderstorms are possible, so plan your visit for morning hours and monitor weather closely.\n\nBring plenty of water, sun protection, and a good topographic map or GPS device. The high elevation and remoteness mean cell service is unreliable, and help is not immediately nearby. Respect the 25-pound daily limit and pack out all trash to preserve this public resource for future collectors.",
+  "history": "Diamond Peak lies within the Precambrian core of the Colorado Front Range, where granitic batholiths intruded metamorphic host rocks during the Laramide orogeny approximately 70-80 million years ago. Quaternary weathering and glaciation have exposed fresh mineral surfaces and concentrated specimens in surface deposits, creating productive collecting grounds for modern rockhounds.",
+  "tips": "Search the exposed granite outcrops and weathered scree slopes on the southern and eastern faces of the peak, where water erosion concentrates lighter minerals. Use a chipping hammer and chisel to carefully extract quartz points from matrix, working around natural fracture lines rather than forcing specimens. Look for glassy, transparent to translucent quartz crystals in vugs and veins; feldspar will appear more opaque with a pearly luster. The steep terrain means collecting is most efficient within 500 feet of stable footing - do not chase loose specimens down unstable slopes.",
+  "terrain_notes": "Moderate slope terrain at 8,473 feet elevation with exposed granite bedrock and rocky scree. Sparse alpine tundra vegetation with stunted conifers. Approximately 1.5 to 2 miles hiking distance from parking with 400-600 feet elevation gain depending on route. Rocky, uneven footing throughout - no maintained trail. Loose rocks and exposed granite edges are common hazards.",
+  "best_season": "June - September",
+  "written_directions": "From Fort Collins, take US 287 north toward Estes Park for approximately 20 miles. Turn west on County Road 43 (Peaceful Valley Road) and continue for about 8 miles to the Brainard Lake Road area. Look for BLM public land markers and informal parking pullouts along the access roads. GPS coordinates: 40.980197, -105.55936. High-clearance or 4WD vehicle recommended for seasonal access to upper trailheads.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Seasonal dirt and gravel road, may be impassable in winter. High clearance vehicle strongly recommended. Washboard surface common.",
+  "parking_notes": "Informal pullouts and parking areas along county roads and BLM access roads. Limited capacity (3-5 vehicles per pullout). No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or mechanized digging. Respect private property boundaries. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or sale\nNo motorized equipment or power tools\nNo mechanized digging or excavation\nRespect all boundary markers\nPack out all trash\nStay on existing roads and trails when possible",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "wildlife",
+    "remote",
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Fort Collins, 25 miles south - all services including gas, food, camping, and lodging available.",
+  "accessibility_notes": "Uneven rocky terrain with moderate elevation gain and significant hiking required. High elevation (8,473 ft) may challenge those with respiratory issues. Steep exposed slopes with loose rock near collecting areas. Not suitable for limited mobility, young children, or those unaccustomed to high altitude. Sturdy hiking boots and good physical fitness essential.",
+  "alternative_names": [],
+  "nearest_city": "Fort Collins",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/diamond-peak-co/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/diamond-peak-co/mineral-1-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Diamond Peak near Fort Collins?",
+      "answer": "Diamond Peak is known for quartz crystals, feldspar specimens, and mica flakes. The high-elevation granitic terrain produces clear to translucent quartz points in vugs and veins, plus opaque feldspar with pearly luster. You may also find garnet and other metamorphic minerals in weathered scree."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Diamond Peak, Colorado?",
+      "answer": "No permit is required. Diamond Peak sits on public BLM land where personal recreational collecting is allowed under FLPMA regulations. You must follow the 25-pound daily limit and collect for personal use only - no commercial activity."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Diamond Peak?",
+      "answer": "June through September is the best season. Winter snow and ice make access difficult or impossible, and spring snowmelt can make hiking treacherous. Summer provides the most stable access, though afternoon thunderstorms are common at this 8,473-foot elevation."
+    },
+    {
+      "question": "How difficult is hiking at Diamond Peak for rockhounders?",
+      "answer": "The terrain is moderately challenging with about 1.5-2 miles of hiking and 400-600 feet of elevation gain from parking. Uneven rocky terrain, loose scree, and high altitude make this suitable for intermediate or experienced hikers. Not recommended for families with young children or those unaccustomed to high elevation."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Diamond Peak?",
+      "answer": "Bring a quality chipping hammer, chisel, and small pry bar for specimen extraction. Sturdy hiking boots with excellent ankle support are essential on rocky slopes. Pack 2-3 liters of water per person, sun protection, a topographic map, GPS device, and a first aid kit. Cell service is spotty, so plan accordingly."
+    },
+    {
+      "question": "Is Diamond Peak a good rockhounding site for beginners?",
+      "answer": "Diamond Peak is better suited for intermediate or experienced rockhounds. The high elevation (8,473 ft), moderate hiking with elevation gain, and remote location require good physical fitness and backcountry skills. Easier alternatives exist at lower elevations near Fort Collins for beginners."
+    }
+  ],
+  "meta_title": "Diamond Peak Rockhounding - Colorado Quartz",
+  "meta_description": "Find quartz, feldspar, and mica at Diamond Peak near Fort Collins. Free BLM rockhounding with no permits required. High-elevation collecting for intermediate rockhounds.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-21T16:55:31.965Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T16:56:31.560Z"
+}

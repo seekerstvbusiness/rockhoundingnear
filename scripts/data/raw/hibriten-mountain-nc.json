@@ -1,0 +1,60 @@
+{
+  "slug": "hibriten-mountain-nc",
+  "name": "Hibriten Mountain",
+  "lat": 35.904054,
+  "lng": -81.488566,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Caldwell County",
+  "city_slug": "caldwell-county",
+  "county": "Caldwell",
+  "county_slug": "caldwell",
+  "geocoded_city": "Lenoir",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hibriten%20Mountain%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hibriten%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hibriten%20Mountain%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1781,
+      "meters": 543
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:36:24.526Z"
+  },
+  "scraped_at": "2026-04-21T19:36:24.526Z",
+  "scrape_quality": "minimal"
+}

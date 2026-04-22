@@ -1,0 +1,60 @@
+{
+  "slug": "pe-ell-wa",
+  "name": "Pe Ell",
+  "lat": 46.573685,
+  "lng": -123.303473,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Lewis County",
+  "city_slug": "lewis-county",
+  "county": "Lewis",
+  "county_slug": "lewis",
+  "geocoded_city": "Lewis County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pe%20Ell%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pe%20Ell",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pe%20Ell%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 353,
+      "meters": 108
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:16:48.828Z"
+  },
+  "scraped_at": "2026-04-21T19:16:48.828Z",
+  "scrape_quality": "minimal"
+}

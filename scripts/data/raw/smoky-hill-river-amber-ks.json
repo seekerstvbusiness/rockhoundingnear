@@ -1,0 +1,60 @@
+{
+  "slug": "smoky-hill-river-amber-ks",
+  "name": "Smoky Hill River (amber)",
+  "lat": 38.658622,
+  "lng": -98.057608,
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "state_code": "KS",
+  "city": "Ellsworth County",
+  "city_slug": "ellsworth-county",
+  "county": "Ellsworth",
+  "county_slug": "ellsworth",
+  "geocoded_city": "Ellsworth County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Smoky%20Hill%20River%20(amber)%20Kansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Smoky%20Hill%20River%20(amber)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Smoky%20Hill%20River%20(amber)%20Kansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1501,
+      "meters": 458
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:46:47.193Z"
+  },
+  "scraped_at": "2026-04-21T17:46:47.193Z",
+  "scrape_quality": "minimal"
+}

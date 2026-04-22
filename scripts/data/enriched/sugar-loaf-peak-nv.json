@@ -1,0 +1,99 @@
+{
+  "slug": "sugar-loaf-peak-nv",
+  "name": "Sugar Loaf Peak",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Elko",
+  "city_slug": "elko",
+  "county": "Elko",
+  "county_slug": "elko",
+  "lat": 40.321106,
+  "lng": -114.257172,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Elko offering accessible rockhounding for agate, jasper, and chalcedony at moderate elevation. Free collecting with no permit required - perfect for beginners.",
+  "description": "Sugar Loaf Peak sits on Nevada BLM land in Elko County, offering excellent rockhounding opportunities for collectors of all skill levels. The site is notable for its moderate elevation of 6,402 feet and moderate terrain slope, making it accessible without requiring technical skills or extensive backcountry hiking. Visitors can expect to find quality specimens of agate, jasper, chalcedony, and quartz scattered across the hillsides and washes around the peak.\n\nThe geological character of this area reflects Nevada's rich mineral-forming history. The Elko County region sits within the Basin and Range province, where Tertiary-age silica-rich fluids deposited during volcanic and hydrothermal activity created the chalcedony nodules and agate deposits found here today. These minerals formed in ancient volcanic rocks and surrounding sediments, creating the colorful banded and solid specimens that rockhounders seek.\n\nThis location offers the unique advantage of being on public BLM land with no permit requirement and no collection fees. The moderate slope terrain means you can access productive collecting areas without scrambling over extreme terrain, though sturdy footwear and careful footing are still recommended. The peak itself provides elevation and views across the Elko valley, making this a rewarding location for both mineral collection and landscape appreciation.\n\nBest collecting is found in the washes and hillside exposures where weathering has already freed specimens from the host rock. The semi-arid Nevada climate means less vegetation obscures the ground than in other regions, giving you good visibility of surface specimens. Patience and systematic searching of promising areas typically yields consistent finds.",
+  "history": "Sugar Loaf Peak and the surrounding Elko County terrain formed during the Tertiary volcanic and hydrothermal episodes that created much of Nevada's mineral wealth. Silica-rich fluids migrating through fractured volcanic rocks and sediments deposited the chalcedony and agate that visitors collect today, while quartz crystallized in veins and cavities throughout the region.",
+  "tips": "Search the washes and arroyos first - water erosion naturally exposes and concentrates loose specimens on the surface and in gravels. Look for banded agate and chalcedony in whites, grays, and soft browns; specimens here tend toward subtle earth tones rather than vivid reds or oranges. Bring a small hand pick and cloth bag to carefully extract specimens without damaging them, and scan the ground systematically as you walk - many finds are easy to miss against the tan and gray volcanic soils. Visit after spring rains when fresh material is exposed, but avoid the area during heavy winter snow when access becomes difficult.",
+  "terrain_notes": "Elevation 6,402 feet with moderate slope on exposed hillsides and in shallow washes. Terrain is rocky with volcanic material and scattered low sagebrush typical of high desert Nevada. Ground footing is uneven with loose rock common; sturdy hiking boots strongly recommended. Walking distance from parking depends on specific pullout used, typically 0.25 to 1 mile to productive collecting areas.",
+  "best_season": "May - October. Higher elevation means snow and ice make access difficult November through April. Summer heat is moderate at this elevation compared to lower Nevada sites. Spring through fall offers the most consistent collecting and easiest access.",
+  "written_directions": "From Elko, take US 93 south toward Wells. Continue south on US 93 for approximately 25-30 miles. Watch for BLM access points and dirt roads heading east toward Sugar Loaf Peak. A high-clearance vehicle is recommended for the final approach roads, which can be rough and rutted depending on season. Park at a natural pullout near productive hillsides and washes. Multiple access points exist; consult BLM maps or local rockhounding guides for current road conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM roads with variable conditions. May be rocky and rutted; high-clearance vehicle recommended. Passable year-round during dry months but can be impassable after heavy snow or rain.",
+  "parking_notes": "Multiple informal pullouts along BLM access roads. No developed parking lot. Park in level areas well off active roads. Capacity varies by pullout; typically accommodate 2-5 vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or mechanized equipment. Collect only loose specimens and those from legal surface collection - do not hammer at outcrops or expand existing holes. Pack out all trash.",
+  "quantity_limits": "25 lbs per day per FLPMA",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo hammering outcrops or expanding holes\nPack out all trash\nStay on established BLM access routes",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Elko, Nevada - approximately 25-30 miles north. Full services including gas, restaurants, lodging, and supply stores. Wells, Nevada is approximately 40-50 miles northeast with basic services.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing and modest elevation gain if accessing upper hillsides. Mostly accessible to able-bodied adults and older children in good physical condition. No wheelchair access on BLM roads or collecting areas. Sturdy hiking footwear essential due to loose volcanic rock. Not suitable for visitors with significant mobility limitations.",
+  "alternative_names": [],
+  "nearest_city": "Elko",
+  "nearest_city_distance": 27,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/sugar-loaf-peak-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Sugar Loaf Peak in Nevada?",
+      "answer": "Sugar Loaf Peak on BLM land near Elko is known for agate, jasper, chalcedony, and quartz specimens. Most finds are subtle earth tones - whites, grays, and soft browns typical of the region's volcanic heritage. While these may not have the vivid colors of gem-quality specimens, they are excellent for collectors and craftspeople."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Sugar Loaf Peak?",
+      "answer": "No permit is required. Sugar Loaf Peak sits on Nevada BLM public land where recreational rock and mineral collecting is allowed under personal-use provisions of the Federal Land Policy and Management Act. You do not need to file any paperwork or pay any fees to collect here."
+    },
+    {
+      "question": "What is the daily collection limit at Sugar Loaf Peak near Elko?",
+      "answer": "The BLM allows a maximum of 25 pounds per day per person for personal use collection. This limit applies to all rockhounding on Sugar Loaf Peak and surrounding Elko County BLM land. Commercial collection and sales are prohibited."
+    },
+    {
+      "question": "When is the best time of year to rockhound Sugar Loaf Peak?",
+      "answer": "May through October is ideal. The 6,402-foot elevation means winter snow and ice make access difficult from November through April. Spring through fall provides the easiest access and most comfortable collecting conditions, with May and September offering moderate temperatures and fresh specimens exposed by spring runoff and summer storms."
+    },
+    {
+      "question": "Is Sugar Loaf Peak rockhounding site suitable for families and beginners?",
+      "answer": "Yes, Sugar Loaf Peak is beginner-friendly and family-suitable. The moderate terrain and accessible collecting on exposed hillsides and washes require no technical skills. Children ages 6 and up can participate with adult supervision. The free access with no permit requirement makes it an economical choice for families new to rockhounding."
+    },
+    {
+      "question": "What tools and equipment do you need to rockhound at Sugar Loaf Peak?",
+      "answer": "Bring sturdy hiking boots for uneven rocky terrain, a small hand pick or chisel for extracting specimens, a cloth or mesh bag for your finds, and plenty of water - the high desert Nevada sun and elevation require extra hydration. Sunscreen and a hat are essential. A GPS device or map of BLM access roads is helpful for navigation and finding productive pullouts."
+    }
+  ],
+  "meta_title": "Sugar Loaf Peak Rockhounding - Nevada BLM",
+  "meta_description": "Free rockhounding on Nevada BLM land near Elko. Find agate, jasper, and chalcedony. No permit required. 25 lb daily limit. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "parking_notes",
+    "road_conditions",
+    "written_directions",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T09:50:04.297Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:42.665Z"
+}

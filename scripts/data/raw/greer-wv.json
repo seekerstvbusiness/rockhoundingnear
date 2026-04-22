@@ -1,0 +1,60 @@
+{
+  "slug": "greer-wv",
+  "name": "Greer",
+  "lat": 39.5722,
+  "lng": -79.841604,
+  "state": "West Virginia",
+  "state_slug": "west-virginia",
+  "state_code": "WV",
+  "city": "Monongalia County",
+  "city_slug": "monongalia-county",
+  "county": "Monongalia",
+  "county_slug": "monongalia",
+  "geocoded_city": "Masontown",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-west-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Greer%20West%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Greer",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Greer%20West%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1452,
+      "meters": 443
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:28:18.381Z"
+  },
+  "scraped_at": "2026-04-21T17:28:18.381Z",
+  "scrape_quality": "minimal"
+}

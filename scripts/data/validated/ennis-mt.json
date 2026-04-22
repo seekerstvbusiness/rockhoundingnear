@@ -1,0 +1,102 @@
+{
+  "slug": "ennis-mt",
+  "name": "Ennis",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Ennis",
+  "city_slug": "ennis",
+  "county": "Madison",
+  "county_slug": "madison",
+  "lat": 45.193066,
+  "lng": -111.939373,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "High-elevation BLM rockhounding in the Madison Range with opportunities to find quartz, agate, and jasper specimens. Alpine terrain with stunning mountain views and minimal crowds.",
+  "description": "The Ennis area in Madison County sits at the heart of Montana's Northern Rocky Mountains, offering public BLM land opportunities for recreational rockhounding at elevations near 8,760 feet. This remote mountain setting provides access to quartz-rich formations and agate deposits typical of the Basin and Range province where ancient Precambrian metamorphic rocks and Tertiary volcanic activity created diverse mineral assemblages. The steep terrain surrounding Ennis rewards patient collectors who explore hillsides, stream washes, and exposed outcrops where erosion continuously exposes fresh specimens.\n\nThe high elevation and mountain environment mean that rockhounding here is distinctly seasonal, with most collecting occurring in the short summer window. The landscape is dominated by lodgepole pine and subalpine fir forests, with rocky slopes and talus fields interspersed. Specimens found here often reflect the region's complex geologic history - you may encounter both silica-based gems from ancient hot springs and specimens from metamorphic upheaval.\n\nThis location is ideal for rockhounders comfortable with moderate hiking and elevation changes. The BLM regulations are straightforward: personal use only, 25 lbs per day maximum, no permits required. The remoteness and steep terrain mean you should come prepared for variable weather and be self-sufficient. Summer afternoon thunderstorms are common at this elevation, so early morning starts are recommended.\n\nWhile the Ennis area does not have the famous commercial fee dig operations found elsewhere in Montana, the public land access and lack of crowds make it attractive for serious collectors seeking specimens in a pristine alpine setting. The combination of high elevation, diverse geology, and minimal foot traffic means specimens are regularly exposed by natural erosion processes.",
+  "history": "The Ennis area lies within the Northern Rocky Mountain province, where Precambrian gneiss and schist basement rocks were uplifted and exposed during the Laramide orogeny. Tertiary-age volcanic activity and associated hydrothermal processes deposited silica-rich fluids that crystallized into quartz veins, agates, and jasper deposits found throughout the Madison Range. This same geologic setting drew prospectors and miners during Montana's historic mining era, though the high elevation and steep terrain limited large-scale extraction operations.",
+  "tips": "Search stream washes and talus slopes where gravity naturally concentrates eroded specimens - these areas often yield the highest quality finds with minimal digging. Focus on areas with exposed quartz outcrops and decomposed granite; the lighter-colored aggregates often contain small agate nodules and jasper fragments. Bring a light hammer and chisel to carefully extract specimens from weathered matrix rather than large-scale excavation. Since this is high elevation with short seasons, collect ethically and selectively - take only specimens that are clearly loose or naturally exposed, and avoid aggressive hammering that damages fragile alpine ecology.",
+  "terrain_notes": "Elevation approximately 8,760 feet with steep, rocky terrain throughout. Alpine and subalpine forest with extensive talus fields and exposed bedrock outcrops. Walking distances from parking areas vary from 0.5 to 2+ miles depending on access points. Footing is challenging with loose rock, uneven terrain, and frequent elevation changes. No marked trails in most rockhounding areas - route-finding required. High elevation weather can change rapidly; afternoon thunderstorms common in summer months.",
+  "best_season": "June - September. High elevation means early and late season access is blocked by snow. July and August offer the most stable weather, though afternoon thunderstorms are frequent. September provides good conditions before early fall storms. Avoid October onwards when snow becomes likely.",
+  "written_directions": "From Ennis, take Montana Highway 287 south toward the Madison Range. Look for BLM land markers and pullouts on both sides of the highway. The exact access point depends on which drainage or hillside you target - GPS coordinate 45.193066, -111.939373 is within the Ennis rockhounding area. Approach via high-clearance vehicle preferred; most parking areas are small pullouts along Highway 287 or rough Forest Service roads branching east toward the Madison Range. High-clearance or 4WD recommended for side roads to upper elevations. Confirm current road conditions locally before departure, as mountain roads can deteriorate seasonally.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Highway 287 is paved. Side roads and access routes to upper elevation BLM parcels are rough, rocky, and require high-clearance vehicles. Some roads are seasonal and may be impassable in winter or wet conditions.",
+  "parking_notes": "Informal pullouts along Highway 287 and at trailheads accessing BLM land. No designated parking lot; capacity varies from 2-5 vehicles per pullout. Arrive early during peak season (July-August) to secure parking. Some remote access points may have no parking infrastructure.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or power tools allowed. Pack out all waste. Respect active mining claims if posted. Do not collect from marked cultural resource sites.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nPack out all waste\nRespect mining claim boundaries\nNo collecting from cultural resource sites\nFollow all posted closure notices",
+  "beginner_friendly": false,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote",
+    "cliffs"
+  ],
+  "nearest_services": "Ennis, Montana, approximately 8-15 miles west. Has gas, food, lodging, and supplies. Madison Valley area is remote with limited services.",
+  "accessibility_notes": "Steep, rocky terrain with significant elevation change and challenging footing. Uneven ground, loose talus, and exposed bedrock throughout. Not suitable for limited mobility or those uncomfortable with steep slopes. Route-finding required in most areas - no marked trails. Sturdy hiking boots essential. Expect 1-2 mile hikes from parking areas to productive collecting zones. High elevation (8,760 ft) means altitude effects for unacclimated visitors.",
+  "alternative_names": [],
+  "nearest_city": "Ennis",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/ennis-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/ennis-mt/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/ennis-mt/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can you find rockhounding near Ennis, Montana on BLM land?",
+      "answer": "The Ennis area is known for quartz specimens, agate nodules, jasper fragments, and chalcedony deposits. These form in the Madison Range due to Precambrian metamorphic rocks and Tertiary-age hydrothermal activity. Most specimens are found in talus fields and stream washes where natural erosion exposes them."
+    },
+    {
+      "question": "Do you need a permit to rockhound on BLM land near Ennis?",
+      "answer": "No permit is required for recreational collecting on BLM land near Ennis. Montana BLM regulations allow personal use collection up to 25 lbs per day per FLPMA. This site is completely free and open access, though you should verify current closures before visiting."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Ennis?",
+      "answer": "June through September is the only viable season for rockhounding at Ennis due to the high elevation (8,760 ft) and mountain climate. July and August offer the most stable weather, though afternoon thunderstorms are frequent. September is excellent before early fall snow arrives. October onwards is blocked by snow."
+    },
+    {
+      "question": "Is the Ennis rockhounding area good for beginners and families?",
+      "answer": "The Ennis area is challenging for beginners due to steep, rocky terrain, loose talus, and difficult route-finding. It is best suited for rockhounders aged 12+ who are comfortable hiking in mountains and navigating without marked trails. Families with younger children should consider lower-elevation, easier Montana rockhounding sites instead."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding near Ennis?",
+      "answer": "Bring a light hammer and chisel to carefully extract specimens from matrix. Wear sturdy hiking boots rated for rocky terrain and altitude (boots should support ankles on uneven ground). Pack plenty of water, sunscreen, insect repellent, and a headlamp - afternoon thunderstorms are common. A backpack with capacity for 25 lbs of specimens is essential. GPS device or map recommended since trails are unmarked."
+    },
+    {
+      "question": "Can you bring dogs rockhounding on BLM land near Ennis?",
+      "answer": "Yes, dogs are allowed on BLM land near Ennis. However, the steep, rocky terrain and high elevation make this challenging for most dogs. Ensure your dog is fit, well-trained, and carries water. Keep dogs close and away from wildlife. The remote location and rough terrain mean this is best suited for experienced hiking dogs rather than casual pets."
+    }
+  ],
+  "meta_title": "Ennis Rockhounding - Find Quartz & Agate in Montana",
+  "meta_description": "Find quartz, agate, and jasper on public BLM land near Ennis, Montana. Free rockhounding, 25 lb daily limit, high alpine terrain. Perfect for experienced collectors.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "specific_access_roads",
+    "current_blm_parcel_status",
+    "seasonal_road_closures",
+    "exact_parking_coordinates"
+  ],
+  "enriched_at": "2026-04-21T19:07:08.085Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:23.018Z"
+}

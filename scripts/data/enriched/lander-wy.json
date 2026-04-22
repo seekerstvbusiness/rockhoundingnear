@@ -1,0 +1,96 @@
+{
+  "slug": "lander-wy",
+  "name": "Lander",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Lander",
+  "city_slug": "lander",
+  "county": "Fremont",
+  "county_slug": "fremont",
+  "lat": 42.823425,
+  "lng": -108.79258,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land near Lander offers rockhounding for agate, jasper, and quartz. No permit required, 25 lbs per day personal collection limit.",
+  "description": "The Lander area sits within the eastern foothills of the Wind River Mountains on prime Bureau of Land Management territory, offering accessible rockhounding for collectors of all skill levels. This region is known for producing quality agate specimens, jasper of various colors, and quartz formations that reflect the area's rich mineral geology. The moderate slopes and semi-arid climate make the terrain approachable without requiring specialized gear or extensive hiking, though sturdy shoes and sun protection are essential.\n\nWyoming's mineral deposits in this region were formed during extensive geological activity spanning from the Precambrian through the Tertiary period. Silica-rich groundwater percolating through the Absaroka and Wind River formations deposited secondary minerals in fractures and nodules, creating the agate and chalcedony specimens found here today. The area's elevation of 5697 feet provides a pleasant collecting environment with cooler temperatures than lower desert rockhounding sites.\n\nExpect to find specimens weathering out of hillsides and wash banks where erosion naturally exposes the mineral matrix. The moderate slopes mean you will be walking over uneven rocky terrain, but accessibility is reasonable compared to high alpine or remote backcountry sites. Local knowledge suggests that areas near seasonal drainage channels tend to concentrate specimens.\n\nAs BLM land, Lander offers one of the most user-friendly rockhounding experiences in Wyoming - no permits, no fees, and straightforward regulations. This makes it ideal for families, beginners, and anyone wanting to collect specimens without bureaucratic barriers. The proximity to the town of Lander means supplies, water, and services are nearby, reducing the need for extensive planning.",
+  "history": "This area sits within the eastern flank of the Wind River Mountains, where Precambrian basement rocks and younger Paleozoic and Mesozoic sedimentary sequences have been heavily mineralized through hydrothermal processes spanning multiple geological periods. Silica-rich fluids circulating during the Laramide orogeny and subsequent Basin and Range extension deposited secondary quartz, agate, and chalcedony into fractures and cavities, creating the specimens rockhounders find today.",
+  "tips": "Search along dry washes and the banks of seasonal drainage channels where erosion naturally exposes agate and jasper nodules - these areas concentrate specimens better than random hillside searching. Look for the characteristic chalky white, banded, or reddish coloring of agate just beneath the surface soil; use a flathead screwdriver or small pry bar to gently test likely-looking rocks before committing effort to extraction. Bring at least one 5-gallon bucket to manage your daily 25-pound limit, and search higher ground after heavy rain when new material is exposed. Early morning or late afternoon collecting lets you avoid midday heat and gives you better visibility on the tan and brown landscape.",
+  "terrain_notes": "Elevation 5697 feet with moderate slopes throughout the collection area. Terrain consists of sagebrush-covered hillsides interspersed with rock outcrops and dry washes. Footing is uneven and rocky; expect to encounter loose cobbles and sharp-edged stones. Walking distances from parking typically range from 100 feet to 1 mile depending on the specific BLM parcel accessed. The moderate elevation keeps temperatures reasonable even in summer, but winter snow and cold can make access difficult November through March.",
+  "best_season": "June - September. The high elevation (5697 ft) experiences significant winter snow and cold that can make access difficult or impossible December through April. Spring runoff (May) can create flooding in washes. Summer and early fall offer stable weather, accessible roads, and good specimen visibility. Late September can still be excellent before first snow arrives.",
+  "written_directions": "From Lander, take Wyoming State Highway 287 north toward Riverton approximately 5 miles. Look for BLM access points and parking pullouts on either side of the highway in areas marked for public land. Alternatively, from Lander take US Highway 287 east toward Dubois and watch for unmarked BLM access roads and parking areas along the highway corridor in Fremont County. A high-clearance vehicle is recommended for accessing some remote BLM parcels, but the highway corridor areas are accessible by standard passenger vehicles. GPS coordinates 42.823425, -108.79258 mark a central reference point; consult current BLM maps for specific open collection areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway access (US 287 and WY 287) with good maintenance. Secondary BLM access roads range from improved dirt to rough two-track; passenger vehicles can access main highway pullouts and lower-grade roads, but high-clearance or AWD vehicles are better suited for remote parcels.",
+  "parking_notes": "Unmarked pullouts along US 287 and WY 287 corridor. No formal parking area; rockhounders use roadside turnouts and informal parking areas on BLM land. Capacity varies by location but typically accommodates 2-5 vehicles per pullout. Always park well off the road to avoid blocking traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or bulk removal. No motorized excavation or tools such as backhoes. Hand tools (pry bars, small picks, hammers) are acceptable for specimen extraction. Do not disturb vegetation or wildlife. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools permitted\nNo damage to vegetation or habitat\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Lander, Wyoming (5 miles south) - full services including gas stations, restaurants, groceries, and a hospital. Riverton (20 miles north) also offers food and fuel.",
+  "accessibility_notes": "Relatively flat to moderately sloped terrain accessible to most hikers in reasonable physical condition. Parking pullouts are at roadside with minimal walking to collection areas. Uneven rocky footing requires sturdy boots and careful stepping. No wheelchair accessibility due to rough terrain, but collectors with limited mobility can work near parking areas where specimens are often visible. Loose rocks and sharp-edged stones require caution.",
+  "alternative_names": [],
+  "nearest_city": "Lander",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/lander-wy/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Lander, Wyoming?",
+      "answer": "The Lander area is known for agate, jasper, quartz, and chalcedony specimens. You'll find colorful banded agates, red and brown jasper, and clear to milky quartz formations eroding out of hillsides and wash banks. Most specimens are small to medium-sized and suitable for collectors of all skill levels."
+    },
+    {
+      "question": "Do you need a permit to rockhound on BLM land near Lander?",
+      "answer": "No permit is required for rockhounding on BLM land near Lander. Personal use collection is allowed under the Federal Land Policy and Management Act (FLPMA) with a 25-pound per day limit. This makes Lander one of the most accessible rockhounding destinations in Wyoming."
+    },
+    {
+      "question": "What is the best time of year to find agate and jasper near Lander?",
+      "answer": "June through September is ideal for rockhounding near Lander. The high elevation (5697 feet) means winter snow and cold (November-April) can make access difficult, while spring runoff in May can flood washes. Summer and early fall offer stable weather, accessible roads, and the best specimen visibility."
+    },
+    {
+      "question": "What tools do you need for rockhounding in the Lander, Wyoming area?",
+      "answer": "Basic hand tools work well here: a flathead screwdriver, small pry bar, rock hammer, and chisel for specimen extraction. Bring a 5-gallon bucket to carry your daily limit, sturdy hiking boots for rocky terrain, sunscreen, water, and a hat. High-clearance vehicles or 4x4s help access remote BLM parcels, but passenger vehicles can use highway corridor pullouts."
+    },
+    {
+      "question": "Is rockhounding near Lander suitable for beginners and families with kids?",
+      "answer": "Yes, Lander is excellent for beginners and families. The terrain is moderately sloped (not steep), parking is close to collection areas, and specimens are visible enough that children ages 6 and up can participate. No permits or fees remove barriers to entry, and the nearby town provides all necessary supplies and services."
+    },
+    {
+      "question": "Where exactly should you search for specimens near Lander on BLM land?",
+      "answer": "Focus your search along dry washes and seasonal drainage channels where erosion naturally exposes agate and jasper nodules. Look at the banks and bottoms of these features for the characteristic chalky, banded, or reddish coloring of agate specimens. Hillsides with visible rock outcrops and loose surface stones are also productive. Early morning or late afternoon collecting gives you better visibility on the tan landscape."
+    }
+  ],
+  "meta_title": "Lander, Wyoming Rockhounding - Agate & Jasper",
+  "meta_description": "Collect agate, jasper, and quartz on BLM land near Lander, WY. No permit required, 25 lbs daily limit. Easy access and family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from general area knowledge)",
+    "gem_types (based on typical Wind River region geology)",
+    "specific_blm_parcel_info (general BLM designation only, specific parcels should be verified with current BLM maps)"
+  ],
+  "enriched_at": "2026-04-22T06:40:41.120Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:43:54.570Z"
+}

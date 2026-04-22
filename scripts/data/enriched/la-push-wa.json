@@ -1,0 +1,104 @@
+{
+  "slug": "la-push-wa",
+  "name": "La Push",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "La Push",
+  "city_slug": "la-push",
+  "county": "Clallam",
+  "county_slug": "clallam",
+  "lat": 47.905015,
+  "lng": -124.63491,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Coastal rockhounding paradise where the Pacific Ocean exposes colorful agates, jaspers, and quartz specimens along dramatic sea stacks and sandy beaches near Olympic National Park.",
+  "description": "La Push sits on the wild coast of the Olympic Peninsula in northwestern Washington, where Clallam County beaches offer some of the Pacific Northwest's most accessible and scenic rockhounding. The town of La Push sits directly on the coast at the mouth of the Quillayute River, making it an ideal base for exploring multiple beach coves and tide pools. The primary rockhounding occurs along the sandy and rocky beaches, particularly around First Beach, Second Beach, and Third Beach accessed via short hiking trails through temperate rainforest.\n\nThe beaches here are rich with waterworn agates, jaspers, and quartz specimens tumbled smooth by decades of Pacific Ocean action. The rocks originate from the Crescent Formation, a Late Cretaceous basaltic and ultramafic ocean floor assemblage that was accreted to the North American margin and now comprises much of the Olympic Peninsula core. Constant wave action, tidal movement, and winter storms continuously expose fresh material and move stones downslope, creating excellent conditions for finding specimens year-round.\n\nThis is beginner-friendly rockhounding because specimens are naturally tumbled and easily spotted on the beach surface - no digging required. You can walk the beaches during low tide to maximize exposed stone areas. The dramatic setting with sea stacks, sea caves, and tide pools adds to the experience, though the environment also demands respect for ocean conditions and weather.\n\nCollecting is permitted on these public beaches as long as you follow Leave No Trace principles and respect any seasonal closures for wildlife protection (particularly in spring for bird nesting). The area can be crowded during summer weekends, so visiting in shoulder seasons (spring or fall) provides better access and solitude. Bring good footwear for rocky, slippery terrain and always be aware of tide tables - the beach can be cut off by incoming tides in some coves.",
+  "history": "La Push beaches represent the eroded margin of the Crescent Formation, a Cretaceous oceanic basalt and ultramafic rocks that was thrust onto the continental margin approximately 50 million years ago during the Juan de Fuca plate subduction. The constant Pacific Ocean wave action, combined with winter storm surge and tidal cycles, continuously weathers and tumbles stones, exposing fresh agate and jasper specimens from the ancient ocean floor materials and sedimentary deposits that have accumulated here over millennia.",
+  "tips": "Search along the waterline and in the active beach face during low tide - this is where heavier stones collect and where fresh material is most recently exposed. Look for translucent to opaque banded agates in cream, white, rust, and grey tones, as well as reddish and brown jasper pieces. Bring a small mesh bag or bucket to carry specimens and keep hands free for balance on slippery rocks. Check tide tables before heading out and plan your beach time for the lowest tide window to maximize your collecting area.",
+  "terrain_notes": "Flat to gently sloping sandy beaches with rocky outcrops, sea stacks, and boulder fields. Elevation is essentially sea level (5 ft). Footing is slippery and uneven - a mix of sand, smooth stones, and wet rock requires sturdy waterproof hiking boots with good grip. Short hiking trails (1-2 miles roundtrip) through dense temperate rainforest connect the town to beach access points. No motorized vehicles on the beach; walking is the only option once you reach the sand.",
+  "best_season": "October - April. Winter and early spring bring the calmest beach conditions and freshest material exposed by winter storms, plus lower crowds. Summer (July-August) offers the most stable weather but draws significant tourist traffic that can degrade the rockhounding experience. Late fall through early spring provides ideal conditions with cooler temperatures and manageable daylight hours.",
+  "written_directions": "From Port Angeles, take US 101 west toward Forks for approximately 50 miles. Continue on US 101 as it curves through Forks, then take Highway 110 west toward La Push for 13 miles. The highway ends in the small town of La Push at the coast. Park at the La Push community parking area near the ranger station and beach access points. First Beach is immediately accessible from the main parking area; Second and Third Beaches require short hiking trails (0.5 to 1.5 miles) from the main access point.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "state_park",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway (US 101, Highway 110) in good condition. Last few miles into La Push are standard two-lane road. No high-clearance vehicle needed. During winter storms, road conditions can deteriorate - check before traveling.",
+  "parking_notes": "La Push has a main community parking area near the beach with approximately 30-50 spaces. Additional parking is available along the road leading to Second and Third Beach trailheads. Parking fills on summer weekends and holidays. All parking is free and first-come, first-served.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal collection of small specimens is permitted on public beaches for non-commercial use. Respect all posted closures and wildlife protection areas, particularly during spring nesting season. Leave No Trace principles apply - do not disturb tide pools excessively or damage habitat. Check with local rangers for any seasonal restrictions before collecting. Commercial collection and excavation are prohibited.",
+  "quantity_limits": null,
+  "rules": "Non-commercial personal collection only\nRespect posted closures and wildlife areas\nNo motorized equipment\nLeave No Trace principles apply\nCheck tide tables before visiting\nBe aware of ocean safety hazards",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "La Push has very limited services. Forks (approximately 13 miles east on Highway 110) has gas stations, restaurants, and basic supplies. Port Angeles (approximately 60 miles east) offers full services including lodging and grocery stores.",
+  "accessibility_notes": "Beach access requires walking on uneven, slippery terrain with wet rocks and sand. No wheelchair accessibility on the beach itself. Short hiking trails to Second and Third Beaches are uneven forest paths with roots and rocks. Sturdy waterproof boots with excellent grip are essential. Not suitable for limited mobility. Children should be supervised closely near water and rocks.",
+  "alternative_names": [
+    "First Beach La Push",
+    "Second Beach La Push",
+    "Third Beach La Push"
+  ],
+  "nearest_city": "Forks",
+  "nearest_city_distance": 13,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/la-push-wa/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/la-push-wa/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and jaspers can you find at La Push beaches?",
+      "answer": "La Push beaches yield a variety of tumbled agates including banded varieties in cream, white, grey, and rust tones, plus translucent specimens. Red, brown, and tan jaspers are common finds. The Pacific Ocean tumbles these specimens smooth over years, making them easy to spot on the beach surface. Most stones range from 0.5 to 3 inches, though larger specimens occasionally appear."
+    },
+    {
+      "question": "Is rockhounding at La Push free, and do you need a permit?",
+      "answer": "Yes, rockhounding at La Push beaches is completely free and requires no permit for personal, non-commercial collection. The beaches are public access areas managed by the state. You only need to respect posted closures and wildlife protection areas, particularly during spring bird nesting season."
+    },
+    {
+      "question": "What is the best time of year to find agates at La Push?",
+      "answer": "October through April is ideal for rockhounding at La Push. Winter storms expose fresh material and create the best beach conditions. Summer months (July-August) are warmer but bring heavy tourist traffic and fewer fresh specimens. Plan your visit around low tide, which varies seasonally - check tide tables before going."
+    },
+    {
+      "question": "How difficult is rockhounding at La Push for beginners?",
+      "answer": "La Push is highly beginner-friendly because specimens are naturally tumbled and visible on the beach surface - no digging or special equipment needed. You can walk the beach and spot agates and jaspers without experience. The main challenge is the slippery, rocky terrain requiring good footwear and caution near cliffs and water."
+    },
+    {
+      "question": "What should you bring for rockhounding at La Push beaches?",
+      "answer": "Bring sturdy waterproof hiking boots with excellent grip for slippery rocks, a small mesh bag or bucket for specimens, and check a tide table before going. A light jacket or rain gear is essential year-round on the Washington coast. Hand lens or magnifying glass helps identify specimens, and sunscreen is useful for sunny days."
+    },
+    {
+      "question": "Are there hiking trails to reach all the beaches at La Push?",
+      "answer": "First Beach is immediately accessible from the main parking area. Second Beach requires a 1-mile roundtrip hiking trail through temperate rainforest with some elevation gain. Third Beach requires approximately a 1.5-mile roundtrip trail. All trails are well-maintained but uneven forest paths. Hiking boots are essential, and all trails offer excellent rockhounding opportunities along the beach."
+    }
+  ],
+  "meta_title": "La Push Rockhounding - Find Agates & Jasper",
+  "meta_description": "Hunt for agates, jaspers, and quartz at La Push's scenic public beaches. Free, beginner-friendly rockhounding near Olympic National Park. No permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category (inferred as state_park based on public beach access)",
+    "hazards (flash_floods inferred from coastal location and wave hazards)",
+    "collection_rules (inferred from Washington state public beach access norms)",
+    "parking_notes (estimated capacity based on typical coastal town infrastructure)"
+  ],
+  "enriched_at": "2026-04-21T19:18:36.310Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:20:16.936Z"
+}

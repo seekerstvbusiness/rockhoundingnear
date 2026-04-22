@@ -1,0 +1,65 @@
+{
+  "slug": "tallapoosa-mines-nv",
+  "name": "Tallapoosa Mines",
+  "lat": 39.454976,
+  "lng": -119.279444,
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "state_code": "NV",
+  "city": "Lyon County",
+  "city_slug": "lyon-county",
+  "county": "Lyon",
+  "county_slug": "lyon",
+  "geocoded_city": "Lyon County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nevada.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Tallapoosa%20Mines%20Nevada"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Nevada BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Tallapoosa%20Mines",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Tallapoosa%20Mines%20Nevada"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Nevada BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 5498,
+      "meters": 1676
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:33:15.343Z"
+  },
+  "scraped_at": "2026-04-21T19:33:15.343Z",
+  "scrape_quality": "partial"
+}

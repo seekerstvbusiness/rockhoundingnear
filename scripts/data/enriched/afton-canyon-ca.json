@@ -1,0 +1,97 @@
+{
+  "slug": "afton-canyon-ca",
+  "name": "Afton Canyon",
+  "state": "California",
+  "state_slug": "california",
+  "city": "San Bernardino",
+  "city_slug": "san-bernardino",
+  "county": "San Bernardino",
+  "county_slug": "san-bernardino",
+  "lat": 35.039103,
+  "lng": -116.385336,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "Free BLM rockhounding in the Mojave Desert where colorful agates and chalcedony nodules weather out of ancient alluvial deposits. Easy access with scenic canyon views.",
+  "description": "Afton Canyon is a popular and accessible BLM rockhounding destination in San Bernardino County, located within the eastern Mojave Desert landscape. The site features excellent collecting opportunities for agate, chalcedony, and quartz specimens that erode naturally from hillsides and wash bottoms. The gentle terrain and short walking distances make this an ideal location for families and beginners wanting to experience desert rockhounding without technical difficulty.\n\nThe geology here reflects the complex alluvial history of the Mojave Desert. Miocene and Pliocene-age gravels containing silica-rich minerals were deposited as ancient fans and washes flowed from surrounding mountains. Over millions of years, groundwater rich in silica percolated through these deposits, cementing them and forming nodular agates and chalcedony specimens. Today, ongoing erosion and weathering naturally expose these gems on hillsides and in dry washes, where rockhounders can find them without excavation.\n\nThe landscape is typical Mojave Desert scrub with creosote, burro bush, and scattered rocks. Elevation is low at 1412 feet with gentle slopes throughout the collection areas. Most productive spots are within easy walking distance from parking, usually under 0.5 miles. The terrain is mostly firm sandy soil and decomposed granite with scattered stones underfoot.\n\nThis location is ideal for weekend rockhounding trips from the San Bernardino area. Bring plenty of water, sun protection, and sturdy shoes. The open desert setting offers excellent visibility for spotting agates among the rocks. Collectors often find specimens ranging from thumbnail size to several inches across, though the highest concentration tends to be fist-sized pieces.",
+  "history": "Afton Canyon sits within the Basin and Range province where Miocene volcanism and subsequent alluvial deposition created thick sequences of sediment and gravel containing silica-rich minerals. The agate and chalcedony nodules found here formed over millions of years as groundwater saturated these desert alluviums, cementing silica around microscopic quartz crystals into the hard, colorful specimens collected today.",
+  "tips": "Search along dry wash banks and erosional hillsides where water has exposed the surface layer - agates often weather out and accumulate in shallow gullies. Look for the characteristic banded or mottled appearance of agates; they often have a translucent or waxy luster that distinguishes them from ordinary rocks. Bring a small pry bar to carefully extract partially exposed specimens from soft matrix without damage. Early morning visits in cooler months allow longer productive collecting time before desert heat becomes oppressive.",
+  "terrain_notes": "Elevation 1412 feet with gentle slopes throughout the collection area. Terrain is typical Mojave Desert with sparse creosote and burro bush vegetation. Footing is mostly firm sandy soil mixed with decomposed granite and scattered stones. Walking distance from parking to productive areas is usually under 0.5 miles. No significant elevation gain. Well-defined trails and wash access make navigation straightforward.",
+  "best_season": "October - April. Desert heat in May through September reaches extreme levels (often exceeding 100 degrees F), making collecting uncomfortable and dangerous. Fall through spring offers ideal conditions with cooler temperatures and occasional light rains that can expose fresh material.",
+  "written_directions": "From San Bernardino, take Interstate 15 east toward Victorville for approximately 35 miles. Take the Barstow Road exit and head east for about 8 miles toward Afton. Continue toward the Afton Canyon area following local roads - BLM lands and public access areas are well-marked. GPS coordinates (35.039103, -116.385336) will direct you to primary collecting areas. Parking is available at informal pullouts near the canyon entrance. High-clearance vehicle recommended for accessing some remote sections, but main areas are accessible by passenger car.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway access via Interstate 15. Final approach roads are unpaved dirt with washboard texture. Passenger vehicle suitable for main collection areas. Some remote sites may require high-clearance or 4x4.",
+  "parking_notes": "Informal pullouts and parking areas near canyon entrance and along access roads. No developed parking lot. Space available for 5-15 vehicles depending on specific area. Shaded areas limited; bring sunscreen.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. No collecting in protected areas or closed sections. Remove only loose material and surface specimens - do not hammer on outcrops or blast.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo removal from protected areas\nSurface collection only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "remote",
+    "sharp_material"
+  ],
+  "nearest_services": "Barstow, approximately 20 miles west, has gas, food, water, and supplies. Victorville is approximately 25 miles northwest with similar services.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most fitness levels. Unpaved dirt roads to parking areas but high-clearance not strictly required for main sites. Short walking distances (under 0.5 miles typically) to productive areas. Sturdy hiking shoes recommended for rocky terrain. No formal wheelchair access to collection areas.",
+  "alternative_names": [],
+  "nearest_city": "Barstow",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/afton-canyon-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Afton Canyon, California?",
+      "answer": "Afton Canyon is best known for agate and chalcedony specimens. You can also find quartz and jasper. Most pieces range from thumbnail to fist-sized, though larger specimens are occasionally found. Agates here display typical banded and mottled patterns with colors ranging from white to brown to reddish tones."
+    },
+    {
+      "question": "Is there a fee to rockhound at Afton Canyon BLM land?",
+      "answer": "No, Afton Canyon is free BLM public land. No permit is required for personal use rockhounding. You are limited to collecting 25 lbs per day per FLPMA regulations, but this is sufficient for recreational collecting of agates and chalcedony."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Afton Canyon?",
+      "answer": "October through April is ideal. Desert temperatures from May to September regularly exceed 100 degrees F, making collecting dangerous and uncomfortable. Fall through spring offers pleasant weather and occasional rains that can expose fresh material in washes."
+    },
+    {
+      "question": "Can I bring my family and kids rockhounding at Afton Canyon?",
+      "answer": "Yes, Afton Canyon is family-friendly and beginner-suitable. The gentle terrain, short walking distances, and easy surface collecting make it perfect for children ages 6 and up. Bring plenty of water, sun protection, and supervise children in the open desert environment."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Afton Canyon?",
+      "answer": "Basic supplies include a small pry bar or pick for extracting partially exposed agates, a collecting bag or bucket, work gloves, and sturdy hiking shoes. Bring at least 2-3 liters of water per person, sunscreen, and a hat. A small hand lens helps identify chalcedony versus ordinary quartz in the field."
+    },
+    {
+      "question": "How far is Afton Canyon rockhounding from San Bernardino, and is high-clearance required?",
+      "answer": "Afton Canyon is approximately 50 miles east of San Bernardino, about 1 hour drive via Interstate 15. Passenger vehicles can access the main collection areas, though unpaved dirt roads with washboard texture are typical. Some remote sections may require high-clearance, but beginning rockhounders should focus on accessible areas near the canyon entrance."
+    }
+  ],
+  "meta_title": "Afton Canyon Rockhounding - California BLM",
+  "meta_description": "Free BLM rockhounding for agate, chalcedony, and quartz at Afton Canyon, San Bernardino County. Easy access, no permit required. Find gems year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "road_conditions_detail",
+    "parking_capacity",
+    "cell_service_specific"
+  ],
+  "enriched_at": "2026-04-21T19:33:08.863Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:36:21.388Z"
+}

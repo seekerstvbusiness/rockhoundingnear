@@ -1,0 +1,60 @@
+{
+  "slug": "twentymile-creek-ms",
+  "name": "Twentymile Creek",
+  "lat": 34.58542,
+  "lng": -88.630652,
+  "state": "Mississippi",
+  "state_slug": "mississippi",
+  "state_code": "MS",
+  "city": "Prentiss County",
+  "city_slug": "prentiss-county",
+  "county": "Prentiss",
+  "county_slug": "prentiss",
+  "geocoded_city": "Prentiss County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-mississippi.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Twentymile%20Creek%20Mississippi"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Twentymile%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Twentymile%20Creek%20Mississippi"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 335,
+      "meters": 102
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:32:56.665Z"
+  },
+  "scraped_at": "2026-04-21T16:32:56.665Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "hatch-goethite-area-nm",
+  "name": "Hatch (goethite area)",
+  "lat": 32.756877,
+  "lng": -107.135517,
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "state_code": "NM",
+  "city": "Doña Ana County",
+  "city_slug": "do-a-ana-county",
+  "county": "Doña Ana",
+  "county_slug": "do-a-ana",
+  "geocoded_city": "Doña Ana County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-mexico.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hatch%20(goethite%20area)%20New%20Mexico"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "New Mexico BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hatch%20(goethite%20area)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hatch%20(goethite%20area)%20New%20Mexico"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] New Mexico BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4912,
+      "meters": 1497
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:38:00.923Z"
+  },
+  "scraped_at": "2026-04-21T19:38:00.923Z",
+  "scrape_quality": "partial"
+}

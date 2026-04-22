@@ -1,0 +1,98 @@
+{
+  "slug": "ogden-ut",
+  "name": "Ogden",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Ogden",
+  "city_slug": "ogden",
+  "county": "Weber",
+  "county_slug": "weber",
+  "lat": 41.255148,
+  "lng": -111.834137,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "Public BLM land near Ogden offering recreational rockhounding for quartz, agate, and jasper with no permit required. Perfect for beginners exploring the Wasatch Range foothills.",
+  "description": "The Ogden area sits on Utah BLM land in Weber County, offering accessible rockhounding opportunities in the foothills of the Wasatch Range. This region is known for collecting quartz varieties, agates, and jasper specimens that formed during ancient geological processes in the Great Basin. The terrain combines open BLM parcels with nearby canyon systems, making it ideal for weekend rockhounders looking for personal-use mineral collecting without the complexity of permit requirements. Most collecting happens along washes, hillsides, and exposed geological outcrops where weathering has exposed mineral-bearing material. The area attracts both experienced collectors and beginners because of its accessibility, moderate terrain, and year-round opportunity to visit during favorable weather windows.",
+  "history": "The Ogden area lies within the Basin and Range province where Tertiary-age volcanism and hydrothermal activity deposited silica-rich minerals that crystallized into quartz, chalcedony, and agate formations. These deposits were further concentrated and exposed through millions of years of erosion, creating the collectible specimens found today in washes and on hillsides throughout Weber County.",
+  "tips": "Search along dry washes and stream beds where water action over time has naturally exposed and concentrated lighter mineral material - agates and chalcedony often appear as rounded, translucent pebbles. Look on south-facing slopes and eroded hillsides where weather has broken apart host rock and released individual mineral specimens. Bring a 5-gallon bucket and small pry bar to test loose material; many specimens lie just below the surface in decomposed rock. Focus your effort in areas with exposed geological bedrock rather than vegetated slopes, as this increases your chances of finding quality pieces.",
+  "terrain_notes": "The terrain around Ogden ranges from relatively flat parking areas to moderate rolling foothills. Most rockhounding areas require walking on uneven, rocky ground with scattered vegetation including sagebrush and small junipers. Elevation varies from around 4,200 feet at lower access points to 5,000+ feet on higher hillsides. Footing is generally firm but rocky; sturdy hiking boots are recommended. Walking distances from parking typically range from 0.5 to 2 miles depending on which BLM parcel you access.",
+  "best_season": "April - October. Spring and fall offer the most comfortable temperatures for hiking and rockhounding in the foothills. Summer can be warm (80-90 degrees F) but still accessible with early morning starts. Winter snow and cold temperatures make the higher elevations difficult from November through March, though lower elevation areas may be accessible during mild stretches.",
+  "written_directions": "From downtown Ogden, take US-89 north toward Willard. Continue for approximately 8 miles. Look for BLM access points and pullouts on the east side of US-89 where the highway crosses foothills terrain and approaches canyon mouths. Alternatively, take UT-39 east from Ogden toward Huntsville; several BLM parcels are accessible from this route with pullouts along the road. GPS coordinates 41.255148, -111.834137 mark a central reference point; use this with detailed BLM recreation maps to locate specific open parcels near Ogden.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway access via US-89 and UT-39. Most BLM parking areas accessible by passenger vehicle on paved or well-maintained gravel pullouts. Some secondary access roads may be unpaved but generally passable in dry conditions.",
+  "parking_notes": "Multiple pullouts along US-89 and UT-39 provide informal parking. BLM land near Ogden typically has minimal developed infrastructure; expect roadside pullouts rather than designated lots. Capacity varies from 2-6 vehicles per pullout. No facilities (restrooms, water) at parking areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. Small hand tools only (pry bars, chisels, hammers). Pack out all waste. Stay on open BLM land and respect posted closures.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or resale\nNo motorized excavation equipment\nHand tools only (pry bar, hammer, chisel)\nPack out all waste and trash\nRespect posted closures and seasonal restrictions\nNo collecting on private adjacent land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "heat",
+    "wildlife"
+  ],
+  "nearest_services": "Ogden city center, approximately 5-10 miles depending on access point. Full services including gas, food, water, and lodging available in Ogden.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Uneven rocky footing requires sturdy footwear but no technical climbing. Parking pullouts are accessible by passenger vehicle. No wheelchair access to main collecting areas. Walking distances are short (0.5 - 2 miles) from parking, making it suitable for families with children.",
+  "alternative_names": [],
+  "nearest_city": "Ogden",
+  "nearest_city_distance": 7,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/ogden-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/ogden-ut/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/ogden-ut/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Ogden, Utah on BLM land?",
+      "answer": "The Ogden area is known for quartz, agate, jasper, and chalcedony specimens. These silica-based minerals formed during ancient volcanic and hydrothermal activity and are concentrated in washes and on exposed hillsides throughout Weber County. Most collectors find small to medium-sized pieces suitable for personal collections."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Ogden?",
+      "answer": "No permit is required for recreational rockhounding on Utah BLM land near Ogden. You can collect for personal use up to 25 lbs per day at no cost. Simply follow the collection rules: no commercial use, hand tools only, and pack out all waste."
+    },
+    {
+      "question": "What is the best season to go rockhounding in the Ogden foothills?",
+      "answer": "April through October offers the most comfortable rockhounding conditions. Spring and fall have mild temperatures ideal for hiking and searching. Summer is accessible with early morning starts, while winter snow and cold make the higher elevations difficult from November through March."
+    },
+    {
+      "question": "Is rockhounding in Ogden beginner-friendly and good for families?",
+      "answer": "Yes, Ogden is excellent for beginners and families. The terrain is relatively easy with short walking distances from parking (0.5 - 2 miles), no permits required, and specimens are accessible on the surface and in washes. Kids as young as 6 can participate with adult supervision."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding near Ogden?",
+      "answer": "Bring a 5-gallon bucket, small pry bar or chisel, geology hammer, sturdy hiking boots, and a daypack with water. A hand lens helps identify specimens in the field. Wear sun protection and bring a map of BLM parcels near Ogden. Leave no trace by packing out all trash."
+    },
+    {
+      "question": "Where exactly should I search for agates and quartz in the Ogden area?",
+      "answer": "Focus on dry washes and stream beds where water action concentrates minerals - agates often appear as rounded, translucent pebbles. Search south-facing slopes and eroded hillsides where weathering has exposed specimens. Concentrate effort on areas with visible geological bedrock rather than vegetated slopes for the best results."
+    }
+  ],
+  "meta_title": "Ogden Rockhounding - Utah BLM Agate & Quartz",
+  "meta_description": "Find quartz, agate, and jasper on free BLM land near Ogden, Utah. No permit needed. Personal use, 25 lbs/day. Perfect for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:54:28.060Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:04:19.415Z"
+}

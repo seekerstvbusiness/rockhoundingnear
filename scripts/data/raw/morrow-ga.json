@@ -1,0 +1,60 @@
+{
+  "slug": "morrow-ga",
+  "name": "Morrow",
+  "lat": 33.587011,
+  "lng": -84.346124,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Morrow",
+  "city_slug": "morrow",
+  "county": "Clayton",
+  "county_slug": "clayton",
+  "geocoded_city": "Morrow",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Morrow%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Morrow",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Morrow%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 864,
+      "meters": 263
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:14:13.827Z"
+  },
+  "scraped_at": "2026-04-21T19:14:13.827Z",
+  "scrape_quality": "minimal"
+}

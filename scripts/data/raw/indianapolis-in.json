@@ -1,0 +1,60 @@
+{
+  "slug": "indianapolis-in",
+  "name": "Indianapolis",
+  "lat": 39.709463,
+  "lng": -86.203131,
+  "state": "Indiana",
+  "state_slug": "indiana",
+  "state_code": "IN",
+  "city": "Indianapolis",
+  "city_slug": "indianapolis",
+  "county": "Marion",
+  "county_slug": "marion",
+  "geocoded_city": "Indianapolis",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-indiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Indianapolis%20Indiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Indianapolis",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Indianapolis%20Indiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 661,
+      "meters": 201
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:52:58.938Z"
+  },
+  "scraped_at": "2026-04-21T16:52:58.938Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "middletown-ct",
+  "name": "Middletown",
+  "lat": 41.578389,
+  "lng": -72.640432,
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "state_code": "CT",
+  "city": "Portland",
+  "city_slug": "portland",
+  "county": "Lower Connecticut River Valley Planning Region",
+  "county_slug": "lower-connecticut-river-valley-planning-region",
+  "geocoded_city": "Portland",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-connecticut.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Middletown%20Connecticut"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Middletown",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Middletown%20Connecticut"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 54,
+      "meters": 16
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:11:53.866Z"
+  },
+  "scraped_at": "2026-04-21T18:11:53.866Z",
+  "scrape_quality": "minimal"
+}

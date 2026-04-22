@@ -1,0 +1,98 @@
+{
+  "slug": "dog-valley-ut",
+  "name": "Dog Valley",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Millard County",
+  "city_slug": "millard-county",
+  "county": "Millard",
+  "county_slug": "millard",
+  "lat": 38.66477,
+  "lng": -112.57985,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land in central Utah offering free rockhounding for agate, chalcedony, and jasper. Personal use collecting with no permit required in a remote high desert setting.",
+  "description": "Dog Valley sits on public BLM land in Millard County, Utah, in the heart of the Great Basin high desert. This remote location offers excellent opportunities for free rockhounding under standard BLM recreational collection rules. The landscape is characterized by sparse sagebrush, sandy washes, and exposed geological formations typical of the Basin and Range province.\n\nThe area is particularly known for quality specimens of agate, chalcedony, and jasper that weather out of local geologic formations. These silica-rich minerals formed from ancient hydrothermal activity and weathering processes over millions of years. Rockhounders typically search along washes, bajadas, and exposed hillsides where erosion naturally concentrates collectible material.\n\nDog Valley is best suited for rockhounders willing to work in remote country with minimal services nearby. The BLM designation means no permit is required and collecting is free, but you must follow federal guidelines: personal use only, maximum 25 pounds per day, and no motorized excavation. This is an ideal destination for serious rockhounders and those seeking solitude in Utah's scenic high desert.\n\nThe remote nature of Dog Valley means you should come fully prepared with water, fuel, supplies, and reliable navigation. Cell service is spotty or absent, so plan accordingly. Spring and fall offer the most comfortable collecting conditions, though the high elevation means even summer temperatures remain moderate.",
+  "history": "Dog Valley lies within the Basin and Range province where Tertiary-age volcanism and silica-rich hydrothermal fluids deposited extensive amounts of chalcedony, agate, and jasper. These secondary minerals weathered from host rocks over millions of years, creating the abundant surface specimens rockhounders find today.",
+  "tips": "Search along wash bottoms and bajadas where water erosion has concentrated lighter-weight agate and chalcedony specimens - these areas often yield the most consistent finds. Look for pieces showing banding, color variation, and translucency as signs of quality material. Bring at least 5 gallons of water per person and a GPS device since the terrain is open and featureless; a 10x loupe helps identify chalcedony versus common quartz. Early morning collecting in spring or fall maximizes comfort and visibility of colored stones against the light-colored sandy substrate.",
+  "terrain_notes": "Elevation approximately 5,200 feet. Terrain is gently rolling high desert with sparse sagebrush, rabbitbrush, and desert grass. Walking surfaces range from sandy washes to rocky bajadas with scattered rock outcrops. Most collecting requires hiking 0.5 to 2 miles from vehicle access. Footing is generally stable but uneven, with scattered loose rocks and some sharp volcanic material. No shade or water sources available on-site.",
+  "best_season": "April - May, September - October. Spring and fall offer moderate temperatures ideal for hiking and collecting in the high desert. Summer temperatures exceed 85F with intense sun exposure; winter brings occasional snow and cold at this elevation.",
+  "written_directions": "From Delta, Utah (the nearest town with services), take US 50 east approximately 35 miles. Dog Valley is accessible via BLM roads branching north from US 50 in the vicinity of the Notch Peak area. Consult a detailed Utah BLM map or GPS coordinates (38.66477, -112.57985) as specific road names are not formally marked. High-clearance or all-terrain vehicle recommended for final approach roads which may be sandy or rutted.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "BLM roads are unpaved, sandy, and may require high-clearance or 4WD vehicle depending on recent weather. Road surface is typically washboard dirt with occasional rocky sections. No grading schedule guaranteed.",
+  "parking_notes": "Informal pullouts and parking areas along BLM roads. No developed parking lot. Space for several vehicles at dispersed locations. Plan to park near access points to washes or collecting areas.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or heavy equipment. No threatened or endangered plant collection. All artifacts and paleontological material must remain in place. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo removal of paleontological material or artifacts\nPack out all trash\nLeave no trace",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "cold",
+    "remote",
+    "wildlife",
+    "sharp_material"
+  ],
+  "nearest_services": "Delta, Utah - approximately 35 miles west on US 50. Gas, food, lodging, and water available.",
+  "accessibility_notes": "Uneven rocky and sandy terrain with significant hiking required (0.5 to 2 miles from vehicle). Rough backcountry BLM roads require high-clearance or 4WD. Not suitable for limited mobility or wheelchair access. Sturdy hiking boots essential. No maintained trails or facilities.",
+  "alternative_names": [],
+  "nearest_city": "Delta",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/dog-valley-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Dog Valley, Utah?",
+      "answer": "Dog Valley is known for quality agate, chalcedony, jasper, and quartz specimens. These silica-rich minerals weather naturally from local rock formations and are commonly found along washes and bajadas. The best specimens often display banding, color variation, and translucency."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Dog Valley BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Dog Valley. It is free public BLM land in Utah. You only need to follow standard collection rules: personal use only, maximum 25 pounds per day, and no motorized excavation."
+    },
+    {
+      "question": "How far is Dog Valley from Delta, Utah and what is the drive like?",
+      "answer": "Dog Valley is approximately 35 miles east of Delta, Utah via US 50. Access is via unpaved BLM roads that branch off from US 50 near Notch Peak. A high-clearance or 4WD vehicle is recommended as roads are sandy, rutted, and may require careful navigation."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Dog Valley?",
+      "answer": "Spring (April-May) and fall (September-October) offer ideal collecting conditions with moderate temperatures. Summer temperatures exceed 85F with intense sun exposure at this 5,200-foot elevation, while winter brings occasional snow and cold. Always bring plenty of water regardless of season."
+    },
+    {
+      "question": "Is Dog Valley rockhounding site suitable for beginners and families?",
+      "answer": "Yes, Dog Valley is beginner-friendly for rockhounders willing to handle remote backcountry conditions. Children ages 8 and older can participate with adult supervision. The main challenge is the remote location with no cell service, rough roads, and limited amenities - proper preparation and planning are essential."
+    },
+    {
+      "question": "What should I bring when rockhounding at Dog Valley, Utah?",
+      "answer": "Bring at least 5 gallons of water per person, a GPS device or detailed Utah BLM map, sturdy hiking boots, sun protection, and a 10x loupe to identify specimens. Because cell service is absent, inform someone of your trip plans and expected return time. High-clearance or 4WD vehicle is strongly recommended for road access."
+    }
+  ],
+  "meta_title": "Dog Valley Rockhounding - Utah BLM",
+  "meta_description": "Free rockhounding for agate, chalcedony, and jasper at Dog Valley BLM land near Delta, Utah. No permit required. Remote high desert location.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "specific_road_names",
+    "parking_capacity",
+    "exact_trail_distances"
+  ],
+  "enriched_at": "2026-04-22T06:51:28.167Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:58:20.098Z"
+}

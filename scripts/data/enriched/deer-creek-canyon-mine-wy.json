@@ -1,0 +1,99 @@
+{
+  "slug": "deer-creek-canyon-mine-wy",
+  "name": "Deer Creek Canyon Mine",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Converse County Area",
+  "city_slug": "converse-county",
+  "county": "Converse",
+  "county_slug": "converse",
+  "lat": 42.67272,
+  "lng": -106.041144,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate"
+  ],
+  "short_description": "BLM rockhounding site in the Laramie Range foothills offering quartz and chalcedony specimens. Personal use collecting on public land with no permit required.",
+  "description": "Deer Creek Canyon Mine is a public BLM rockhounding location in the high plains of eastern Wyoming, situated in the Converse County area at an elevation of 6,812 feet. This site lies within the Laramie Range geological province, where Precambrian metamorphic rocks and Paleozoic sedimentary formations host quartz veining and chalcedony deposits.\n\nThe collecting area features moderate sloping terrain typical of the foothills environment. Rockhounders can search hillsides and canyon washouts where water erosion exposes quartz specimens and chalcedony nodules. The moderate elevation means relatively accessible hiking compared to higher mountain sites, though sturdy footwear is recommended for the rocky terrain.\n\nAs a BLM location, Deer Creek Canyon Mine allows personal use collecting under FLPMA regulations. No permit is required, and collection is free. This makes it an excellent choice for rockhounders seeking quartz specimens without the cost or bureaucracy of fee dig sites. The remote setting and pristine public land access attract both casual collectors and serious mineral hunters.\n\nExpect to find quartz crystals, milky quartz masses, and chalcedony in various colors. The area around old mining prospects sometimes yields better specimens due to exposed rock faces. Early morning visits often provide the best light for spotting specimens against the hillsides.\n\nThe surrounding landscape is semi-arid grassland with scattered sagebrush and juniper. Weather changes rapidly at this elevation, so prepare for temperature swings between seasons. Winter snows can make access difficult from December through February.",
+  "history": "The Laramie Range hosting this location formed during the Laramide Orogeny in the late Cretaceous and early Tertiary periods when ancient metamorphic basement rocks were uplifted and exposed. Hydrothermal fluids associated with this tectonic activity deposited silica-rich minerals, creating the quartz veins and chalcedony nodules found in the Deer Creek Canyon area today. Historical prospecting activity in the Converse County area targeted these silica deposits for various industrial uses.",
+  "tips": "Search the walls and floors of Deer Creek Canyon and tributary drainages where erosion has exposed cross-sections of silicate-rich rock. Look for quartz veining in lighter-colored host rock, and search the hillsides above the main canyon for weathered chalcedony nodules that have been naturally eroded downslope. Bring a small hammer and chisel for extracting specimens cleanly, and a headlamp or flashlight to spot translucent quartz in morning shadows. Collect on flatter terrain first, then explore steeper canyon slopes where the best exposed material often accumulates.",
+  "terrain_notes": "Elevation 6,812 feet with moderate slopes characteristic of Laramie Range foothills. Terrain consists of exposed rock, scattered sagebrush, and grassland. Walking distance from parking varies from 0.5 to 2 miles depending on target area. Footing can be uneven and rocky, with loose talus present on steeper sections. No developed trails; cross-country hiking required.",
+  "best_season": "May - September. High elevation (6,800+ ft) experiences heavy snow and freezing temperatures November through April. Late spring through early fall provides stable weather, reasonable temperatures, and accessible conditions. Summer afternoons can be hot and exposed; early morning collecting is recommended.",
+  "written_directions": "From Douglas, Wyoming (the nearest major town), take US 59 north toward the Laramie Range foothills. Continue approximately 30 miles north into the Converse County area. Follow Forest Service or BLM access roads east toward Deer Creek drainage. GPS coordinates 42.67272, -106.041144 will guide you to the general location. High-clearance vehicle recommended for final approach roads, which may be rough or gated seasonally. Park at a pullout near the canyon entrance and hike into the collecting area.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Final approach roads are typically unpaved and rough, with potential washboard, minor rocks, and seasonal mud. May be impassable during heavy rain or snow. High-clearance or all-terrain vehicle recommended.",
+  "parking_notes": "Informal pullouts along access roads near canyon entrance. Limited capacity; typically room for 2-4 vehicles. No developed parking area or facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Only hand tools permitted. Collect only loose material and specimens you can extract by hand or with a hammer and chisel; do not blast or dynamite. Leave the site clean and restore any disturbed areas.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or sale\nNo motorized excavation equipment\nHand tools only (hammer, chisel, pick)\nNo blasting or dynamite\nLeave site clean and undisturbed",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "cold",
+    "remote",
+    "wildlife"
+  ],
+  "nearest_services": "Douglas, Wyoming, approximately 30 miles south. Gas, food, lodging, and supplies available. Nearest ranger station and BLM office can provide detailed access information and seasonal road conditions.",
+  "accessibility_notes": "Moderate terrain with uneven, rocky footing and scattered loose talus. Steep canyon slopes in some areas. Sturdy hiking boots required. No wheelchair access. High elevation (6,812 ft) may affect visitors with respiratory issues; acclimatize gradually. Hike distance from parking to prime collecting areas typically 0.5 to 2 miles with moderate elevation change.",
+  "alternative_names": [],
+  "nearest_city": "Douglas",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/deer-creek-canyon-mine-wy/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/deer-creek-canyon-mine-wy/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What quartz specimens can I find at Deer Creek Canyon Mine in Wyoming?",
+      "answer": "Rockhounders typically find milky quartz masses, white and clear quartz crystals, and chalcedony nodules in various colors ranging from white to tan and light pink. The quartz occurs in veins within metamorphic host rock and as weathered nodules eroded downslope. Specimens range from small crystal points to larger hand-sized pieces suitable for displays or collections."
+    },
+    {
+      "question": "Is a permit required to rockhound at Deer Creek Canyon Mine?",
+      "answer": "No permit is required. As a public BLM location, Deer Creek Canyon Mine allows free, personal use collecting under Federal Land Policy and Management Act (FLPMA) regulations. You may begin collecting immediately upon arrival without any paperwork, making it an excellent choice for casual rockhounders avoiding fee dig sites."
+    },
+    {
+      "question": "How far is Deer Creek Canyon Mine from Douglas, Wyoming?",
+      "answer": "Deer Creek Canyon Mine is approximately 30 miles north of Douglas, Wyoming. The drive takes roughly 45 minutes to 1 hour depending on road conditions. You will travel north on US 59 toward the Laramie Range foothills, then follow forest service or BLM access roads east toward Deer Creek drainage."
+    },
+    {
+      "question": "What is the best season to rockhound at Deer Creek Canyon Mine?",
+      "answer": "May through September is the optimal collecting season. The high elevation (6,812 feet) brings heavy snow and freezing temperatures from November through April, making access difficult or impossible. Late spring and summer provide stable weather, moderate temperatures, and reliable road conditions, though afternoon heat can be intense at this elevation."
+    },
+    {
+      "question": "What tools do I need to collect at Deer Creek Canyon Mine Wyoming?",
+      "answer": "Bring a small hammer and cold chisel for extracting specimens cleanly from rock faces and canyon walls. A hand pick is useful for working in talus and sandy areas. Bring water, a backpack, sturdy hiking boots for rocky terrain, sun protection, and a headlamp. A field bag or bucket keeps specimens organized. Hand tools only are permitted; no power tools or motorized equipment allowed."
+    },
+    {
+      "question": "Is Deer Creek Canyon Mine beginner friendly for kids and family rockhounding?",
+      "answer": "Yes, this location is beginner-friendly for families with children age 8 and older. The moderate terrain and relatively short hiking distances (0.5 to 2 miles) are manageable for most fitness levels. No permit or experience required, and specimens are visible and findable with basic observation skills. Teach children not to dig into unstable slopes, and supervise closely on steeper canyon sections."
+    }
+  ],
+  "meta_title": "Deer Creek Canyon Mine - Wyoming Rockhounding",
+  "meta_description": "Free BLM rockhounding near Douglas, WY. Find quartz, chalcedony, and agate. No permit required. 25 lb daily limit. 6,800+ ft elevation.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "written_directions",
+    "road_conditions",
+    "parking_notes",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T06:41:10.148Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:23.054Z"
+}

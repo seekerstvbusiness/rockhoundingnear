@@ -1,0 +1,98 @@
+{
+  "slug": "luna-nm",
+  "name": "Luna",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Luna",
+  "city_slug": "luna",
+  "county": "Catron",
+  "county_slug": "catron",
+  "lat": 33.819741,
+  "lng": -108.985273,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Public BLM rockhounding near Luna in the high desert plateau of Catron County. Find agate, jasper, and quartz specimens on gentle slopes at 7,568 feet elevation. No permit required for recreational...",
+  "description": "Luna sits on gentle slopes in the remote Catron County high desert, part of New Mexico's Colorado Plateau region. This BLM-administered public land offers excellent opportunities for recreational rockhounds to search for agate, jasper, and quartz specimens without permits or fees. The 7,568-foot elevation keeps temperatures moderate much of the year, and the rolling terrain makes access straightforward for hikers and casual collectors.\n\nThe area's geological character reflects Basin and Range structure mixed with Colorado Plateau influences. Miocene and Pliocene volcanic and sedimentary deposits left silica-rich gravels and weathered outcrop zones where agate nodules and jasper fragments weather out naturally. These materials concentrate in washes, hillside runoff zones, and exposed banks where water action continuously exposes fresh material.\n\nCollectors typically search gravelly benches above seasonal washes, where rounded agate pebbles and jasper chunks accumulate. The gentle slopes mean less strenuous walking compared to steeper mountain sites. Morning light reveals translucent agate well, and the high-desert air keeps ground visible even after light rain.\n\nDue to Luna's remoteness and limited services nearby, come prepared with water, basic tools, and a full fuel tank. The isolation is also an advantage - fewer collectors means better material availability. Early spring and fall offer the most comfortable collecting conditions.",
+  "history": "This area sits within the southern Colorado Plateau and Basin and Range transition zone, where Miocene-age volcanic deposits and later sedimentary formations created silica-rich gravels ideal for agate and jasper formation. Local geological processes over millions of years concentrated these minerals in weatherable deposits, and ongoing erosion continuously exposes new specimens for collection.",
+  "tips": "Search gravelly benches and wash banks where agate pebbles naturally concentrate - look for translucent to waxy-luster rounded stones in cream, tan, and rust tones. Bring a 10x loupe to spot the fine chalcedony banding that identifies true agate versus plain quartz. Small hand picks and collection bags work well here; the gentle slopes don't require technical gear. Pick material off the surface rather than digging into hillsides to stay within BLM guidelines.",
+  "terrain_notes": "Elevation 7,568 feet on gentle slopes with open high-desert vegetation typical of the Colorado Plateau. Mostly level to gently rolling terrain with scattered low brush and exposed gravelly banks. Walking distances from parking are typically under one mile to productive collecting zones. Footing is generally stable on compacted ground, though loose gravel on some slopes requires careful stepping.",
+  "best_season": "April - October. The high 7,500-foot elevation means winter brings snow and cold (December - February), making spring and fall ideal. Summer afternoons can be hot, but mornings are pleasant. Spring (April - May) offers wildflower beauty alongside rockhounding. Fall (September - October) provides crisp weather and excellent visibility.",
+  "written_directions": "From Luna, New Mexico, head south on County Road A-3 for approximately 3 miles. Look for BLM access points marked with standard brown public land signs. Multiple pullouts and informal parking areas are available along the road corridor. GPS coordinates 33.819741, -108.985273 mark a primary collecting zone accessible via short hiking from roadside parking. Passenger vehicles can reach most access points during dry conditions; after rain, clearance may be limited on rougher approach roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt road, generally passable for passenger vehicles in dry conditions. May develop washboard texture. After heavy rain, high-clearance vehicles recommended.",
+  "parking_notes": "Multiple informal pullouts along access roads. No developed parking lot. Park safely off the road to allow vehicle passage. Capacity varies 2-6 vehicles per pullout.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation. Collect surface material only; do not dig into hillsides or remove material from protected geological features. Leave gates and BLM property undamaged.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nSurface collection only\nNo removal of material from protected features",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "remote",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Luna, New Mexico (on-site) has minimal services. Quemado, approximately 15 miles south, offers gas, food, and supplies. Magdalena, approximately 35 miles east, provides full services.",
+  "accessibility_notes": "Relatively flat terrain on gentle slopes accessible to most hikers. Uneven gravelly and rocky footing requires sturdy footwear; standard hiking boots recommended. No wheelchair access due to rough ground and lack of developed trails. Short walking distances (under 1 mile) from parking to productive collecting areas make this accessible for families with children and those with limited mobility who can walk on uneven ground.",
+  "alternative_names": [],
+  "nearest_city": "Luna",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/luna-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Luna, New Mexico on BLM land?",
+      "answer": "Luna's BLM public land is known for agate, jasper, quartz, and chalcedony specimens. Agate is most prized - look for translucent pebbles in cream, tan, rust, and occasionally banded varieties. Jasper fragments are abundant in reds and browns. Both weather naturally from Miocene-age silica deposits and concentrate in wash gravels."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Luna, New Mexico?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Luna. Personal use collection is automatically allowed under Federal Land Policy and Management Act (FLPMA) rules. You must follow the 25-pound-per-day limit and cannot engage in commercial collection."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Luna, Catron County?",
+      "answer": "April through October offers the best conditions. The 7,568-foot elevation means winter brings snow and cold. Spring (April - May) provides wildflowers and mild temperatures. Fall (September - October) offers crisp weather and excellent visibility. Summer mornings are pleasant before afternoon heat."
+    },
+    {
+      "question": "How far is Luna, New Mexico from larger towns with supplies and services?",
+      "answer": "Luna itself has minimal services. Quemado is approximately 15 miles south and offers gas, food, and basic supplies. Magdalena is about 35 miles east with full services. Plan accordingly and fuel up before heading to the rockhounding area, as Luna is remote."
+    },
+    {
+      "question": "Is Luna, New Mexico rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, Luna is excellent for beginners and families. The gentle terrain is easy to walk, agate and jasper are straightforward to identify, and no special skills or permits are needed. Kids ages 6 and up can participate comfortably. The open landscape provides good visibility, and the 25-pound daily limit keeps collecting manageable."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Luna?",
+      "answer": "Bring a 10x loupe or hand lens to identify chalcedony banding in agate, a small hand pick or geologist's hammer for extracting specimens from gravel, collection bags, water (at least 2-3 liters per person), sun protection, and sturdy hiking boots. Passenger vehicle access is possible, so you can transport supplies easily. A field guide to New Mexico minerals is helpful for identification."
+    }
+  ],
+  "meta_title": "Luna Rockhounding - New Mexico BLM",
+  "meta_description": "Find agate, jasper, and quartz at Luna, New Mexico on public BLM land. No permit required. 25 lb daily limit. Easy terrain at 7,568 feet elevation.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from GPS and general NM BLM access patterns without specific road name confirmation",
+    "gem_types - common to this geologic region; specific specimens not sourced",
+    "cell_service - estimated as spotty based on remote Catron County location",
+    "nearest_services - Quemado and Magdalena distances estimated from county geography"
+  ],
+  "enriched_at": "2026-04-22T09:50:16.149Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:12.303Z"
+}

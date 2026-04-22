@@ -1,0 +1,97 @@
+{
+  "slug": "banner-silver-mines-id",
+  "name": "Banner Silver Mines",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Boise",
+  "city_slug": "boise",
+  "county": "Boise",
+  "county_slug": "boise",
+  "lat": 44.018861,
+  "lng": -115.532669,
+  "gem_types": [
+    "Silver",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Public BLM rockhounding near Boise with historical silver mining heritage. Find quartz and chalcedony specimens on gentle slopes at 6000+ ft elevation.",
+  "description": "Banner Silver Mines is a public BLM rockhounding site in the Boise County area, located at approximately 6073 feet elevation. This location sits within Idaho's historic mining district where precious metal extraction shaped the region's geology and economy in the late 1800s. The gentle slope terrain makes it accessible for rockhounders of varying experience levels seeking quartz-based specimens and secondary mineral deposits associated with historical silver workings.\n\nGeologically, this area is part of the Idaho Batholith region, where granitic intrusions and hydrothermal activity created favorable conditions for silver mineralization. The quartz and chalcedony found here formed from silica-rich fluids that moved through fractures and veins in the host rock during periods of tectonic activity and cooling of magmatic systems. Secondary minerals like chalcedony often coat fracture surfaces, making them visible to careful collectors.\n\nThe site offers a direct rockhounding experience on public land with straightforward regulations. Visitors can search exposed hillsides and nearby washes where weathering has liberated specimens from the surrounding bedrock. The gentle slope and moderate elevation make this a less strenuous option compared to higher alpine sites in the region.\n\nCollecting here follows standard BLM personal use guidelines - no special permits required, reasonable daily limits, and no commercial operations. This makes Banner Silver Mines an excellent choice for weekend rockhounders from the Boise area looking to combine history with specimen hunting. The proximity to town services and straightforward access add to its appeal for family outings.",
+  "history": "The Banner Silver Mines area sits within one of Idaho's most productive precious metal districts, where silver and gold mineralization formed during Eocene hydrothermal activity associated with granitic intrusion and cooling of the Idaho Batholith. Historical mining activity in the broader Boise County area during the 1880s-1920s exposed these mineral zones, and secondary weathering continues to reveal quartz and chalcedony specimens that rockhounders can legally collect today.",
+  "tips": "Search along the gentle slopes and any small washes where weathering has concentrated lighter-colored quartz and chalcedony specimens. A hand lens and small hammer are helpful for examining vein material and breaking free specimens. Look for white to translucent quartz crystals and banded chalcedony patterns on exposed hillsides; these often indicate mineralized zones worth investigating more closely. Early morning collecting in spring and fall avoids afternoon heat and provides better lighting to spot specimens among the rocky terrain.",
+  "terrain_notes": "Elevation 6073 feet on gentle slopes with typical sagebrush and scattered conifers. Uneven rocky footing with loose material common. Walking distance from parking varies but generally accessible within 30-60 minutes of parking. Stable rocky terrain overall, though some areas have loose rock that requires careful stepping. Vegetation is sparse to moderate depending on season.",
+  "best_season": "June - September. Higher elevation (6000+ ft) means snow may block access or make travel difficult November through May. Summer and early fall provide reliable access, moderate temperatures, and longer daylight for productive rockhounding.",
+  "written_directions": "From downtown Boise, take ID-21 northeast toward Idaho City for approximately 25 miles. Continue past Pioneerville and watch for rough BLM access roads branching north toward the Banner mining district. The exact pullout is located near 44.018861, -115.532669. Roads in the final approach are unpaved and may require high-clearance vehicles in wet conditions. GPS coordinates are recommended for final navigation. Plan for slow driving on the approach roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Final approach roads are unpaved dirt/gravel, passable to passenger vehicles in dry conditions. May require high-clearance or AWD during wet spring or fall weather. Washboard common on rougher sections.",
+  "parking_notes": "BLM pullouts and informal parking areas near the old mining claims. Space for several vehicles. No developed facilities. Park away from any remaining mine infrastructure.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy tools. Respect any marked claim boundaries. Do not enter or disturb abandoned mine structures.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nRespect existing claims\nDo not disturb mine infrastructure",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "abandoned_mines",
+    "loose_rock",
+    "cold",
+    "wildlife"
+  ],
+  "nearest_services": "Boise has full services (gas, food, lodging, water). Idaho City (approximately 20 miles northeast) also has basic services. Town of Crouch lies roughly 15 miles north with limited services.",
+  "accessibility_notes": "Relatively gentle slopes and uneven rocky terrain suitable for most hikers. Unpaved approach road to parking area. No wheelchair access to collecting areas. Sturdy footwear strongly recommended. Elevation gain minimal but terrain is rocky and uneven throughout the site.",
+  "alternative_names": [],
+  "nearest_city": "Boise",
+  "nearest_city_distance": 28,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/banner-silver-mines-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems and minerals can I find rockhounding at Banner Silver Mines near Boise?",
+      "answer": "Banner Silver Mines is known for quartz crystals, chalcedony, and historically significant silver-bearing specimens. You may also find secondary minerals associated with the old mining workings. The white and translucent quartz is most commonly found on exposed hillsides and in small washes where weathering has liberated specimens from the surrounding bedrock."
+    },
+    {
+      "question": "Is Banner Silver Mines open to public rockhounding and do I need a permit?",
+      "answer": "Yes, Banner Silver Mines is on public BLM land and is open to recreational rockhounders. No permit is required for personal collecting. You simply need to follow BLM regulations: limit yourself to 25 lbs per day, avoid commercial operations, and respect any marked mining claims."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Banner Silver Mines Idaho?",
+      "answer": "June through September is ideal. The site sits at 6073 feet elevation, so snow and cold weather block access during winter months. Summer and early fall offer reliable access, moderate temperatures, and longer daylight hours for productive collecting."
+    },
+    {
+      "question": "How far is Banner Silver Mines from Boise and what are the driving directions?",
+      "answer": "Banner Silver Mines is approximately 28 miles northeast of downtown Boise. Take ID-21 toward Idaho City for about 25 miles, then watch for BLM access roads branching toward the historic Banner mining district. Final approach roads are unpaved; GPS coordinates (44.018861, -115.532669) are recommended for navigation."
+    },
+    {
+      "question": "Is Banner Silver Mines rockhounding site good for families and kids?",
+      "answer": "Yes, Banner Silver Mines is family and beginner-friendly. The gentle slopes and easy terrain make it accessible for children ages 6 and up. The site requires no special permits or fees, making it an affordable weekend outing. Just bring water, sun protection, and sturdy shoes for the uneven rocky ground."
+    },
+    {
+      "question": "What tools and equipment do I need to collect at Banner Silver Mines?",
+      "answer": "A small hand hammer and chisel are useful for breaking free specimens from quartz veins. A hand lens helps identify translucent chalcedony and quartz crystals. Bring sturdy hiking boots for the uneven rocky terrain, plenty of water, sun protection, and a collection bag. A small backpack helps carry specimens within the 25 lb daily limit."
+    }
+  ],
+  "meta_title": "Banner Silver Mines Rockhounding - Idaho",
+  "meta_description": "Find quartz, chalcedony, and silver specimens at Banner Silver Mines near Boise. Public BLM rockhounding, no permit needed, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated from GPS and known Boise location)",
+    "parking_notes (typical BLM pullout characteristics)",
+    "road_conditions (inferred from high elevation and terrain type)",
+    "cell_service (estimated spotty based on remote mountain location)",
+    "written_directions (constructed from geography and known regional highways)"
+  ],
+  "enriched_at": "2026-04-22T06:44:05.878Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:19.371Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "mapleton-pa",
+  "name": "Mapleton",
+  "lat": 40.379604,
+  "lng": -77.950654,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Union Township",
+  "city_slug": "union-township",
+  "county": "Huntingdon",
+  "county_slug": "huntingdon",
+  "geocoded_city": "Union Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mapleton%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mapleton",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mapleton%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 892,
+      "meters": 272
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:47:54.626Z"
+  },
+  "scraped_at": "2026-04-21T18:47:54.626Z",
+  "scrape_quality": "minimal"
+}

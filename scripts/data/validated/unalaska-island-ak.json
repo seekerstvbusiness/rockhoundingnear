@@ -1,0 +1,109 @@
+{
+  "slug": "unalaska-island-ak",
+  "name": "Unalaska Island",
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "city": "Unalaska",
+  "city_slug": "unalaska",
+  "county": "Unorganized Borough",
+  "county_slug": "unorganized-borough",
+  "lat": 53.90902,
+  "lng": -166.550611,
+  "gem_types": [
+    "Obsidian",
+    "Chalcedony",
+    "Agate"
+  ],
+  "short_description": "Remote Aleutian Island rockhounding site featuring volcanic minerals and obsidian deposits from active geological processes. Access requires boat or charter flight from Unalaska town.",
+  "description": "Unalaska Island, located in the Aleutian Islands chain of Alaska, is a geologically active region shaped by subduction zone volcanism and ongoing tectonic activity. The island offers unique opportunities to collect obsidian, volcanic glass, basalt fragments, and chalcedony deposits formed by the region's dramatic volcanic history. The terrain is windswept tundra with sparse vegetation, rocky shorelines, and exposed volcanic outcrops that have yielded quality specimens for decades. Most rockhounding occurs on accessible shoreline areas and eroded hillsides where recent volcanic material and ancient lava flows are naturally exposed. Collecting here requires planning, appropriate weather gear, and respect for the remote environment and Native Aleut cultural sites.\n\nThe Aleutian Islands sit along the Pacific Ring of Fire, where the Pacific Plate subducts beneath the North American Plate. This collision zone has created dozens of active and dormant volcanoes, including Mount Makushin on Unalaska Island itself. Obsidian here formed from rapidly cooled rhyolitic lava flows, creating the jet-black to reddish volcanic glass prized by collectors. Basalt fragments and secondary chalcedony deposits are common in weathered lava fields and beach deposits throughout the island.\n\nUnalaska Island sees extreme weather year-round, with fierce winds, fog, and precipitation dominating most months. Summer offers the only realistic collecting window, with July and August providing slightly longer daylight and calmer seas for access. Winter temperatures drop below freezing with heavy snowfall, making the island nearly inaccessible to rockhounders.\n\nThis is a destination for experienced collectors willing to invest in charter transportation and endure rugged conditions. The rewards include rare volcanic specimens and the opportunity to explore one of America's most geologically active and remote regions. Check current local conditions with Unalaska-based guides or tour operators before planning any trip.",
+  "history": "Unalaska Island lies within the Aleutian volcanic arc, a chain of over 130 volcanoes created by subduction of the Pacific Plate beneath the North American Plate over the past 65 million years. Obsidian deposits here formed during explosive rhyolitic eruptions in the Holocene epoch (last 11,700 years), with Mount Makushin remaining an active volcano capable of altering the island's mineral deposits through future activity.",
+  "tips": "Search exposed shorelines and tidal flats after storms when fresh material is revealed; obsidian typically appears as shiny black or reddish volcanic glass fragments among darker basalt. Focus on hillsides with visible lava flows and eroded outcrops where weathering naturally concentrates minerals. Bring sturdy boots with aggressive treads for slippery volcanic rock, and always carry a safety tether if working near sea cliffs where wind and loose rock create hazards. Work during lowest tide to access extended shoreline areas, and mark your location carefully in fog to avoid becoming disoriented on the open island.",
+  "terrain_notes": "Unalaska Island sits at sea level with rolling tundra-covered hills reaching elevations up to 6 feet in the accessible southern areas. Terrain is extremely exposed, windswept, and boggy with volcanic rock outcrops, loose basalt fragments, and obsidian deposits scattered across eroded hillsides and shorelines. No maintained trails or formal parking areas exist; access is entirely by foot from landing zones after boat or aircraft arrival. Footing is uneven and treacherous on wet volcanic rock, with frequent loose material underfoot.",
+  "best_season": "July - August. Only summer months offer calm enough seas for boat access and visibility through typical Aleutian fog cover. Winter brings heavy snow, extreme cold below minus 10 degrees Fahrenheit, and dangerously rough ocean conditions that make the island inaccessible.",
+  "written_directions": "From Unalaska town, rockhounding on Unalaska Island requires water or air transport. Most collectors charter a boat from Unalaska Harbor with local guides familiar with safe landing zones and current conditions; the journey takes 20-60 minutes depending on destination and sea state. Alternatively, scenic flights can reach the island, though accessibility varies by weather. Contact Unalaska visitor services or local tour operators for current charter availability and conditions. No roads or vehicles service the island itself; all exploration is on foot across tundra and shoreline.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": null,
+  "parking_notes": null,
+  "cell_service": "spotty",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Unalaska Island is public land in Alaska. Personal rockhounding is permitted for non-commercial use. Respect marked archaeological sites and avoid disturbing Native Aleut cultural artifacts or sites. Do not remove fossils or scientifically significant geological specimens. Leave no trace and pack out all materials brought to the island.",
+  "quantity_limits": null,
+  "rules": "Personal non-commercial collection only\nRespect archaeological and cultural sites\nNo removal of fossils or scientific specimens\nPack in, pack out\nFollow all local guide recommendations",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "wildlife",
+    "remote",
+    "sharp_material",
+    "loose_rock",
+    "flash_floods"
+  ],
+  "nearest_services": "Unalaska town, 20-60 minutes by boat or charter flight. Full services including gas, food, lodging, and water available in town. No services on island itself.",
+  "accessibility_notes": "Unalaska Island terrain is extremely rugged, remote, and exposed with no wheelchair or limited-mobility access. Terrain consists of steep volcanic hillsides, loose basalt fragments, boggy tundra, and treacherous sea cliffs. Visitors must be in excellent physical condition, able to hike uneven ground for extended periods, and comfortable navigating without marked trails or infrastructure. Weather is severe and unpredictable. This is an expert-level destination suitable only for experienced backcountry travelers.",
+  "alternative_names": [
+    "Unalaska Island Obsidian Fields"
+  ],
+  "nearest_city": "Unalaska",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/alaska/unalaska-island-ak/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "Can I find obsidian on Unalaska Island in Alaska?",
+      "answer": "Yes. Unalaska Island is an active volcanic location in the Aleutian Islands where obsidian deposits form from rhyolitic lava flows. Jet-black and reddish volcanic glass fragments are found on eroded hillsides and shorelines, though collecting requires boat or charter flight access from Unalaska town and only works during July and August when seas are navigable."
+    },
+    {
+      "question": "What is the best time of year to rockhound Unalaska Island?",
+      "answer": "July and August are the only feasible months for rockhounding here. Summer provides the longest daylight, calmest seas for boat transport, and occasional breaks in fog. Winter temperatures drop below minus 10 degrees Fahrenheit with heavy snow and impassable ocean conditions, making the island completely inaccessible to collectors."
+    },
+    {
+      "question": "Do I need a permit to collect rocks and minerals on Unalaska Island, Alaska?",
+      "answer": "No permit is required for personal non-commercial rockhounding on Unalaska Island's public lands. However, you must respect marked archaeological sites, avoid Native Aleut cultural artifacts, and refrain from removing fossils or scientifically significant specimens. Always follow guidance from local guides familiar with current conditions."
+    },
+    {
+      "question": "How do I get to Unalaska Island for rockhounding?",
+      "answer": "Unalaska Island requires water or air transport from Unalaska town, located 2 miles away. Charter a boat from Unalaska Harbor with a local guide (20-60 minute journey depending on landing zone and sea state), or arrange scenic flight access with an air charter service. No roads, vehicles, or bridges connect the island to town."
+    },
+    {
+      "question": "What other minerals can I find besides obsidian on Unalaska Island?",
+      "answer": "Beyond obsidian, collectors find basalt fragments, chalcedony deposits, volcanic glass pieces, and agate specimens on Unalaska Island. These minerals form from the island's active volcanic geology and subduction zone processes. Quality and abundance vary by location and season."
+    },
+    {
+      "question": "Is Unalaska Island rockhounding safe and suitable for beginners?",
+      "answer": "No. Unalaska Island is strictly an expert-level destination. The terrain is remote, extremely rugged, exposed to severe weather and wind, with loose volcanic rock, sea cliffs, and no marked trails or infrastructure. Only experienced backcountry travelers in excellent physical condition should attempt collecting here."
+    }
+  ],
+  "meta_title": "Unalaska Island Obsidian - Alaska Rockhounding",
+  "meta_description": "Hunt obsidian, chalcedony, and basalt on remote Unalaska Island in Alaska. Expert-only volcanic rockhounding via boat or charter flight. July-August access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "vehicle_required",
+    "permit_required",
+    "commercial_use_allowed",
+    "quantity_limits",
+    "rules",
+    "cell_service",
+    "parking_notes",
+    "written_directions",
+    "road_conditions",
+    "nearest_services"
+  ],
+  "enriched_at": "2026-04-21T18:29:58.064Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:33:09.925Z"
+}

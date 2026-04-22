@@ -1,0 +1,60 @@
+{
+  "slug": "little-nemaha-river-ne",
+  "name": "Little Nemaha River",
+  "lat": 40.4043,
+  "lng": -95.82804,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Nemaha County",
+  "city_slug": "nemaha-county",
+  "county": "Nemaha",
+  "county_slug": "nemaha",
+  "geocoded_city": "Nemaha County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Little%20Nemaha%20River%20Nebraska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Little%20Nemaha%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Little%20Nemaha%20River%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 902,
+      "meters": 275
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:03:22.062Z"
+  },
+  "scraped_at": "2026-04-21T17:03:22.062Z",
+  "scrape_quality": "minimal"
+}

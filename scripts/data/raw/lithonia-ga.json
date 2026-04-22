@@ -1,0 +1,60 @@
+{
+  "slug": "lithonia-ga",
+  "name": "Lithonia",
+  "lat": 33.729688,
+  "lng": -84.099633,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Stonecrest",
+  "city_slug": "stonecrest",
+  "county": "DeKalb",
+  "county_slug": "dekalb",
+  "geocoded_city": "Stonecrest",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Lithonia%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Lithonia",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Lithonia%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 926,
+      "meters": 282
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:00:29.522Z"
+  },
+  "scraped_at": "2026-04-21T19:00:29.522Z",
+  "scrape_quality": "minimal"
+}

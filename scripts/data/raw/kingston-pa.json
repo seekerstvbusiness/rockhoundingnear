@@ -1,0 +1,60 @@
+{
+  "slug": "kingston-pa",
+  "name": "Kingston",
+  "lat": 41.248865,
+  "lng": -75.902287,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Edwardsville",
+  "city_slug": "edwardsville",
+  "county": "Luzerne",
+  "county_slug": "luzerne",
+  "geocoded_city": "Edwardsville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Kingston%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Kingston",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Kingston%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 513,
+      "meters": 156
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:45:36.037Z"
+  },
+  "scraped_at": "2026-04-21T18:45:36.037Z",
+  "scrape_quality": "minimal"
+}

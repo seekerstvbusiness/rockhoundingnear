@@ -1,0 +1,96 @@
+{
+  "slug": "coaldale-nv",
+  "name": "Coaldale",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Esmeralda County Area",
+  "city_slug": "esmeralda-county",
+  "county": "Esmeralda",
+  "county_slug": "esmeralda",
+  "lat": 38.029943,
+  "lng": -117.879362,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land rockhounding site in remote Esmeralda County offering agate, chalcedony, and jasper collecting. Flat terrain at 4679 feet elevation with personal use collecting permitted.",
+  "description": "Coaldale is a remote BLM rockhounding area located in Esmeralda County in central Nevada, known for quality specimens of agate, chalcedony, and jasper. The site sits at 4679 feet elevation with flat to gently sloping terrain, making it accessible for rockhounders of varying skill levels. This location benefits from Nevada's abundant silica-rich mineral deposits and excellent preservation of secondary minerals in the arid environment.\n\nThe area is part of the Basin and Range geological province, where millions of years of volcanic activity and mineral-rich hydrothermal fluids created the colorful agate and jasper deposits found here. The relatively flat topography makes walking and specimen hunting straightforward, though the remote desert setting requires preparation. Rockhounders can expect to find well-formed agate nodules and banded chalcedony specimens in washes and eroded hillsides.\n\nAs BLM public land, Coaldale operates under standard recreational collecting rules with no permit required. The 25-pound daily limit per person is generous enough for serious collectors to acquire quality specimens. The remote location means fewer crowds and excellent opportunities for patient rockhounders to explore multiple promising areas within a single visit.\n\nBest collecting occurs after seasonal rains when erosion exposes fresh material in washes. The flat terrain allows for comfortable walking while scanning for specimens, though the sparse desert vegetation provides minimal shade. This site is ideal for rockhounders seeking quality agates and chalcedony in a quiet, undeveloped setting.",
+  "history": "The Coaldale area sits within Nevada's Basin and Range province, where Miocene-age volcanic activity and associated hydrothermal systems deposited the silica-rich fluids that formed the secondary minerals, including agate, chalcedony, and jasper found here today. The remote Esmeralda County region has a long history of small-scale mining and prospecting, with many mineralized zones accessible to recreational rockhounders on public lands.",
+  "tips": "Search eroded washes and gullies where seasonal runoff has exposed fresh agate and chalcedony nodules in the soil and decomposed host rock. Use a small hand pick or rock hammer to carefully extract specimens from decomposed zones rather than striking solid rock. Look for translucent or banded pieces with colors ranging from cream and gray to rust and brown - the most prized specimens often show multiple color bands or moss-like patterns within the chalcedony.",
+  "terrain_notes": "Flat to gently sloping terrain at 4679 feet elevation with sparse desert scrub vegetation. Walking is straightforward across open ground, though footing can be uneven due to loose rocks and small wash erosion. Parking areas are typically informal pullouts. The arid environment means little shade and exposure to direct sun - bring adequate water and sun protection.",
+  "best_season": "October - April",
+  "written_directions": "From Tonopah (approximately 50 miles northeast), take US 6 south toward Coaldale. The town of Coaldale is located along US 6. BLM collecting areas are accessible from pullouts and dirt roads in the vicinity of Coaldale and extending into the surrounding desert flats. Consult a Nevada BLM map or GPS coordinates to identify specific collecting areas, as dispersed collecting is allowed across most adjacent public land.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway (US 6) to Coaldale. Dirt roads and pullouts in surrounding BLM land are typically passable with a standard passenger vehicle in dry conditions, though high-clearance may be beneficial for some collection areas.",
+  "parking_notes": "Informal pullouts along US 6 and dirt roads near Coaldale. Typical desert BLM parking - no developed facilities. Multiple pullouts available for dispersed use.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation. Standard BLM recreational collecting regulations apply. Always check current BLM Nevada regulations before collecting.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo mechanical equipment\nCollect only hand-portable material\nLeave the site clean",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material"
+  ],
+  "nearest_services": "Tonopah, approximately 50 miles north. Gas, food, lodging, and water available in Tonopah. Coaldale has very limited services.",
+  "accessibility_notes": "Flat terrain accessible to most hikers and rockhounders of varying mobility levels. Parking areas are at ground level. No wheelchair accessibility on collecting areas, but walking distances are short and terrain is relatively even. Uneven ground and scattered rocks require sturdy footwear.",
+  "alternative_names": [],
+  "nearest_city": "Tonopah",
+  "nearest_city_distance": 50,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/coaldale-nv/mineral-1-agate.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates and gemstones can I find rockhounding near Coaldale, Nevada?",
+      "answer": "Coaldale is known for quality agate, chalcedony, and jasper specimens. The chalcedony often displays beautiful banding and moss-like patterns, while agates range from translucent to opaque with cream, gray, rust, and brown coloring. These secondary minerals formed from silica-rich hydrothermal fluids during the Basin and Range volcanic activity millions of years ago."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Coaldale on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Coaldale. It is BLM public land open to personal use collecting under standard FLPMA regulations. You can collect up to 25 pounds per day without applying for any special permits or paying fees."
+    },
+    {
+      "question": "What is the best time of year to collect agates and chalcedony at Coaldale?",
+      "answer": "October through April is ideal. Nevada's cooler fall and winter months provide comfortable collecting conditions, and seasonal rains help expose fresh specimens in washes. The intense desert heat of May through September makes daytime rockhounding uncomfortable and increases risk of heat exposure."
+    },
+    {
+      "question": "Is Coaldale rockhounding site suitable for beginners and families with children?",
+      "answer": "Yes, Coaldale is very beginner-friendly. The flat terrain and easy walking make it accessible to rockhounders of all experience levels. Children ages 6 and up can participate comfortably. The simple requirement to hand-collect agate and chalcedony fragments means no special equipment or expertise is needed to find quality specimens."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound for agates at Coaldale?",
+      "answer": "A small hand pick or rock hammer is helpful for extracting specimens from decomposed zones. Bring plenty of water (at least 2-3 gallons per person), sun protection, and sturdy boots for the uneven desert terrain. A small backpack, magnifying glass, and GPS device are useful additions. Mechanical excavation is not allowed on BLM land."
+    },
+    {
+      "question": "How far is Coaldale from Tonopah, and what are the driving conditions?",
+      "answer": "Coaldale is approximately 50 miles south of Tonopah via US 6. The main highway is paved and easily passable with a standard passenger vehicle. Dirt roads and pullouts in surrounding BLM collecting areas may require high-clearance vehicles after rain. Road conditions vary seasonally, so plan accordingly and bring recovery equipment or communication devices for safety."
+    }
+  ],
+  "meta_title": "Coaldale Rockhounding - Nevada Agate & Chalcedony",
+  "meta_description": "Find agate, chalcedony, and jasper at Coaldale, Nevada on BLM public land. No permit needed, 25 lbs/day limit. Perfect for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from Basin and Range geology typical of Esmeralda County",
+    "nearest_city_distance - estimated from GPS coordinates",
+    "road_conditions - typical of BLM areas in this region",
+    "parking_notes - standard for remote BLM dispersed use areas"
+  ],
+  "enriched_at": "2026-04-22T09:50:01.042Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:31.793Z"
+}

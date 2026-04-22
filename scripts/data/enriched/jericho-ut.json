@@ -1,0 +1,98 @@
+{
+  "slug": "jericho-ut",
+  "name": "Jericho",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Juab County",
+  "city_slug": "juab-county",
+  "county": "Juab",
+  "county_slug": "juab",
+  "lat": 39.753948,
+  "lng": -112.212231,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding site in central Utah's Great Basin region. Find colorful agates, chalcedony, and jasper in washes and hillside deposits. Free public access with 25 lb daily limit.",
+  "description": "Jericho is a scenic BLM rockhounding area in Juab County, Utah, situated in the transition zone between the Wasatch Range and the Basin and Range province. The site offers accessible collecting for both beginners and experienced rockhounds seeking quality agates, chalcedony, and jasper specimens. The landscape consists of low desert hills with scattered washes where weathered volcanic and sedimentary rocks have exposed a variety of colorful micro-cryptocrystalline quartz varieties.\n\nThe geological setting here reflects Miocene to Pliocene volcanic activity combined with Basin and Range extension, which fractured and displaced ancient Paleozoic marine limestone and dolomite. Silica-rich hydrothermal fluids and groundwater moved through these fractured rocks, depositing chalcedony and agate in cavities and along fractures. The arid climate has weathered the host rock away over millions of years, leaving nodules and pieces scattered across hillsides and arroyos.\n\nCollecting here involves walking hillsides and checking sandy washes where material concentrates. The terrain is gently sloping to moderately steep in places, with good visibility across the sparse desert scrub. You'll want to turn over rocks, check wash banks, and examine areas where different colored soil layers indicate weathered mineralization. Most specimens found here are small to medium sized, though patient searching can yield nice display pieces.\n\nThis location is popular with local rockhounds because of its BLM status - no permits, no fees, and straightforward personal-use collection rules. The site works well for families and beginners looking to learn rockhounding fundamentals without the cost of a commercial fee dig. Access is reliable year-round, though spring and fall offer the most comfortable collecting conditions.",
+  "history": "This area sits within the Basin and Range province where Miocene volcanic and hydrothermal activity deposited silica-rich fluids that formed the agate nodules and chalcedony seams found scattered across the hillsides today. The extensive weathering of Paleozoic marine limestone combined with alluvial processes has concentrated these colorful quartz specimens in washes and surface deposits, making the location accessible to collectors without requiring excavation.",
+  "tips": "Search along dry washes and gullies where water flow has concentrated heavier mineral material - look for colorful nodules weathering out of banks. Check the bases of low outcrops and hillsides where slope wash accumulates; agates often weather free and collect in small draws. Bring a small chisel or flat pry bar to carefully work pieces from softer matrix, and use a magnifying glass to spot the distinctive waxy luster and fine banding typical of quality specimens. Early morning light helps spot glossy agate fragments against the tan desert floor.",
+  "terrain_notes": "Rolling desert hills with elevations around 5,000 feet. Terrain is mostly open with scattered low desert scrub and sagebrush. Footing is generally solid, with some loose rock and sandy washes. Most productive areas are within 1 mile of parking, with walking distances typically 0.5 to 2 miles depending on which washes you explore. No major elevation gain required for casual collecting.",
+  "best_season": "October - April. The mild temperatures of fall and spring make extended rockhounding comfortable. Summers are hot (80-90F+), and winter can bring occasional snow at this elevation, though the site remains accessible most years. Late October through March offers the best conditions for spending hours in the field.",
+  "written_directions": "From Nephi (nearest significant town, approximately 20 miles northwest), take US Highway 6 southeast toward Spanish Fork. Continue on US 6 for about 15 miles past Nephi. Turn south onto local roads toward Jericho area in Juab County. Specific approach roads vary - consult detailed Utah BLM maps or GPS coordinates 39.753948, -112.212231. The site is accessed via BLM roads; roads are typically passable in dry conditions to all-terrain vehicles, though high-clearance vehicles are recommended. Cell service in the area is spotty to unreliable.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and gravel BLM roads; generally passable to passenger vehicles in dry conditions, though higher clearance helpful. May require 4x4 after heavy rain or snow.",
+  "parking_notes": "Informal pullouts and parking areas along BLM roads near collection zones. No developed parking lot; park off-road in designated areas. Space is typically ample.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation equipment. Collect only specimens loose or easily removed by hand tools. Pack out all trash. Respect private property boundaries (some adjacent land is private).",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lb maximum per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nPack out all trash\nRespect private land boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Nephi, Utah (approximately 20 miles northwest) has gas, food, lodging, and supplies. Smaller services may be available in Delta or Levan.",
+  "accessibility_notes": "Relatively gentle rolling terrain suitable for most hikers and families. Mostly flat to gently sloping washes and hillsides with stable footing. No steep cliffs or technical scrambling required. Uneven rocky ground and scattered loose rock are present; sturdy hiking boots recommended. No wheelchair access to remote collection areas, though some specimens may be found near parking.",
+  "alternative_names": [],
+  "nearest_city": "Nephi",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/jericho-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kind of agates can you find rockhounding at Jericho, Utah?",
+      "answer": "Jericho is known for banded agates, chalcedony nodules, and colorful jasper specimens. Most pieces found here are small to medium (1-3 inches), with colors ranging from cream and tan to orange, red, and brown. Some pieces display delicate banding or moss-like patterns typical of Basin and Range mineralization."
+    },
+    {
+      "question": "Is rockhounding free at Jericho BLM land in Utah?",
+      "answer": "Yes, rockhounding at Jericho is completely free. As BLM public land, no permits or fees are required for personal recreational use. You are limited to collecting 25 lbs per day per FLPMA regulations, and all material must be for personal use - commercial collection is not allowed."
+    },
+    {
+      "question": "What is the best season to go rockhounding near Jericho, Utah?",
+      "answer": "October through April offers the most comfortable rockhounding conditions. Fall and spring temperatures are mild (50-70F), allowing you to spend hours in the field. Summers are hot and winters can bring snow, making shoulder seasons ideal for extended collecting trips to this Juab County location."
+    },
+    {
+      "question": "Can families with kids rockhound at Jericho, Utah?",
+      "answer": "Absolutely. Jericho is family-friendly and beginner-suitable, with easy terrain and straightforward collecting. Kids age 6 and up can successfully find specimens in washes and along hillsides. The BLM public-access model means no fees or complicated rules, and dogs are welcome too, making it an affordable family outing."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Jericho?",
+      "answer": "Bring comfortable hiking boots, a small backpack, a chisel or flat pry bar for gently extracting specimens, and a 5-gallon bucket or collection bag to carry your 25 lb daily limit. A magnifying glass helps identify quality pieces, sun protection is essential in the high desert, and bring plenty of water. No motorized equipment is allowed."
+    },
+    {
+      "question": "How far is Jericho rockhounding site from Nephi, Utah?",
+      "answer": "Jericho is approximately 20 miles southeast of Nephi via US Highway 6. From Nephi, take US 6 southeast toward Spanish Fork and follow BLM road signs to the Jericho area. The drive takes about 30-45 minutes from Nephi, making it an accessible day trip from central Utah towns."
+    }
+  ],
+  "meta_title": "Jericho Rockhounding - Free Agate & Jasper, Utah BLM",
+  "meta_description": "Free rockhounding at Jericho, Utah BLM land. Find agates, chalcedony, and jasper. No permit required, 25 lb daily limit. Family-friendly site near Nephi.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - specific BLM access roads may vary; recommend cross-reference with official Utah BLM maps",
+    "nearest_city_distance - estimated at 20 miles from Nephi; exact distance depends on specific road access point",
+    "geology_notes - formation history inferred from general Basin and Range geology; specific Jericho mineralization sources not provided in input"
+  ],
+  "enriched_at": "2026-04-22T06:50:37.538Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:57:13.083Z"
+}

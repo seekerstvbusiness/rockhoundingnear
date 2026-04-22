@@ -1,0 +1,98 @@
+{
+  "slug": "pedernal-park-nm",
+  "name": "Pedernal Park",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Española",
+  "city_slug": "espanola",
+  "county": "Rio Arriba",
+  "county_slug": "rio-arriba",
+  "lat": 36.192015,
+  "lng": -106.489758,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Feldspar"
+  ],
+  "short_description": "BLM public land rockhounding site in northern New Mexico offering quartz, agate, and jasper specimens. Gentle slopes at 7028 ft elevation make this accessible for collectors of all skill levels.",
+  "description": "Pedernal Park sits on New Mexico BLM land in Rio Arriba County, a region rich with semi-arid high desert geology perfect for surface collecting. The area's 7028-foot elevation and gentle terrain attract both novice and experienced rockhounders seeking quality quartz specimens, colorful agates, and jasper formations. You'll find specimens scattered across washes and exposed outcrops where erosion continuously exposes fresh material. The landscape is typical of the southern Colorado Plateau, with piñon and juniper scrub vegetation and wide-open vistas. Personal use collecting is permitted under standard BLM regulations - no permit needed, just respect the 25 lb per day limit and leave what you don't want for others to discover.\n\nThe geological setting here reflects Precambrian basement rocks overlaid by Paleozoic and Mesozoic sedimentary sequences. Quaternary erosion has broken down these formations into colluvial deposits rich in resistant minerals like quartz and chalcedony. Washes and hillside exposures reveal specimens that have weathered out naturally over millennia. The combination of high desert climate, moderate elevation, and stable BLM access makes Pedernal Park a reliable destination for consistent collecting year-round.\n\nExpect to find small to medium agates with varied color patterns, milky and clear quartz pieces, and rust-stained jasper fragments. The terrain is walkable but uneven, with scattered rocks and desert brush requiring sturdy footwear. Water is scarce here - bring plenty, as the nearest services are 20+ miles away. The gentle slope and public access mean you can explore multiple drainage areas in a single trip, increasing your chances of finding quality specimens.",
+  "history": "This region of Rio Arriba County lies within the southern Colorado Plateau, where Precambrian crystalline basement rocks are exposed and overlaid by Paleozoic marine sedimentary strata. Quaternary alluvial and colluvial processes have continuously weathered and redistributed quartz-rich minerals through washes and slopes, concentrating specimens that rockhounders find today. The BLM manages this land for multiple uses including recreation and mineral collection, reflecting New Mexico's long tradition of amateur prospecting and specimen collecting.",
+  "tips": "Search actively in drainage washes and arroyos where water erosion concentrates heavier minerals like quartz and agate over time. Look for color variations in specimens - agates often show banding or translucency when held to light, which indicates quality finds worth keeping. Bring a 5-gallon bucket and thick canvas gloves since sharp quartz edges are common here. Work the gentle slopes on the north and east-facing aspects where vegetation is lighter and exposures are more visible.",
+  "terrain_notes": "Elevation 7028 feet on gentle slopes with piñon and juniper scrub vegetation. Terrain is uneven with scattered rocks and small boulders. No established trails, but walking distance from parking is typically under 1 mile to productive collecting areas. Footing requires sturdy hiking boots due to loose rock and desert brush. Unpaved BLM roads lead to parking pullouts; high-clearance passenger vehicles acceptable in dry conditions.",
+  "best_season": "April - June, September - November. Spring and fall offer mild temperatures ideal for sustained hiking and specimen hunting. Summer heat (80-90F+) makes midday collecting uncomfortable at this elevation. Winter snow can briefly close access roads, though the high desert rarely sees heavy accumulation.",
+  "written_directions": "From Española, take NM 76 north toward Truchas for approximately 18 miles. Look for BLM access signs marking the Pedernal area. Turn east onto a well-maintained dirt/gravel BLM road and follow it for about 3-4 miles until you reach parking pullouts near washes and exposed geological features. GPS coordinates 36.192015, -106.489758 pinpoint the main collecting area. A high-clearance vehicle is recommended, though standard passenger cars can access the area in dry conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM road, well-maintained in dry conditions. High-clearance recommended. May become impassable during heavy rain or snow. Standard passenger vehicles acceptable when roads are dry.",
+  "parking_notes": "Multiple unmarked pullouts along the BLM road near washes and outcrops. Capacity varies from 2-5 vehicles per pullout. No facilities or amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or power tools. Surface collecting only - do not dig into bedrock or hillsides. Pack out all trash. Respect all posted closures and seasonal restrictions.",
+  "quantity_limits": "25 lbs per day per FLPMA",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nSurface collecting only\nPack out all trash\nRespect posted closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Española, approximately 20 miles south. Full services including gas, food, water, and lodging available.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most visitors. Uneven rocky ground and scattered desert brush require sturdy hiking boots. No wheelchair access. Bring plenty of water - none available on site. Parking pullouts are close to productive collecting areas, minimizing walking distance for those with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Española",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/pedernal-park-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Pedernal Park near Española?",
+      "answer": "At Pedernal Park, you can find quartz specimens, colorful agates with banding patterns, jasper fragments often rust-stained, and feldspar pieces. The high desert geology of Rio Arriba County concentrates these minerals in washes and hillside exposures. Most specimens are small to medium sized, perfect for collectors building a collection."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Pedernal Park, New Mexico?",
+      "answer": "No permit is required. Pedernal Park is BLM public land where personal use collecting is allowed under standard regulations. You don't need to file any paperwork - just follow the 25 lb per day limit and respect the no-commercial-use policy."
+    },
+    {
+      "question": "How far is Pedernal Park from Española and what is the drive like?",
+      "answer": "Pedernal Park is approximately 20 miles north of Española. From town, take NM 76 north toward Truchas for about 18 miles, then turn onto a BLM access road for 3-4 miles. The final approach is unpaved BLM road suitable for high-clearance vehicles in dry conditions. Plan 45 minutes to an hour drive time from Española."
+    },
+    {
+      "question": "What's the best time of year to rockhound at Pedernal Park?",
+      "answer": "April through June and September through November are ideal. Spring and fall offer mild 60-70F temperatures perfect for hiking and specimen hunting at 7028 feet elevation. Summer heat makes midday collecting uncomfortable, and winter snow can temporarily close access roads, though the high desert rarely sees heavy accumulation."
+    },
+    {
+      "question": "Is Pedernal Park beginner-friendly for family rockhounding with kids?",
+      "answer": "Yes, Pedernal Park is excellent for beginners and families. The gentle slopes, easy access from parking pullouts, and abundance of surface specimens make it perfect for children ages 6 and up. Bring plenty of water, wear sturdy boots for the rocky terrain, and set a realistic 25 lb daily limit - kids often enjoy collecting smaller, unique pieces."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Pedernal Park?",
+      "answer": "Bring a rock hammer or chisel, thick work gloves (quartz edges are sharp), a 5-gallon bucket, sturdy hiking boots, and most importantly, 2-3 gallons of water per person. A hand lens helps identify agate banding and feldspar patterns. Sunscreen and a hat are essential at this 7000+ foot elevation. Cell service is spotty, so bring a physical map or GPS device."
+    }
+  ],
+  "meta_title": "Pedernal Park Rockhounding - New Mexico",
+  "meta_description": "Find quartz, agate, and jasper at Pedernal Park near Española, NM. BLM public land, no permit needed, 25 lb/day limit. Easy family rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city",
+    "written_directions",
+    "gem_types",
+    "hazards"
+  ],
+  "enriched_at": "2026-04-22T06:45:58.570Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:49:17.774Z"
+}

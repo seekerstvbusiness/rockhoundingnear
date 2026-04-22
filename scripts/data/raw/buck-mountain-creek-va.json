@@ -1,0 +1,60 @@
+{
+  "slug": "buck-mountain-creek-va",
+  "name": "Buck Mountain Creek",
+  "lat": 38.149539,
+  "lng": -78.539489,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Albemarle County",
+  "city_slug": "albemarle-county",
+  "county": "Albemarle",
+  "county_slug": "albemarle",
+  "geocoded_city": "Ehart",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Buck%20Mountain%20Creek%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Buck%20Mountain%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Buck%20Mountain%20Creek%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 402,
+      "meters": 122
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:01:29.741Z"
+  },
+  "scraped_at": "2026-04-21T19:01:29.741Z",
+  "scrape_quality": "minimal"
+}

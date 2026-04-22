@@ -1,0 +1,60 @@
+{
+  "slug": "churchtown-pa",
+  "name": "Churchtown",
+  "lat": 40.170015,
+  "lng": -75.913266,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Caernarvon Township",
+  "city_slug": "caernarvon-township",
+  "county": "Berks",
+  "county_slug": "berks",
+  "geocoded_city": "Caernarvon Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Churchtown%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Churchtown",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Churchtown%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 684,
+      "meters": 208
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:56:39.227Z"
+  },
+  "scraped_at": "2026-04-21T18:56:39.227Z",
+  "scrape_quality": "minimal"
+}

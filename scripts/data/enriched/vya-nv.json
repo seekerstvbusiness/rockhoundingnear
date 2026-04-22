@@ -1,0 +1,100 @@
+{
+  "slug": "vya-nv",
+  "name": "Vya",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Washoe County Area",
+  "city_slug": "washoe-county",
+  "county": "Washoe",
+  "county_slug": "washoe",
+  "lat": 41.251254,
+  "lng": -119.556966,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Obsidian"
+  ],
+  "short_description": "Public BLM rockhounding in the high desert near the Oregon border. Find agate, chalcedony, and quartz in scattered deposits across flat terrain at 5700 feet elevation.",
+  "description": "Vya is a remote public rockhounding site located on Bureau of Land Management (BLM) land in northern Washoe County, Nevada, near the Oregon state line. The area sits at approximately 5,700 feet elevation in the Basin and Range physiographic province, characterized by wide open sagebrush desert with scattered volcanic outcrops and alluvial deposits. This location offers rockhounders access to agate, chalcedony, quartz, and obsidian in a relatively undeveloped landscape.\n\nThe terrain around Vya is predominantly flat to gently rolling, making it accessible for hikers and collectors of varying experience levels. The area receives light use compared to more developed rockhounding sites, which means good potential for finding quality specimens. Collectors should expect open desert conditions with limited shade and scattered volcanic material across the landscape.\n\nBest collecting opportunities typically occur in wash bottoms, along hillside erosion features, and in areas where volcanic rocks have weathered to expose chalcedony and agate nodules. The flat topography makes traversal relatively straightforward, though the remote location and lack of maintained trails require self-sufficiency and basic navigation skills. This is an ideal site for collectors seeking solitude and the opportunity to explore a less-trafficked Nevada rockhounding area.",
+  "history": "The high desert region around Vya formed during Miocene to Pliocene volcanism (roughly 20-5 million years ago) when extensive rhyolitic and basaltic eruptions blanketed the Great Basin. Subsequent weathering and erosion of these volcanic deposits exposed silica-rich minerals including chalcedony and agate nodules, particularly concentrated in alluvial fans and wash channels where water action has sorted and exposed lighter-colored specimens.",
+  "tips": "Search along dry wash bottoms and erosion channels where chalcedony and agate have weathered from surrounding hillsides and become concentrated by water action. Use a small hand lens to examine loose material for color banding typical of quality agate nodules - look for specimens with translucent reddish, white, or banded patterns. Bring plenty of water and sun protection, as the open desert offers no shade; early morning collecting is recommended to avoid afternoon heat exposure.",
+  "terrain_notes": "Flat to gently rolling high desert terrain at 5,692 feet elevation. Sparse sagebrush and scattered volcanic rock outcrops. Footing is generally stable with volcanic gravels and compacted earth, though loose rock requires care. Walking distances from parking may exceed 1-2 miles depending on chosen collecting areas. No maintained trails; navigation by landmarks recommended.",
+  "best_season": "October - April. Summer temperatures in this high desert area regularly exceed 85 degrees with intense UV exposure and minimal shade. Winter temperatures can drop below freezing but daytime collecting is feasible. Late fall and early spring offer ideal conditions with moderate temperatures and lower heat stress.",
+  "written_directions": "From Gerlach, Nevada (approximately 55 miles south), take Nevada State Route 34 north toward the Oregon border. Continue on NV-34 for approximately 45 miles until reaching the Vya area in northwestern Washoe County. Access points to public BLM land are available via unmarked dirt roads and pullouts throughout the region. Use GPS coordinates 41.251254, -119.556966 as a central reference point. High-clearance vehicles are recommended due to rough desert roads, though standard passenger vehicles may access some areas during dry conditions. No developed parking facilities; park responsibly at pullouts along existing dirt roads.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough unimproved dirt roads typical of remote BLM land. Washboard surface common. High-clearance or all-wheel drive vehicle recommended, especially after wet weather. Passenger vehicles may access some areas during dry conditions but not advised.",
+  "parking_notes": "No developed parking facilities. Informal pullouts exist along dirt roads throughout the area. Park responsibly off the main road. Capacity varies by pullout; expect unmarked, primitive parking.",
+  "cell_service": "spotty",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or equipment-assisted digging. Collectors must not damage or disturb archaeological sites, historic structures, or native vegetation beyond what is necessary for rock collection. Leave gates as found and respect private property boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo equipment-assisted digging\nRespect archaeological sites and historic features\nDo not damage vegetation",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "cold",
+    "loose_rock"
+  ],
+  "nearest_services": "Gerlach, Nevada approximately 55 miles south. Limited services; nearest full-service town is Lovelock, Nevada (approximately 90 miles south) with gas, food, and lodging.",
+  "accessibility_notes": "Uneven rocky desert terrain with scattered volcanic material. No wheelchair access. Stable footing for most areas but loose rock requires care. Summer heat extreme (85-100+ degrees); winter cold can approach freezing. Moderate physical activity required; hiking distances 1-2+ miles depending on chosen collecting area. Sturdy footwear strongly recommended.",
+  "alternative_names": [],
+  "nearest_city": "Gerlach",
+  "nearest_city_distance": 55,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/vya-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/vya-nv/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Vya, Nevada?",
+      "answer": "The primary gemstones found at Vya are agate, chalcedony, quartz, and obsidian. Agate nodules are the most sought specimens, typically featuring banding in white, reddish, or translucent tones. These minerals occur naturally in the weathered volcanic deposits scattered across the BLM land in this area."
+    },
+    {
+      "question": "Is there a permit or fee required for rockhounding at Vya?",
+      "answer": "No permit or fee is required. Vya is located on public BLM land where recreational rockhounding is permitted under personal use regulations. You do not need to contact any agency before collecting, but you must follow the 25 lb per day collection limit and personal use only rules."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Vya?",
+      "answer": "October through April is ideal. Summer temperatures in this high desert location regularly exceed 85-100 degrees with no shade available, making collecting uncomfortable and potentially dangerous. Late fall and early spring offer moderate temperatures and lower UV exposure while still providing good collecting conditions."
+    },
+    {
+      "question": "How do I get to Vya and what kind of vehicle do I need?",
+      "answer": "From Gerlach (55 miles south), take Nevada State Route 34 north toward the Oregon border. Use GPS coordinates 41.251254, -119.556966 as reference. An all-wheel drive or high-clearance vehicle is recommended due to rough unimproved desert roads. Standard passenger vehicles may access some areas during dry conditions but are not advised for regular collecting trips."
+    },
+    {
+      "question": "Is Vya a good rockhounding location for beginners?",
+      "answer": "Yes, Vya is beginner-friendly in terms of collection techniques - agate and chalcedony are relatively easy to identify and require only basic tools. However, the remote location, high desert conditions, lack of cell service, and rough road access make this site more suitable for collectors with desert experience or those traveling with experienced rockhounders. Start with a shorter visit during ideal seasonal weather."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Vya?",
+      "answer": "Bring a small hand lens to examine specimens for color and banding patterns. A geohammer or rock chisel is helpful for extracting nodules. Most importantly, pack abundant water (at least 2-3 liters per person), sunscreen, a hat, and sturdy hiking boots. Bring a GPS device or smartphone with offline maps since cell service is spotty. A backpack to carry your 25 lb daily limit is essential."
+    }
+  ],
+  "meta_title": "Vya Rockhounding - Find Agate in Nevada",
+  "meta_description": "Rockhound for agate, chalcedony, and quartz at Vya, Nevada on public BLM land. No permit required, flat desert terrain, October-April best season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "terrain_notes",
+    "written_directions",
+    "parking_notes",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T09:27:28.925Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:13.249Z"
+}

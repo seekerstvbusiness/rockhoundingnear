@@ -1,0 +1,99 @@
+{
+  "slug": "willard-ut",
+  "name": "Willard",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Box Elder County Area",
+  "city_slug": "box-elder-county",
+  "county": "Box Elder",
+  "county_slug": "box-elder",
+  "lat": 41.425152,
+  "lng": -111.975782,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Feldspar"
+  ],
+  "short_description": "High-elevation BLM rockhounding site in the Willard area offering quartz, agate, and chalcedony specimens. Free personal use collecting with no permit required.",
+  "description": "Willard sits at 8,691 feet elevation in Box Elder County's scenic northern Utah landscape, offering rockhounders access to quality mineral specimens on public BLM land. The moderate slopes and high-elevation terrain provide excellent exposures of quartz-rich formations typical of the Precambrian basement rocks and Tertiary-age mineralization found throughout this region. This is a genuine personal-use rockhounding destination where you can search exposed hillsides and weathered outcrops for quartz crystals, agate nodules, and chalcedony pieces without the expense of a fee site.\n\nThe geology here reflects the Basin and Range province's complex mineral-forming history. During the Tertiary period, silica-rich hydrothermal fluids moved through fractures in the older metamorphic and igneous rocks, depositing secondary minerals including quartz, agate, and chalcedony. Weathering and erosion have exposed these formations, making specimens accessible on the surface and in shallow washes.\n\nBecause this is BLM land, collecting is straightforward: no permit required, no fees, just your 25-pound daily limit per FLPMA regulations. The moderate slopes mean you will do some walking and scrambling over rocky terrain, but access is not as demanding as true backcountry sites. Expect typical high-desert vegetation and open ridges with good views. The elevation brings cooler temperatures than lower Utah valleys, making spring and fall ideal for extended field work.\n\nBring sturdy boots for the rocky footing, a rock hammer or chisel for specimen extraction, and plenty of water. The remote location means you should inform someone of your plans and carry a basic first aid kit. Early morning starts are smart here to maximize daylight in this northern latitude.",
+  "history": "This area lies within the Precambrian metamorphic terrain of the Willard Mountains, which experienced major silicification during Tertiary-age hydrothermal activity related to the Basin and Range extension. The high-elevation exposures here represent deeply eroded mineralized zones where quartz, agate, and chalcedony formed as secondary minerals in fracture-filling environments typical of northern Utah's mineral-rich geology.",
+  "tips": "Search the weathered hillsides and small washes where erosion has exposed quartz-rich outcrops; agate nodules often weather out of host rock and collect in shallow gullies. Use a 2-3 pound hammer and cold chisel to extract specimens from partially exposed veins, striking perpendicular to the fracture plane rather than trying to pry specimens free. Look for translucent quartz with milky-white or faint purple tinges, and search for chalcedony banding (concentric color layers) near exposed rock faces. The high elevation means afternoon thunderstorms are possible even in summer, so start early and get off exposed ridges by mid-afternoon.",
+  "terrain_notes": "Elevation 8,691 feet with moderate rocky slopes. Terrain is composed of exposed metamorphic bedrock, weathered outcrops, and sparse high-desert vegetation including sagebrush and scattered conifers. Walking distance from parking typically 0.5 to 2 miles depending on target area. Footing is rough and rocky; loose rocks and exposed bedrock are common. No established trails; you will be hiking cross-country. Afternoon winds are typical at this elevation.",
+  "best_season": "June - September. The high elevation means winter and early spring bring snow that blocks access. Summer months provide reliable weather and stable access to the BLM land, though afternoon thunderstorms are possible. Fall (September) offers cooler collecting temperatures and lower storm risk.",
+  "written_directions": "From Brigham City (approximately 20 miles south), take US 89 north toward Willard. Continue on local roads into the Box Elder County high country northeast of Willard. Access to specific BLM parcels varies; consult current Utah BLM maps online for exact parking areas and public land boundaries, as access roads may be seasonal. High-clearance or 4WD vehicle recommended for final approach roads which may be rough or rutted.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Final approach roads are rough, rocky, and may have washboard. High-clearance or 4WD required. Roads may be muddy or impassable after rain.",
+  "parking_notes": "Limited pullouts along access roads. Informal parking in cleared areas near collecting zones. No established lot or facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or large-scale removal. Specimens must be hand-collected or extracted with simple hand tools. Leave the area in good condition and do not damage surrounding rock formations.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo large-scale removal\nHand tools and simple hand collection only\nLeave area in good condition",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Brigham City, approximately 20 miles south. Gas, food, water, and supplies available there. No services at or near the collecting site.",
+  "accessibility_notes": "Moderate-to-rough rocky terrain with no established trails. Uneven footing, loose rocks, and exposed bedrock common. Sturdy boots and good balance required. Not suitable for wheelchairs or limited mobility. Significant hiking over uneven terrain required to reach collecting zones. Elevation of 8,691 feet means exertion will be more tiring than lower elevations.",
+  "alternative_names": [],
+  "nearest_city": "Brigham City",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/willard-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/willard-ut/mineral-1-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/willard-ut/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Willard, Utah?",
+      "answer": "Willard offers quartz crystals, agate, and chalcedony as primary specimens. These form in the Precambrian metamorphic rocks that underlie this high-elevation area. Quartz crystals are the most abundant find, ranging from milky-white to light purple (amethyst-tinted) specimens. Agate nodules and chalcedony pieces are also common, especially in weathered outcrops and shallow washes."
+    },
+    {
+      "question": "Is a permit required to rockhound at Willard, Box Elder County?",
+      "answer": "No permit is required. Willard is located on BLM public land where personal-use recreational collecting is allowed without permits under FLPMA regulations. Simply follow the 25-pound daily limit and hand-collection rules, and you can collect freely."
+    },
+    {
+      "question": "How do I find quartz and agate specimens at Willard rockhounding site?",
+      "answer": "Start by hiking to exposed hillsides and weathered rock outcrops where erosion has exposed mineralized zones. Look for translucent quartz with white or faint purple tinges protruding from host rock. Search small washes and gullies where agate nodules weather out and collect. Use a rock hammer and cold chisel to carefully extract specimens from partially exposed veins, working perpendicular to fracture planes."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Willard, Utah?",
+      "answer": "June through September is ideal. The 8,691-foot elevation means winter and spring bring heavy snow that blocks access roads. Summer offers reliable weather and stable BLM access, though afternoon thunderstorms are possible. September provides cooler temperatures and lower storm risk. Avoid October through May due to snow and ice on access roads."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Willard?",
+      "answer": "Bring a 2-3 pound rock hammer and cold chisel for specimen extraction, sturdy hiking boots for rough rocky terrain, a backpack with 2-3 liters of water (high elevation increases dehydration), a basic first aid kit, and a GPS or phone with offline maps since cell service is spotty. The 4WD access road and 8,691-foot elevation make preparation essential."
+    },
+    {
+      "question": "Is Willard rockhounding site beginner friendly and suitable for families?",
+      "answer": "Yes, Willard is beginner friendly and family suitable. No permit or special skills are required, and specimens are relatively easy to find on exposed hillsides. However, the moderate rocky terrain and high elevation mean children should be at least 8 years old and comfortable hiking over uneven ground. Start with short hikes to nearby outcrops before venturing further afield."
+    }
+  ],
+  "meta_title": "Willard Rockhounding - Utah BLM Quartz & Agate",
+  "meta_description": "Free rockhounding at Willard, Utah BLM site. Find quartz, agate, and chalcedony. No permit required, 25 lbs/day limit. Beginner friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types inferred from regional geology without site-specific field verification",
+    "specific access roads and parking inferred from typical Box Elder County BLM access patterns",
+    "hazards based on elevation and remote terrain characteristics"
+  ],
+  "enriched_at": "2026-04-22T06:48:32.295Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:55:06.103Z"
+}

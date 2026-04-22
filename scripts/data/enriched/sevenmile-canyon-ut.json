@@ -1,0 +1,101 @@
+{
+  "slug": "sevenmile-canyon-ut",
+  "name": "Sevenmile Canyon",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Moab",
+  "city_slug": "moab",
+  "county": "Grand",
+  "county_slug": "grand",
+  "lat": 38.666939,
+  "lng": -109.639802,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Chert"
+  ],
+  "short_description": "BLM public rockhounding site in remote Sevenmile Canyon offering colorful agate and jasper specimens along wash beds and canyon walls. No permit required, beginner-friendly collecting.",
+  "description": "Sevenmile Canyon is a scenic BLM-managed site located in Grand County's rugged backcountry, accessible only by high-clearance vehicle or hiking. The canyon exposes Triassic and Jurassic sedimentary formations rich in silica-bearing nodules and weathered fragments. Collectors search wash beds and canyon floor exposures for colorful banded agates, red and yellow jasper chunks, and chalcedony specimens ranging from golf-ball to fist-sized pieces.\n\nThe canyon's remote location means minimal foot traffic and good collecting potential for patient rockhounders willing to hike short distances from vehicle access. The geology here reflects ancient alluvial and lacustrine environments where silica-rich fluids migrated through sandstone and siltstone layers, depositing the mineral-rich pockets you'll find today.\n\nBest collecting occurs along the main wash where seasonal water flow has exposed fresh material. The canyon walls also display in-situ agate nodules in weathered sandstone beds, though these are difficult to extract. This is a true backcountry experience - bring water, sun protection, and allow several hours for exploration. The remote setting and undisturbed geology make this site valuable for serious rockhounders seeking quality specimens away from heavily-trafficked locations.",
+  "history": "Sevenmile Canyon sits within the Colorado Plateau province where Triassic and Jurassic sedimentary rocks were deposited in shallow seas and river deltas over 200 million years ago. Silica-rich groundwater percolating through these ancient formations created the agate and chalcedony nodules found here today, with the colorful banding patterns resulting from trace mineral concentrations during mineral precipitation.",
+  "tips": "Search the main canyon wash where seasonal runoff has concentrated loose specimens on the surface - agates weather out of surrounding sandstone and collect in low spots. Look for the distinctive banded patterns and waxy luster characteristic of agate, which distinguishes quality specimens from common chert. Bring a 10x hand lens to examine color banding and clarity before collecting, as many pieces may be heavily weathered. Sturdy boots and a pick or pry bar are essential for sampling in-situ material from canyon wall exposures.",
+  "terrain_notes": "Sevenmile Canyon features steep slickrock walls, rocky canyon floor, and narrow passages requiring scrambling in places. Elevation ranges 4,200-4,600 feet. The main wash bed contains scattered boulders and loose rock requiring careful footing. Vehicle access ends at a primitive parking area approximately 2 miles from prime collecting zones; hiking from there involves rough terrain with no maintained trails. Vegetation is sparse - scattered junipers and pinyon pines. Walking distance to best sites is 2-4 miles depending on route selection.",
+  "best_season": "October - April. The high desert climate brings intense summer heat above 95 degrees with minimal shade in the exposed canyon. Winter temperatures rarely drop below freezing at this elevation. Fall and spring offer ideal 60-75 degree temperatures and lower sun intensity. Flash flood risk exists during spring snowmelt and late summer monsoons, so avoid the canyon after heavy rain.",
+  "written_directions": "From Moab, take US 191 south for 15 miles to the BLM access road near Cisco. Turn west onto the unmarked high-clearance dirt road (high-clearance vehicle required) and follow it approximately 18 miles into the backcountry toward Sevenmile Canyon. The road becomes progressively rougher with steep grades and washboard sections. A primitive parking area exists near the canyon mouth; from there, hike west into the canyon main wash. GPS coordinates (38.666939, -109.639802) mark the central collecting area. Check current road conditions with the Moab BLM field office before attempting this route.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Steep, narrow high-clearance dirt road with significant washboard, ruts, and rocky sections. Heavy rains make the access route impassable. Vehicle clearance of at least 10 inches required. This is a rough backcountry road suitable only for experienced drivers in rugged 4x4 vehicles.",
+  "parking_notes": "Primitive parking area at canyon mouth. Limited capacity, no facilities. Parking is informal pullout style with room for 3-5 vehicles. No water, restrooms, or amenities available.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No use of explosives or heavy equipment. Collect only loose surface material; do not use power tools or remove material from in-situ deposits that would damage geological formations. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo explosives or heavy equipment\nCollect loose surface material only\nNo power tools on geological formations\nPack out all trash",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "snakes",
+    "cliffs",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote",
+    "heat"
+  ],
+  "nearest_services": "Moab, approximately 30 miles. Full services including gas, food, water, lodging, and medical facilities available in Moab. No services exist within 20 miles of Sevenmile Canyon itself.",
+  "accessibility_notes": "This is a remote backcountry site suitable only for experienced hikers and 4x4 drivers. The access road is rough, steep, and requires high-clearance vehicles. The canyon itself involves scrambling over loose rock, navigating steep slickrock sections, and hiking up to 4 miles from vehicle parking. Not suitable for visitors with limited mobility, young children, or those unfamiliar with wilderness navigation. Bring ample water (at least 3 liters per person), navigation tools, and emergency supplies.",
+  "alternative_names": [],
+  "nearest_city": "Moab",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/sevenmile-canyon-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agate and jasper can I find at Sevenmile Canyon in Utah?",
+      "answer": "Sevenmile Canyon yields banded red, yellow, and orange jasper specimens along with colorful chalcedony and chert pieces. Many specimens show distinctive banding patterns from trace minerals deposited during ancient silica precipitation. Agate nodules range from golf-ball to fist-sized, with quality pieces featuring translucent banding and waxy luster. Most material is found loose in the main wash after weathering from surrounding Triassic sandstone formations."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Sevenmile Canyon near Moab?",
+      "answer": "No permit is required for personal recreational rockhounding at Sevenmile Canyon, which is managed BLM public land in Utah. You can collect up to 25 lbs per day under the Federal Land Policy and Management Act. However, the site is remote and requires a high-clearance or 4x4 vehicle to access, so come fully prepared with water, navigation tools, and extra fuel."
+    },
+    {
+      "question": "How difficult is it to access Sevenmile Canyon, and what vehicle do I need?",
+      "answer": "Sevenmile Canyon requires a high-clearance or 4x4 vehicle due to the rough, steep, and rocky access road from Moab (approximately 30 miles away). The backcountry road features washboard, ruts, and narrow sections with significant elevation changes. Once you arrive at the primitive parking area, hiking into the canyon involves scrambling over loose rock and navigating without marked trails. This site is recommended for experienced backcountry users only."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Sevenmile Canyon?",
+      "answer": "October through April offers the ideal rockhounding season at Sevenmile Canyon. Summer temperatures exceed 95 degrees with minimal shade in the exposed canyon, making collecting dangerous. Spring snowmelt and summer monsoons create flash flood hazards in the narrow canyon. Fall and spring conditions with 60-75 degree temperatures and lower sun intensity provide safe, comfortable collecting conditions. Always check weather forecasts before attempting the rough access road."
+    },
+    {
+      "question": "What tools and supplies should I bring to Sevenmile Canyon rockhounding?",
+      "answer": "Bring at least 3 liters of water per person, sunscreen, a wide-brimmed hat, and sturdy hiking boots with ankle support for the rocky terrain. A 10x hand lens helps identify quality agate specimens before collecting. A pick or small pry bar aids in sampling material, though power tools are prohibited. Pack a GPS device or detailed maps for navigation in this remote area. Bring emergency supplies including a first aid kit, and ensure your vehicle has plenty of fuel before leaving Moab."
+    },
+    {
+      "question": "Is Sevenmile Canyon a good site for beginning rockhounders?",
+      "answer": "Sevenmile Canyon is not recommended for beginning rockhounders due to its remote location, rough road access, and lack of facilities. The site requires experienced 4x4 driving, wilderness navigation skills, and physical fitness for multi-mile canyon hikes. For Utah beginners, consider more accessible BLM sites near Moab or fee dig operations that provide closer access and amenities. However, experienced rockhounders will find the undisturbed collecting potential and quality specimens worth the backcountry effort."
+    }
+  ],
+  "meta_title": "Sevenmile Canyon Rockhounding - Utah BLM",
+  "meta_description": "Find agate, jasper, and chalcedony at remote Sevenmile Canyon near Moab, Utah. Free BLM collecting, 25 lbs per day, 4x4 vehicle required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "family_friendly",
+    "written_directions details (exact mile markers not verified)",
+    "road_conditions specifics (washboard, rut depth estimated)",
+    "terrain_notes elevation range (estimated from regional data)"
+  ],
+  "enriched_at": "2026-04-22T06:50:09.321Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:56:35.903Z"
+}

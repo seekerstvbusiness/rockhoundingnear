@@ -1,0 +1,104 @@
+{
+  "slug": "new-meadows-id",
+  "name": "New Meadows",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Adams County Area",
+  "city_slug": "adams-county",
+  "county": "Adams",
+  "county_slug": "adams",
+  "lat": 44.92112,
+  "lng": -116.310664,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM public land rockhounding area in central Idaho offering quartz, chalcedony, and jasper specimens. Free collection on gentle slopes with easy terrain access.",
+  "description": "New Meadows lies within the scenic Adams County area of central Idaho, situated on Bureau of Land Management property that welcomes recreational rockhounding. The site sits at 4,228 feet elevation on gentle terrain, making it accessible to rockhounds of varying skill levels. The geology here reflects Idaho's rich volcanic and hydrothermal history - this area sits within the Salmon River Breaks region where Tertiary-age volcanic rocks and associated silica-rich deposits created ideal conditions for the formation of quartz, chalcedony, jasper, and agate specimens found in the surrounding landscape.\n\nThe landscape at New Meadows features rolling hills with scattered outcrops and wash areas where weathered silicate minerals accumulate. Rockhounders typically search along drainage bottoms and hillside exposures where erosion naturally exposes translucent and opaque quartz varieties, colorful jasper layers, and occasional agate nodules. The gentle slope and accessible terrain make this an ideal destination for families and beginners exploring Idaho's mineral diversity without requiring technical climbing skills.\n\nThe BLM manages this land for multiple uses including recreation, and personal collection is encouraged within standard regulations. No permit is required for casual rockhounding, and the land remains relatively undisturbed compared to heavily worked commercial claims. Spring and fall visits offer the best combination of comfortable weather and clear visibility of exposed mineral layers along eroded slopes.",
+  "history": "This region of central Idaho experienced significant Tertiary-age volcanic and hydrothermal activity that deposited silica-rich fluids into fractures and pores of host rocks, creating the quartz, chalcedony, and jasper specimens found here today. The Salmon River Breaks area has a long history of both hard rock mining and casual rockhounding, with many historic prospect pits and claim markers still visible in the surrounding drainage systems.",
+  "tips": "Search along wash bottoms and eroded hillsides where water has exposed fresh mineral faces - quartz and chalcedony specimens are often found as loose fragments rather than in place. Bring a small classifier screen to sift through decomposed rock material in drainages; this efficiently reveals opaque jasper and chalcedony pieces that blend into the soil. Look for translucent quartz showing milky white or smoky coloration, and watch for banded or brecciated jasper patterns in red, orange, and tan hues. A 3-pound crack hammer and chisel are useful for carefully extracting specimens from outcrop, but much quality material can be collected loose from the surface without breaking rock.",
+  "terrain_notes": "Elevation 4,228 feet with gentle rolling slopes throughout the collecting area. Terrain consists of mixed sagebrush and scattered ponderosa pine at lower elevations, with increasingly rocky ground toward higher slopes. Walking distance from parking to productive collecting areas typically ranges from 100 feet to 1 mile depending on the specific drainage you explore. Footing is generally good on compacted soil and rocky ground, though loose stone fragments can be slippery after rain. Unpaved BLM roads provide vehicle access to multiple parking pullouts around the site.",
+  "best_season": "May - September. Higher elevation and central Idaho's continental climate make late spring through early fall optimal for rockhounding. Summer daytime temperatures in the 70s-80s F are comfortable for field work, though afternoon thunderstorms are common in July and August. Winter snow and muddy spring conditions make early and mid-season visits challenging.",
+  "written_directions": "From Adams, take State Route 14 east approximately 12 miles toward New Meadows. Watch for BLM access signs marking public land parcels on both sides of the highway. Turn onto any marked BLM road or pullout along this stretch - multiple informal parking areas exist along the ridge breaks and drainage entrances. GPS coordinates (44.92112, -116.310664) pinpoint the central collecting area. From there, walk upslope or down into any visible washout or exposed outcrop. Local rockhounders often use Forest Road 447 or the Meadows Creek drainage road system for additional access points.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM roads, generally passable for passenger vehicles in dry conditions. May require high-clearance vehicle or ATV after heavy rain. Washboard texture common on main access roads.",
+  "parking_notes": "Multiple informal pullouts along BLM roads near the GPS coordinates. No developed parking lot; rockhounders typically park on wide shoulders of BLM roads or in small cleared areas near drainage access points. Space for 2-4 vehicles at most pullouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. Hand tools only. Collect only loose specimens or those easily removed by hand - do not blast or use power tools. Pack out all waste and leave no disturbance.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\n25 lbs per day maximum per person\nHand tools and hand collection only\nNo motorized excavation or power equipment\nNo blasting or heavy rock removal\nPack out all waste\nMinimize surface disturbance",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "loose_rock",
+    "wildlife",
+    "remote",
+    "cold"
+  ],
+  "nearest_services": "Adams, Idaho approximately 12 miles west has gas stations, small restaurants, and general supplies. New Meadows town (12 miles east) has limited services. Larger supplies available in McCall, approximately 35 miles south.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Unpaved BLM roads to parking pullouts require passenger vehicle with moderate clearance. From parking, collecting areas are within walking distance on well-established game trails and drainage routes. No wheelchair access to parking areas. Sturdy hiking boots recommended due to scattered loose rock and uneven ground. Not suitable for users with significant mobility limitations.",
+  "alternative_names": [
+    "Adams County BLM Rockhounding",
+    "Meadows Creek Area"
+  ],
+  "nearest_city": "Adams",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/new-meadows-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/new-meadows-id/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at New Meadows Idaho?",
+      "answer": "New Meadows BLM land produces quartz (including milky and smoky varieties), chalcedony, colorful jasper in red and orange tones, and occasional agate nodules. Most specimens are found loose on eroded hillsides and in drainage washes rather than in place in outcrop. The silica-rich geology of central Idaho's volcanic landscape makes this area particularly productive for these secondary minerals."
+    },
+    {
+      "question": "Is rockhounding at New Meadows free or do you need a permit?",
+      "answer": "Rockhounding at New Meadows is completely free - no permit is required. The area is managed by the Bureau of Land Management (BLM) which allows recreational mineral collection on public land for personal use only. You simply drive to any BLM access point, park, and begin collecting. The 25 lb daily limit is the only restriction."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Adams Idaho?",
+      "answer": "May through September offers the best rockhounding at New Meadows. Spring runoff clears winter debris from drainages, exposing fresh material. Summer weather is comfortable with daytime temperatures in the 70s-80s F. Avoid winter due to snow and early spring due to muddy conditions. Afternoon thunderstorms are common in July-August but typically brief."
+    },
+    {
+      "question": "How difficult is rockhounding at New Meadows for beginners?",
+      "answer": "New Meadows is excellent for beginner rockhounders. The terrain is gentle with easy walking, and loose specimens are readily found on the surface without requiring any rock breaking. No technical climbing or expert identification skills are needed. Families with children as young as 6 years old can successfully collect here with adult supervision."
+    },
+    {
+      "question": "What tools and equipment do you need to collect at New Meadows?",
+      "answer": "Hand tools only are permitted at New Meadows. Bring a small 3-pound crack hammer and cold chisel for extracting specimens from accessible outcrops. A small classifier screen or sifter helps recover pieces from decomposed rock in drainages. A backpack to carry your 25-lb daily limit, water, sun protection, and a field guide to Idaho minerals are also recommended. Power tools and motorized equipment are strictly prohibited."
+    },
+    {
+      "question": "How far is New Meadows rockhounding from the nearest town with supplies?",
+      "answer": "Adams, Idaho is the nearest town approximately 12 miles west of New Meadows, offering gas, basic food, and supplies. The larger town of New Meadows sits about 12 miles east. For more comprehensive supplies and accommodations, McCall is 35 miles south. Cell service is spotty in the collecting area, so plan ahead and bring water and essentials from town before heading out."
+    }
+  ],
+  "meta_title": "New Meadows Rockhounding - Adams County Idaho",
+  "meta_description": "Free BLM rockhounding at New Meadows Idaho. Find quartz, chalcedony, jasper, and agate. Easy terrain, no permit required. Family-friendly collecting area.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from regional geology)",
+    "nearest_city_distance (estimated)",
+    "road_conditions (typical for BLM in central Idaho)",
+    "cell_service (estimated for elevation and remoteness)",
+    "specific drainage and outcrop locations (no georeferenced source provided)"
+  ],
+  "enriched_at": "2026-04-22T06:43:58.834Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:53.413Z"
+}

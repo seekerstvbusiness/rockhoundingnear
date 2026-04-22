@@ -1,0 +1,98 @@
+{
+  "slug": "simpson-springs-ut",
+  "name": "Simpson Springs",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Tooele",
+  "city_slug": "tooele",
+  "county": "Tooele",
+  "county_slug": "tooele",
+  "lat": 40.035937,
+  "lng": -112.776699,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper"
+  ],
+  "short_description": "BLM public land rockhounding site near Tooele offering free access to quartz, chalcedony, and agate specimens. Great beginner-friendly desert collecting in the Great Basin.",
+  "description": "Simpson Springs is a public BLM rockhounding area located in Tooele County's high desert basin terrain. The site sits within Utah's Basin and Range province, characterized by broad valleys and scattered rocky ridges where you can search for quartz varieties, chalcedony nodules, and colorful jasper specimens. This is a classic Great Basin rockhounding location with minimal crowds and easy public access - no permits or fees required. The terrain consists of open, sandy desert floor interspersed with low rocky outcrops and wash systems that concentrate collectible specimens. Because it's BLM land, you're welcome to search for small personal use collections year-round, making this an excellent spot for beginners wanting to practice identification skills without financial commitment.\n\nGeologically, this area was shaped by Cenozoic-age Basin and Range extension that created the broad Tooele Valley. Silica-rich groundwater and volcanic activity during the Tertiary period deposited the quartz, chalcedony, and microcrystalline minerals you find today. The open desert surface makes specimens easy to spot after wind and water erosion expose them from surrounding soil and weathered rock.\n\nExpect to find loose specimens and nodules scattered across the sandy desert floor and in small washes. The collecting is straightforward - walk the washes and flat areas, look for color contrasts in the soil, and pick up interesting specimens. Many collectors visit this site repeatedly across different seasons to build quality collections without exceeding the daily 25-pound personal use limit.\n\nThis location is perfect for family outings, beginning rockhounds, and anyone wanting to experience Great Basin geology without the crowds or costs of fee dig sites. The accessibility and beginner-friendly nature make it ideal for teaching children about mineral collection and desert ecosystems.",
+  "history": "Simpson Springs lies within the Basin and Range physiographic province, where Cenozoic extension and volcanism during the Tertiary period deposited widespread silica-rich minerals throughout the high desert valleys. The quartz, chalcedony, and agate found here formed from hydrothermal fluids circulating through fractured rock and from weathering of rhyolitic volcanic deposits characteristic of Utah's Great Basin.",
+  "tips": "Focus your search in and around the small washes where water erosion concentrates specimens - scan the ground carefully for white, milky, and translucent quartz nodules and chalcedony pieces. Bring a small hand shovel or rock hammer to gently excavate partially buried specimens from sandy patches. Look for specimens with color variation - jasper specimens often show red, brown, or green tones that stand out against the tan desert soil, and these tend to be the most collectible pieces.",
+  "terrain_notes": "Open high desert terrain at approximately 5,200 feet elevation with gentle slopes, scattered low rocky outcrops, and sandy wash systems. Vegetation is sparse - mainly low brush and desert shrubs. Walking distance from parking areas is typically 0.25 to 1 mile, with relatively easy footing on sandy to gravelly ground. No significant obstacles or steep terrain - suitable for families and those with moderate mobility.",
+  "best_season": "October - April. While the site is accessible year-round, late fall through spring offers the most comfortable collecting conditions. Summer temperatures regularly exceed 90 degrees F and can reach 100+ F on the exposed desert floor, making midday collecting uncomfortable. Winter months are mild at this elevation, though occasional snow may briefly limit access.",
+  "written_directions": "From Tooele, take UT-36 south approximately 25 miles toward Dugway. Turn east on a well-marked BLM access road near the Simpson Springs area. Follow this unpaved road approximately 3-5 miles to parking areas near the springs and surrounding collecting zones. Roads are typically passable by passenger vehicles in dry conditions, though high-clearance or 4WD vehicles are recommended for rough sections. Check local BLM office conditions before heading out after heavy rain or snow.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM roads with washboard texture in places. Passenger vehicles can access main parking areas in dry conditions, though high-clearance vehicles are safer. Avoid after rain when roads may become temporarily impassable.",
+  "parking_notes": "Informal pull-off parking areas near the springs and collecting zone. No designated lot or facilities. Space for 5-10 vehicles typical. No reservations accepted - first come, first served.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection. No motorized excavation. No removal of archaeological artifacts or fossils. Respect the natural environment and avoid damaging vegetation or disturbing wildlife habitat.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo archaeological artifacts or fossils\nNo vehicles off designated roads",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material"
+  ],
+  "nearest_services": "Tooele, approximately 25 miles northwest, has gas stations, restaurants, and lodging. Dugway has limited services.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Sandy and gravelly footing is easy walking without significant obstacles. No wheelchair access to collecting areas due to uneven desert terrain and lack of developed trails. Sturdy hiking boots recommended for comfort, though the terrain is gentle enough for athletic sneakers. Most collecting happens within 0.5 miles of parking, manageable for people with moderate mobility.",
+  "alternative_names": [],
+  "nearest_city": "Tooele",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/simpson-springs-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/simpson-springs-ut/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/simpson-springs-ut/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Simpson Springs rockhounding site?",
+      "answer": "Simpson Springs is known for quartz varieties including milky quartz, chalcedony nodules, colorful jasper specimens, and agate pieces. These minerals are scattered across the BLM land in the form of loose specimens and nodules found in washes and sandy desert areas. Most pieces are palm-sized to fist-sized, making them ideal for beginners learning mineral identification."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Simpson Springs Utah?",
+      "answer": "No permit is required. Simpson Springs is on public BLM land where recreational rockhounding is allowed under personal use guidelines. You do not need permission from the Bureau of Land Management as long as you follow the 25-pound-per-day collection limit and do not engage in commercial activity."
+    },
+    {
+      "question": "What is the best time of year to visit Simpson Springs for rockhounding?",
+      "answer": "October through April offers the most comfortable collecting conditions. Summer temperatures exceed 90 degrees F and can reach 100+ F in direct sun, making outdoor collecting unpleasant. Winter months at this 5,200-foot elevation are mild with occasional snow that briefly limits access. Spring and fall provide ideal weather for extended outdoor collecting sessions."
+    },
+    {
+      "question": "Is Simpson Springs rockhounding site family friendly and beginner suitable?",
+      "answer": "Yes, Simpson Springs is highly beginner-friendly and excellent for families. The terrain is easy with gentle slopes, flat walking areas, and no serious obstacles. No special equipment or experience is needed to start collecting. The open desert makes specimens easy to spot, and the free public access means families can visit without fees. Kids as young as 6 can participate comfortably."
+    },
+    {
+      "question": "How far is Simpson Springs from Tooele Utah and what kind of roads do I need?",
+      "answer": "Simpson Springs is approximately 25 miles south of Tooele. Access is via UT-36 south to an unpaved BLM road that becomes rougher as you approach the site. Passenger vehicles can usually reach main parking areas in dry conditions, though high-clearance or 4WD vehicles are safer for rough sections. Avoid traveling after heavy rain when unpaved roads may be impassable."
+    },
+    {
+      "question": "What tools and gear should I bring for rockhounding at Simpson Springs?",
+      "answer": "Bring a small hand shovel or rock hammer to excavate partially buried specimens from sandy patches. Wear sturdy hiking boots, bring plenty of water (at least 2 liters) for the hot desert, sunscreen, and a hat. A small backpack or collection bag helps carry your finds within the 25-pound daily limit. A field guide helps identify quartz varieties and chalcedony. Since cell service is spotty, let someone know where you are going."
+    }
+  ],
+  "meta_title": "Simpson Springs Rockhounding - Utah BLM",
+  "meta_description": "Free BLM rockhounding site near Tooele. Find quartz, chalcedony, agate. Beginner-friendly, no permit required, 25 lb/day limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "parking_notes",
+    "road_conditions",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-22T06:53:34.016Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:02:38.612Z"
+}

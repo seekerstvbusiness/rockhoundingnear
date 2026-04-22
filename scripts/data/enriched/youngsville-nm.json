@@ -1,0 +1,99 @@
+{
+  "slug": "youngsville-nm",
+  "name": "Youngsville",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Youngsville",
+  "city_slug": "youngsville",
+  "county": "Rio Arriba",
+  "county_slug": "rio-arriba",
+  "lat": 36.184098,
+  "lng": -106.558428,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Chert"
+  ],
+  "short_description": "BLM rockhounding site in northern New Mexico featuring agate and jasper specimens. Free public collecting on gentle slopes with no permit required.",
+  "description": "Youngsville sits on public BLM land in Rio Arriba County, offering accessible rockhounding opportunities for collectors of all skill levels. The site sits at 6803 feet elevation on gentle slopes, making it relatively easy to navigate while searching for quality agate, jasper, and chalcedony specimens. The high desert terrain around Youngsville reflects the geological history of the Rio Grande rift, where mineralized deposits were concentrated over millions of years.\n\nThis area is part of the Espanola Basin geological province, where Tertiary volcanic and alluvial deposits created ideal conditions for silica-rich mineral formation. Agate nodules and jasper fragments weathered from the surrounding hills accumulate in washes and along exposed hillsides, where erosion naturally exposes new material. The gentle slopes make it possible to cover significant ground without extreme physical effort.\n\nCollectors should expect to find small to medium-sized agate pieces, often displaying earth tones of red, brown, tan, and white. Jasper fragments are common, and patient searching in wash gravels can yield polishable specimens. The BLM designation means free access and no permit requirements, though a daily 25-pound collection limit applies per person.\n\nThe landscape is semi-arid high desert with scattered piñon and juniper vegetation. Mornings and late afternoons offer the best light for spotting translucent agate against the surrounding rock. Bring plenty of water, sun protection, and sturdy shoes even on these gentle slopes, as the ground can be uneven in places.",
+  "history": "The Youngsville area sits within the Rio Grande rift province, a major geological feature created by crustal extension during the Oligocene and Miocene epochs. Volcanic activity and subsequent alluvial deposition concentrated silica-rich fluids that formed the agate and jasper deposits found here today, making this region part of New Mexico's rich gemstone heritage.",
+  "tips": "Search the bottoms of washes and arroyos first, where water erosion has concentrated heavier agate and jasper pieces. Look for translucent or banded stones showing reds, browns, and creams - these are typically higher-quality specimens. Bring a 10x loupe to examine potential specimens in the field; true agate will show fine banding or chalcedonic structure under magnification. Early morning light at this 6800-foot elevation makes spotting specimens easier, and the gentle slopes allow you to survey large areas systematically.",
+  "terrain_notes": "Elevation 6803 feet in the high desert with gentle slopes and scattered piñon-juniper vegetation. The terrain is semi-open with exposed rocky hillsides and wash systems. Walking is moderate - while slopes are gentle, the ground can be rocky and uneven. Parking areas typically include informal pullouts. Footing requires sturdy hiking shoes, but this is not steep terrain.",
+  "best_season": "October - April",
+  "written_directions": "From Youngsville, travel south on local roads into the BLM management area. GPS coordinates (36.184098, -106.558428) mark the primary collecting zone. Approach via County Road 9 from the north or via Forest Service roads from the south, depending on current access conditions. Check with the Rio Arriba County BLM office for current road conditions before traveling, as high elevation roads may close in winter. Most sites are accessible by standard passenger vehicle during dry conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt roads accessing BLM land; some sections may be rough but passable by standard vehicles in dry conditions. Winter weather can impact access.",
+  "parking_notes": "Informal pullouts and parking areas scattered throughout the BLM zone. No developed parking lot. Multiple access points along roads provide convenient start points for collecting.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No digging or blasting. Surface collection only on public BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 pounds per person per day\nNo commercial collection allowed\nNo motorized excavation\nNo digging, blasting, or heavy equipment\nSurface collection only\nPublic BLM land - no permit required",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote",
+    "cold"
+  ],
+  "nearest_services": "Espanola, approximately 20 miles south, has gas, food, lodging, and supplies. The town of Youngsville itself has limited services.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Unpaved roads lead to parking and collecting areas. No wheelchair access to collection sites. Sturdy footwear required for uneven rocky terrain. The high elevation (6800 ft) may affect those sensitive to altitude. Early season (spring) and late season (fall) weather is mild; summer heat requires extra water, and winter conditions can impact road access.",
+  "alternative_names": [],
+  "nearest_city": "Espanola",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/youngsville-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can I find at Youngsville, New Mexico?",
+      "answer": "Youngsville BLM land produces quality agate specimens in reds, browns, tans, and whites, often with fine banding patterns. Jasper fragments are common, with earth-tone coloring. Chalcedony and chert also appear throughout the area. Most specimens are small to medium-sized and found as surface material or in wash gravels. A 10x loupe helps identify true agate by its microscopic structure."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Youngsville BLM land in Rio Arriba County?",
+      "answer": "No permit is required. Youngsville sits on public BLM land that allows free recreational collecting under FLPMA guidelines. You simply need to follow the 25-pound daily collection limit per person and observe no-motorized-excavation rules. Contact the Rio Arriba County BLM office for current access information."
+    },
+    {
+      "question": "How far is Youngsville from town, and what's the best season to rockhound there?",
+      "answer": "Youngsville is located about 20 miles north of Espanola, which has gas, food, and supplies. At 6800 feet elevation, the best rockhounding season is October through April when cooler temperatures and lower sun angles make field work more comfortable. Summer heat can be intense, and winter weather may affect road access."
+    },
+    {
+      "question": "Can beginners and kids collect at Youngsville, and what tools do I need?",
+      "answer": "Yes - Youngsville is beginner and family friendly with easy, gentle terrain. The 25-pound daily limit means casual collectors can find quality specimens. Bring a small chisel or pry bar for minor work, a loupe for specimen inspection, water (critical at 6800 ft), a daypack, sun protection, and sturdy hiking shoes. Children as young as 6 can participate safely."
+    },
+    {
+      "question": "Are there rockhounding areas near Youngsville with similar agate deposits?",
+      "answer": "Yes, Rio Arriba County has multiple BLM sites with agate and jasper. Youngsville is part of the broader Espanola Basin agate zone. Areas near Abiquiu, Ojo Sarco, and other northern New Mexico locations offer similar geology and collecting opportunities. All follow the same FLPMA rules: no permit needed, 25-pound daily limit, surface collection only."
+    },
+    {
+      "question": "What's the terrain like at Youngsville, and do I need 4WD to access the site?",
+      "answer": "Youngsville features gentle slopes, semi-arid high desert terrain with piñon-juniper vegetation, and elevations around 6800 feet. Standard passenger vehicles can access the area via improved dirt roads during dry conditions. No 4WD is required, though high-clearance vehicles handle rougher roads better. Winter weather and seasonal closures may affect access, so check with BLM before visiting."
+    }
+  ],
+  "meta_title": "Youngsville Rockhounding - Find Agate in New Mexico",
+  "meta_description": "Free BLM rockhounding at Youngsville, NM. Collect agate, jasper, and chalcedony. No permit required. Beginner friendly. Open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance - estimated at 20 miles based on geographic knowledge",
+    "written_directions - inferred from general New Mexico geography; specific road names require local verification",
+    "gem_types - based on typical Rio Arriba County BLM deposits; confirm with local BLM office",
+    "road_conditions - based on typical BLM access patterns; current conditions should be verified",
+    "parking_notes - typical for BLM sites; specific parking details should be confirmed locally"
+  ],
+  "enriched_at": "2026-04-22T06:46:20.646Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:49:58.841Z"
+}

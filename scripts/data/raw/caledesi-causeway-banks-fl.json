@@ -1,0 +1,60 @@
+{
+  "slug": "caledesi-causeway-banks-fl",
+  "name": "Caledesi Causeway Banks",
+  "lat": 28.057785,
+  "lng": -82.808868,
+  "state": "Florida",
+  "state_slug": "florida",
+  "state_code": "FL",
+  "city": "Pinellas County",
+  "city_slug": "pinellas-county",
+  "county": "Pinellas",
+  "county_slug": "pinellas",
+  "geocoded_city": "Dunedin",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-florida.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Caledesi%20Causeway%20Banks%20Florida"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Caledesi%20Causeway%20Banks",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Caledesi%20Causeway%20Banks%20Florida"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3,
+      "meters": 1
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:33:24.058Z"
+  },
+  "scraped_at": "2026-04-21T17:33:24.058Z",
+  "scrape_quality": "minimal"
+}

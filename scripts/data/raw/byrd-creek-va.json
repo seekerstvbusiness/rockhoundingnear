@@ -1,0 +1,60 @@
+{
+  "slug": "byrd-creek-va",
+  "name": "Byrd Creek",
+  "lat": 37.815496,
+  "lng": -78.145629,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Fluvanna County",
+  "city_slug": "fluvanna-county",
+  "county": "Fluvanna",
+  "county_slug": "fluvanna",
+  "geocoded_city": "Fluvanna County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Byrd%20Creek%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Byrd%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Byrd%20Creek%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 223,
+      "meters": 68
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:11:37.724Z"
+  },
+  "scraped_at": "2026-04-21T19:11:37.724Z",
+  "scrape_quality": "minimal"
+}

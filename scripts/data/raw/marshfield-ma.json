@@ -1,0 +1,60 @@
+{
+  "slug": "marshfield-ma",
+  "name": "Marshfield",
+  "lat": 42.114111,
+  "lng": -70.669451,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Marshfield",
+  "city_slug": "marshfield",
+  "county": "Plymouth",
+  "county_slug": "plymouth",
+  "geocoded_city": "Marshfield",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Marshfield%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Marshfield",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Marshfield%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 9,
+      "meters": 3
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:15:58.797Z"
+  },
+  "scraped_at": "2026-04-21T19:15:58.797Z",
+  "scrape_quality": "minimal"
+}

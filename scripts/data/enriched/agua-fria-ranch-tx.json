@@ -1,0 +1,100 @@
+{
+  "slug": "agua-fria-ranch-tx",
+  "name": "Agua Fria Ranch",
+  "state": "Texas",
+  "state_slug": "texas",
+  "city": "Alpine",
+  "city_slug": "alpine",
+  "county": "Brewster",
+  "county_slug": "brewster",
+  "lat": 29.525243,
+  "lng": -103.673884,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Remote Brewster County location known for desert agate and jasper specimens. High elevation ranch terrain with good collecting potential for chalcedony varieties.",
+  "description": "Agua Fria Ranch sits in the rugged high desert of Brewster County, Texas, at 3512 feet elevation where the Chisos Mountains influence local geology and climate. This private ranch property in the Trans-Pecos region has historically attracted rockhounders seeking desert agates, jasper, and chalcedony specimens weathered from Tertiary volcanic formations. The landscape is characterized by sparse desert scrub, exposed rocky hillsides, and scattered wash systems that concentrate lighter specimens over time.\n\nThe geology here reflects millions of years of volcanic activity and subsequent erosion. Tertiary-age rhyolite and other silica-rich volcanic rocks have been broken down by desert weathering, exposing pockets of microcrystalline quartz in the form of agate nodules and banded chalcedony. The higher elevation means slightly cooler conditions than lower desert locations, making spring and fall the most comfortable collecting seasons.\n\nCollecting at Agua Fria Ranch requires prior permission and coordination with the landowner. The terrain is rough and demands sturdy footwear, sun protection, and plenty of water. Most specimens are found on hillsides and in shallow wash systems where erosion has concentrated lighter stones. The area rewards persistence and systematic searching along exposed geological layers.\n\nThis location is best suited for experienced rockhounders comfortable with remote terrain and the logistics of private land access. The isolation and lack of services make self-sufficiency essential. Early morning or late afternoon collecting helps avoid the intense midday heat that characterizes the Trans-Pecos region.",
+  "history": "Agua Fria Ranch sits within the Trans-Pecos volcanic field where Tertiary-age volcanism deposited thick sequences of rhyolite and other silica-rich volcanic rocks approximately 30-35 million years ago. Subsequent basin-and-range tectonics and desert weathering have fractured these formations, concentrating agate and jasper specimens in erosional drainages and hillside exposures characteristic of remote Brewster County.",
+  "tips": "Search along shallow wash banks and exposed hillside cuts where lighter stones accumulate naturally; the higher elevation here means better spring and fall collecting windows than lower desert sites. Carry extra water and use a UV light to spot chalcedony specimens that fluoresce - many local agates show faint to moderate fluorescence under longwave UV. Look for banded or fortification patterns in darker stones; many Agua Fria specimens display distinctive reddish or tan banding typical of Trans-Pecos agate formations. Start your search in areas with visible geological layering and work methodically uphill to avoid missing pocket areas.",
+  "terrain_notes": "High desert terrain at 3512 feet elevation with sparse creosote, yucca, and other arid vegetation. Rocky hillsides with exposed volcanic outcrops. Loose rock common. Shallow wash systems with gravel bars. Walking distances of 0.5 to 2+ miles from parking depending on chosen collecting area. Footing is uneven and rough; ankle-twisting hazards present. No shade. Exposed to afternoon sun and occasional wind.",
+  "best_season": "October - April. Late spring (May) and early fall (September) are marginal. Daytime temperatures below 90 degrees F occur primarily November through March. Summer heat (June-August) makes midday collecting dangerous. Winter nights can be cold but days are pleasant. April-May and September-October have moderate temperatures but intense sun.",
+  "written_directions": "From Alpine, Texas, take US 90 east toward Marathon for approximately 18 miles. Agua Fria Ranch is located in the remote eastern Brewster County area south of US 90. Exact access requires coordination with landowner - contact is essential before visiting. The final approach involves ranch roads that may require high-clearance vehicles depending on recent weather and road maintenance. GPS coordinates 29.525243, -103.673884 mark the general location, but do not attempt access without explicit permission and detailed landowner instructions.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "awd",
+  "road_conditions": "Ranch roads unpaved, may be rough or washed out. High-clearance vehicle recommended. Call ahead for current road status.",
+  "parking_notes": "No established parking area. Coordinate with landowner for parking location. Limited turnaround space; plan accordingly.",
+  "cell_service": "spotty",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Private land - landowner permission required before any visit. Collecting only with express written or verbal authorization from ranch management. No commercial collection. Respect all gate closures, livestock areas, and boundary markers. Pack out all trash. No motorized excavation. Shooting, camping, or other activities not explicitly permitted are prohibited.",
+  "quantity_limits": null,
+  "rules": "Landowner permission required\nNo collecting without authorization\nNo commercial use\nNo motorized equipment\nPack out trash\nRespect property boundaries",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": false,
+  "kid_age_range": "16+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Alpine, Texas - approximately 18 miles west. Gas, food, water, and lodging available. Brewster County Sheriff non-emergency line: for remote area assistance.",
+  "accessibility_notes": "Rough backcountry terrain with significant walking required across uneven ground. No wheelchair access. Loose rock and ankle-twisting hazards common. Exposed hillsides with no shade. High elevation (3512 ft) may affect those unaccustomed to altitude. This site is not suitable for limited mobility, young children, or inexperienced hikers. Sturdy boots, sun protection, and substantial water supply (2+ liters minimum) are essential.",
+  "alternative_names": [],
+  "nearest_city": "Alpine",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/texas/agua-fria-ranch-tx/cover.png",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Agua Fria Ranch in Brewster County?",
+      "answer": "Agua Fria Ranch is known for desert agate, chalcedony, jasper, and quartz specimens. The most common finds are banded agates with reddish or tan coloring and fortification patterns typical of Trans-Pecos formations. Specimens range from thumbnail size to fist-sized pieces. Chalcedony here often shows distinctive banding and may fluoresce under UV light."
+    },
+    {
+      "question": "Is Agua Fria Ranch open to public rockhounding or do I need permission?",
+      "answer": "Agua Fria Ranch is private land and requires explicit permission from the landowner before any rockhounding visit. There is no public access without authorization. You must contact the ranch directly and receive approval before attempting to collect. This is not a fee dig site - access is by landowner discretion only."
+    },
+    {
+      "question": "What is the best season to rockhound at Agua Fria Ranch near Alpine, Texas?",
+      "answer": "October through April is the optimal season. Daytime temperatures remain below 90 degrees Fahrenheit, making it safe and comfortable to spend hours searching hillsides and washes. Summer months (June-August) are extremely hot and dangerous. Spring and fall months are marginal due to intense sun and higher temperatures."
+    },
+    {
+      "question": "How difficult is rockhounding at Agua Fria Ranch and is it beginner friendly?",
+      "answer": "Agua Fria Ranch is a hard, expert-level site not recommended for beginners. The terrain is rough with loose rock, uneven footing, and significant walking distances from parking. The remote location requires self-sufficiency, substantial water supply, and navigation ability. Experienced rockhounders comfortable with backcountry conditions are best suited for this location."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Agua Fria Ranch?",
+      "answer": "Bring sturdy boots with good ankle support, a backpack, 2-3 liters of water minimum, sunscreen, and a wide-brimmed hat. A hand lens and UV light help identify chalcedony and agate specimens in the field. A small rock hammer and chisel may help extract specimens from matrix, though hand collection is often sufficient. High-clearance vehicle with full tank and emergency supplies are essential."
+    },
+    {
+      "question": "How far is Agua Fria Ranch from Alpine and what are the driving conditions?",
+      "answer": "Agua Fria Ranch is approximately 18 miles east of Alpine, Texas via US 90. The final approach uses unpaved ranch roads requiring a high-clearance or all-wheel-drive vehicle. Road conditions vary with weather and may be rough or washed out. You must coordinate with the landowner for exact directions and current road status before attempting the drive."
+    }
+  ],
+  "meta_title": "Agua Fria Ranch Rockhounding - Texas",
+  "meta_description": "Find agate, jasper, and chalcedony at Agua Fria Ranch in Brewster County. Private land rockhounding with expert-level terrain. Landowner permission required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type and primary_category inferred as private based on name and location context",
+    "gem_types inferred from Trans-Pecos regional geology - confirm with landowner",
+    "vehicle_required set to awd based on typical Brewster County ranch road conditions",
+    "permit_required and fee_amount set based on private land assumption - verify with landowner",
+    "collection_rules generated from standard private land protocols - obtain specific authorization details from owner"
+  ],
+  "enriched_at": "2026-04-21T18:51:27.803Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:53:33.080Z"
+}

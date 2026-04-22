@@ -1,0 +1,60 @@
+{
+  "slug": "river-road-ga",
+  "name": "River Road",
+  "lat": 33.039499,
+  "lng": -81.590492,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Burke County",
+  "city_slug": "burke-county",
+  "county": "Burke",
+  "county_slug": "burke",
+  "geocoded_city": "Rock Fence Crossroads",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=River%20Road%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=River%20Road",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=River%20Road%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 184,
+      "meters": 56
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:16:55.859Z"
+  },
+  "scraped_at": "2026-04-21T19:16:55.859Z",
+  "scrape_quality": "minimal"
+}

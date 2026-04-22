@@ -1,0 +1,100 @@
+{
+  "slug": "quartz-creek-co",
+  "name": "Quartz Creek",
+  "state": "Colorado",
+  "state_slug": "colorado",
+  "city": "Gunnison",
+  "city_slug": "gunnison",
+  "county": "Gunnison",
+  "county_slug": "gunnison",
+  "lat": 38.517407,
+  "lng": -106.667927,
+  "gem_types": [
+    "Quartz",
+    "Smoky Quartz",
+    "Rose Quartz",
+    "Agate",
+    "Feldspar"
+  ],
+  "short_description": "High-altitude BLM rockhounding near Gunnison featuring excellent quartz crystals and smoky quartz specimens. Gentle slopes and alpine terrain make this accessible for experienced collectors.",
+  "description": "Quartz Creek lies in the heart of Colorado's Rocky Mountain region, sitting at 8320 feet elevation on public BLM land managed for multiple-use recreation. This site offers excellent opportunities to collect quartz in multiple forms, particularly smoky quartz and rose quartz specimens that formed during the Laramide Orogeny when tectonic uplift and hydrothermal activity created extensive quartz veining throughout the region. The gentle slopes and open terrain make navigation straightforward, though the high elevation demands proper acclimatization and weather preparation.\n\nThe geological setting here is dominated by Precambrian metamorphic and igneous rocks intruded by granitic bodies during multiple episodes of mountain building. Quartz Creek drains into the larger Gunnison River system, and the creek itself has exposed mineralized zones where patient collectors can find quality specimens in the gravels and along cutbanks. The area experiences seasonal snowmelt that exposes fresh material each spring, making this a dynamic collecting location.\n\nCollecting at Quartz Creek requires respect for the BLM regulations and the alpine environment. The site is best visited during the warmer months when snow has melted and access roads are clear. Bring plenty of water, sun protection, and appropriate clothing for rapid temperature changes. Most collectors spend 2-4 hours on site to fill their daily limit, focusing on creek gravels and weathered outcrop areas where specimens are most visible.\n\nThis location suits intermediate to experienced rockhounds who are comfortable at high elevation and prepared for variable mountain weather. The gentle slopes and creek-adjacent collecting make it more accessible than some Colorado alpine sites, but the elevation and remoteness demand self-sufficiency. Quality specimens are achievable without specialized tools, though a classifier and small pry bar help identify and extract pieces.",
+  "history": "Quartz Creek's mineralization stems from the Laramide Orogeny (75-55 million years ago) when crustal shortening and uplift created extensive hydrothermal systems throughout the Colorado Rocky Mountains. Granitic intrusions associated with this mountain-building episode drove quartz-rich fluids through the surrounding metamorphic country rock, forming the veins and disseminated quartz deposits found here today. The creek's ongoing erosion continues to expose fresh quartz material from these Precambrian and Cretaceous age rocks.",
+  "tips": "Focus your search along Quartz Creek's bed and exposed cutbanks where erosion has concentrated heavier quartz specimens in gravel deposits; specimens tend to cluster in areas where the creek has scoured deeper into mineralized zones. Use a small classifier to sift the fine gravel and reveal quartz fragments before turning over larger rocks, which often yield better formed crystals on their undersides. Look for translucent to white quartz with smoky coloration or pinkish rose quartz tints; avoid heavily fractured pieces and instead select those with intact crystal faces or glassy luster. Bring a standard geologist's hammer and cold chisel to carefully extract protruding specimens from weathered outcrop areas, and always work away from the creek channel during snowmelt periods when water levels rise rapidly.",
+  "terrain_notes": "Elevation at 8320 feet with gentle slopes and open, sparse alpine vegetation including scattered conifers and tundra-like groundcover. Terrain is relatively easy to traverse with good footing on compacted soil and talus near the creek. Most productive collecting occurs within 0.5 miles of the parking area along creek gravels and adjacent hillsides. Footing is stable but uneven in places; stream crossing may be necessary depending on water level and snow condition.",
+  "best_season": "June - September. The high elevation means heavy snow coverage and road closure from October through May. Summer months provide clear access, melted snow that exposes fresh material, and stable weather patterns, though afternoon thunderstorms are common in July-August.",
+  "written_directions": "From Gunnison, take Colorado State Route 135 north toward Crested Butte for approximately 18 miles. Turn east onto Forest Road 706 (a well-maintained dirt road) and continue for 8 miles until you reach Quartz Creek access area. A small pullout parking area is available near the creek crossing. High-clearance vehicles are recommended after heavy rain or snowmelt, though passenger cars can usually access the site in good weather conditions.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Forest Road 706 is a maintained dirt road that can become rough and washboarded in summer; high-clearance advised. Road may be impassable November-May due to snow.",
+  "parking_notes": "Small unpaved pullout area near Quartz Creek suitable for 3-4 vehicles. No facilities. Limited turnaround space; use care when entering.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. All collectors must leave the site in the condition they found it. Pack out all waste and broken material.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo mechanical tools for large-scale removal\nAll waste must be packed out\nLeave site undisturbed",
+  "beginner_friendly": false,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Gunnison, approximately 26 miles southwest. Full services including gas, food, water, and lodging. Last reliable services before the site.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing along creek and hillsides. No wheelchair access. Sturdy hiking boots with good ankle support strongly recommended. The 8320-foot elevation affects those unaccustomed to high altitude; allow time for acclimatization. Stream crossing required in places; water levels vary seasonally.",
+  "alternative_names": [],
+  "nearest_city": "Gunnison",
+  "nearest_city_distance": 26,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/quartz-creek-co/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of quartz can I find at Quartz Creek in Colorado?",
+      "answer": "Quartz Creek is known for high-quality smoky quartz, rose quartz, and clear quartz crystals. You may also find agate and feldspar specimens. The location's elevation and Precambrian geology produce well-formed crystals, particularly specimens with good transparency and color. Most collectors find pieces ranging from small crystal fragments to hand-sized specimens suitable for display."
+    },
+    {
+      "question": "Is there a permit required for rockhounding at Quartz Creek BLM land?",
+      "answer": "No permit is required. Quartz Creek sits on BLM public land where recreational collecting is allowed under the Federal Land Policy and Management Act. You simply follow the 25 lb per day limit and personal-use-only rules. Always check current BLM regulations before visiting, as land designations can change."
+    },
+    {
+      "question": "When is the best time to rockhound near Gunnison at Quartz Creek?",
+      "answer": "June through September is the optimal season. Winter snow closes the access road, and the high elevation (8320 feet) makes spring crossings hazardous. Summer provides clear access and fresh material exposed by snowmelt, though afternoon thunderstorms are common in July-August. Early June and September offer the best weather stability."
+    },
+    {
+      "question": "What tools do I need for collecting quartz at Quartz Creek?",
+      "answer": "A geologist's hammer, cold chisel, and small classifier sieve are most useful here. A backpack for carrying specimens, leather gloves, and sturdy boots are essential. You do not need heavy excavation equipment since most specimens come from creek gravels or weathered outcrops. A headlamp is helpful for extending your collecting time."
+    },
+    {
+      "question": "Is Quartz Creek rockhounding suitable for families and beginners?",
+      "answer": "Families with children 12+ can visit Quartz Creek, but it requires preparation for high altitude and remote terrain. Beginners should be comfortable hiking at 8320 feet and identifying quartz in situ. The site is more challenging than low-elevation fee digs but more rewarding for serious collectors. Consider acclimatizing in Gunnison first if you live at lower elevations."
+    },
+    {
+      "question": "How far is Quartz Creek from Gunnison, and what road conditions should I expect?",
+      "answer": "Quartz Creek is approximately 26 miles from Gunnison via Colorado State Route 135 and Forest Road 706. The forest road is well-maintained dirt but becomes rough and washboarded in summer; high-clearance or AWD vehicles are recommended. The road closes seasonally due to snow. Plan for 45-60 minutes of driving from Gunnison in good conditions."
+    }
+  ],
+  "meta_title": "Quartz Creek Rockhounding - Colorado BLM",
+  "meta_description": "Find smoky quartz, rose quartz & agate at Quartz Creek, Colorado. High-altitude BLM public rockhounding near Gunnison. Free, no permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "parking_notes",
+    "cell_service",
+    "remoteness_rating"
+  ],
+  "enriched_at": "2026-04-21T16:55:34.995Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T16:56:16.805Z"
+}

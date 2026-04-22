@@ -1,0 +1,57 @@
+{
+  "slug": "franklin-nj",
+  "name": "Franklin",
+  "lat": 41.120156,
+  "lng": -74.593022,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Hardyston Township",
+  "city_slug": "hardyston-township",
+  "county": "Sussex",
+  "county_slug": "sussex",
+  "geocoded_city": "Hardyston Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Franklin%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Franklin",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Franklin%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:34:47.945Z"
+  },
+  "scraped_at": "2026-04-21T18:34:47.945Z",
+  "scrape_quality": "minimal"
+}

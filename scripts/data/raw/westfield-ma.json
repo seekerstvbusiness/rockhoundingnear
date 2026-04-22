@@ -1,0 +1,60 @@
+{
+  "slug": "westfield-ma",
+  "name": "Westfield",
+  "lat": 42.598181,
+  "lng": -71.46976,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Westford",
+  "city_slug": "westford",
+  "county": "Middlesex",
+  "county_slug": "middlesex",
+  "geocoded_city": "Westford",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Westfield%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Westfield",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Westfield%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 304,
+      "meters": 93
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:22:08.084Z"
+  },
+  "scraped_at": "2026-04-21T19:22:08.084Z",
+  "scrape_quality": "minimal"
+}

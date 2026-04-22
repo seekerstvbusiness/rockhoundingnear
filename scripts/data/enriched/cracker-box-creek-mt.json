@@ -1,0 +1,102 @@
+{
+  "slug": "cracker-box-creek-mt",
+  "name": "Cracker Box Creek",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Dawson",
+  "city_slug": "dawson",
+  "county": "Dawson",
+  "county_slug": "dawson",
+  "lat": 46.913106,
+  "lng": -104.920913,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land along Cracker Box Creek offering easy rockhounding for agates, chalcedony, and jasper specimens. Flat terrain near the Missouri River Breaks area with year-round access.",
+  "description": "Cracker Box Creek is a productive rockhounding site on Montana BLM land in Dawson County, situated at relatively low elevation (2121 feet) in the gently rolling badlands country east of the Missouri River Breaks. The creek and surrounding washes expose silica-rich deposits where collectors can find quality agate specimens, chalcedony nodules, and colorful jasper pieces.\n\nThis location benefits from the region's geology: the Fort Union Formation and underlying Cretaceous marine deposits have weathered over millions of years to expose quartz-family minerals in the creek gravels and exposed banks. The flat terrain makes this an accessible site for rockhounders of all skill levels, with minimal hiking required to productive collecting areas.\n\nThe creek runs through semi-arid badlands terrain with scattered sagebrush and sparse grass coverage. Water availability varies seasonally, but the creek bed itself provides excellent material exposure year-round. Early morning or late afternoon collecting yields the best results when shadows highlight specimen colors and minimize glare off water-polished stones.\n\nBecause this is BLM land, there are no fees, permits, or restrictions beyond the 25-pound daily personal-use limit. The flat approach and short walking distances make it suitable for families and beginners. Always check current BLM conditions before traveling, especially in winter months.",
+  "history": "The badlands of Dawson County were shaped by the Missouri River and its tributaries during the last glaciation and postglacial erosion. The Fort Union Formation (Paleocene age) and overlying sediments contain abundant silica nodules and secondary quartz deposits, which were concentrated in creek gravels as softer host rock weathered away. Local rockhounders have long recognized Cracker Box Creek as a reliable source for quality agate and chalcedony specimens.",
+  "tips": "Search the main creek bed first, especially behind and around larger boulders where water movement concentrates heavier specimens. Look for semi-translucent to opaque stones with banding patterns in whites, tans, browns, and occasional reds - these are typically the best quality agates. Bring a small classifier or mesh screen to process creek gravel efficiently. Early morning light helps you spot color variations and avoid the afternoon sun reflection off wet stones.",
+  "terrain_notes": "Flat to gently rolling terrain at 2121 feet elevation. Cracker Box Creek runs through semi-arid badlands with scattered sagebrush and short grass. The creek bed is accessible and walkable, with stable footing on gravel and fine sediment bars. Distance from parking to productive collecting areas typically 0.5 to 1.5 miles depending on water levels. No significant elevation gain. Some sections have loose shale and mudstone banks - watch for instability when working near high banks after rainfall.",
+  "best_season": "April - October. The site is technically accessible year-round, but spring and fall are optimal - moderate temperatures, reliable water flow in the creek for specimen location, and manageable conditions. Summer heat can be intense (80-95 degrees F) with minimal shade. Winter snow and ice make access difficult and collecting less productive.",
+  "written_directions": "From Dawson (the county seat area), head north toward the Missouri River Breaks via local county roads. GPS coordinates 46.913106, -104.920913 place you directly at Cracker Box Creek, approximately 15-20 miles north of the I-94 corridor. A high-clearance vehicle is recommended due to rough ranch/BLM access roads. Access may vary seasonally - contact the Malta BLM office or check online for current road conditions before traveling. No established trailhead exists; approach from the nearest county road access point on BLM land.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Variable dirt/gravel ranch roads with potential washboard and ruts. High-clearance vehicle recommended, passenger cars may struggle depending on recent weather and maintenance. Check BLM conditions before visiting.",
+  "parking_notes": "No developed parking lot. Park along the creek access road in flat open areas clear of private property. Space is limited - arrive early. Always park completely off any active ranch roads and ensure you are on public BLM land.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No collection with power tools or explosives. Remove only loose material from the creek bed and exposed banks - do not dig into solid rock faces.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo power tools or explosives\nCollect loose creek material only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Dawson and Malta are the nearest towns with gas, food, and lodging, approximately 15-25 miles south of the site. Bring adequate water (at least 2-3 liters per person) as the creek water is not potable.",
+  "accessibility_notes": "Flat terrain accessible to most hikers and families. No wheelchair access due to rough ranch roads and creek bed walking. Sturdy hiking boots recommended for loose gravel and potential mud. The short walking distance (under 2 miles typical) makes this suitable for children and people with moderate mobility limitations. Avoid the site after heavy rain when creek banks are unstable and roads may become impassable.",
+  "alternative_names": [],
+  "nearest_city": "Dawson",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/cracker-box-creek-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/cracker-box-creek-mt/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates can I find at Cracker Box Creek in Montana?",
+      "answer": "Cracker Box Creek produces moss agate, banded agate, and chalcedony specimens in whites, tans, browns, and reds. Most pieces are semi-translucent to opaque with good banding patterns. Quality varies, but specimens 1-3 inches are common finds. The creek bed concentrates heavier stones, making it easier to spot quality material in gravel bars."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Cracker Box Creek on BLM land?",
+      "answer": "No permit is required for personal use rockhounding on Montana BLM land. However, you must follow the 25-pound daily limit per FLPMA and collect only for personal use - no commercial collection allowed. Contact the Malta BLM office if you have questions about current regulations."
+    },
+    {
+      "question": "Is Cracker Box Creek suitable for beginners and families with children?",
+      "answer": "Yes, Cracker Box Creek is excellent for beginners and families. The flat terrain, short walking distances, and productive creek bed make it accessible for kids ages 6 and up. No special skills required - just walk the creek, look for colored stones in gravel, and collect what you find. Always supervise children near the water."
+    },
+    {
+      "question": "What is the best season and time of day to rockhound at Cracker Box Creek?",
+      "answer": "April through October are the best months when temperatures are moderate and the creek has reliable water flow. Early morning (6-9 AM) is ideal because angled sunlight highlights agate colors and you'll avoid afternoon glare off wet stones. Plan 2-3 hours for productive collecting, though the site rewards longer visits."
+    },
+    {
+      "question": "What tools and equipment do I need to collect at Cracker Box Creek?",
+      "answer": "Bring sturdy hiking boots, a hand trowel or small shovel, a 5-gallon bucket, and a classifier screen for processing creek gravel. A small magnifying glass helps evaluate color and translucency. Most importantly, bring 2-3 liters of water per person, sunscreen, and a hat - shade is minimal in the badlands. A GPS unit or phone with offline maps is useful given the remote location."
+    },
+    {
+      "question": "How do I find rockhounding locations near Dawson, Montana like Cracker Box Creek?",
+      "answer": "The Dawson County area offers multiple BLM and public land rockhounding sites. Contact the Malta BLM Field Office for information on open collecting areas, current road conditions, and seasonal access restrictions. Local rock clubs and online rockhounding forums often share tips on productive areas. Always verify land ownership before collecting to ensure you're on public BLM land."
+    }
+  ],
+  "meta_title": "Cracker Box Creek Rockhounding - Montana",
+  "meta_description": "Find agate, chalcedony, and jasper at Cracker Box Creek on Montana BLM land. Easy public access, no permit needed, 25 lbs/day limit. Year-round collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from region geology, not confirmed field collection records",
+    "nearest_city - used county reference; actual distances approximate",
+    "road_conditions - assumed rough ranch roads based on typical BLM access patterns",
+    "cell_service - estimated as spotty based on remote Dawson County location",
+    "parking_notes - inferred as informal creek access without developed facilities"
+  ],
+  "road_name": "Lewis and Clark Trail / I 94",
+  "enriched_at": "2026-04-21T19:08:13.100Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:12:57.280Z"
+}

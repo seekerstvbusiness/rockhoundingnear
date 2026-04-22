@@ -1,0 +1,99 @@
+{
+  "slug": "funks-pond-recreational-area-md",
+  "name": "Funks Pond Recreational Area",
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "city": "Susquehanna Hills",
+  "city_slug": "susquehanna-hills",
+  "county": "Cecil",
+  "county_slug": "cecil",
+  "lat": 39.670698,
+  "lng": -76.171813,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "A flat recreational area in Cecil County offering casual rockhounding for quartz and feldspar specimens. Suitable for beginners and families exploring the Piedmont geology of northern Maryland.",
+  "description": "Funks Pond Recreational Area is a public access site in Cecil County, Maryland, situated within the Piedmont physiographic province. The area's flat terrain makes it an excellent destination for rockhounders of all skill levels, particularly families and beginners seeking an accessible introduction to Maryland's mineral deposits.\n\nThe Piedmont region of Maryland is characterized by metamorphic bedrock that formed during the Ordovician to Devonian mountain-building events of the ancient Appalachian orogeny. This collision between continental plates created conditions ideal for the crystallization of quartz, feldspar, and mica in the host rocks. The relatively flat topography at Funks Pond exposes these minerals in weathered outcrops, stream beds, and exposed stone surfaces around the pond and its surroundings.\n\nVisitors to this site can expect to find quartz in various forms including milky white chunks, clear crystal fragments, and occasionally rose quartz pieces. Feldspar specimens, particularly white and pink orthoclase and plagioclase, are abundant in the pegmatitic zones throughout the area. Mica sheets, especially muscovite, can be collected from decomposed granite and gneiss exposures.\n\nThe recreational area's accessibility and beginner-friendly terrain make it ideal for family outings combined with educational rockhounding. The pond itself provides a pleasant backdrop, and the flat walking surfaces reduce strain on joints and muscles compared to hillside collecting sites.\n\nCollecting here is a low-impact activity perfect for learning mineral identification, understanding Maryland's geological heritage, and building a specimen collection before advancing to more challenging sites.",
+  "history": "The Piedmont rocks exposed at Funks Pond formed during the Ordovician-Devonian Alleghenian orogeny when Africa collided with North America, creating intense heat and pressure that metamorphosed sedimentary and igneous rocks. The weathering of these metamorphic formations in recent geologic time has exposed quartz-feldspar-mica assemblages that rockhounders find today.",
+  "tips": "Search along the pond's shoreline and any exposed stone surfaces where weathering has loosened individual mineral grains and small crystal clusters. Bring a hand lens to examine feldspar color and striations, which help distinguish between orthoclase and plagioclase varieties. Look for mica in thin, flexible sheets near areas of decomposed granite or pegmatitic zones - they often cleave naturally from the host rock. Early morning visits in cooler months are most pleasant for the flat terrain here.",
+  "terrain_notes": "Funks Pond Recreational Area features flat to very gentle terrain typical of the Maryland Piedmont. Elevation changes are minimal, making walking easy for most visitors. The area includes a pond with accessible shoreline, grassy open areas, and some exposed bedrock outcrops. Footing is generally stable on maintained recreation paths, though some areas near the pond may be muddy seasonally. Most productive collecting areas are within 0.25 miles of parking.",
+  "best_season": "April - October. Spring and fall offer comfortable temperatures and lower humidity for extended collecting sessions. Summer heat in Maryland can be oppressive (85-90F), and winter muddy conditions make shoreline access difficult. Late spring (May-June) and early fall (September-October) are optimal for family visits.",
+  "written_directions": "From Susquehanna Hills, drive northeast on MD 272 for approximately 3 miles toward the Maryland-Pennsylvania border. Look for signs for Funks Pond Recreational Area on the right (east) side of the road. Turn onto the access road and follow it to the parking area near the pond. The site is clearly marked and easily accessible from the main highway.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "state_park",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved access road to recreational area. Parking lot is well-maintained with gravel surface. No high-clearance vehicle needed.",
+  "parking_notes": "Designated parking area at recreational area entrance with capacity for 15-20 vehicles. Amenities may include restrooms and picnic facilities typical of Maryland state recreational areas.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal collection only. Check with Cecil County Parks and Recreation for current collecting regulations on state recreational areas. Most Maryland state recreation areas prohibit commercial collection and large-scale removal. Take only what you can reasonably carry and will use for your personal collection.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nNo commercial collection or sale\nRemove only hand-collectible specimens\nRespect private property boundaries\nFollow all posted area regulations\nPack out what you pack in",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife"
+  ],
+  "nearest_services": "Susquehanna Hills approximately 3 miles west. Rising Sun, MD (about 5 miles) offers gas stations, restaurants, and supplies.",
+  "accessibility_notes": "Excellent accessibility. Flat terrain throughout the recreational area requires minimal hiking ability. Gravel parking area and maintained paths make this site suitable for visitors with limited mobility. No steep slopes or difficult footing. Wheelchairs may navigate some portions of the area depending on path condition and maintenance.",
+  "alternative_names": [],
+  "nearest_city": "Susquehanna Hills",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/maryland/funks-pond-recreational-area-md/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/maryland/funks-pond-recreational-area-md/mineral-1-feldspar.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/maryland/funks-pond-recreational-area-md/mineral-2-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals can you find rockhounding at Funks Pond Recreational Area in Maryland?",
+      "answer": "Funks Pond offers excellent collecting opportunities for quartz (milky white and occasionally rose varieties), feldspar (white and pink orthoclase and plagioclase), and muscovite mica. These minerals are abundant throughout the Piedmont bedrock exposed at the site. Quartz fragments and small feldspar specimens are particularly easy to find along the pond shoreline and weathered stone surfaces."
+    },
+    {
+      "question": "Is Funks Pond Recreational Area free rockhounding with no permit needed?",
+      "answer": "Yes, Funks Pond is a public recreational area with no permit requirement for personal rockhounding. The site is free to access and requires no prior registration or fees. Simply drive to the parking area and begin collecting. However, you should verify current collection policies with Cecil County Parks and Recreation before your visit."
+    },
+    {
+      "question": "How difficult is rockhounding at Funks Pond for beginners and families?",
+      "answer": "Funks Pond is ideal for beginners and families. The flat terrain requires no significant hiking, and specimens can be found without special equipment or technical skills. Children as young as 6 can participate safely. The accessible shoreline and exposed rock surfaces make it easy to spot quartz and feldspar specimens without climbing or scrambling."
+    },
+    {
+      "question": "What is the best season to go rockhounding at Funks Pond near Susquehanna Hills?",
+      "answer": "April through October is best, with May-June and September-October being optimal. Spring and fall offer comfortable temperatures (60-75F) ideal for outdoor collecting. Avoid Maryland's humid summers (85-90F) and muddy winter conditions that make pond shoreline access difficult. Spring also coincides with water levels that expose more bedrock."
+    },
+    {
+      "question": "What tools and equipment should I bring for collecting at Funks Pond Recreational Area?",
+      "answer": "Bring a hand lens or magnifying glass to identify feldspar striations and distinguish mineral types. A small hammer or pry bar helps separate specimens from decomposed granite zones. A bucket or backpack carries specimens, and a brush removes dirt from quartz and feldspar surfaces. Wear sturdy walking shoes, sunscreen, and bring water. Gloves protect hands when handling sharp quartz fragments."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Funks Pond Recreational Area in Cecil County?",
+      "answer": "Yes, Funks Pond is dog-friendly as a public recreational area. The flat terrain and accessible shoreline make it comfortable for dogs to accompany you while collecting. Ensure your dog is under control, leashed if required by posted regulations, and provide fresh water. The pond itself may attract wildlife, so keep dogs away from water edges where snakes might shelter."
+    }
+  ],
+  "meta_title": "Funks Pond Rockhounding - Cecil County, Maryland",
+  "meta_description": "Free rockhounding at Funks Pond for quartz, feldspar, and mica. Flat, beginner-friendly terrain near Susquehanna Hills. No permit required. April-October.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "fee_amount",
+    "permit_link",
+    "family_friendly",
+    "collection_rules",
+    "quantity_limits",
+    "parking_notes",
+    "nearest_services"
+  ],
+  "enriched_at": "2026-04-21T17:52:35.966Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:55:01.935Z"
+}

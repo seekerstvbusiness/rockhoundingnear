@@ -1,0 +1,96 @@
+{
+  "slug": "piedmont-sd",
+  "name": "Piedmont",
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "city": "Meade County Area",
+  "city_slug": "meade-county",
+  "county": "Meade",
+  "county_slug": "meade",
+  "lat": 44.232323,
+  "lng": -103.368109,
+  "gem_types": [
+    "Agate",
+    "Quartz",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "Rockhound near the Black Hills foothills where moderate elevations yield quality agate and quartz specimens. Public land access with easy to moderate terrain.",
+  "description": "Piedmont sits in the rolling prairie foothills east of the Black Hills in Meade County, South Dakota. This region sits along the western edge of the Great Plains, where erosion has exposed Precambrian metamorphic rocks and Paleozoic sedimentary formations. The area is known for its agate nodules and chalcedony-rich materials, which erode from hillsides and collect in draws and washes following spring runoff.\n\nThe geology here reflects the uplift and weathering of ancient basement rocks at the margin of the Black Hills dome. Hydrothermal activity associated with the Proterozoic orogeny created silica-rich zones that weathered into the agate and quartz material rockhounders find today. Surface exposures and erosional features provide good collecting opportunities without requiring deep excavation.\n\nPiedmont is ideal for rockhounds seeking a mix of hiking and collecting in a quieter setting away from the busier tourist areas of Deadwood or Lead. The moderate slope and moderate elevations make this a reasonable destination in spring through fall. Local knowledge of specific draws and outcrops improves success considerably.\n\nThis is a good location for families and beginners willing to hike moderate distances. The terrain is relatively forgiving, though proper footwear and sun protection are essential year-round. Summer heat can be intense, and winter snow occasionally blocks access.",
+  "history": "The Piedmont area sits within the Black Hills marginal zone, where Precambrian metamorphic rocks meet Paleozoic sediments. Silica-rich hydrothermal fluids associated with the Proterozoic orogeny and later Black Hills uplift created the agate and chalcedony deposits found in erosional features throughout the region.",
+  "tips": "Search draws and seasonal washes where water erosion concentrates agate and chalcedony nodules - these areas collect heavier materials during spring runoff. Use a hand lens to identify chalcedony banding and agate patterns in matrix rock before extracting specimens. Look for nodules in tan, gray, and translucent colors on hillsides with exposed sedimentary layers; the best pieces often show banding or color variation. Bring plenty of water, as the rolling terrain offers limited shade and summer temperatures can reach the mid-80s.",
+  "terrain_notes": "Elevation 3,768 feet with moderate slope and rolling prairie foothills terrain. Mixed grassland and scattered ponderosa pine. Walking distances typically 0.5 to 3 miles from parking area. Footing varies from grassy slope to rocky outcrop; sturdy hiking boots recommended. Seasonal draw and wash areas may contain loose rock and uneven surfaces.",
+  "best_season": "May - September. Spring (May) offers good water flow in draws for specimen concentration, but late spring snow is possible. Summer (June-August) provides reliable access and longer daylight, though heat can be intense. Early fall (September) offers comfortable temperatures and continued access before potential snow.",
+  "written_directions": "From Spearfish, take US 85 south approximately 12 miles toward the Piedmont area in Meade County. Watch for pullouts and access points along the road in the rolling foothills terrain east of the Black Hills. Local county roads and informal access points provide entry to the ridges and draws where specimens are found. High-clearance vehicle recommended for rougher access roads. Confirm current access conditions with BLM Spearfish Field Office before heading out.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 85 is paved. Access to collecting areas requires unpaved county roads and informal pullouts. High-clearance vehicle recommended for rougher side roads. Road surfaces range from graded dirt to rocky two-track.",
+  "parking_notes": "Informal pullouts along US 85 and county roads. No developed parking facilities. Space typically available for 2-4 vehicles per pullout. Early morning arrival recommended during peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation. Respect private property boundaries - stay on public land. Check with BLM Spearfish Field Office for current restrictions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nRespect private property boundaries\nStay on public land\nNo vehicles off established roads in sensitive areas",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Spearfish, South Dakota approximately 12 miles north. Full services including gas, food, lodging, and water.",
+  "accessibility_notes": "Moderate terrain with rolling slopes and uneven rocky footing. No wheelchair access to collecting areas. Sturdy hiking boots required. Typically 0.5 to 3 miles walking distance from parking. Some areas have steep slope sections. Not suitable for limited mobility. Shade is limited; sun protection essential.",
+  "alternative_names": [],
+  "nearest_city": "Spearfish",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/south-dakota/piedmont-sd/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agate and quartz can you find rockhounding near Piedmont, South Dakota?",
+      "answer": "The Piedmont area is known for quality agate nodules, chalcedony specimens, and quartz crystals. Most finds feature tan, gray, and translucent coloring with banding patterns typical of Precambrian hydrothermal formations. Jasper and chert are also common surface finds. Specimens typically range from thumbnail to fist size."
+    },
+    {
+      "question": "Is rockhounding near Piedmont, SD free and do you need a permit?",
+      "answer": "Yes, rockhounding near Piedmont is free on public BLM land and requires no permit for personal use. You are limited to 25 lbs per day under FLPMA regulations. Commercial collection is not allowed. Always verify current access status with the BLM Spearfish Field Office before your trip."
+    },
+    {
+      "question": "What is the best season to go rockhounding in Meade County, South Dakota?",
+      "answer": "May through September offers the best rockhounding conditions. May provides good water flow concentrating specimens in draws, though late spring snow is possible. Summer heat can be intense but access is reliable. Early fall in September offers comfortable temperatures and continued access before winter snow closes rough access roads."
+    },
+    {
+      "question": "How difficult is rockhounding at Piedmont for beginners and families?",
+      "answer": "Piedmont is beginner and family friendly with moderate difficulty. Most collecting areas require 0.5 to 3 miles of hiking on rolling grassland with moderate slopes. Sturdy hiking boots are essential. The terrain is manageable for children ages 8 and up in good physical condition. Bring plenty of water and sun protection, as summer heat can be intense."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding at Piedmont, South Dakota?",
+      "answer": "Bring a rock hammer or small chisel for extracting nodules, a hand lens for identifying chalcedony banding, a backpack for carrying specimens (max 25 lbs per day), sturdy hiking boots, plenty of water (2-3 liters), sun protection, and a map. A GPS unit is helpful for relocating productive areas. Early morning starts help avoid afternoon heat."
+    },
+    {
+      "question": "Can you bring dogs and do you need high-clearance vehicles at Piedmont rockhounding sites?",
+      "answer": "Dogs are allowed on public BLM land at Piedmont. A standard passenger vehicle can access US 85 and some county roads, but high-clearance or four-wheel drive is recommended for rougher access roads to remote collecting areas. Always check road conditions before departing, especially in spring and after rain when mud can block access."
+    }
+  ],
+  "meta_title": "Piedmont Rockhounding - Agate & Quartz in South Dakota",
+  "meta_description": "Find agate, quartz, and chalcedony at Piedmont, South Dakota. Free public BLM rockhounding near the Black Hills foothills. Beginner friendly. No permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "land_type_hint_was_unknown",
+    "specific_bursaries_and_draw_locations_unconfirmed",
+    "current_access_conditions_should_verify_with_blm"
+  ],
+  "enriched_at": "2026-04-21T18:35:36.005Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:36:57.490Z"
+}

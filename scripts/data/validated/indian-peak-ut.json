@@ -1,0 +1,98 @@
+{
+  "slug": "indian-peak-ut",
+  "name": "Indian Peak",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Beaver",
+  "city_slug": "beaver",
+  "county": "Beaver",
+  "county_slug": "beaver",
+  "lat": 38.206897,
+  "lng": -113.865891,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding site in southwestern Utah offering agate, jasper, and chalcedony finds across high desert terrain near the Tushar Mountains.",
+  "description": "Indian Peak is a public BLM rockhounding destination in Beaver County, Utah, situated in the high desert transition zone between the Tushar Mountain range and the Basin and Range province. The site sits at approximately 7,000+ feet elevation, offering cooler collecting conditions during the warmer months and stunning views of southern Utah's geologic landscape. Rockhounders here target colorful agates, banded chalcedony, and various jasper specimens that weather out of the volcanic and sedimentary formations characteristic of this region.\n\nThe terrain is typical of southwestern Utah high desert: sagebrush-covered slopes, scattered volcanic outcrops, and intermittent washes that expose gem-bearing material. The collecting areas are spread across hillsides and canyon drainages where erosion continuously reveals new specimens. This location is accessible to most rockhounds and offers a genuine chance to find quality material without the commercialization of fee-dig sites.\n\nBest collecting occurs in washes and eroded hillsides where specimens naturally concentrate due to differential weathering. Look for color contrast - banded patterns in agate, the deep reds and browns of jasper, and translucent to opaque chalcedony in whites and creams. The elevation means cooler temperatures during peak collecting season, making for comfortable full-day outings compared to lower desert locations.\n\nAs a BLM site, Indian Peak requires no permit and follows standard public land collection rules. The 25 lb per day limit is generous for recreational collectors, and the site sees moderate use, meaning productive areas are accessible without extreme hiking. Bring sun protection, sturdy footwear, and plenty of water - the high elevation sun is intense and the terrain is rocky.",
+  "history": "Indian Peak's gem-bearing formations are the result of Miocene volcanic activity (roughly 20-30 million years ago) that deposited thick sequences of rhyolitic flows and ash beds across the Tushar Mountains region. Subsequent faulting and uplift associated with Basin and Range extension created the erosional patterns that expose agate, chalcedony, and jasper today. These silica-rich minerals formed in vesicles and fractures within the volcanic rocks, and modern weathering continuously exposes them along slopes and in canyon drainages.",
+  "tips": "Focus your search in dry washes and along eroded hillsides facing south and west where weathering has exposed the most material. Use a small chisel or pry bar to work specimens from loose volcanic matrix, and always look for the colorful banding and translucency that indicates quality agate - specimens at Indian Peak range from thumbnail-sized pieces to hand-sized finds. Bring a classifier or mesh to sift through gravel in productive washes, as smaller pieces often indicate a good collecting zone.",
+  "terrain_notes": "High desert plateau terrain at 7,000+ feet elevation with sagebrush and scattered juniper. Rolling volcanic hills with gentle to moderate slopes. Rocky footing throughout - wear sturdy boots with good ankle support. Walking distances from parking to productive areas typically 0.5 to 2 miles depending on where you access. Terrain is mostly uneven, loose volcanic scree and exposed bedrock with no maintained trails.",
+  "best_season": "May - September. The high elevation (7,000+ feet) means this location is hot in full summer but offers relief compared to lower desert areas. Late May through early June and September through mid-September provide ideal conditions with moderate temperatures and clear skies. Winter snow and spring mud can make access difficult.",
+  "written_directions": "From Beaver, take Main Street (UT-153) east toward Beaver Canyon for approximately 12 miles. Continue on UT-153 as it climbs toward the Tushar Mountains. Look for BLM access points and pullouts on either side of the highway in the higher elevation areas (around mile 10-15 from town). Indian Peak is accessed via informal dirt roads and hiking from various pullouts along this corridor - consult a Utah BLM map or GPS coordinates to locate specific collecting areas. High-clearance vehicle recommended for accessing backcountry pullouts.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "UT-153 is paved and well-maintained. Backcountry BLM access roads are unpaved dirt and gravel with seasonal washboard. High-clearance vehicle strongly recommended. Some areas may be impassable during spring melt or after heavy rain.",
+  "parking_notes": "Informal pullouts and BLM access areas along UT-153 and backcountry roads. No developed parking lot. Pullouts vary from small (2-3 vehicles) to larger flat areas. Capacity and exact locations depend on which access point you choose.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. All collecting must be from public BLM land - respect private property boundaries. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo power tools or heavy equipment\nRespect private property boundaries\nPack out all trash\nFire regulations: check current BLM fire restrictions before visiting",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Beaver, UT - approximately 12-15 miles west. Full services including gas, food, lodging, and water.",
+  "accessibility_notes": "Uneven rocky terrain with loose volcanic scree and no maintained trails. Moderate difficulty hiking required. Sturdy footwear and good ankle support essential. Not wheelchair accessible. Slopes are gentle to moderate but rocky throughout. Average rockhound can manage most areas with proper equipment.",
+  "alternative_names": [],
+  "nearest_city": "Beaver",
+  "nearest_city_distance": 13,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/indian-peak-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Indian Peak in Utah?",
+      "answer": "Indian Peak is known for banded agate, chalcedony, and colorful jasper specimens. Most finds are in the thumb to hand-sized range, with quality pieces featuring distinct banding and translucency. The volcanic geology of the Tushar Mountains area creates excellent conditions for these silica-based gems."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Indian Peak on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Indian Peak. As public BLM land in Utah, it follows standard FLPMA regulations: personal use only, maximum 25 lbs per day, no commercial collection, and no motorized excavation."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Beaver, Utah?",
+      "answer": "May through September is ideal at Indian Peak due to its 7,000+ foot elevation. Late May through early June and September through mid-September offer the most comfortable temperatures. Winter snow and spring mud can make access difficult, and summer afternoons can be quite hot."
+    },
+    {
+      "question": "Is Indian Peak rockhounding site beginner-friendly for families?",
+      "answer": "Yes, Indian Peak is suitable for families and beginners. Parking areas are accessible to most hikers, and productive collecting sites are within 0.5 to 2 miles of pullouts. The moderate terrain is manageable for kids age 8 and up with proper footwear. No special experience or equipment is required beyond a chisel and collection bag."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Indian Peak?",
+      "answer": "Bring a small chisel or pry bar, a classifier or mesh screen for sifting washes, a sturdy collection bag, and hiking boots with good ankle support. Sun protection (hat, sunscreen), plenty of water, and a map of BLM access points are essential. High-clearance vehicle is recommended for some backcountry pullouts."
+    },
+    {
+      "question": "How far is Indian Peak rockhounding from Beaver, Utah and what are the road conditions?",
+      "answer": "Indian Peak is approximately 12-15 miles east of Beaver via UT-153, which is paved and well-maintained. BLM access roads beyond the highway are unpaved dirt and gravel with seasonal washboard. A high-clearance AWD or 4x4 vehicle is strongly recommended for backcountry access points."
+    }
+  ],
+  "meta_title": "Indian Peak Rockhounding - Utah",
+  "meta_description": "Find agate, jasper, and chalcedony at Indian Peak BLM land in Beaver County, Utah. Free public rockhounding, no permit required. Perfect for families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T10:17:53.933Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:19:04.844Z"
+}

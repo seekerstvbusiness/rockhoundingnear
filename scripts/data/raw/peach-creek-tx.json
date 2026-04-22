@@ -1,0 +1,57 @@
+{
+  "slug": "peach-creek-tx",
+  "name": "Peach Creek",
+  "lat": 29.504136,
+  "lng": -97.314331,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Gonzales County",
+  "city_slug": "gonzales-county",
+  "county": "Gonzales",
+  "county_slug": "gonzales",
+  "geocoded_city": "Dilworth",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Peach%20Creek%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Peach%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Peach%20Creek%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:48:10.744Z"
+  },
+  "scraped_at": "2026-04-21T18:48:10.745Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "ne-side-of-carizo-mts-tx",
+  "name": "NE side of Carizo Mts",
+  "lat": 31.067359,
+  "lng": -104.862418,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Culberson County",
+  "city_slug": "culberson-county",
+  "county": "Culberson",
+  "county_slug": "culberson",
+  "geocoded_city": "Corner Windmill",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=NE%20side%20of%20Carizo%20Mts%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=NE%20side%20of%20Carizo%20Mts",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=NE%20side%20of%20Carizo%20Mts%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": {
+      "name": "Van Horn",
+      "distance_mi": 2,
+      "population": 1943
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:37:39.094Z"
+  },
+  "scraped_at": "2026-04-21T18:37:39.094Z",
+  "scrape_quality": "minimal"
+}

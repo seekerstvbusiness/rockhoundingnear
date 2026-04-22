@@ -1,0 +1,81 @@
+{
+  "slug": "on-surface-around-rich-hill-az",
+  "name": "On surface around Rich Hill",
+  "lat": 34.172805,
+  "lng": -112.710444,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/on-surface-around-rich-hill"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=On%20surface%20around%20Rich%20Hill%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=On%20surface%20around%20Rich%20Hill",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=On%20surface%20around%20Rich%20Hill%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 5196,
+      "meters": 1584
+    },
+    "slope": "moderate slope",
+    "nearest_city": {
+      "name": "Prescott",
+      "distance_mi": 29,
+      "population": 45827
+    },
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Indian Creek",
+        "type": "stream",
+        "dist": 1.9
+      },
+      {
+        "name": "East Antelope Creek",
+        "type": "stream",
+        "dist": 2.6
+      },
+      {
+        "name": "Antelope Creek",
+        "type": "stream",
+        "dist": 3.2
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T17:05:47.549Z"
+  },
+  "scraped_at": "2026-04-20T17:05:47.549Z",
+  "scrape_quality": "partial"
+}

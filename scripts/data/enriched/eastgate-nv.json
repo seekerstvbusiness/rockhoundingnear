@@ -1,0 +1,101 @@
+{
+  "slug": "eastgate-nv",
+  "name": "Eastgate",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Churchill County Area",
+  "city_slug": "churchill-county",
+  "county": "Churchill",
+  "county_slug": "churchill",
+  "lat": 39.262927,
+  "lng": -117.877232,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land rockhounding site in the high desert near Churchill County featuring agate, chalcedony, and jasper specimens. Free collecting with 25 lb daily limit.",
+  "description": "Eastgate is a public BLM rockhounding destination located in the high desert region of Churchill County, Nevada. This 6183-foot elevation site sits within Nevada's Basin and Range province, an area known for prolific agate and chalcedony deposits formed during Miocene volcanic and hydrothermal activity. The moderately sloped terrain offers accessible collecting opportunities for rockhounders seeking quality specimens without commercial mining operations nearby.\n\nThe geology here reflects classic Nevada high desert formation: silica-rich fluids deposited by ancient volcanic systems created the agate nodules and chalcedony seams found in the surrounding washes and hillsides. Jasper and common quartz varieties are also present, making this location suitable for collectors of all experience levels. The open BLM land allows personal use collection with minimal restrictions.\n\nCollecting at Eastgate involves scanning washes, scanning hillside scree, and checking exposed outcrops for nodular formations. Best specimens are found where erosion has weathered away the surrounding host rock, leaving agate and chalcedony fragments visible on the surface. The moderate slope prevents easy access to some areas but keeps traffic light and resources well-preserved.\n\nThis location works well for day trips from the Churchill County area. Pack plenty of water, sunscreen, and wear sturdy hiking boots for the uneven rocky terrain. The high desert climate means dramatic temperature swings between morning and afternoon, so layer clothing appropriately. Respect the 25-pound daily collection limit and leave any fossils or archaeological artifacts undisturbed.",
+  "history": "This area sits within the Basin and Range province where Miocene volcanic activity and associated hydrothermal systems deposited silica-rich fluids that formed the agate and chalcedony nodules found here today. The exposures visible at Eastgate represent ancient geothermal alteration zones where hot springs and steam vents precipitated microcrystalline quartz over millions of years.",
+  "tips": "Search the washes and bajadas (alluvial fans) where surface erosion has exposed agate nodules; look for white, gray, or banded specimens partially weathered free from host rock. Use a small geologist's pick and magnifying glass to identify chalcedony seams and jasper in hillside scree; color banding and translucency at the edges are key identifiers. Focus on areas where recent water runoff has cleared lighter material, exposing darker agate and chalcedony fragments. Bring a backpack and plenty of water since the high desert sun is intense even in cooler months.",
+  "terrain_notes": "Elevation 6183 feet with moderate slope. Terrain consists of exposed washes, rocky bajadas, and low desert scrub vegetation. Walking distance from parking to productive collecting areas typically 0.5 to 2 miles depending on chosen drainages. Footing is rocky and uneven with sharp-edged material and loose stones common. No developed trails; cross-country travel required. Sparse vegetation provides minimal shade.",
+  "best_season": "October - April. The high desert elevation means summer temperatures exceed 85 degrees Fahrenheit in the afternoon, making midday collecting uncomfortable. Winter brings cooler temperatures ideal for sustained outdoor work, though early mornings can be cold. Spring and fall offer the most comfortable collecting conditions with moderate temperatures and lower UV exposure.",
+  "written_directions": "From Fallon (nearest city with services, approximately 25 miles south), take Nevada State Route 50 east toward Eastgate. Continue on SR 50 for approximately 20 miles. Near the Eastgate area, look for BLM access points and pullouts along the highway or turn onto county/BLM roads heading north or south into the open desert. GPS coordinates 39.262927, -117.877232 mark a productive zone. Confirm access with local BLM office as specific road conditions and access points may vary seasonally.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "County roads and BLM access roads unpaved and may be washboard. High-clearance passenger vehicles recommended. Avoid during or immediately after heavy rain when washouts may occur. Check with Churchill County or BLM office for seasonal closures.",
+  "parking_notes": "Informal pullouts and parking areas along BLM access roads. No developed parking lot or facilities. Space for 3-5 vehicles at typical pullouts. Arrive early to secure convenient parking.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or heavy equipment. Collect only loose surface material and small specimens that can be hand-carried. Leave geological features and outcrops intact. Do not disturb any cultural or paleontological resources.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nLeave outcrops and features intact\nNo cultural or paleontological material disturbance",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Fallon, Nevada (approximately 25 miles south) has gas, food, water, and lodging. No services at the rockhounding site itself.",
+  "accessibility_notes": "Relatively flat to moderately rolling terrain with unpaved access roads. Uneven rocky ground with loose stones and sharp agate fragments. No wheelchair access. Sturdy hiking boots and good balance essential. Limited shade. Hot sun exposure in fair-weather months. Suitable for most hikers with normal mobility but requires comfort walking on uneven, rocky surfaces.",
+  "alternative_names": [],
+  "nearest_city": "Fallon",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/eastgate-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/eastgate-nv/mineral-1-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/eastgate-nv/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of rocks and gems can you find rockhounding at Eastgate, Nevada?",
+      "answer": "Eastgate is known for agate, chalcedony, jasper, and quartz specimens. Agates range from plain gray and white to banded varieties. Chalcedony is commonly found in seams and small nodules. Jasper specimens display warm earth tones. Most specimens are small to medium-sized nodules found on the surface and in washes. The agate and chalcedony here formed during Miocene volcanic activity and hydrothermal alteration typical of Nevada's Basin and Range geology."
+    },
+    {
+      "question": "Is there a permit or fee required to rockhound at Eastgate on BLM land?",
+      "answer": "No permit or fee is required for personal use rockhounding at Eastgate. It is public BLM land open to free recreational collecting. However, you must follow the 25-pound daily collection limit per FLPMA regulations. Commercial collection is not allowed. Simply arrive, park at an informal pullout, and begin collecting."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Churchill County?",
+      "answer": "October through April offers the most comfortable rockhounding conditions at Eastgate. Winter and early spring feature cooler temperatures ideal for sustained outdoor work, though early mornings can be cold. Summer temperatures often exceed 85 degrees Fahrenheit, making midday collecting physically demanding in the open high desert. Avoid collecting during or immediately after heavy rain when washes may flood."
+    },
+    {
+      "question": "How do I find agate and chalcedony at Eastgate rockhounding site?",
+      "answer": "Search washes and bajadas (alluvial fans) where surface erosion has exposed nodules. Look for white, gray, or banded specimens that appear lighter or darker than surrounding rock. Use a small geologist's pick to inspect hillside scree and check for chalcedony seams. Focus on areas where water runoff has cleared lighter material, exposing agate and chalcedony fragments. Bring a magnifying glass to confirm translucency and banding characteristic of quality specimens."
+    },
+    {
+      "question": "Is Eastgate rockhounding site beginner-friendly and safe for families with children?",
+      "answer": "Yes, Eastgate is beginner-friendly with easy-to-moderate terrain suitable for families with children ages 6 and up. Surface collecting requires no special skills or equipment beyond a small pick and backpack. However, watch children on uneven rocky ground with sharp agate fragments, and ensure adequate hydration. The high desert sun is intense, so bring plenty of water, sunscreen, and hats. Avoid the site during extreme summer heat."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Eastgate, Nevada?",
+      "answer": "Bring a small geologist's pick or hammer for inspecting specimens, a backpack for carrying collected rocks up to 25 lbs, sturdy hiking boots for rocky uneven terrain, plenty of water (at least 2-3 liters), sunscreen, a wide-brimmed hat, and a magnifying glass or loupe to identify chalcedony and agate quality. A GPS device or smartphone with offline maps is helpful since cell service is spotty. Wear layers since high desert temperatures swing dramatically between morning and afternoon."
+    }
+  ],
+  "meta_title": "Eastgate Rockhounding - Churchill County, Nevada",
+  "meta_description": "Free BLM rockhounding near Fallon, Nevada. Find agate, chalcedony, and jasper at Eastgate. No permit needed. 25 lb daily limit. Best October - April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance - estimated from GPS coordinates",
+    "road_conditions - inferred from BLM land standard conditions",
+    "parking_notes - typical for informal BLM pullouts",
+    "gem_types - inferred from Churchill County Nevada geology and Basin and Range agate deposits"
+  ],
+  "enriched_at": "2026-04-22T09:27:55.710Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:30:03.054Z"
+}

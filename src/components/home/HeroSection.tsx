@@ -58,7 +58,7 @@ export function HeroSection() {
               </Link>
             ))}
             <Link
-              href="/states"
+              href="/locations"
               className="text-sm text-ruby-200 hover:text-white border border-ruby-300/40 hover:border-white/30 rounded-full px-3.5 py-1 transition-all"
             >
               All States →

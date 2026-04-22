@@ -1,0 +1,60 @@
+{
+  "slug": "little-sandy-river-ky",
+  "name": "Little Sandy River",
+  "lat": 38.117493,
+  "lng": -83.109956,
+  "state": "Kentucky",
+  "state_slug": "kentucky",
+  "state_code": "KY",
+  "city": "Elliott County",
+  "city_slug": "elliott-county",
+  "county": "Elliott",
+  "county_slug": "elliott",
+  "geocoded_city": "Elliott County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kentucky.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Little%20Sandy%20River%20Kentucky"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Little%20Sandy%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Little%20Sandy%20River%20Kentucky"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 649,
+      "meters": 198
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:20:57.408Z"
+  },
+  "scraped_at": "2026-04-21T17:20:57.408Z",
+  "scrape_quality": "minimal"
+}

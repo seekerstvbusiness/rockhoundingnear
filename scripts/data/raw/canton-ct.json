@@ -1,0 +1,60 @@
+{
+  "slug": "canton-ct",
+  "name": "Canton",
+  "lat": 41.839434,
+  "lng": -72.905264,
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "state_code": "CT",
+  "city": "Canton",
+  "city_slug": "canton",
+  "county": "Capitol Planning Region",
+  "county_slug": "capitol-planning-region",
+  "geocoded_city": "Canton",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-connecticut.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Canton%20Connecticut"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Canton",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Canton%20Connecticut"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 506,
+      "meters": 154
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:05:03.453Z"
+  },
+  "scraped_at": "2026-04-21T18:05:03.453Z",
+  "scrape_quality": "minimal"
+}

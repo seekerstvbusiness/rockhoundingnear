@@ -1,0 +1,74 @@
+Pipeline starting: 1 state(s), 25 locations, stages [3,5,6]
+Force mode: re-processing all locations
+
+════════════════════════════════════════════════════════════
+State: arizona  (25 locations)
+
+────────────────────────────────────────────────────────────
+Stage: Enrich  (25 locations, 5 workers)
+  → enriching: Foothills of Sunset Peak (scrape: partial)
+  → enriching: Canyon to N of road 1 mi. S of Apache Nat. Forest (scrape: partial)
+  → enriching: In pegmatite outcrops on area roadsides (scrape: partial)
+  → enriching: All along both sides of road from Morristown to Castle Hot Springs (scrape: partial)
+  → enriching: Area around hotel (scrape: partial)
+  ✓ Foothills of Sunset Peak - 4 gem types - 5 needs_review fields
+  [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1/25  ETA 8m    → enriching: Road along Agua Fria River (scrape: partial)
+  ✓ Canyon to N of road 1 mi. S of Apache Nat. Forest - 3 gem types - 5 needs_review fields
+  [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2/25  ETA 4m    → enriching: Emerald Isle Mine (scrape: partial)
+  ✓ Area around hotel - 3 gem types - 4 needs_review fields
+  [████░░░░░░░░░░░░░░░░░░░░░░░░░░] 3/25  ETA 3m    → enriching: BiMetal Gold Mine (scrape: partial)
+  ✓ In pegmatite outcrops on area roadsides - 4 gem types - 6 needs_review fields
+  [█████░░░░░░░░░░░░░░░░░░░░░░░░░] 4/25  ETA 2m    → enriching: Kingman Feldspar Mine (scrape: partial)
+  ✓ All along both sides of road from Morristown to Castle Hot Springs - 4 gem types - 6 needs_review fields
+  [██████░░░░░░░░░░░░░░░░░░░░░░░░] 5/25  ETA 2m    → enriching: 15 mi. NW of Kingsman (scrape: partial)
+  ✓ Emerald Isle Mine - 3 gem types - 8 needs_review fields
+  [███████░░░░░░░░░░░░░░░░░░░░░░░] 6/25  ETA 2m    → enriching: Golden Gem & Vanderbilt Mines (scrape: partial)
+  ✓ Road along Agua Fria River - 4 gem types - 6 needs_review fields
+  [████████░░░░░░░░░░░░░░░░░░░░░░] 7/25  ETA 2m    → enriching: Area of Mineral Park & Cerbat (scrape: partial)
+  ✓ BiMetal Gold Mine - 2 gem types - 6 needs_review fields
+  [██████████░░░░░░░░░░░░░░░░░░░░] 8/25  ETA 2m    → enriching: Area near Meadow Creek Pass (scrape: partial)
+  ✓ Kingman Feldspar Mine - 2 gem types - 6 needs_review fields
+  [███████████░░░░░░░░░░░░░░░░░░░] 9/25  ETA 1m    → enriching: On top of steep hill (scrape: partial)
+  ✓ 15 mi. NW of Kingsman - 4 gem types - 4 needs_review fields
+  [████████████░░░░░░░░░░░░░░░░░░] 10/25  ETA 1m    → enriching: Area of old Stanton mining camp (scrape: partial)
+  ✓ Golden Gem & Vanderbilt Mines - 2 gem types - 4 needs_review fields
+  [█████████████░░░░░░░░░░░░░░░░░] 11/25  ETA 1m    → enriching: On surface around Rich Hill (scrape: partial)
+  ✓ Area of Mineral Park & Cerbat - 4 gem types - 3 needs_review fields
+  [██████████████░░░░░░░░░░░░░░░░] 12/25  ETA 1m    → enriching: Area of old Octave mining camp (scrape: partial)
+  ✓ Area near Meadow Creek Pass - 3 gem types - 5 needs_review fields
+  [████████████████░░░░░░░░░░░░░░] 13/25  ETA 1m    → enriching: Congress Mine (scrape: partial)
+  ✓ On top of steep hill - 3 gem types - 3 needs_review fields
+  [█████████████████░░░░░░░░░░░░░] 14/25  ETA 53s    → enriching: Under Burro Creek Bridge (scrape: partial)
+  ✓ Area of old Stanton mining camp - 3 gem types - 4 needs_review fields
+  [██████████████████░░░░░░░░░░░░] 15/25  ETA 50s    → enriching: Date Creek area (scrape: partial)
+  ✓ On surface around Rich Hill - 3 gem types - 4 needs_review fields
+  [███████████████████░░░░░░░░░░░] 16/25  ETA 46s    → enriching: Oxbow & Silver Butte Mines (scrape: partial)
+  ✓ Area of old Octave mining camp - 3 gem types - 4 needs_review fields
+  [████████████████████░░░░░░░░░░] 17/25  ETA 40s    → enriching: Along North Creek Trail (scrape: partial)
+  ✓ Under Burro Creek Bridge - 3 gem types - 8 needs_review fields
+  [██████████████████████░░░░░░░░] 18/25  ETA 35s    → enriching: Area around Diamond Point Lookout (scrape: partial)
+  ✓ Congress Mine - 3 gem types - 4 needs_review fields
+  [███████████████████████░░░░░░░] 19/25  ETA 28s    → enriching: Area around Ellison Creek (scrape: partial)
+  ✓ Date Creek area - 4 gem types - 5 needs_review fields
+  [████████████████████████░░░░░░] 20/25  ETA 24s    → enriching: Area of Natural Bridge (scrape: partial)
+  ✓ Oxbow & Silver Butte Mines - 3 gem types - 4 needs_review fields
+  [█████████████████████████░░░░░] 21/25  ETA 20s    ✓ Area around Ellison Creek - 3 gem types - 5 needs_review fields
+  [██████████████████████████░░░░] 22/25  ETA 15s    ✓ Along North Creek Trail - 3 gem types - 7 needs_review fields
+  [████████████████████████████░░] 23/25  ETA 9s    ✓ Area around Diamond Point Lookout - 3 gem types - 7 needs_review fields
+  [█████████████████████████████░] 24/25  ETA 5s    ✓ Area of Natural Bridge - 4 gem types - 5 needs_review fields
+  [██████████████████████████████] 25/25  ETA 0s  
+  ✓ Enrich: 25/25 done  (118s)
+
+────────────────────────────────────────────────────────────
+Stage: Validate  (25 locations)
+  ✓ Validate: 0 passed, 25 failed
+
+────────────────────────────────────────────────────────────
+Stage: Import
+Found 0 validated locations for arizona
+Nothing to import.
+
+════════════════════════════════════════════════════════════
+arizona complete — enrich: 25/25  |  validate: 0/25  |  import: 25/25
+
+All done.

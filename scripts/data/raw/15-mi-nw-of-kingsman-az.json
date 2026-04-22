@@ -1,0 +1,72 @@
+{
+  "slug": "15-mi-nw-of-kingsman-az",
+  "name": "15 mi. NW of Kingsman",
+  "lat": 35.403312,
+  "lng": -114.175229,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/15-mi-nw-of-kingsman"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=15%20mi.%20NW%20of%20Kingsman%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=15%20mi.%20NW%20of%20Kingsman",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=15%20mi.%20NW%20of%20Kingsman%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4387,
+      "meters": 1337
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Left Fork Vock Canyon",
+        "type": "stream",
+        "dist": 3.4
+      },
+      {
+        "name": "Vock Canyon",
+        "type": "stream",
+        "dist": 3.5
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T17:00:02.147Z"
+  },
+  "scraped_at": "2026-04-20T17:00:02.147Z",
+  "scrape_quality": "partial"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "coffee-bluff-tn",
+  "name": "Coffee Bluff",
+  "lat": 35.277847,
+  "lng": -88.292092,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Hardin County",
+  "city_slug": "hardin-county",
+  "county": "Hardin",
+  "county_slug": "hardin",
+  "geocoded_city": "Hardin County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Coffee%20Bluff%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Coffee%20Bluff",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Coffee%20Bluff%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 368,
+      "meters": 112
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:20:43.537Z"
+  },
+  "scraped_at": "2026-04-21T18:20:43.537Z",
+  "scrape_quality": "minimal"
+}

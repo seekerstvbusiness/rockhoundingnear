@@ -1,0 +1,104 @@
+{
+  "slug": "turquoise-hill-and-surrounding-area-nm",
+  "name": "Turquoise Hill and surrounding area",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Santa Fe",
+  "city_slug": "santa-fe",
+  "county": "Santa Fe",
+  "county_slug": "santa-fe",
+  "lat": 35.513493,
+  "lng": -106.095553,
+  "gem_types": [
+    "Turquoise",
+    "Chrysocolla",
+    "Quartz"
+  ],
+  "short_description": "Public BLM rockhounding site near Santa Fe offering turquoise, chrysocolla, and quartz specimens. High-elevation desert setting with gentle slopes and year-round access for personal collecting.",
+  "description": "Turquoise Hill and the surrounding Santa Fe County BLM lands offer excellent rockhounding opportunities in the heart of New Mexico's historic turquoise mining region. This location sits at 6,446 feet elevation in the southern Sangre de Cristo Mountains foothills, where Precambrian metamorphic rocks and Tertiary mineralized zones have created ideal conditions for turquoise and copper-bearing mineral formation. The site is accessible to both beginners and experienced collectors, with dispersed collecting areas along washes and hillsides featuring exposed mineral zones.\n\nThe geology here reflects millions of years of hydrothermal activity and weathering processes. Turquoise forms when percolating groundwater carries copper and aluminum through fractured rock, creating the distinctive blue-green gemstone that has been valued since pre-Columbian times. Chrysocolla and other secondary copper minerals are common associates, and quartz veining is abundant throughout the area. The gentle slopes and relatively open terrain make traversing the site straightforward, though the elevation requires acclimatization.\n\nThis BLM location allows personal use collecting without permits, making it an accessible entry point for turquoise prospectors and mineral enthusiasts. The surrounding landscape features juniper and piñon woodland with seasonal washes that expose fresh mineralized material. Collectors typically focus on exposed outcrops along hillsides and wash banks where weathering has exposed turquoise and associated minerals. The proximity to Santa Fe means reliable access and nearby services, though the actual collecting areas remain quiet and uncrowded.\n\nThe area has a long prospecting history dating to at least the 1800s, with Spanish colonists and later American miners recognizing the turquoise potential. While major mining operations are elsewhere, small-scale rockhounding remains viable here. The combination of historical significance, accessible terrain, and productive mineral zones makes this a destination for both casual collectors and serious turquoise hunters seeking New Mexico specimens.",
+  "history": "Turquoise Hill sits within the southern Sangre de Cristo Mountains, where Precambrian metamorphic basement rocks were subjected to Tertiary-age hydrothermal mineralization and copper enrichment. This cupriferous alteration created widespread turquoise and chrysocolla deposits; the region has been recognized as a significant turquoise source since pre-Columbian times, with Spanish and American prospectors actively seeking turquoise throughout the 1800s and early 1900s.",
+  "tips": "Search exposed hillside outcrops and wash banks where weathering has exposed turquoise veining in fractured rock - look for the distinctive blue-green color in light-colored host rock. Bring a geology hammer or pry bar to work small specimens free from surrounding matrix, as turquoise here typically occurs in veins rather than loose pieces. Focus efforts in areas with oxidized copper staining (rust-colored or greenish discoloration) as these zones often contain turquoise nearby. Work early in the day when light is best for spotting the subtle color contrasts between turquoise and surrounding rock.",
+  "terrain_notes": "Elevation 6,446 feet in piñon-juniper woodland with gentle slopes. Terrain consists of exposed rocky hillsides interspersed with seasonal washes. Walking distances from parking areas typically range from 0.25 to 1.5 miles. Footing is rocky with loose stones, but slopes are gradual and accessible. No formal trails, though obvious use routes exist. Afternoon thunderstorms common in summer; washes can flow during storms.",
+  "best_season": "October - April. Higher elevation (over 6,400 ft) makes summers hot and afternoon thunderstorms frequent. Spring (March-April) and fall (September-October) offer mild temperatures and lower precipitation risk. Winter is accessible but mornings are cold; roads may see occasional ice. Late spring through early fall heat and monsoon activity make midday collecting uncomfortable.",
+  "written_directions": "From Santa Fe, head northeast on US 285 toward Española approximately 20 miles. Turn east toward the Peñasco area, following county roads toward the BLM lands adjacent to the Sangre de Cristo Mountains foothills. Access points include turnouts and informal parking areas along rough ranch roads in the Santa Fe County BLM section. GPS coordinates (35.513493, -106.095553) mark the primary collecting area. Final approach roads are unpaved and may require high-clearance vehicles, especially after rain. Scout access carefully during wet season.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved ranch and forest service roads with variable conditions. Washboard common, sandy or rocky sections depending on weather. High clearance (8+ inches) recommended; passenger vehicles may struggle after rain. Best accessed in drier months.",
+  "parking_notes": "Informal pullouts and rough parking areas along access roads. No developed parking lot. Plan for 2-4 vehicle capacity at typical pullouts. Park off active roads to allow passage.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or heavy equipment. Specimens must be hand-collected only. Respect private property boundaries (some adjacent land is private - stay on BLM). Leave no trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only, no commercial collection\nMaximum 25 lbs per day per FLPMA\nNo motorized excavation or heavy equipment\nHand collection only\nRespect private property boundaries\nLeave no trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Santa Fe, approximately 18-22 miles southwest. Full services including gas, restaurants, supplies, and lodging.",
+  "accessibility_notes": "Uneven rocky terrain with loose stones and gentle slopes. No wheelchair access. Sturdy hiking boots required due to sharp rocks and uneven footing. Elevation at 6,446 feet; visitors from lower elevations should allow acclimatization. Walking distances typically 0.5-2 miles from parking. Most collectors can manage terrain, but limited mobility visitors will find it challenging.",
+  "alternative_names": [
+    "Turquoise Hill BLM",
+    "Santa Fe County Turquoise",
+    "Sangre de Cristo Turquoise Area"
+  ],
+  "nearest_city": "Santa Fe",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/turquoise-hill-and-surrounding-area-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/turquoise-hill-and-surrounding-area-nm/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Can you find turquoise at Turquoise Hill near Santa Fe without a permit?",
+      "answer": "Yes. This is BLM public land where personal use rockhounding requires no permit. You can collect up to 25 lbs per day for your own use. The area is popular with turquoise and chrysocolla collectors seeking New Mexico specimens, and no advance authorization is needed to hike and collect."
+    },
+    {
+      "question": "What is the best time of year to go turquoise rockhounding near Santa Fe?",
+      "answer": "October through April is ideal. At 6,446 feet elevation, summers bring intense heat and afternoon thunderstorms that make collecting uncomfortable and dangerous. Spring (March-April) and fall (September-October) offer mild temperatures, lower monsoon risk, and better visibility for spotting turquoise in rock outcrops. Winter access is possible but mornings are cold."
+    },
+    {
+      "question": "How do you find turquoise at Turquoise Hill - what should you look for?",
+      "answer": "Search exposed hillside outcrops and wash banks for the distinctive blue-green color of turquoise in light-colored host rock. Look for areas with rust-colored or greenish oxidized copper staining, as turquoise typically forms nearby in fractured zones. Turquoise here occurs in veins rather than loose pieces, so use a geology hammer to work small specimens from surrounding matrix."
+    },
+    {
+      "question": "Do you need high-clearance vehicle for Turquoise Hill rockhounding area?",
+      "answer": "Yes, a high-clearance vehicle (8+ inches) or AWD is recommended. Access roads are unpaved ranch and forest service roads with washboard and sandy or rocky sections. Passenger cars may struggle, especially after rain. Plan to scout access roads during dry season if possible."
+    },
+    {
+      "question": "Is Turquoise Hill rockhounding site family-friendly and good for kids?",
+      "answer": "Yes, this is a family-friendly location suitable for kids 8 and up. Terrain has gentle slopes accessible to most hikers, though footing is rocky and requires sturdy boots. No permit is required, and the day-trip distance from Santa Fe makes it convenient for families. Teach kids to watch for snakes (especially in warm months) and to stay hydrated at elevation."
+    },
+    {
+      "question": "What minerals can you collect at Turquoise Hill besides turquoise?",
+      "answer": "Beyond turquoise, this site produces chrysocolla (green copper silicate), quartz veining, and other secondary copper minerals typical of hydrothermal zones. These associate minerals are easier to find and help identify promising turquoise zones. The area reflects typical Precambrian metamorphic basement rock mineralized by Tertiary hydrothermal fluids, creating diverse copper-bearing specimens."
+    }
+  ],
+  "meta_title": "Turquoise Hill Rockhounding - Santa Fe, New Mexico",
+  "meta_description": "Find turquoise, chrysocolla, and quartz at Turquoise Hill BLM land near Santa Fe. No permit required for personal collecting. Moderate difficulty, family-friendly site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "parking_notes",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T06:46:23.950Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:50:42.537Z"
+}

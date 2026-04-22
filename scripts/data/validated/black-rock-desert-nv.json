@@ -1,0 +1,101 @@
+{
+  "slug": "black-rock-desert-nv",
+  "name": "Black Rock Desert",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Gerlach",
+  "city_slug": "gerlach",
+  "county": "Pershing",
+  "county_slug": "pershing",
+  "lat": 40.885914,
+  "lng": -119.056732,
+  "gem_types": [
+    "Opal",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM public land in Nevada's high desert basin offering opal, agate, and chalcedony collecting. Flat terrain and year-round access make this a popular spot for all skill levels.",
+  "description": "Black Rock Desert is a vast high-desert basin in northern Nevada managed by the BLM, offering excellent rockhounding opportunities for collectors seeking opal, agate, chalcedony, and jasper. The site sits at approximately 3900 feet elevation with predominantly flat terrain, making it accessible to rockhounders of varying abilities. The desert landscape features wide-open vistas, scattered rock outcrops, and dry washes that are prime collecting grounds, especially after seasonal runoff exposes fresh material.\n\nThe geology here reflects the Basin and Range province, where Miocene-age volcanic activity and subsequent hydrothermal alteration created silica-rich deposits. These conditions favored the formation of opal, agate nodules, and chalcedony veins within the surrounding volcanic and sedimentary rocks. The flat basins alternating with low mountain ranges are characteristic of this geologic setting, and weathering and erosion continuously expose new material for collectors.\n\nRockhounding is permitted under Nevada BLM personal use guidelines, with a 25-pound daily limit per person. The site is remote but passable by passenger vehicle during dry conditions, though high-clearance or all-wheel-drive vehicles are recommended for accessing interior collection areas. Water and services are limited, so come prepared with adequate supplies.\n\nBest collecting occurs in the cooler months from October through April, when daytime temperatures are moderate and the risk of heat exhaustion is minimized. Summer heat can be extreme, making field work difficult. The flat terrain and open landscape mean minimal shade and exposure to sun, so sun protection and hydration are essential year-round.",
+  "history": "The Black Rock Desert region lies within the Basin and Range province, where Tertiary-age volcanic activity and subsequent hydrothermal processes deposited silica-rich fluids that formed the opal and agate nodules found throughout the area today. Early prospectors and miners worked claims in surrounding ranges, and the desert's remote location and abundant geothermal history make it a prime location for secondary mineral deposits.",
+  "tips": "Focus your search in dry washes and bajadas where water erosion has concentrated lighter material and exposed fresh rock faces. Look for white, translucent, or banded agate nodules along hillsides and for milky opal in weathered volcanic rock; use a geologic hammer to test rock for hollow rings that indicate nodule-bearing material. Bring a high-clearance vehicle and extra water, as the flat but rough terrain requires careful driving and there are no services within 30 miles. Early morning collecting is advised to avoid afternoon heat exposure.",
+  "terrain_notes": "The Black Rock Desert spans flat to gently rolling terrain at 3907 feet elevation. Vegetation is sparse desert scrub (sagebrush, rabbitbrush) with exposed volcanic rock and scattered outcrops. Walking distances from parking are variable; some collectors work roadside pullouts while others hike 1-3 miles into basins. Footing is uneven with small rocks, loose gravel, and occasional wash crossings; sturdy boots are essential. No shade is available.",
+  "best_season": "October - April. Daytime temperatures are mild (50-70F), humidity is low, and early morning collecting is comfortable. Summer (May - September) brings extreme heat (90-110F+) and increased risk of heat exhaustion. Winter nights are cold but daytime collecting is excellent.",
+  "written_directions": "From Gerlach, take Nevada State Route 447 north approximately 12 miles toward the Black Rock Desert. Turn east onto any of several BLM access roads (High Rock Canyon Road or similar unmarked desert roads). Follow signs for 'Black Rock' or consult a detailed BLM map for specific collection area access. Roads are rough but passable by high-clearance vehicles during dry conditions. GPS navigation is highly recommended; cell service is spotty to nonexistent in most areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt roads, washboard surface, high-clearance or all-wheel-drive recommended. Conditions vary seasonally; impassable during wet conditions. Passenger vehicles may access near trailheads during dry season but are not recommended for interior basin roads.",
+  "parking_notes": "Informal pullouts along BLM access roads. No developed parking facilities. Capacity varies by location; usually uncrowded except during Burning Man festival season (August-September). Camp or park at any pullout; no time limits.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No removal of fossils or protected minerals. Collect only loose material or surface rocks; do not dig trenches or extract from cliff faces. Leave no trace: fill holes and pack out all refuse.",
+  "quantity_limits": "25 lbs per day per person",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo fossil or protected mineral removal\nCollect loose material and surface rocks only\nNo digging trenches or cliff extraction\nPack out all refuse",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Gerlach, Nevada, approximately 12 miles south (gas, limited food, lodging). Larger services (supermarket, medical) in Lovelock, approximately 60 miles southeast.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers with sturdy footwear. Uneven rocky ground with loose gravel and small stones; no wheelchair access to interior collection areas. Pullouts along main access roads may accommodate limited mobility but are not developed. Extreme sun exposure and lack of shade make this challenging for those sensitive to heat.",
+  "alternative_names": [],
+  "nearest_city": "Gerlach",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/black-rock-desert-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/black-rock-desert-nv/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Black Rock Desert near Gerlach, Nevada?",
+      "answer": "Black Rock Desert is known for opal, agate, chalcedony, and jasper. Opal is the most prized find here; look for milky white or translucent specimens in weathered volcanic rock. Agate nodules are common and appear as banded or solid-colored stones in desert washes and hillsides. Chalcedony and jasper are also abundant throughout the area."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Black Rock Desert on BLM land?",
+      "answer": "No permit is required for personal use rockhounding on BLM public land at Black Rock Desert. You are limited to collecting 25 pounds per day per person under Nevada FLPMA regulations. Commercial collection is prohibited."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Black Rock Desert, Nevada?",
+      "answer": "October through April is ideal. Daytime temperatures are mild (50-70F), making field work comfortable and safe. Summer heat (90-110F+) is extreme and increases risk of heat exhaustion. Winter nights are cold, but daytime collecting is excellent with proper clothing."
+    },
+    {
+      "question": "What vehicle do I need to access Black Rock Desert rockhounding?",
+      "answer": "High-clearance or all-wheel-drive vehicles are recommended for accessing interior collection areas. Passenger cars may reach some roadside pullouts during dry conditions but are not suitable for deeper basin roads. Roads are rough, washboard, and can be impassable during wet weather."
+    },
+    {
+      "question": "Is Black Rock Desert rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, Black Rock Desert is beginner-friendly and family-appropriate. The flat, open terrain makes it accessible for children ages 8 and up. Bring plenty of water, sun protection, and sturdy boots. Parking areas along access roads allow easy access without long hikes, making it ideal for introducing kids to rockhounding."
+    },
+    {
+      "question": "How far is Black Rock Desert from Gerlach, and what tools should I bring rockhounding there?",
+      "answer": "Black Rock Desert is approximately 12 miles north of Gerlach, Nevada. Bring a geologic hammer or chisel for testing rocks, a collection bag, sturdy hiking boots, plenty of water (2+ gallons per person), sun protection (hat, sunscreen), and a high-clearance vehicle or all-wheel-drive. GPS and a detailed BLM map are highly recommended due to remote location and spotty cell service."
+    }
+  ],
+  "meta_title": "Black Rock Desert Rockhounding - Nevada",
+  "meta_description": "Find opal, agate, and chalcedony at Black Rock Desert on Nevada BLM land. Free public rockhounding, flat terrain, October-April best season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Basin and Range geology and mindat search results)",
+    "written_directions (constructed from GPS and nearest town; specific BLM road names should be verified)",
+    "nearest_services (Gerlach distances estimated from geographic knowledge)",
+    "best_season (inferred from Nevada climate patterns)",
+    "hazards (selected based on high-desert remote environment)"
+  ],
+  "enriched_at": "2026-04-22T06:43:35.454Z",
+  "scrape_quality": "rich",
+  "images_processed_at": "2026-04-22T06:46:26.382Z"
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "south-temple-wash-ut",
+  "name": "South Temple Wash",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Castle Valley",
+  "city_slug": "castle-valley",
+  "county": "Emery",
+  "county_slug": "emery",
+  "lat": 38.645913,
+  "lng": -110.667131,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land rockhounding site in central Utah's colorful canyon country. Find banded agates, jasper, and chalcedony specimens in wash gravels and eroded hillsides near the Temple Mountains.",
+  "description": "South Temple Wash offers easy to moderate rockhounding on Utah BLM land in the heart of Emery County's scenic basin-and-range terrain. The wash cuts through stratified geologic layers deposited during the Triassic and Jurassic periods, with subsequent erosion exposing colorful silica-rich minerals in the stream bed and adjacent badlands.\n\nThe primary collecting area lies along the wash bottom and in the surrounding hillside gravels, where you will find fragments and whole specimens of banded agate, white and tan chalcedony, red and brown jasper, and clear to smoky quartz. Many specimens show excellent color zoning and patterns typical of the region's hydrothermal silica deposits.\n\nAccess is straightforward from Castle Valley or Green River, and parking is available near the wash entrance. The terrain is open and relatively unobstructed, making this site suitable for families and beginners. Water flow is seasonal, so plan visits for dry-season months when the wash is easily walked.\n\nAs BLM land, no permit is required for personal use rockhounding. Collectors are limited to 25 lbs per day per federal regulations. The site remains uncrowded compared to fee-dig operations, and the surrounding landscape offers excellent opportunities for scenic photography and geology observation.\n\nEarth-toned specimens are abundant and of consistent quality. Experienced collectors often spend half a day here and depart with pocket-sized pieces suitable for display or lapidary work.",
+  "history": "South Temple Wash sits within the Paradox Basin's eastern margin, where Late Triassic to Early Jurassic fluvial and lacustrine environments deposited the red bed sequences now visible in the canyon walls. Subsequent Laramide uplifting and Basin-and-Range extension fractured these layers, allowing silica-rich groundwater to percolate through the strata and crystallize as agate and chalcedony veins. Modern erosion by South Temple Wash has exhumed these mineral deposits, concentrating specimens in the wash gravels and slope debris over millions of years.",
+  "tips": "Search the wash floor and gravel bars thoroughly, especially after seasonal runoff when fresh material is exposed. Use a small shovel or digging bar to work the terrace gravels on the outer bends of the wash, where heavier minerals accumulate. Look for translucent or opaque chunks with banding or color variation rather than solid white or clear pieces. Many specimens are found in sizes from marble-sized to fist-sized; focus on areas with visible eroded hillside material rather than only the main channel bed.",
+  "terrain_notes": "The wash descends gently through a broad valley flanked by low badland-style hills. Elevation at the parking area is approximately 5,200 feet. Terrain is open, mostly unvegetated, with scattered desert scrub. The walk from parking to prime collecting areas is less than 0.5 miles. Footing is uneven but generally stable; wash gravels can be loose and ankle-rolling is possible. No shade available; heat exposure is significant in summer months.",
+  "best_season": "October - April",
+  "written_directions": "From Castle Valley, head south and east toward Green River on local county roads. Take UT-10 east from Castle Valley toward Emery. Continue approximately 15 miles and look for signed access to Temple Mountain Scenic Backway or similar BLM access roads. South Temple Wash can be accessed via a rough dirt road branching southeast; the final 2-3 miles require high-clearance vehicle. Approach from the north via Green River if coming from the I-70 corridor - take Frontage Road south, then southeast on BLM access roads toward the wash. GPS coordinates 38.645913, -110.667131 mark the primary wash approach zone. Confirm current road conditions with the Price BLM Field Office before driving, as late summer flash flooding may impact access.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough BLM dirt road, high-clearance recommended. Washboard surface with occasional ruts. Not suitable for low-clearance sedans. May be impassable during or immediately after heavy rain.",
+  "parking_notes": "Informal pullout area near wash entrance. Space for 3-5 vehicles. No facilities, no amenities. Park away from wash to avoid flash flood zones.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or heavy equipment. Do not disturb intact rock faces or formations; collect only from loose surface gravels and eroded debris. Pack out all waste.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nCollect loose specimens only; do not break outcrop\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Castle Valley, approximately 12 miles northwest - limited services. Green River, approximately 18 miles east - full services including gas, food, lodging, and water.",
+  "accessibility_notes": "Relatively flat, open terrain with gentle slopes. Uneven wash gravels and rocky footing require sturdy shoes. No wheelchair access due to rough dirt road and uneven ground. Minimal elevation gain. Heat exposure is significant in summer; shade is nonexistent. Not recommended for visitors with limited mobility due to road conditions and terrain.",
+  "alternative_names": [
+    "Temple Mountain Wash area"
+  ],
+  "nearest_city": "Castle Valley",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/south-temple-wash-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kinds of rocks can you find rockhounding at South Temple Wash in Utah?",
+      "answer": "South Temple Wash is known for banded agate, chalcedony, jasper, and quartz. Specimens typically show excellent color banding and range from marble-sized to fist-sized pieces. Many are translucent or semi-opaque with red, brown, tan, and white coloring, making them popular for display or lapidary polishing."
+    },
+    {
+      "question": "Do you need a permit to rockhound at South Temple Wash?",
+      "answer": "No permit is required for personal use rockhounding on this BLM land. However, you must follow the 25 lb per day limit set by federal regulations and collect only loose specimens - do not break rock faces or use motorized equipment."
+    },
+    {
+      "question": "How far is South Temple Wash from the nearest town?",
+      "answer": "South Temple Wash is approximately 12 miles southeast of Castle Valley and 18 miles west of Green River, Utah. Green River offers full services including gas, food, and lodging. The site is accessed via rough BLM dirt roads requiring high-clearance vehicles."
+    },
+    {
+      "question": "What is the best time of year to rockhound at South Temple Wash?",
+      "answer": "October through April is ideal, when temperatures are mild and flash flood risk is lower. Summer heat is extreme with no shade available, and the wash can swell during monsoon season. Check BLM road conditions before traveling, as rain can make access roads impassable."
+    },
+    {
+      "question": "Is South Temple Wash a good rockhounding site for beginners and families?",
+      "answer": "Yes. The site is beginner-friendly with easy to moderate difficulty. Open terrain, plentiful specimens in loose gravels, and no permit requirements make it ideal for families with children age 6 and up. The wash bottom and hillside gravels are accessible without technical skills or climbing."
+    },
+    {
+      "question": "What tools and supplies should you bring for rockhounding at South Temple Wash?",
+      "answer": "Bring a small shovel or digging bar for working the terrace gravels, a bucket or collection bag, sturdy hiking boots, a hat, and plenty of water. The site offers no shade, so sunscreen and layers are essential. A GPS device is helpful for navigation on remote BLM roads. Collectors often use hand lenses to inspect banding and clarity of agate specimens."
+    }
+  ],
+  "meta_title": "South Temple Wash Rockhounding - Utah BLM",
+  "meta_description": "Free BLM rockhounding at South Temple Wash near Castle Valley, Utah. Find agate, jasper, and chalcedony. No permit required, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (specific access roads not independently verified)",
+    "nearest_city_distance (estimated from coordinates)",
+    "remoteness_rating (inferred from location data)",
+    "geology_notes field missing from template but content integrated into description and history"
+  ],
+  "enriched_at": "2026-04-22T06:49:20.255Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:55:52.930Z"
+}

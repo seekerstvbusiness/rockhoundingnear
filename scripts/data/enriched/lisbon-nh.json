@@ -1,0 +1,101 @@
+{
+  "slug": "lisbon-nh",
+  "name": "Lisbon",
+  "state": "New Hampshire",
+  "state_slug": "new-hampshire",
+  "city": "Lisbon",
+  "city_slug": "lisbon",
+  "county": "Grafton",
+  "county_slug": "grafton",
+  "lat": 44.220483,
+  "lng": -71.905029,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Garnet"
+  ],
+  "short_description": "Rockhounding near Lisbon offers access to New Hampshire's classic White Mountain mineral specimens including quartz, feldspar, and mica from metamorphic bedrock. Explore public lands in the heart o...",
+  "description": "Lisbon sits in the scenic Grafton County region of New Hampshire's White Mountains, offering rockhounds access to metamorphic mineral formations typical of the Appalachian Mountain chain. The area features exposed bedrock and glacially-rounded outcrops rich in quartz, feldspar, and mica crystals characteristic of schist and gneiss formations. This region benefits from significant public land availability, including sections managed by the White Mountain National Forest and adjacent public tracts, making it accessible for personal mineral collecting. The flat to gently rolling terrain around Lisbon makes this a manageable destination for rockhounds of varying skill levels.\n\nThe geology here reflects the Paleozoic metamorphic events that transformed the Appalachian basement rocks. Schist and gneiss bedrock throughout Grafton County contains abundant quartz veins and feldspar phenocrysts, along with mica sheets that weather out along stream beds and in roadcuts. Garnets occasionally appear in metamorphic schists, though they are less common. Spring runoff and seasonal erosion expose fresh mineral material in streambeds and along trails.\n\nVisitors should focus on exposed bedrock, natural stream washes, and existing mine dumps where accessible. The White Mountain National Forest lands nearby offer excellent rockhounding opportunities with proper permits and adherence to personal-use guidelines. Summer and early fall provide the best conditions for exploring the region's mineral deposits after winter has exposed new material.",
+  "history": "The Lisbon area sits within the metamorphic core of the White Mountains, where Paleozoic-age schists and gneisses were formed during the Acadian and Alleghenian orogenies that built the Appalachian Mountains. These ancient metamorphic rocks host quartz veins, feldspar crystals, and mica sheets that have attracted prospectors and mineral collectors for generations.",
+  "tips": "Search along active and dry streambeds where seasonal water action has exposed and sorted mineral material - quartz and feldspar fragments accumulate in gravel deposits. Use a 10x loupe to identify feldspar color and luster; look for white-to-pink crystals in exposed bedrock faces. Small mica sheets weather free from schist along trail cuts and roadside outcrops. Bring a small hammer and chisel for carefully extracting quartz crystals from veins in exposed bedrock, but never strike active cliff faces.",
+  "terrain_notes": "Relatively flat to gently rolling terrain in the immediate Lisbon area with elevation around 800-1000 feet. The region features mixed deciduous and coniferous forest with numerous stream valleys and ridgelines. Walking distances to productive collecting areas vary; some roadside exposures require minimal hiking while others may involve 1-2 miles of trail walking. Footing is generally stable on established trails and stream beds, though loose rocks and root systems are common in forest areas.",
+  "best_season": "May - October. Late spring through early fall offers the best conditions with lower water levels in streams, accessible trails, and comfortable hiking temperatures. Early summer after snowmelt exposes freshly weathered material. Fall provides excellent weather and clear forest visibility.",
+  "written_directions": "From Lisbon center, take NH Route 302 east or west to access public lands and stream valleys in the surrounding area. The White Mountain National Forest boundary is approximately 3-5 miles south of town. Specific collecting sites vary; inquire at local ranger stations or consult USGS topographic maps for detailed access to named streams and published collecting areas. Roadside pullouts along Route 302 and forest service roads offer starting points for exploration.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "hiking",
+  "road_conditions": "Route 302 is paved year-round. Forest service roads and access roads to trailheads vary from paved to gravel and may require passenger vehicles or all-wheel-drive depending on season and specific site.",
+  "parking_notes": "Limited roadside pullouts along Route 302. White Mountain National Forest trailheads typically offer small gravel or paved parking areas; some with capacity for 4-8 vehicles. Arrive early during peak season to secure parking.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only on National Forest lands. Maximum 25 lbs per day per federal guidelines. No commercial collection. No mechanized or motorized excavation. Collect only loose material and surface fragments unless specifically permitted for small-scale hand tools on bedrock. Respect all posted closures and private property boundaries. Pack out all excavation debris.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized or heavy equipment\nHand tools only\nRespect posted closures and private land\nPack out all debris",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Lisbon center has gas, food, and lodging options. Additional services available in Twin Mountain (10 miles south) and Littleton (15 miles west).",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers with moderate fitness. Stream access and some trailheads are wheelchair-inaccessible. Forest terrain includes uneven footing, exposed roots, and loose rocks. Sturdy waterproof hiking boots strongly recommended. Some roadside outcrops are accessible from pullouts with minimal walking.",
+  "alternative_names": [],
+  "nearest_city": "Lisbon",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-hampshire/lisbon-nh/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Lisbon, New Hampshire?",
+      "answer": "The primary minerals found around Lisbon are quartz, feldspar, mica, and occasional garnet. These metamorphic minerals occur naturally in the schist and gneiss bedrock of the White Mountains. Quartz appears as both white crystals and translucent fragments in stream beds, while feldspar ranges from white to pink. Mica sheets weather out along forest trail cuts and are easy for beginners to identify."
+    },
+    {
+      "question": "Is rockhounding free near Lisbon, or do I need a permit?",
+      "answer": "Rockhounding is free on White Mountain National Forest lands near Lisbon with no permit required for personal use collection. However, you must follow federal guidelines: limit collection to 25 lbs per day, use hand tools only, and take only loose material or surface fragments. Commercial collection is prohibited."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Lisbon, NH?",
+      "answer": "The best season is May through October when trails are accessible, stream levels are lower, and freshly weathered mineral material is exposed. Early summer after snowmelt provides excellent conditions, and fall offers comfortable temperatures and clear visibility. Winter and early spring have snow coverage and high water that limits access."
+    },
+    {
+      "question": "Can I bring my family and kids rockhounding to Lisbon?",
+      "answer": "Yes, Lisbon is family and beginner-friendly with moderate difficulty. Kids aged 8 and up can participate in collecting from stream beds and roadside outcrops. The relatively flat terrain and accessible trailheads make it suitable for families. Bring proper footwear, water, and sun protection. Dog-friendly public lands allow pets to accompany you."
+    },
+    {
+      "question": "What tools do I need for rockhounding around Lisbon?",
+      "answer": "Basic tools include a 10x loupe for identifying minerals, a small hammer and chisel for careful bedrock sampling, a collection bag, and a geological map. Sturdy hiking boots are essential for stream walking and forest terrain. Never use motorized equipment - hand tools only are permitted on National Forest lands."
+    },
+    {
+      "question": "Where exactly should I search for quartz and feldspar near Lisbon?",
+      "answer": "Focus on dry and active stream beds where seasonal water has concentrated mineral fragments - quartz and feldspar accumulate in gravel bars. Check exposed roadcuts along Route 302 for fresh bedrock faces. Forest trail cuts and natural stream washes reveal mica sheets weathering from schist. Always start with easy-access roadside pullouts before venturing deeper into the forest."
+    }
+  ],
+  "meta_title": "Lisbon NH Rockhounding - Quartz & Feldspar",
+  "meta_description": "Find quartz, feldspar, and mica rockhounding near Lisbon, NH. Free public land collecting in the White Mountains. No permit needed for personal use.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "difficulty",
+    "nearest_city_distance",
+    "cell_service",
+    "remoteness_rating",
+    "terrain_notes",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-21T17:49:41.106Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:50:55.714Z"
+}

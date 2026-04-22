@@ -1,0 +1,60 @@
+{
+  "slug": "mckee-creek-il",
+  "name": "McKee Creek",
+  "lat": 39.738063,
+  "lng": -90.739105,
+  "state": "Illinois",
+  "state_slug": "illinois",
+  "state_code": "IL",
+  "city": "Pike County",
+  "city_slug": "pike-county",
+  "county": "Pike",
+  "county_slug": "pike",
+  "geocoded_city": "Pike County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-illinois.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=McKee%20Creek%20Illinois"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=McKee%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=McKee%20Creek%20Illinois"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 543,
+      "meters": 165
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:58:13.277Z"
+  },
+  "scraped_at": "2026-04-21T16:58:13.277Z",
+  "scrape_quality": "minimal"
+}

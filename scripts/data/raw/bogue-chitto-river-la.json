@@ -1,0 +1,60 @@
+{
+  "slug": "bogue-chitto-river-la",
+  "name": "Bogue Chitto River",
+  "lat": 30.572524,
+  "lng": -89.835136,
+  "state": "Louisiana",
+  "state_slug": "louisiana",
+  "state_code": "LA",
+  "city": "St. Tammany Parish",
+  "city_slug": "st-tammany-parish",
+  "county": "St. Tammany",
+  "county_slug": "st-tammany",
+  "geocoded_city": "St. Tammany Parish",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-louisiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bogue%20Chitto%20River%20Louisiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bogue%20Chitto%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bogue%20Chitto%20River%20Louisiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 32,
+      "meters": 10
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:40:12.743Z"
+  },
+  "scraped_at": "2026-04-21T16:40:12.743Z",
+  "scrape_quality": "minimal"
+}

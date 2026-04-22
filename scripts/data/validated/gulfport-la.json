@@ -1,0 +1,102 @@
+{
+  "slug": "gulfport-la",
+  "name": "Gulfport",
+  "state": "Louisiana",
+  "state_slug": "louisiana",
+  "city": "Gulfport",
+  "city_slug": "gulfport",
+  "county": "Harrison",
+  "county_slug": "harrison",
+  "lat": 30.473187,
+  "lng": -89.161364,
+  "gem_types": [
+    "Quartz",
+    "Calcite",
+    "Feldspar"
+  ],
+  "short_description": "Coastal Mississippi beach access near Gulfport offers shell and mineral collecting along barrier island formations. Flat terrain makes this beginner-friendly for casual rockhounding.",
+  "description": "The Gulfport area sits along the northern Gulf of Mexico coast, where Pleistocene and modern sedimentary deposits create a unique rockhounding environment. The region is characterized by barrier islands, beach ridges, and sandy coastal plains that have accumulated shells, quartz fragments, and other marine minerals over thousands of years. Collectors in this area typically focus on public beaches and accessible shorelines where wave action continuously exposes new material. The flat coastal terrain makes this an accessible site for families and beginners. Be aware that many beach areas have seasonal restrictions and require respect for nesting sea turtles and shorebirds, particularly during warmer months.\n\nThe geology here reflects the Gulf Coast's history of marine transgressions and regressions. Quaternary sediments dominate, with quartz sand and shell hash being the primary collectible material. Calcite from shellfish remains and feldspar grains washed down from inland sources create a diverse mineral assemblage. Wave sorting processes concentrate heavier minerals in certain areas, making some beaches more productive than others.\n\nRockhounding success depends heavily on tide levels and recent weather. Storm surge and high-energy wave action often expose fresh material and create excellent conditions for collecting. The best finds typically occur after nor'easters or tropical weather systems pass through. Water and weather access is more reliable than at interior sites, making this a year-round destination for coastal collectors.\n\nParking and beach access vary by location - some public beach areas are free while others charge parking fees. Always check current access policies before visiting, as coastal areas frequently update regulations for wildlife protection and public safety.",
+  "history": "The Gulfport coastal plain was formed during the Pleistocene epoch when sea level fluctuations repeatedly inundated and exposed this region. Barrier island complexes built up over the past 5,000 years through wave-driven sediment transport and deposition, creating the modern coastline. The quartz and calcite minerals found here accumulated through marine reworking of older continental deposits and direct precipitation from seawater, making this a living laboratory of coastal geology.",
+  "tips": "Check tide tables before visiting - low tide exposes the widest collecting areas and reveals fresh material along the beach face and nearshore zones. Look for concentrations of quartz pebbles and shell fragments in the upper beach zone where storm waves have sorted heavier material. Bring a small screen or classifier to quickly separate quartz and other minerals from sand, and collect in coolers with seawater to prevent osmotic stress on delicate specimens. Respect posted wildlife areas, especially during nesting season (April-October), as sea turtle and shorebird protection is strictly enforced.",
+  "terrain_notes": "Elevation 52 feet with completely flat coastal terrain. Sandy beach with scattered shell debris, some rock outcrops in limited areas. Walking distance from parking to productive collecting areas typically 0.25 to 1 mile. Footing is relatively easy but can be difficult in soft sand; water-packed sand near the waterline provides firmer walking surface. No significant elevation changes; access is very suitable for limited mobility visitors where beach access exists.",
+  "best_season": "October - April. Winter and early spring offer calmer seas, more stable weather, and optimal beach access. Summer months bring heat, frequent thunderstorms, and active sea turtle nesting that restricts beach access. Fall provides excellent conditions as hurricane season winds down.",
+  "written_directions": "From Gulfport city center, head toward the waterfront. US 90 (Beach Boulevard) runs east-west along the coast and provides access to multiple public beach areas. Beach access parking areas are located at regular intervals along US 90. For the main public beach near downtown Gulfport, take Beach Boulevard east from the city center approximately 0.5 to 1 mile until you reach designated beach parking. Several free and paid parking areas are available depending on specific beach location. GPS coordinate (30.473187, -89.161364) places you near central Gulfport beach access.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved roads (US 90) to all beach access points. Final parking area approach may be gravel or unpaved depending on specific location.",
+  "parking_notes": "Multiple public parking areas along US 90 with varying capacity. Some are free, others charge seasonal or daily fees. Parking areas typically accommodate 20-100+ vehicles. Check signage for current fees and restrictions.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only on public beaches. No motorized collection equipment. Respect all posted wildlife protection areas and seasonal restrictions. Sea turtle nesting areas (typically April-October) are off-limits. Do not remove living organisms or protected shells. Follow all local and state regulations regarding beach access.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nRespect sea turtle and shorebird nesting areas\nNo powered excavation equipment\nDo not remove living organisms\nFollow posted beach access restrictions\nCheck tide tables for optimal access",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "heat"
+  ],
+  "nearest_services": "Gulfport city center, 0.5 to 2 miles. Full services including gas, restaurants, water, and supplies. Nearby Long Beach and Biloxi offer additional amenities.",
+  "accessibility_notes": "Very accessible for most visitors. Flat terrain with minimal elevation change. Beach access varies by location - some areas have paved parking with wheelchair accessibility to boardwalks, while others require walking on sand. Water-packed sand near waterline provides better footing than dry upper beach. Many beaches in the area have dedicated accessible facilities.",
+  "alternative_names": [
+    "Gulfport Beach",
+    "Mississippi Gulf Coast"
+  ],
+  "nearest_city": "Gulfport",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/louisiana/gulfport-la/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/louisiana/gulfport-la/mineral-1-calcite.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/louisiana/gulfport-la/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/louisiana/gulfport-la/mineral-2-calcite.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals and shells can you find rockhounding near Gulfport, Louisiana?",
+      "answer": "The Gulfport area produces quartz pebbles, calcite from shell fragments, feldspar grains, and intact shells from marine organisms. Beach wave action continuously sorts and exposes these materials, with quartz and shell hash being the most common finds. Storm events often improve collecting conditions by churning up fresh material from nearshore zones."
+    },
+    {
+      "question": "Is rockhounding free at Gulfport beaches or are there access fees?",
+      "answer": "Most Gulfport public beaches are free to access, though some parking areas charge seasonal or daily fees (typically $2-5). There are no rockhounding permits or collection fees required. Always verify current parking costs before visiting, as rates vary by specific beach location and season."
+    },
+    {
+      "question": "What is the best time of year for rockhounding along the Gulfport coast?",
+      "answer": "October through April offers the best collecting conditions. Winter months bring calmer seas, more stable weather, and wider beach exposure at low tide. Summer brings heat, frequent thunderstorms, and sea turtle nesting restrictions that limit access to many beach areas. Fall is particularly productive as hurricane season winds down."
+    },
+    {
+      "question": "Can beginners and families go rockhounding at Gulfport beaches?",
+      "answer": "Yes, Gulfport beaches are excellent for beginners and families. The flat terrain requires no hiking experience, parking is convenient, and collections require only basic tools like a small screen or net. Children as young as 6 can enjoy beach collecting safely. Focus on the wet sand zone near the waterline where materials are naturally concentrated by wave action."
+    },
+    {
+      "question": "How do tide levels affect rockhounding success at Gulfport?",
+      "answer": "Low tide exposes the widest beach area and brings the most material within reach. Check tide tables before visiting to plan your trip for optimal low tide conditions. Storm surge and high-energy wave action after weather events often expose fresh specimens, making post-storm visits particularly productive for finding quartz and shells."
+    },
+    {
+      "question": "What tools do you need for rockhounding at Gulfport beaches?",
+      "answer": "A small mesh screen or sand classifier makes sorting quartz from sand very efficient. Bring a collection bag or cooler, sturdy shoes for sandy terrain, and seawater in a bucket to keep specimens hydrated. A hand lens helps identify quartz varieties and feldspar. No power tools or heavy excavation equipment is permitted on Gulfport beaches."
+    }
+  ],
+  "meta_title": "Gulfport Rockhounding - Find Quartz & Shells",
+  "meta_description": "Rockhound the Gulfport, Louisiana coast for quartz, shells, and calcite on easy public beaches. Year-round collecting with no permits required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from coastal Gulf geology)",
+    "primary_category (set to other as location is public beach rather than BLM/national forest)",
+    "access_type (public beaches vary - some may have restrictions)",
+    "fee_amount (some beaches charge parking, not rockhounding fees)",
+    "nearest_city_distance (set to 0 as location is in/near Gulfport city)"
+  ],
+  "enriched_at": "2026-04-21T16:41:03.377Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:41:28.080Z"
+}

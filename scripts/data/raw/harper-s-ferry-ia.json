@@ -1,0 +1,57 @@
+{
+  "slug": "harper-s-ferry-ia",
+  "name": "Harper’s Ferry",
+  "lat": 43.209863,
+  "lng": -91.136748,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Taylor Township",
+  "city_slug": "taylor-township",
+  "county": "Allamakee",
+  "county_slug": "allamakee",
+  "geocoded_city": "Taylor Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Harper%E2%80%99s%20Ferry%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Harper%E2%80%99s%20Ferry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Harper%E2%80%99s%20Ferry%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:52:41.242Z"
+  },
+  "scraped_at": "2026-04-21T17:52:41.242Z",
+  "scrape_quality": "minimal"
+}

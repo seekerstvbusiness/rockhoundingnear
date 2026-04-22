@@ -1,0 +1,96 @@
+{
+  "slug": "blue-jacket-mine-id",
+  "name": "Blue Jacket Mine",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Grangeville",
+  "city_slug": "grangeville",
+  "county": "Idaho",
+  "county_slug": "idaho",
+  "lat": 45.556365,
+  "lng": -116.441911,
+  "gem_types": [
+    "Quartz",
+    "Gold",
+    "Chalcedony"
+  ],
+  "short_description": "Historic mining area in central Idaho with free public BLM access for rockhounding. Search for quartz and small gold flakes in weathered outcrops at 4,890 feet elevation.",
+  "description": "Blue Jacket Mine is a historic gold and mineral collection site located on BLM public land in Idaho County, offering free recreational rockhounding in the Salmon River drainage area. The site sits at 4,890 feet elevation in the Blue Mountains region, an area shaped by ancient volcanic activity and subsequent hydrothermal mineralization during Idaho's gold rush era. The terrain features moderate slopes with scattered outcrops and mineralized zones where collectors can search for quartz specimens, chalcedony, and occasional gold flakes in weathered rock and small washes.\n\nThis area represents classic Idaho intermountain geology where Miocene-era volcanic rocks and sediments host hydrothermal deposits concentrated along fault zones. Historical small-scale mining operations in this region extracted both gold and associated minerals from these same formations, making it an excellent destination for understanding the geology behind Idaho's mining heritage.\n\nCollecting here is straightforward and free on BLM land. The moderate slopes and accessible terrain make this suitable for families and beginners willing to do moderate hiking. Most productive areas are found in and around small drainage washes where erosion naturally exposes mineralized material. Rockhounders report finding translucent quartz pieces, chalcedony nodules, and occasionally small flakes or fine gold dust in weathered soil and rock.",
+  "history": "The Blue Jacket Mine area sits within Idaho County's historic gold mining district where late 1800s and early 1900s prospectors worked placer and lode deposits along intermountain fault zones. This region experienced significant mineralization during Miocene volcanic activity (approximately 20-30 million years ago) when hot, mineral-rich fluids deposited quartz and associated minerals through fractures in volcanic and sedimentary rocks, creating the hydrothermal alteration zones that both historical miners and modern rockhounders seek today.",
+  "tips": "Focus your search in small washes and drainage bottoms where natural erosion has exposed mineralized outcrops and scattered loose rock. Look for white to milky quartz pieces and weathered chalcedony nodules in exposed banks and gravelly areas. Bring a 10x hand lens to spot fine gold flakes in quartz specimens and surrounding soil. A small classifier or sieve helps process loose material from promising spots efficiently.",
+  "terrain_notes": "Moderate slopes at 4,890 feet elevation in a semi-forested mountain setting with scattered ponderosa pine and mixed conifers. Terrain is rocky and uneven with loose material common on slopes. Walking distances from parking to productive collecting areas typically range from 100 yards to 0.5 miles. Footing requires careful stepping over loose rock and weathered outcrops. No maintained trails, so route-finding through moderate elevation terrain is necessary.",
+  "best_season": "June - September. High elevation (4,890 ft) makes spring conditions muddy and early season snow possible. Summer provides dry terrain and stable weather; fall remains good through September before weather deteriorates. Winter and early spring access is unreliable due to snow and mud at this elevation.",
+  "written_directions": "From Grangeville, take Idaho Highway 14 east toward Florence for approximately 20 miles. Continue on Forest Service roads or local county roads following signs toward the upper Salmon River drainage. The exact approach road may vary seasonally; contact the Grangeville BLM office for current road conditions and specific directions to Blue Jacket Mine access points. Expect 30-45 minutes driving time from Grangeville on partially improved roads.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough forest service and county roads with potential washboard surface. High clearance or AWD recommended, especially in wet seasons. Road conditions vary by season and year depending on maintenance.",
+  "parking_notes": "Pullout areas along access roads; no developed parking lot. Capacity varies from 1-3 vehicles per typical pullout. Space may be limited during peak seasons.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or powered equipment. Pack out all waste. Respect any posted claims or notice markers.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use rockhounding only\n25 pound per day limit\nNo commercial collection\nNo motorized excavation equipment\nPack out all waste\nRespect any posted mining claims\nStay on BLM land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "cold",
+    "remote",
+    "wildlife"
+  ],
+  "nearest_services": "Grangeville, approximately 20-25 miles west. Full services including gas, food, and lodging available. Florence, approximately 15 miles east, offers limited services.",
+  "accessibility_notes": "Moderate to rough terrain with uneven footing across rocky slopes and loose material. No wheelchair access. Not suitable for limited mobility. Sturdy footwear and moderate hiking ability required. Elevation of 4,890 feet may affect those sensitive to altitude.",
+  "alternative_names": [],
+  "nearest_city": "Grangeville",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/blue-jacket-mine-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What can you find rockhounding at Blue Jacket Mine in Idaho?",
+      "answer": "Blue Jacket Mine offers free public rockhounding for quartz specimens, chalcedony nodules, and occasionally small flakes of fine gold. The site is located on BLM land in a historic mining district where weathered outcrops and small washes naturally expose mineralized material."
+    },
+    {
+      "question": "Do you need a permit to collect at Blue Jacket Mine Idaho?",
+      "answer": "No permit is required for personal use rockhounding at Blue Jacket Mine. It is located on public BLM land where recreational collecting is allowed free of charge. You must follow the 25-pound daily limit per FLPMA and collect for personal use only."
+    },
+    {
+      "question": "Is Blue Jacket Mine good for beginner rockhounders?",
+      "answer": "Yes, Blue Jacket Mine is beginner-friendly with moderate terrain and free access on BLM land. The site requires moderate hiking ability and careful footing over loose rock, making it suitable for families and kids ages 8 and up with basic rockhounding experience."
+    },
+    {
+      "question": "How do you find gold at Blue Jacket Mine in Idaho County?",
+      "answer": "Search in small drainage washes and around exposed mineralized outcrops where erosion naturally concentrates material. Use a 10x hand lens to spot fine gold flakes in quartz specimens and surrounding soil. A classifier sieve helps process loose material from promising areas efficiently."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Blue Jacket Mine?",
+      "answer": "The best season is June through September. At 4,890 feet elevation, spring conditions are muddy with possible snow, while winter access is unreliable. Summer provides dry stable terrain; fall remains good through September before weather deteriorates."
+    },
+    {
+      "question": "How far is Blue Jacket Mine from Grangeville Idaho?",
+      "answer": "Blue Jacket Mine is approximately 20-25 miles east of Grangeville via Highway 14 and forest service roads. The drive takes 30-45 minutes depending on road conditions. Grangeville offers full services including gas, food, and lodging before heading to the site."
+    }
+  ],
+  "meta_title": "Blue Jacket Mine Rockhounding - Idaho",
+  "meta_description": "Free BLM rockhounding for quartz, chalcedony, and gold at Blue Jacket Mine near Grangeville, Idaho. No permit required. Beginner-friendly with moderate hiking.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (based on general Idaho County geography - specific road names should be verified with BLM office)",
+    "nearest_city_distance (estimated from GPS coordinates)",
+    "gem_types (inferred from historic mining activity in region - specific findings should be verified locally)",
+    "cell_service (none assumed due to remote elevation and forest service land)"
+  ],
+  "enriched_at": "2026-04-22T09:27:12.231Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:19.870Z"
+}

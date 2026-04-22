@@ -1,0 +1,103 @@
+{
+  "slug": "lebam-wa",
+  "name": "Lebam",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Lebam",
+  "city_slug": "lebam",
+  "county": "Pacific",
+  "county_slug": "pacific",
+  "lat": 46.563522,
+  "lng": -123.56479,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Petrified Wood"
+  ],
+  "short_description": "Rockhound this Pacific County lowland area for agate, chalcedony, and petrified wood specimens. Flat terrain and accessible collecting make Lebam suitable for beginners exploring Washington's coast...",
+  "description": "Lebam sits in Pacific County's Willapa Hills region, characterized by low elevation tidal flats, river valleys, and Eocene-age sedimentary formations. This area is rich in secondary deposits where agate and chalcedony specimens wash out of ancient volcanic and silica-rich parent rocks. Local waterways and eroded stream beds expose colorful nodules and banded specimens that rockhounds can collect from public and accessible private lands.\n\nThe geology here reflects Washington's complex tectonic history. During the Eocene epoch (56-34 million years ago), volcanic activity and hydrothermal silica precipitation created agate and chalcedony deposits throughout the Cascadian margin. Subsequent erosion and transport by rivers and seasonal flooding have distributed these minerals into accessible collecting areas near Lebam.\n\nCollecting in this region means searching stream beds, gravel bars, and exposed banks during lower water seasons. The flat terrain and proximity to water make this an ideal location for beginners and families. Specimens range from small nodules to larger banded pieces, with colors including white, gray, brown, and occasional hints of red or orange from iron oxide staining.\n\nAlways verify land ownership before collecting. Many productive areas near Lebam are on private property but accessible with permission. Check with local landowners or seek out known public-access rockhounding areas in Pacific County. The mild Pacific Northwest climate and seasonal water levels make planning essential for success.",
+  "history": "This region lies within the Willapa Hills, an extension of the Cascade Range shaped by Eocene volcanic and sedimentary activity. Silica-rich hydrothermal fluids during this period created the agate and chalcedony deposits that rockhounds find today in eroded stream channels and exposed banks. Historical logging and mining exploration in Pacific County documented these mineral deposits, though commercial-scale extraction never developed here.",
+  "tips": "Search along seasonal stream beds and gravel bars after spring runoff recedes, typically May through August. Look for smooth, banded nodules with translucent edges and waxy luster - genuine agates; cloudy white or gray chalcedony pieces are equally common. Bring a hammer, cold chisel, and sturdy boots rated for muddy, rocky terrain. Early morning collecting after rain often yields better results as fresh erosion exposes new specimens. Always respect private property boundaries and carry a handheld GPS or phone for navigation in this relatively low-cell-service area.",
+  "terrain_notes": "Elevation 161 feet with flat terrain throughout the Lebam area. Vegetation includes mixed conifer and deciduous forest typical of coastal Pacific Northwest lowlands. Walking surfaces range from firm gravels near streams to muddy approaches during wet seasons. Collecting sites are typically within 0.5 miles of parking areas along secondary roads. Footing can be slippery on bank slopes and stream edges; sturdy waterproof hiking boots strongly recommended.",
+  "best_season": "May - September. Water levels drop in late spring and early summer, exposing stream beds and gravel bars. Late summer offers the driest conditions and best access to previously underwater collecting areas. Avoid winter months (November - March) when seasonal flooding obscures exposures and creates unsafe stream crossings.",
+  "written_directions": "From Lebam town center, take WA-6 east toward Chehalis approximately 2-3 miles. Look for secondary roads heading north or south toward the Willapa River drainage. Access points near Lebam include pullouts along county roads near visible stream cuts and gravel bars. GPS navigation recommended; cell service is spotty in this region. Confirm land access and obtain permission before collecting on private property.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Secondary county roads in good condition during dry season. May be rutted or muddy during winter and spring. High-clearance not required for main access roads.",
+  "parking_notes": "Limited pullouts along county roads near stream access points. No designated parking lot. Park safely off-road and respect private property boundaries.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collect on public land and with documented permission on private property only. Personal use collection for agate, chalcedony, and petrified wood is permitted. Do not collect protected or endangered species or remove rocks from active mining claims. Respect all posted 'No Trespassing' signs.",
+  "quantity_limits": null,
+  "rules": "Collect on public access areas or private land with owner permission\nPersonal use only - no commercial collection\nDo not damage stream banks or remove specimens from active mining claims\nPack out all equipment and waste materials\nRespect seasonal water levels and access restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "flash_floods",
+    "sharp_material",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Lebam (town center) approximately 2-3 miles; limited services. Chehalis, WA approximately 25 miles east with full amenities including gas, food, and lodging. Bring water and supplies.",
+  "accessibility_notes": "Relatively flat terrain with easy walking to most stream access points. Unpaved secondary roads and muddy approaches may challenge mobility-limited visitors. No wheelchair-accessible parking or designated accessible trails, but low overall elevation and minimal slope make this site more accessible than mountainous alternatives. Waterproof footwear essential due to stream crossings and wet ground.",
+  "alternative_names": [],
+  "nearest_city": "Chehalis",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/lebam-wa/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/lebam-wa/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/lebam-wa/mineral-2-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/lebam-wa/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Lebam, Washington?",
+      "answer": "The Lebam area near Pacific County is known for agate, chalcedony, and petrified wood. Agate nodules with banding and waxy luster are most prized; chalcedony pieces in white, gray, and brown are equally abundant. Specimens typically range from small nodules to 3-4 inch pieces. Search stream beds and gravel bars, especially after spring runoff exposes fresh material."
+    },
+    {
+      "question": "Is rockhounding near Lebam free, or do I need a permit?",
+      "answer": "Rockhounding near Lebam is free on public land with no permit required for personal use collection. However, much productive land near Lebam is privately owned. Always obtain written permission from landowners before collecting. Check with Pacific County or local rockhounding clubs for designated public-access areas."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Lebam, Washington?",
+      "answer": "The best season is May through September when water levels drop and stream beds are exposed. Late summer (August - September) offers the driest conditions and safest access. Avoid winter (November - March) when seasonal flooding obscures collecting areas and creates unsafe stream crossings and slippery terrain."
+    },
+    {
+      "question": "Can I bring my dog rockhounding near Lebam?",
+      "answer": "Yes, dogs are generally welcome on public lands and accessible areas near Lebam. However, keep dogs under control near water and stream banks where flash flood hazards exist. Always respect private property where you are collecting and follow the landowner's pet policies."
+    },
+    {
+      "question": "What tools and gear do I need to rockhound at Lebam?",
+      "answer": "Bring a rock hammer, cold chisel, and collection bags for specimens. Sturdy waterproof hiking boots are essential due to muddy approaches and stream crossings. Pack a handheld GPS or use offline maps since cell service is spotty. Bring drinking water, sun protection, and a first aid kit. A classifier or mesh screen helps process stream gravels efficiently."
+    },
+    {
+      "question": "Is Lebam rockhounding suitable for beginners and kids?",
+      "answer": "Yes, Lebam is highly beginner-friendly. The flat terrain, easy-to-identify agate and chalcedony specimens, and accessible stream collecting make it ideal for kids ages 6 and up. No technical climbing or expert geology knowledge required. Teach children water safety around streams and flooding risks, and always supervise young rockhounders."
+    }
+  ],
+  "meta_title": "Lebam Rockhounding - Find Agate & Chalcedony, Washington",
+  "meta_description": "Rockhound agate, chalcedony, and petrified wood at Lebam, Washington. Free public access, beginner-friendly collecting in Pacific County stream beds and gravel bars.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "nearest_city",
+    "faq_answers",
+    "collection_rules",
+    "land_ownership_confirmation"
+  ],
+  "enriched_at": "2026-04-22T09:27:20.342Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T09:30:30.130Z"
+}

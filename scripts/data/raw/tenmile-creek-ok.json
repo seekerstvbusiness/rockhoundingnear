@@ -1,0 +1,57 @@
+{
+  "slug": "tenmile-creek-ok",
+  "name": "Tenmile Creek",
+  "lat": 34.373234,
+  "lng": -95.743927,
+  "state": "Oklahoma",
+  "state_slug": "oklahoma",
+  "state_code": "OK",
+  "city": "Pushmataha County",
+  "city_slug": "pushmataha-county",
+  "county": "Pushmataha",
+  "county_slug": "pushmataha",
+  "geocoded_city": "Pushmataha County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oklahoma.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Tenmile%20Creek%20Oklahoma"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Tenmile%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Tenmile%20Creek%20Oklahoma"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:07:51.645Z"
+  },
+  "scraped_at": "2026-04-21T17:07:51.645Z",
+  "scrape_quality": "minimal"
+}

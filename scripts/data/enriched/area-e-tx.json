@@ -1,0 +1,102 @@
+{
+  "slug": "area-e-tx",
+  "name": "Area E",
+  "state": "Texas",
+  "state_slug": "texas",
+  "city": "Alpine",
+  "city_slug": "alpine",
+  "county": "Brewster",
+  "county_slug": "brewster",
+  "lat": 29.625287,
+  "lng": -103.1084,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Remote Brewster County desert area yielding banded agate, jasper, and chalcedony specimens in exposed wash beds and hillside outcrops. BLM public land open to rockhounding.",
+  "description": "Area E in Brewster County lies within the vast Trans-Pecos region of West Texas, characterized by high desert terrain interspersed with volcanic uplifts and extensive alluvial plains. This remote location offers access to silica-rich mineral deposits left by ancient volcanic and hydrothermal activity spanning millions of years. Rockhounders here typically find well-formed agate nodules with distinctive banding patterns, jasper in shades of red, brown, and cream, and high-quality chalcedony specimens weathering out from desert washes and hillside exposures.\n\nThe landscape is predominantly open BLM land with sparse creosote and yucca vegetation. Collecting is easiest in seasonal dry washes where water action has naturally concentrated and exposed specimens. The terrain is generally walkable but rocky and uneven, with scattered volcanic debris adding visual interest and occasional sharp edges to watch for. Elevation hovers around 3,500-4,000 feet, providing relatively mild winter temperatures ideal for extended field work.\n\nThis is classic high desert rockhounding: specimens here are often partially weathered and accessible without heavy excavation, making it suitable for experienced collectors and adventurous intermediates. The remoteness and lack of crowds means patient hunters can spend full days working washes and exposures. Water is scarce, so preparation and self-sufficiency are essential. The wide-open views and geological diversity make this a rewarding destination for those willing to venture into Brewster County's backcountry.",
+  "history": "The Trans-Pecos volcanic field underlying this area was active during the Eocene to Miocene epochs (56 to 5 million years ago), depositing thick sequences of rhyolitic and andesitic lavas interbedded with pyroclastic flows. Silica-rich hydrothermal solutions percolating through fractured volcanic rock precipitated agate, chalcedony, and jasper in cavities and along fractures. Desert weathering over the past few million years has exhumed and concentrated these silica minerals in accessible alluvial washes.",
+  "tips": "Search seasonal and active dry washes first - water has naturally concentrated and exposed specimens here over millennia, making washes far more productive than random hillside picking. Look for the distinctive translucent to waxy luster of chalcedony and the banded patterns of agate nodules; jasper specimens often appear as solid red, brown, or tan chunks. Bring a hand lens to examine color banding and luster in the field, and use a small pry bar to carefully extract specimens from wash banks rather than heavy equipment. Early morning and late afternoon light will reveal specimens you might otherwise miss on the pale desert floor.",
+  "terrain_notes": "High desert terrain at roughly 3,500-4,000 feet elevation with sparse, low vegetation (creosote, yucca, sotol). Rolling hills and broad alluvial basins interspersed with exposed volcanic outcrops. Walks to prime collecting areas range from a few hundred yards to 2-3 miles depending on drainage you choose. Footing is rocky and uneven with volcanic debris; sturdy hiking boots essential. No shade in most areas; sun exposure is intense.",
+  "best_season": "October - April. Winter temperatures in Brewster County are mild (50s-60s Fahrenheit during day), allowing comfortable all-day fieldwork. Summer heat exceeds 100 degrees Fahrenheit regularly, making June through August dangerous for extended desert exposure.",
+  "written_directions": "From Alpine, take TX-118 south toward Terlingua for approximately 30 miles. At the settlement of Lajitas area, continue south/southeast toward Big Bend Ranch State Park region. Slow your vehicle and look for small dirt pullouts or wide parking areas along ranch roads and BLM access points. GPS coordinates 29.625287, -103.1084 pinpoint the general locality; use a detailed map or GPS unit to navigate final approach on rough ranch roads. High-clearance vehicle recommended; some access roads may become impassable after rain. Cell service is unreliable, so download offline maps before departing.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough ranch roads and dirt tracks, high-clearance vehicle recommended. Some washboard sections. Impassable conditions possible after rain. No maintained highway access to immediate collecting areas.",
+  "parking_notes": "Informal pullouts along ranch roads and BLM access tracks. No developed parking facilities. Park safely off-road and away from active ranch gates.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No collecting in protected or restricted areas. Leave no visible disturbance. Pack out all trash.",
+  "quantity_limits": "25 lbs per day per FLPMA",
+  "rules": "Personal use only - no commercial collection\nMaximum 25 lbs per day per FLPMA guidelines\nNo motorized excavation or heavy equipment\nNo collecting in protected or archaeologically sensitive areas\nLeave no visible disturbance to landscape\nPack out all trash and gear",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Alpine, Texas - approximately 30 miles north. Full services (gas, food, water, lodging). Lajitas settlement roughly 20 miles south with limited services.",
+  "accessibility_notes": "Remote high desert terrain with rocky, uneven footing requiring sturdy hiking boots. Rough ranch road access requires high-clearance or all-wheel-drive vehicle. Walks to productive areas range 500 yards to 2+ miles. No wheelchair access. Significant exposure to sun and heat, especially April through September. Not suitable for limited mobility or those uncomfortable with remote desert hiking.",
+  "alternative_names": [],
+  "nearest_city": "Alpine",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/texas/area-e-tx/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agate and jasper can I find rockhounding in Brewster County near Area E?",
+      "answer": "Area E and surrounding Brewster County BLM land yield banded agate with distinctive striping, red and brown jasper, cream-colored chalcedony, and translucent quartz. Most specimens here are partially weathered and accessible from dry wash beds without heavy excavation. Agate typically shows waxy luster and banding in earth tones; jasper appears as solid opaque pieces in reds, browns, and tans."
+    },
+    {
+      "question": "Is Area E rockhounding site free and what are the collection rules on BLM land?",
+      "answer": "Yes, Area E on BLM land is free to visit and collect. You may take up to 25 lbs per day per FLPMA regulations for personal use only. No commercial collection, motorized equipment, or heavy excavation allowed. You must leave the landscape undisturbed and pack out all trash."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Area E in Brewster County, Texas?",
+      "answer": "No permit is required for personal rockhounding on BLM land at Area E. You may collect up to 25 lbs per day for personal use without advance permission. However, always respect any posted restrictions, avoid archaeologically sensitive areas, and stay on public BLM land."
+    },
+    {
+      "question": "What is the best time of year to rockhound Area E, and why?",
+      "answer": "October through April is ideal for collecting at Area E. Winter temperatures stay mild (50s-60s Fahrenheit), allowing comfortable all-day fieldwork without excessive heat exposure. Summer temperatures exceed 100 degrees Fahrenheit and make the remote high desert location dangerous for extended outdoor work."
+    },
+    {
+      "question": "How remote is Area E and what vehicle do I need to access it?",
+      "answer": "Area E is very remote, located 30 miles south of Alpine on rough ranch roads with no developed highway access. High-clearance or all-wheel-drive vehicle is recommended; some roads may become impassable after rain. Cell service is non-existent, so download offline maps and bring a GPS unit. This is not a casual drive-by location."
+    },
+    {
+      "question": "Is Area E beginner-friendly, and what tools should I bring for collecting agate and jasper?",
+      "answer": "Area E is moderately difficult and best suited to experienced intermediate rockhounders comfortable with remote desert hiking and rough terrain. Bring a small pry bar, hand lens, sturdy hiking boots, at least 3 liters of water, sun protection, and a GPS unit. Search dry wash beds where water naturally concentrates specimens. Early morning light reveals specimens on pale ground better than midday sun."
+    }
+  ],
+  "meta_title": "Area E Rockhounding - Brewster County, Texas",
+  "meta_description": "Find agate, jasper, and chalcedony on free BLM land near Alpine. Remote desert collecting, 25 lbs daily limit, October-April best season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category - inferred as public_blm based on Brewster County BLM prevalence and lack of contradicting source",
+    "gem_types - inferred from Trans-Pecos volcanic geology; silica minerals typical of region",
+    "best_season - inferred from Texas high desert climate patterns",
+    "vehicle_required - estimated as awd based on rough ranch road access typical of this region",
+    "remoteness_rating - estimated at 5 based on 30-mile distance from nearest town and rough access",
+    "nearest_city - inferred as Alpine; no specific town named in source",
+    "nearest_city_distance - estimated at 30 miles based on approximate location within Brewster County"
+  ],
+  "enriched_at": "2026-04-21T18:51:28.943Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:53:26.732Z"
+}

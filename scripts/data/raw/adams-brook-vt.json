@@ -1,0 +1,60 @@
+{
+  "slug": "adams-brook-vt",
+  "name": "Adams Brook",
+  "lat": 42.950774,
+  "lng": -72.758166,
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "state_code": "VT",
+  "city": "Newfane",
+  "city_slug": "newfane",
+  "county": "Windham",
+  "county_slug": "windham",
+  "geocoded_city": "Newfane",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-vermont.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Adams%20Brook%20Vermont"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Adams%20Brook",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Adams%20Brook%20Vermont"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 969,
+      "meters": 295
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:07:24.074Z"
+  },
+  "scraped_at": "2026-04-21T17:07:24.074Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "tongue-river-nd",
+  "name": "Tongue River",
+  "lat": 48.739915,
+  "lng": -97.931848,
+  "state": "North Dakota",
+  "state_slug": "north-dakota",
+  "state_code": "ND",
+  "city": "Pembina County",
+  "city_slug": "pembina-county",
+  "county": "Pembina",
+  "county_slug": "pembina",
+  "geocoded_city": "Concrete",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Tongue%20River%20North%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Tongue%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Tongue%20River%20North%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1154,
+      "meters": 352
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:37:39.158Z"
+  },
+  "scraped_at": "2026-04-21T16:37:39.159Z",
+  "scrape_quality": "minimal"
+}

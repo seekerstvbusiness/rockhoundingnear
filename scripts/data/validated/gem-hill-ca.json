@@ -1,0 +1,94 @@
+{
+  "slug": "gem-hill-ca",
+  "name": "Gem Hill",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Bakersfield",
+  "city_slug": "bakersfield",
+  "county": "Kern",
+  "county_slug": "kern",
+  "lat": 34.924904,
+  "lng": -118.221817,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper"
+  ],
+  "short_description": "BLM rockhounding site near Bakersfield featuring quartz, chalcedony, and colorful jasper specimens. Free personal use collecting with a 25 lb daily limit on gentle terrain.",
+  "description": "Gem Hill is a public BLM rockhounding destination in Kern County offering accessible collecting for quartz-based minerals and jasper specimens. Located at 2986 feet elevation with gentle slopes, the site appeals to both beginners and experienced rockhounds seeking California desert minerals without permit requirements.\n\nThe geology of this area reflects the southern Sierra Nevada foothills and Kern County's rich mineral deposits. Miocene-era volcanic activity and subsequent weathering created quartz-rich outcrops and scattered chalcedony nodules characteristic of the California desert ranges. Jasper deposits formed from silica-rich hydrothermal fluids, resulting in the colorful specimens commonly found on Gem Hill's surface.\n\nCollecting here requires no special permits - simply follow BLM personal use guidelines and respect the 25 pound daily limit. The gentle slope makes walking and material sorting straightforward, though the desert terrain demands sun protection and adequate water. Most collectors spend 2-4 hours exploring the hillside and adjacent washes where specimens weather naturally from surrounding outcrops.\n\nThe site's proximity to Bakersfield and well-established BLM access make it ideal for day trips. Surface collecting dominates here - look along the gentle slopes and wash bottoms where quartz fragments and jasper pieces accumulate. The spring and fall seasons offer the most comfortable collecting conditions in this high desert region.",
+  "history": "Gem Hill sits within the southern Sierra Nevada foothills where Miocene-era volcanic and hydrothermal activity deposited silica-rich minerals that crystallized into quartz, chalcedony, and jasper formations. The site's accessible surface specimens result from centuries of weathering and erosion that naturally expose colorful mineral material without requiring excavation.",
+  "tips": "Search the gentle slopes and wash bottoms where lighter-colored quartz fragments and jasper pieces naturally accumulate - focus on areas with exposed outcrops. Bring a 5-gallon bucket and hand shovel to maximize your 25-pound daily allowance; most specimens here are hand-sized or smaller. Look for translucent chalcedony nodules and banded jasper showing reds, yellows, and browns - these tend to catch light and stand out on sandy soil.",
+  "terrain_notes": "Gem Hill sits at 2986 feet elevation on gentle slopes with typical high desert vegetation including scattered scrub and desert brush. Terrain is open and accessible with sandy to rocky footing. Walking distance from parking to main collecting areas is typically less than half mile. No significant elevation gain required.",
+  "best_season": "October - April. This high desert location experiences extreme summer heat above 100 degrees Fahrenheit, making spring and fall the ideal collecting windows. Winter months offer cool comfortable conditions, though occasional rain can muddy wash areas.",
+  "written_directions": "From Bakersfield, take California State Route 178 east toward Lake Isabella approximately 30 miles. Look for BLM access points and informal parking areas on the north side of the highway near mile marker 18-20, in the vicinity of Gem Hill. Exact access roads may be unmarked dirt pullouts - use GPS coordinates 34.924904, -118.221817 for precise navigation. High clearance passenger vehicles can navigate most approach roads during dry conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved dirt roads and pullouts; generally passable for passenger vehicles in dry conditions. High clearance recommended. Road conditions may deteriorate after rain or seasonal storms.",
+  "parking_notes": "Informal BLM pullouts and parking areas near the site. No developed parking lot. Space available for multiple vehicles. Park well off active roads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or mechanical equipment. Respect all BLM closure signs and stay on designated routes where present.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or mechanical tools\nNo motor vehicles off designated roads\nRespect all BLM signage and closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote"
+  ],
+  "nearest_services": "Bakersfield, approximately 30 miles west. Full services including gas, food, and water available. No services near the site itself.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers and collectors of varying mobility levels. Unpaved dirt access roads and parking areas. Sturdy footwear recommended for walking on rocky soil, but no significant climbing or scrambling required. Open desert with minimal shade - sun exposure can be intense.",
+  "alternative_names": [],
+  "nearest_city": "Bakersfield",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/gem-hill-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Gem Hill near Bakersfield?",
+      "answer": "Gem Hill is known for quartz, chalcedony, agate, and colorful jasper specimens. Most finds are hand-sized or smaller pieces with translucent chalcedony nodules and banded jasper showing reds, yellows, and browns. Surface collecting yields the best specimens without requiring excavation."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Gem Hill in California?",
+      "answer": "No permit is required for recreational rockhounding at Gem Hill - it is open BLM land. You only need to follow California's personal use collection rules: maximum 25 pounds per day, no commercial collection, and no motorized excavation."
+    },
+    {
+      "question": "How far is Gem Hill rockhounding from Bakersfield, and is it a good day trip?",
+      "answer": "Gem Hill is approximately 30 miles east of Bakersfield via State Route 178, making it ideal for a day trip. Most collectors spend 2-4 hours on site exploring the gentle slopes and wash areas. The short drive and accessible terrain make it perfect for weekend rockhounding."
+    },
+    {
+      "question": "What is the best time of year to rockhound for quartz and jasper at Gem Hill?",
+      "answer": "October through April is ideal at Gem Hill. Summer temperatures exceed 100 degrees Fahrenheit, making conditions dangerous. Spring and fall offer comfortable weather, while winter provides cool collecting conditions. Avoid the hottest months of June through September."
+    },
+    {
+      "question": "Is Gem Hill beginner-friendly for rockhounding, and can I bring my family?",
+      "answer": "Yes - Gem Hill is beginner-friendly with easy-access gentle slopes requiring no permits or special equipment. The open terrain and surface-level specimens make it suitable for families and children ages 6+. Dogs are also welcome on this public BLM land."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Gem Hill near Kern County?",
+      "answer": "Bring a 5-gallon bucket, hand shovel, and screening tools to maximize your 25-pound daily limit. Sturdy boots, sunscreen, hat, and at least one gallon of water per person are essential for the desert environment. A GPS device or smartphone with offline maps helps locate the site accurately."
+    }
+  ],
+  "meta_title": "Gem Hill Rockhounding - Kern County, California",
+  "meta_description": "Free BLM rockhounding near Bakersfield. Find quartz, chalcedony, agate, and jasper. No permit needed, 25 lb daily limit. Easy terrain, family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_services details",
+    "exact road condition specifics",
+    "cell service coverage confirmation"
+  ],
+  "enriched_at": "2026-04-21T19:33:22.427Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:36:48.334Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "doniphan-mo",
+  "name": "Doniphan",
+  "lat": 36.639193,
+  "lng": -90.77826,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Ripley County",
+  "city_slug": "ripley-county",
+  "county": "Ripley",
+  "county_slug": "ripley",
+  "geocoded_city": "Ripley County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Doniphan%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Doniphan",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Doniphan%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 528,
+      "meters": 161
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:15:54.623Z"
+  },
+  "scraped_at": "2026-04-21T19:15:54.623Z",
+  "scrape_quality": "minimal"
+}

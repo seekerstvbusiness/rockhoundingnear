@@ -1,0 +1,57 @@
+{
+  "slug": "dahl-creek-ak",
+  "name": "Dahl Creek",
+  "lat": 66.955443,
+  "lng": -156.889281,
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "state_code": "AK",
+  "city": "Kobuk",
+  "city_slug": "kobuk",
+  "county": "Northwest Arctic Borough",
+  "county_slug": "northwest-arctic-borough",
+  "geocoded_city": "Kobuk",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-alaska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Dahl%20Creek%20Alaska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Dahl%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Dahl%20Creek%20Alaska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:21:17.895Z"
+  },
+  "scraped_at": "2026-04-21T18:21:17.895Z",
+  "scrape_quality": "minimal"
+}

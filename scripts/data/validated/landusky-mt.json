@@ -1,0 +1,101 @@
+{
+  "slug": "landusky-mt",
+  "name": "Landusky",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Phillips County Area",
+  "city_slug": "phillips-county",
+  "county": "Phillips",
+  "county_slug": "phillips",
+  "lat": 47.915404,
+  "lng": -108.61265,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land rockhounding in the remote northern Montana high plains. Search for agate, jasper, and quartz specimens across rolling sagebrush terrain at 5420 ft elevation.",
+  "description": "Landusky sits on Montana BLM land in Phillips County, part of the vast northern Montana high plains region. This is classic Basin and Range geology where ancient volcanic activity and sedimentary deposits have exposed secondary minerals throughout the landscape. The terrain is characterized by rolling hills covered in sagebrush with scattered rock outcrops and dry washes that periodically yield specimens.\n\nThe area is particularly known for agate and jasper finds, often discovered in the form of nodules and weathered pieces scattered across hillsides and in ancient stream channels. Quartz in various forms and chalcedony specimens are also common finds here. The high elevation and semi-arid climate mean that winter snow and spring runoff help expose fresh material annually.\n\nThis is remote rockhounding country - far from major towns and services. The landscape is open and relatively accessible, making it suitable for determined rockhounders willing to invest time hiking hillsides and exploring washes. There are no facilities at the site itself, so come prepared with water, tools, and a clear understanding of BLM collection rules.\n\nThe best approach is to park at any suitable pullout along the backcountry roads and systematically search surrounding terrain. Walk hillsides looking for color contrasts in the sagebrush, check dry washes for rounded specimens, and examine exposed rock faces for nodules. The key to success here is patience and a willingness to cover ground.",
+  "history": "The Landusky area sits within the northern Rocky Mountain zone where Cretaceous and Tertiary sedimentary and volcanic sequences were uplifted and fractured during Laramide orogeny. Secondary mineral deposits formed in fractures and nodules as groundwater percolated through these rocks over millions of years, creating the agate and jasper occurrences found here today. This remote region saw limited prospecting activity compared to Montana's major mining districts, though ranchers and early settlers occasionally collected attractive specimens.",
+  "tips": "Search along dry washes and gullies where water erosion concentrates heavier specimens - these natural pathways often reveal more material than flat terrain. Look for subtle color differences in the sagebrush - agates and jaspers often display warm reds, oranges, and tans that stand out against gray soil. Bring sturdy boots with good traction since hillsides can be steep and rocky; a walking stick helps on loose terrain. Plan to spend 4-6 hours on site as this is scatter collecting - success comes from systematic searching rather than spot-digging.",
+  "terrain_notes": "Rolling high plains terrain at 5420 ft elevation covered primarily in sagebrush with scattered rock outcrops. Slopes range from gentle to moderately steep. Footing is uneven with loose rocks and small boulders common. No established trails - you navigate cross-country across open BLM land. Parking areas are informal pullouts along backcountry roads. Typical hiking distances from parking to productive searching areas are 1-3 miles depending on where you park.",
+  "best_season": "April - October, with peak conditions in May, June, and September. Winter (November-March) brings snow at this elevation and makes terrain dangerous. Spring runoff helps expose fresh material but can create wet, muddy conditions. Early fall offers stable weather and good visibility for spotting specimens.",
+  "written_directions": "From Phillips (approximately 35 miles south), take Montana Highway 191 east toward Landusky. Continue through Landusky town area and head east on local county/ranch roads into the BLM lands. The exact access varies depending on which section you target - the Landusky area encompasses multiple BLM parcels. Look for any suitable pullout along the ranch roads where you can safely park off the road surface. Use a detailed Montana BLM map or GPS to identify public land sections, as checkerboard private/public land ownership requires careful navigation. From Phillips to active rockhounding areas is roughly 45-60 minutes of driving plus hiking.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough unpaved ranch roads, high clearance recommended. Some washboard and possible seasonal mud. Passenger vehicles can access general area but 4x4 better for deep exploration of remote sections.",
+  "parking_notes": "Informal pullouts along backcountry roads. No developed parking area or facilities. Park only in safe, legal locations off the road surface.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. No digging on private land - stay within BLM boundaries. Rockhounds must follow Montana BLM recreational collection guidelines.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nStay on BLM land only - respect private property boundaries\nNo heavy equipment or mechanical digging",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "remote",
+    "wildlife",
+    "cold",
+    "heat",
+    "loose_rock"
+  ],
+  "nearest_services": "Phillips, Montana approximately 40 miles west - gas, food, and basic supplies available. Prepare fully before leaving town as no services exist in the Landusky area.",
+  "accessibility_notes": "Uneven and sometimes steep sagebrush-covered terrain with loose rocks and scattered boulders. No wheelchair accessibility. Requires sturdy hiking boots and moderate fitness level for cross-country hiking over rolling hills. Typical search patterns involve 1-3 miles of walking at variable elevation. Not suitable for those with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Phillips",
+  "nearest_city_distance": 40,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/landusky-mt/cover.png",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/landusky-mt/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of gemstones can you find rockhounding near Landusky, Montana?",
+      "answer": "The Landusky BLM area is known for agate, jasper, quartz, and chalcedony. Agates are the most prized finds here, often appearing as nodules in tan, red, and orange varieties. Jasper is commonly found as small to medium specimens scattered across hillsides. Quartz occurs in various forms including clear and milky varieties."
+    },
+    {
+      "question": "Is there a permit required for rockhounding at Landusky BLM land?",
+      "answer": "No permit is required for recreational rockhounding on Montana BLM land at Landusky. This is public land open for personal use collection. You do not need to register or obtain permission, but you must follow the 25 lb per day collection limit and other FLPMA regulations."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Landusky?",
+      "answer": "The best season is April through October, with peak conditions in May, June, and September. Winter brings snow at the 5420 ft elevation and hazardous terrain. Spring runoff in April and May helps expose fresh specimens but can create muddy conditions. Early fall offers stable weather and excellent visibility."
+    },
+    {
+      "question": "How far is Landusky rockhounding from Phillips, Montana?",
+      "answer": "Landusky is approximately 40 miles east of Phillips, requiring about 45 to 60 minutes of driving to reach productive rockhounding areas. Phillips is the nearest town with gas, food, and supplies. Plan to prepare fully in Phillips before heading out, as there are no services in the remote Landusky area."
+    },
+    {
+      "question": "Can you bring your dog rockhounding at Landusky Montana?",
+      "answer": "Yes, dogs are allowed on Montana BLM land at Landusky. The open terrain and public access make it dog-friendly, though be prepared for remote conditions with limited water sources. Bring plenty of water for your dog and watch for wildlife like snakes and larger animals common to the high plains."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding at Landusky?",
+      "answer": "Essential supplies include sturdy hiking boots, a hat, sunscreen, and plenty of water - at least 2-3 liters per person. Bring basic rockhounding tools like a small pry bar or rock hammer, collection bags, and a GPS device or detailed BLM map to stay on public land. A walking stick helps navigate steep terrain. Plan for 4-6 hours of searching as success comes from covering ground systematically."
+    }
+  ],
+  "meta_title": "Landusky Rockhounding - Montana BLM Public Land",
+  "meta_description": "Find agate, jasper, and quartz at Landusky Montana BLM land. Free public rockhounding, 25 lb daily limit, 40 miles from Phillips. No permit needed.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes",
+    "remoteness_rating"
+  ],
+  "enriched_at": "2026-04-21T19:07:58.397Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:11:52.052Z"
+}

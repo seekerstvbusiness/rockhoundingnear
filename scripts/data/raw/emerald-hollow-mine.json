@@ -1,0 +1,91 @@
+{
+  "slug": "emerald-hollow-mine",
+  "name": "Emerald Hollow Mine",
+  "lat": 35.9087,
+  "lng": -81.0923,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Taylorsville",
+  "city_slug": "taylorsville",
+  "county": "Alexander",
+  "county_slug": "alexander",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/north-carolina/emerald-hollow-mine"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Emerald%20Hollow%20Mine%20North%20Carolina&country=US"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Emerald%20Hollow%20Mine",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Emerald%20Hollow%20Mine%20North%20Carolina"
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1136,
+      "meters": 346
+    },
+    "slope": "gentle slope",
+    "nearest_city": {
+      "name": "North Wilkesboro",
+      "distance_mi": 18,
+      "population": 4184
+    },
+    "roads": [
+      {
+        "name": "East Main Avenue",
+        "ref": "NC 90",
+        "type": "secondary",
+        "dist": 4.7
+      },
+      {
+        "name": "3rd Street Southwest",
+        "ref": "NC 16",
+        "type": "secondary",
+        "dist": 4.8
+      },
+      {
+        "name": "West Main Avenue",
+        "ref": "NC 90",
+        "type": "secondary",
+        "dist": 4.8
+      },
+      {
+        "name": "West Main Avenue",
+        "ref": "NC 90",
+        "type": "secondary",
+        "dist": 5.5
+      }
+    ],
+    "water_features": [
+      {
+        "name": "Miller Creek",
+        "type": "stream",
+        "dist": 2.5
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T05:37:14.086Z"
+  },
+  "scraped_at": "2026-04-21T05:37:14.088Z",
+  "scrape_quality": "minimal"
+}

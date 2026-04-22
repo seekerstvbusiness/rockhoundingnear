@@ -1,0 +1,60 @@
+{
+  "slug": "tahlequah-ok",
+  "name": "Tahlequah",
+  "lat": 35.92608,
+  "lng": -94.927272,
+  "state": "Oklahoma",
+  "state_slug": "oklahoma",
+  "state_code": "OK",
+  "city": "Cherokee County",
+  "city_slug": "cherokee-county",
+  "county": "Cherokee",
+  "county_slug": "cherokee",
+  "geocoded_city": "Cherokee County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oklahoma.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Tahlequah%20Oklahoma"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Tahlequah",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Tahlequah%20Oklahoma"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 713,
+      "meters": 217
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:09:53.486Z"
+  },
+  "scraped_at": "2026-04-21T17:09:53.486Z",
+  "scrape_quality": "minimal"
+}

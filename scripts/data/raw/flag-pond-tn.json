@@ -1,0 +1,60 @@
+{
+  "slug": "flag-pond-tn",
+  "name": "Flag Pond",
+  "lat": 36.016426,
+  "lng": -82.547902,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Unicoi County",
+  "city_slug": "unicoi-county",
+  "county": "Unicoi",
+  "county_slug": "unicoi",
+  "geocoded_city": "Harris Mill",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Flag%20Pond%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Flag%20Pond",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Flag%20Pond%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2537,
+      "meters": 773
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:35:23.504Z"
+  },
+  "scraped_at": "2026-04-21T18:35:23.504Z",
+  "scrape_quality": "minimal"
+}

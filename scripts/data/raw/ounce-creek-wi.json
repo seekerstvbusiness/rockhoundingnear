@@ -1,0 +1,60 @@
+{
+  "slug": "ounce-creek-wi",
+  "name": "Ounce Creek",
+  "lat": 46.219211,
+  "lng": -91.564044,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Town of Wascott",
+  "city_slug": "town-of-wascott",
+  "county": "Douglas",
+  "county_slug": "douglas",
+  "geocoded_city": "Town of Wascott",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ounce%20Creek%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ounce%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ounce%20Creek%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1191,
+      "meters": 363
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:10:05.543Z"
+  },
+  "scraped_at": "2026-04-21T18:10:05.543Z",
+  "scrape_quality": "minimal"
+}

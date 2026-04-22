@@ -1,0 +1,70 @@
+{
+  "slug": "horse-mt-west-side-ca",
+  "name": "Horse Mt (West Side)",
+  "lat": 40.873474,
+  "lng": -123.743245,
+  "state": "California",
+  "state_slug": "california",
+  "state_code": "CA",
+  "city": "Humboldt County",
+  "city_slug": "humboldt-county",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "geocoded_city": "Humboldt County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-california.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Horse%20Mt%20(West%20Side)%20California"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Horse%20Mt%20(West%20Side)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Horse%20Mt%20(West%20Side)%20California"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4380,
+      "meters": 1335
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": [
+      {
+        "name": "Six Rivers National Forest",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-21T19:08:45.579Z"
+  },
+  "scraped_at": "2026-04-21T19:08:45.579Z",
+  "scrape_quality": "partial"
+}

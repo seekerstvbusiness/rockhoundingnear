@@ -1,0 +1,103 @@
+{
+  "slug": "bristol-bay-ak",
+  "name": "Bristol Bay",
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "city": "Dillingham",
+  "city_slug": "dillingham",
+  "county": "Unorganized Borough",
+  "county_slug": "unorganized-borough",
+  "lat": 59.114273,
+  "lng": -158.512999,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Remote coastal rockhounding in southwestern Alaska. Find agates, jasper, and quartz specimens along Bristol Bay's tidal flats and beach gravels. Challenging access rewards patient collectors.",
+  "description": "Bristol Bay lies in the Kvichak district of southwestern Alaska, a region rich in Tertiary volcanic and sedimentary deposits. The bay's shoreline and tidal flats expose gemstone materials that have weathered from inland volcanic hills and been transported by streams into coastal gravels. Collectors here focus on agate and jasper specimens tumbled by wave action, often discovered among colorful beach pebbles during low tide.\n\nThe geology of this region reflects the Aleutian volcanic arc and Basin and Range extension that created silica-rich formations during the Tertiary period. Hydrothermal activity deposited chalcedony, agate, and jasper in veins and nodules throughout the surrounding bedrock. Millions of years of erosion and transport via glacial meltwater and tidal action have concentrated these gemstones into accessible coastal deposits.\n\nAccess to Bristol Bay rockhounding is extremely limited and requires either a boat or floatplane from Dillingham. The area is largely wilderness, with no roads connecting to the bay itself. Collectors must be self-sufficient, experienced in remote Alaska travel, and prepared for extreme weather and wildlife encounters. Most rockhounding occurs along accessible beaches during summer months when tidal conditions and weather permit exploration.\n\nThis is a destination for experienced rockhounders and adventurers only. The combination of remote access, unpredictable weather, and wildlife presence makes casual collection impractical. Specimens found here are valued for their rarity and the unique challenge of obtaining them from Alaska's remote coast.",
+  "history": "Bristol Bay's geology reflects the Tertiary volcanic activity that created the Aleutian arc some 50 to 20 million years ago. Silica-rich fluids circulating through fractures in volcanic rocks deposited agate, jasper, and chalcedony nodules that today erode from hillsides and concentrate in coastal gravels transported by streams and tidal action into the bay.",
+  "tips": "Search the upper beach zone above normal high tide during low tide cycles, where wave action concentrates heavier gemstone gravels. Look for translucent and banded agate specimens, often tan, red, or cream colored, mixed with jasper pieces showing red, brown, or green tones. Bring a classifier or fine-mesh screen to sift through loose beach material efficiently. Specimens vary from small pebbles to fist-sized pieces depending on tide and season.",
+  "terrain_notes": "Elevation 9 feet with flat to gently sloping coastal terrain. Tidal mudflats, gravel beaches, and scattered bedrock outcrops compose the landscape. Walking distance from boat landing or floatplane beach varies depending on landing site; typically 0.5 to 3 miles along shoreline. Footing is uneven: soft mud and sand in lower zones, coarse gravel on beaches, occasionally slippery. Vegetation is sparse coastal tundra with low shrubs and grass. Extreme exposure to wind and ocean swells.",
+  "best_season": "June - August. Winter brings darkness, extreme cold, and dangerous sea conditions. Spring and fall have unpredictable weather and limited sea access. Summer provides 18-20 hour daylight, relatively stable weather, open tidal windows, and floatplane availability.",
+  "written_directions": "From Dillingham airport, arrange charter floatplane or boat transportation. Most floatplane operators depart from the Dillingham area and fly to remote beach landing sites along Bristol Bay, typically 30-90 minutes flight time depending on destination within the bay. No road access exists; water or air transport is mandatory. Coordinate with local guides familiar with tidal conditions and safe landing zones.",
+  "directions": null,
+  "difficulty": "expert",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": null,
+  "parking_notes": "No traditional parking. Floatplane beach landings or boat anchorages serve as access points. Tidal flats provide temporary landing zones; conditions change daily with tide cycles.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collection on public lands and tidal areas is generally permitted for personal use under Alaska's general rockhounding guidelines. Respect private property if accessed near settlements. Do not disturb archaeological sites, Native heritage areas, or wildlife. Check with Bristol Bay Area Council or local guide services for current access advisories and seasonal restrictions related to fishing, wildlife viewing, or land claims. Pack out all non-natural material.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only. Respect private property boundaries. Do not disturb archaeological or cultural sites. Avoid active wildlife areas, especially during salmon runs and bear activity peaks. Pack out all trash. Adhere to float plane or boat operator guidelines.",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "flash_floods",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Dillingham, approximately 30-90 minutes by floatplane or 50-150 miles by water depending on bay location. Dillingham has gas, food, lodging, and floatplane charter services.",
+  "accessibility_notes": "Bristol Bay rockhounding requires expert-level outdoor skills and remote wilderness experience. Terrain is uneven tidal flats, gravel beaches, and rocky outcrops with no maintained trails. Footing is treacherous: soft mud, loose gravel, and slippery rocks are constant hazards. Weather exposure is extreme with wind, cold, and sudden storms. Not suitable for limited mobility, young children, or inexperienced backcountry travelers. Access by floatplane or boat only; no road access. Rescue services are hours or days away.",
+  "alternative_names": [
+    "Bristol Bay Tidal Flats",
+    "Bristol Bay Beach"
+  ],
+  "nearest_city": "Dillingham",
+  "nearest_city_distance": 45,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/alaska/bristol-bay-ak/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Bristol Bay in Alaska?",
+      "answer": "Bristol Bay's coastal gravels and tidal flats contain agate, jasper, quartz, and chalcedony specimens. Banded and translucent agates in tan, red, and cream colors are most common. Jasper pieces show red, brown, and green tones. These materials have weathered from Tertiary volcanic formations inland and been transported by streams to the coast."
+    },
+    {
+      "question": "How do I access Bristol Bay for rockhounding near Dillingham?",
+      "answer": "Bristol Bay has no road access. You must charter a floatplane or boat from Dillingham. Most floatplane operators offer service from Dillingham airport with flights lasting 30-90 minutes to remote beach landing sites. Expect to budget several hundred to over a thousand dollars for transportation. Local guides familiar with tides and safe landing zones are recommended."
+    },
+    {
+      "question": "Is a permit required to rockhound and collect agates at Bristol Bay, Alaska?",
+      "answer": "No permit is required for personal use collection on public lands and tidal areas at Bristol Bay. However, you should check with the Bristol Bay Area Council or local floatplane operators for current access advisories, seasonal restrictions related to fishing or wildlife, or private land boundaries before your trip."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Bristol Bay?",
+      "answer": "June through August is the only practical season for Bristol Bay rockhounding. Winter brings darkness and extreme cold. Spring and fall have unpredictable weather and dangerous sea conditions. Summer provides 18-20 hour daylight, more stable weather, open tidal windows for beach access, and active floatplane charter services."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at Bristol Bay?",
+      "answer": "Bring a sturdy classifier or fine-mesh screen for sifting beach gravels efficiently. Pack waterproof containers for specimens, a headlamp for extended daylight hours, binoculars for spotting color changes in gravel, and a small geologist's pick or hammer. Essential: cold-weather and waterproof clothing, sturdy boots with good traction, emergency shelter, first aid, and communication device as cell service is none."
+    },
+    {
+      "question": "Is Bristol Bay rockhounding suitable for beginners or families?",
+      "answer": "No. Bristol Bay is an expert-only destination requiring advanced backcountry skills, remote wilderness experience, and self-sufficiency. Access is by floatplane or boat only. Terrain is treacherous with uneven tidal flats, slippery gravel, and soft mud. Weather is extreme and unpredictable. Rescue services are hours or days away. This site is not suitable for children, inexperienced rockhounders, or families seeking casual collection."
+    }
+  ],
+  "meta_title": "Bristol Bay Rockhounding - Alaska Agate & Jasper",
+  "meta_description": "Expert rockhounding at remote Bristol Bay, Alaska. Find agate, jasper, and quartz on coastal flats. Floatplane access required. Summer only.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "collection_rules",
+    "nearest_city",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-21T18:29:31.589Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:32:40.870Z"
+}

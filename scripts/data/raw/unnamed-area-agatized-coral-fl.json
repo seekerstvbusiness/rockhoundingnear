@@ -1,0 +1,60 @@
+{
+  "slug": "unnamed-area-agatized-coral-fl",
+  "name": "Unnamed Area (Agatized Coral)",
+  "lat": 30.438757,
+  "lng": -82.862835,
+  "state": "Florida",
+  "state_slug": "florida",
+  "state_code": "FL",
+  "city": "Hamilton County",
+  "city_slug": "hamilton-county",
+  "county": "Hamilton",
+  "county_slug": "hamilton",
+  "geocoded_city": "Camps Still",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-florida.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Unnamed%20Area%20(Agatized%20Coral)%20Florida"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Unnamed%20Area%20(Agatized%20Coral)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Unnamed%20Area%20(Agatized%20Coral)%20Florida"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 154,
+      "meters": 47
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:34:41.265Z"
+  },
+  "scraped_at": "2026-04-21T17:34:41.265Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "congress-mine-az",
+  "name": "Congress Mine",
+  "lat": 34.19919,
+  "lng": -112.853469,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/congress-mine"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Congress%20Mine%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Congress%20Mine",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Congress%20Mine%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3283,
+      "meters": 1001
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "Wickenburg-Prescott Highway",
+        "ref": "AZ 89",
+        "type": "primary",
+        "dist": 3.1
+      },
+      {
+        "name": "White Spar Highway",
+        "ref": "AZ 89",
+        "type": "primary",
+        "dist": 4.4
+      },
+      {
+        "name": "Wickenburg-Prescott Highway",
+        "ref": "AZ 89",
+        "type": "primary",
+        "dist": 5.5
+      },
+      {
+        "name": "Broadway",
+        "ref": "AZ 89",
+        "type": "primary",
+        "dist": 5.8
+      }
+    ],
+    "water_features": [
+      {
+        "name": "Martinez Creek",
+        "type": "stream",
+        "dist": 4.5
+      },
+      {
+        "name": "Martin Creek",
+        "type": "stream",
+        "dist": 5.4
+      },
+      {
+        "name": "Miller Creek",
+        "type": "stream",
+        "dist": 6.3
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T17:07:59.145Z"
+  },
+  "scraped_at": "2026-04-20T17:07:59.146Z",
+  "scrape_quality": "partial"
+}

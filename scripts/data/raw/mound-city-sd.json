@@ -1,0 +1,60 @@
+{
+  "slug": "mound-city-sd",
+  "name": "Mound City",
+  "lat": 45.720637,
+  "lng": -100.237231,
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "state_code": "SD",
+  "city": "Hillside Township",
+  "city_slug": "hillside-township",
+  "county": "Campbell",
+  "county_slug": "campbell",
+  "geocoded_city": "Hillside Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mound%20City%20South%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mound%20City",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mound%20City%20South%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1755,
+      "meters": 535
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:40:00.249Z"
+  },
+  "scraped_at": "2026-04-21T17:40:00.249Z",
+  "scrape_quality": "minimal"
+}

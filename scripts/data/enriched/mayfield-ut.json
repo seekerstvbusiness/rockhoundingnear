@@ -1,0 +1,102 @@
+{
+  "slug": "mayfield-ut",
+  "name": "Mayfield",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Sanpete County",
+  "city_slug": "sanpete-county",
+  "county": "Sanpete",
+  "county_slug": "sanpete",
+  "lat": 39.109563,
+  "lng": -111.728076,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Public BLM rockhounding near Sanpete County with agate, chalcedony, and quartz in desert washes. No permit required - collect up to 25 lbs per day.",
+  "description": "Mayfield sits on Utah BLM land in central Sanpete County, a prime rockhounding destination for collectors seeking agate, chalcedony, and quartz specimens. This high-desert location benefits from accessible public land where no permit is required for personal use collection. The area's geological character reflects the Basin and Range province, where ancient volcanic and sedimentary processes deposited silica-rich minerals throughout the region.\n\nThe terrain around Mayfield consists of open desert washes, low ridges, and exposed geological formations typical of the Sevier Plateau. Rockhounds here can expect to find colorful agates and chalcedony nodules weathering out of hillsides and concentrated in desert washes after seasonal runoff. The relatively sparse vegetation makes surface collecting accessible, though the terrain can be rocky and uneven.\n\nThis location works well for both beginners and experienced collectors. The BLM guidelines are straightforward - collect for personal use only, with a 25-pound daily limit. Spring and fall offer the most comfortable collecting conditions, though this high-elevation area remains accessible year-round with proper preparation. The remote setting means you should bring adequate water and supplies.",
+  "history": "This area lies within the Sevier Plateau, a high-elevation basin where Eocene to Oligocene volcanic activity and sedimentary deposition created thick sequences of silica-rich rocks. The agates and chalcedony found here formed as silica-rich fluids percolated through volcanic and sedimentary host rocks, precipitating microcrystalline quartz into cavities and fractures over millions of years.",
+  "tips": "Search desert washes and gullies where water erosion has exposed and concentrated agate and chalcedony nodules - these areas often yield the best specimens. Look for translucent to opaque stones with banding, mottling, or solid color in whites, grays, and subtle reds. Bring a small hand rake or brush to clear loose soil from likely areas, and examine hillside outcrops where weathering exposes gemstone material. The 25-pound daily limit means you can collect steadily - focus on quality pieces rather than filling a bucket.",
+  "terrain_notes": "Elevation approximately 6,200 feet with open desert terrain, low shrub vegetation, and exposed washes. Walking distances from parking are typically 0.25 to 1.5 miles across uneven rocky ground. Footing is moderate - watch for loose rock and small gullies. No wheelchair access; sturdy hiking boots recommended.",
+  "best_season": "April - May and September - October. The high elevation means summer temperatures can be intense and winter weather unpredictable. Spring and fall offer comfortable temperatures for all-day collecting without extreme heat or snow hazards.",
+  "written_directions": "From Ephraim (approximately 20 miles northwest), take US 89 south toward Salina. Continue south for approximately 12 miles, then turn east on local county roads toward the Mayfield area. Access points vary depending on specific BLM parcels - consult current BLM Richfield Field Office maps for exact public land boundaries. Park at pullouts near washes and hillsides showing exposed geological material. Note that roads may be unpaved and subject to seasonal conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved county roads and dirt pullouts. High-clearance passenger vehicles recommended for rough sections; standard vehicles can access main collection areas in dry conditions.",
+  "parking_notes": "Informal pullouts along county roads near washes and exposed formations. No developed parking area - park safely away from traffic. Space for 2-4 vehicles at typical pullouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection allowed. No motorized excavation equipment. No collecting on private inholdings - respect boundary markers.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\n25 lb maximum per day\nNo commercial collection\nNo motorized excavation\nRespect private property boundaries\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Ephraim, Utah (approximately 20 miles northwest) has gas stations, restaurants, and lodging. Sanpete Valley towns offer full services.",
+  "accessibility_notes": "Relatively open, gently rolling terrain with moderate walking distances. Uneven rocky ground requires sturdy footwear. No wheelchair access due to natural terrain and lack of maintained paths. Generally accessible for hikers of moderate fitness. High elevation (6,200 ft) may affect visitors unaccustomed to altitude.",
+  "alternative_names": [],
+  "nearest_city": "Ephraim",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/mayfield-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/mayfield-ut/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/mayfield-ut/mineral-2-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/mayfield-ut/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Mayfield, Utah?",
+      "answer": "Mayfield BLM land produces agate, chalcedony, jasper, and quartz specimens. The area's high-desert geology favors colorful banded agates and nodular chalcedony, which weather out of hillsides and accumulate in washes. Both transparent and opaque specimens are common, with colors ranging from white and gray to subtle reds and browns."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Mayfield on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Mayfield. Utah BLM land allows personal use collection under FLPMA regulations - simply follow the 25-pound daily limit, do not sell your finds, and use hand tools only. Always check current BLM Richfield Field Office regulations before visiting."
+    },
+    {
+      "question": "What is the best season for rockhounding near Sanpete County?",
+      "answer": "April through May and September through October offer the most comfortable collecting conditions. The high elevation (6,200 ft) means summer can be hot and winter weather unpredictable. Spring and fall temperatures make all-day collecting pleasant, and washes expose more material after spring snowmelt."
+    },
+    {
+      "question": "How far is Mayfield from the nearest town with services?",
+      "answer": "Ephraim, Utah is approximately 20 miles northwest and offers gas, food, lodging, and supplies. Sanpete Valley towns like Manti and Salina also provide services within 15-25 miles. Stock up before heading to this remote location, as services are not available at the collection site."
+    },
+    {
+      "question": "Can beginners rockhound successfully at Mayfield Utah?",
+      "answer": "Yes - Mayfield is beginner-friendly. The terrain is moderately easy, agates and chalcedony weather out naturally at the surface, and no special skills are required to find specimens. The 25-pound daily limit means you will have good collecting success without needing advanced knowledge. Bring water, sun protection, and sturdy shoes."
+    },
+    {
+      "question": "What tools and supplies should I bring to Mayfield for rockhounding?",
+      "answer": "Bring a small hand rake or brush to clear soil around promising areas, a collection bag, and sturdy hiking boots for rocky terrain. Pack 2-3 liters of water (high elevation and desert climate), sun protection, and a vehicle recovery kit since roads are unpaved and remote. A GPS unit or offline maps are helpful for navigation and finding BLM boundaries."
+    }
+  ],
+  "meta_title": "Mayfield Rockhounding - Utah BLM",
+  "meta_description": "Find agate, chalcedony, and quartz at Mayfield on public Utah BLM land. No permit needed, 25 lb daily limit. Beginner-friendly desert collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T06:52:46.470Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:01:02.550Z"
+}

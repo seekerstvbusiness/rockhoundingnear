@@ -1,0 +1,60 @@
+{
+  "slug": "laurel-de",
+  "name": "Laurel",
+  "lat": 38.530139,
+  "lng": -75.57662,
+  "state": "Delaware",
+  "state_slug": "delaware",
+  "state_code": "DE",
+  "city": "Sussex County",
+  "city_slug": "sussex-county",
+  "county": "Sussex",
+  "county_slug": "sussex",
+  "geocoded_city": "Sussex County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-delaware.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Laurel%20Delaware"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Laurel",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Laurel%20Delaware"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 19,
+      "meters": 6
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:34:06.880Z"
+  },
+  "scraped_at": "2026-04-21T16:34:06.881Z",
+  "scrape_quality": "minimal"
+}

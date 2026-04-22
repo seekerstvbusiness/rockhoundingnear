@@ -221,9 +221,6 @@ function TitleBlock({ location, dark }: { location: Location; dark: boolean }) {
         <h3 className={cn('font-heading font-bold text-xl sm:text-2xl leading-snug', textBase)}>
           {location.name}
         </h3>
-        {location.featured && (
-          <Badge className="bg-primary text-white text-xs shrink-0">Featured</Badge>
-        )}
         {location.difficulty && (
           <span className={cn('text-xs font-medium px-2 py-0.5 rounded-full border shrink-0', difficultyColor[location.difficulty])}>
             {DIFFICULTY_LABELS[location.difficulty]}

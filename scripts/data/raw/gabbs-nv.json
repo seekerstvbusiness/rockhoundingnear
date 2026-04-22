@@ -1,0 +1,65 @@
+{
+  "slug": "gabbs-nv",
+  "name": "Gabbs",
+  "lat": 38.865831,
+  "lng": -117.898261,
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "state_code": "NV",
+  "city": "Nye County",
+  "city_slug": "nye-county",
+  "county": "Nye",
+  "county_slug": "nye",
+  "geocoded_city": "Gabbs",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nevada.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Gabbs%20Nevada"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Nevada BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Gabbs",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Gabbs%20Nevada"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Nevada BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 5276,
+      "meters": 1608
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:44:41.154Z"
+  },
+  "scraped_at": "2026-04-21T19:44:41.154Z",
+  "scrape_quality": "partial"
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "lexington-va",
+  "name": "Lexington",
+  "lat": 37.776323,
+  "lng": -79.430228,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Rockbridge County",
+  "city_slug": "rockbridge-county",
+  "county": "Rockbridge",
+  "county_slug": "rockbridge",
+  "geocoded_city": "Lexington",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Lexington%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Lexington",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Lexington%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1062,
+      "meters": 324
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Kerrs Creek",
+        "type": "river",
+        "dist": 4.2
+      },
+      {
+        "name": "Whistle Creek",
+        "type": "stream",
+        "dist": 4.2
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:08:41.367Z"
+  },
+  "scraped_at": "2026-04-21T19:08:41.367Z",
+  "scrape_quality": "minimal"
+}

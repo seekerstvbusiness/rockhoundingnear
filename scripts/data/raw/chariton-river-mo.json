@@ -1,0 +1,57 @@
+{
+  "slug": "chariton-river-mo",
+  "name": "Chariton River",
+  "lat": 40.067268,
+  "lng": -92.690438,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Adair County",
+  "city_slug": "adair-county",
+  "county": "Adair",
+  "county_slug": "adair",
+  "geocoded_city": "Adair County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chariton%20River%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chariton%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chariton%20River%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:58:03.934Z"
+  },
+  "scraped_at": "2026-04-21T18:58:03.934Z",
+  "scrape_quality": "minimal"
+}

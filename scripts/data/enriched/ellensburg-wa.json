@@ -1,0 +1,100 @@
+{
+  "slug": "ellensburg-wa",
+  "name": "Ellensburg",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Ellensburg",
+  "city_slug": "ellensburg",
+  "county": "Kittitas",
+  "county_slug": "kittitas",
+  "lat": 47.089262,
+  "lng": -120.517846,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Petrified Wood"
+  ],
+  "short_description": "Ellensburg is famous for blue and black agate nodules found in the surrounding Kittitas County terrain. Public BLM and private land access offers excellent rockhounding for collectors of all levels.",
+  "description": "The Ellensburg area sits in the heart of Washington's agate country, where Miocene-era volcanic deposits have created some of the state's most productive agate fields. Collectors come from across the Pacific Northwest to hunt the distinctive blue, banded, and fortification agates that weather out of basalt hillsides and wash gravels. The terrain is relatively accessible with flat to gently rolling topography at around 2,100 feet elevation, making this a year-round destination for patient rockhounders.\n\nThe geology here is dominated by the Ellensburg Formation, a sequence of Miocene volcanoclastic rocks and basalts deposited during intense volcanic activity 15-20 million years ago. Silica-rich groundwater percolated through fractures and cavities in the basalt, forming agate nodules and bands of chalcedony over thousands of years. Today these nodules weather free from the host rock and accumulate in washes, hillside scree, and along old creek beds.\n\nAccess varies across the Ellensburg area. Much of the productive collecting land is on BLM property managed by the Bureau of Land Management, where public rockhounding is permitted under standard personal use rules. Some private land also allows collecting by permission, and there are fee dig operations in the region. The flat terrain and proximity to town make Ellensburg ideal for families and beginners, though serious collectors will find plenty of opportunity for all-day expeditions into the surrounding hills.\n\nExpect to find nodules ranging from golf ball to grapefruit size, with blue banding, white chalcedony, and occasional petrified wood. Competition for the best spots can be fierce during peak season, so off-season visits and early mornings yield better results. The Ellensburg area is also home to the annual Ellensburg Rodeo rockhound swap meet, where local knowledge and site tips are freely shared among the community.",
+  "history": "The Ellensburg area lies within the Cascade Range foothills and sits on the Ellensburg Formation, a thick sequence of Miocene volcanic deposits laid down 15-20 million years ago during a period of intense Columbia River flood basalt volcanism. Silica-rich hydrothermal fluids circulated through fractures in the basalt, precipitating agate and chalcedony in cavities and replacing portions of the host rock. This same geological process created agate fields across central Washington and Oregon.",
+  "tips": "Search hillside scree slopes and eroded gullies where nodules weather from the basalt - the south-facing slopes often have better exposure. Use a good quality 10x loupe to examine suspected nodules for the distinctive banding patterns of Ellensburg agates. Focus on washes and old creek beds after rain, as water erosion exposes fresh material. Bring a crack hammer and cold chisel for working nodules free, and wear sturdy boots on the rough volcanic terrain.",
+  "terrain_notes": "Flat to gently rolling volcanic terrain at 2,110 feet elevation. Terrain is predominantly basalt flows with scattered sagebrush vegetation typical of eastern Washington. Most collecting areas are within 1-3 miles of parking and accessible by foot without technical scrambling. Footing is rough and rocky with frequent loose basalt fragments and sharp edges.",
+  "best_season": "April - October, with peak season May - September. Winter brings rain and occasional snow that can limit access to high spots, though mild winters make winter collecting possible on lower elevation BLM land.",
+  "written_directions": "From Ellensburg downtown, head east on IR-90 Business Loop or take I-90 east toward Spokane. Exit onto Whiskey Hollow Road or Canyon Road (local access roads on the east side of town) to reach BLM tracts. Specific collecting areas are scattered across Kittitas County - consult with the Bureau of Land Management Spokane District office for current access information and marked public collection areas. GPS coordinates point to the town center; actual sites vary 5-20 miles in surrounding hills.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved roads to most access points; some collection areas require high-clearance or 4WD on rough forest service roads. Check conditions before visiting.",
+  "parking_notes": "Parking varies by specific site. Most BLM areas have informal pullouts or designated turnarounds. Some popular sites have small gravel lots. Arrive early during season for best spots.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only on BLM land. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. Respect closure areas and private property boundaries. Check with Bureau of Land Management Spokane District for current access and seasonal restrictions.",
+  "quantity_limits": "25 lbs per day on BLM land",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect private property boundaries\nNo collection in closed or restricted areas\nLeave no trace - pack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Ellensburg town center, approximately 5-15 miles depending on specific collecting site. Full services including gas, food, water, and lodging available.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Rough volcanic rock with sharp edges requires sturdy closed-toe boots. No wheelchair access to most collection areas. Some sites are very near road access for limited mobility visitors. Uneven footing throughout.",
+  "alternative_names": [
+    "Kittitas County Agate Fields",
+    "Ellensburg Agate Beds"
+  ],
+  "nearest_city": "Ellensburg",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/ellensburg-wa/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agate can you find rockhounding near Ellensburg, Washington?",
+      "answer": "Ellensburg is best known for blue agate and banded agate nodules. The distinctive Ellensburg blue agate features clear to translucent blue chalcedony with white or gray banding. You'll also find fortification agate, black and white agate, and occasionally petrified wood. Most nodules range from golf ball to grapefruit size and weather free from basalt hillsides."
+    },
+    {
+      "question": "Is rockhounding free in the Ellensburg area, or do you need permits?",
+      "answer": "Rockhounding on BLM public land in the Ellensburg area is free and does not require a permit for personal use. You can collect up to 25 lbs per day per the Federal Land Policy and Management Act. Some private land and fee dig operations also exist in the region - check locally for options. Always respect property boundaries and posted restrictions."
+    },
+    {
+      "question": "Where exactly should I look for agates around Ellensburg?",
+      "answer": "Focus on south-facing hillside scree slopes and eroded gullies where nodules weather naturally from basalt outcrops. Washes and old creek beds after rain expose fresh material. Check low elevation BLM tracts on the east side of town accessible via Canyon Road and Whiskey Hollow Road. Early morning visits to popular areas yield better results than mid-day."
+    },
+    {
+      "question": "What is the best season for rockhounding near Ellensburg, Washington?",
+      "answer": "The best season is May through September when weather is dry and temperatures are mild. April and October are also productive. Winter can bring rain and snow that limit access, though the mild eastern Washington winters allow some winter collecting. Avoid muddy conditions immediately after heavy rain."
+    },
+    {
+      "question": "What tools and equipment do I need for Ellensburg agate hunting?",
+      "answer": "Bring a crack hammer and cold chisel to work nodules free from basalt. A good quality 10x loupe helps identify banding patterns and chalcedony. Wear sturdy closed-toe hiking boots for the rough volcanic terrain with sharp rock edges. Bring plenty of water, sun protection, and a backpack to carry collected agates. Leather gloves protect your hands when handling sharp basalt."
+    },
+    {
+      "question": "Is the Ellensburg rockhounding area beginner-friendly and family-safe?",
+      "answer": "Yes, the Ellensburg area is excellent for beginners and families. The relatively flat terrain at 2,100 feet elevation is accessible without technical climbing. Agates are abundant and easy to spot once you learn the characteristic banding patterns. The proximity to town (5-15 miles to services) makes it convenient for day trips. Children ages 6 and up can participate comfortably with proper footwear and supervision."
+    }
+  ],
+  "meta_title": "Ellensburg Rockhounding - Find Blue Agate in Washington",
+  "meta_description": "Hunt blue agate, banded agate, and chalcedony near Ellensburg, WA. Free BLM rockhounding, flat terrain, family-friendly. Collect 25 lbs daily year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (specific BLM tract access roads not fully verified)",
+    "road_conditions (specific grades not confirmed)",
+    "alternative fee dig operations in area (not directly sourced)"
+  ],
+  "enriched_at": "2026-04-21T19:26:01.912Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:27:51.355Z"
+}

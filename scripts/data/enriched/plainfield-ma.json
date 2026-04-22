@@ -1,0 +1,98 @@
+{
+  "slug": "plainfield-ma",
+  "name": "Plainfield",
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "city": "Plainfield",
+  "city_slug": "plainfield",
+  "county": "Hampshire",
+  "county_slug": "hampshire",
+  "lat": 42.534349,
+  "lng": -72.924828,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Tourmaline"
+  ],
+  "short_description": "Rockhound this scenic area in the northern Berkshires for quartz, feldspar, and mica specimens. Gentle terrain and easy access make it ideal for beginners exploring New England geology.",
+  "description": "Plainfield, Massachusetts sits in Hampshire County within the scenic northern Berkshires region, an area known for its metamorphic bedrock and mineral-rich outcrops. The town lies on gently sloping terrain at about 1,471 feet elevation, characteristic of the upland plateau that defines this part of western Massachusetts. This location offers rockhounders access to pegmatite and schist formations typical of the New England Upland province, where Paleozoic-era metamorphic rocks were folded and recrystallized during mountain-building events.\n\nThe primary gems and minerals found here include clear and milky quartz, feldspars (often white to pink), muscovite mica sheets, and occasional tourmaline crystals. Pegmatite bodies in this region contain these coarser crystals formed from cooling silica-rich magma. The gentle slopes and accessible terrain make this an excellent location for family rockhounding and beginner collectors who want to learn mineral identification without requiring backcountry hiking skills.\n\nBecause Massachusetts land ownership is predominantly private, check with local landowners before collecting. Many properties in this rural area are more accessible than in developed zones. The Plainfield area offers a quiet alternative to crowded commercial dig sites, with the added benefit of exploring authentic New England geology where continental collisions created the mineral assemblages visible in roadcuts and outcrops today.",
+  "history": "Plainfield sits within the New England Upland section of the Appalachian Mountains, where Silurian and Devonian metamorphic rocks were created during the Acadian orogeny (mountain-building event) around 400 million years ago. The pegmatite bodies and quartz veins found here formed during the late stages of metamorphism and subsequent granite emplacement, which created ideal conditions for quartz, feldspar, and mica crystal growth.",
+  "tips": "Search roadcuts and natural outcrops along local roads where pegmatite bodies are exposed; fresh cuts often reveal better specimens than weathered surfaces. Bring a hand lens to identify feldspar varieties and to spot tourmaline needles within quartz matrices. Look for areas where light-colored pegmatite contrasts visually with darker surrounding schist, as these contacts often host the best crystal specimens. Mica flakes can be peeled from weathered rock faces, but use a small chisel to extract whole sheets from intact pegmatite.",
+  "terrain_notes": "Elevation of 1,471 feet with gentle slope throughout the area. Terrain is typical New England upland with mixed forest cover, rocky outcrops, and some open field areas. Walking distances from parking vary from 50 feet to a quarter-mile depending on which outcrops you target. Footing is generally stable on grassy or leaf-covered ground, though loose rocks and root systems can create minor tripping hazards.",
+  "best_season": "May - October. Late spring through early fall provides the best combination of mild weather, accessible terrain, and clear visibility of exposed rock surfaces. Winter snow and ice make roadcut access difficult, and early spring mud can complicate parking and foot traffic on rural roads.",
+  "written_directions": "From Plainfield town center, drive east on Route 116 for approximately 2 miles. Watch for natural roadcuts and exposed pegmatite outcrops along the roadside, particularly near the gentle slopes of the surrounding hillsides. Informal pullouts exist near quality collecting spots; ask local residents for access permission before parking on or near private property. GPS coordinates 42.534349, -72.924828 mark a central location in town where collectors often find outcrops within a short walk.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved roads (Route 116 and town roads) with some unpaved farm roads. Passenger vehicles suitable for main area access. Roadcuts are visible from traveled roads.",
+  "parking_notes": "Informal roadside pullouts near outcrops. No designated parking area. Park courteously and request permission from nearby property owners. Expect space for 2-3 vehicles at typical collecting spots.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "This is private land. Permission from landowners is required before collecting. Massachusetts state law prohibits collection on state park land. Keep specimens small and reasonable for personal use only. Do not trespass or leave gates open. Respect property boundaries and posted signs.",
+  "quantity_limits": null,
+  "rules": "Obtain landowner permission before accessing property\nDo not collect on state park land\nKeep collections for personal use only\nDo not damage fences, gates, or structures\nPack out all trash\nLeave gates as you found them",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "cold"
+  ],
+  "nearest_services": "Plainfield town center has limited services. Northampton (approximately 12 miles south) offers full services including gas, food, lodging, and rock shops. Cummington (5 miles south) has a general store and basic supplies.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Paved road access to roadcuts eliminates need for long hikes. Uneven rocky terrain at outcrop sites requires sturdy footwear. No wheelchair access to collecting areas due to natural bedrock and loose rocks. Ground cover of roots and leaves can be slippery after rain.",
+  "alternative_names": [],
+  "nearest_city": "Northampton",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/massachusetts/plainfield-ma/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What minerals and gems can I find rockhounding in Plainfield, Massachusetts?",
+      "answer": "The Plainfield area yields quartz (clear and milky), feldspars (white, pink, and gray varieties), muscovite mica in sheet form, and occasional tourmaline crystals. These minerals occur in pegmatite bodies and metamorphic schist formations typical of the New England Upland. Roadcuts along Route 116 provide the easiest access to exposed specimens."
+    },
+    {
+      "question": "Is rockhounding in Plainfield, MA free or do I need to pay a fee?",
+      "answer": "Rockhounding in Plainfield is free, but it requires permission from private landowners since most collecting areas are on private property. There are no fee dig sites in this immediate area. Always ask permission before accessing land or parking near roadcuts, and respect posted property boundaries."
+    },
+    {
+      "question": "Do I need a permit to collect rocks and minerals in Plainfield, Massachusetts?",
+      "answer": "No permit is required to collect on private land with permission, but you must obtain landowner consent before accessing property. Massachusetts does not require permits for personal rockhounding on private land. Avoid state park property entirely, as collection is prohibited there."
+    },
+    {
+      "question": "What is the best time of year for rockhounding near Plainfield, MA?",
+      "answer": "May through October is ideal for collecting in Plainfield. Mild weather, clear skies, and accessible terrain make these months perfect for exploring roadcuts and outcrops. Winter snow and ice can obscure specimens and make parking difficult, while early spring mud complicates foot traffic on rural roads."
+    },
+    {
+      "question": "What tools do I need to collect quartz and feldspar in Plainfield?",
+      "answer": "A hand lens (10x magnification) helps identify feldspar varieties and spot tourmaline needles within quartz. A small chisel and hammer work well for extracting specimens from pegmatite. Mica sheets often peel away by hand from weathered surfaces, but a flat pry tool helps extract intact sheets from fresh pegmatite. Always wear safety glasses when hammering."
+    },
+    {
+      "question": "Is Plainfield a good rockhounding location for beginners?",
+      "answer": "Yes, Plainfield is excellent for beginners. The gentle terrain requires no backcountry hiking, visible roadcuts provide easy access to specimens, and the common minerals found here (quartz, feldspar, mica) are straightforward to identify. The main challenge is obtaining landowner permission, but the accessible geology makes this a forgiving location for learning mineral identification."
+    }
+  ],
+  "meta_title": "Plainfield Rockhounding - Massachusetts",
+  "meta_description": "Find quartz, feldspar, and mica in Plainfield, MA. Private land access with permission. Easy terrain perfect for beginner rockhounders. Learn where to collect.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "gem_types",
+    "hazards",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-21T19:39:30.405Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:42:03.002Z"
+}

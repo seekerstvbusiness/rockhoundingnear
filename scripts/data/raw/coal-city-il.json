@@ -1,0 +1,60 @@
+{
+  "slug": "coal-city-il",
+  "name": "Coal City",
+  "lat": 41.279156,
+  "lng": -88.200285,
+  "state": "Illinois",
+  "state_slug": "illinois",
+  "state_code": "IL",
+  "city": "Braidwood",
+  "city_slug": "braidwood",
+  "county": "Will",
+  "county_slug": "will",
+  "geocoded_city": "Braidwood",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-illinois.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Coal%20City%20Illinois"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Coal%20City",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Coal%20City%20Illinois"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 602,
+      "meters": 183
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:52:44.703Z"
+  },
+  "scraped_at": "2026-04-21T16:52:44.703Z",
+  "scrape_quality": "minimal"
+}

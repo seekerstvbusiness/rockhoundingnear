@@ -1,0 +1,97 @@
+{
+  "slug": "bear-valley-id",
+  "name": "Bear Valley",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Valley County Area",
+  "city_slug": "valley-county",
+  "county": "Valley",
+  "county_slug": "valley",
+  "lat": 44.427553,
+  "lng": -115.274673,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land rockhounding site in central Idaho's high desert basin, known for quartz and agate specimens in washes and hillsides. Personal use collecting allowed year-round.",
+  "description": "Bear Valley sits at 6,364 feet elevation in Valley County, Idaho, within a moderate-slope terrain typical of the Salmon River basin geology. This BLM-managed public land offers recreational rockhounders the opportunity to collect quartz, agate, jasper, and chalcedony specimens without permits or fees. The site benefits from the Basin and Range geological province, where Miocene-era rhyolitic volcanism and subsequent erosion have exposed and distributed silica-rich minerals throughout the valley washes and adjacent hillsides.\n\nThe collecting here is straightforward - BLM regulations allow personal use collection up to 25 pounds per day, with no commercial activity permitted. Most productive areas lie in and around seasonal washes where water erosion has concentrated lighter specimens and exposed new material. The moderate slope terrain is accessible to most rockhounders with basic hiking ability, though sturdy footwear is essential due to loose rock and uneven ground. Spring snowmelt and summer thunderstorms can make some wash areas temporarily impassable, so timing your visit carefully is important.\n\nBear Valley attracts both beginning and experienced rockhounders because specimens are relatively easy to spot on the surface, and the relaxed BLM regulations mean you can spend as much time here as you want. The high elevation keeps the area comfortable during summer months but can bring winter snow and cold, making fall and late spring the most reliable seasons. Cell service is spotty in this remote area, so bring printed maps and notify someone of your trip plans.",
+  "history": "Bear Valley's mineral deposits formed during the Miocene volcanic epoch, when rhyolitic lava flows and pyroclastic deposits blanketed the region. Subsequent millions of years of Basin and Range extension, erosion by the Salmon River system, and seasonal water flow have weathered these volcanic sequences, liberating quartz and chalcedony nodules that now concentrate in valley washes and hillside outcrops accessible to modern rockhounders.",
+  "tips": "Focus your search in and around seasonal washes where spring runoff has exposed fresh material and concentrated lighter quartz and agate pieces. Look for translucent to opaque quartz with banding or color in whites, grays, and occasionally faint purples. Use a small pry bar or rock hammer to carefully extract specimens from consolidated ash or sediment, and always check for sharp fractures before placing specimens in your pack. The best material often lies within the top 6-12 inches of wash bottoms and along wash banks where erosion is active.",
+  "terrain_notes": "Elevation 6,364 feet with moderate slope across sagebrush-covered high desert. Terrain consists of loose volcanic rock, ash deposits, and sparse grass vegetation. Walking distance from parking area varies by specific collecting spot, typically 0.5 to 2 miles over rolling terrain. Footing is rough and uneven with abundant loose rock; sturdy boots are essential. No established trails; cross-country hiking required.",
+  "best_season": "May - September, with September - October as secondary peak. Summer months (July - August) can bring afternoon thunderstorms and heat stress at this elevation. Winter snow closes many access roads November - April. Spring (May - June) offers ideal conditions with moderate temperatures and active water erosion in washes.",
+  "written_directions": "From McCall, Idaho (nearest town, approximately 25 miles northwest), take ID-55 north toward the Salmon River drainage. Continue on ID-55 for about 18 miles past McCall toward the Valley County high country. Look for Forest Service/BLM access roads branching east or west from ID-55 in the Bear Valley drainage area. Specific pullouts and access points vary; consult a Valley County BLM map or contact the McCall District BLM office for current road conditions and recommended collection areas. Most access roads are passable to high-clearance vehicles in dry season (June - September) but may require 4WD or ATV after rain or snow.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Forest Service/BLM dirt and gravel roads, variable condition. Some washboard and ruts common. High-clearance recommended; 4WD required after spring thaw or heavy rain.",
+  "parking_notes": "Informal pullouts along BLM access roads. No developed parking lot. Park well clear of active roads and wash areas. Space for 2-4 vehicles at most pullouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or power tools. Hand tools only. No collection from closed or sensitive areas marked by BLM.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\n25 pound per day limit per FLPMA\nNo commercial collection\nNo motorized excavation or power equipment\nHand tools only (hammer, pry bar, chisel)\nNo collection from posted closed areas\nLeave land as found",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "loose_rock",
+    "remote",
+    "flash_floods"
+  ],
+  "nearest_services": "McCall, Idaho (approximately 25 miles south via ID-55). Full services including gas, food, water, and lodging. Valley County sheriff and medical facilities available in McCall.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing and no developed trails. Requires cross-country hiking over loose volcanic material and sagebrush. Not wheelchair accessible. Sturdy hiking boots essential. Distance from parking varies 0.5 - 2 miles depending on chosen collecting area. Moderate fitness level recommended.",
+  "alternative_names": [],
+  "nearest_city": "McCall",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/bear-valley-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Bear Valley, Idaho?",
+      "answer": "Bear Valley's BLM land yields quartz, agate, jasper, and chalcedony specimens. Most material consists of white, gray, and translucent quartz with banding patterns, plus opaque jasper and agate pieces concentrated in washes and hillside outcrops. Specimens are typically golf-ball to fist-sized, making them ideal for collectors and lapidary work."
+    },
+    {
+      "question": "Do I need a permit to collect at Bear Valley, Idaho rockhounding site?",
+      "answer": "No permit is required. Bear Valley sits on BLM public land where recreational rockhounding is allowed under Federal Land Policy and Management Act (FLPMA) provisions. Simply follow the 25-pound daily limit, use hand tools only, and collect only for personal use - no commercial activity."
+    },
+    {
+      "question": "What is the best time of year to rockhound near McCall, Idaho?",
+      "answer": "May through September is ideal, with September - October as a secondary peak season. Summer (July - August) can bring afternoon thunderstorms and heat, while winter snow closes most access roads from November - April. Late spring and early fall offer moderate temperatures and active water erosion in washes that exposes fresh specimens."
+    },
+    {
+      "question": "Is Bear Valley rockhounding suitable for beginners and families?",
+      "answer": "Yes, Bear Valley is beginner-friendly. Specimens are easy to spot on the surface without advanced prospecting skills. Kids ages 8+ can participate in the moderate cross-country hiking required. No specialized knowledge is needed, though sturdy boots and awareness of loose rock hazards are essential for all ages."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Bear Valley?",
+      "answer": "Bring a small hand hammer or rock pick, pry bar, chisel, and a collection bag or backpack to carry your specimens. No motorized tools are allowed on BLM land. Wear sturdy hiking boots due to loose volcanic rock, and bring water, sun protection, and a map since cell service is spotty. A GPS device or printed BLM map is recommended."
+    },
+    {
+      "question": "How far is Bear Valley from McCall, Idaho, and what are road conditions like?",
+      "answer": "Bear Valley is approximately 25 miles north of McCall via ID-55. Access roads are Forest Service and BLM dirt/gravel roads with variable conditions including washboard and ruts. High-clearance vehicles are recommended year-round; 4WD is required after spring thaw or heavy rain. Most roads are passable June - September in dry conditions."
+    }
+  ],
+  "meta_title": "Bear Valley Rockhounding - Idaho",
+  "meta_description": "Find quartz, agate, and jasper at Bear Valley, Idaho BLM land. Free rockhounding, 25 lbs daily limit. No permit required. Best May - September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (specific BLM access road names not confirmed by source)",
+    "nearest_city_distance (estimated from state geography)",
+    "parking_notes (informal BLM pullouts assumed standard)"
+  ],
+  "enriched_at": "2026-04-22T06:43:54.433Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:04.763Z"
+}

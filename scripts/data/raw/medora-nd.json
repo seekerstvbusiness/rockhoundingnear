@@ -1,0 +1,60 @@
+{
+  "slug": "medora-nd",
+  "name": "Medora",
+  "lat": 46.923258,
+  "lng": -103.492096,
+  "state": "North Dakota",
+  "state_slug": "north-dakota",
+  "state_code": "ND",
+  "city": "Billings County",
+  "city_slug": "billings-county",
+  "county": "Billings",
+  "county_slug": "billings",
+  "geocoded_city": "Billings County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Medora%20North%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Medora",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Medora%20North%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2637,
+      "meters": 804
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:35:48.517Z"
+  },
+  "scraped_at": "2026-04-21T16:35:48.517Z",
+  "scrape_quality": "minimal"
+}

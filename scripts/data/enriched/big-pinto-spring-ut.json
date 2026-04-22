@@ -1,0 +1,101 @@
+{
+  "slug": "big-pinto-spring-ut",
+  "name": "Big Pinto Spring",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Beaver",
+  "city_slug": "beaver",
+  "county": "Beaver",
+  "county_slug": "beaver",
+  "lat": 38.148975,
+  "lng": -113.833268,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding site in Beaver County featuring colorful agate and jasper specimens. Free to collect with daily limits on beautiful high-desert terrain.",
+  "description": "Big Pinto Spring is a public BLM rockhounding area in southwestern Utah's Beaver County, offering easy access to quality agate and jasper specimens without fees or permits. The site sits in Utah's Basin and Range province at moderate elevation, where ancient silica-rich fluids deposited within volcanic and sedimentary host rocks created the colorful agates and chalcedony found here today. Collectors can expect to find banded agates in reds, whites, and earth tones, plus translucent chalcedony and multicolored jasper specimens ranging from thumb-sized pieces to larger chunks suitable for polishing or cutting.\n\nThe collecting area features scattered surface specimens exposed by natural erosion and past geological activity. Much of the material appears as loose stones in washes and along hillsides, making this site ideal for beginners and families who want to learn rockhounding basics on public land with no commercial pressure. The surrounding terrain is typical high desert with sparse vegetation, clear views, and minimal foot traffic.\n\nAs BLM land, Big Pinto Spring operates under personal-use-only rules with a 25-pound daily collection limit per FLPMA regulations. No permits are required, making this a straightforward destination for casual rock hunters. The site is accessible year-round with best conditions from October through April when temperatures are mild and visibility is excellent.",
+  "history": "This area sits within Utah's Basin and Range province where Tertiary-age volcanic activity and associated hydrothermal circulation deposited silica-rich fluids into fractures and cavities within existing rock formations, creating the agate and chalcedony deposits found here. The colorful banding and variety of specimens reflect multiple episodes of mineralization during the region's active geological past.",
+  "tips": "Search the washes and low-lying areas where water erosion has naturally exposed colorful specimens - look for translucent reds, oranges, and whites in agate pieces. Bring a 5-gallon bucket and a small geology hammer to test specimens for quality; tap gently on loose stones to check for internal color and banding before adding to your collection. Focus on hillsides facing south and west where UV exposure helps highlight the best color in agates and jasper, and expect to spend 2-3 hours to reach your 25-pound limit on a productive day.",
+  "terrain_notes": "Big Pinto Spring lies at approximately 5,200 feet elevation in open high-desert terrain with minimal vegetation. The landscape is gently rolling with scattered rock outcrops and drainage washes. Walking surfaces are mixed - loose gravel in washes, harder packed earth on hillsides, and scattered stones requiring careful footing. Most productive collecting areas are within 0.5 miles of parking, though exploring farther yields additional specimens. No significant elevation gain required for main collecting zones.",
+  "best_season": "October - April. Utah's high desert experiences extreme heat May through September (often exceeding 90 degrees Fahrenheit), making morning-only collecting uncomfortable. Fall and winter months offer mild temperatures, excellent visibility, and low-angle sunlight that makes spotting colorful specimens easier. April and May can still be productive, but temperatures rise quickly.",
+  "written_directions": "From Beaver, Utah, take Main Street south toward US Highway 89. Drive south on US 89 for approximately 12 miles toward Panguitch. Look for unpaved BLM access roads on the east side of the highway in the Pinto Valley area. Big Pinto Spring is accessed via one of several rough dirt roads branching east from US 89 - GPS coordinates are 38.148975, -113.833268. High-clearance vehicles recommended during wet conditions, but passenger cars can usually reach the site via the main access roads. Ask at the Beaver Ranger District office for current road conditions before heading out.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved dirt roads in fair condition. Passenger cars can access main collecting areas, though high-clearance vehicles are safer after heavy rain. Expect washboard surface in spots.",
+  "parking_notes": "Informal pullouts along BLM access roads. No developed parking lot or facilities. Park well clear of the road to avoid blocking other users.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No mechanized equipment. Collect only loose surface specimens; do not break rocks from outcrops. Leave the area as you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo mechanized equipment\nLoose surface specimens only\nNo breaking rock from outcrops",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Beaver, Utah (12 miles north) has gas, food, water, and lodging. Panguitch (20 miles south) offers additional services.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Unpaved dirt road to collecting areas. Loose gravel and scattered stones require sturdy footwear. No wheelchair access to main collecting zones. Most productive areas within 0.5 miles of parking require only modest walking ability.",
+  "alternative_names": [],
+  "nearest_city": "Beaver",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/big-pinto-spring-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/big-pinto-spring-ut/mineral-1-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/big-pinto-spring-ut/mineral-2-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/big-pinto-spring-ut/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of rocks and gems can I find at Big Pinto Spring, Utah?",
+      "answer": "Big Pinto Spring is known for colorful agate, chalcedony, and jasper specimens. Collectors typically find banded agates in reds, whites, and earth tones, plus translucent pieces and multicolored jasper. Specimens range from small thumb-sized pieces to larger chunks suitable for polishing."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Big Pinto Spring on BLM land?",
+      "answer": "No permit is required at Big Pinto Spring. As BLM public land, it is open to personal-use rockhounding with no fees or permits. You only need to follow the 25-pound daily limit and collect only loose surface specimens."
+    },
+    {
+      "question": "How far is Big Pinto Spring from Beaver, Utah and what are the driving directions?",
+      "answer": "Big Pinto Spring is approximately 12 miles south of Beaver. From Beaver, take US Highway 89 south toward Panguitch and look for unpaved BLM access roads on the east side of the highway in the Pinto Valley area around GPS 38.148975, -113.833268. High-clearance vehicles are recommended."
+    },
+    {
+      "question": "Is Big Pinto Spring rockhounding site beginner-friendly and family-safe?",
+      "answer": "Yes, Big Pinto Spring is excellent for beginners and families. The terrain is relatively flat and easy to navigate, specimens are abundant on the surface, and there are no technical skills required. Children ages 6 and up can comfortably participate in collecting."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Big Pinto Spring?",
+      "answer": "The best season at Big Pinto Spring is October through April when temperatures are mild (50-70 degrees) and visibility is excellent. Utah's high desert gets dangerously hot May through September, making early morning-only collecting necessary. Fall and winter offer the most comfortable rockhounding conditions."
+    },
+    {
+      "question": "What tools and equipment should I bring to collect agate at Big Pinto Spring?",
+      "answer": "Bring a 5-gallon bucket for your 25-pound daily limit, sturdy hiking boots for loose gravel terrain, a small geology hammer or rock pick to test specimens, and sunscreen and water. A magnifying glass helps identify chalcedony quality and internal banding. Early morning collecting in winter allows longer productive hours before sunset."
+    }
+  ],
+  "meta_title": "Big Pinto Spring Rockhounding - Utah BLM Agate",
+  "meta_description": "Free rockhounding at Big Pinto Spring, Utah. Collect agate, chalcedony, and jasper on BLM land. No permit needed. 25 lbs/day limit. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance - estimated from GPS and road distance",
+    "road_conditions - inferred from typical BLM access roads in Beaver County",
+    "parking_notes - standard for informal BLM sites",
+    "cell_service - estimated as spotty based on rural Beaver County location"
+  ],
+  "enriched_at": "2026-04-22T10:17:53.281Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:19:00.899Z"
+}

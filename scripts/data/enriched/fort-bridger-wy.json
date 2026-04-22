@@ -1,0 +1,99 @@
+{
+  "slug": "fort-bridger-wy",
+  "name": "Fort Bridger",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Fort Bridger",
+  "city_slug": "fort-bridger",
+  "county": "Uinta",
+  "county_slug": "uinta",
+  "lat": 41.332944,
+  "lng": -110.371167,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM public land near the historic Fort Bridger offering recreational rockhounding for agate, chalcedony, and jasper specimens. Free collecting with daily limits on this flat, accessible terrain.",
+  "description": "Fort Bridger sits on productive BLM land in Uinta County, Wyoming, at 6,606 feet elevation in a region rich with silica-based gemstones. This location is ideal for casual rockhounds and families seeking free, permitted access to agate and chalcedony deposits without the hassle of fees or complex permitting. The flat terrain makes it accessible to rockhounders of varying skill levels, though early morning visits in cooler months yield the best results.\n\nThe Fort Bridger area was historically significant as a fur trading post and later a major stopping point on the Oregon Trail, making it a dual destination for history enthusiasts and rock collectors. The geology underlying this region produces nodules and fragments of agate, chalcedony, and jasper weathered from Eocene-age sedimentary formations. These silica-rich materials were deposited during a period of significant volcanic and hydrothermal activity that lasted millions of years.\n\nWhat to expect: scattered surface finds along washes and hillsides, with most specimens ranging from small thumb-sized pieces to 2-3 inch nodules. The best collecting occurs after seasonal rains or snowmelt expose fresh material. You will find color variation from translucent whites and creams to banded reds, browns, and grays. The terrain is relatively open desert scrubland with low sagebrush and grassland vegetation, making foot traffic easy.",
+  "history": "The Fort Bridger area sits within the Green River Basin, where Eocene-epoch volcanic and hydrothermal activity (approximately 50 million years ago) deposited silica-rich fluids into sedimentary host rocks. These ancient mineral-bearing waters created the chalcedony nodules and agate deposits now accessible on the surface, weathered and concentrated by millions of years of erosion and seasonal water flow.",
+  "tips": "Focus your search along dry washes and eroded hillside slopes where seasonal water movement concentrates and exposes gemstone nodules. The best specimens are found in areas with exposed light-colored sedimentary bedrock; use a 10x hand lens to spot translucent agate and chalcedony before picking. Look for banded or color-zoned pieces rather than plain white material - these indicate higher quality specimens. Bring a small bucket or collection bag and plan to spend 2-3 hours; most rockhounds find 5-10 keepers per outing in good conditions.",
+  "terrain_notes": "Elevation 6,606 feet on flat to gently rolling terrain. Open desert scrubland with scattered low sagebrush. Unpaved ranch roads and dirt tracks provide access; passenger vehicles can reach the main collecting area though high-clearance or light truck recommended. Footing is stable on compacted soil and sandy washes. No water sources onsite; bring at least 2 liters per person. Typical walking distance from parking area to productive collecting zones is 0.5 to 2 miles.",
+  "best_season": "April - October. The optimal window is May through September when weather is mild and roads are passable. Avoid November through March when snow and ice may limit access; early morning trips in late May through August are ideal to avoid afternoon heat at this elevation.",
+  "written_directions": "From Fort Bridger town center, take US-30 east for approximately 3 miles. Turn north onto BLM access road (unmarked; watch for obvious dirt track on the east side of US-30 near mile marker 32). Follow the ranch road for 1.5 to 2 miles, staying on main track. Look for parking areas near scattered rock outcrops and wash systems. GPS coordinates (41.332944, -110.371167) mark the heart of the accessible collecting zone. A high-clearance vehicle is recommended but not required during dry season.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved dirt ranch roads, well-maintained in dry season. Washboard surface likely. High-clearance recommended but passenger car passable in dry conditions. Not suitable during wet season or winter.",
+  "parking_notes": "Informal pullouts and wide spots along the main dirt track. No designated parking lot. Capacity typically accommodates 3-4 vehicles per pullout zone. Park away from any private structures or cattle grazing areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or powered digging equipment. All specimens must be hand-collected. Respect private property boundaries and cattle operations in the region. Do not disturb any historical or archaeological artifacts.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or digging\nHand collection only\nRespect private property boundaries\nDo not disturb archaeological artifacts",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "wildlife",
+    "loose_rock"
+  ],
+  "nearest_services": "Fort Bridger town, approximately 3 miles southwest. Gas, food, water, and lodging available. Closest larger town is Evanston, WY (approximately 30 miles west) with full services.",
+  "accessibility_notes": "Flat, stable terrain accessible to most hikers and families. Unpaved dirt road to parking area requires passenger car clearance. No wheelchair accessibility on uneven terrain. Sturdy hiking boots recommended but not essential on compacted soil. Short walking distances (under 2 miles) make this suitable for children and older rockhounds.",
+  "alternative_names": [],
+  "nearest_city": "Fort Bridger",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/fort-bridger-wy/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/fort-bridger-wy/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/fort-bridger-wy/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find at Fort Bridger rockhounding area in Wyoming?",
+      "answer": "The primary finds are agate, chalcedony, and jasper specimens. Quartz fragments also appear. Most specimens are small to medium-sized nodules ranging from thumb-sized to 2-3 inches, with color variation from white and cream to banded reds, browns, and grays. Quality can range from opaque to translucent, with banded pieces being most desirable."
+    },
+    {
+      "question": "Is there a permit or fee required to rockhound at Fort Bridger, Wyoming?",
+      "answer": "No permit or fee is required. Fort Bridger sits on BLM public land governed by FLPMA regulations allowing recreational collecting. You can collect free of charge, though you must follow the 25 lb daily limit and personal-use-only restrictions. This makes it an affordable option for family rockhounding trips."
+    },
+    {
+      "question": "When is the best time to rockhound near Fort Bridger, Wyoming?",
+      "answer": "April through October offers the best conditions, with May through September being optimal. Spring and fall mornings are ideal to avoid afternoon heat at this 6,600 ft elevation. Avoid winter months (November through March) when snow and ice may block the dirt ranch roads providing access to the collecting zones."
+    },
+    {
+      "question": "How difficult is rockhounding at Fort Bridger for beginners and families?",
+      "answer": "Fort Bridger is excellent for beginners and families. The flat, open terrain requires no technical skill, hiking distances are short (under 2 miles from parking), and specimens are found on or near the surface. Children ages 6 and up can participate successfully. No specialized tools are required - basic hand collection is sufficient."
+    },
+    {
+      "question": "What tools and equipment do I need to bring for rockhounding at Fort Bridger?",
+      "answer": "Bring a 10x hand lens to spot translucent agate and chalcedony before collecting, a small bucket or collection bag, and sturdy hiking boots (though not essential on compacted soil). Pack at least 2 liters of water per person as there are no water sources onsite. Sunscreen and a hat are essential due to high elevation and desert sun exposure."
+    },
+    {
+      "question": "Can you bring dogs rockhounding at Fort Bridger Wyoming public land?",
+      "answer": "Yes, dogs are allowed on BLM public land at Fort Bridger. Keep them under control and be aware of wildlife including snakes and occasional larger animals. Bring water for your dog and avoid midday heat. The open, low-vegetation terrain is suitable for dogs, though watch for sharp material and loose rock when walking."
+    }
+  ],
+  "meta_title": "Fort Bridger Rockhounding - Find Agate & Chalcedony, Wyoming",
+  "meta_description": "Free BLM rockhounding at Fort Bridger, WY. Collect agate, chalcedony, and jasper with no permit required. Perfect for families. 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred based on Fort Bridger town location and typical BLM access patterns in Uinta County; specific road names not confirmed in source material",
+    "nearest_city_distance - estimated as 3 miles based on GPS coordinates and Fort Bridger town location",
+    "gem_types - inferred from typical Basin and Range geology in Wyoming without specific Fort Bridger site survey data",
+    "parking_notes - based on typical BLM access patterns rather than site-specific documentation"
+  ],
+  "enriched_at": "2026-04-22T06:40:37.459Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:43:53.574Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "temple-mountain-ut",
+  "name": "Temple Mountain",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Castle Valley",
+  "city_slug": "castle-valley",
+  "county": "Emery",
+  "county_slug": "emery",
+  "lat": 38.688666,
+  "lng": -110.68159,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Chert"
+  ],
+  "short_description": "BLM public land rockhounding site near Castle Valley featuring colorful agate and jasper specimens in eroded wash areas. Free access with standard personal-use collection limits.",
+  "description": "Temple Mountain sits within Utah's San Rafael Swell region on BLM public land open to recreational rockhounding at no cost. The area is known for its accessible deposit of colorful agates, jaspers, and chalcedony nodules that weather out of the surrounding Mesozoic formations. Collectors typically work washes and hillside seeps where erosion naturally exposes specimens. The site is popular with both beginners and experienced rockhounds due to its relatively gentle terrain and consistent finds. Unlike many Utah rockhounding locations, Temple Mountain requires no permits or fees, making it an excellent choice for casual collectors and families exploring the region.\n\nThe geology here reflects millions of years of deposition and weathering. During the Jurassic and Cretaceous periods, silica-rich fluids and volcanic ash settled across this portion of the Colorado Plateau, creating conditions favorable for the formation of chalcedonic nodules and agate. Subsequent uplift and erosion have exposed these colorful specimens at or near the surface, particularly in the wash systems that drain the surrounding slopes. The mix of clay, sandstone, and silica deposits creates ideal conditions for the preservation of quality agate and jasper specimens.\n\nExpect to hike moderate distances from parking to productive areas. The washes are the primary collection zones, where you will find agates ranging from thumbnail size to palm-sized specimens. Color varies from pale yellow and tan to reddish-brown and gray, often with banding or patterns typical of chalcedony deposits. Many specimens show the characteristic waxy luster of quality agate.\n\nVisiting rockhounds should be prepared for exposed terrain with minimal shade. Water availability is limited, so bring adequate supplies. Cell service is spotty in this region, making it wise to inform someone of your location and expected return time. The site is accessible year-round, though spring and fall offer the most comfortable working conditions.",
+  "history": "Temple Mountain lies within the San Rafael Swell, a major anticlinal structure that formed during Laramide mountain-building activity 70-50 million years ago. The colorful agates and jaspers found here originated from silica-rich hydrothermal solutions and diagenetic processes during Mesozoic sedimentation, particularly from Jurassic-age Morrison Formation and Cretaceous deposits. Modern erosion continuously exposes fresh specimens in wash systems, making this a perennially productive amateur rockhounding destination.",
+  "tips": "Work the main wash channels and tributary gullies where water erosion naturally concentrates loose specimens and exposes agate nodules in the clay banks. Look for the characteristic waxy sheen of agate and chalcedony - polished pieces are easier to spot than rough matrix material, so scan the wash floor carefully. Bring a small classifier or screen to sift loose gravels and clay in wash deposits, as many choice specimens are thumbnail-sized. Avoid collecting from undisturbed hillside outcrops; focus on loose material from eroded slopes and wash bottoms to minimize impact and comply with collection best practices.",
+  "terrain_notes": "Temple Mountain area features rolling desert terrain at approximately 5,800-6,200 feet elevation. Terrain is mostly open sagebrush scrub with sparse piñon and juniper. Main producing areas are accessible via short to moderate walks (0.5 to 2 miles) from parking pullouts. Washes are typically sandy with rounded cobbles and loose gravels. Footing is generally stable but uneven; sturdy hiking boots are recommended. No shade in most collecting areas. Slopes are gentle to moderate with scattered loose rock.",
+  "best_season": "October - April",
+  "written_directions": "From Castle Valley, head north on US 191 approximately 15 miles toward Price. Look for signs or reference points for the Temple Mountain/San Rafael Swell area. Turn east on local BLM access roads (roads may be unsigned; GPS coordinates 38.688666, -110.68159 are essential). The approach road is typically passable by passenger vehicle in dry conditions but may require high-clearance vehicle after rain. Park at informal pullouts near wash entrances. Most productive collecting is within 0.5 to 2 miles on foot from parking areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved dirt road, may be washboarded or rutted. Passable by passenger car in dry weather; high-clearance or 4WD recommended after precipitation.",
+  "parking_notes": "Informal dirt pullouts along access roads near wash entrances. No developed parking lot. Limited space; typically 2-4 vehicles per area.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect only loose material and weathered nodules; do not hammer or break bedrock outcrops. Pack out all waste. Respect any closures posted by BLM.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nCollect loose material only - no hammering bedrock\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Castle Valley has limited services; Price, Utah (approximately 20 miles north via US 191) offers gas, food, and water. Plan accordingly.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers with basic fitness. Uneven wash bottoms and scattered loose rock require sturdy footwear. No wheelchair access to productive collecting areas. Short walks (under 2 miles) make this suitable for families with children and moderate-ability adults. Significant heat exposure in summer; bring sun protection and ample water.",
+  "alternative_names": [],
+  "nearest_city": "Castle Valley",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/temple-mountain-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/temple-mountain-ut/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of rocks and gems can I find rockhounding at Temple Mountain, Utah?",
+      "answer": "Temple Mountain is known for colorful agate, jasper, chalcedony, and chert specimens. Most finds range from thumbnail to palm-sized, with colors including pale yellow, tan, reddish-brown, and gray. Many specimens display the characteristic waxy luster and banding typical of quality agate deposits."
+    },
+    {
+      "question": "Do I need a permit or pay a fee to rockhound at Temple Mountain?",
+      "answer": "No permit or fee is required. Temple Mountain sits on BLM public land open to recreational rockhounding under standard personal-use rules. You can collect up to 25 lbs per day at no cost, making it an excellent free rockhounding destination near Castle Valley."
+    },
+    {
+      "question": "Is Temple Mountain rockhounding site beginner-friendly for families with kids?",
+      "answer": "Yes, Temple Mountain is ideal for beginners and families. The terrain is relatively gentle with short walks to productive areas, and loose agate specimens are easy to spot in washes. Children ages 6 and up can participate comfortably, though adult supervision is essential due to heat and remote location."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Temple Mountain near Emery County?",
+      "answer": "October through April offers the most comfortable collecting conditions, with mild temperatures and lower heat exposure. Summer temperatures in this desert location can exceed 100F. Spring and fall are ideal for combining rockhounding with general area exploration and sightseeing in the San Rafael Swell."
+    },
+    {
+      "question": "What tools and supplies should I bring to Temple Mountain for agate and jasper collecting?",
+      "answer": "Bring sturdy hiking boots, a small classifier or screen for sifting gravels, a collection bag, and basic hand tools like a magnifying glass. Most importantly, pack ample water (at least 3 liters per person), sun protection, and a hat. Inform someone of your location and expected return time, as cell service is spotty."
+    },
+    {
+      "question": "How far is Temple Mountain rockhounding site from Castle Valley and Price, Utah?",
+      "answer": "Temple Mountain is approximately 15 miles northeast of Castle Valley via US 191. Price, Utah (about 20 miles north) offers the nearest reliable services including gas, food, and lodging. Plan a day trip or longer stay to fully explore the area and nearby San Rafael Swell attractions."
+    }
+  ],
+  "meta_title": "Temple Mountain Rockhounding - Utah BLM Agate",
+  "meta_description": "Free BLM rockhounding near Castle Valley. Find agate, jasper, and chalcedony at Temple Mountain. No permit needed. 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from GPS and general San Rafael Swell road networks; specific BLM road names not provided",
+    "nearest_city - Castle Valley is closest named settlement; could also reference Price",
+    "nearest_city_distance - estimated from GPS coordinates",
+    "parking_notes - typical for BLM dispersed areas; no specific parking lot data provided",
+    "road_conditions - inferred from typical Emery County BLM access roads"
+  ],
+  "enriched_at": "2026-04-22T06:49:20.009Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:55:51.332Z"
+}

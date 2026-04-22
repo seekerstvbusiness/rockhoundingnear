@@ -1,0 +1,60 @@
+{
+  "slug": "wilmore-ks",
+  "name": "Wilmore",
+  "lat": 37.327415,
+  "lng": -99.212027,
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "state_code": "KS",
+  "city": "Comanche County",
+  "city_slug": "comanche-county",
+  "county": "Comanche",
+  "county_slug": "comanche",
+  "geocoded_city": "Wilmore",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Wilmore%20Kansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Wilmore",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Wilmore%20Kansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2075,
+      "meters": 633
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:40:53.808Z"
+  },
+  "scraped_at": "2026-04-21T17:40:53.808Z",
+  "scrape_quality": "minimal"
+}

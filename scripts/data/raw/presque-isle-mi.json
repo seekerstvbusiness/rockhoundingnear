@@ -1,0 +1,60 @@
+{
+  "slug": "presque-isle-mi",
+  "name": "Presque Isle",
+  "lat": 45.350366,
+  "lng": -83.55155,
+  "state": "Michigan",
+  "state_slug": "michigan",
+  "state_code": "MI",
+  "city": "Krakow Township",
+  "city_slug": "krakow-township",
+  "county": "Presque Isle",
+  "county_slug": "presque-isle",
+  "geocoded_city": "Krakow Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-michigan.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Presque%20Isle%20Michigan"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Presque%20Isle",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Presque%20Isle%20Michigan"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 583,
+      "meters": 178
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:44:59.139Z"
+  },
+  "scraped_at": "2026-04-21T16:44:59.139Z",
+  "scrape_quality": "minimal"
+}

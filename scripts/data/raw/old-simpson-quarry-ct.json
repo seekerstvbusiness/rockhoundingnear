@@ -1,0 +1,57 @@
+{
+  "slug": "old-simpson-quarry-ct",
+  "name": "Old Simpson Quarry",
+  "lat": 41.635739,
+  "lng": -72.619508,
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "state_code": "CT",
+  "city": "Glastonbury",
+  "city_slug": "glastonbury",
+  "county": "Capitol Planning Region",
+  "county_slug": "capitol-planning-region",
+  "geocoded_city": "Glastonbury",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-connecticut.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Old%20Simpson%20Quarry%20Connecticut"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Old%20Simpson%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Old%20Simpson%20Quarry%20Connecticut"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:03:08.829Z"
+  },
+  "scraped_at": "2026-04-21T18:03:08.829Z",
+  "scrape_quality": "minimal"
+}

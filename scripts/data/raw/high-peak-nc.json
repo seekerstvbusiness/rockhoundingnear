@@ -1,0 +1,60 @@
+{
+  "slug": "high-peak-nc",
+  "name": "High Peak",
+  "lat": 35.723713,
+  "lng": -81.608683,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Burke County",
+  "city_slug": "burke-county",
+  "county": "Burke",
+  "county_slug": "burke",
+  "geocoded_city": "Burke County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=High%20Peak%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=High%20Peak",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=High%20Peak%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2078,
+      "meters": 633
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:34:14.878Z"
+  },
+  "scraped_at": "2026-04-21T19:34:14.878Z",
+  "scrape_quality": "minimal"
+}

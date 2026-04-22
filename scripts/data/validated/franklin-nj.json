@@ -1,0 +1,95 @@
+{
+  "slug": "franklin-nj",
+  "name": "Franklin",
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "city": "Hardyston Township",
+  "city_slug": "hardyston-township",
+  "county": "Sussex",
+  "county_slug": "sussex",
+  "lat": 41.120156,
+  "lng": -74.593022,
+  "gem_types": [
+    "Fluorite",
+    "Calcite",
+    "Quartz",
+    "Zircon",
+    "Tourmaline"
+  ],
+  "short_description": "Franklin is one of the world's premier fluorite and mineral collecting sites, known for exceptional specimens of purple and green fluorite, calcite, and rare zircon. This historic mining area offer...",
+  "description": "Franklin, New Jersey, located in Sussex County's Hardyston Township, is a world-renowned destination for mineral collectors. The area gained international fame in the 1800s when zinc mining operations inadvertently exposed some of the finest fluorite deposits in North America. Today, Franklin remains a mecca for collectors seeking high-quality specimens of purple and green fluorite, often displaying vivid coloration and exceptional crystal clarity.\n\nThe geology of Franklin reflects its position within the New Jersey highlands, where Proterozoic-age metamorphic rocks host zinc and fluorite mineralization. Hydrothermal fluids, enriched in fluorine and silica, deposited crystalline minerals within carbonate-rich marble and limestone host rocks during ancient mountain-building events. This geological history created the conditions for the diverse mineral assemblages found here, including tourmaline, zircon, and various forms of quartz.\n\nRockhounds visiting Franklin today can access both fee-based dig sites and documented outcrop areas where surface collecting is permitted on public or accessible private land. The mineral-rich soils and weathered outcrops yield specimens ranging from microscopic crystals to hand-sized pieces. Fluorite dominates most finds, but patient collectors frequently uncover tourmaline, calcite, and zircon alongside other mineral species.\n\nThe Franklin mining district's combination of historical significance, geological richness, and well-documented collecting sites makes it ideal for both beginners learning to identify classic fluorite specimens and advanced collectors pursuing rare or exceptional pieces. Several local mining operations have formalized dig programs that provide access to productive zones with permission and modest fees.",
+  "history": "Franklin's mineral wealth was discovered during 19th-century zinc mining operations conducted by the New Jersey Zinc Company. The mine shafts and open pits exposed spectacular mineral assemblages including world-class fluorite specimens, establishing the area as a center for mineral science and specimen collecting. Fluorite mineralization formed during Proterozoic metamorphism when hydrothermal solutions deposited fluorine-rich minerals into marble and carbonate host rocks within the New Jersey highlands.",
+  "tips": "Search along weathered outcrops and in loose soil at the base of exposed marble and calcite-rich hillsides; fluorite often occurs as purple or green crystals within white calcite matrix. Use a jeweler's loupe to spot small zircon and tourmaline crystals embedded in collected specimens - these gems are often overlooked but highly valued by collectors. Bring a small cold chisel and hammer to carefully work specimens free from matrix rock, and wear eye protection as fluorite and calcite can fracture sharply. After digging, screen loose soil through a small hand sieve to recover tiny gem-quality crystals that are easy to miss with the naked eye.",
+  "terrain_notes": "The Franklin area consists of rolling hills at approximately 600-800 feet elevation with exposed marble and limestone outcrops interspersed with deciduous forest and meadow. Terrain is moderately rocky with loose stones and crystalline material underfoot. Walking distances from parking areas typically range from 50 yards to 0.5 miles depending on which site is accessed. Footing can be uneven and slippery after rain, with sharp calcite and fluorite fragments present on the surface.",
+  "best_season": "May - October. Spring and early summer provide dry ground and comfortable temperatures ideal for digging and outcrop searching. Late spring avoids lingering mud from winter thaw. Fall offers excellent weather and lower insect activity. Winter is possible but ground frost and ice on exposed rock make collecting difficult.",
+  "written_directions": "From Hardyston Township center, take Route 23 north approximately 1.5 miles. Turn east onto High Street and continue 0.8 miles. Turn south on Buckwheat Road and proceed 0.4 miles to documented collecting areas. For fee-dig sites, follow directional signs from Route 23. Parking is typically available in small pullouts adjacent to active dig sites. GPS coordinates 41.120156, -74.593022 mark the general Franklin district center.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "fee",
+  "primary_category": "fee_dig",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved roads (Route 23, High Street) lead to the area. Local access roads including Buckwheat Road are paved and passable by standard passenger vehicles. Road surface is generally well-maintained.",
+  "parking_notes": "Small pullouts and informal parking areas exist near active collecting sites. Several fee-dig operations maintain dedicated parking areas with capacity for 10-30 vehicles. Arrive early on weekends as spaces fill quickly during peak season.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Rules vary by site access type. At fee-dig sites, collection is permitted as part of paid dig fees; operators specify what tools are allowed and collection limits. On public outcrop areas, hand tools only (hammer, chisel, small picks). No motorized equipment. Respect all private property signs and obtain permission before entering private land. Collecting is permitted for personal use and specimen collecting only - no commercial resale without explicit written consent from property owner.",
+  "quantity_limits": "Depends on individual fee-dig site policies. Typical fee-dig sites allow visitors to keep all specimens collected during paid dig time. No specific state-level weight limits for this location.",
+  "rules": "Hand tools only at public/accessible outcrop areas\nNo motorized excavation equipment\nRespect private property postings\nObtain written permission for private land access\nPersonal and educational use only\nFollow fee-dig site operator instructions when paying for access",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Hardyston Township and neighboring High Point, NJ (approximately 3-5 miles) offer gas stations, restaurants, and grocery stores. Water is available at fee-dig site facilities during operating hours.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain with easy access from parking areas to most productive collecting zones. Uneven rocky footing and scattered loose stones require sturdy footwear. No wheelchair-accessible facilities at most outcrops, though some fee-dig operations may have improved gravel paths. Sharp calcite and fluorite fragments present on ground surface - wear protective gloves and long pants.",
+  "alternative_names": [],
+  "nearest_city": "Hardyston Township",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-jersey/franklin-nj/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of fluorite can I find rockhounding at Franklin, New Jersey?",
+      "answer": "Franklin is famous for both purple and green fluorite specimens, often with exceptional clarity and vivid color. Many collectors find cubes and octahedral crystals ranging from tiny gem-quality stones to hand-sized pieces. The fluorite at Franklin frequently displays distinctive purple hues due to natural radiation exposure and rare color-zoning patterns that make specimens particularly valuable to mineral collectors worldwide."
+    },
+    {
+      "question": "How much does it cost to dig for minerals at Franklin?",
+      "answer": "Fee-dig operations at Franklin vary in pricing, typically ranging from $10-25 per person per hour or day, depending on the operator and access to premium dig zones. Most fee-dig sites allow visitors to keep all specimens collected during paid time. Some operators charge additional fees for premium supplies like buckets or screens. Contact individual sites directly for current rates and what is included with admission."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Franklin, New Jersey?",
+      "answer": "No permit is required for fee-dig operations - payment grants you access and collecting privileges for that site. For public or documented outcrop areas, hand collection without motorized equipment is generally permitted, but always check with site operators and respect private property boundaries. Some productive areas may be on private land requiring written permission from the owner before collecting."
+    },
+    {
+      "question": "What is the best time of year to collect minerals at Franklin?",
+      "answer": "May through October provides ideal collecting conditions at Franklin. Spring and early summer offer dry ground and comfortable temperatures, while fall features pleasant weather and reduced insect activity. Ground conditions are poorest in winter due to frost and ice, making it difficult to work rock. Late spring is excellent as it avoids mud from winter thaw."
+    },
+    {
+      "question": "What tools do I need to find zircon and tourmaline at Franklin?",
+      "answer": "A jeweler's loupe (10x magnification) is essential for spotting tiny zircon and tourmaline crystals that are often overlooked in raw specimens. Bring a small cold chisel and ball-peen hammer for carefully separating crystals from matrix rock. A hand sieve is invaluable for screening loose soil to recover small gem-quality stones. Eye protection is important as fluorite and calcite can fracture sharply when struck."
+    },
+    {
+      "question": "Is Franklin rockhounding suitable for beginners and kids?",
+      "answer": "Yes, Franklin is very beginner and family-friendly. Fluorite specimens are easy to identify with their distinctive purple or green coloration, making them perfect for learning mineral recognition. The terrain is accessible with gentle slopes and no serious hazards beyond sharp rocks. Children as young as 6 can participate with adult supervision. Fee-dig sites often provide equipment and instruction, making them ideal first-time rockhounding experiences."
+    }
+  ],
+  "meta_title": "Franklin Rockhounding - Find Fluorite in New Jersey",
+  "meta_description": "Dig for purple fluorite, zircon, and calcite at Franklin, NJ. Easy fee-dig sites and public outcrops. Beginner-friendly mineral collecting near Hardyston.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "fee_amount",
+    "parking_notes",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-21T18:42:59.037Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:44:11.042Z"
+}

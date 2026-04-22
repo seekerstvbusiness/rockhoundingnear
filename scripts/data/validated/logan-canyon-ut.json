@@ -1,0 +1,98 @@
+{
+  "slug": "logan-canyon-ut",
+  "name": "Logan Canyon",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Logan",
+  "city_slug": "logan",
+  "county": "Cache",
+  "county_slug": "cache",
+  "lat": 41.742079,
+  "lng": -111.776324,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM rockhounding site in scenic Logan Canyon offering agate, chalcedony, and quartz specimens. Free public access with 25 lb daily limit near Logan, Utah.",
+  "description": "Logan Canyon cuts through the Bear River Mountains northeast of Logan, Utah, offering accessible rockhounding opportunities on public BLM land. The canyon's moderate slopes and rocky washes provide excellent hunting grounds for agate nodules, chalcedony pieces, and quartz specimens that weather out of the surrounding geology. This is a beginner-friendly location where you can find colorful banded agates and translucent chalcedony fragments along canyon floors and hillside outcrops without special permits or fees.\n\nThe geology here reflects the complex uplift and erosion that shaped the Intermountain West. Paleozoic and Mesozoic sedimentary rocks dominate the canyon walls, with silica-rich units that have hosted hydrothermal activity throughout the region's geologic history. This created ideal conditions for microcrystalline quartz minerals like agate and chalcedony to form in veins, nodules, and replacement bodies within the host rock.\n\nCollectors can work canyon washes after seasonal runoff has exposed fresh material, or search hillsides where weathering has loosened specimens from eroding outcrops. The moderate elevation and accessible terrain make this a year-round option, though spring and fall offer the most comfortable conditions. The mix of easy scrambling and light tool work makes Logan Canyon popular with families and newcomers to rockhounding.\n\nBecause this is BLM land, collection is free and requires no permit, though you must follow personal use limits and cannot use motorized equipment. The scenic canyon also offers excellent hiking, fishing, and outdoor recreation alongside your rockhounding adventure.",
+  "history": "Logan Canyon sits within the Cache Valley segment of the Intermountain Belt, where Precambrian metamorphic basement rocks are overlain by thick Paleozoic and Mesozoic sedimentary sequences. During the Sevier Orogeny (Late Cretaceous), east-west compression created thrust faults and folding that exposed these strata and allowed silica-rich hydrothermal fluids to migrate through fractures and permeable zones, precipitating agate and chalcedony nodules that rockhounders find today.",
+  "tips": "Search the main canyon wash and tributary drainage bottoms where seasonal water flow has concentrated loose agate nodules and chalcedony fragments - look for cream, tan, and reddish banded pieces. Work the weathered hillside outcrops on either side of the canyon where fresh exposures reveal nodules still embedded in the host rock; a pry bar or small hammer helps extract specimens cleanly. Focus on areas where white or tan silica-rich rock is visible in the walls, as agates often weather out nearby. Bring a 5-gallon bucket and hand tools (hammer, chisel, gloves) - you can typically find 15-20 lbs of collectible material in a few hours of moderate searching.",
+  "terrain_notes": "Elevation 4716 feet with moderate slopes throughout the canyon. Rocky, uneven terrain with loose scree, boulders, and canyon wash cobbles. Vegetation includes scattered Douglas fir and oak scrub typical of northern Utah canyons. Walking distance from parking to productive areas varies from 0.5 to 2 miles depending on which pullout you use. Footing requires sturdy boots; some scrambling over loose rock may be necessary to access hillside outcrops.",
+  "best_season": "April - October. Spring (April-May) brings seasonal runoff that freshly exposes material in washes, and temperatures are mild. Summer (June-August) is warm but visits are possible early morning or late afternoon. Fall (September-October) offers cooler temps and clear skies. Winter snow can block access to higher sections of the canyon.",
+  "written_directions": "From Logan, take US 89 northeast through downtown Logan toward Smithfield. Continue on US 89 as it enters Logan Canyon proper (approximately 3 miles from central Logan). Look for pullouts along the highway on both sides of the canyon - popular spots include areas near the Logan River where small dirt and gravel pullouts provide parking. The main collecting areas are accessible within 0.5 to 1.5 miles on foot from any pullout along the lower canyon section. Higher elevation areas accessible via the same highway offer additional prospects further up the canyon toward the Bear Lake summit area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 89 through Logan Canyon is paved and well-maintained year-round. Pullouts are unimproved dirt and gravel; passenger cars can access most lower canyon parking areas without difficulty, though ground clearance may be minimal on rougher pullouts.",
+  "parking_notes": "Multiple informal pullouts line US 89 throughout the canyon. Most are small (2-6 vehicles) dirt or gravel areas on both canyon sides. No formal parking lot or facilities. Parking is first-come, first-served and free. Higher-capacity areas exist near picnic grounds and day use areas further up the canyon.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or power tools. BLM land - free public rockhounding permitted for agate, chalcedony, quartz, and common minerals. Pack out all trash. Do not damage vegetation or structures.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nPack out all trash\nDo not damage vegetation or dig into intact outcrops\nFire restrictions may apply - check current BLM notices",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Logan (3 miles south) - gas, groceries, restaurants, motels, hospital",
+  "accessibility_notes": "Relatively accessible for a rockhounding site. Lower canyon areas near parking pullouts involve minimal walking on rocky but negotiable terrain. No wheelchair access to actual collecting areas. Uneven footing and loose rocks require sturdy hiking boots. Some hillside work involves minor scrambling over slopes up to 30 degrees. Families with young children should stick to wash areas near parking. Limited mobility visitors may find the easy terrain near canyon bottom productive without significant hiking.",
+  "alternative_names": [],
+  "nearest_city": "Logan",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/logan-canyon-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/logan-canyon-ut/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/logan-canyon-ut/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding in Logan Canyon, Utah?",
+      "answer": "Logan Canyon is known for agate, chalcedony, quartz, and jasper specimens. You will find banded agate nodules in tan, cream, and reddish colors, plus translucent chalcedony pieces and quartz crystals weathering from the canyon's Paleozoic sedimentary rocks. Most collectors find 15-20 lbs of quality material in a day of moderate searching."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Logan Canyon near Logan?",
+      "answer": "No permit is required. Logan Canyon is on public BLM land where recreational rockhounding is free and open to the public. You only need to follow the 25 lb per day personal use limit and cannot use motorized equipment. Simply park at any pullout along US 89 and start collecting."
+    },
+    {
+      "question": "What is the best time of year to find agates in Logan Canyon?",
+      "answer": "April through October is best, with peak collecting in May-June when spring runoff freshly exposes agate nodules in canyon washes, and September-October when cooler temperatures make searching comfortable. Winter snow can block access to higher canyon sections, though lower areas may remain accessible."
+    },
+    {
+      "question": "Is Logan Canyon rockhounding good for beginners and families with kids?",
+      "answer": "Yes - it is one of Utah's most beginner-friendly rockhounding locations. The terrain is easy to moderate, no special skills or equipment are required, and you can find quality specimens within short walking distances of parking pullouts. Kids age 6 and up can participate safely with adult supervision."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at Logan Canyon?",
+      "answer": "Bring a small hammer or rock hammer, pry bar or chisel, heavy work gloves, sturdy hiking boots, a 5-gallon bucket for specimens, and a backpack for water and snacks. A hand lens helps identify chalcedony and agate quality. The easy to moderate terrain does not require technical climbing gear or specialized equipment."
+    },
+    {
+      "question": "How far is Logan Canyon rockhounding from Logan, and what services are nearby?",
+      "answer": "Logan Canyon is only 3 miles northeast of downtown Logan on US 89. The town offers gas stations, grocery stores, restaurants, motels, and a hospital. Most rockhounders can make it a half-day outing or combine it with other activities in the scenic Bear River Mountains region."
+    }
+  ],
+  "meta_title": "Logan Canyon Rockhounding - Find Agate in Utah",
+  "meta_description": "Free BLM rockhounding at Logan Canyon near Logan, Utah. Find agate, chalcedony, and quartz. No permit needed, 25 lb daily limit. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from regional geology - no specific site report found)",
+    "accessibility_notes (estimated based on difficulty level and described terrain)",
+    "cell_service (estimated based on location near Logan and canyon topography)"
+  ],
+  "enriched_at": "2026-04-22T06:48:34.747Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:55:10.219Z"
+}

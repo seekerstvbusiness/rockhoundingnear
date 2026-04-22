@@ -1,0 +1,60 @@
+{
+  "slug": "atoka-ok",
+  "name": "Atoka",
+  "lat": 34.428529,
+  "lng": -96.075415,
+  "state": "Oklahoma",
+  "state_slug": "oklahoma",
+  "state_code": "OK",
+  "city": "Atoka County",
+  "city_slug": "atoka-county",
+  "county": "Atoka",
+  "county_slug": "atoka",
+  "geocoded_city": "Atoka",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oklahoma.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Atoka%20Oklahoma"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Atoka",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Atoka%20Oklahoma"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 670,
+      "meters": 204
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:07:43.246Z"
+  },
+  "scraped_at": "2026-04-21T17:07:43.246Z",
+  "scrape_quality": "minimal"
+}

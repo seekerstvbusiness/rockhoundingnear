@@ -1,0 +1,57 @@
+{
+  "slug": "androvette-clay-pits-ny",
+  "name": "Androvette Clay Pits",
+  "lat": 40.534352,
+  "lng": -74.241305,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "New York",
+  "city_slug": "new-york",
+  "county": null,
+  "county_slug": null,
+  "geocoded_city": "New York",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Androvette%20Clay%20Pits%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Androvette%20Clay%20Pits",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Androvette%20Clay%20Pits%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:34:50.745Z"
+  },
+  "scraped_at": "2026-04-21T18:34:50.746Z",
+  "scrape_quality": "minimal"
+}

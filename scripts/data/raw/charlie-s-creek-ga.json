@@ -1,0 +1,60 @@
+{
+  "slug": "charlie-s-creek-ga",
+  "name": "Charlie’s Creek",
+  "lat": 34.978333,
+  "lng": -83.586236,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Towns County",
+  "city_slug": "towns-county",
+  "county": "Towns",
+  "county_slug": "towns",
+  "geocoded_city": "Towns County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Charlie%E2%80%99s%20Creek%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Charlie%E2%80%99s%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Charlie%E2%80%99s%20Creek%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2884,
+      "meters": 879
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:07:08.921Z"
+  },
+  "scraped_at": "2026-04-21T19:07:08.922Z",
+  "scrape_quality": "minimal"
+}

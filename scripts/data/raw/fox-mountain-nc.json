@@ -1,0 +1,56 @@
+{
+  "slug": "fox-mountain-nc",
+  "name": "Fox Mountain",
+  "lat": 35.99776,
+  "lng": -81.000072,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Iredell County",
+  "city_slug": "iredell-county",
+  "county": "Iredell",
+  "county_slug": "iredell",
+  "geocoded_city": "Iredell County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Fox%20Mountain%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Fox%20Mountain"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Fox%20Mountain%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:29:55.764Z"
+  },
+  "scraped_at": "2026-04-22T02:29:55.764Z",
+  "scrape_quality": "minimal"
+}

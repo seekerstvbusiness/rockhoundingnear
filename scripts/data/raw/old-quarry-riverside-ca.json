@@ -1,0 +1,65 @@
+{
+  "slug": "old-quarry-riverside-ca",
+  "name": "Old Quarry (Riverside)",
+  "lat": 34.016679,
+  "lng": -117.415859,
+  "state": "California",
+  "state_slug": "california",
+  "state_code": "CA",
+  "city": "Jurupa Valley",
+  "city_slug": "jurupa-valley",
+  "county": "Riverside",
+  "county_slug": "riverside",
+  "geocoded_city": "Jurupa Valley",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-california.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Old%20Quarry%20(Riverside)%20California"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Old%20Quarry%20(Riverside)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Old%20Quarry%20(Riverside)%20California"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 990,
+      "meters": 302
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:24:34.242Z"
+  },
+  "scraped_at": "2026-04-21T19:24:34.242Z",
+  "scrape_quality": "partial"
+}

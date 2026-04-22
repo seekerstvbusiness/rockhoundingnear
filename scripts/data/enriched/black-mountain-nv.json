@@ -1,0 +1,98 @@
+{
+  "slug": "black-mountain-nv",
+  "name": "Black Mountain",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Las Vegas",
+  "city_slug": "las-vegas",
+  "county": "Clark",
+  "county_slug": "clark",
+  "lat": 35.950321,
+  "lng": -114.99736,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land near Las Vegas offering accessible rockhounding for agate, jasper, and quartz. No permit required - collect up to 25 lbs per day.",
+  "description": "Black Mountain is a popular BLM rockhounding destination located in Clark County, Nevada, just northwest of Las Vegas. The site sits within the Mojave Desert's Basin and Range province, where ancient volcanic activity and mineral-rich groundwater created abundant silica deposits. Collectors frequently find colorful agates, banded jasper, and quartz specimens scattered across the desert floor and within wash cuts.\n\nThe terrain consists of low-lying desert with scattered rocks and shallow washes. Black Mountain itself rises moderately above the surrounding bajada, offering elevated views and access to different collecting zones at various elevations. The site is easily accessible for most skill levels, though summer heat can be extreme. Most productive collecting occurs in the washes and around the base of exposed rock outcrops where weathering has freed specimens from the surrounding matrix.\n\nAs BLM land, Black Mountain requires no permit and allows personal use collection up to 25 pounds per day. This makes it ideal for both beginners and experienced rockhounders looking for quality desert specimens without the cost of commercial fee digs. The proximity to Las Vegas means relatively short driving time and reliable resupply of water and supplies in town.\n\nBring plenty of water, sun protection, and closed-toe hiking boots suitable for rocky terrain. A small hand pick or digging bar helps extract specimens from harder materials. Early morning visits are recommended to avoid peak afternoon heat. The site can get crowded on weekends, so weekday visits often provide better collecting conditions.",
+  "history": "Black Mountain sits within the Mojave Desert's Basin and Range geologic province, formed by Miocene-era volcanic activity and extensional tectonics that created the region's characteristic fault-block mountains and basins. Silica-rich hydrothermal fluids during this period deposited the agate, jasper, and chalcedony specimens found here today, concentrated particularly in ancient lava flows and rhyolitic deposits that still outcrop across the area.",
+  "tips": "Search the washes and bajada fans around the base of Black Mountain's slopes - these areas concentrate eroded specimens naturally and offer the easiest collecting. Look for pieces with banding, color variation, or gloss under sunlight to identify quality agate and jasper; translucent specimens are rarer and more valuable. Bring a magnet to quickly identify magnetite-rich specimens and save time screening material. Start collecting early in the morning before the intense desert heat (often over 100 degrees F in summer) makes work difficult.",
+  "terrain_notes": "Low desert terrain at approximately 2,100 feet elevation with sparse creosote and yucca vegetation. Rocky bajada with scattered boulders and shallow ephemeral washes. Black Mountain rises to about 2,600 feet with moderate slopes. Walking distances from parking are typically 0.5 to 3 miles depending on chosen collecting zones. Footing is uneven with loose rock and sharp desert pavement common; sturdy footwear essential.",
+  "best_season": "October - April. The Mojave Desert climate becomes dangerously hot May through September, with daytime temperatures regularly exceeding 100 degrees F and reaching 120 degrees F. Winter months offer comfortable collecting conditions and lower flash flood risk in the washes.",
+  "written_directions": "From Las Vegas, take US 95 north approximately 15 miles. Look for Black Mountain on the west side of the highway northwest of the Las Vegas area. Access is via unmarked dirt roads and pullouts along US 95; GPS coordinates (35.950321, -114.99736) mark the primary collecting area. Passenger vehicles can reach most parking areas, though high-clearance or 4x4 vehicles gain access to additional collecting zones on rougher interior roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved US 95 access highway. Interior dirt roads are rough, washboarded, and uneven; may require high-clearance vehicle during or after rain. Standard passenger car can reach main pullouts with care.",
+  "parking_notes": "Multiple unmarked dirt pullouts along US 95 and interior access roads. No developed parking lot. Space for 3-8 vehicles at most pullouts. Peak weekends see congestion; arrive early or collect on weekdays for best parking.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection allowed. No motorized excavation or heavy machinery. Pack out all trash. Respect all existing structures and historical sites.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lb maximum per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy machinery\nPack out all trash\nRespect historical sites and structures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "sharp_material",
+    "loose_rock",
+    "flash_floods"
+  ],
+  "nearest_services": "Las Vegas, approximately 15 miles south. Full services including gas, water, food, and emergency medical care.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Uneven rocky desert pavement requires sturdy footwear; not suitable for wheelchairs or limited mobility. Parking pullouts at ground level with short walking distances to collecting areas. Intense heat in summer severely limits accessibility for elderly and those with heat sensitivity.",
+  "alternative_names": [],
+  "nearest_city": "Las Vegas",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/black-mountain-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find at Black Mountain near Las Vegas?",
+      "answer": "Black Mountain is known for colorful agate, banded jasper, quartz, and chalcedony specimens. Agates here often display translucent layers and warm earth tones, while jasper specimens range from solid colors to striking banded patterns. Quality varies, but patience and systematic searching of the washes yield good specimens for collections."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Black Mountain, Nevada?",
+      "answer": "No permit is required for recreational rockhounding at Black Mountain. It is BLM public land where personal use collecting is allowed under Federal Land Policy and Management Act (FLPMA) regulations. You must follow the 25 pound per day collection limit and cannot engage in commercial collecting."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Black Mountain in Clark County?",
+      "answer": "October through April offers the best conditions at Black Mountain. The Mojave Desert climate makes summer extremely hot (often over 100 degrees F), which is dangerous for outdoor activity. Winter and spring provide comfortable temperatures and lower flash flood risk in the desert washes."
+    },
+    {
+      "question": "How far is Black Mountain rockhounding site from Las Vegas?",
+      "answer": "Black Mountain is approximately 15 miles northwest of Las Vegas via US 95. The short drive makes it accessible for day trips from the city. Easy access combined with no permit requirements and no fees makes it a popular choice for Las Vegas area rockhounders."
+    },
+    {
+      "question": "What tools and gear do you need for rockhounding at Black Mountain?",
+      "answer": "Bring sturdy hiking boots suitable for rocky terrain, a small hand pick or pry bar for extracting specimens, and a collection bag or backpack. Most importantly, bring at least 2-3 gallons of water per person, sun protection (hat, sunscreen, sunglasses), and a magnet to identify iron-rich specimens quickly. A GPS device or smartphone with offline maps is helpful given sparse cell service."
+    },
+    {
+      "question": "Is Black Mountain a good rockhounding site for beginners?",
+      "answer": "Yes, Black Mountain is excellent for beginners. The terrain is accessible and relatively easy to navigate, no permits are required, there are no fees, and agates and jasper specimens are abundant on the surface and in shallow washes. Beginners can collect quality material in just a few hours without expensive equipment. The short distance from Las Vegas also makes it convenient for learning rockhounding basics."
+    }
+  ],
+  "meta_title": "Black Mountain Rockhounding - Nevada BLM Land",
+  "meta_description": "Find agate, jasper, and quartz at Black Mountain near Las Vegas. Free BLM rockhounding, no permit required. 25 lb daily limit. October-April best.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T06:44:49.281Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:10.659Z"
+}

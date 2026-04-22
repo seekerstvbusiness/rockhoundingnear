@@ -1,0 +1,98 @@
+{
+  "slug": "stanley-id",
+  "name": "Stanley",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Custer County Area",
+  "city_slug": "custer-county",
+  "county": "Custer",
+  "county_slug": "custer",
+  "lat": 44.223399,
+  "lng": -114.949185,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Feldspar"
+  ],
+  "short_description": "High-altitude BLM rockhounding near Stanley, Idaho. Find quartz, chalcedony, and agate in scenic mountain terrain. Free access with no permit required.",
+  "description": "Stanley sits at 6,250 feet elevation in the heart of central Idaho's Custer County, offering excellent rockhounding opportunities on BLM land without permits or fees. This region is known for its granite-based geology and hydrothermal alteration zones that produce quality quartz specimens, feldspar crystals, and chalcedony deposits. The gentle slopes and accessible terrain make this ideal for families and beginners looking to collect in a scenic mountain setting with reliable finds.\n\nThe area benefits from its position in the Salmon River Mountains, where Precambrian granite intrusions have been weathered and altered over millions of years. Quartz veins and feldspar-rich outcrops are common along drainages and exposed ridge faces. Local prospectors have worked these claims for decades, making well-established collection zones accessible to recreational rockhounders.\n\nExpect to find small to medium quartz crystals, translucent chalcedony nodules, and occasional agate fragments in stream beds and hillside exposures. The high elevation provides a cool collecting environment even in summer months. Rocky outcrops and gentle slopes offer multiple collecting micro-sites within short hiking distances from parking areas.\n\nThis location is best suited for collectors with basic experience who want to explore productive ground without the pressure of fee digs or commercial claims. The combination of public access, reliable mineral deposits, and scenic mountain views makes Stanley a compelling destination for Pacific Northwest and northern Rockies rockhounders.",
+  "history": "Stanley's geology reflects its position within the central Idaho batholith, a massive granite complex formed during Cretaceous plutonic activity 80-100 million years ago. Subsequent metamorphism, hydrothermal circulation, and Quaternary weathering have concentrated quartz veins and altered feldspar-rich zones that rockhounders exploit today. Local prospecting activity in the late 1800s and early 1900s identified promising mineral formations in this region, establishing it as a reliable collecting ground.",
+  "tips": "Search active stream beds and cutbanks where quartz and chalcedony nodules accumulate in gravel layers - look for white, milky, or translucent stones. Target exposed granite outcrops and weathered ridge faces where feldspar crystals are visible in the rock matrix; use a small hand lens to identify potential specimens before extracting. Bring a light hammer and cold chisel for working quartz-bearing rocks; wear heavy gloves as fresh granite fractures produce sharp edges. Check weather forecasts carefully - afternoon thunderstorms are common in this mountain zone even in summer, and the area drains quickly into flash-flood-prone canyons.",
+  "terrain_notes": "Elevation 6,250 feet in mountain terrain with gentle slopes and mixed conifer forest. Uneven rocky footing typical of granite country; well-drained soils and seasonal water flow in drainages. Parking areas are typically unpaved pullouts along forest service roads, with 0.25 to 1 mile hiking to productive collecting zones. Terrain is generally accessible to hikers of moderate fitness; no major cliffs or technical scrambling required.",
+  "best_season": "June - September. High elevation means winter and early spring access is blocked by snow (typically October through May). Peak collecting is July-August when roads and trails are clear and weather is stable, though afternoon thunderstorms are common. September offers excellent conditions with fewer visitors.",
+  "written_directions": "From Stanley, Idaho (the town), take Forest Service Road 50 east toward Custer and the Salmon River drainage. Drive approximately 8-12 miles into the Custer County BLM area, watching for unsigned pullouts and old mining access roads on north and south aspects. Productive collecting areas are typically 0.5-2 miles hiking distance from road-accessible parking. GPS coordinates 44.223399, -114.949185 mark a central collecting zone; use a detailed Idaho BLM map to locate alternate access points and seasonal road conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved forest service roads, generally passable in passenger vehicles during dry season (June-September). Spring runoff and winter storms create washboard and pothole conditions; high-clearance or all-wheel-drive recommended for early-season visits.",
+  "parking_notes": "Informal pullouts and cleared areas along forest service roads. Capacity typically 2-6 vehicles. No facilities or marked lots; sites vary by season and road maintenance.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No removal of specimens from active mining claims (marked with claim stakes). Respect all private property boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or sale of specimens\nNo motorized equipment for excavation\nAvoid marked active claims\nNo removal of rock from active mining areas",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Stanley, Idaho (the town) approximately 8-12 miles west. Gas, food, lodging, and supplies available. No services at collecting sites.",
+  "accessibility_notes": "Relatively easy terrain with gentle slopes and uneven rocky footing. Unpaved road to parking areas; passenger vehicles can access most sites in dry season. Hiking distances from parking are typically short (0.5-2 miles) on unimproved trails. Sturdy hiking boots recommended due to rocky, uneven ground. No wheelchair access. Moderate fitness required for comfortable collecting.",
+  "alternative_names": [],
+  "nearest_city": "Stanley",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/stanley-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Stanley, Idaho?",
+      "answer": "Stanley BLM land is known for quartz crystals, translucent chalcedony, agate fragments, and feldspar specimens. The area's granite geology produces reliable quartz deposits in stream beds and hillside outcrops. Most collectors find small to medium specimens suitable for cabochons, tumbling, or display."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Stanley?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Stanley. Under FLPMA regulations, personal use collection is allowed with no permit. However, you must follow the 25 lb per day limit and avoid active mining claims marked with stakes."
+    },
+    {
+      "question": "When is the best time to go rockhounding at Stanley, Idaho?",
+      "answer": "June through September is the optimal collecting season. High elevation (6,250 feet) means snow blocks access October-May. July and August offer warm, stable weather, though afternoon thunderstorms are common. September provides excellent conditions with fewer visitors and clear skies."
+    },
+    {
+      "question": "How difficult is rockhounding near Stanley for beginners?",
+      "answer": "Stanley is beginner-friendly with easy terrain, gentle slopes, and reliable finds. Short hiking distances (0.5-2 miles) from parking areas lead to productive collecting zones. The combination of free access, no permits, and abundant quartz makes this ideal for families and new rockhounders ages 8 and up."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Stanley?",
+      "answer": "Bring a rock hammer, cold chisel, hand lens, and heavy work gloves for safely extracting quartz and feldspar from granite. A backpack, water bottle, and sun protection are essential for mountain collecting. Sturdy hiking boots handle rocky terrain well. A detailed BLM map helps locate productive zones and avoid private claims."
+    },
+    {
+      "question": "Are there hazards or weather concerns when rockhounding near Stanley, Idaho?",
+      "answer": "Afternoon thunderstorms are common at this 6,250-foot elevation even in summer months, creating flash flood risk in drainages. Cold nights and cool days are typical. Rocky terrain has loose rocks and sharp granite edges. Carry rain gear, extra layers, and check weather forecasts. The remote location means spotty cell service, so inform someone of your plans."
+    }
+  ],
+  "meta_title": "Stanley Idaho Rockhounding - Free BLM Quartz & Agate",
+  "meta_description": "Find quartz, chalcedony, and agate at Stanley, Idaho on free BLM land. No permit required, 25 lb daily limit. Easy mountain rockhounding June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types inferred from regional granite geology without specific source",
+    "nearest_city_distance estimated from GPS data",
+    "road_conditions based on typical BLM forest service road standards",
+    "parking_notes based on typical high-altitude BLM access patterns"
+  ],
+  "enriched_at": "2026-04-22T06:44:12.189Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:57.023Z"
+}

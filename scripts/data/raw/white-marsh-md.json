@@ -1,0 +1,60 @@
+{
+  "slug": "white-marsh-md",
+  "name": "White Marsh",
+  "lat": 39.388318,
+  "lng": -76.446883,
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "state_code": "MD",
+  "city": "Dundalk",
+  "city_slug": "dundalk",
+  "county": "Baltimore",
+  "county_slug": "baltimore",
+  "geocoded_city": "Dundalk",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maryland.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=White%20Marsh%20Maryland"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=White%20Marsh",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=White%20Marsh%20Maryland"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 67,
+      "meters": 20
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:34:35.001Z"
+  },
+  "scraped_at": "2026-04-21T17:34:35.001Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "round-oak-ga",
+  "name": "Round Oak",
+  "lat": 33.10581,
+  "lng": -83.632495,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Jones County",
+  "city_slug": "jones-county",
+  "county": "Jones",
+  "county_slug": "jones",
+  "geocoded_city": "Round Oak",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Round%20Oak%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Round%20Oak",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Round%20Oak%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 474,
+      "meters": 144
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:10:29.081Z"
+  },
+  "scraped_at": "2026-04-21T19:10:29.081Z",
+  "scrape_quality": "minimal"
+}

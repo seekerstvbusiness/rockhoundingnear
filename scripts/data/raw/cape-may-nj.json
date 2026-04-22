@@ -1,0 +1,60 @@
+{
+  "slug": "cape-may-nj",
+  "name": "Cape May",
+  "lat": 38.930626,
+  "lng": -74.911177,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Cape May",
+  "city_slug": "cape-may",
+  "county": "Cape May",
+  "county_slug": "cape-may",
+  "geocoded_city": "Cape May",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cape%20May%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cape%20May",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cape%20May%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 8,
+      "meters": 2
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:41:03.931Z"
+  },
+  "scraped_at": "2026-04-21T18:41:03.931Z",
+  "scrape_quality": "minimal"
+}

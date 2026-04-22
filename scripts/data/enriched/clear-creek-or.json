@@ -1,0 +1,98 @@
+{
+  "slug": "clear-creek-or",
+  "name": "Clear Creek",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Vernonia",
+  "city_slug": "vernonia",
+  "county": "Columbia",
+  "county_slug": "columbia",
+  "lat": 45.800556,
+  "lng": -123.288866,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding site in northwestern Oregon's Cascade foothills. Collect agate and jasper from gentle stream deposits without permits or fees.",
+  "description": "Clear Creek is a scenic public rockhounding destination on BLM land in Columbia County's rugged backcountry. The creek sits at low elevation (696 ft) in a gentle slope terrain ideal for families and beginners. This area sits within the Cascade Range foothills where ancient volcanic activity and subsequent weathering created abundant silica-based minerals. Clear Creek's streambed has exposed agates, chalcedony, and jasper specimens in various colors and patterns.\n\nThe site offers excellent value for rockhounders - no permit required, no fees, and a 25 lb/day personal collection limit under BLM guidelines. The gentle slopes and accessible terrain make this suitable for children and those with moderate fitness levels. Creek collecting here is straightforward: work the gravels along the water line and check undercut banks where floods have exposed fresh material.\n\nOregon's volcanic geology gives Clear Creek exceptional mineral diversity. The surrounding Cascade volcanic formations weathered over millions of years, concentrating quartz-family minerals in the creek drainage. Expect thumb-sized to palm-sized specimens of translucent and opaque agate, often banded or fortified with iron oxides creating rust and brown tones.\n\nThe site is best visited October through April when water levels are moderate and weather is cool. Summer months see higher water volume and overgrown vegetation blocking creek access. Parking is primitive, and cell service is spotty, so come prepared with water and directions downloaded offline.",
+  "history": "Clear Creek lies within the Cascade volcanic province, where Eocene to Pliocene volcanic eruptions deposited thick sequences of basalt and andesite. These volcanic rocks weathered and eroded over millions of years, releasing silica-rich minerals into streams where they accumulated as secondary deposits. Local prospectors have worked this region sporadically for agate since the mid-20th century, and BLM public use areas remain productive for small-scale personal collection.",
+  "tips": "Focus your search on the main creek gravels, especially in bends where water velocity slows and heavier stones settle. Look for translucent or banded material with waxy luster - these are agate indicators. Bring a classifier screen and 5-gallon bucket to process gravels directly at the creek; this saves time and reduces digging impact. Chalcedony here often occurs in cream, white, and tan bands - break open pocket-sized rocks to check for fortified centers before deciding what to keep.",
+  "terrain_notes": "Elevation 696 ft with gentle slopes throughout the drainage. Terrain transitions from streamside gravel benches to light forest with mixed brush. Walking distance from parking to productive creek area is roughly 0.5 to 1 mile over uneven ground. Footing is rocky with exposed roots; sturdy shoes required but no technical hiking skills needed. Creek crossings are shallow in summer and fall.",
+  "best_season": "October - April. Water levels remain moderate, and cooler weather prevents heat fatigue. Wet conditions improve gravel exposure, and vegetation dies back. July through September sees high water and dense brush making access difficult.",
+  "written_directions": "From Vernonia, head east on Vernonia-Birch Creek Road approximately 8 miles toward higher elevation. Continue on BLM-access roads (road conditions vary seasonally) toward the Clear Creek drainage. Look for BLM rockhounding area signs or parking pullouts along the creek valley. GPS coordinates (45.800556, -123.288866) will guide you to the main accessible section. Roads may be rough and require high-clearance vehicles after heavy rain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt road with washboard texture. May be impassable during heavy rain. High-clearance or all-wheel-drive recommended; passenger vehicles possible in dry conditions.",
+  "parking_notes": "Primitive pullouts and turnouts along the creek access road. Limited capacity (2-4 vehicles). No developed facilities. Parking near the creek is first-come, first-served.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or use of heavy equipment. Pack out all waste. Respect closure areas marked by BLM. No collection from private inholdings.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nPack out all waste\nRespect BLM closure areas\nNo collection on private land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "cold"
+  ],
+  "nearest_services": "Vernonia, 8-10 miles west. Gas, food, and lodging available. No services at the site.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers. Rough dirt road to parking area requires high-clearance or all-wheel-drive vehicle. Creek access involves uneven rocky ground with exposed roots. Sturdy footwear essential. Not suitable for wheelchair users or those with severe mobility limitations. Children ages 6+ capable of collecting with adult supervision.",
+  "alternative_names": [],
+  "nearest_city": "Vernonia",
+  "nearest_city_distance": 9,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/clear-creek-or/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What can I find rockhounding at Clear Creek in Oregon?",
+      "answer": "Clear Creek produces quality agate, chalcedony, jasper, and quartz specimens. Most finds are thumb to palm-sized pieces with translucent or banded patterns. Chalcedony here occurs in cream, tan, and white colors; agate often features brown or rust fortification from iron oxides. Stream gravels and undercut banks are the most productive areas."
+    },
+    {
+      "question": "Do I need a permit to rockhound Clear Creek on BLM land?",
+      "answer": "No permit is required. Clear Creek sits on public BLM land in Columbia County where recreational mineral collection is allowed without permission. You must follow BLM regulations: personal use only, maximum 25 lbs per day, no commercial collection, and no motorized excavation."
+    },
+    {
+      "question": "What is the best time of year to visit Clear Creek for rockhounding?",
+      "answer": "October through April is ideal. Water levels are moderate, vegetation is sparse, and cooler weather makes fieldwork comfortable. Avoid July through September when high water floods the creek and dense brush blocks access to productive areas."
+    },
+    {
+      "question": "Is Clear Creek rockhounding site suitable for beginners and kids?",
+      "answer": "Yes. The terrain is easy with gentle slopes and accessible creek gravels. Kids ages 6 and up can participate with adult supervision. No technical skills or special equipment are required - basic tools like a classifier and bucket make processing gravels simple and productive."
+    },
+    {
+      "question": "What tools and equipment should I bring to Clear Creek?",
+      "answer": "Bring sturdy hiking boots, a 5-gallon bucket, a classifier screen, a small pry bar or rock hammer, and a backpack for specimens. Download offline maps since cell service is spotty. Pack water, snacks, and a rain jacket - weather can change quickly in the Cascades."
+    },
+    {
+      "question": "How far is Clear Creek rockhounding site from Vernonia Oregon?",
+      "answer": "Clear Creek is approximately 9 miles east of Vernonia, Oregon, near the Columbia County line. From Vernonia, take Vernonia-Birch Creek Road east for about 8 miles toward the creek drainage. A high-clearance or all-wheel-drive vehicle is recommended for rough BLM access roads."
+    }
+  ],
+  "meta_title": "Clear Creek Rockhounding - Oregon BLM",
+  "meta_description": "Find agate, jasper, and chalcedony at Clear Creek on Oregon BLM land. No permit needed, 25 lb/day limit. Easy terrain near Vernonia.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (road names inferred from regional knowledge)",
+    "parking_notes (specific capacity estimated)",
+    "nearest_city_distance (estimated from GPS)",
+    "hazards (inferred from creek and elevation)",
+    "cell_service (estimated as typical for rural Oregon BLM)"
+  ],
+  "enriched_at": "2026-04-21T18:52:45.295Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:54:25.813Z"
+}

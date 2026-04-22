@@ -1,0 +1,60 @@
+{
+  "slug": "chrome-hill-md",
+  "name": "Chrome Hill",
+  "lat": 39.627848,
+  "lng": -76.409346,
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "state_code": "MD",
+  "city": "Harford County",
+  "city_slug": "harford-county",
+  "county": "Harford",
+  "county_slug": "harford",
+  "geocoded_city": "Ferncliff",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maryland.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chrome%20Hill%20Maryland"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chrome%20Hill",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chrome%20Hill%20Maryland"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 443,
+      "meters": 135
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:36:09.688Z"
+  },
+  "scraped_at": "2026-04-21T17:36:09.689Z",
+  "scrape_quality": "minimal"
+}

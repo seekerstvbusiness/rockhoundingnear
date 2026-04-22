@@ -1,0 +1,158 @@
+Pipeline starting: 1 state(s), 25 locations, stages [3,4,5,6]
+
+════════════════════════════════════════════════════════════
+State: arizona  (25 locations)
+
+────────────────────────────────────────────────────────────
+Stage: Enrich  (25 locations, 5 workers)
+  ↩ skip (exists): foothills-of-sunset-peak-az
+  → enriching: Canyon to N of road 1 mi. S of Apache Nat. Forest (scrape: partial)
+  → enriching: In pegmatite outcrops on area roadsides (scrape: partial)
+  → enriching: All along both sides of road from Morristown to Castle Hot Springs (scrape: partial)
+  → enriching: Area around hotel (scrape: partial)
+  [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1/25  ETA 2s    → enriching: Road along Agua Fria River (scrape: partial)
+  ✓ Area around hotel - 3 gem types - 7 needs_review fields
+  [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2/25  ETA 4m    → enriching: Emerald Isle Mine (scrape: partial)
+  ✓ In pegmatite outcrops on area roadsides - 4 gem types - 6 needs_review fields
+  [████░░░░░░░░░░░░░░░░░░░░░░░░░░] 3/25  ETA 3m    → enriching: BiMetal Gold Mine (scrape: partial)
+  ✓ Canyon to N of road 1 mi. S of Apache Nat. Forest - 3 gem types - 4 needs_review fields
+  [█████░░░░░░░░░░░░░░░░░░░░░░░░░] 4/25  ETA 2m    → enriching: Kingman Feldspar Mine (scrape: partial)
+  ✓ Road along Agua Fria River - 3 gem types - 5 needs_review fields
+  [██████░░░░░░░░░░░░░░░░░░░░░░░░] 5/25  ETA 2m    → enriching: 15 mi. NW of Kingsman (scrape: partial)
+  ✓ All along both sides of road from Morristown to Castle Hot Springs - 4 gem types - 5 needs_review fields
+  [███████░░░░░░░░░░░░░░░░░░░░░░░] 6/25  ETA 2m    → enriching: Golden Gem & Vanderbilt Mines (scrape: partial)
+  ✓ Emerald Isle Mine - 3 gem types - 5 needs_review fields
+  [████████░░░░░░░░░░░░░░░░░░░░░░] 7/25  ETA 2m    → enriching: Area of Mineral Park & Cerbat (scrape: partial)
+  ✓ Kingman Feldspar Mine - 2 gem types - 5 needs_review fields
+  [██████████░░░░░░░░░░░░░░░░░░░░] 8/25  ETA 2m    → enriching: Area near Meadow Creek Pass (scrape: partial)
+  ✓ BiMetal Gold Mine - 2 gem types - 5 needs_review fields
+  [███████████░░░░░░░░░░░░░░░░░░░] 9/25  ETA 1m    → enriching: On top of steep hill (scrape: partial)
+  ✓ Golden Gem & Vanderbilt Mines - 2 gem types - 6 needs_review fields
+  [████████████░░░░░░░░░░░░░░░░░░] 10/25  ETA 1m    → enriching: Area of old Stanton mining camp (scrape: partial)
+  ✓ 15 mi. NW of Kingsman - 4 gem types - 5 needs_review fields
+  [█████████████░░░░░░░░░░░░░░░░░] 11/25  ETA 60s    → enriching: On surface around Rich Hill (scrape: partial)
+  ✓ Area near Meadow Creek Pass - 3 gem types - 6 needs_review fields
+  [██████████████░░░░░░░░░░░░░░░░] 12/25  ETA 1m    → enriching: Area of old Octave mining camp (scrape: partial)
+  ✓ On top of steep hill - 3 gem types - 5 needs_review fields
+  [████████████████░░░░░░░░░░░░░░] 13/25  ETA 59s    → enriching: Congress Mine (scrape: partial)
+  ✓ On surface around Rich Hill - 3 gem types - 5 needs_review fields
+  [█████████████████░░░░░░░░░░░░░] 14/25  ETA 55s    → enriching: Under Burro Creek Bridge (scrape: partial)
+  ✓ Area of Mineral Park & Cerbat - 4 gem types - 4 needs_review fields
+  [██████████████████░░░░░░░░░░░░] 15/25  ETA 47s    → enriching: Date Creek area (scrape: partial)
+  ✓ Area of old Stanton mining camp - 3 gem types - 3 needs_review fields
+  [███████████████████░░░░░░░░░░░] 16/25  ETA 41s    → enriching: Oxbow & Silver Butte Mines (scrape: partial)
+  ✓ Area of old Octave mining camp - 3 gem types - 6 needs_review fields
+  [████████████████████░░░░░░░░░░] 17/25  ETA 41s    → enriching: Along North Creek Trail (scrape: partial)
+  ✓ Congress Mine - 3 gem types - 5 needs_review fields
+  [██████████████████████░░░░░░░░] 18/25  ETA 34s    → enriching: Area around Diamond Point Lookout (scrape: partial)
+  ✓ Date Creek area - 3 gem types - 5 needs_review fields
+  [███████████████████████░░░░░░░] 19/25  ETA 28s    → enriching: Area around Ellison Creek (scrape: partial)
+  ✓ Oxbow & Silver Butte Mines - 3 gem types - 5 needs_review fields
+  [████████████████████████░░░░░░] 20/25  ETA 23s    → enriching: Area of Natural Bridge (scrape: partial)
+  ✓ Under Burro Creek Bridge - 4 gem types - 8 needs_review fields
+  [█████████████████████████░░░░░] 21/25  ETA 18s    ✓ Along North Creek Trail - 3 gem types - 7 needs_review fields
+  [██████████████████████████░░░░] 22/25  ETA 14s    ✓ Area around Diamond Point Lookout - 3 gem types - 6 needs_review fields
+  [████████████████████████████░░] 23/25  ETA 9s    ✓ Area around Ellison Creek - 3 gem types - 8 needs_review fields
+  [█████████████████████████████░] 24/25  ETA 5s    ✓ Area of Natural Bridge - 3 gem types - 6 needs_review fields
+  [██████████████████████████████] 25/25  ETA 0s  
+  ✓ Enrich: 25/25 done  (126s)
+
+────────────────────────────────────────────────────────────
+Stage: Images  (25 locations, 3 workers)
+  → finding images: Foothills of Sunset Peak [Quartz, Agate, Jasper]
+  → finding images: Canyon to N of road 1 mi. S of Apache Nat. Forest [Quartz, Agate, Jasper]
+  → finding images: In pegmatite outcrops on area roadsides [Quartz, Feldspar, Mica]
+    ~ rejected Quartz photo: wrong specimen or not recognized
+    ~ rejected Quartz photo: wrong specimen or not recognized
+  ✓ In pegmatite outcrops on area roadsides — 0 image(s) saved
+  [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1/25  ETA 3m    → finding images: All along both sides of road from Morristown to Castle Hot Springs [Agate, Chalcedony, Jasper]
+    + mineral: Agate (85KB)
+    + mineral: Agate (85KB)
+    + mineral: Agate (85KB)
+    ~ using mineral photo as cover (no location photo found)
+  ✓ Canyon to N of road 1 mi. S of Apache Nat. Forest — 1 image(s) saved
+  [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2/25  ETA 3m    → finding images: Area around hotel [Quartz, Agate, Jasper]
+    ~ using mineral photo as cover (no location photo found)
+  ✓ Foothills of Sunset Peak — 1 image(s) saved
+  [████░░░░░░░░░░░░░░░░░░░░░░░░░░] 3/25  ETA 2m    → finding images: Road along Agua Fria River [Agate, Jasper, Quartz]
+    ~ using mineral photo as cover (no location photo found)
+  ✓ All along both sides of road from Morristown to Castle Hot Springs — 1 image(s) saved
+  [█████░░░░░░░░░░░░░░░░░░░░░░░░░] 4/25  ETA 2m    → finding images: Emerald Isle Mine [Emerald, Beryl, Quartz]
+    + mineral: Agate (85KB)
+    + mineral: Agate (85KB)
+    ~ using mineral photo as cover (no location photo found)
+  ✓ Road along Agua Fria River — 1 image(s) saved
+  [██████░░░░░░░░░░░░░░░░░░░░░░░░] 5/25  ETA 1m    → finding images: BiMetal Gold Mine [Gold, Quartz]
+    ~ using mineral photo as cover (no location photo found)
+  ✓ Area around hotel — 1 image(s) saved
+  [███████░░░░░░░░░░░░░░░░░░░░░░░] 6/25  ETA 1m    → finding images: Kingman Feldspar Mine [Feldspar, Quartz]
+    ~ rejected Beryl photo: wrong specimen or not recognized
+  ✓ Kingman Feldspar Mine — 0 image(s) saved
+  [████████░░░░░░░░░░░░░░░░░░░░░░] 7/25  ETA 1m    → finding images: 15 mi. NW of Kingsman [Agate, Jasper, Quartz]
+  ✓ Emerald Isle Mine — 0 image(s) saved
+  [██████████░░░░░░░░░░░░░░░░░░░░] 8/25  ETA 57s    → finding images: Golden Gem & Vanderbilt Mines [Gold, Quartz]
+  ✓ BiMetal Gold Mine — 0 image(s) saved
+  [███████████░░░░░░░░░░░░░░░░░░░] 9/25  ETA 49s    → finding images: Area of Mineral Park & Cerbat [Quartz, Tourmaline, Fluorite]
+  ✓ Golden Gem & Vanderbilt Mines — 0 image(s) saved
+  [████████████░░░░░░░░░░░░░░░░░░] 10/25  ETA 45s    → finding images: Area near Meadow Creek Pass [Agate, Chalcedony, Quartz]
+    + mineral: Agate (85KB)
+    ~ using mineral photo as cover (no location photo found)
+  ✓ 15 mi. NW of Kingsman — 1 image(s) saved
+  [█████████████░░░░░░░░░░░░░░░░░] 11/25  ETA 43s    → finding images: On top of steep hill [Quartz, Agate, Jasper]
+  ✓ Area of Mineral Park & Cerbat — 0 image(s) saved
+  [██████████████░░░░░░░░░░░░░░░░] 12/25  ETA 37s    → finding images: Area of old Stanton mining camp [Quartz, Gold, Tourmaline]
+    + mineral: Agate (85KB)
+  ✓ Area of old Stanton mining camp — 0 image(s) saved
+  [████████████████░░░░░░░░░░░░░░] 13/25  ETA 35s    → finding images: On surface around Rich Hill [Gold, Quartz, Feldspar]
+    + mineral: Agate (85KB)
+    ~ using mineral photo as cover (no location photo found)
+  ✓ On top of steep hill — 1 image(s) saved
+  [█████████████████░░░░░░░░░░░░░] 14/25  ETA 31s    → finding images: Area of old Octave mining camp [Quartz, Gold, Feldspar]
+    ~ using mineral photo as cover (no location photo found)
+  ✓ Area near Meadow Creek Pass — 1 image(s) saved
+  [██████████████████░░░░░░░░░░░░] 15/25  ETA 28s    → finding images: Congress Mine [Quartz, Gold, Silver]
+  ✓ On surface around Rich Hill — 0 image(s) saved
+  [███████████████████░░░░░░░░░░░] 16/25  ETA 24s    → finding images: Under Burro Creek Bridge [Agate, Chalcedony, Jasper]
+  ✓ Area of old Octave mining camp — 0 image(s) saved
+  [████████████████████░░░░░░░░░░] 17/25  ETA 21s    → finding images: Date Creek area [Agate, Jasper, Quartz]
+    + mineral: Agate (85KB)
+    + mineral: Agate (85KB)
+  ✓ Congress Mine — 0 image(s) saved
+  [██████████████████████░░░░░░░░] 18/25  ETA 18s    → finding images: Oxbow & Silver Butte Mines [Quartz, Feldspar, Silver]
+    ~ using mineral photo as cover (no location photo found)
+  ✓ Under Burro Creek Bridge — 1 image(s) saved
+  [███████████████████████░░░░░░░] 19/25  ETA 16s    → finding images: Along North Creek Trail [Quartz, Jasper, Agate]
+    ~ using mineral photo as cover (no location photo found)
+  ✓ Date Creek area — 1 image(s) saved
+  [████████████████████████░░░░░░] 20/25  ETA 13s    → finding images: Area around Diamond Point Lookout [Quartz, Jasper, Chalcedony]
+  ✓ Oxbow & Silver Butte Mines — 0 image(s) saved
+  [█████████████████████████░░░░░] 21/25  ETA 10s    → finding images: Area around Ellison Creek [Quartz, Agate, Jasper]
+    + mineral: Agate (85KB)
+  ✓ Area around Diamond Point Lookout — 0 image(s) saved
+  [██████████████████████████░░░░] 22/25  ETA 8s    → finding images: Area of Natural Bridge [Quartz, Agate, Jasper]
+    + mineral: Agate (85KB)
+    ~ using mineral photo as cover (no location photo found)
+  ✓ Along North Creek Trail — 1 image(s) saved
+  [████████████████████████████░░] 23/25  ETA 5s      ~ using mineral photo as cover (no location photo found)
+  ✓ Area around Ellison Creek — 1 image(s) saved
+  [█████████████████████████████░] 24/25  ETA 2s      + mineral: Agate (85KB)
+    ~ using mineral photo as cover (no location photo found)
+  ✓ Area of Natural Bridge — 1 image(s) saved
+  [██████████████████████████████] 25/25  ETA 0s  
+  ✓ Images: 25/25 done  (64s)
+
+────────────────────────────────────────────────────────────
+Stage: Validate  (25 locations)
+  ✓ Validate: 0 passed, 25 failed
+
+────────────────────────────────────────────────────────────
+Stage: Import
+Found 0 validated locations for arizona
+Nothing to import.
+Found 0 validated locations for arizona
+Nothing to import.
+
+════════════════════════════════════════════════════════════
+arizona complete — enrich: 25/25  |  images: 25/25  |  validate: 0/25  |  import: 25/25
+
+All done.

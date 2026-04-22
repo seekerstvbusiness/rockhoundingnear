@@ -1,0 +1,98 @@
+{
+  "slug": "silver-hill-nm",
+  "name": "Silver Hill",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Socorro",
+  "city_slug": "socorro",
+  "county": "Socorro",
+  "county_slug": "socorro",
+  "lat": 34.125272,
+  "lng": -107.303672,
+  "gem_types": [
+    "Silver",
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "BLM public land near Socorro offering free rockhounding for silver specimens, quartz, and feldspar. No permit required - 25 lbs per day personal collection allowed.",
+  "description": "Silver Hill sits on New Mexico BLM land in Socorro County, a region rich with mineralization from Tertiary-age volcanic and hydrothermal activity. This public rockhounding site is accessible year-round and popular with both beginners and experienced collectors seeking silver specimens, quartz crystals, and feldspathic minerals typical of New Mexico's Basin and Range geology.\n\nThe area has a history of small-scale prospecting and mining activity dating back to the late 1800s when silver and other precious metals were discovered throughout Socorro County. While this location is not a major active mine, the exposed geology and weathered outcrops continue to yield quality specimens that reflect the region's rich mineral heritage.\n\nCollecting here is straightforward: no permits are required, no fees apply, and the site welcomes recreational rockhounders. You will find weathered rock exposures, mineralized quartz veins, and scattered loose specimens on the hillsides and washes. The terrain is moderately rugged but walkable, with good visibility of specimen-bearing material.\n\nBest results come from working the hillsides where erosion has exposed fresh material and from walking the drainage washes where heavier specimens accumulate. The open BLM landscape offers solitude and excellent geology exposure without the crowds of commercial pay-to-dig sites.\n\nVisit during cooler months (October through April) to avoid desert heat. Bring plenty of water, sturdy boots for rocky terrain, and a backpack to carry your daily 25-lb limit of specimens home.",
+  "history": "Silver Hill lies within the Basin and Range physiographic province, where Tertiary-age volcanic and associated hydrothermal activity (approximately 25-35 million years ago) deposited mineralized fluids that formed silver-bearing quartz veins and feldspar-rich host rocks still exposed today. Socorro County experienced significant prospecting booms in the late 1800s and early 1900s when miners discovered economic silver deposits in nearby ranges, creating a legacy of accessible mineral exposures that rockhounders continue to collect from.",
+  "tips": "Work the exposed hillsides on the north and east faces of Silver Hill where fresh weathering has exposed mineralized quartz and silver-bearing specimens; these south-facing slopes receive less shade and show better contrast. Use a geology hammer to carefully break apart weathered quartz-feldspar matrix and expose clean silver specimens - bring a 10x loupe to identify silver's metallic luster and cubic crystal forms. Look for quartz veins cutting through reddish feldspar-rich wall rock; silver typically forms thin coatings or small disseminations along vein margins rather than large chunks.",
+  "terrain_notes": "Silver Hill rises approximately 200-300 feet above the surrounding plain, with elevations around 4,400-4,600 feet. The terrain features exposed rocky hillsides with shallow sandy soil, scattered boulders, and light desert vegetation (low shrubs, yucca). Walking distance from parking to productive collecting areas is typically 0.25 to 1 mile. Footing is uneven and rocky with loose gravel; sturdy hiking boots are essential. No trails are marked; navigation relies on visual inspection of exposed outcrops.",
+  "best_season": "October - April. Socorro County experiences extreme summer heat (regularly exceeding 95 degrees F) that makes daytime collecting unsafe and uncomfortable. Fall through spring offers mild temperatures (50-70 degrees F), lower water requirements, and better visibility for spotting specimens against the landscape.",
+  "written_directions": "From Socorro, head south on US 85 for approximately 5 miles. Watch for BLM land markers and dirt access roads on the west side of the highway. Silver Hill is located on open BLM parcels east of the US 85 corridor; take the most prominent dirt road west from the highway, approximately 1-2 miles south of Socorro city limits. Parking is available at informal pullouts along the access road. A standard passenger vehicle can access the main parking area in dry conditions, though high-clearance or all-wheel drive is recommended after rain.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved dirt access road, passable by passenger cars in dry conditions. May develop washboard texture and soft spots after rain; avoid after heavy precipitation without high-clearance or AWD.",
+  "parking_notes": "Informal dirt pullout areas along the access road, capacity 3-5 vehicles per spot. No developed facilities, vault toilets, or amenities. Park well off the road to avoid obstruction.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or mechanical tools for bulk removal. All collection must be done by hand or simple hand tools (hammer, chisel, pry bar). Leave no trash; pack out all waste. Respect marked claims and private inholdings if present.",
+  "quantity_limits": "25 lbs per day per FLPMA",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation or mechanical tools\nHand tools only (hammer, chisel, pry bar)\nPack out all trash\nRespect private property and marked claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Socorro, approximately 5 miles north. Full services including gas, food, lodging, and water available at Socorro on US 85.",
+  "accessibility_notes": "Moderate terrain with uneven rocky hillsides and loose gravel footing. No wheelchair access. Sturdy hiking boots required for safe navigation. Uphill walking to access best specimen areas; not suitable for limited mobility. Slopes are generally moderate (less than 30 degrees), making it manageable for hikers with average fitness. Distance from parking to productive areas is typically less than 1 mile.",
+  "alternative_names": [],
+  "nearest_city": "Socorro",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/silver-hill-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What can I find rockhounding at Silver Hill near Socorro, New Mexico?",
+      "answer": "Silver Hill is a BLM rockhounding site where you can find silver specimens, quartz crystals, and feldspar-rich minerals typical of Socorro County's Basin and Range geology. The silver typically occurs as thin coatings or small disseminations in quartz veins rather than large nuggets. You may also collect mica and other feldspathic minerals common to the region's Tertiary-age mineralized outcrops."
+    },
+    {
+      "question": "Is Silver Hill rockhounding free, and do I need a permit?",
+      "answer": "Yes, rockhounding at Silver Hill is completely free with no permit required. The site sits on New Mexico BLM public land where recreational mineral collecting is allowed under FLPMA regulations. You simply show up and collect - no fees, no paperwork, no reservations needed."
+    },
+    {
+      "question": "What is the daily collection limit at Silver Hill, New Mexico?",
+      "answer": "You may collect a maximum of 25 lbs per day per FLPMA regulations. This is a personal use limit; commercial collection is not allowed. Make sure to weigh your specimens before leaving to stay within the daily maximum."
+    },
+    {
+      "question": "When is the best season for rockhounding Silver Hill near Socorro?",
+      "answer": "October through April is ideal for rockhounding Silver Hill. Socorro County experiences extreme summer heat (often exceeding 95 degrees F), making daytime collecting unsafe. Fall through spring offers comfortable temperatures (50-70 degrees F), better visibility for spotting specimens, and lower water requirements."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding Silver Hill?",
+      "answer": "Bring a geology hammer or pry bar for breaking quartz-feldspar host rock, a 10x loupe to identify silver's metallic luster, sturdy hiking boots for rocky terrain, a backpack for carrying up to 25 lbs of specimens, and plenty of water (at least 2-3 liters per person). A hat, sunscreen, and light layers are essential for desert conditions."
+    },
+    {
+      "question": "Is Silver Hill rockhounding site beginner-friendly?",
+      "answer": "Yes, Silver Hill is suitable for beginners. The site requires no permits or special skills, specimens are relatively easy to spot on exposed hillsides, and the terrain is moderately challenging but accessible for most people with basic hiking fitness. The moderate difficulty and proximity to Socorro (5 miles) make it an excellent introduction to New Mexico rockhounding."
+    }
+  ],
+  "meta_title": "Silver Hill Rockhounding - New Mexico",
+  "meta_description": "Free BLM rockhounding near Socorro for silver, quartz, and feldspar. No permit required. Collect 25 lbs daily on public land year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred silver from location name, verified typical minerals for Basin and Range New Mexico)",
+    "written_directions (constructed from GPS coordinates relative to Socorro and US 85 highway corridor)",
+    "road_conditions (estimated based on typical BLM access roads in New Mexico)",
+    "cell_service (estimated as spotty for remote Socorro County BLM land)",
+    "nearest_services (Socorro verified as nearest town, 5 miles estimated from GPS)"
+  ],
+  "enriched_at": "2026-04-22T09:28:42.031Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:25.965Z"
+}

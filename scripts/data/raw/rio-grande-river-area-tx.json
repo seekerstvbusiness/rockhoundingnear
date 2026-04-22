@@ -1,0 +1,60 @@
+{
+  "slug": "rio-grande-river-area-tx",
+  "name": "Rio Grande River Area",
+  "lat": 27.497889,
+  "lng": -99.492181,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Laredo",
+  "city_slug": "laredo",
+  "county": "Webb",
+  "county_slug": "webb",
+  "geocoded_city": "Laredo",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Rio%20Grande%20River%20Area%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Rio%20Grande%20River%20Area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Rio%20Grande%20River%20Area%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 349,
+      "meters": 106
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:50:59.022Z"
+  },
+  "scraped_at": "2026-04-21T18:50:59.022Z",
+  "scrape_quality": "minimal"
+}

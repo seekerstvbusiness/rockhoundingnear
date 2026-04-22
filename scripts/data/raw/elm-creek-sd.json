@@ -1,0 +1,60 @@
+{
+  "slug": "elm-creek-sd",
+  "name": "Elm Creek",
+  "lat": 43.565774,
+  "lng": -99.305883,
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "state_code": "SD",
+  "city": "America Township",
+  "city_slug": "america-township",
+  "county": "Brule",
+  "county_slug": "brule",
+  "geocoded_city": "America Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Elm%20Creek%20South%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Elm%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Elm%20Creek%20South%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1413,
+      "meters": 431
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:39:48.924Z"
+  },
+  "scraped_at": "2026-04-21T17:39:48.924Z",
+  "scrape_quality": "minimal"
+}

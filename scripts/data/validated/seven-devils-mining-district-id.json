@@ -1,0 +1,103 @@
+{
+  "slug": "seven-devils-mining-district-id",
+  "name": "Seven Devils Mining District",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Adams County Area",
+  "city_slug": "adams-county",
+  "county": "Adams",
+  "county_slug": "adams",
+  "lat": 45.166171,
+  "lng": -116.648855,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "Historic mining district in central Idaho's high country featuring gold, quartz, and jasper in scenic mountain terrain. Open BLM land with gentle slopes at 6820 feet elevation.",
+  "description": "The Seven Devils Mining District sits in the remote mountains of Adams County, Idaho, where historic prospectors worked gold and other precious metals in the 1800s and early 1900s. This BLM-managed area offers rockhounds the chance to explore mineralized ground in a pristine high-elevation environment at 6820 feet. The gentle slopes and open terrain make this location more accessible than many backcountry mining districts in Idaho, though you will need reliable vehicles and solid preparation.\n\nGeologically, this area sits within the Wallowa-Whitman Mountains and associated mineralized zones created by Tertiary-age igneous activity and hydrothermal alteration. Quartz veins, chalcedony deposits, and jasper formations are common throughout the district, often found in association with oxidized iron minerals and historic mining tailings. Gold and silver mineralization occur in quartz-rich outcrops and in stream gravels derived from eroded mineralized bedrock.\n\nRockhounders here can expect to find small quartz specimens, colorful jasper and chalcedony pieces, and occasionally small flakes or fine particles of gold in stream gravels. The high elevation and mountain setting mean cooler temperatures year-round and significant snow in winter months. Access is via rough forest roads that may require high-clearance or four-wheel-drive vehicles depending on season and recent maintenance.\n\nThis is working mining district land, so you may encounter mining claims and active prospects. Respect posted claims and do not disturb mining infrastructure or prospect pits. The isolation and remoteness of the location make it essential to come fully prepared with water, emergency supplies, and detailed maps. This is not a developed recreational site with amenities, so expect true backcountry conditions.",
+  "history": "The Seven Devils Mining District emerged as a productive gold and silver region during Idaho's mining booms of the late 1800s. Tertiary-age volcanism and associated hydrothermal systems created extensive quartz veining and mineralized zones throughout the Wallowa-Whitman Mountains, making this area attractive to hard-rock miners seeking precious metals in glaciated, high-elevation terrain.",
+  "tips": "Search along old mining roads and in stream washes where water has concentrated heavier minerals and quartz fragments. Bring a 10x magnifier or loupe to inspect quartz chips for tiny gold flakes, and use a small pan to test gravels in active streams. Look for milky or cloudy quartz veins cutting through exposed bedrock on ridge slopes, as these often carry visible mineralization. The gentle slope terrain allows exploration of broader areas than steeper districts, so plan multiple transects and map your route carefully before darkness falls.",
+  "terrain_notes": "Elevation 6820 feet with gentle to moderate slopes covered in coniferous forest and alpine meadow. Rocky, uneven footing throughout. No maintained trails; navigation by map and compass essential. Parking areas are rough pullouts along forest roads. Walking distances from vehicle to productive collecting areas can range from 0.5 to 3 miles depending on your specific route and mine workings.",
+  "best_season": "June - September. Higher elevation means heavy snow November through May, and roads may be impassable. July and August offer optimal conditions, though afternoon thunderstorms are common. Early June and September can have patches of snow and muddy conditions.",
+  "written_directions": "From Adams, Idaho, drive northeast on Forest Road 265 (also called the Council-Buffalo Hump Road) for approximately 18 miles into the Seven Devils area. This is a rough, high-clearance road that climbs into the mountains. Continue on connecting forest roads following signage toward the mining district. GPS coordinates 45.166171, -116.648855 mark a central reference point within the district. Consult detailed Forest Service and BLM maps before departing, as signage can be minimal and roads are not well-marked. Cell service is unreliable, so download offline maps. Allow 1.5 to 2 hours of driving time from Adams. High-clearance or four-wheel-drive vehicle strongly recommended.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough forest roads with ruts, rocks, and washboard surface. High-clearance or four-wheel-drive required. Some sections may be impassable in wet conditions or heavy snow.",
+  "parking_notes": "Rough pullouts and informal parking areas along forest roads. No developed lot. Parking capacity very limited. Leave space for other vehicles and mining operations.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Respect all posted mining claims and do not disturb claim markers, mine workings, or prospect pits. Do not collect from active mining operations. Pack out all trash. Leave the area in the condition you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect posted mining claims\nDo not disturb mine workings or prospect infrastructure\nPack out all trash\nNo collection from active mining operations",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "abandoned_mines",
+    "cold",
+    "remote",
+    "loose_rock",
+    "wildlife",
+    "sharp_material"
+  ],
+  "nearest_services": "Adams, Idaho, approximately 18 miles south. Limited services available. Bring all food, water, and fuel. Nearest full services in Council or New Meadows, about 40 miles away.",
+  "accessibility_notes": "High-elevation mountain terrain with uneven, rocky footing throughout. No marked trails or wheelchair access. Steep terrain and exposure in some areas. Altitude of 6820 feet may affect visitors unaccustomed to elevation. Sturdy hiking boots and excellent physical fitness required. Navigation by map and compass essential due to lack of signage. This is not suitable for limited mobility or young children.",
+  "alternative_names": [
+    "Seven Devils",
+    "Seven Devils Mountains"
+  ],
+  "nearest_city": "Adams",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/seven-devils-mining-district-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can you find at Seven Devils Mining District in Idaho?",
+      "answer": "The primary finds are quartz specimens, chalcedony, colorful jasper, and occasionally small flakes of gold in stream gravels. You may also encounter oxidized iron minerals and quartz veins. The district was historically worked for gold and silver, so mineralized quartz outcrops are common."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Seven Devils Mining District on BLM land?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Seven Devils. However, you must follow FLPMA rules: personal use only, maximum 25 lbs per day, no commercial collection, and no motorized excavation. Respect all posted mining claims."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Adams County, Idaho at this high-elevation site?",
+      "answer": "June through September is optimal. The high elevation of 6820 feet means heavy snow from November through May. July and August offer the best conditions, though afternoon thunderstorms are common. Early June and September may still have snow patches and mud."
+    },
+    {
+      "question": "How difficult is it to access Seven Devils Mining District and what vehicle do you need?",
+      "answer": "Access is challenging. A high-clearance or four-wheel-drive vehicle is strongly recommended for the rough forest roads. Expect 1.5 to 2 hours of driving from Adams. Roads have ruts, rocks, and washboard surfaces and may be impassable in wet conditions. Navigation by detailed maps is essential."
+    },
+    {
+      "question": "Is Seven Devils Mining District family-friendly and suitable for beginners?",
+      "answer": "No. This is a remote, high-elevation backcountry site best suited for experienced rockhounders and experienced hikers age 12 and older. Rough terrain, isolation, limited cell service, abandoned mines, and harsh weather make it unsuitable for families with young children. Come fully prepared with emergency supplies."
+    },
+    {
+      "question": "What tools and supplies should you bring rockhounding at Seven Devils in Idaho's backcountry?",
+      "answer": "Bring detailed topographic maps, compass, GPS device, sturdy hiking boots, heavy water supply, emergency kit, first aid, weather-appropriate clothing, a 10x loupe for inspecting quartz, a small gold pan, and tools for collecting (hammer, chisel, collection bags). Bring all food and fuel. Cell service is spotty, so assume you are on your own."
+    }
+  ],
+  "meta_title": "Seven Devils Mining District Rockhounding - Idaho",
+  "meta_description": "Find gold, quartz, and jasper at Seven Devils Mining District near Adams County, Idaho. BLM land, no permit required, 25 lb daily limit. High-elevation backcountry.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types inferred from mining history and regional geology",
+    "hazards inferred from remote backcountry conditions and abandoned mines presence",
+    "road_conditions inferred from forest road status in high-elevation terrain",
+    "nearest_city_distance estimated from GPS coordinates",
+    "written_directions based on typical Seven Devils access routes and Forest Service road names"
+  ],
+  "enriched_at": "2026-04-22T09:27:16.252Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:22.071Z"
+}

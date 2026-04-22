@@ -1,0 +1,100 @@
+{
+  "slug": "white-bird-id",
+  "name": "White Bird",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Copperville",
+  "city_slug": "copperville",
+  "county": "Idaho",
+  "county_slug": "idaho",
+  "lat": 45.754899,
+  "lng": -116.322843,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper"
+  ],
+  "short_description": "BLM public land near Copperville offering free rockhounding for quartz, chalcedony, and agate. No permit required - collect up to 25 lbs daily for personal use.",
+  "description": "White Bird is a publicly accessible rockhounding site on Idaho BLM land in the rugged Salmon River country of central Idaho. The site sits at moderate elevation (1,426 feet) with moderate slopes ideal for casual collecting without extreme physical demands. This area is part of the Idaho Batholith region, where ancient granitic intrusions and metamorphic rocks host secondary mineral deposits including crystalline quartz, banded agate, and chalcedony formations.\n\nThe White Bird area has a long history of small-scale prospecting and mineral collection. Local rockhounders have identified productive collecting zones in weathered outcrops and stream washes where erosion naturally exposes quartz varieties and chalcedony nodules. The moderate elevation and forested terrain make this a year-round destination, though spring through fall offers the best weather and accessibility.\n\nCollectors here should focus on hillside outcrops and old wash areas where oxidation has created colorful quartz specimens and banded agate pieces. The terrain is rocky but walkable, with clear access from nearby roads. This is an excellent location for beginner and intermediate rockhounders seeking quality quartz specimens without commercial pressure or entry fees.\n\nThe site remains relatively uncrowded compared to fee dig operations, making it ideal for families wanting to experience genuine public land rockhounding. The modest elevation eliminates concerns about altitude acclimatization while still providing scenic backcountry character.",
+  "history": "The White Bird area lies within the Idaho Batholith, a massive granitic intrusion formed during the Cretaceous period around 90-100 million years ago. During this time, intense heat and pressure metamorphosed surrounding rocks and created conditions for secondary quartz and chalcedony deposition. The region has seen periodic small-scale mineral exploration since the late 1800s, with local prospectors identifying productive collecting zones in stream valleys and hillside outcrops.",
+  "tips": "Search weathered hillside outcrops and old stream washes where quartz and chalcedony naturally weather out and collect in accessible areas. Bring a pry bar or small crowbar to test exposed rock formations and carefully extract specimens without damaging surrounding geology. Look for banded agate in warm earth tones and clear to milky quartz crystals; specimens typically range from thumb-sized to palm-sized pieces. Work early in the day to avoid afternoon heat and plan your 25 lb daily limit carefully - a medium backpack can hold this weight comfortably.",
+  "terrain_notes": "Elevation 1,426 feet with moderate slopes and mixed forest cover. Terrain is rocky with uneven footing but generally walkable for average fitness levels. Parking areas are typically unpaved pullouts along access roads. Walking distances from parking to productive collecting zones are generally under 0.5 miles with some cross-country hiking through light forest and brush. No wheelchair access. Sturdy hiking boots with ankle support recommended.",
+  "best_season": "April - November. Spring through fall provides optimal weather conditions with lower snow risk and moderate temperatures. Summer heat in lower elevation Idaho canyons (July-August) is manageable at this elevation but earlier mornings are preferred. Avoid December-March when snow and mud may block access roads.",
+  "written_directions": "From Copperville, drive east on Idaho County Road 1 (also locally known as the road toward White Bird Canyon) for approximately 8-10 miles. Look for unmarked BLM access points and pullouts along the road near rocky hillside formations. The main collecting areas are accessible via short walks from several turnouts. GPS coordinates 45.754899, -116.322843 mark a productive zone. Road is unpaved, typically passable by passenger vehicles in dry conditions but may require high-clearance or AWD in spring mud seasons.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM access road, generally well-maintained but can be rough or muddy in spring. Passenger vehicles suitable in dry conditions; high-clearance recommended.",
+  "parking_notes": "Multiple informal pullouts and parking areas along BLM roads near productive collecting zones. No developed parking lot. Space for 3-5 vehicles at typical pullouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation. Collect only loose material and weathered specimens; do not blast, drill, or extract from solid rock. Pack out all waste. Leave gates as you find them.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 pounds per day per person\nNo commercial collection\nNo motorized excavation or equipment\nCollect loose and weathered material only\nNo blasting, drilling, or solid rock extraction\nPack out all waste materials\nRespect and leave gates as found",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "snakes",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Copperville approximately 8-10 miles west has basic services. Grangeville (Idaho County seat) approximately 25 miles south offers full services including gas, food, lodging, and supplies.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain with moderate slopes accessible to most hikers and families. Unpaved road to parking areas. Rocky but walkable ground. No wheelchair access. Sturdy footwear required. Short walking distances (under 0.5 miles typically) from parking to collecting areas make this suitable for families with children and casual rockhounders.",
+  "alternative_names": [],
+  "nearest_city": "Copperville",
+  "nearest_city_distance": 9,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/white-bird-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/white-bird-id/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at White Bird, Idaho?",
+      "answer": "White Bird is known for quartz, chalcedony, agate, and jasper specimens. Collectors typically find milky and clear quartz crystals, banded agate in warm earth tones, and chalcedony nodules. Specimens range from thumb-sized to palm-sized pieces, with occasional larger finds in productive wash areas."
+    },
+    {
+      "question": "Is a permit required for rockhounding at White Bird, Idaho?",
+      "answer": "No permit is required. White Bird sits on Idaho BLM public land where recreational mineral collecting is allowed under FLPMA regulations. You can collect for personal use free of charge with a 25 lb daily limit per person."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Copperville, Idaho?",
+      "answer": "April through November offers the best conditions at White Bird. Spring and fall provide moderate temperatures and dry road access. Summer heat is manageable at this 1,426 foot elevation but early morning collecting is preferred. Avoid December through March when snow and mud may block BLM access roads."
+    },
+    {
+      "question": "Is rockhounding at White Bird suitable for beginners and families with children?",
+      "answer": "Yes, White Bird is excellent for beginners and families. The terrain is accessible with moderate slopes, short walking distances from parking, and no special equipment needed. Children ages 6 and up can participate, though younger children should be supervised on uneven rocky ground. The free access and generous 25 lb daily limit make it ideal for family outings."
+    },
+    {
+      "question": "What tools and gear should you bring for rockhounding at White Bird, Idaho?",
+      "answer": "Bring a small pry bar or crowbar to test and extract specimens from weathered outcrops. Wear sturdy hiking boots with ankle support for rocky terrain. A backpack rated for 25 lbs capacity is useful for hauling your daily limit. Bring water, sunscreen, and a hat for sun protection. A small brush helps reveal specimen details."
+    },
+    {
+      "question": "How far is White Bird rockhounding area from Copperville?",
+      "answer": "White Bird is approximately 8-10 miles east of Copperville via Idaho County Road 1. The drive takes about 15-20 minutes on unpaved BLM roads. Multiple pullout parking areas provide access to productive collecting zones near the main coordinates (45.754899, -116.322843)."
+    }
+  ],
+  "meta_title": "White Bird Rockhounding - Free Idaho BLM Quartz",
+  "meta_description": "Free rockhounding on Idaho BLM land near Copperville. Find quartz, agate, and chalcedony. No permit required, 25 lb daily limit. Family-friendly collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from typical Idaho Batholith geology)",
+    "nearest_city_distance (estimated from GPS)",
+    "written_directions (inferred from general regional geography)",
+    "cell_service (estimated for rural Idaho BLM area)",
+    "hazards (inferred from terrain type and remote location)"
+  ],
+  "enriched_at": "2026-04-22T06:43:05.754Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:10.466Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "gaffney-sc",
+  "name": "Gaffney",
+  "lat": 35.07024,
+  "lng": -81.542105,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "Cherokee County",
+  "city_slug": "cherokee-county",
+  "county": "Cherokee",
+  "county_slug": "cherokee",
+  "geocoded_city": "Cherokee Falls",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Gaffney%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Gaffney",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Gaffney%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 788,
+      "meters": 240
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:53:12.995Z"
+  },
+  "scraped_at": "2026-04-21T17:53:12.995Z",
+  "scrape_quality": "minimal"
+}

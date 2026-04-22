@@ -1,0 +1,90 @@
+{
+  "slug": "glass-buttes-obsidian-fields",
+  "name": "Glass Buttes Obsidian Fields",
+  "lat": 43.5678,
+  "lng": -120.1234,
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "state_code": "OR",
+  "city": "Bend",
+  "city_slug": "bend",
+  "county": "Lake",
+  "county_slug": "lake",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/oregon/glass-buttes-obsidian-fields"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Glass%20Buttes%20Obsidian%20Fields%20Oregon&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Glass%20Buttes%20Obsidian%20Fields",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Glass%20Buttes%20Obsidian%20Fields%20Oregon"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4535,
+      "meters": 1382
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Bend",
+      "distance_mi": 68,
+      "population": 111823
+    },
+    "roads": [
+      {
+        "name": "Central Oregon Highway",
+        "ref": "US 20",
+        "type": "trunk",
+        "dist": 2.2
+      },
+      {
+        "name": "Central Oregon Highway",
+        "ref": "US 20",
+        "type": "trunk",
+        "dist": 7.2
+      },
+      {
+        "name": "Central Oregon Highway",
+        "ref": "US 20",
+        "type": "trunk",
+        "dist": 16.2
+      },
+      {
+        "name": "Central Oregon Highway",
+        "ref": "US 20",
+        "type": "trunk",
+        "dist": 20.7
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T17:32:40.114Z"
+  },
+  "scraped_at": "2026-04-20T17:32:40.114Z",
+  "scrape_quality": "partial"
+}

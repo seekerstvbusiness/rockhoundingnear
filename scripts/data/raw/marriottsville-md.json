@@ -1,0 +1,60 @@
+{
+  "slug": "marriottsville-md",
+  "name": "Marriottsville",
+  "lat": 39.348837,
+  "lng": -76.89966,
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "state_code": "MD",
+  "city": "Columbia",
+  "city_slug": "columbia",
+  "county": "Howard",
+  "county_slug": "howard",
+  "geocoded_city": "Columbia",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maryland.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Marriottsville%20Maryland"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Marriottsville",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Marriottsville%20Maryland"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 353,
+      "meters": 108
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:33:05.260Z"
+  },
+  "scraped_at": "2026-04-21T17:33:05.260Z",
+  "scrape_quality": "minimal"
+}

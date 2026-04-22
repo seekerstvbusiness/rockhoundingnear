@@ -1,0 +1,60 @@
+{
+  "slug": "magothy-river-md",
+  "name": "Magothy River",
+  "lat": 39.115293,
+  "lng": -76.567007,
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "state_code": "MD",
+  "city": "Glen Burnie",
+  "city_slug": "glen-burnie",
+  "county": "Anne Arundel",
+  "county_slug": "anne-arundel",
+  "geocoded_city": "Glen Burnie",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maryland.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Magothy%20River%20Maryland"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Magothy%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Magothy%20River%20Maryland"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 27,
+      "meters": 8
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:33:21.696Z"
+  },
+  "scraped_at": "2026-04-21T17:33:21.696Z",
+  "scrape_quality": "minimal"
+}

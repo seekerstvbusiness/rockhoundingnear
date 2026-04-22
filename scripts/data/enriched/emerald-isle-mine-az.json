@@ -1,0 +1,102 @@
+{
+  "slug": "emerald-isle-mine-az",
+  "name": "Emerald Isle Mine",
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "city": "Golden Valley",
+  "city_slug": "golden-valley",
+  "county": "Mohave",
+  "county_slug": "mohave",
+  "lat": 35.363644,
+  "lng": -114.19173,
+  "gem_types": [
+    "Turquoise",
+    "Chrysocolla",
+    "Malachite",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Golden Valley offering turquoise, chrysocolla, and malachite hunting in the Mohave Desert. No permit required - perfect for desert rockhounders.",
+  "description": "Emerald Isle Mine sits on Arizona BLM land in the northwestern Mohave Desert, about 10 miles from Golden Valley. This area has a long history of turquoise and copper mineral prospecting, and the exposed geology still offers excellent opportunities for weekend collectors seeking secondary copper minerals and quartz specimens.\n\nThe site sits at 3681 feet elevation on relatively flat desert terrain, making it accessible to most rockhounders. The mineralization here is typical of the Basin and Range province - ancient hydrothermal activity along fault zones deposited rich copper minerals that weathered into the bright turquoise, chrysocolla, and malachite you can find in the surface material and small washes.\n\nExpect to work dry washes and exposed hillsides with scattered rocks and desert pavement. The flat terrain means less strenuous hiking than nearby mountain sites, but the open exposure means sun protection is essential. Surface collecting is straightforward - look for the distinctive blue-green coloring of turquoise and the bright green of malachite in fractured quartz and host rock.\n\nAs BLM land, this location welcomes recreational collectors with no permits needed. The 25-pound daily limit means you can take home a solid day's finds without excessive hauling. Winter months are ideal for comfortable desert collecting, and the remoteness keeps this site less crowded than commercial fee dig operations.",
+  "history": "This region sits within the Basin and Range province where Miocene-era hydrothermal fluids and fault-related circulating groundwater deposited secondary copper minerals including turquoise and chrysocolla. The Mohave Desert's exposed geological formations make these weathered mineral deposits accessible at the surface, where they have attracted prospectors and rockhounders for over a century.",
+  "tips": "Focus on the small dry washes running through the site - these concentrate heavier minerals and expose fresh material after rare rain events. Look for bright blue turquoise and vivid green malachite coating fractured quartz outcrops and scattered host rock on hillsides; these minerals often occur as thin crusts or small vugs rather than large specimens. Bring plenty of water and sun protection - the flat terrain offers no shade, and the dark desert pavement absorbs intense heat even in mild seasons. A rock hammer and small chisel help extract specimens cleanly from host rock without losing the delicate surface mineral coatings.",
+  "terrain_notes": "Flat to gently rolling desert terrain at 3681 feet elevation. Typical high desert vegetation - creosote, yucca, and scattered juniper. Exposed bedrock, desert pavement, and sandy washes. Walking distances from parking are short to moderate, typically under 1 mile to productive collecting areas. Ground is relatively stable but uneven - sturdy footwear and careful foot placement prevent ankle twists on scattered rocks.",
+  "best_season": "October - April",
+  "written_directions": "From Golden Valley, head north on BLM-accessible roads toward the Vock Canyon area. GPS coordinates 35.363644, -114.19173 mark the Emerald Isle Mine site. Use a high-clearance vehicle or standard passenger car if roads are dry; check current road conditions with the BLM Kingman Field Office before visiting, as desert roads can become impassable after rain. The site is approximately 10 miles north of Golden Valley.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM roads, passable in dry conditions with standard passenger vehicles. High-clearance recommended after recent rain.",
+  "parking_notes": "Dispersed parking typical of BLM land. Park safely off the road on flat ground near the site. No developed lot or facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or mechanized tools. Hand tools only. Respect surrounding wilderness and do not disturb historical mining artifacts or claim markers.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo mechanized equipment",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Golden Valley, 10 miles south. Gas, food, and water available in town. Kingman, Arizona (approximately 35 miles) offers additional services and the BLM Kingman Field Office for permit and road condition information.",
+  "accessibility_notes": "Relatively flat desert terrain with short walking distances makes this site accessible to most hikers and families. Uneven rocky ground and scattered loose rocks require sturdy footwear. No wheelchair access due to unpaved roads and natural terrain. The flat profile and lack of sustained elevation gain suit visitors with moderate fitness levels.",
+  "alternative_names": [],
+  "nearest_city": "Golden Valley",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/emerald-isle-mine-az/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/emerald-isle-mine-az/mineral-1-chrysocolla.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/emerald-isle-mine-az/mineral-1-turquoise.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/emerald-isle-mine-az/mineral-2-turquoise.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/emerald-isle-mine-az/mineral-3-chrysocolla.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/emerald-isle-mine-az/mineral-3-turquoise.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What turquoise can I find at Emerald Isle Mine near Golden Valley, Arizona?",
+      "answer": "Emerald Isle Mine is known for secondary turquoise deposits that occur as bright blue crusts and small specimens on quartz host rock and in fractured desert outcrops. The turquoise here typically appears as thin coatings rather than large rough stones, making it ideal for specimen collectors and jewelry makers seeking authentic Arizona turquoise with character."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Emerald Isle Mine on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Emerald Isle Mine. As BLM public land in Mohave County, you can collect for personal use under FLPMA regulations without any permit application or fee. You are limited to 25 pounds per day of material."
+    },
+    {
+      "question": "What is the best time to visit Emerald Isle Mine for rockhounding?",
+      "answer": "October through April is ideal for collecting at Emerald Isle Mine. Winter months offer mild temperatures and comfortable daytime conditions in the Mohave Desert, while the flat terrain and open exposure make summer heat dangerous. Late winter and early spring also offer the best chance of fresh material exposed by winter rains in the surrounding washes."
+    },
+    {
+      "question": "How far is Emerald Isle Mine from Golden Valley, and what roads do I need?",
+      "answer": "Emerald Isle Mine is approximately 10 miles north of Golden Valley, Arizona, accessed via unpaved BLM roads. Standard passenger vehicles can reach the site in dry conditions, though high-clearance vehicles are recommended. Check current road conditions with the BLM Kingman Field Office before your trip, as desert roads become impassable after rain."
+    },
+    {
+      "question": "Is Emerald Isle Mine suitable for beginners and families with kids?",
+      "answer": "Yes - Emerald Isle Mine is an excellent beginner and family site. The flat desert terrain requires minimal hiking, children ages 6 and up can participate safely, and hand collecting of turquoise, chrysocolla, and malachite is straightforward. Bring plenty of water and sun protection, and supervise children around loose rocks and desert hazards."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Emerald Isle Mine?",
+      "answer": "Hand tools only are permitted on BLM land. Bring a rock hammer, chisel, and small pry bar to extract specimens from host rock without damaging delicate turquoise coatings. Essential supplies include abundant water (at least 2-3 gallons per person), sunscreen, a wide-brimmed hat, sturdy boots, and a collection bag. A small field guide helps identify chrysocolla, malachite, and quartz varieties you will encounter."
+    }
+  ],
+  "meta_title": "Emerald Isle Mine Rockhounding - Arizona",
+  "meta_description": "Hunt turquoise, chrysocolla, and malachite at BLM Emerald Isle Mine near Golden Valley, AZ. No permit required. 25 lb/day limit. Easy family rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "parking_notes",
+    "road_conditions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-21T15:32:15.282Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T16:23:17.054Z"
+}

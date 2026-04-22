@@ -1,0 +1,60 @@
+{
+  "slug": "lane-quarry-ma",
+  "name": "Lane Quarry",
+  "lat": 42.116536,
+  "lng": -72.689257,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "West Springfield",
+  "city_slug": "west-springfield",
+  "county": "Hampden",
+  "county_slug": "hampden",
+  "geocoded_city": "West Springfield",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Lane%20Quarry%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Lane%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Lane%20Quarry%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 226,
+      "meters": 69
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:19:53.973Z"
+  },
+  "scraped_at": "2026-04-21T19:19:53.973Z",
+  "scrape_quality": "minimal"
+}

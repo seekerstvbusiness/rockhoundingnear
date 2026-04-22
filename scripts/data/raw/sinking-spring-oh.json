@@ -1,0 +1,60 @@
+{
+  "slug": "sinking-spring-oh",
+  "name": "Sinking Spring",
+  "lat": 39.072742,
+  "lng": -83.3868,
+  "state": "Ohio",
+  "state_slug": "ohio",
+  "state_code": "OH",
+  "city": "Sinking Spring",
+  "city_slug": "sinking-spring",
+  "county": "Highland",
+  "county_slug": "highland",
+  "geocoded_city": "Sinking Spring",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-ohio.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Sinking%20Spring%20Ohio"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Sinking%20Spring",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Sinking%20Spring%20Ohio"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 868,
+      "meters": 265
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:42:08.209Z"
+  },
+  "scraped_at": "2026-04-21T16:42:08.209Z",
+  "scrape_quality": "minimal"
+}

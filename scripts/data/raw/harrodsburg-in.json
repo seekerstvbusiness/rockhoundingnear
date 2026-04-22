@@ -1,0 +1,60 @@
+{
+  "slug": "harrodsburg-in",
+  "name": "Harrodsburg",
+  "lat": 39.07433243,
+  "lng": -86.5364803,
+  "state": "Indiana",
+  "state_slug": "indiana",
+  "state_code": "IN",
+  "city": "Monroe County",
+  "city_slug": "monroe-county",
+  "county": "Monroe",
+  "county_slug": "monroe",
+  "geocoded_city": "Monroe County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-indiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Harrodsburg%20Indiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Harrodsburg",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Harrodsburg%20Indiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 776,
+      "meters": 237
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:53:14.589Z"
+  },
+  "scraped_at": "2026-04-21T16:53:14.589Z",
+  "scrape_quality": "minimal"
+}

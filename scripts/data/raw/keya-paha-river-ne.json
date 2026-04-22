@@ -1,0 +1,60 @@
+{
+  "slug": "keya-paha-river-ne",
+  "name": "Keya Paha River",
+  "lat": 42.989521,
+  "lng": -99.625218,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Keya Paha County",
+  "city_slug": "keya-paha-county",
+  "county": "Keya Paha",
+  "county_slug": "keya-paha",
+  "geocoded_city": "Keya Paha County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Keya%20Paha%20River%20Nebraska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Keya%20Paha%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Keya%20Paha%20River%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1966,
+      "meters": 599
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:05:10.456Z"
+  },
+  "scraped_at": "2026-04-21T17:05:10.456Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "goodnews-mining-district-ak",
+  "name": "Goodnews Mining District",
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "city": "Platinum",
+  "city_slug": "platinum",
+  "county": "Unorganized Borough",
+  "county_slug": "unorganized-borough",
+  "lat": 58.926029,
+  "lng": -161.73095,
+  "gem_types": [
+    "Gold"
+  ],
+  "short_description": "Remote Alaska mining district known for placer gold and platinum recovery. Historic prospecting area in the Bethel region with limited modern rockhounding access.",
+  "description": "The Goodnews Mining District is one of Alaska's most remote and storied mining regions, located in southwestern Alaska near the village of Platinum. This area became famous in the early 20th century for its significant platinum deposits and associated placer gold, earning Platinum its name from the precious metal wealth found in surrounding streams and gravel deposits. The district remains largely undeveloped compared to other Alaskan mining regions, making it a frontier destination for serious prospectors and rockhounds willing to undertake challenging travel.\n\nAccess to the Goodnews Mining District requires significant logistical planning. The nearest established settlement is Platinum, which is itself only accessible by air or water from larger towns like Bethel. From Bethel, floatplane or boat charter is typically required to reach prospecting areas. This extreme remoteness means that casual rockhounding is impractical, and most successful mineral collection occurs through organized prospecting expeditions or partnerships with local guides familiar with navigable waterways and claim locations.\n\nGeologically, the district sits within Alaska's southwestern mineral belt, where Mesozoic to Cenozoic intrusive and metamorphic rocks host significant precious metal concentrations. Placer deposits formed through weathering and stream transport of primary platinum and gold mineralization from local bedrock sources. Stream gravels and bench deposits contain the finest specimens, though accessing these requires navigation of tidal zones, river systems, and muskeg terrain characteristic of coastal southwestern Alaska.\n\nRockhounds interested in visiting must respect active mining claims, private property boundaries, and seasonal access windows. Summer months (June to September) offer the only practical prospecting season, as winter conditions make travel and terrain navigation extremely hazardous. Advanced planning, reliable local contacts, and proper permitting through the Alaska Department of Natural Resources are essential before any collection attempt.",
+  "history": "The Goodnews Mining District rose to prominence in the early 1900s following the discovery of rich platinum placers in streams feeding the Goodnews River and Salmon River systems. Geological studies indicate that platinum and gold mineralization originated from Mesozoic ultramafic and granitic intrusions within the southwestern Alaska mineral belt, with weathering and stream transport concentrating precious metals into economically significant placer deposits over millions of years.",
+  "tips": "Focus your search on inside bends of streams and river bars where heavy platinum and gold settle after spring flooding. Use a classifier and small gold pan to process stream gravels efficiently in accessible drainages near lower elevations where tidal influence is manageable. Look for dark heavy black sand (magnetite and chromite) as indicator minerals that often accompany platinum placers in this district. Always confirm claim status with local mining offices before sampling any area, as active claims cover much of the productive ground.",
+  "terrain_notes": "Extremely rugged coastal tundra with muskeg, tidal flats, and braided river systems. Elevation ranges from sea level to 1000+ feet in surrounding highlands. Terrain consists of spongy peat moss, permanent permafrost in many areas, countless small streams, and dense vegetation. Walking is slow and exhausting due to muskeg conditions. Coastal areas experience significant tidal ranges. Midges and mosquitoes are intense during summer months. No developed trails or parking facilities exist.",
+  "best_season": "June - September. Winter conditions in southwestern Alaska render the area inaccessible due to extreme cold, ice, snow, and darkness. Even summer brings challenging weather with fog, rain, and unpredictable winds affecting floatplane access and river navigation.",
+  "written_directions": "From Bethel, arrange floatplane charter to Platinum village (approximately 75 miles southeast). From Platinum, prospecting areas are accessed via river navigation, foot travel, or local guide partnerships along the Goodnews River, Salmon River, and tributary drainages. No roads connect to this district. All access requires pre-arranged air or water transport and detailed knowledge of local hydrology and claim boundaries.",
+  "directions": null,
+  "difficulty": "expert",
+  "access_type": "private",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": null,
+  "parking_notes": null,
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": true,
+  "permit_link": "https://dnr.alaska.gov/mlw/mining/",
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collection requires compliance with Alaska state mining regulations and respect for active mining claims. Personal prospecting is allowed only on unpatented public lands and claims where you have explicit permission. Most productive areas are either privately claimed or require coordination with the Alaska Department of Natural Resources. No motorized equipment operation without proper permits. All collected material must be reported to the DNR mining office if exceeding personal use quantities.",
+  "quantity_limits": null,
+  "rules": "Respect posted mining claims and claim notices\nObtain DNR permit before prospecting\nNo commercial collection without licensing\nReport findings to DNR if significant\nRespect private property boundaries\nFollow all tidal and seasonal navigation regulations",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": false,
+  "kid_age_range": "16+",
+  "hazards": [
+    "remote",
+    "cold",
+    "wildlife",
+    "flash_floods",
+    "loose_rock"
+  ],
+  "nearest_services": "Platinum village (minimal services, no stores or gas). Bethel, approximately 75 air miles north, offers all standard services including fuel, lodging, and restaurants.",
+  "accessibility_notes": "Not accessible to people with limited mobility. Extremely difficult terrain requiring expert backcountry navigation skills, river crossing ability, and tundra travel experience. Muskeg conditions cause exhausting, slow progress. Tidal flats and braided channels require precise timing and knowledge. Floatplane access requires physical fitness for aircraft boarding. Not suitable for anyone except experienced wilderness travelers and prospectors.",
+  "alternative_names": [],
+  "nearest_city": "Bethel",
+  "nearest_city_distance": 75,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/alaska/goodnews-mining-district-ak/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "Can I rockhound for gold and platinum in the Goodnews Mining District without a permit?",
+      "answer": "No. You must obtain a permit from the Alaska Department of Natural Resources before prospecting in the Goodnews Mining District. Additionally, most productive areas contain active mining claims that require explicit permission from claim holders. Unauthorized collection can result in citations and confiscation of specimens."
+    },
+    {
+      "question": "How do I reach the Goodnews Mining District from Platinum, Alaska?",
+      "answer": "From Platinum village, access prospecting areas via river navigation along the Goodnews River and Salmon River drainages using boats or rafts, or on foot through tundra terrain. Local guides are essential for safe travel through braided channels, tidal flats, and muskeg. No roads or developed trails exist in this district."
+    },
+    {
+      "question": "What is the best time of year to search for platinum in southwestern Alaska?",
+      "answer": "June through September is the only practical prospecting season when weather conditions and daylight allow safe access. Summer brings intense mosquito and midge activity but enables floatplane service and river navigation. Winter conditions make the area completely inaccessible."
+    },
+    {
+      "question": "What tools and equipment do I need to prospect for placer gold and platinum here?",
+      "answer": "Essential items include a classifier, small gold pan, waterproof containers, sturdy waders, and river navigation equipment. Given the extreme remoteness and tidal river access, you will likely need to charter a floatplane and work with experienced local guides who provide additional specialized gear for muskeg and water travel."
+    },
+    {
+      "question": "Is the Goodnews Mining District suitable for beginner rockhounds?",
+      "answer": "No. This is an expert-only destination requiring advanced wilderness survival skills, river navigation experience, and knowledge of Alaska mining regulations. The combination of extreme remoteness, difficult terrain, challenging weather, and active mining claim issues makes it unsuitable for novices or casual hobbyists."
+    },
+    {
+      "question": "What indicators should I look for when searching for platinum placers in Goodnews streams?",
+      "answer": "Focus on stream gravels containing dark heavy black sand (magnetite and chromite), which commonly accompanies platinum deposits. Sample inside bends of streams and river bars where heavy minerals settle. Spring-flooded channels often expose fresh gravel beds. Stream bottoms near bedrock contacts produce the richest placer concentrations."
+    }
+  ],
+  "meta_title": "Goodnews Mining District - Alaska Platinum Rockhounding",
+  "meta_description": "Expert rockhounding for platinum and gold in remote Goodnews Mining District, Alaska. Floatplane access from Bethel. Permit required. Summer only.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "permit_required",
+    "permit_link",
+    "collection_rules",
+    "quantity_limits",
+    "commercial_use_allowed"
+  ],
+  "enriched_at": "2026-04-21T18:30:21.506Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:33:07.857Z"
+}

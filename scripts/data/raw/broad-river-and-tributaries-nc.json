@@ -1,0 +1,60 @@
+{
+  "slug": "broad-river-and-tributaries-nc",
+  "name": "Broad River and tributaries",
+  "lat": 35.190751,
+  "lng": -81.622841,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Cleveland County",
+  "city_slug": "cleveland-county",
+  "county": "Cleveland",
+  "county_slug": "cleveland",
+  "geocoded_city": "Cleveland County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Broad%20River%20and%20tributaries%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Broad%20River%20and%20tributaries",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Broad%20River%20and%20tributaries%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 613,
+      "meters": 187
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:40:43.057Z"
+  },
+  "scraped_at": "2026-04-21T19:40:43.057Z",
+  "scrape_quality": "minimal"
+}

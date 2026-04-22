@@ -1,0 +1,60 @@
+{
+  "slug": "elizabethtown-il",
+  "name": "Elizabethtown",
+  "lat": 37.44794,
+  "lng": -88.305197,
+  "state": "Illinois",
+  "state_slug": "illinois",
+  "state_code": "IL",
+  "city": "Elizabethtown",
+  "city_slug": "elizabethtown",
+  "county": "Hardin",
+  "county_slug": "hardin",
+  "geocoded_city": "Elizabethtown",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-illinois.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Elizabethtown%20Illinois"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Elizabethtown",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Elizabethtown%20Illinois"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 373,
+      "meters": 114
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:58:05.147Z"
+  },
+  "scraped_at": "2026-04-21T16:58:05.147Z",
+  "scrape_quality": "minimal"
+}

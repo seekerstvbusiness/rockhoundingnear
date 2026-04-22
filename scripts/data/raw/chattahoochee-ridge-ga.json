@@ -1,0 +1,60 @@
+{
+  "slug": "chattahoochee-ridge-ga",
+  "name": "Chattahoochee Ridge",
+  "lat": 34.349848,
+  "lng": -83.879482,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Hall County",
+  "city_slug": "hall-county",
+  "county": "Hall",
+  "county_slug": "hall",
+  "geocoded_city": "Lake Farm",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chattahoochee%20Ridge%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chattahoochee%20Ridge",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chattahoochee%20Ridge%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1185,
+      "meters": 361
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:04:55.138Z"
+  },
+  "scraped_at": "2026-04-21T19:04:55.138Z",
+  "scrape_quality": "minimal"
+}

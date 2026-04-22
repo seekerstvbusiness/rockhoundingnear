@@ -1,0 +1,73 @@
+{
+  "slug": "cumberland-falls-ky",
+  "name": "Cumberland Falls",
+  "lat": 36.833288,
+  "lng": -84.317527,
+  "state": "Kentucky",
+  "state_slug": "kentucky",
+  "state_code": "KY",
+  "city": "Whitley County",
+  "city_slug": "whitley-county",
+  "county": "Whitley",
+  "county_slug": "whitley",
+  "geocoded_city": "Whitley County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kentucky.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cumberland%20Falls%20Kentucky"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cumberland%20Falls",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cumberland%20Falls%20Kentucky"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Kilburn Fork",
+        "type": "stream",
+        "dist": 4.1
+      },
+      {
+        "name": "Indian Creek",
+        "type": "river",
+        "dist": 4.5
+      },
+      {
+        "name": "Cumberland River",
+        "type": "river",
+        "dist": 26.6
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:21:07.694Z"
+  },
+  "scraped_at": "2026-04-21T17:21:07.694Z",
+  "scrape_quality": "minimal"
+}

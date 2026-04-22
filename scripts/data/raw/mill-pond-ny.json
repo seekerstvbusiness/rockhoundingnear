@@ -1,0 +1,57 @@
+{
+  "slug": "mill-pond-ny",
+  "name": "Mill Pond",
+  "lat": 44.112551,
+  "lng": -73.553326,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Town of Elizabethtown",
+  "city_slug": "town-of-elizabethtown",
+  "county": "Essex",
+  "county_slug": "essex",
+  "geocoded_city": "Town of Elizabethtown",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mill%20Pond%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mill%20Pond",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mill%20Pond%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:39:49.272Z"
+  },
+  "scraped_at": "2026-04-21T18:39:49.272Z",
+  "scrape_quality": "minimal"
+}

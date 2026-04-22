@@ -1,0 +1,65 @@
+{
+  "slug": "boise-river-id",
+  "name": "Boise River",
+  "lat": 43.500034,
+  "lng": -115.310453,
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "state_code": "ID",
+  "city": "Elmore County",
+  "city_slug": "elmore-county",
+  "county": "Elmore",
+  "county_slug": "elmore",
+  "geocoded_city": "Elmore County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-idaho.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Boise%20River%20Idaho"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Idaho BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Boise%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Boise%20River%20Idaho"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Idaho BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4235,
+      "meters": 1291
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:36:09.767Z"
+  },
+  "scraped_at": "2026-04-21T19:36:09.767Z",
+  "scrape_quality": "partial"
+}

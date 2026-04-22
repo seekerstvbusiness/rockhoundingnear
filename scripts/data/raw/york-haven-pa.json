@@ -1,0 +1,60 @@
+{
+  "slug": "york-haven-pa",
+  "name": "York Haven",
+  "lat": 40.09962,
+  "lng": -76.747321,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Conewago Township",
+  "city_slug": "conewago-township",
+  "county": "York",
+  "county_slug": "york",
+  "geocoded_city": "Conewago Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=York%20Haven%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=York%20Haven",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=York%20Haven%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 275,
+      "meters": 84
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:00:14.011Z"
+  },
+  "scraped_at": "2026-04-21T19:00:14.012Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "macungie-pa",
+  "name": "Macungie",
+  "lat": 40.503074,
+  "lng": -75.52545,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Upper Milford Township",
+  "city_slug": "upper-milford-township",
+  "county": "Lehigh",
+  "county_slug": "lehigh",
+  "geocoded_city": "Upper Milford Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Macungie%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Macungie",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Macungie%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 689,
+      "meters": 210
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "William Penn Highway",
+        "ref": "I 78;US 22",
+        "type": "motorway",
+        "dist": 6.9
+      },
+      {
+        "name": "Bethlehem Spur Route",
+        "ref": "PA 378",
+        "type": "motorway",
+        "dist": 11.1
+      },
+      {
+        "name": "Main Street",
+        "ref": null,
+        "type": "secondary",
+        "dist": 12.7
+      },
+      {
+        "name": "East 21st Street",
+        "ref": "PA 329",
+        "type": "primary",
+        "dist": 13
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:58:20.723Z"
+  },
+  "scraped_at": "2026-04-21T18:58:20.723Z",
+  "scrape_quality": "minimal"
+}

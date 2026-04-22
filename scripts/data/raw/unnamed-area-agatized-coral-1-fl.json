@@ -1,0 +1,60 @@
+{
+  "slug": "unnamed-area-agatized-coral-1-fl",
+  "name": "Unnamed Area (Agatized Coral #1)",
+  "lat": 27.888909,
+  "lng": -82.480844,
+  "state": "Florida",
+  "state_slug": "florida",
+  "state_code": "FL",
+  "city": "Tampa",
+  "city_slug": "tampa",
+  "county": "Hillsborough",
+  "county_slug": "hillsborough",
+  "geocoded_city": "Tampa",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-florida.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Unnamed%20Area%20(Agatized%20Coral%20%231)%20Florida"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Unnamed%20Area%20(Agatized%20Coral%20%231)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Unnamed%20Area%20(Agatized%20Coral%20%231)%20Florida"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 5,
+      "meters": 1
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:31:24.847Z"
+  },
+  "scraped_at": "2026-04-21T17:31:24.847Z",
+  "scrape_quality": "minimal"
+}

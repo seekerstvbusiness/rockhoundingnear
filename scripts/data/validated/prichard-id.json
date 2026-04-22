@@ -1,0 +1,96 @@
+{
+  "slug": "prichard-id",
+  "name": "Prichard",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Prichard",
+  "city_slug": "prichard",
+  "county": "Shoshone",
+  "county_slug": "shoshone",
+  "lat": 47.655534,
+  "lng": -115.981065,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Gold"
+  ],
+  "short_description": "BLM public land near Prichard offering recreational rockhounding for quartz, agate, and jasper with no permit required. Limited to 25 lbs per day of personal use collecting.",
+  "description": "Prichard sits in the heart of Idaho's historic mining country in Shoshone County, where the gentle slopes and accessible BLM land make it an ideal destination for recreational rockhounders. The area around Prichard was central to the Coeur d'Alene mining district, one of the most productive precious metal regions in North America. Today, this public BLM land remains open for personal rockhounding, allowing collectors to search for quartz specimens, colorful agates, and jasper nodules that formed during intense hydrothermal activity associated with silver and gold mineralization.\n\nThe geology here reflects the Precambrian metamorphic basement and Paleozoic metasedimentary rocks of the Belt Supergroup, which have been intruded by granitic plutons and cut by mineral-rich hydrothermal veins. These processes concentrated silica and other minerals into pockets and fractures, creating the quartz crystals and silicate gems found throughout the region. Erosion over millions of years has exposed these deposits and weathered nodules into the stream drainages and hillsides accessible today.\n\nExpect to spend several hours surveying gentle slopes, creek washes, and exposed rocky areas. The terrain is relatively forgiving for beginners and families, though sturdy footwear is recommended. Most productive areas lie within a short hike from parking, making this an excellent choice for those new to rockhounding or looking for a relaxed collecting day. The 25 lb daily limit encourages focusing on quality specimens rather than bulk collection.\n\nThe historical significance of the area adds to the experience - you are rockhounding in country that once yielded hundreds of millions of dollars in precious metals. Modern collectors still find quartz specimens with pyrite and chalcopyrite inclusions, remnants of the original ore deposits that drew miners to this region over a century ago.",
+  "history": "The Prichard area is part of the Coeur d'Alene mining district, which began producing silver and gold in the 1880s and became one of the richest precious metal regions in the United States. The hydrothermal veins and mineralized zones that created these deposits also produced abundant quartz crystals, agate nodules, and jasper specimens that continue to erode out of hillsides and stream channels today, making it ideal for modern recreational rockhounders.",
+  "tips": "Search creek washes and exposed bank cuts first, as erosion naturally concentrates loose specimens. Look for quartz specimens on hillsides with exposed bedrock outcrops; they often display purple or smoky tinting and may contain tiny pyrite or chalcopyrite flecks. Agate nodules typically appear as dull rounded stones with waxy luster when wet - carry a spray bottle to test specimens in the field. Avoid digging into live banks or excavating with motorized tools; surface collecting and hand tools only are required under BLM rules.",
+  "terrain_notes": "Elevation 2,395 feet with gentle rolling slopes. Mixed conifer and scrubland vegetation typical of northern Idaho's transition zone. Terrain is relatively open with exposed rocky areas and occasional shallow creek drainages. Walking surfaces range from compacted dirt to loose talus, with some areas featuring small rocks and scattered boulders. Most productive spots lie within 0.5 to 2 miles of parking areas.",
+  "best_season": "June - September. The area receives significant snowfall November through April, making winter access difficult. Summer provides dry conditions, accessible terrain, and comfortable temperatures for extended field work. Late spring (May) and early fall (September) can be productive but may still encounter muddy conditions.",
+  "written_directions": "From Prichard, head east on Forest Road toward the higher elevation areas where BLM land transitions from private property. GPS coordinates 47.655534, -115.981065 mark accessible public land within the Prichard vicinity. Consult current BLM Idaho maps or contact the Wallace District BLM office to confirm current access routes and parking areas, as road conditions vary seasonally.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough dirt roads typical of BLM access. High-clearance or AWD vehicle recommended, especially spring through early summer when mud is present. Some parking areas may be accessible by standard passenger cars during dry season.",
+  "parking_notes": "Informal pullouts and parking areas near public land access points. No developed lot facilities. Capacity variable by location - expect space for 2-4 vehicles at most pullouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Hand tools and surface collecting only. Remove only loose material; do not dig into hillsides or banks. Pack out all waste and minimize disturbance to the landscape.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nSurface collecting from loose material\nNo digging or removal of bedrock\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Prichard has very limited services. Wallace, Idaho (approximately 20 miles south) offers gas, food, lodging, and supplies. Stock supplies before heading to Prichard.",
+  "accessibility_notes": "Gentle rolling terrain suitable for most hikers and families. Uneven rocky ground and loose talus in some areas require sturdy footwear. No wheelchair access. Creek drainage crossings may be necessary to reach some productive areas - these are typically shallow and manageable in summer. High-clearance vehicle helps but not always essential.",
+  "alternative_names": [],
+  "nearest_city": "Wallace",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/prichard-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Prichard, Idaho?",
+      "answer": "At Prichard, you can find quartz crystals, colorful agate nodules, jasper specimens, and occasionally gold flakes or small flecks in quartz. The area's geology is shaped by historic silver and gold mineralization, so many specimens show pyrite or chalcopyrite inclusions. Agate nodules are particularly abundant in the creek washes and hillside exposures."
+    },
+    {
+      "question": "Is a permit required for rockhounding on BLM land near Prichard, Idaho?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Prichard. Under Federal Land Policy and Management Act (FLPMA) rules, personal use collecting is allowed without permission. However, you must follow the 25 lb per day limit and use hand tools only."
+    },
+    {
+      "question": "How much can I collect per day at Prichard rockhounding area?",
+      "answer": "You are limited to 25 lbs of material per day under BLM regulations. This encourages focusing on quality specimens rather than bulk collection and ensures sustainable use of the public land resource."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Prichard, Idaho?",
+      "answer": "June through September is ideal. The area receives heavy snow from November through April, making winter access very difficult. Summer provides dry, stable terrain, accessible parking, and comfortable temperatures for extended field work."
+    },
+    {
+      "question": "Is Prichard rockhounding area suitable for beginners and families with children?",
+      "answer": "Yes, Prichard is beginner and family-friendly. The terrain features gentle slopes, accessible parking areas, and productive surface collecting within short distances. Children ages 6 and up can participate. The area requires only hand tools and surface collecting, making it safe and manageable for all skill levels."
+    },
+    {
+      "question": "What tools do I need for rockhounding at Prichard, and what should I look for?",
+      "answer": "Bring a hand pick, chisel, hand shovel, bucket, magnifying glass, and water bottle. Look for dull rounded agate nodules in creek beds - they develop a waxy luster when wet. Search exposed bedrock outcrops for quartz crystals; those with purple or smoky tinting are common. Use a spray bottle to test specimens in the field before collecting."
+    }
+  ],
+  "meta_title": "Prichard Rockhounding - Idaho BLM Public Land",
+  "meta_description": "Find quartz, agate, and jasper at Prichard, Idaho on BLM public land. No permit required, 25 lb daily limit. Beginner-friendly rockhounding in historic mining country.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "nearest_services"
+  ],
+  "enriched_at": "2026-04-22T06:43:29.266Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:28.561Z"
+}

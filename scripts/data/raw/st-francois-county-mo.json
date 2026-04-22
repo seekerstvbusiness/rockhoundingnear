@@ -1,0 +1,60 @@
+{
+  "slug": "st-francois-county-mo",
+  "name": "St. Francois County",
+  "lat": 37.894763,
+  "lng": -90.52614,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Saint Francois County",
+  "city_slug": "saint-francois-county",
+  "county": "Saint Francois",
+  "county_slug": "saint-francois",
+  "geocoded_city": "Desloge",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=St.%20Francois%20County%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=St.%20Francois%20County",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=St.%20Francois%20County%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 720,
+      "meters": 219
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:16:33.831Z"
+  },
+  "scraped_at": "2026-04-21T19:16:33.831Z",
+  "scrape_quality": "minimal"
+}

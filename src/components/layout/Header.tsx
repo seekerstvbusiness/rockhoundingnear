@@ -11,7 +11,7 @@ import { SITE_NAME } from '@/lib/constants'
 
 const navLinks = [
   { href: '/locations', label: 'Browse Locations' },
-  { href: '/states', label: 'By State' },
+  { href: '/blog', label: 'Blog' },
   { href: '/about', label: 'About' },
   { href: '/contact', label: 'Contact' },
 ]

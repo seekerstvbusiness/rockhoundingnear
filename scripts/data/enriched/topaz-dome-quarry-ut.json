@@ -1,0 +1,98 @@
+{
+  "slug": "topaz-dome-quarry-ut",
+  "name": "Topaz Dome Quarry",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Juab County",
+  "city_slug": "juab-county",
+  "county": "Juab",
+  "county_slug": "juab",
+  "lat": 39.696594,
+  "lng": -113.098698,
+  "gem_types": [
+    "Topaz",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "Public BLM rockhounding site near Nephi offering excellent topaz collecting in an exposed dome formation. No permit required - bring tools and enjoy free access to this classic Utah gem site.",
+  "description": "Topaz Dome Quarry is a premier public rockhounding destination on Bureau of Land Management land in Juab County, Utah. This site features natural topaz crystals weathering from a distinctive dome-shaped rhyolite outcrop, making it one of the most productive topaz locations in the state for recreational collectors. The quarry area showcases colorless, golden, and occasionally blue-tinged topaz specimens ranging from small crystals to impressive display pieces. The exposed rock face and surrounding wash provide excellent opportunities for both surface collecting and careful excavation of fresh material. This is a working rockhounding site where the geology itself has been shaped by decades of small-scale collecting activity.\n\nThe topaz found here formed during the Tertiary volcanic period when silica-rich hydrothermal fluids percolated through fractures in the rhyolite host rock. As these fluids cooled and concentrated over millions of years, crystalline topaz precipitated within cavities and along crystal faces. The dome structure represents a resistant intrusive core that has been preferentially eroded, leaving the topaz-bearing matrix exposed at the surface. Quartz and feldspar commonly occur alongside the topaz, often displaying the same crystalline faces and providing excellent context for identifying quality specimens.\n\nVisitors should expect an open, semi-arid landscape with moderate slopes and scattered vegetation. The site requires no special permits or fees under BLM recreational use regulations. You can collect up to 25 pounds per day of topaz and associated minerals for personal use. The quarry is accessible by passenger vehicle to a general parking area, though exploring the full site and accessing the best exposures may require short walks across uneven terrain. Bring water, sun protection, and appropriate digging tools such as a small pick or chisel for extracting specimens from the rock matrix.\n\nThis location offers excellent value for both beginner and experienced rockhounders. Beginners can find loose specimens on the surface around the main dome, while more dedicated collectors can carefully work the exposed faces using hand tools. The site is family-friendly and dog-friendly on BLM land, making it an ideal weekend rockhounding destination for groups.",
+  "history": "Topaz Dome formed during the Oligocene epoch (approximately 30-35 million years ago) when rhyolitic volcanic activity and associated hydrothermal circulation created the topaz-bearing assemblage now visible at the surface. The site has been known to rockhounders and mineral dealers for decades as one of Utah's most consistent sources of quality gem-grade topaz.",
+  "tips": "Search the main dome face and surrounding wash for loose topaz crystals and partially weathered specimens - the darker rhyolite matrix contrasts sharply with the translucent topaz. Bring a small chisel or geology pick to carefully extract embedded crystals from the rock face rather than breaking the host rock indiscriminately. Look for the characteristic glassy luster and hardness of topaz; golden and colorless specimens are most common, but carefully examine cloudy-looking pieces as some may contain rare blue topaz. Work the area after any rain when the rock face has been slightly dampened, making it easier to see crystal faces and color variations.",
+  "terrain_notes": "Elevation approximately 5,800 feet in the basin-and-range province. Moderate slopes surrounding the distinctive dome outcrop. Desert scrubland vegetation with scattered juniper. Walking distance from parking to main dome is generally less than 0.5 miles. Footing is uneven with loose rock common around the base of the dome. No maintained trails but natural wash areas provide easier access routes.",
+  "best_season": "April - June and September - October. These months offer comfortable temperatures for outdoor work and reduced intense desert heat. Summer months (July-August) can exceed 90 degrees F, while winter can bring occasional snow or ice. Spring and fall provide ideal conditions for extended rockhounding sessions.",
+  "written_directions": "From Nephi, Utah (nearest town), take Highway 132 southeast toward Leamington for approximately 15 miles. Turn south on Topaz Mountain Road (look for BLM signage). Continue for approximately 3-4 miles on this dirt road, following BLM access signs to Topaz Dome Quarry. The parking area is marked with BLM information boards. High-clearance vehicles are recommended in wet conditions, but passenger cars can typically access the site in dry weather.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt road, generally well-maintained. May develop washboard texture in summer. High-clearance vehicles recommended after rain or snow. Suitable for passenger vehicles in dry conditions.",
+  "parking_notes": "Open BLM parking area with space for multiple vehicles. No formal parking lot, but natural pullout areas exist near the quarry entrance. No amenities or facilities at the site.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection or sale of material. No motorized excavation equipment. Hand tools only. Respect existing BLM signage and access restrictions. Leave the site in good condition for other collectors.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nHand tools only - no motorized equipment\nNo specimen sale or trade\nRespect BLM signage and boundaries\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Nephi, Utah, approximately 15-18 miles northwest. Gas, food, water, and lodging available. Salina, Utah also has limited services approximately 20 miles south.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain around the dome. Uneven rocky footing common. Parking area is accessible to most visitors. Main collecting areas require short walks over loose rock and uneven ground. Not suitable for wheelchair access. Sturdy footwear and reasonable mobility required.",
+  "alternative_names": [
+    "Topaz Dome",
+    "Topaz Mountain"
+  ],
+  "nearest_city": "Nephi",
+  "nearest_city_distance": 16,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/topaz-dome-quarry-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What topaz can I find at Topaz Dome Quarry?",
+      "answer": "Topaz Dome Quarry specializes in gem-quality topaz crystals ranging from small transparent specimens to impressive display pieces. Most common are colorless and golden topaz, but blue topaz occasionally appears. Crystals typically range from 0.5 to 3 inches in length, though larger specimens are possible with careful extraction from the rhyolite matrix."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Topaz Dome Quarry?",
+      "answer": "No permit is required. Topaz Dome Quarry sits on Bureau of Land Management public land where recreational rockhounding is allowed under FLPMA (Federal Land Policy and Management Act) rules. You do not need to register or pay a fee, but you must follow the 25-pound-per-day collection limit."
+    },
+    {
+      "question": "What is the best season for rockhounding near Nephi, Utah?",
+      "answer": "April through June and September through October offer ideal conditions. Summer temperatures regularly exceed 90 degrees F, while winter can bring snow or ice. Spring and fall provide comfortable weather for extended collecting sessions and better visibility of topaz crystals in the rock face."
+    },
+    {
+      "question": "Can I bring my kids and dogs to Topaz Dome Quarry?",
+      "answer": "Yes, both are welcome on BLM land. The site is family-friendly with easy surface collecting for beginners and children ages 6 and up. Dogs are permitted but should be monitored around loose rock and heat exposure. Bring plenty of water for both family and pets."
+    },
+    {
+      "question": "What tools do I need to collect topaz at this Utah site?",
+      "answer": "Bring a small geology pick or chisel to carefully extract topaz from the rock matrix, a small hammer for controlled strikes, and a collection bag for specimens. Hand tools only are allowed - no motorized equipment. A 10x loupe helps identify quality specimens, and wear gloves to protect against sharp topaz edges and the rhyolite matrix."
+    },
+    {
+      "question": "How do I get to Topaz Dome Quarry from Nephi?",
+      "answer": "From Nephi, take Highway 132 southeast toward Leamington for about 15 miles. Turn south on Topaz Mountain Road following BLM signage. Continue 3-4 miles on dirt road to the quarry parking area. Passenger vehicles can access the site in dry weather, but high-clearance is better after rain."
+    }
+  ],
+  "meta_title": "Topaz Dome Quarry - Rockhounding Near Nephi, Utah",
+  "meta_description": "Free topaz rockhounding on BLM land near Nephi. Find colorless and golden topaz crystals. No permit required, 25 lb/day limit. Easy access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:50:52.883Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:57:28.636Z"
+}

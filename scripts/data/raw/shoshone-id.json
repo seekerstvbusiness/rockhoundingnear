@@ -1,0 +1,65 @@
+{
+  "slug": "shoshone-id",
+  "name": "Shoshone",
+  "lat": 42.951845,
+  "lng": -114.462235,
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "state_code": "ID",
+  "city": "Lincoln County",
+  "city_slug": "lincoln-county",
+  "county": "Lincoln",
+  "county_slug": "lincoln",
+  "geocoded_city": "Lincoln County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-idaho.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Shoshone%20Idaho"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Idaho BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Shoshone",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Shoshone%20Idaho"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Idaho BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3859,
+      "meters": 1176
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:36:29.809Z"
+  },
+  "scraped_at": "2026-04-21T19:36:29.810Z",
+  "scrape_quality": "partial"
+}

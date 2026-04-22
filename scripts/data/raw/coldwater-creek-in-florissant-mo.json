@@ -1,0 +1,60 @@
+{
+  "slug": "coldwater-creek-in-florissant-mo",
+  "name": "Coldwater Creek in Florissant",
+  "lat": 38.821643,
+  "lng": -90.307722,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Saint Louis County",
+  "city_slug": "saint-louis-county",
+  "county": "Saint Louis",
+  "county_slug": "saint-louis",
+  "geocoded_city": "Saint Louis County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Coldwater%20Creek%20in%20Florissant%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Coldwater%20Creek%20in%20Florissant",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Coldwater%20Creek%20in%20Florissant%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 475,
+      "meters": 145
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:05:09.871Z"
+  },
+  "scraped_at": "2026-04-21T19:05:09.871Z",
+  "scrape_quality": "minimal"
+}

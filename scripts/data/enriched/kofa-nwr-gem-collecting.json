@@ -1,0 +1,107 @@
+{
+  "slug": "kofa-nwr-gem-collecting",
+  "name": "Kofa NWR Gem Collecting",
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "city": "Yuma",
+  "city_slug": "yuma",
+  "county": "La Paz",
+  "county_slug": "la-paz",
+  "lat": 33.3456,
+  "lng": -114.0123,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "Free BLM rockhounding near Quartzsite featuring quartz, agate, and chalcedony in desert washes. No permit required for personal use up to 25 lbs per day.",
+  "description": "Kofa National Wildlife Refuge in La Paz County offers accessible rockhounding opportunities on public BLM land near Yuma and Quartzsite. The area features diverse desert geology with excellent exposures of quartz, agate, chalcedony, and jasper specimens in washes and hillsides at moderate elevation.\n\nThe terrain is characteristically flat to gently rolling Sonoran Desert with sparse vegetation typical of Arizona's arid zones. This location benefits from proximity to the famous Quartzsite rockhounding hub, making it ideal for collectors visiting the region. Washes and arroyo banks provide the best collecting opportunities, where water erosion naturally exposes quality material.\n\nAs BLM-managed public land, this site welcomes recreational collectors with minimal restrictions. The dry climate and stable geology make year-round exploration feasible, though fall and winter months offer more comfortable conditions. Collectors should search wash banks for loose specimens and examine exposed outcrops for quality pieces worth extracting.\n\nThe area is known for yielding polished-quality agate and translucent quartz specimens suitable for both beginner and experienced rockhounders. Patience and systematic searching of promising washes yield consistent results. Always respect the Kofa Wilderness boundary and practice Leave No Trace principles.",
+  "history": "The Kofa Mountains within this National Wildlife Refuge expose Precambrian granite and metamorphic basement rocks intruded by Tertiary-age quartz monzonite porphyry, which hosted significant gold mining activity during the late 1800s and early 1900s, particularly at the famous King of Arizona mine. Secondary silica minerals including quartz, agate, chalcedony, and jasper formed within fractures and altered zones associated with these hydrothermal mineralization events, making the weathered foothills an excellent source for rockhounding specimens today.",
+  "tips": "Search the sandy banks and gravels of washes running through the area - North Star Wash and nearby drainage systems are most productive. Look for translucent to opaque quartz nodules, banded agate fragments, and chalcedony pieces ranging from thumbnail to fist size. A small hand pickaxe helps pry material from consolidating clay, while a classifier or mesh screen speeds specimen sorting. Early morning searches when light is low-angle often reveal gemmy material more easily.",
+  "terrain_notes": "Elevation 3,437 feet in flat to gently rolling Sonoran Desert terrain. Sparse creosote and desert shrub vegetation. Walking distances from parking are typically 0.5 to 3 miles depending on wash selection. Footing is mixed sand, gravel, and hardpan - watch for uneven washes and small drop-offs. No perennial water sources nearby, so bring adequate drinking water.",
+  "best_season": "October - April. Winter and early spring offer cooler temperatures ideal for all-day exploring. Summer heat (often exceeding 115F) makes collecting uncomfortable and increases heat-related hazard risk.",
+  "written_directions": "From Quartzsite, take US 95 south for approximately 25 miles toward Yuma. Watch for BLM access points on the east side of the highway near mile markers in the Kofa area. Several dirt pullouts provide parking near productive washes. A high-clearance vehicle is recommended for deeper wash exploration, though passenger vehicles can access main pullouts. GPS coordinates 33.3456, -114.0123 mark a central collecting zone.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 95 is paved throughout. Secondary access roads to pullouts are well-maintained dirt surfaces suitable for passenger vehicles. No high-clearance requirement for main parking areas.",
+  "parking_notes": "Informal BLM pullouts along US 95 with no established facilities. Multiple locations available. Parking is free and unrestricted; no reservation system.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Respect Kofa Wilderness boundary - no collecting within designated wilderness area. Pack out all trash and follow Leave No Trace principles.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect Kofa Wilderness boundary\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "flash_floods",
+    "sharp_material",
+    "remote"
+  ],
+  "nearest_services": "Quartzsite, 25 miles north on US 95. Full services including fuel, food, lodging, and rock shops. Yuma is approximately 35 miles south with comprehensive amenities.",
+  "accessibility_notes": "Relatively flat terrain accessible to most visitors. Standard hiking conditions apply.",
+  "alternative_names": [
+    "Kofa Rockhounding",
+    "North Star Wash Collecting"
+  ],
+  "nearest_city": "Quartzsite",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/kofa-nwr-gem-collecting/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/kofa-nwr-gem-collecting/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/kofa-nwr-gem-collecting/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/kofa-nwr-gem-collecting/mineral-3-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Kofa NWR near Yuma?",
+      "answer": "The primary finds at Kofa NWR are quartz, agate, chalcedony, and jasper specimens. Agate is particularly prized with banded varieties found in wash gravels. Most specimens range from thumbnail to fist size, with occasional larger nodules suitable for cabbing or tumbling. The desert geology consistently produces translucent to opaque material."
+    },
+    {
+      "question": "Is rockhounding free at Kofa NWR and do I need a permit?",
+      "answer": "Yes, rockhounding at Kofa NWR is completely free with no permit required. This is BLM public land open for recreational collecting under standard FLPMA guidelines. You can collect up to 25 lbs per day for personal use at no cost, making it one of the most accessible collecting sites near Quartzsite."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Kofa NWR?",
+      "answer": "October through April is ideal for Kofa NWR rockhounding. Winter and early spring temperatures are comfortable for all-day exploring, typically in the 60s-70s. Summer heat regularly exceeds 115F, making daytime collecting uncomfortable and increasing dehydration risk. There is no water at the site, so bring adequate supply year-round."
+    },
+    {
+      "question": "How do I get to Kofa NWR gem collecting sites from Quartzsite?",
+      "answer": "From Quartzsite, drive south on US 95 for approximately 25 miles toward Yuma. Watch for BLM pullouts on the east side of the highway in the Kofa area. Multiple informal parking areas provide access to productive washes. GPS coordinates 33.3456, -114.0123 mark a central zone. Passenger vehicles can access main pullouts; high-clearance vehicles enable deeper wash exploration."
+    },
+    {
+      "question": "Is Kofa NWR rockhounding suitable for beginners and families?",
+      "answer": "Yes, Kofa NWR is excellent for beginners and families. Easy terrain with minimal hiking, free access, and consistent specimen recovery make it ideal for first-time rockhounders. Children can find material within short distances of parking areas. The flat to gently rolling desert landscape is safer than steep terrain sites. Bring water, sun protection, and watch for snakes in warm months."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Kofa NWR?",
+      "answer": "Bring a small hand pickaxe for prying material from consolidating clay, a bucket or collection bag for specimens, and a classifier or mesh screen to sort gravels efficiently. Essential supplies include several gallons of drinking water, sun protection (hat, sunscreen), sturdy hiking boots, and a GPS device. A digging bar helps loosen wash material. Leave a detailed trip plan with someone since cell service is spotty."
+    }
+  ],
+  "meta_title": "Kofa NWR Rockhounding - Find Agate & Quartz, Arizona",
+  "meta_description": "Free rockhounding at Kofa NWR near Yuma. Collect agate, quartz, and chalcedony on BLM land. No permit, 25 lbs daily limit. Beginner friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "history",
+    "family_friendly",
+    "dog_friendly",
+    "kid_age_range",
+    "accessibility_notes",
+    "specific_wash_names_for_collecting"
+  ],
+  "enriched_at": "2026-04-21T05:40:40.443Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T16:24:14.285Z"
+}

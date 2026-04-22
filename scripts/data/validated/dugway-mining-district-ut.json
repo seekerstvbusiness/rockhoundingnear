@@ -1,0 +1,100 @@
+{
+  "slug": "dugway-mining-district-ut",
+  "name": "Dugway Mining District",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Tooele",
+  "city_slug": "tooele",
+  "county": "Tooele",
+  "county_slug": "tooele",
+  "lat": 39.997452,
+  "lng": -113.185957,
+  "gem_types": [
+    "Beryl",
+    "Topaz",
+    "Fluorite",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "Historic mining district in Utah's Dugway Valley featuring beryl, topaz, and fluorite specimens on accessible BLM land. Popular with collectors for mineral-rich pegmatite outcrops and year-round co...",
+  "description": "The Dugway Mining District in Tooele County, Utah, is a productive mineral collecting area centered on historic pegmatite deposits that have attracted miners and rockhounders for over a century. The district sits within the Great Basin mineral province, where Precambrian metamorphic rocks host numerous pegmatite dikes rich in beryl, topaz, fluorite, and quartz. This location offers excellent opportunities for both experienced collectors and beginners to find well-formed mineral specimens without extensive hiking or specialized equipment.\n\nThe geology here reflects ancient intrusive activity during the Precambrian era, when granitic pegmatites invaded metamorphic host rocks. These pegmatite bodies cooled slowly, allowing large crystals to form. Beryl (including aquamarine varieties), topaz, and fluorite are the primary prizes here, often found in crystal form within pegmatite pockets and fractures. The district was actively mined for strategic minerals during the 20th century, and old prospects and open pits remain visible across the landscape today.\n\nCollecting at Dugway is straightforward because much of the mineralized area sits on BLM public land with minimal restrictions. Visitors can examine pegmatite outcrops along ridges and canyon sides, search talus slopes where weathered crystals accumulate, and explore old mining workings (staying safe and respecting hazards). The terrain is moderately rugged but not technical, with good vehicle access to multiple collection sites. Specimen quality ranges from small crystal fragments to museum-quality terminated beryl and topaz specimens, depending on luck and effort.\n\nThe area sees moderate recreational pressure, so early morning visits and exploration away from main pullouts often yield better results. Spring and fall offer the most comfortable collecting weather, though winter snow can occasionally close higher elevation roads. Summer heat is manageable if you start early and bring adequate water.",
+  "history": "The Dugway Mining District developed during the early 20th century as part of Utah's pegmatite mining boom, with operators extracting feldspar and mica for industrial use. The beryl, topaz, and fluorite crystals found here formed during Precambrian metamorphism and subsequent pegmatite intrusion, part of the extensive mineralization event that created the Basin and Range province's characteristic mineral-rich granite and pegmatite bodies.",
+  "tips": "Search the talus slopes below pegmatite outcrops on hillsides facing east and north, where weathering exposes loose crystals. Use a 3-5 lb hammer and pry bar to carefully open vugs and fractures in pegmatite, working slowly to avoid shattering fragile specimens. Look for translucent to transparent blue or colorless beryl crystals, yellowish or colorless topaz, and purple or clear fluorite cubes; larger specimens often occur near the contacts between pegmatite and country rock.",
+  "terrain_notes": "Elevation ranges from 5,200 to 6,400 feet across the district. Terrain is semi-arid high desert with sparse sagebrush and juniper. Rocky ridges and outcrops alternate with sandy washes and bajadas. Most collecting sites are within 0.5 to 2 miles of parking, with moderate to steep slopes in places. Footing is generally stable on consolidated pegmatite and metamorphic rock, though loose talus requires careful stepping.",
+  "best_season": "April - May and September - October. Temperatures are mild and water needs are manageable. Summer (June - August) brings intense heat above 90 degrees F, requiring very early starts and abundant water. Winter (November - March) can see snow at higher elevations, potentially blocking access roads.",
+  "written_directions": "From Tooele, head south on US 6 for approximately 18 miles toward Vernon. Turn west onto Road Fork Road (local road) and continue 8 - 10 miles into the Dugway Valley area. Multiple informal pullouts and access points exist along and near the mining district; look for old prospect pits, rock piles, and exposed pegmatite outcrops. A detailed map or GPS coordinates are recommended, as roads can be unsigned and conditions vary seasonally.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and graded roads, generally passable to high-clearance passenger vehicles in good weather. Some rougher branch roads may require 4WD during wet or snowy conditions. Check local BLM office for current conditions before visiting winter or after heavy rain.",
+  "parking_notes": "Multiple informal dirt pullouts scattered throughout the district near exposed pegmatite. No developed parking lot; space typically available except during weekend peak season. Park away from old mine workings and maintain safe distance from open shafts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or sale of specimens. No motorized excavation or use of power tools. Respect old mine workings but do not enter underground shafts or tunnels. Pack out all trash. Report hazardous conditions to Tooele BLM office.",
+  "quantity_limits": "25 lbs per day per FLPMA",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo power tools\nNo underground mining\nPack out trash\nRespect hazardous mine sites",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Tooele, Utah, approximately 25 - 30 miles north. Full services including gas, food, lodging, and emergency services. Vernon, Utah, is closer (15 miles north) but offers limited services.",
+  "accessibility_notes": "Moderate terrain with uneven rocky slopes and some scrambling required to reach good pegmatite outcrops. Most collecting occurs on hillsides with 10 - 30 degree slopes. No wheelchair access. Sturdy hiking boots with ankle support recommended. Reasonably fit hikers can manage most sites within the district; extreme physical condition not required.",
+  "alternative_names": [],
+  "nearest_city": "Tooele",
+  "nearest_city_distance": 28,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/dugway-mining-district-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What minerals can you find rockhounding at Dugway Mining District in Utah?",
+      "answer": "The primary minerals found at Dugway are beryl (including aquamarine varieties), topaz, fluorite, and quartz. Beryl and topaz crystals are the most prized specimens, often found as well-formed crystals within pegmatite pockets. Fluorite occurs as purple or clear cubes. These minerals form in the district's Precambrian pegmatites, which are ideal environments for large crystal growth."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Dugway Mining District?",
+      "answer": "No permit is required for recreational collecting at Dugway Mining District, as it is located on BLM public land. You only need to follow FLPMA regulations: collect for personal use only, limit your take to 25 lbs per day, and avoid commercial collection. Simply show up during daylight hours and start collecting."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Tooele at Dugway?",
+      "answer": "April through May and September through October are ideal, with mild temperatures and manageable water needs. Avoid summer (June - August) when temperatures exceed 90 degrees F, requiring very early starts and heavy water consumption. Winter snows can block higher elevation roads, though lower areas may remain accessible with caution."
+    },
+    {
+      "question": "How far is Dugway Mining District from Tooele, Utah?",
+      "answer": "Dugway Mining District is approximately 25 - 30 miles south of Tooele. From Tooele, take US 6 south toward Vernon for about 18 miles, then head west on local roads into the Dugway Valley area. The drive takes roughly 45 - 60 minutes depending on road conditions and your exact destination within the district."
+    },
+    {
+      "question": "Is Dugway Mining District beginner-friendly for rockhounding?",
+      "answer": "Yes, Dugway is excellent for beginners. Access is straightforward via public BLM land with no permits required, and the moderate terrain doesn't demand technical skills or extreme fitness. The pegmatite outcrops and talus slopes are obvious mineral sources, making it easy to find productive collecting spots. Start at main pullouts and work upslope toward exposed pegmatite faces."
+    },
+    {
+      "question": "What tools do I need to collect beryl and topaz at Dugway Mining District?",
+      "answer": "A 3 - 5 lb hammer, a pry bar or small pick, and a chisel are sufficient for most pegmatite work at Dugway. Bring water (at least 3 - 4 liters), sun protection, sturdy boots, and a collection bag. Avoid power tools, which are prohibited on BLM land. Gloves protect your hands from sharp pegmatite edges while working."
+    }
+  ],
+  "meta_title": "Dugway Mining District Rockhounding - Utah Beryl & Topaz",
+  "meta_description": "Collect beryl, topaz, and fluorite at Dugway Mining District on Utah BLM land. No permit required, 25 lbs/day limit. Great for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from county and general geography; specific road names and exact mileages should be verified with current BLM maps",
+    "nearest_city_distance - estimated based on typical Tooele County distances; verify with mapping tool",
+    "road_conditions - general assessment based on typical BLM high desert access; current seasonal conditions should be checked with Tooele BLM",
+    "cell_service - estimated as spotty based on remote high desert location; verify with local BLM or recent user reports"
+  ],
+  "enriched_at": "2026-04-22T06:53:22.471Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:01:50.657Z"
+}

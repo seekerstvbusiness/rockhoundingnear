@@ -1,0 +1,64 @@
+{
+  "slug": "amite-river-valley-la",
+  "name": "Amite River Valley",
+  "lat": 30.654699,
+  "lng": -90.910581,
+  "state": "Louisiana",
+  "state_slug": "louisiana",
+  "state_code": "LA",
+  "city": "East Baton Rouge Parish",
+  "city_slug": "east-baton-rouge-parish",
+  "county": "East Baton Rouge",
+  "county_slug": "east-baton-rouge",
+  "geocoded_city": "East Baton Rouge Parish",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-louisiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Amite%20River%20Valley%20Louisiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Amite%20River%20Valley",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Amite%20River%20Valley%20Louisiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 65,
+      "meters": 20
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Denham Springs",
+      "distance_mi": 12,
+      "population": 9286
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:39:25.319Z"
+  },
+  "scraped_at": "2026-04-21T16:39:25.319Z",
+  "scrape_quality": "minimal"
+}

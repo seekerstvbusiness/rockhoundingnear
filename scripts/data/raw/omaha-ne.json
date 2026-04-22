@@ -1,0 +1,60 @@
+{
+  "slug": "omaha-ne",
+  "name": "Omaha",
+  "lat": 41.22544,
+  "lng": -96.35859,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Waterloo Precinct",
+  "city_slug": "waterloo-precinct",
+  "county": "Douglas",
+  "county_slug": "douglas",
+  "geocoded_city": "Waterloo Precinct",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Omaha%20Nebraska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Omaha",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Omaha%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1114,
+      "meters": 340
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:03:04.564Z"
+  },
+  "scraped_at": "2026-04-21T17:03:04.565Z",
+  "scrape_quality": "minimal"
+}

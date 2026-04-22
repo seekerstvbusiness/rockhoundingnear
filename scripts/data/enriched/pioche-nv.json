@@ -1,0 +1,101 @@
+{
+  "slug": "pioche-nv",
+  "name": "Pioche",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Pioche",
+  "city_slug": "pioche",
+  "county": "Lincoln",
+  "county_slug": "lincoln",
+  "lat": 37.921866,
+  "lng": -114.45581,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land rockhounding site near historic Pioche, Nevada, offering free access to collect quartz, agate, and jasper specimens with a 25 lb daily limit.",
+  "description": "Pioche sits at 6704 feet elevation in Lincoln County's rugged high desert terrain, an excellent location for rockhounders seeking quartz and agate specimens on public BLM land. The area's gentle slopes and exposed mineralized outcrops make it accessible for collectors of varying skill levels. Historic mining activity in the region has left abundant surface specimens, particularly in washes and along hillsides where erosion continues to expose new material.\n\nThe geology here reflects the Basin and Range province, where ancient hydrothermal fluids during the Tertiary period deposited silica-rich minerals throughout the limestone and volcanic host rock. This process created the quartz veins, agate nodules, and jasper formations that rockhounders seek today. The high elevation means cooler temperatures during collecting season, making fall and spring the most comfortable times to work.\n\nCollecting is straightforward - no permits required for personal use, and the public BLM designation means free access with minimal restrictions. The gentle slope and moderate terrain make this site suitable for families and beginners, though sturdy footwear is recommended due to rocky ground and scattered sharp material. Plan to spend 2-4 hours exploring washes and hillsides near the town.",
+  "history": "Pioche developed as a major silver mining center in the 1870s-1880s, with rich ore deposits driving intensive exploration and development throughout Lincoln County. The same hydrothermal systems that produced the valuable silver deposits also created extensive quartz veins and silica mineralization visible in the surrounding hills today, making this a natural destination for modern rockhounders seeking secondary mineral specimens.",
+  "tips": "Search in washes and eroded gullies where water has naturally exposed subsurface rock and weathered away overlying material - quartz crystals and agate nodules are commonly found loose in these areas. Bring a small pry bar or rock hammer to carefully extract specimens from weathered outcrops on gentle slopes, and always leave behind unstable rock to prevent collapse. Look for white or milky quartz veins cutting through darker host rock, and examine agate for the characteristic banding patterns that indicate quality specimens. The high elevation means cooler collecting conditions, but bring plenty of water and sun protection as the treeless terrain offers no shade.",
+  "terrain_notes": "Elevation 6704 feet with gentle to moderate slopes covered in scattered low desert shrubs and sparse vegetation. Rocky, uneven terrain with exposed mineralized outcrops and washes. Walking distance from parking varies from immediate to 1-2 miles depending on target areas. Footing is rocky but generally stable; watch for loose rocks and sharp edges on freshly broken specimens.",
+  "best_season": "May - September and October - November. The high elevation means summer brings comfortable afternoon temperatures compared to lower Nevada desert sites, but late spring through early fall offers the most predictable weather. Avoid winter months (November - March) when snow and ice may restrict access to higher elevation areas.",
+  "written_directions": "From Pioche, head east on Main Street which becomes Nevada State Route 375. Continue for approximately 2-3 miles until you reach BLM public land markers and pullouts on either side of the road. Park at any designated BLM pullout and hike into the gentle slopes and washes. The area immediately adjacent to the road is accessible to all vehicles, while further exploration may require hiking across uneven terrain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Nevada State Route 375 is paved and well-maintained; pullouts are unpaved dirt with good clearance for standard vehicles.",
+  "parking_notes": "Multiple unpaved BLM pullouts available along Nevada State Route 375 east of Pioche. Pullouts accommodate 3-5 vehicles; no formal parking lot. Pullouts are clearly marked with BLM signage.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Rockhounders must pack out all trash and leave no excavation scars.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nPack out all trash\nLeave no excavation scars\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "cold",
+    "remote"
+  ],
+  "nearest_services": "Pioche, approximately 2-3 miles west. Limited services; plan to fuel and provision in advance. Nearest full-service town is Caliente, Nevada, approximately 35 miles south.",
+  "accessibility_notes": "Gentle terrain with scattered rocky footing makes this accessible to most hikers with sturdy footwear. Uneven ground and loose rocks require caution for visitors with mobility limitations. No wheelchair access. Parking is immediately adjacent to collecting areas, minimizing walking distance for those with limited mobility.",
+  "alternative_names": [
+    "Pioche BLM",
+    "Lincoln County Rockhounding"
+  ],
+  "nearest_city": "Pioche",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/pioche-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Pioche, Nevada?",
+      "answer": "The Pioche area is known for white and milky quartz, agate with banding patterns, jasper, and chalcedony specimens. These minerals are found loose in washes and eroded from hillside outcrops. Most pieces are small to medium-sized; larger specimens require careful extraction from weathered veins."
+    },
+    {
+      "question": "Is rockhounding near Pioche free, and do I need a permit?",
+      "answer": "Yes, rockhounding is completely free on BLM public land near Pioche with no permit required. You simply need to follow personal use guidelines: collect only for yourself, limit collections to 25 lbs per day, and avoid commercial resale."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Pioche?",
+      "answer": "May through November offers the best rockhounding conditions. The high elevation (6704 feet) means cooler temperatures in summer compared to lower Nevada deserts. Avoid winter months when snow and ice may restrict access. Spring and fall provide ideal weather for outdoor collecting."
+    },
+    {
+      "question": "Can beginners and families collect rocks at Pioche?",
+      "answer": "Absolutely. The gentle slopes and accessible BLM land make Pioche ideal for beginners and families with children ages 6 and up. No special skills are required, and parking is adjacent to collecting areas. A basic rock hammer and small pry bar are helpful but not essential."
+    },
+    {
+      "question": "How far is Pioche rockhounding from town, and what tools do I need?",
+      "answer": "Collecting areas are 2-3 miles east of Pioche town along Nevada State Route 375. Bring sturdy boots, a small pry bar or rock hammer, water, sun protection, and a bag for specimens. A 10x hand lens helps identify agate banding. No heavy equipment is necessary for this beginner-friendly site."
+    },
+    {
+      "question": "Are there hazards I should watch for when rockhounding near Pioche?",
+      "answer": "Main concerns include loose rocks underfoot on uneven terrain, sharp edges on freshly broken specimens, and cold temperatures in early morning or late season. The high elevation and sparse vegetation provide no shade, so bring ample water. Avoid the area during winter when snow and ice may make access dangerous."
+    }
+  ],
+  "meta_title": "Pioche Rockhounding - Free BLM Quartz & Agate",
+  "meta_description": "Free rockhounding on BLM public land near Pioche, Nevada. Collect quartz, agate, and jasper with no permit required. Beginner-friendly high desert site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "road_conditions detail",
+    "parking_notes capacity estimates",
+    "nearest_services distance to Caliente",
+    "cell_service based on remote location",
+    "terrain photos and validation of exact pullout locations"
+  ],
+  "enriched_at": "2026-04-22T09:50:03.225Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:50.306Z"
+}

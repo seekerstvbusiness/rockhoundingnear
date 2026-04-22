@@ -1,0 +1,95 @@
+{
+  "slug": "la-madera-mine-nm",
+  "name": "La Madera Mine",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Petaca",
+  "city_slug": "petaca",
+  "county": "Rio Arriba",
+  "county_slug": "rio-arriba",
+  "lat": 36.396118,
+  "lng": -106.024174,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Public BLM rockhounding site near Petaca offering quartz and feldspar specimens in high-elevation mountain terrain. Personal use collecting allowed with standard 25 lb daily limit.",
+  "description": "La Madera Mine is a public BLM rockhounding location in the Rio Arriba County mountains near Petaca, New Mexico, situated at 6,584 feet elevation on gentle slopes ideal for recreational collecting. The site lies within the Tusas Mountains region, where Precambrian metamorphic and granitic bedrock hosts quartz veins, feldspar crystals, and mica formations typical of New Mexico's upland mineral deposits. Collectors typically find well-formed quartz specimens, white and pink feldspars, and mica sheets along exposed outcrops and in weathered slope material. The gentle terrain and accessible location make this a solid option for rockhounds seeking alpine collecting without extreme difficulty or long backcountry hikes.\n\nThe geology reflects the complex metamorphic basement of northern New Mexico, where ancient igneous and metamorphic rocks were uplifted and mineralized over hundreds of millions of years. Quartz veins cutting through feldspar-rich granitic bodies created the mineral-rich zones found here today. Mica sheets are common weathering products in these metamorphic terranes. The high elevation provides cooler temperatures and good visibility for spotting exposed mineral specimens on slopes and wash banks.\n\nAccess is straightforward via BLM public land with no permit required. Collectors should plan for cooler mountain weather, bring adequate water, and respect the 25 lb daily personal-use limit. The site works well for families, beginners, and experienced rockhounds wanting quality quartz and feldspar material without the complexity of mining areas or fee dig sites.",
+  "history": "The La Madera Mine area sits within the Tusas Mountains, part of New Mexico's Precambrian metamorphic basement uplifted during Laramide orogeny (80-55 million years ago). Granitic intrusions and metamorphic country rocks in this region contain abundant quartz veins and feldspar-rich pegmatites formed during Proterozoic times and later mobilized by regional thermal events, creating the mineral assemblages collectors seek today.",
+  "tips": "Search along the gentle slopes and exposed hillsides where weathering has exposed quartz veins and feldspar crystal clusters - the highest elevation areas often yield the freshest specimens. Bring a geology hammer or chisel to carefully extract quartz points and feldspar crystals from matrix; look for clear to milky quartz with well-formed terminations and blocky feldspar showing good cleavage faces. Mica sheets can be collected whole from weathered zones - examine rocky slope faces and small wash banks after snowmelt for the best visibility and accessibility. Work early morning before afternoon mountain clouds develop, and mark your parking spot clearly since the gentle rolling terrain can be disorienting.",
+  "terrain_notes": "Elevation 6,584 feet with gentle slopes covered in sparse high-altitude vegetation including ponderosa pine and mountain scrub. Rocky, well-drained soil with exposed granitic outcrops. Walking distance from parking is typically short (under 0.5 mile to productive areas), but footing is rocky and uneven; sturdy boots essential. No significant elevation gain within the collecting zone.",
+  "best_season": "June - September. High elevation means snow closure November through May. July and August can be warm with afternoon thunderstorms, so early morning collecting preferred. June and September offer ideal temperatures and lower precipitation.",
+  "written_directions": "From Petaca, head north on NM 285 for approximately 12 miles. Turn east on Forest Road 127 (check for current BLM access signs). Continue east for roughly 5 miles on this rough dirt road, bearing toward higher elevation. The La Madera Mine area is marked on BLM maps; look for pullouts near exposed rocky hillsides. GPS coordinates (36.396118, -106.024174) will guide you directly to productive collecting zones. High-clearance vehicle recommended due to rough road conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough, unimproved BLM dirt road with washboard surface. High clearance vehicle recommended. May be impassable after heavy rain or snowmelt.",
+  "parking_notes": "Informal pullouts along BLM roads near collecting areas. No developed parking lot. Space for 3-5 vehicles at primary access points.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or power tools. Collect only on BLM public land; respect any posted closures.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo power tools\nRespect posted closures and property boundaries\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "Petaca, approximately 12 miles south. Limited services; closest full supplies in Espanola (25 miles). Bring water, snacks, and fuel.",
+  "accessibility_notes": "Relatively gentle slopes and short walking distances make this accessible to families and most skill levels. Rocky, uneven footing requires sturdy boots. No wheelchair access due to rough terrain and rocky outcrops. High elevation (6,584 ft) may affect those with altitude sensitivity. Short carrying distances from parking to prime collecting areas.",
+  "alternative_names": [],
+  "nearest_city": "Petaca",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/la-madera-mine-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find at La Madera Mine near Petaca?",
+      "answer": "La Madera Mine yields quartz specimens (clear to milky), pink and white feldspar crystals, and mica sheets. The site's Precambrian granitic geology makes it particularly good for collecting well-formed quartz points and blocky feldspar showing good crystal cleavage. Quality specimens are commonly found on exposed hillsides and weathered slope material."
+    },
+    {
+      "question": "Is a permit required for rockhounding at La Madera Mine, New Mexico?",
+      "answer": "No permit is required. La Madera Mine sits on public BLM land where recreational collecting is allowed under standard FLPMA personal-use rules. You do not need to apply for permission, but you must follow the 25 lb per-day limit and collect only for personal use, not commercial purposes."
+    },
+    {
+      "question": "How far is La Madera Mine from Petaca and what are the road conditions?",
+      "answer": "La Madera Mine is approximately 12 miles north of Petaca via NM 285 and Forest Road 127. The final approach is a rough, unimproved BLM dirt road with washboard surface requiring high-clearance or all-wheel-drive vehicles. Road conditions may be impassable after heavy rain or snow."
+    },
+    {
+      "question": "What is the best season for rockhounding at La Madera Mine?",
+      "answer": "June through September is ideal. The high elevation (6,584 ft) means snow typically blocks access November through May. June and September offer the best combination of mild weather and minimal precipitation. July and August can be warm with afternoon thunderstorms, so early morning collecting is recommended."
+    },
+    {
+      "question": "Is La Madera Mine beginner-friendly and good for families with kids?",
+      "answer": "Yes, La Madera Mine is excellent for beginners and families. The gentle slopes and short walking distances (typically under 0.5 mile to productive areas) make it accessible for children ages 8 and up. Quartz and feldspar are easy to identify, and the site requires no technical skills. Rocky footing demands sturdy boots for safety."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at La Madera Mine?",
+      "answer": "Bring a geology hammer, cold chisel, and small crowbar to extract specimens from granitic matrix. Pack sturdy hiking boots for rocky terrain, plenty of water (high elevation dehydrates quickly), sunscreen, and a backpack to carry your 25 lb daily limit. A hand lens (10x) helps identify feldspars and quartz. GPS or offline maps are useful given the remote location and spotty cell service."
+    }
+  ],
+  "meta_title": "La Madera Mine Rockhounding - New Mexico",
+  "meta_description": "Find quartz, feldspar, and mica at La Madera Mine near Petaca, NM. Free public BLM collecting, no permit required, 25 lb daily limit. Best June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:46:10.688Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:49:23.448Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "derry-hill-nh",
+  "name": "Derry Hill",
+  "lat": 43.044833,
+  "lng": -72.371712,
+  "state": "New Hampshire",
+  "state_slug": "new-hampshire",
+  "state_code": "NH",
+  "city": "Walpole",
+  "city_slug": "walpole",
+  "county": "Cheshire",
+  "county_slug": "cheshire",
+  "geocoded_city": "Walpole",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-hampshire.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Derry%20Hill%20New%20Hampshire"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Derry%20Hill",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Derry%20Hill%20New%20Hampshire"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1404,
+      "meters": 428
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:25:16.295Z"
+  },
+  "scraped_at": "2026-04-21T17:25:16.295Z",
+  "scrape_quality": "minimal"
+}

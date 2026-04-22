@@ -1,0 +1,65 @@
+{
+  "slug": "hurricane-knob-va",
+  "name": "Hurricane Knob",
+  "lat": 36.707507,
+  "lng": -80.452049,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Patrick County",
+  "city_slug": "patrick-county",
+  "county": "Patrick",
+  "county_slug": "patrick",
+  "geocoded_city": "Patrick County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hurricane%20Knob%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hurricane%20Knob",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hurricane%20Knob%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3045,
+      "meters": 928
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": [
+      {
+        "name": "Blue Ridge Parkway",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-21T18:59:41.534Z"
+  },
+  "scraped_at": "2026-04-21T18:59:41.534Z",
+  "scrape_quality": "minimal"
+}

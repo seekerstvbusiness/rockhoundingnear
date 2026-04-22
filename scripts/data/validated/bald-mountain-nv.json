@@ -1,0 +1,99 @@
+{
+  "slug": "bald-mountain-nv",
+  "name": "Bald Mountain",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Battle Mountain",
+  "city_slug": "battle-mountain",
+  "county": "Lander",
+  "county_slug": "lander",
+  "lat": 40.395596,
+  "lng": -116.721153,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM rockhounding site in central Nevada offering free public access to quartz, agate, and chalcedony in high desert terrain at 6362 feet elevation.",
+  "description": "Bald Mountain is a public Bureau of Land Management site located in Lander County's high desert region. This area sits within Nevada's Great Basin province, where ancient volcanic activity and hydrothermal processes created abundant silica-rich mineral deposits throughout the surrounding ranges. The mountain's exposed geological formations provide accessible opportunities for collectors to search for quartz specimens, agates, and chalcedony on public land without permits or fees. The relatively open terrain and visible rock exposures make it suitable for rockhounders of varying experience levels looking for free, unregulated collecting opportunities.\n\nThe terrain at Bald Mountain ranges from gentle slopes to rocky hillsides with scattered vegetation typical of Nevada's high desert ecosystem. Elevation at 6362 feet means cooler temperatures than lower desert areas, but conditions remain dry year-round. The site is known for scattered quartz outcrops and weathered agate nodules found in washes and on hillsides. Most productive collecting occurs on open BLM land where natural erosion continuously exposes fresh mineral material.\n\nAs a true public land site, Bald Mountain allows personal use rockhounding under standard FLPMA regulations. Collectors should plan for a moderately remote location with limited services nearby and bring adequate water, sun protection, and navigation tools. The high elevation and exposed terrain offer excellent views of the surrounding Basin and Range landscape.",
+  "history": "This area lies within the Basin and Range province where Eocene to Miocene volcanic activity and associated hydrothermal systems deposited silica-rich fluids that formed the extensive quartz and chalcedony deposits found throughout Lander County. Historic mining activity in the region focused on gold and silver, but these same geological processes created abundant secondary silica minerals that rockhounders collect today.",
+  "tips": "Search the rocky washes and gullies on the hillsides where water erosion exposes fresh agate and quartz material; concentrate effort below visible white quartz outcrops on the slopes. Bring a good quality hand lens and sturdy rock hammer to test specimens in place - chalcedony and agate can be difficult to distinguish from common quartz without close examination. Look for color-banded specimens and material with a waxy luster rather than glassy quartz; agates here often show subtle color variations in whites, grays, and tan hues. Early morning collecting is ideal due to the exposed terrain and high elevation - afternoon heat and sun exposure can be intense.",
+  "terrain_notes": "High desert mountain terrain at 6362 feet elevation with rocky slopes, sparse sagebrush, and scattered rock outcrops. Footing varies from moderately easy on wash bottoms to steep, rocky hillsides requiring scrambling. No developed trails; cross-country hiking with natural washes as primary routes. Most collecting areas accessible within 0.5 to 2 miles from parking, but terrain is uneven with loose rocks common. Good hiking boots strongly recommended.",
+  "best_season": "October - April. Higher elevation (6362 ft) makes this site more pleasant in cooler months. Summer temperatures can exceed 85F in exposed areas, and winter snow at this elevation is possible but usually light. Spring (March-April) and fall (October-November) offer ideal conditions with moderate temperatures and lower sun intensity.",
+  "written_directions": "From Battle Mountain, take NV 305 south approximately 20 miles toward Lander. Continue past the Lander area and look for BLM access roads heading east or west from the highway. The exact trailhead varies, but public BLM land surrounds Bald Mountain. Use GPS coordinates 40.395596, -116.721153 and a detailed Nevada BLM map to locate parking areas and open collecting zones. High-clearance vehicles recommended for final approach on dirt roads. Verify current road conditions with the Battle Mountain BLM field office before visiting.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt roads with potential washboard surface. High-clearance vehicle recommended for final approach to parking areas. Road conditions variable depending on recent weather and maintenance.",
+  "parking_notes": "Informal BLM pullouts and parking areas along dirt access roads. Capacity varies; no developed parking lot. Park well off active roads and clearly mark your vehicle location for navigation.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or power tools. Collect only loose material and surface specimens - do not break rock formations or dig into outcrops. Remove all trash and leave no trace.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nNo breaking rock formations\nCollect surface specimens only\nRemove all trash - pack out what you pack in",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "remote",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Battle Mountain, approximately 25 miles north. Full services including gas, food, water, and lodging available. Lander area (closer, ~15 miles south) has limited services.",
+  "accessibility_notes": "Uneven, rocky terrain with slopes requiring some scrambling. No wheelchair access. Loose rocks common throughout. High elevation (6362 ft) may affect visitors at higher altitudes. Sturdy hiking boots essential. Terrain difficulty is moderate overall - not beginner-easy but manageable for those with reasonable fitness and hiking experience.",
+  "alternative_names": [],
+  "nearest_city": "Battle Mountain",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/bald-mountain-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/bald-mountain-nv/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Bald Mountain in Nevada?",
+      "answer": "Bald Mountain is best known for quartz, agate, chalcedony, and jasper specimens. The exposed geological formations from ancient volcanic activity contain abundant silica-rich deposits. Agates here often display subtle color banding in whites, grays, and tan hues, while quartz specimens range from clear to milky varieties. Most material is found as loose pieces in washes and on hillsides."
+    },
+    {
+      "question": "Is there a fee to rockhound at Bald Mountain, Nevada?",
+      "answer": "No fee. Bald Mountain is located on Bureau of Land Management (BLM) public land that allows free personal use rockhounding under FLPMA regulations. You do not need a permit. Standard BLM rules apply: 25 lb daily limit, no commercial collection, and surface collecting only. This makes it an excellent budget-friendly rockhounding destination near Battle Mountain."
+    },
+    {
+      "question": "When is the best time to rockhound at Bald Mountain Nevada?",
+      "answer": "October through April offers ideal conditions at this 6362-foot elevation site. Cooler temperatures make the exposed desert terrain comfortable for field work, and sun intensity is lower. Summer temperatures exceed 85F in open areas and can be uncomfortable. Winter is possible but may bring light snow at this elevation. Spring and fall shoulder seasons (March-April, October-November) are especially good choices."
+    },
+    {
+      "question": "How do I find agates and quartz at Bald Mountain rockhounding site?",
+      "answer": "Focus your search on rocky washes, gullies, and hillsides where water erosion exposes fresh material. Look below visible white quartz outcrops on slopes - these often indicate agate deposits nearby. Use a hand lens to examine specimens in place; true agates have a waxy luster versus glassy quartz. The high desert terrain means material is continuously exposed, so productive areas change seasonally with weather erosion."
+    },
+    {
+      "question": "What should I bring for rockhounding at Bald Mountain Nevada?",
+      "answer": "Essential gear includes sturdy hiking boots (terrain is rocky and uneven), abundant water (high elevation and sun exposure are intense), sun protection, and a good rock hammer or chisel. Bring a hand lens for specimen identification, GPS or detailed BLM maps, and a backpack to carry your 25-lb daily limit. Since the site is remote (20+ miles from Battle Mountain), pack extra water and let someone know your location."
+    },
+    {
+      "question": "Is Bald Mountain Nevada rockhounding suitable for beginners and families?",
+      "answer": "Yes, beginners and families can enjoy Bald Mountain with proper preparation. The terrain is moderately challenging (rocky slopes, loose footing) so ages 8+ with hiking ability work best. No permit required and free access make it beginner-friendly from a regulatory standpoint. However, plan for a moderately remote location with limited cell service - bring navigation tools, adequate water, and tell someone your plans. The high elevation means cooler conditions than lower Nevada sites."
+    }
+  ],
+  "meta_title": "Bald Mountain Rockhounding - Nevada BLM",
+  "meta_description": "Free BLM rockhounding at Bald Mountain, Nevada. Find quartz, agate, and chalcedony. No permits or fees. October - April best season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "road_conditions",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T06:43:42.506Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:48:05.807Z"
+}

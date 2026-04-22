@@ -1,0 +1,60 @@
+{
+  "slug": "raymond-nh",
+  "name": "Raymond",
+  "lat": 43.003694,
+  "lng": -71.208219,
+  "state": "New Hampshire",
+  "state_slug": "new-hampshire",
+  "state_code": "NH",
+  "city": "Raymond",
+  "city_slug": "raymond",
+  "county": "Rockingham",
+  "county_slug": "rockingham",
+  "geocoded_city": "Raymond",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-hampshire.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Raymond%20New%20Hampshire"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Raymond",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Raymond%20New%20Hampshire"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 224,
+      "meters": 68
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:29:07.437Z"
+  },
+  "scraped_at": "2026-04-21T17:29:07.437Z",
+  "scrape_quality": "minimal"
+}

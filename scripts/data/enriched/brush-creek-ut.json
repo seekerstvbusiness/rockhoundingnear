@@ -1,0 +1,100 @@
+{
+  "slug": "brush-creek-ut",
+  "name": "Brush Creek",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Vernal",
+  "city_slug": "vernal",
+  "county": "Uintah",
+  "county_slug": "uintah",
+  "lat": 40.486607,
+  "lng": -109.388453,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chert",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land rockhounding near Vernal offering agate, jasper, and chalcedony in scenic creek-bottom terrain. No permit required, 25 lb daily limit.",
+  "description": "Brush Creek in Uintah County is a productive BLM rockhounding destination near Vernal, Utah, where collectors find colorful agates, jaspers, and chalcedony specimens in streambed deposits and nearby hillside exposures. The site lies within the Uinta Basin geological province, where Tertiary-age sedimentary rocks and ancient alluvial deposits concentrate silica-rich minerals ideal for recreational collecting.\n\nThe creek drainage has worked the local geology for millennia, concentrating nodules and fragments of chalcedony and agate along the wash and in surrounding gravels. Hikers will encounter mixed terrain typical of Utah's high desert - dry ridges with sagebrush vegetation, rocky creek bottoms with scattered cottonwoods, and exposed sandstone and shale ledges. The combination of water-worn material in the creek bed and weathered specimens on nearby slopes makes this a flexible site for both beginners and experienced rockhounds.\n\nAccess is straightforward on BLM public land with no permits required. The area sees moderate use during spring and fall, making it accessible year-round though best in cooler months. Parking near the creek provides easy access to productive collecting zones within short walking distances.",
+  "history": "The Brush Creek drainage sits within the Uinta Basin, a Late Cretaceous through Tertiary depositional basin where marine and fluvial sediments accumulated along with extensive volcanic ash and silica-rich fluids. These conditions created ideal settings for chalcedony and agate formation; groundwater carrying dissolved silica percolated through porous sandstones and filled cavities, hardening over millions of years into the colorful nodules found here today. Prospectors and rockhounds have worked this creek intermittently for decades, drawn by the consistent supply of gem-quality specimens in the streambed.",
+  "tips": "Search the main creek wash and side channels first - water-rounded agate and jasper pieces accumulate in gravel bars and along the outside bends of meanders where heavier stones settle. Use a 5-gallon bucket to sample creek gravels, then pan or sift material to spot colorful nodules and chalcedony fragments. Look for specimens with warm earth tones - rust-red, honey-gold, and cream colors often indicate quality agate. The exposed hillsides and small gullies above the creek bed also yield specimens; check areas where erosion has exposed colorful matrix material.",
+  "terrain_notes": "Moderate high-desert terrain at approximately 5,200-5,400 feet elevation. The creek bottom is relatively flat with sandy and gravelly footing, but scattered rocks and occasional mud patches require sturdy boots. Hillsides flanking the creek are rocky with sagebrush scrub and scattered juniper; slopes are gentle to moderate with loose soil and scattered stone. Walking distances from parking to productive areas are typically 0.25 to 1 mile. Vegetation is sparse; shade is limited to creek-side cottonwoods.",
+  "best_season": "October - April. High desert heat peaks July through September with daytime temperatures exceeding 90 degrees F, making creek-bottom collecting uncomfortable. Fall and early spring offer mild temperatures ideal for sustained collecting efforts. Winter is possible but creek access may be affected by occasional snowmelt or ice.",
+  "written_directions": "From Vernal, drive east on US Highway 40 for approximately 15 miles toward Dinosaur. Turn south on State Road 149 (or local BLM access roads - confirm current routes with Vernal BLM office). Continue approximately 8-10 miles on rougher roads following directional signs toward the Brush Creek drainage. Park near access points where the road reaches the creek bottom or nearby ridges. GPS coordinates (40.486607, -109.388453) mark the general collecting area; local knowledge of exact pullouts is helpful.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt roads with washboard and potential soft spots during wet weather. High-clearance or all-wheel-drive vehicle recommended. Local BLM roads can be rocky; passenger cars possible in dry conditions but not ideal.",
+  "parking_notes": "Informal pullouts and parking areas near the creek drainage. No developed parking lot; parking is typically at wide spots along ranch roads or near creek access points. Space is available for 3-6 vehicles at most pullouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or sluicing. Collect loose material and surface specimens only; do not dig or use power equipment. Pack out all waste. Fire restrictions may apply - check BLM alerts before your trip.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or mechanical equipment\nCollect surface and loose material only\nNo digging or trenching\nPack out all waste\nCheck current fire restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "wildlife",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Vernal, Utah - approximately 20 miles north. Full services including gas, food, lodging, and emergency care. Last water and supplies should be obtained in Vernal before heading to Brush Creek.",
+  "accessibility_notes": "Relatively flat terrain in the creek bottom is accessible to most rockhounds with moderate mobility. Rocky footing and slopes require sturdy hiking boots and caution on uneven ground. The site is not wheelchair accessible. Unpaved BLM roads require high-clearance vehicles; passenger cars are challenging. No facilities at the site.",
+  "alternative_names": [],
+  "nearest_city": "Vernal",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/brush-creek-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/brush-creek-ut/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Brush Creek near Vernal?",
+      "answer": "Brush Creek yields quality agate, jasper, chalcedony, and chert specimens. The creek wash is particularly productive for water-rounded agate nodules in warm earth tones - rust-red, honey-gold, and cream colors are common. Hillside areas above the creek also expose colorful jasper and chalcedony matrix material."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Brush Creek, Utah?",
+      "answer": "No permit is required. Brush Creek is on BLM public land managed under standard personal-use rockhounding rules. You can collect free of charge with just your 25 lb daily limit. The Vernal BLM office can confirm current access and any temporary restrictions."
+    },
+    {
+      "question": "What is the best time of year to find agate at Brush Creek near Vernal?",
+      "answer": "October through April is ideal. Cooler temperatures make creek-bottom collecting comfortable, and recent spring runoff (March-April) often exposes fresh specimens. High desert heat exceeds 90 degrees F from July-September, making sustained collecting difficult."
+    },
+    {
+      "question": "Can I bring my family and kids rockhounding at Brush Creek?",
+      "answer": "Yes, Brush Creek is family and kid-friendly. The easy terrain near the creek is suitable for children ages 6 and up. Kids enjoy panning creek gravels and hunting for colorful stones. Dogs are welcome on BLM land. Bring plenty of water, sun protection, and sturdy shoes for all ages."
+    },
+    {
+      "question": "What tools and equipment do I need for collecting at Brush Creek Utah?",
+      "answer": "Bring a 5-gallon bucket for sampling, a gold pan or sifter to separate gravel, hand tools like a small chisel for loose specimens, and a sturdy backpack. Wear high-quality hiking boots with ankle support for the rocky terrain. Bring 2-3 liters of water per person, sunscreen, and a hat. A GPS unit or smartphone with offline maps helps with navigation."
+    },
+    {
+      "question": "How do I get to Brush Creek rockhounding site from Vernal, Utah?",
+      "answer": "From Vernal, drive east on US Highway 40 approximately 15 miles toward Dinosaur, then turn south on State Road 149 or BLM access roads for 8-10 miles toward the Brush Creek drainage. Use GPS coordinates (40.486607, -109.388453) as your target. High-clearance or all-wheel-drive vehicles are recommended for the rough final miles. Confirm current road conditions with the Vernal BLM office before traveling."
+    }
+  ],
+  "meta_title": "Brush Creek Rockhounding - Utah Agate & Jasper",
+  "meta_description": "Find agate, jasper, and chalcedony at Brush Creek near Vernal, Utah. Free BLM public land collecting, no permit needed. Best October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "parking_notes",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T06:53:55.805Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:02:48.133Z"
+}

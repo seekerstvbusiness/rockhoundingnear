@@ -1,0 +1,101 @@
+{
+  "slug": "jefferson-river-mt",
+  "name": "Jefferson River",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Silver Star",
+  "city_slug": "silver-star",
+  "county": "Madison",
+  "county_slug": "madison",
+  "lat": 45.690192,
+  "lng": -112.274524,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Free public rockhounding along the Jefferson River near Silver Star. Find colorful agates, jasper, and quartz in riverside gravels with easy access to BLM land.",
+  "description": "The Jefferson River in Madison County offers excellent rockhounding opportunities along its banks and nearby BLM land. This scenic location attracts both beginners and experienced collectors seeking quality agates, jasper, and quartz specimens. The river has a long history of geological activity - Miocene-era rhyolitic volcanism in the Madison Range deposited silica-rich minerals that weathered into the chalcedony and agate nodules found in the river gravels today. The relatively flat terrain at 4509 feet elevation makes access manageable for most ability levels. Collectors work the gravels along the riverbanks and explore nearby washes where specimens concentrate naturally. The area sees moderate collecting pressure, so exploring slightly away from the main river channel often yields better finds. Winter snowfall limits access to roughly October through April, when weather permits safe travel.\n\nGeologically, this area sits within the Northern Rocky Mountains province where ancient volcanic activity created silica-rich deposits. The Jefferson River system has exposed these formations, and ongoing erosion continuously reveals new material. Summer water levels run high from snowmelt, so spring and fall offer better access to the riverbed itself. The flat surrounding terrain contrasts with the dramatic Madison Range to the east, creating a pleasant rockhounding environment with good views and varied collecting terrain.",
+  "history": "The Jefferson River region experienced significant volcanic activity during the Miocene epoch (roughly 23 to 5 million years ago), when rhyolitic flows and pyroclastic deposits blanketed the area. These silica-rich volcanic rocks weathered over millions of years into the agate, jasper, and chalcedony nodules that line the river gravels today. Early miners and prospectors recognized the geological richness of Madison County, though this particular area remains primarily a recreational rockhounding destination rather than a commercial mining zone.",
+  "tips": "Focus your search in the gravel bars along the inside bends of the river where heavier specimens accumulate naturally - these curved sections concentrate material over time. Carry a classifier or mesh screen to sift gravel efficiently and spot banded agate and translucent quartz pieces among the finer material. Look for specimens showing banding patterns, smooth polished surfaces from water tumbling, and translucent edges when held to light - these indicate higher quality agates worth collecting. Morning light reveals color patterns better than afternoon sun, so start early and work downriver as conditions allow.",
+  "terrain_notes": "Flat to gently rolling terrain at 4509 feet elevation with mixed sagebrush and grassland cover. The Jefferson River flows through relatively open terrain with scattered cottonwoods. Riverbanks vary from gravel to sandy substrate. Walking distances from parking areas typically range from a few hundred feet to a quarter mile. Footing is generally stable on gravel bars and sandy areas, but wet vegetation and slippery river rocks require sturdy boots with good traction.",
+  "best_season": "October - April. Higher elevation (4500 ft) means heavy snow December through February limits access. Late October through November and March through April offer optimal conditions - dry terrain, lower water levels exposing more of the riverbed, and stable weather. Summer brings high water from snowmelt that obscures the best collecting areas and makes river crossing difficult.",
+  "written_directions": "From Silver Star, take Montana Highway 41 south toward Whitehall for approximately 8 miles. Look for turnoffs heading east toward the Jefferson River near the community of Parrot Castle. Follow local ranch roads and BLM access roads toward the river - several informal pullouts and parking areas exist along the river corridor. GPS coordinates (45.690192, -112.274524) mark a productive section. A standard passenger vehicle can reach most access points, though high-clearance vehicles are preferable during wet season. Check locally in Silver Star for current road conditions and access status.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mostly improved dirt and gravel ranch roads with occasional washboard sections. High clearance helpful during wet periods. Passable year-round during dry conditions with a standard vehicle.",
+  "parking_notes": "Informal pullouts and parking areas scattered along the river access roads. Most areas accommodate 2-4 vehicles. No developed parking facilities. Arrive early during peak season (October - November) to secure space.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation. No sluicing or heavy equipment. Respect private land boundaries - stay on BLM land and public access areas. Pack out all trash. Do not disturb archaeological sites or artifacts.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo sluicing or stream disruption\nRespect private land boundaries\nPack out all trash\nDo not disturb artifacts or structures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Silver Star, approximately 8 miles northwest, has basic services. Whitehall, 15 miles south, offers more complete amenities including gas, groceries, and restaurants.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Informal dirt and gravel parking areas with variable distances (typically under 0.5 miles) to collecting sites. Riverbanks involve uneven gravel and slippery rocks - sturdy boots strongly recommended. No wheelchair access to riverbed itself, though some parking areas sit on level ground. Wading into river may be necessary depending on water level and target areas.",
+  "alternative_names": [],
+  "nearest_city": "Silver Star",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/jefferson-river-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/jefferson-river-mt/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/jefferson-river-mt/mineral-2-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What agates and jasper can I find at the Jefferson River near Silver Star?",
+      "answer": "The Jefferson River produces colorful banded agates, polished jasper, and translucent quartz specimens. Most specimens are small to medium (0.5 to 2 inches), weathered smooth by river action, and often show banding patterns or pinks, whites, and warm earth tones. Some pieces exhibit semi-translucency at the edges, indicating higher quality material worth collecting."
+    },
+    {
+      "question": "Do I need a permit to rockhound at the Jefferson River in Montana?",
+      "answer": "No permit is required for recreational collecting on this BLM land. Montana FLPMA regulations allow personal use collection of up to 25 lbs per day without a permit. Simply follow the collection rules - no commercial use, no motorized excavation, and respect private land boundaries."
+    },
+    {
+      "question": "What is the best time of year to rockhound the Jefferson River?",
+      "answer": "October through April is ideal. The river has lower water levels exposing more of the gravel beds, and the climate is dry and mild. December through February can bring heavy snow at this 4500-foot elevation. Late October through November and March through April offer the most stable collecting conditions."
+    },
+    {
+      "question": "Is the Jefferson River rockhounding area family and kid-friendly?",
+      "answer": "Yes, this is an excellent beginner and family location. The flat terrain, free access, and easy-to-spot colorful specimens make it perfect for children age 6 and up. Parents should supervise young children near the river and ensure sturdy footwear on slippery rocks. Bring water and sun protection for comfortable full-day trips."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound at the Jefferson River?",
+      "answer": "Bring a sturdy bucket, classifier or mesh screen for sifting gravel, and a small backpack for carrying specimens. Wear waterproof boots with good traction for river rocks. A headlamp or flashlight helps spot banded patterns in the afternoon. Sunscreen and water are essential even in cooler months, and gloves protect hands when handling sharp river rocks."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at the Jefferson River in Madison County?",
+      "answer": "Yes, dogs are allowed on this public BLM land. Keep your dog under control near the river to prevent disturbance to wildlife. The flat, open terrain makes for easy walking, though the uneven gravel and slippery rocks require sturdy footing for pets as well. Bring water for your dog during dry fall and spring conditions."
+    }
+  ],
+  "meta_title": "Jefferson River Rockhounding - Montana",
+  "meta_description": "Find agates, jasper, and quartz at the Jefferson River near Silver Star, Montana. Free BLM rockhounding with 25 lb/day limit. Best October - April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "road_conditions",
+    "parking_notes",
+    "cell_service",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-21T19:06:19.083Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:08:41.293Z"
+}

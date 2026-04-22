@@ -1,0 +1,60 @@
+{
+  "slug": "moosup-river-ri",
+  "name": "Moosup River",
+  "lat": 41.765641,
+  "lng": -71.76837,
+  "state": "Rhode Island",
+  "state_slug": "rhode-island",
+  "state_code": "RI",
+  "city": "Foster",
+  "city_slug": "foster",
+  "county": "Providence",
+  "county_slug": "providence",
+  "geocoded_city": "Foster",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-rhode-island.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Moosup%20River%20Rhode%20Island"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Moosup%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Moosup%20River%20Rhode%20Island"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 506,
+      "meters": 154
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:36:11.924Z"
+  },
+  "scraped_at": "2026-04-21T16:36:11.925Z",
+  "scrape_quality": "minimal"
+}

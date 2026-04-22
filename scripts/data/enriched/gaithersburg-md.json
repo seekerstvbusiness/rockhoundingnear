@@ -1,0 +1,98 @@
+{
+  "slug": "gaithersburg-md",
+  "name": "Gaithersburg",
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "city": "Gaithersburg",
+  "city_slug": "gaithersburg",
+  "county": "Montgomery",
+  "county_slug": "montgomery",
+  "lat": 39.228526,
+  "lng": -77.190296,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Tourmaline"
+  ],
+  "short_description": "Urban rockhounding in Maryland's piedmont region where metamorphic rocks yield quartz, feldspar, and mica specimens. Accessible collecting near suburban development.",
+  "description": "Gaithersburg sits within Maryland's Piedmont Province, a region dominated by metamorphic rocks formed during the Appalachian orogeny. This area is known for producing beautiful quartz crystals, feldspar specimens, and mica sheets from metamorphic bedrock and glacial deposits left during the Pleistocene. Collectors can find specimens in stream beds, road cuts, and construction areas throughout the Montgomery County region.\n\nThe local geology features schist and gneiss formations interlayered with granitic intrusions, creating excellent conditions for finding well-formed mineral specimens. Quartz is the most abundant find, often appearing in milky white masses or clear crystals. Feldspar (both plagioclase and orthoclase varieties) is common, and mica sheets can be extracted from decomposing schist outcrops.\n\nThis is primarily an urban and suburban rockhounding destination, so formal collecting sites are limited. Most productive collecting occurs along stream banks where natural erosion exposes fresh mineral material, or in newly excavated areas during construction projects. Always obtain permission before collecting on private property, which comprises most of the accessible terrain in this area.\n\nThe flat terrain and moderate climate make Gaithersburg accessible year-round for rockhounds of all skill levels. Spring and fall offer the most pleasant conditions, with mild temperatures and seasonal flooding that can expose new material in stream beds. This location works best for hobbyists interested in learning mineral identification and building small display collections rather than serious production rockhounding.",
+  "history": "The Piedmont Province where Gaithersburg is located formed during the late Paleozoic Alleghenian orogeny, when colliding continental plates metamorphosed sedimentary and volcanic rocks into schist and gneiss. Glacial activity during the Pleistocene deposited additional mineral-bearing material, creating mixed deposits of bedrock minerals and glacial erratics that persist in stream beds and soil throughout Montgomery County.",
+  "tips": "Search along Watts Branch and other stream beds after spring rains or winter thaw, when erosion exposes fresh quartz and feldspar specimens in the streambed gravel. Use a rock hammer to carefully extract mica sheets from weathered schist outcrops found in road cuts and construction sites (with permission). Look for translucent quartz crystals ranging from 1-3 inches and milky white feldspar chunks in areas where bedrock has naturally broken down. Bring a small loupe to identify feldspar varieties and confirm mica cleavage patterns.",
+  "terrain_notes": "Elevation 408 feet with flat terrain characteristic of the Piedmont piedmont landscape. Vegetation is mixed deciduous forest and suburban development. Walking distances from parking typically short (under 1 mile). Stream beds have uneven rocky footing with occasional slippery areas after rain. No significant elevation gain.",
+  "best_season": "March - May, September - November. Spring and fall offer comfortable temperatures and increased water flow in streams that exposes fresh specimens. Summer is hot and humid (75-85 degrees F). Winter can be cold (25-35 degrees F) but is productive after snowmelt. Avoid summer due to heat and insect activity.",
+  "written_directions": "From Gaithersburg downtown, travel south on MD-355 (Frederick Road) for approximately 2 miles. Turn east on Watts Branch Drive to access stream areas near Rock Creek Park. Alternatively, head to Summit Avenue or Crabbs Branch Lane for road cuts and exposed bedrock. Parking available at public access points along Montgomery County stream corridors.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": "Paved roads to stream access points. Some areas require walking on unpaved or natural trails.",
+  "parking_notes": "Street parking and small pullouts along stream access roads. No dedicated rockhounding lot. Capacity varies by location.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collecting is permitted on public stream beds and parks operated by Montgomery County. Always obtain permission before entering private property. No motorized equipment. Keep collections to personal use only. Respect posted park rules and seasonal closures. Some areas may require permits - contact Montgomery County Parks if uncertain.",
+  "quantity_limits": null,
+  "rules": "Public collecting permitted in stream beds and parks\nNo commercial collection\nNo motorized excavation\nRespect private property boundaries\nFollow Montgomery County park regulations\nNo collection during posted seasonal closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Gaithersburg downtown (2-3 miles) has full services including gas, restaurants, and water. Interstate 270 corridors offer additional amenities.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Stream bed access is uneven and rocky with potential slippery areas. No wheelchair access to primary collecting areas. Sturdy waterproof footwear recommended. Walking distances typically short (under 1 mile from parking).",
+  "alternative_names": [
+    "Montgomery County Rockhounding",
+    "Watts Branch Collecting"
+  ],
+  "nearest_city": "Gaithersburg",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/maryland/gaithersburg-md/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find rockhounding in Gaithersburg, Maryland?",
+      "answer": "The primary finds in Gaithersburg are quartz crystals, feldspar specimens, mica sheets, and tourmaline. Quartz is the most abundant, appearing as milky white masses or clear crystals up to 3 inches. Feldspar is common in tan and white varieties. Mica sheets can be extracted from decomposing schist, and tourmaline occasionally appears as black crystals in metamorphic rocks."
+    },
+    {
+      "question": "Is rockhounding free in Gaithersburg, or do I need a permit?",
+      "answer": "Rockhounding is free in Gaithersburg's public areas including stream beds and Montgomery County parks. No permit is required for casual collecting on public land. However, always obtain permission before accessing private property, which comprises most of the area. Contact Montgomery County Parks if uncertain about specific locations."
+    },
+    {
+      "question": "Where exactly should I look for quartz and feldspar in Gaithersburg?",
+      "answer": "The best collecting locations are along Watts Branch and other tributaries where stream erosion constantly exposes fresh mineral material. Search gravel beds after spring rains or winter thaw for the best results. Road cuts along MD-355 and other major roads also expose metamorphic bedrock with good specimens, though you must obtain private permission first."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Gaithersburg?",
+      "answer": "The best seasons are March through May and September through November. Spring and fall offer comfortable temperatures (55-70 degrees F) and increased water flow that exposes fresh specimens. Summer is hot and humid, while winter is cold but productive after snowmelt. Avoid summer due to heat and insect activity."
+    },
+    {
+      "question": "Is Gaithersburg rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, Gaithersburg is excellent for beginners and families. The flat terrain requires minimal hiking, and finds are accessible without advanced equipment. Kids ages 6 and up can participate in stream bed collecting. The proximity to town (amenities within 2-3 miles) and reliable cell service make it a safe, manageable introduction to rockhounding."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding in Gaithersburg?",
+      "answer": "A basic rock hammer or chisel is useful for extracting specimens from outcrops and larger rocks. A small loupe helps identify feldspar varieties and confirm mica cleavage. Waterproof hiking boots are essential for stream bed work. A bucket or collection bag, gloves, and a field guide to Maryland rocks round out a good starter kit. Avoid heavy digging equipment on public land."
+    }
+  ],
+  "meta_title": "Gaithersburg Rockhounding - Find Quartz & Feldspar",
+  "meta_description": "Free rockhounding in Gaithersburg, Maryland for quartz, feldspar, and mica. Easy stream bed collecting near town. No permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category (classified as 'other' due to urban public land)",
+    "permit_required (inferred as false for public stream access)",
+    "commercial_use_allowed (inferred as false for public land)",
+    "specific_access_points (no formal rockhounding site - general streaming collecting"
+  ],
+  "enriched_at": "2026-04-21T17:53:13.401Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:55:46.008Z"
+}

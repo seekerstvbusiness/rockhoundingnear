@@ -1,0 +1,60 @@
+{
+  "slug": "st-louis-calcite-area-mo",
+  "name": "St. Louis (calcite area)",
+  "lat": 38.537847,
+  "lng": -90.49309,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Valley Park",
+  "city_slug": "valley-park",
+  "county": "Saint Louis",
+  "county_slug": "saint-louis",
+  "geocoded_city": "Valley Park",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=St.%20Louis%20(calcite%20area)%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=St.%20Louis%20(calcite%20area)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=St.%20Louis%20(calcite%20area)%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 465,
+      "meters": 142
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:03:04.310Z"
+  },
+  "scraped_at": "2026-04-21T19:03:04.310Z",
+  "scrape_quality": "minimal"
+}

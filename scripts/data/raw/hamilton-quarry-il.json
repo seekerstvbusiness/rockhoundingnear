@@ -1,0 +1,60 @@
+{
+  "slug": "hamilton-quarry-il",
+  "name": "Hamilton Quarry",
+  "lat": 40.382197,
+  "lng": -91.355437,
+  "state": "Illinois",
+  "state_slug": "illinois",
+  "state_code": "IL",
+  "city": "Hancock County",
+  "city_slug": "hancock-county",
+  "county": "Hancock",
+  "county_slug": "hancock",
+  "geocoded_city": "Hancock County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-illinois.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hamilton%20Quarry%20Illinois"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hamilton%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hamilton%20Quarry%20Illinois"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 416,
+      "meters": 127
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:52:47.783Z"
+  },
+  "scraped_at": "2026-04-21T16:52:47.783Z",
+  "scrape_quality": "minimal"
+}

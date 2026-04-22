@@ -1,0 +1,100 @@
+{
+  "slug": "neihart-mt",
+  "name": "Neihart",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Cascade",
+  "city_slug": "cascade",
+  "county": "Cascade",
+  "county_slug": "cascade",
+  "lat": 46.945754,
+  "lng": -110.724034,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper"
+  ],
+  "short_description": "Public BLM rockhounding near Neihart in central Montana's Belt Mountains. Collect quartz, agate, and jasper specimens from gentle hillside terrain without permits.",
+  "description": "Neihart sits in the heart of Montana's historic mining district within Cascade County, offering public BLM land access for recreational rockhounding. This location provides excellent opportunities to search for quartz varieties, chalcedony, agate, and jasper specimens that formed during the Belt Supergroup's ancient depositional and metamorphic episodes. The gentle slope terrain makes this site accessible to rockhounders of varying experience levels, though you will encounter rocky outcrops and scattered mineral-bearing stone. The area's cool Montana climate and relatively open landscape provide good visibility for spotting colorful specimens. Collectors should expect to walk moderate distances across sagebrush-covered hillsides and examine exposed rock formations. This is a true public land experience - no fees, no permits, and no commercial restrictions beyond the 25-pound daily personal use limit set by federal law.\n\nThe surrounding Belt Mountains region has a rich mining history dating back to the late 1800s, when hard-rock mining operations focused primarily on precious metals and industrial minerals. Modern rockhounders benefit from the exposed geology created by historical mining activity and natural weathering. The landscape here is characterized by gentle rolling terrain at moderate elevation, with scattered conifer stands interspersed with open rocky slopes. Specimens tend to concentrate in wash areas, exposed hillsides, and near historic mining scars where gravity has naturally concentrated materials.\n\nWhen planning a visit, allow several hours to explore multiple micro-locations within the BLM land around Neihart. Bring plenty of water, as this area has limited shade and can be dry even in summer months. The gentle slope makes walking easier than many Montana rockhounding sites, but sturdy footwear remains essential due to scattered sharp rocks and uneven footing. Evening and early morning offer the best light for spotting specimens against the mountainside.",
+  "history": "This area lies within the Belt Mountains, part of Montana's ancient Belt Supergroup formation dating back 1.4 to 1.5 billion years. The region experienced significant metamorphism and quartz vein formation during later tectonic activity, creating the quartz, chalcedony, and agate specimens found here today. The Neihart district saw active hard-rock mining from the 1880s onward, which exposed fresh geology and indirectly created better rockhounding conditions by breaking up surface rock.",
+  "tips": "Focus your search on exposed hillsides where weathering has naturally concentrated colored specimens - look for areas with scattered quartz fragments and chalcedony nodules. Bring a 5-gallon bucket or collection bag, as specimens here tend to be smaller to medium-sized rather than large single pieces; you will likely reach the 25-pound limit before filling a large backpack. Examine the bases of rocky outcrops and along intermittent water drainage areas where heavier stones naturally collect. Early morning or late afternoon light will help you spot the subtle color variations that distinguish quality agate and jasper from plain quartz.",
+  "terrain_notes": "Gentle slope terrain at approximately 5,200 feet elevation, typical of the foothills transition zone. Sagebrush and grass-covered hillsides with scattered conifer patches. Rocky outcrops break the surface throughout the area. Walking distance from parking varies from immediate roadside access to 1-2 mile hikes depending on which BLM parcels you explore. Footing is generally stable but uneven, with loose rocks common on slopes.",
+  "best_season": "June - September for optimal conditions, though April - May and September - October are also viable. Winter weather (November - March) makes high-elevation BLM land less accessible due to snow. Summer provides longest daylight hours and most stable weather for multi-hour collecting trips.",
+  "written_directions": "From Cascade, take Montana Highway 200 east toward Neihart for approximately 25 miles. The town of Neihart is located where Highway 200 meets local roads in Cascade County. BLM land surrounds Neihart - look for BLM access signs and parking pullouts along Highway 200 and local forest service roads in the immediate area. The nearest main pullout is typically found within 2-3 miles of Neihart town center on roads trending north or south from Highway 200. Consult a Montana BLM recreation map or contact the Lewistown BLM Field Office for specific current access points, as road conditions and closures may vary seasonally.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Highway 200 is paved year-round. Local BLM access roads are typically gravel or dirt, passable for passenger vehicles in dry conditions. Check current road status before travel, as spring snowmelt and heavy rain can impact secondary roads.",
+  "parking_notes": "Informal pullouts and parking areas along Highway 200 and local roads. BLM does not maintain developed parking lots here. Expect pullouts to accommodate 2-6 vehicles. Arrive early during weekends to secure parking.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per the Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or mechanized removal of rock. Collect only loose specimens and fragments - do not hammer or pick at solid outcrops. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation or mechanized equipment\nNo hammering or picking at solid rock\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "cold",
+    "wildlife"
+  ],
+  "nearest_services": "Neihart has limited services. Cascade, approximately 25 miles west on Highway 200, offers gas, food, and water. Lewistown, approximately 35 miles south, has full services including grocery stores, restaurants, and lodging.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers and families with children. Uneven rocky surface requires sturdy footwear - not suitable for wheeled mobility devices. Most productive areas require short walks of 0.5 to 2 miles from parking. No designated trails or barriers; cross-country walking on open BLM land.",
+  "alternative_names": [],
+  "nearest_city": "Cascade",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/neihart-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/neihart-mt/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/neihart-mt/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Neihart, Montana?",
+      "answer": "Neihart BLM land is known for quartz, chalcedony, agate, and jasper specimens. Most finds are small to medium fragments and nodules scattered across hillsides and in drainage areas. Quality agate with banding or color variation is the most sought-after find here, though plain quartz and jasper are more common."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Neihart?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Neihart. Collecting is free and open to the public for personal use only. You must follow the 25-pound daily limit per FLPMA and cannot engage in commercial collection or motorized excavation."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Neihart?",
+      "answer": "June through September offers the best conditions with stable weather, longest daylight, and reliable road access. April - May and September - October are also viable, though higher elevation areas may retain snow in late spring. Winter (November - March) is generally not recommended due to snow and cold."
+    },
+    {
+      "question": "Is Neihart rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, Neihart is beginner-friendly with easy-to-moderate terrain and open access. The gentle slopes and lack of technical climbing make it excellent for families with children ages 6 and up. No experience or special equipment is required beyond a collection bag and sturdy shoes."
+    },
+    {
+      "question": "How far is Neihart from towns with services like gas and food?",
+      "answer": "Cascade is approximately 25 miles west on Highway 200 and offers basic services. Lewistown, about 35 miles south, has full amenities including restaurants, grocery stores, and lodging. Plan accordingly, as Neihart itself has very limited commercial services."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Neihart?",
+      "answer": "Bring a 5-gallon bucket or collection bag (you will likely hit the 25-pound limit before running out of space), sturdy hiking boots, plenty of water, sunscreen, and a hat. A small backpack helps distribute weight. A basic rock hammer is optional since most specimens are loose; avoid hammering at solid outcrops per BLM rules. Binoculars can help spot specimens on distant slopes."
+    }
+  ],
+  "meta_title": "Neihart Rockhounding - Find Agate & Quartz in Montana",
+  "meta_description": "Free rockhounding on BLM land near Neihart, Montana. Collect agate, quartz, and chalcedony. No permit required. 25 lb daily limit. Open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (specific pullout locations not confirmed by current source)",
+    "parking_notes (informal BLM parking not formally documented)",
+    "cell_service (estimated as spotty based on region, not confirmed)",
+    "nearest_services (Cascade distance estimated at 25 miles)"
+  ],
+  "enriched_at": "2026-04-21T19:06:24.832Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:09:12.603Z"
+}

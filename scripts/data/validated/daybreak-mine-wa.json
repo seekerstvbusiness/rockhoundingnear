@@ -1,0 +1,102 @@
+{
+  "slug": "daybreak-mine-wa",
+  "name": "Daybreak Mine",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Spokane",
+  "city_slug": "spokane",
+  "county": "Spokane",
+  "county_slug": "spokane",
+  "lat": 47.944006,
+  "lng": -117.197859,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Historic mining site in the Spokane area known for quartz and feldspar specimens. Gentle terrain and accessible rockhounding for collectors of all skill levels.",
+  "description": "Daybreak Mine is a historic mining location in Spokane County, Washington, situated at 2,801 feet elevation on gentle slopes characteristic of the eastern Washington plateau region. This site offers opportunities to collect quartz and feldspar specimens from an area with a rich mining heritage dating back to the early 20th century prospecting boom in the Inland Northwest.\n\nThe geology here reflects the complex mineral deposits formed during the Mesozoic and Cenozoic eras as granitic and metamorphic rocks were exposed through erosion and mining activity. The area sits within the interior Northwest geological province where quartz veins and pegmatitic bodies crystallized from cooling magma, creating the conditions for feldspar and mica development that characterize many Spokane County prospects.\n\nCollectors visiting Daybreak Mine will find relatively straightforward access with gentle slopes that make exploration manageable for most visitors. The terrain supports scrub vegetation typical of eastern Washington's semi-arid environment. Bring sturdy footwear and tools appropriate for breaking rock specimens from exposed outcrops and tailings.\n\nThis location represents the type of historic mining claim landscape that drew prospectors to eastern Washington during the region's mining boom. While the site's current status and access permissions should be verified before visiting, the geological setting and specimen potential make it interesting for rockhounds interested in regional mining history and quartz family minerals.",
+  "history": "Daybreak Mine is part of the extensive mining activity in Spokane County that flourished during the early 1900s precious metals boom in the Inland Northwest. The site's quartz and feldspar deposits formed from Mesozoic-aged granitic intrusions and pegmatitic bodies that cooled slowly in the subsurface, creating ideal conditions for the crystallization of these common but collectible minerals.",
+  "tips": "Search the exposed outcrop faces and old tailings piles where quartz veins intersect the surface - specimen-quality quartz points often weather free from the surrounding rock. Use a small pry bar and hammer to carefully extract specimens from the pegmatitic bodies; feldspar faces are brittle so work methodically rather than striking forcefully. Look for milky white quartz with glassy luster and pinkish feldspar crystals - the larger specimens tend to be found in the deeper excavated areas where weathering has not yet dulled the surfaces.",
+  "terrain_notes": "Located at 2,801 feet elevation with gentle slope terrain, making this a relatively accessible site. Semi-arid eastern Washington vegetation with exposed rock faces and old mining cuts. Short walking distance from potential parking areas to productive collecting zones. Well-drained terrain with stable footing on compacted soil and broken rock.",
+  "best_season": "May - October. Eastern Washington's continental climate makes spring through fall the optimal collecting window. Winters bring snow and frozen ground at elevation; summers are warm but manageable with midday heat. Fall offers ideal conditions with cooler temperatures and low precipitation.",
+  "written_directions": "From Spokane, take US 395 north or northeast toward the Mead area. Continue approximately 15-20 miles depending on specific access point. Look for mining claim markers or old mining roads on the east side of US 395 in the Spokane County plateau region. Verify current access and parking before attempting to visit. GPS coordinates 47.944006, -117.197859 mark the approximate site location in Spokane County's mining district.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "passenger",
+  "road_conditions": "Likely unpaved access roads typical of Spokane County mining claim areas. Passenger vehicle passable in dry conditions. Check conditions after rainfall.",
+  "parking_notes": "Limited informal parking at mining claim boundaries. No developed parking area. Park safely off existing roads and respect private property boundaries.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": true,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "This is private mining claim land. Permission from the claim holder is required before collecting. Do not trespass on marked claims. Respect all posted signs and boundaries. Collect only from areas where permission has been explicitly granted. Pack out all trash. No commercial collection or sale of specimens without explicit written permission.",
+  "quantity_limits": null,
+  "rules": "Permission required from claim holder before visiting\nRespect all posted claim markers and boundaries\nNo commercial collection without written permission\nPack out all trash and leave no trace\nDo not disturb mining equipment or structures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Spokane, approximately 15-20 miles south. Full services including gas, food, water, and supplies.",
+  "accessibility_notes": "Gentle slope terrain accessible to most hikers with moderate fitness. Uneven rocky terrain with loose material underfoot - sturdy footwear strongly recommended. No wheelchair access. Mining cuts and open excavations present minor obstacles and minor hazards. Stable walking surfaces on most approaches to productive areas.",
+  "alternative_names": [],
+  "nearest_city": "Spokane",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/daybreak-mine-wa/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/daybreak-mine-wa/mineral-1-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Can I rockhound at Daybreak Mine near Spokane without a permit?",
+      "answer": "Daybreak Mine is located on private mining claim land in Spokane County. You must obtain permission from the claim holder before collecting any specimens. Contact local mining claim offices or the Spokane County assessor's office to identify current claim ownership and secure permission."
+    },
+    {
+      "question": "What gems and minerals can I find at Daybreak Mine in Washington?",
+      "answer": "Daybreak Mine is known for quartz and feldspar specimens. Collectors may also find mica in pegmatitic bodies. The milky white to clear quartz and pinkish feldspar crystals make up the primary collectible minerals at this historic prospect."
+    },
+    {
+      "question": "What is the best season for rockhounding near Spokane at Daybreak Mine?",
+      "answer": "The ideal collecting season is May through October. Eastern Washington's continental climate brings snow and frozen ground in winter, while summer heat is manageable with proper hydration. Fall conditions with cooler temperatures and low rainfall are optimal."
+    },
+    {
+      "question": "How difficult is it to access Daybreak Mine and collect specimens?",
+      "answer": "The site features gentle slopes and moderate terrain accessible to most hikers. Specimen extraction requires basic tools like a small pry bar and hammer. Skill level needed is moderate - beginners can succeed with proper technique and patience, but should be comfortable working with rock samples."
+    },
+    {
+      "question": "What tools and preparation do I need for rockhounding at Daybreak Mine?",
+      "answer": "Bring a small pry bar, hammer, chisel, safety glasses, sturdy hiking boots, and a backpack for specimens. Bring plenty of water and sun protection - the semi-arid eastern Washington terrain offers little shade. A GPS unit or smartphone helps confirm location in the plateau region."
+    },
+    {
+      "question": "Is Daybreak Mine rockhounding site beginner-friendly for families?",
+      "answer": "Yes, the gentle terrain and moderate difficulty make Daybreak Mine suitable for families with children age 8 and older. The site's historical interest adds educational value. However, supervision is essential due to open mine cuts and loose rock hazards. Always verify access permission first."
+    }
+  ],
+  "meta_title": "Daybreak Mine Rockhounding - Washington",
+  "meta_description": "Find quartz and feldspar at Daybreak Mine near Spokane, Washington. Historic mining claim with moderate terrain. Permission required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "permit_required",
+    "permit_link",
+    "collection_rules",
+    "road_conditions",
+    "parking_notes",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-22T09:26:55.708Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:31:18.869Z"
+}

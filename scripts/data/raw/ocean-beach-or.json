@@ -1,0 +1,65 @@
+{
+  "slug": "ocean-beach-or",
+  "name": "Ocean beach",
+  "lat": 45.693554,
+  "lng": -123.939897,
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "state_code": "OR",
+  "city": "Tillamook County",
+  "city_slug": "tillamook-county",
+  "county": "Tillamook",
+  "county_slug": "tillamook",
+  "geocoded_city": "Tillamook County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oregon.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ocean%20beach%20Oregon"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ocean%20beach",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ocean%20beach%20Oregon"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 19,
+      "meters": 6
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:44:47.006Z"
+  },
+  "scraped_at": "2026-04-21T18:44:47.006Z",
+  "scrape_quality": "partial"
+}

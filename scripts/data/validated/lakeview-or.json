@@ -1,0 +1,101 @@
+{
+  "slug": "lakeview-or",
+  "name": "Lakeview",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Lakeview",
+  "city_slug": "lakeview",
+  "county": "Lake",
+  "county_slug": "lake",
+  "lat": 42.183867,
+  "lng": -120.330326,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Obsidian",
+    "Sunstone",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding near the scenic Goose Lake basin. Find colorful agates, jasper, and Oregon sunstones on open public land with no permit required.",
+  "description": "Lakeview sits in the heart of Oregon's high desert gem country, within the Goose Lake valley at nearly 5000 feet elevation. This area is prime BLM rockhounding territory with excellent access to agate beds, jasper deposits, and the famous Oregon sunstones that dot the region. The surrounding terrain is semi-arid shrubland with scattered volcanic rock formations that make excellent hunting grounds for serious collectors.\n\nThe geology here reflects millions of years of volcanic activity. During the Miocene epoch, this region experienced extensive rhyolitic volcanism that created ash flows, tuffs, and silica-rich deposits. These volcanic events trapped mineral-rich fluids that crystallized into the agates, chalcedony, and sunstones found throughout the area. The Goose Lake basin also saw later basaltic activity, creating obsidian deposits prized by collectors and Native Americans historically.\n\nExpect moderate terrain with sagebrush, juniper, and exposed rock outcrops. Elevation and slope mean cooler temperatures even in summer, but afternoon heat can be intense. The landscape is rolling to gently hilly, with washes and canyon areas that expose fresh material after seasonal runoff. Most productive collecting happens in erosional zones where volcanic rocks break down and expose gem-quality specimens.\n\nThis is a beginner-friendly location with no permit hassles - just respect the 25 lb daily limit and you can collect freely on BLM land. The area rewards patient searching, especially around old volcanic flows and in the finer gravels of seasonal washes. Summer crowds are minimal, making this an ideal spot for peaceful desert rockhounding.",
+  "history": "The Goose Lake basin lies within the fault-block terrain of south-central Oregon, shaped by Miocene-Pliocene volcanism and subsequent Basin and Range extension. Rhyolitic ash flows and welded tuffs deposited silica-rich fluids that crystallized into the agate, sunstone, and jasper deposits found here today. Native Americans historically valued obsidian from this region for tools and trade, and 19th-century prospectors noted the abundance of colorful agate and chalcedony throughout the basin.",
+  "tips": "Search washes and erosional gullies where winter runoff exposes fresh volcanic material - these areas concentrate heavier gem specimens. Look for colorful agate and jasper fragments on the surface of sloping ground, particularly near exposed ash-flow tuff outcrops. Sunstones often appear as slightly translucent tan to orange crystals in loose gravels; use a 10x hand lens to spot them. Bring a small garden rake or whisk broom to clear sagebrush and reveal material underneath.",
+  "terrain_notes": "Elevation 4978 feet with moderate rolling slopes. Semi-arid high desert with scattered juniper, sagebrush, and volcanic rock. Terrain is rocky but walkable, with uneven footing common. Typical collecting areas are 0.5 to 2 miles from roadside parking. No wheelchair access; sturdy boots recommended for rocky terrain.",
+  "best_season": "May - October. Spring and early summer (May-June) offer wildflowers and cooler mornings; July-August afternoons can exceed 85 degrees but evenings cool quickly at elevation. Fall (September-October) provides ideal conditions with mild temperatures and low crowds.",
+  "written_directions": "From Lakeview, take OR 140 east toward the Goose Lake area. Multiple pullouts and BLM access points exist along OR 140 and Forest Road 3615 east of town. For the main collecting area, drive east on OR 140 for approximately 8-12 miles from downtown Lakeview. Look for scattered volcanic rock exposures and informal pullouts on both sides of the highway. Park safely off the pavement and walk toward exposed outcrops and wash areas. Ask at the Lakeview BLM field office for current access recommendations.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "OR 140 is paved. Secondary BLM roads and forest service roads range from well-maintained gravel to rougher washboard. High-clearance vehicles recommended for some side roads. Passenger cars suitable for main highway access.",
+  "parking_notes": "Informal pullouts along OR 140 and BLM roads. No developed parking facilities. Pull completely off paved surface. Multiple sites available with 2-6 vehicle capacity.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No explosives. Respect all posted closure signs and private property. Leave gates as you find them.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only, no commercial collection\nMaximum 25 lbs per day per FLPMA\nNo motorized excavation or heavy equipment\nNo explosives\nRespect posted closures and private property\nLeave gates as you find them",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Lakeview, 8-12 miles west. Full services including gas, food, lodging, and water available.",
+  "accessibility_notes": "Relatively easy access via paved highway. Parking at pullouts is straightforward. Collecting areas involve walking over uneven, rocky terrain with loose volcanic rocks underfoot. No wheelchair access due to terrain. Sturdy boots required. Shade minimal - plan for sun exposure. Heat and cold extremes at elevation require preparedness.",
+  "alternative_names": [
+    "Goose Lake area",
+    "Goose Lake basin rockhounding"
+  ],
+  "nearest_city": "Lakeview",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/lakeview-or/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Lakeview, Oregon?",
+      "answer": "The Lakeview area is known for colorful agates, jasper, Oregon sunstones, and chalcedony. Obsidian is also found locally. Most specimens are concentrated in washes and along exposed volcanic outcrops in the Goose Lake basin."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Lakeview?",
+      "answer": "No permit is required for personal recreational rockhounding on BLM land near Lakeview. You can collect freely as long as you stay within the 25 lb per day limit and follow FLPMA guidelines. Commercial collection requires permission."
+    },
+    {
+      "question": "How far from Lakeview can I drive to reach rockhounding areas?",
+      "answer": "Most productive collecting areas are 8-12 miles east of downtown Lakeview along OR 140 and adjacent BLM roads. Parking is available at informal pullouts. A passenger vehicle can access the main highway zones; some side roads benefit from high-clearance vehicles."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Lakeview, Oregon?",
+      "answer": "May through October is ideal. Spring (May-June) offers cooler mornings and less crowding. Summer (July-August) can be warm in afternoons but elevations keep it comfortable. Fall (September-October) provides the most pleasant conditions with mild temperatures."
+    },
+    {
+      "question": "Is rockhounding near Lakeview suitable for beginners and families?",
+      "answer": "Yes, this is an excellent beginner and family location. No permits or fees are required, terrain is moderately easy to walk, and specimens are relatively abundant. Children ages 6 and up can participate safely with supervision. The lack of commercial pressure makes it a relaxed collecting experience."
+    },
+    {
+      "question": "What tools and techniques work best for finding agates and sunstones in the Lakeview area?",
+      "answer": "A 10x hand lens helps spot translucent sunstones in gravel. Search washes, gullies, and erosional areas where material concentrates. A small rake or whisk broom clears sagebrush to reveal surface specimens. Early morning light helps spot color variation in rocks. Bring water, sunscreen, and wear sturdy boots for rocky, uneven terrain."
+    }
+  ],
+  "meta_title": "Lakeview Rockhounding - Oregon Agates & Sunstones",
+  "meta_description": "Find agates, jasper, and Oregon sunstones on public BLM land near Lakeview. No permit required. 25 lb daily limit. Easy desert rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from regional volcanic deposits - specific local confirmation recommended)",
+    "best_season (inferred from Oregon high desert climate)",
+    "written_directions (estimated based on Goose Lake basin location - verify current road access with BLM)"
+  ],
+  "enriched_at": "2026-04-21T18:52:37.101Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:54:08.058Z"
+}

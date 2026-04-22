@@ -1,0 +1,60 @@
+{
+  "slug": "coralville-ia",
+  "name": "Coralville",
+  "lat": 41.688257,
+  "lng": -91.624168,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Clear Creek Township",
+  "city_slug": "clear-creek-township",
+  "county": "Johnson",
+  "county_slug": "johnson",
+  "geocoded_city": "Clear Creek Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Coralville%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Coralville",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Coralville%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 689,
+      "meters": 210
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:58:41.847Z"
+  },
+  "scraped_at": "2026-04-21T17:58:41.847Z",
+  "scrape_quality": "minimal"
+}

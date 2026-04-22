@@ -1,0 +1,97 @@
+{
+  "slug": "springfield-mo",
+  "name": "Springfield",
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "city": "Springfield",
+  "city_slug": "springfield",
+  "county": "Greene",
+  "county_slug": "greene",
+  "lat": 37.209761,
+  "lng": -93.226387,
+  "gem_types": [
+    "Quartz",
+    "Chert",
+    "Agate",
+    "Petrified Wood"
+  ],
+  "short_description": "Urban rockhounding opportunity in the Ozark region near Springfield. Find quartz, chert, and agate specimens in local streams and parks with easy access and beginner-friendly terrain.",
+  "description": "Springfield sits in the heart of the Missouri Ozarks, a geologically rich region known for its karst topography, spring-fed streams, and limestone-based terrain. The area around Springfield offers opportunities to collect quartz, chert, and agate specimens from local waterways, particularly in parks and along creek beds where Paleozoic limestone and dolomite bedrock has weathered and exposed attractive mineral deposits. Most collecting occurs on public land and in city parks where rock collecting is permitted, making this an accessible destination for beginners and families.\n\nThe geology here reflects the Ordovician through Pennsylvanian age limestone and dolomite formations that dominate the Ozark Plateau. These carbonate rocks, combined with chert lenses and silica-rich deposits, weather to produce the quartz and chert nodules commonly found in local creeks. Petrified wood fragments also appear occasionally, remnants of ancient forests that were silicified during diagenesis.\n\nSpringfield's urbanized setting means you will likely be collecting within or very near the city limits. Milstone Mill area, local parks with creek access, and maintained greenway trails offer the most realistic rockhounding opportunities. Water levels and accessibility vary seasonally, and some areas may restrict collection during certain times of year.\n\nExpect to find small to medium quartz crystals, translucent to milky specimens, tan to brown chert nodules, and banded agate fragments. The terrain is generally flat with easy access, though creek beds can be muddy and slippery after rain. This is an ideal location for introducing children to rockhounding and for urban-based collectors with limited time for travel.",
+  "history": "The Springfield area lies within the Ozark Plateau, a region formed during the Paleozoic Era when ancient seas covered Missouri. Ordovician, Silurian, Devonian, and Carboniferous limestone and dolomite deposits accumulated in these shallow marine environments, later exposed by tectonic uplift and erosion. The chert and quartz nodules found here crystallized within these carbonate formations as silica-rich fluids percolated through the rock during diagenesis.",
+  "tips": "Search creek beds and stream cuts after seasonal flooding, when water erosion has exposed fresh material and washed specimens clean. Focus on the banks of Wilsons Creek, James River, and tributary streams within Springfield city parks where limestone outcrops and weathered chert layers are visible. Look for translucent to milky quartz chunks and tan-to-brown chert nodules embedded in clay banks and gravel deposits. Bring a small mesh bag and hand tools (chisel, hammer) to extract specimens from softer matrix, and wear sturdy footwear since creek beds can be muddy and slippery.",
+  "terrain_notes": "Elevation approximately 1,372 feet with very flat topography typical of the Ozark Plateau. Most rockhounding occurs in creek beds and city parks with developed trails and easy walking access. Terrain is generally low-angle with loose rocks, gravel, and clay underfoot. Vegetation includes mixed hardwoods and understory brush. Parking areas are typically 100-500 feet from productive collecting zones. Creek water levels vary seasonally; winter and early spring provide the best freshly exposed material.",
+  "best_season": "October - April. Late fall through early spring provides cooler weather and higher water levels that expose fresh material in creek beds. Summer can be hot and humid; creek flow diminishes, limiting exposure of new specimens. Winter is generally dry and mild for the region.",
+  "written_directions": "From downtown Springfield, head toward Wilsons Creek National Battlefield via James River Freeway (US 60) east. The main rockhounding areas cluster around creek access points in Springfield city parks and along the Wilsons Creek drainage south and east of the city center. Specific productive spots include Milstone Mill area (approximately 4 miles south of downtown off South Fort Avenue), James River parks and greenway trails (accessible via multiple downtown parking areas), and creek access points managed by Springfield Parks and Recreation. For Wilsons Creek, drive south from downtown on South Robberson Avenue, which parallels the creek for several miles and offers multiple pullouts and parking areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "All roads to rockhounding areas are paved city streets and park roads in good condition. Parking areas are accessible by passenger vehicle year-round.",
+  "parking_notes": "Multiple public parking lots and pullouts available at Springfield Parks and Recreation areas. Typical capacity varies; most lots accommodate 10-30 vehicles. No fees for parking.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collection is permitted in designated Springfield city parks where rock and mineral collecting is not explicitly prohibited. Check with Springfield Parks and Recreation Department for current restrictions on specific properties. Do not collect from private land or areas posted as no-collection zones. Remove only what you can personally carry. No motorized equipment or large-scale excavation.",
+  "quantity_limits": null,
+  "rules": "Rock collecting permitted in designated city parks only\nNo collection on private land\nNo motorized excavation or digging\nRemove only specimens you can hand-carry\nCheck current park rules with Springfield Parks and Recreation",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Springfield city center, 0-5 miles depending on specific collecting area. Full services including gas, restaurants, lodging, and supply stores available.",
+  "accessibility_notes": "Relatively flat terrain accessible to most ability levels. City parks offer paved or well-maintained trails. Creek beds are uneven with loose rocks and muddy areas; sturdy footwear required. No wheelchair access to active creek collecting zones, though some nearby parks have accessible pathways. Parking is close to many productive areas.",
+  "alternative_names": [],
+  "nearest_city": "Springfield",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/missouri/springfield-mo/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/missouri/springfield-mo/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can you find rockhounding near Springfield, Missouri?",
+      "answer": "Springfield offers quartz, chert, agate, and occasional petrified wood specimens. Quartz ranges from clear to milky white, chert typically tan to brown with smooth texture, and agate appears as banded fragments. Most specimens are small to medium-sized, found in creek beds and stream-cut banks where Ozark limestone has weathered and exposed the silica-rich deposits within."
+    },
+    {
+      "question": "Is rockhounding free in Springfield parks and do you need a permit?",
+      "answer": "Yes, rockhounding is free in most Springfield city parks and no permit is required. However, collection rules vary by specific property and park manager. Contact Springfield Parks and Recreation Department to confirm current collection policies for your intended area before visiting. Private land and explicitly posted no-collection zones must be avoided."
+    },
+    {
+      "question": "What is the best time to go rockhounding in Springfield, Missouri?",
+      "answer": "October through April is ideal. Cooler temperatures and higher water levels expose fresh material in creek beds, and recent seasonal flooding often reveals new specimens washed clean. Summer brings heat and humidity; creek flow diminishes in dry months, limiting exposure of new material. Winter weather is typically mild for the region."
+    },
+    {
+      "question": "How do beginner rockhounds find quartz and chert near Springfield?",
+      "answer": "Focus your search on creek beds and stream-cut banks in Springfield parks, especially after heavy rain. Look for tan-to-brown chert nodules embedded in clay and gravel deposits, and milky to translucent quartz chunks. Use a small hammer and chisel to carefully extract specimens from softer matrix. Start at Milstone Mill area or along Wilsons Creek access points where limestone outcrops are visible."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding in Springfield?",
+      "answer": "Bring a small hand hammer, cold chisel, mesh collection bag, sturdy boots, work gloves, and a flashlight for creek areas. A small magnifying glass helps identify specimens. Creek beds can be muddy and slippery; wear boots with good traction. No heavy power tools or excavation equipment are needed for finding surface specimens and extracting from loose matrix."
+    },
+    {
+      "question": "Is Springfield, Missouri rockhounding suitable for families and kids?",
+      "answer": "Yes, Springfield is beginner and family-friendly. Flat terrain, easy access from parking areas, and short walks to productive zones make it ideal for children ages 6 and up. Public parks offer amenities and safe access. Quartz and chert are easy to spot and satisfying for beginners. No permits or fees are required, and you can visit during convenient local hours."
+    }
+  ],
+  "meta_title": "Springfield Rockhounding - Missouri Quartz & Chert",
+  "meta_description": "Find quartz, chert, and agate in Springfield, Missouri parks. Free rockhounding, no permit needed. Beginner-friendly creek collecting near downtown.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "collection_rules - verify current Springfield Parks and Recreation policies",
+    "primary_category - assigned to 'other' due to urban/mixed public land status",
+    "parking_notes - specific lot details may change seasonally",
+    "written_directions - multiple creek access points exist; site-specific verification recommended"
+  ],
+  "enriched_at": "2026-04-21T19:18:17.574Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:21:29.468Z"
+}

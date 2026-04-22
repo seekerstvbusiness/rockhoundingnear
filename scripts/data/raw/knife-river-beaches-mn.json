@@ -1,0 +1,60 @@
+{
+  "slug": "knife-river-beaches-mn",
+  "name": "Knife River beaches",
+  "lat": 46.950346,
+  "lng": -91.778339,
+  "state": "Minnesota",
+  "state_slug": "minnesota",
+  "state_code": "MN",
+  "city": "Lake No. 2",
+  "city_slug": "lake-no-2",
+  "county": "Lake",
+  "county_slug": "lake",
+  "geocoded_city": "Lake No. 2",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-minnesota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Knife%20River%20beaches%20Minnesota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Knife%20River%20beaches",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Knife%20River%20beaches%20Minnesota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 606,
+      "meters": 185
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:04:54.243Z"
+  },
+  "scraped_at": "2026-04-21T18:04:54.244Z",
+  "scrape_quality": "minimal"
+}

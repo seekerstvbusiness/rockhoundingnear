@@ -1,0 +1,60 @@
+{
+  "slug": "chappaquiddick-island-ma",
+  "name": "Chappaquiddick Island",
+  "lat": 41.375,
+  "lng": -70.474442,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Edgartown",
+  "city_slug": "edgartown",
+  "county": "Dukes",
+  "county_slug": "dukes",
+  "geocoded_city": "Edgartown",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chappaquiddick%20Island%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chappaquiddick%20Island",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chappaquiddick%20Island%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 23,
+      "meters": 7
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:32:38.704Z"
+  },
+  "scraped_at": "2026-04-21T19:32:38.704Z",
+  "scrape_quality": "minimal"
+}

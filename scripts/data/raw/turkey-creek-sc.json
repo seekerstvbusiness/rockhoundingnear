@@ -1,0 +1,60 @@
+{
+  "slug": "turkey-creek-sc",
+  "name": "Turkey Creek",
+  "lat": 33.881437,
+  "lng": -81.974859,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "Edgefield County",
+  "city_slug": "edgefield-county",
+  "county": "Edgefield",
+  "county_slug": "edgefield",
+  "geocoded_city": "Edgefield County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Turkey%20Creek%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Turkey%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Turkey%20Creek%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 338,
+      "meters": 103
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:55:25.974Z"
+  },
+  "scraped_at": "2026-04-21T17:55:25.974Z",
+  "scrape_quality": "minimal"
+}

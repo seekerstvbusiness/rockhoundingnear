@@ -1,0 +1,98 @@
+{
+  "slug": "goshute-reservation-ut",
+  "name": "Goshute Reservation",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Juab County",
+  "city_slug": "juab-county",
+  "county": "Juab",
+  "county_slug": "juab",
+  "lat": 39.823715,
+  "lng": -113.972795,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM rockhounding on the western Utah plateau with opportunities to find quartz, chalcedony, and jasper specimens in semi-arid terrain near the Goshute Mountains.",
+  "description": "The Goshute Reservation area sits within Juab County's high desert landscape, a region of the Great Basin characterized by broad valleys, isolated mountain ranges, and sparse vegetation. This BLM-managed land offers recreational rockhounders the chance to search for silica-rich minerals, particularly quartz varieties and chalcedony, which form in the weathered volcanic and alluvial deposits common to this part of Utah.\n\nThe terrain here reflects the Basin and Range geology that defines western Utah. During the Tertiary period, extensive volcanic activity deposited rhyolitic and basaltic materials across the region. Over millions of years, weathering and erosion exposed secondary deposits of microcrystalline quartz, including chalcedony and jasper, often concentrated in washes, bajadas, and erosional badlands.\n\nRockhounders visiting the Goshute area should expect open, semi-desert conditions with scattered creosote bush, rabbitbrush, and low scrub vegetation. The landscape is relatively open, making it easy to scan hillsides and wash exposures for colorful material. Elevation ranges from approximately 4,500 to 5,500 feet, giving the area moderate seasonal temperature swings.\n\nAs BLM land, this location welcomes recreational collectors under standard federal guidelines. The 25-pound daily limit keeps pressure on the resource minimal, and the lack of permit requirements makes this an accessible option for rockhounds exploring central Utah. Early morning collecting in spring and fall is particularly rewarding, as the cooler temperatures make for comfortable extended searching.",
+  "history": "The Goshute region sits within the Basin and Range province, where Miocene-age volcanic activity deposited thick sequences of rhyolite and basalt between 20 and 15 million years ago. Subsequent basin-and-range faulting, combined with millions of years of erosion and weathering, concentrated secondary silica minerals into the washes, alluvial fans, and erosional badlands visible today.",
+  "tips": "Search washes and bajada margins where water erosion has exposed and concentrated lighter-colored quartz and chalcedony material; these areas often yield the best specimens. Bring a small loupe and UV light if possible, as some jasper and chalcedony specimens fluoresce faintly, making them easier to spot among the surrounding rocks. Focus on hillsides with exposed rhyolitic bedrock, where weathering has released quartz crystals and microcrystalline chalcedony. Early morning or late afternoon light at lower angles helps you spot translucent and semi-translucent specimens that catch the sun.",
+  "terrain_notes": "Semi-arid high desert terrain at 4,500 - 5,500 feet elevation, with open bajadas, scattered washes, and low rolling hills. Vegetation is sparse (creosote, rabbitbrush, low scrub). Footing is generally stable on packed earth and gravel, though occasional loose rock and light cactus density require careful stepping. Walking distances from parking areas typically range from 0.5 to 3 miles depending on specific site chosen. No wheelchair access; moderate cardiovascular fitness helpful for extended exploring.",
+  "best_season": "April - June and September - October. Spring brings wildflower blooms and comfortable collecting temperatures, while fall offers cool mornings and stable weather. Summer heat (90+ degrees F) and winter cold (freezing nights) make those seasons less ideal, though winter rockhounds can find good conditions on mild days.",
+  "written_directions": "From Delta, Utah (the nearest town), take US Route 6 east approximately 20 miles toward the Juab County area. Watch for BLM access roads and pullouts along and near the highway as it passes through the foothills. GPS coordinates 39.823715, -113.972795 mark the general target area in the Goshute region. High-clearance vehicle recommended for rougher access roads; check current BLM condition reports before heading out, as seasonal road conditions vary.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US Route 6 is paved highway. Secondary BLM access roads are generally unpaved gravel or dirt, with light washboarding common after rain. High-clearance preferred; standard passenger vehicles can access main pullout areas in dry conditions.",
+  "parking_notes": "Informal BLM pullouts and parking areas along US Route 6 and secondary roads. No developed facilities or fee collection. Parking is first-come, first-served. Space available for 5-15 vehicles depending on specific pullout.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or heavy machinery. No collecting of archaeological artifacts or protected plant species. Respect private property boundaries where they exist.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\nMaximum 25 lbs per day per FLPMA\nNo motorized excavation\nNo heavy machinery or pick-and-pack operations\nRespect site conditions and leave no trash\nNo collection of archaeological artifacts",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Delta, Utah, approximately 20 miles west. Full services including gas, food, water, and lodging available in Delta. Nearest emergency services via Delta dispatch.",
+  "accessibility_notes": "Moderate terrain with uneven gravel and dirt surfaces. Informal parking areas require short walks (0.5 - 3 miles) over semi-arid bajadas and wash margins. Rocky footing with scattered cactus; sturdy hiking boots strongly recommended. No wheelchair access to collecting areas. Moderate aerobic fitness helpful for extended searching. Spring and fall temperatures make long hikes more comfortable than summer heat.",
+  "alternative_names": [],
+  "nearest_city": "Delta",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/goshute-reservation-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding at the Goshute Reservation in Utah?",
+      "answer": "The Goshute Reservation area is known for quartz, chalcedony, jasper, and agate specimens. These microcrystalline silica minerals form in the weathered volcanic deposits common to western Utah's Basin and Range geology. Most specimens are found in washes, bajadas, and badland exposures where erosion concentrates the lighter-colored material."
+    },
+    {
+      "question": "Do I need a permit to rockhound on the Goshute Reservation BLM land?",
+      "answer": "No permit is required for recreational rockhounding on this BLM land. You may collect for personal use free of charge under the Federal Land Policy and Management Act (FLPMA), as long as you stay within the 25-pound daily limit and follow all collection guidelines."
+    },
+    {
+      "question": "How far is the Goshute Reservation from Delta, Utah?",
+      "answer": "The Goshute Reservation area is approximately 20 miles east of Delta, Utah, accessible via US Route 6. Delta is the nearest town with full services including gas, food, water, and lodging. Drive time from Delta is roughly 25-30 minutes depending on the specific pullout chosen."
+    },
+    {
+      "question": "What is the best season for rockhounding at the Goshute Reservation?",
+      "answer": "April through June and September through October are ideal for collecting here. Spring offers mild temperatures and wildflower blooms, while fall provides cool mornings and stable weather. Summer heat exceeds 90 degrees F, and winter nights freeze, making those seasons less comfortable for extended field time."
+    },
+    {
+      "question": "Is the Goshute Reservation rockhounding area suitable for beginners and families?",
+      "answer": "Yes, this BLM site is beginner and family-friendly with no permit requirements, no fees, and open terrain that makes it easy to search. Kids ages 8 and older can participate comfortably. The moderate terrain requires sturdy boots and sun protection, but no specialized climbing or technical skills are needed. Dogs are also welcome on public BLM land."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at the Goshute Reservation?",
+      "answer": "Bring a rock hammer or chisel for extracting specimens, a collecting bag that can hold up to 25 lbs, sturdy hiking boots (cactus and rocky footing), sun hat, sunscreen, and plenty of water. A small loupe (magnifying glass) and UV flashlight are optional but helpful for identifying chalcedony and jasper. High-clearance vehicle is recommended for access roads, though main pullouts are usually accessible to standard cars."
+    }
+  ],
+  "meta_title": "Goshute Reservation Rockhounding - Utah BLM",
+  "meta_description": "Find quartz, chalcedony, and jasper at Goshute Reservation BLM land in Juab County, Utah. Free rockhounding, no permit needed, 25 lb daily limit. Family friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated at 20 miles based on typical BLM access near Delta)",
+    "specific_access_roads (no detailed terrain data provided; general US Route 6 corridor used)",
+    "cell_service (marked spotty based on rural Utah high desert location)",
+    "gem_types (inferred from Basin and Range geology common to the region; not location-specific source provided)"
+  ],
+  "enriched_at": "2026-04-22T06:50:32.398Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:56:59.650Z"
+}

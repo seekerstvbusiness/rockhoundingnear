@@ -1,0 +1,60 @@
+{
+  "slug": "durand-wi",
+  "name": "Durand",
+  "lat": 44.638006,
+  "lng": -91.934108,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Town of Durand",
+  "city_slug": "town-of-durand",
+  "county": "Pepin",
+  "county_slug": "pepin",
+  "geocoded_city": "Town of Durand",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Durand%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Durand",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Durand%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 715,
+      "meters": 218
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:12:01.837Z"
+  },
+  "scraped_at": "2026-04-21T18:12:01.837Z",
+  "scrape_quality": "minimal"
+}

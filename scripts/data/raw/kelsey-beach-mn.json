@@ -1,0 +1,60 @@
+{
+  "slug": "kelsey-beach-mn",
+  "name": "Kelsey Beach",
+  "lat": 47.048018,
+  "lng": -91.629641,
+  "state": "Minnesota",
+  "state_slug": "minnesota",
+  "state_code": "MN",
+  "city": "Silver Creek Township",
+  "city_slug": "silver-creek-township",
+  "county": "Lake",
+  "county_slug": "lake",
+  "geocoded_city": "Silver Creek Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-minnesota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Kelsey%20Beach%20Minnesota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Kelsey%20Beach",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Kelsey%20Beach%20Minnesota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 611,
+      "meters": 186
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:05:00.679Z"
+  },
+  "scraped_at": "2026-04-21T18:05:00.679Z",
+  "scrape_quality": "minimal"
+}

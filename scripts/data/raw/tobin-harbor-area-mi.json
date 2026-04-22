@@ -1,0 +1,57 @@
+{
+  "slug": "tobin-harbor-area-mi",
+  "name": "Tobin Harbor Area",
+  "lat": 48.165421,
+  "lng": -88.463458,
+  "state": "Michigan",
+  "state_slug": "michigan",
+  "state_code": "MI",
+  "city": "Houghton Township",
+  "city_slug": "houghton-township",
+  "county": "Keweenaw",
+  "county_slug": "keweenaw",
+  "geocoded_city": "Houghton Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-michigan.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Tobin%20Harbor%20Area%20Michigan"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Tobin%20Harbor%20Area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Tobin%20Harbor%20Area%20Michigan"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:42:50.153Z"
+  },
+  "scraped_at": "2026-04-21T16:42:50.154Z",
+  "scrape_quality": "minimal"
+}

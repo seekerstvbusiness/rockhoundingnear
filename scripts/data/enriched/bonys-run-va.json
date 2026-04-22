@@ -1,0 +1,99 @@
+{
+  "slug": "bonys-run-va",
+  "name": "Bonys Run",
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "city": "Shawsville",
+  "city_slug": "shawsville",
+  "county": "Montgomery",
+  "county_slug": "montgomery",
+  "lat": 37.140702,
+  "lng": -80.250912,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Public access stream and creek rockhounding near Shawsville offering quartz, feldspar, and mica specimens in a moderate-slope Appalachian setting. Good beginner-friendly site with seasonal water ac...",
+  "description": "Bonys Run is a public creek and stream rockhounding area in Montgomery County near Shawsville, Virginia, situated within the Blue Ridge foothills of the Appalachian Mountains. The area sits at approximately 1600 feet elevation with moderate slopes typical of the Ridge and Valley physiographic province, making it accessible to most rockhounders without extreme technical difficulty.\n\nThe geology of this region reflects the Precambrian and Paleozoic metamorphic and sedimentary rocks that were heavily deformed during the Alleghenian orogeny. Quartz veins and feldspar-rich metamorphic rocks are common throughout Montgomery County, and stream action over millennia has liberated high-quality specimens into creek beds and gravel deposits. The moderate slope of the terrain allows natural water flow that has sorted and concentrated minerals in accessible locations along the run.\n\nRockhounders at Bonys Run can expect to find clear and milky quartz specimens, feldspar crystals, and mica flakes in stream gravels and along creek banks. The creek action continuously exposes new material, especially during or after seasonal rain events that scour the streambed. This location offers year-round access during favorable weather, though spring and fall provide the most comfortable collecting conditions.\n\nThe site is beginner-friendly and family-suitable, with straightforward creek access and no technical climbing required. The moderate slope means uneven footing and potential mud near the water, so sturdy footwear is essential. Bring containers for specimens and be prepared for wet conditions if the creek is flowing actively.",
+  "history": "This area sits within the Blue Ridge Mountains and Ridge and Valley provinces of the Appalachian system, where Precambrian metamorphic rocks and Paleozoic sedimentary strata were intensely folded and thrust-faulted during the Alleghenian orogeny some 300 million years ago. The quartz and feldspar minerals found in Bonys Run's streambed originated in these metamorphic and igneous parent rocks, then were exposed and transported by geological and hydrological processes over millions of years into accessible creek deposits.",
+  "tips": "Search along the outer bends of Bonys Run where water velocity slows and heavier minerals accumulate in gravel bars and behind larger rocks. Look for white to translucent quartz chunks ranging from pea-sized to several inches across, often clustered with pink or white feldspar fragments. Bring a small mesh classifier or sieve to pan through gravels efficiently; even material less than an inch thick may contain excellent mica specimens and feldspar chips. Collect after rainfall when streamflow has freshly exposed material along the banks and in the creek channel.",
+  "terrain_notes": "Bonys Run sits at 1608 feet elevation with moderate slopes typical of the foothills. The creek bed features uneven rocky footing, muddy banks during or after wet weather, and dense vegetation in places. Walking distance from parking areas ranges from a few hundred feet to half a mile depending on access point. Terrain is walkers-friendly but requires sturdy, water-resistant boots and caution on slippery rocks. No formal trail system; access follows the creek banks.",
+  "best_season": "April - November, with peak conditions in May and September - October. Water levels are manageable spring through fall, and temperatures are comfortable for extended collecting trips. Avoid December - March due to cold weather, potential ice, and muddy conditions.",
+  "written_directions": "From Shawsville, take VA Route 603 south and east toward the Montgomery County rural areas. Continue on local roads toward the Bonys Run watershed area. GPS coordinates 37.140702, -80.250912 point to the rockhounding area near Shawsville. Look for creek access points along county roads that cross Bonys Run; public access is typically available along the creek corridor. Parking is informal at pullouts and roadsides near creek crossings.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Local county roads leading to creek access points are paved or well-maintained gravel. No high-clearance vehicle required. Some parking areas may be rough or unpaved.",
+  "parking_notes": "Informal parking at pullouts and roadsides near creek crossings. No developed parking lot. Capacity typically 2-4 vehicles per access point.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Rockhounding is permitted for personal use only. Virginia state law prohibits commercial collection without landowner permission. Respect private property boundaries and stay within publicly accessible creek corridors. Do not trespass on private land adjacent to the run. No motorized equipment permitted. Remove only loose specimens; do not blast, hammer at outcrops, or conduct excavation.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nNo commercial activity\nNo motorized equipment\nNo hammering or blasting at rock faces\nDo not trespass on private property\nRespect landowner boundaries along the creek",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "cold"
+  ],
+  "nearest_services": "Shawsville has basic services approximately 3-5 miles away; larger services available in Blacksburg approximately 10 miles north.",
+  "accessibility_notes": "Relatively accessible stream rockhounding with uneven rocky terrain along the creek bed. No wheelchair access to the actual collecting areas. Sturdy water-resistant footwear is essential due to muddy banks and slippery rocks. Moderate walking required on uneven footing. Not suitable for people with significant mobility limitations.",
+  "alternative_names": [],
+  "nearest_city": "Shawsville",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/virginia/bonys-run-va/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/virginia/bonys-run-va/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Bonys Run in Virginia?",
+      "answer": "Bonys Run is best known for quartz, feldspar, and mica specimens. You can find clear to milky quartz chunks of various sizes, pink or white feldspar crystals, and mica flakes in the creek gravels and along stream banks. The quartz is often the most abundant and collectible specimens for beginners."
+    },
+    {
+      "question": "Is rockhounding at Bonys Run free, and do I need a permit?",
+      "answer": "Yes, rockhounding at Bonys Run is completely free and does not require a permit. It is public creek access for personal use only. Virginia law allows personal rockhounding collection without fees, but commercial collection is prohibited."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Bonys Run near Shawsville?",
+      "answer": "The best rockhounding season at Bonys Run is April through November, with peak conditions in May and September through October. Water levels are manageable and weather is comfortable. Avoid winter months when cold, ice, and muddy conditions make collecting difficult and unpleasant."
+    },
+    {
+      "question": "Can beginners and families rockhound at Bonys Run?",
+      "answer": "Absolutely. Bonys Run is beginner and family-friendly with easy access, no technical skills required, and straightforward creek walking. The moderate slope and visible specimens make it ideal for children ages 6 and up. Bring sturdy boots and be prepared for wet conditions near the water."
+    },
+    {
+      "question": "What tools and equipment should I bring for rockhounding at Bonys Run?",
+      "answer": "Bring sturdy, water-resistant boots for muddy and slippery creek rocks. A small mesh classifier or sieve helps sort through gravels efficiently. Pack containers or bags for specimens, a backpack with water, and sunscreen. A small hand lens is useful for examining feldspar and mica crystals up close."
+    },
+    {
+      "question": "How far is Bonys Run from Blacksburg, and what are parking and access conditions like?",
+      "answer": "Bonys Run is approximately 10 miles south of Blacksburg near Shawsville and is easily accessible by passenger vehicle. Parking is informal at roadside pullouts near creek crossings with space for a few vehicles. Access to the creek is direct from county roads with minimal walking distance to the water."
+    }
+  ],
+  "meta_title": "Bonys Run Rockhounding - Virginia Quartz & Feldspar",
+  "meta_description": "Find quartz, feldspar, and mica at Bonys Run near Shawsville, Virginia. Free public creek rockhounding, beginner-friendly, year-round access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type (inferred as public creek access; confirm with local county)",
+    "primary_category (classified as other; may be public creek land)",
+    "road_conditions (based on typical county road standards in rural Montgomery County)",
+    "parking_notes (based on typical informal creek access patterns in Virginia)",
+    "cell_service (estimated as spotty for rural Montgomery County foothills)"
+  ],
+  "enriched_at": "2026-04-21T19:16:05.690Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:19:23.167Z"
+}

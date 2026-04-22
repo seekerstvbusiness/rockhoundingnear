@@ -1,0 +1,97 @@
+{
+  "slug": "black-rock-ut",
+  "name": "Black Rock",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Millard County",
+  "city_slug": "millard-county",
+  "county": "Millard",
+  "county_slug": "millard",
+  "lat": 38.719043,
+  "lng": -112.98712,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Obsidian",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land in central Utah offering agate and jasper collecting in striking black volcanic terrain. Easy access, no permits required for personal use collection.",
+  "description": "Black Rock is a rockhounding destination on Utah BLM land in Millard County, featuring volcanic landscape with opportunities to find agate, jasper, and other silica-based minerals. The site sits within the Basin and Range physiographic province where Miocene-era volcanic activity created extensive basalt flows and associated mineral deposits. The black volcanic rock that gives the location its name is readily apparent, and collectors can find chalcedony, obsidian fragments, and colorful agates weathering from hillsides and washes.\n\nThis BLM location is ideal for beginners and families due to open access and minimal restrictions. No permits are required for recreational collecting, making it a straightforward trip for those new to rockhounding. The terrain is relatively exposed with scattered vegetation typical of the Basin and Range, offering good visibility for spotting colorful stones. Morning and afternoon light contrasts well against the dark basalt, helping you locate translucent and banded specimens.\n\nThe collecting experience here rewards patience and systematic searching. Walk along wash bottoms and hillside talus slopes where erosion naturally concentrates lighter-colored agate nodules among dark volcanic rocks. Many specimens are small to medium-sized, suitable for display or cabochon cutting. Expect to spend 2-4 hours at the site to develop an eye for the subtle color variations that distinguish gem-quality pieces from common basalt rubble.\n\nBlack Rock's remote but accessible location makes it popular among serious collectors who appreciate the lack of crowding. The BLM manages this area with a light touch, allowing up to 25 pounds of daily collection per person for non-commercial use. Weather can be extreme, so proper preparation and seasonal timing are essential for a safe and productive visit.",
+  "history": "This area sits within the Basin and Range province where Miocene volcanic activity (approximately 20-30 million years ago) deposited extensive basalt flows and associated silica-rich fluids. These conditions created agate nodules and chalcedony deposits that weathered free from the host rock over millions of years. Early prospectors and miners worked claims throughout Millard County for various minerals, and the publicly accessible Black Rock area has long been a known location for rockhounders seeking volcanic-hosted agates and jasper.",
+  "tips": "Search wash bottoms and erosion gullies where lighter-colored agate nodules naturally concentrate against dark basalt - these natural traps are your most productive areas. Bring a small hand lens to inspect specimens for translucency and banding patterns; true gem-quality pieces often show bands of color or pale centers that distinguish them from weathered basalt. Look for white, tan, orange, and red hues in chalcedony and agate - these contrast sharply against the black volcanic rock and are easier to spot. Wear sturdy boots and long pants to protect against sharp volcanic edges and scattered prickly vegetation common to this terrain.",
+  "terrain_notes": "Black Rock sits at approximately 5,800 feet elevation on relatively open BLM land with scattered low-growing shrubs and sparse vegetation. The terrain is gently rolling to moderately sloped with black basalt outcrops and exposed hillsides. Walking distances from parking area are typically under one mile to productive collecting zones. Footing is uneven due to loose volcanic rock and irregular lava flows, requiring careful stepping. The dark rock provides minimal shade, and the landscape offers expansive views of surrounding terrain.",
+  "best_season": "October - April. This Utah location experiences extreme summer heat exceeding 95 degrees Fahrenheit in the exposed, shadeless basalt terrain. Fall, winter, and early spring provide comfortable collecting conditions, and the lower sun angle in cooler months creates better contrast for spotting colorful agate specimens against dark rock. Snow is rare but possible at this elevation in January-February.",
+  "written_directions": "From Delta, Utah (nearest town), take US 50 east for approximately 12 miles toward Millard County. Watch for BLM access roads branching north from the highway in the Black Rock area near mile marker 81. Follow signs or known collector routes to parking pullouts adjacent to basalt outcrops. A standard passenger vehicle can access the main parking areas, though high-clearance vehicles are recommended for some secondary access roads. From Fillmore, take US 50 west approximately 18 miles - the location is between Delta and Fillmore along this corridor.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mostly paved US 50 to site area. Secondary BLM access roads are unpaved dirt with possible washboard texture. High-clearance recommended but not required for main access points. Avoid after rain when clay-based roads can become slippery.",
+  "parking_notes": "Multiple informal pullouts and parking areas along BLM land adjacent to US 50. Space for 3-5 vehicles at typical pullouts. No developed parking lot or facilities. Choose elevated areas to avoid potential drainage paths.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA (Federal Land Policy and Management Act). No commercial collection allowed. No motorized excavation or destructive methods. Respect surrounding geological features and leave access roads open for other users.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 pounds per day per person\nNo commercial sales of collected material\nNo mechanized excavation or blasting\nNo motorized equipment for digging\nLeave the area as you found it",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Delta, Utah is approximately 12 miles west with gas stations, restaurants, and grocery stores. Fillmore, Utah is approximately 18 miles east with similar services. Both towns are good staging points for supplies and water.",
+  "accessibility_notes": "Black Rock has relatively easy terrain accessible to most hikers, though not wheelchair friendly. Parking areas are on or very near the collecting zone, minimizing walking distance. Loose volcanic rock and uneven footing require stable footwear and reasonable mobility. No facilities or developed infrastructure. The site is suitable for families with children age 8 and older who can navigate uneven terrain.",
+  "alternative_names": [],
+  "nearest_city": "Delta",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/black-rock-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Black Rock, Utah?",
+      "answer": "Black Rock is known for agate, jasper, chalcedony, and obsidian fragments weathering from Miocene-era basalt flows. The black volcanic terrain makes lighter-colored specimens easy to spot. Most agates here are small to medium-sized, ideal for display collections or cabochon cutting. Success depends on systematic searching of wash bottoms and hillside talus where erosion concentrates lighter minerals."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Black Rock BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Black Rock. The site is on public BLM land in Utah, which allows personal use collection under FLPMA regulations. You simply need to follow the 25-pound daily limit per person and avoid commercial collection. This makes Black Rock an ideal destination for beginning rockhounders."
+    },
+    {
+      "question": "When is the best time to visit Black Rock for agate and jasper hunting?",
+      "answer": "October through April is ideal. The exposed basalt terrain offers no shade and can exceed 95 degrees in summer, making collecting uncomfortable. Fall, winter, and early spring provide cooler conditions and the lower sun angle creates better visual contrast between colorful agate specimens and dark volcanic rock. Snow is rare but possible in January-February."
+    },
+    {
+      "question": "How far is Black Rock from Delta, Utah and what is the terrain like?",
+      "answer": "Black Rock is approximately 12 miles east of Delta, Utah via US 50. It sits at 5,800 feet elevation on gently rolling BLM land with sparse vegetation. The terrain features black basalt outcrops, loose volcanic rock, and uneven footing that requires sturdy boots. Parking pullouts are adjacent to collecting zones, typically requiring under one mile of walking to productive areas."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Black Rock, Utah?",
+      "answer": "Bring a small hand lens to inspect specimens for translucency and banding patterns that indicate gem quality. Wear sturdy hiking boots and long pants to protect against sharp volcanic edges and prickly vegetation. A small backpack for carrying specimens, sun protection, and at least 2 liters of water are essential due to the exposed terrain and lack of shade. A field guide to Utah rocks helps identify specimens."
+    },
+    {
+      "question": "Is Black Rock a good rockhounding spot for beginners and families?",
+      "answer": "Yes, Black Rock is excellent for beginners and families age 8 and older. The site requires no permits, has easy access via US 50, and allows 25 pounds of daily collection. The contrast between colorful agate specimens and black basalt makes spotting gems straightforward for newcomers. Relatively easy terrain with close parking makes it less demanding than backcountry locations, while still offering genuine gem-quality finds."
+    }
+  ],
+  "meta_title": "Black Rock Agate Rockhounding - Utah",
+  "meta_description": "Find agate, jasper, and chalcedony at Black Rock BLM land near Delta, Utah. No permit required, 25 lb daily limit, easy access year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "nearest_city_distance",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:51:05.979Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:57:55.161Z"
+}

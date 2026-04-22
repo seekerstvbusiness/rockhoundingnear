@@ -1,0 +1,65 @@
+{
+  "slug": "calapooia-river-ames-creek-or",
+  "name": "Calapooia River & Ames Creek",
+  "lat": 44.35142,
+  "lng": -122.788953,
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "state_code": "OR",
+  "city": "Linn County",
+  "city_slug": "linn-county",
+  "county": "Linn",
+  "county_slug": "linn",
+  "geocoded_city": "Holley",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oregon.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Calapooia%20River%20%26%20Ames%20Creek%20Oregon"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Calapooia%20River%20%26%20Ames%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Calapooia%20River%20%26%20Ames%20Creek%20Oregon"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 530,
+      "meters": 162
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:44:42.120Z"
+  },
+  "scraped_at": "2026-04-21T18:44:42.120Z",
+  "scrape_quality": "partial"
+}

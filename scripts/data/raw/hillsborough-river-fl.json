@@ -1,0 +1,60 @@
+{
+  "slug": "hillsborough-river-fl",
+  "name": "Hillsborough River",
+  "lat": 28.032089,
+  "lng": -82.381081,
+  "state": "Florida",
+  "state_slug": "florida",
+  "state_code": "FL",
+  "city": "Hillsborough County",
+  "city_slug": "hillsborough-county",
+  "county": "Hillsborough",
+  "county_slug": "hillsborough",
+  "geocoded_city": "Temple Terrace",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-florida.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hillsborough%20River%20Florida"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hillsborough%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hillsborough%20River%20Florida"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 19,
+      "meters": 6
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:31:24.152Z"
+  },
+  "scraped_at": "2026-04-21T17:31:24.153Z",
+  "scrape_quality": "minimal"
+}

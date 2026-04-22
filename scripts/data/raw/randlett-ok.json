@@ -1,0 +1,60 @@
+{
+  "slug": "randlett-ok",
+  "name": "Randlett",
+  "lat": 34.160261,
+  "lng": -98.350511,
+  "state": "Oklahoma",
+  "state_slug": "oklahoma",
+  "state_code": "OK",
+  "city": "Cotton County",
+  "city_slug": "cotton-county",
+  "county": "Cotton",
+  "county_slug": "cotton",
+  "geocoded_city": "Cotton County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oklahoma.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Randlett%20Oklahoma"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Randlett",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Randlett%20Oklahoma"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 947,
+      "meters": 289
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:03:49.291Z"
+  },
+  "scraped_at": "2026-04-21T17:03:49.291Z",
+  "scrape_quality": "minimal"
+}

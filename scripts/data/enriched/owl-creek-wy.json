@@ -1,0 +1,101 @@
+{
+  "slug": "owl-creek-wy",
+  "name": "Owl Creek",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Lander",
+  "city_slug": "lander",
+  "county": "Fremont",
+  "county_slug": "fremont",
+  "lat": 43.711042,
+  "lng": -109.195615,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Tourmaline"
+  ],
+  "short_description": "BLM rockhounding site at 9000+ feet elevation with Quartz, Feldspar, and Tourmaline in metamorphic outcrops. Gentle mountain terrain ideal for summer collecting.",
+  "description": "Owl Creek sits in the Wind River Range foothills of western Wyoming, a high-elevation BLM site where metamorphic rocks host excellent Quartz crystals and associated feldspars. The area sits at 9013 feet elevation on a gentle slope, making it more accessible than steeper alpine terrain while still offering genuine mountain geology. You'll find well-formed crystals in pegmatitic pockets and along fractures in schist and gneiss outcrops, with occasional Tourmaline specimens adding variety to collections.\n\nThis location benefits from Wyoming's high country geology - during the Laramide Orogeny, uplift and metamorphism transformed ancient sediments into the Quartz-rich rocks you see here today. The pegmatitic veins threading through the metamorphic host rock crystallized from cooling granitic magma, concentrating minerals into collector-friendly pockets. Summer weather opens access roads, while the gentle slope keeps hiking distances reasonable for families and casual rockhounds.\n\nCollecting follows standard BLM rules: 25 pounds per day of personal use material, no commercial operation, no mechanized excavation. The site draws fewer crowds than lower-elevation locations, meaning you can work outcrops thoroughly without competition. Early morning visits often yield the best finds as sunlight illuminates crystal faces in the rock.",
+  "history": "Owl Creek sits within the Wind River Range metamorphic complex, uplifted and exposed during the Laramide Orogeny (75-55 million years ago). Precambrian schist and gneiss host pegmatitic veins rich in Quartz and Feldspar - a signature mineral assemblage of mid-level metamorphic rocks that cooled slowly enough to form collectible crystals. The high elevation preserved these outcrops from deeper weathering, keeping specimens relatively fresh.",
+  "tips": "Target the exposed schist and gneiss hillsides where you can spot the lighter-colored pegmatitic veins running through darker host rock - these fractures are where Quartz crystals concentrate. Bring a small hammer and chisel to carefully split along natural joint planes rather than smashing indiscriminately; the crystals form in these gaps and respond better to thoughtful extraction. Look for glassy Quartz points with flat terminations (hexagonal tops) and pink or white Feldspar alongside them - these mineral associations mark productive pockets worth exploring further.",
+  "terrain_notes": "Elevation 9013 feet with gentle slopes throughout. Terrain is mostly open, grassy meadow with exposed bedrock outcrops. Walking distance from parking to productive areas typically 0.25 to 0.5 miles. Footing is generally stable on grass with rocky outcrops providing natural work sites. No significant cliffs or drop-offs, but loose rock common where weathering has fractured outcrops. Summer sun exposure; bring water and shade.",
+  "best_season": "June - September. High elevation keeps snow and ice present October through May. Summer months offer open access roads, stable weather, and long daylight for productive collecting. July and August are warmest but afternoon thunderstorms are common in mountain terrain.",
+  "written_directions": "From Lander, take WY 131 north toward Dubois for approximately 30 miles. Turn west on Forest Service Road 213 (Owl Creek Road) and continue for about 15 miles on improving dirt surface. Look for BLM marker signs and pullout areas near mile marker 10-12. Parking is available at small gravel turnouts adjacent to exposed schist and gneiss outcrops. High-clearance vehicles recommended for rough sections of FS 213.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Dirt and gravel Forest Service Road 213, washboard in places, high-clearance vehicle strongly recommended. Final approach road occasionally muddy in early summer after snowmelt. Passenger cars not advised.",
+  "parking_notes": "Small pullouts and informal parking areas along FS 213 near exposed outcrops. Capacity limited to 2-4 vehicles per site. No developed parking lot; spread out use to minimize impact.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. All collecting must be non-destructive to public lands. Pack out all waste.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lb per day limit per FLPMA\nNo commercial collection allowed\nNo motorized excavation\nNon-destructive collection methods only\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Lander, Wyoming - approximately 45 miles south. Full services including gas, food, water, and lodging. Dubois, Wyoming - approximately 35 miles northeast with basic services.",
+  "accessibility_notes": "Moderate terrain with gentle slopes and stable grassy footing. Rocky outcrops provide natural work platforms at ground level. No wheelchair access due to uneven terrain and rough road access. Sturdy hiking boots recommended. Not suitable for those with limited mobility due to road conditions and walking required from parking to outcrops.",
+  "alternative_names": [],
+  "nearest_city": "Lander",
+  "nearest_city_distance": 45,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/owl-creek-wy/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/owl-creek-wy/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/owl-creek-wy/mineral-2-feldspar.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Owl Creek, Wyoming?",
+      "answer": "Owl Creek offers Quartz crystals as the primary find, especially well-formed points and clusters in pegmatitic pockets. You'll also find pink and white Feldspar, silvery Mica flakes, and occasional Tourmaline crystals within the metamorphic schist and gneiss. The high elevation and pegmatitic geology make this excellent for Quartz specimen collectors."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Owl Creek BLM land?",
+      "answer": "No permit is required for personal recreational collecting at Owl Creek. The site sits on BLM public land in Wyoming, where collecting is allowed under standard BLM regulations: 25 pounds per day personal use, no commercial operation, and no mechanized excavation."
+    },
+    {
+      "question": "What is the best time to visit Owl Creek for rockhounding near Fremont County?",
+      "answer": "June through September is optimal, with July and August offering the warmest, most stable weather. The high elevation (9013 feet) keeps snow present October through May, making access roads impassable during winter and early spring. Summer provides open roads, long daylight, and reliable terrain for collecting."
+    },
+    {
+      "question": "How difficult is rockhounding at Owl Creek for beginners and families?",
+      "answer": "Owl Creek is beginner and family-friendly with moderate difficulty. The gentle slope and open terrain require only light hiking (0.25-0.5 miles from parking), and crystal specimens can be extracted with basic tools like a small hammer and chisel. Kids age 8 and up can participate safely with supervision. No technical climbing or scrambling needed."
+    },
+    {
+      "question": "What tools and equipment do you need for collecting Quartz at Owl Creek Wyoming?",
+      "answer": "Bring a small hammer, chisel, and pry bar for gentle extraction along natural fractures in the pegmatite. Wear sturdy hiking boots for the rocky terrain. Bring sun protection, water (especially at 9000+ feet elevation), and a daypack. Patience and attention to rock grain are more useful than force - let natural joint planes guide your extraction."
+    },
+    {
+      "question": "How far is Owl Creek from Lander Wyoming and what are driving conditions like?",
+      "answer": "Owl Creek is approximately 45 miles from Lander via WY 131 north to Dubois and FS Road 213 west. The final 15 miles on FS 213 are rough dirt and gravel, washboard in places, requiring high-clearance or AWD vehicles. Passenger cars are not recommended. Early summer snowmelt can make the road temporarily impassable."
+    }
+  ],
+  "meta_title": "Owl Creek Quartz Rockhounding - Wyoming BLM",
+  "meta_description": "Find Quartz, Feldspar, and Tourmaline at Owl Creek on Wyoming BLM land. Permit-free collecting at 9000+ ft elevation near Lander. Summer access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "cell_service",
+    "hazards"
+  ],
+  "enriched_at": "2026-04-22T06:40:36.950Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:43:47.637Z"
+}

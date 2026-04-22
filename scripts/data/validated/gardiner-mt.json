@@ -1,0 +1,99 @@
+{
+  "slug": "gardiner-mt",
+  "name": "Gardiner",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Gardiner",
+  "city_slug": "gardiner",
+  "county": "Park",
+  "county_slug": "park",
+  "lat": 45.044322,
+  "lng": -110.606336,
+  "gem_types": [
+    "Agate",
+    "Quartz",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding near Yellowstone in the high country. Find agate, quartz, and jasper specimens in this scenic Montana alpine setting at 8,300 feet elevation.",
+  "description": "Gardiner sits in the northern gateway to Yellowstone National Park, positioned on BLM land that offers open rockhounding opportunities in a geologically dynamic landscape. The area's high elevation and proximity to volcanic and hydrothermal systems create excellent conditions for finding quality agate and quartz specimens. This location combines accessibility with genuine collecting potential - you can find specimens without traveling deep into wilderness, yet the terrain feels remote and undeveloped.\n\nThe Park County area sits within the northern Yellowstone caldera zone where Eocene and Oligocene volcanic activity, combined with later hot spring and geothermal circulation, deposited silica-rich minerals throughout the region. Rhyolitic lavas and silicic ash flows broke down over millions of years, concentrating chalcedony and agate in benches, washes, and hillside exposures. The moderate slopes and well-drained volcanic soils make erosion ongoing, continuously exposing fresh material.\n\nExpect a mix of translucent to opaque agate nodules, banded chalcedony pieces, and jasper fragments weathering out of hillsides and stream beds. Specimens range from thumbnail to hand-sized, with occasional larger nodules. The collecting here rewards patience and careful observation of color contrasts in exposed gravels and outcrops.\n\nThis is high country rockhounding - the elevation means weather can shift quickly, but the thin air and dramatic mountain backdrop make this a rewarding destination for collectors who enjoy alpine terrain. The season is compressed to summer and early fall, but during those months you'll have excellent access and comfortable conditions.",
+  "history": "The Gardiner area sits within the northern edge of the Yellowstone caldera, where Eocene-Oligocene rhyolitic volcanism (roughly 50-30 million years ago) deposited thick sequences of welded tuffs and lava flows rich in silica. Subsequent hydrothermal circulation and weathering of these volcanic materials concentrated chalcedony and agate nodules in secondary deposits, creating the gem-bearing horizons that rockhounders find today.",
+  "tips": "Search the eroded hillsides and drainage benches on the south and west-facing slopes where water erosion exposes agate and chalcedony nodules. Use a rock hammer and chisel to extract nodules from softer matrix, and carry a loupe to inspect banding and color before committing effort. Look for the faint color banding and waxy luster that distinguishes quality agate from common country rock - specimens here often show reds, oranges, whites, and grays layered together.",
+  "terrain_notes": "Elevation 8,303 feet with moderate slope throughout. Terrain is rocky volcanic soil with sparse alpine vegetation, scattered pine and sagebrush. Walking distance from parking varies by site, typically 0.5 to 2 miles. Footing is uneven with loose volcanic rock and scattered talus; sturdy boots essential. Some areas have exposed bedrock outcrops; others feature eroded benches where nodules concentrate.",
+  "best_season": "June - September. The high elevation keeps this area snow-covered much of the year. July and August offer the most stable weather, though afternoons can see sudden thunderstorms. Late June and early September provide pleasant conditions with fewer crowds.",
+  "written_directions": "From Gardiner, Montana (the north entrance to Yellowstone), take US 89 south toward Mammoth Hot Springs for approximately 3-4 miles. Look for BLM access roads branching east or west from the highway - these are marked with BLM signs. Several pull-offs and rough two-track roads provide access to ridges and benches where rockhounding is productive. The area is somewhat dispersed, so exploring multiple short spurs from US 89 will reveal the best collecting areas. Always park well off the road and check current BLM closures before heading out.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 89 is paved and well-maintained. Access roads to BLM sites vary from improved dirt to rough two-track; high-clearance helpful but not essential for most pullouts. May be muddy or impassable after heavy rain.",
+  "parking_notes": "Informal pullouts along US 89 and rough BLM roads; no developed lot. Park well off the road to avoid conflicts with traffic. Space for 2-4 vehicles at most pull-offs.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. All collecting must be non-destructive and sustainable. Respect any seasonal closures posted by BLM.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo destructive mining\nRespect all posted closures and signs",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Gardiner, Montana (3-4 miles north). Gas, food, lodging, and water available in Gardiner. Mammoth Hot Springs has limited services 10 miles south.",
+  "accessibility_notes": "Moderate terrain with uneven rocky ground, loose volcanic rock, and moderate slopes. Not wheelchair accessible. Sturdy hiking boots required. Hiking distances typically 0.5-2 miles. The high elevation (8,300 ft) may challenge those with altitude sensitivity. Well-conditioned hikers of all ages can manage most areas.",
+  "alternative_names": [],
+  "nearest_city": "Gardiner",
+  "nearest_city_distance": 4,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/gardiner-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/gardiner-mt/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/gardiner-mt/mineral-2-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Gardiner, Montana?",
+      "answer": "The Gardiner area is known for agate, chalcedony, quartz, and jasper. Most collectors find translucent to opaque agate nodules with banding in reds, oranges, whites, and grays. Pieces range from thumbnail to hand-sized, with occasional larger nodules. The volcanic geology of the Yellowstone caldera region concentrates these silica-based gems in hillside exposures and stream benches."
+    },
+    {
+      "question": "Is rockhounding near Gardiner free, and do I need a permit?",
+      "answer": "Yes, rockhounding on BLM land near Gardiner is free and requires no permit. The only requirement is that you follow the 25-pound-per-day personal use limit set by FLPMA. Commercial collection is not allowed. Simply park at BLM pullouts along US 89 and begin collecting."
+    },
+    {
+      "question": "What is the best season to rockhound in Gardiner, Montana?",
+      "answer": "The best rockhounding season is June through September. The high elevation (8,303 feet) keeps the area snow-covered most of the year. July and August offer the most stable weather, though afternoon thunderstorms are possible. Late June and early September provide pleasant conditions with fewer crowds and manageable temperatures."
+    },
+    {
+      "question": "How do I get to rockhounding sites near Gardiner from town?",
+      "answer": "From Gardiner, take US 89 south toward Mammoth Hot Springs for 3-4 miles. BLM access roads and pullouts branch off the highway, marked with BLM signs. These rough roads lead to ridges and benches where collecting is productive. Most sites are a short drive from town, with parking at informal pullouts. Check current BLM closures before heading out."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding in Gardiner?",
+      "answer": "Bring a rock hammer, cold chisel, and loupe for inspecting specimens. Wear sturdy hiking boots for the uneven volcanic terrain. Pack water, sun protection, and a light jacket - weather can change quickly at 8,300 feet. A backpack helps carry your daily limit of agate and other finds. Gloves protect hands when working rocky ground."
+    },
+    {
+      "question": "Is Gardiner a good rockhounding location for beginners and families?",
+      "answer": "Yes, Gardiner is beginner and family-friendly. The sites are accessible without technical climbing, and the moderate hiking distances (0.5-2 miles) suit most fitness levels. Kids aged 8 and up can participate fully. The open BLM land means you can spread out and collect at your own pace, making it ideal for families new to rockhounding who want free, unrestricted access."
+    }
+  ],
+  "meta_title": "Gardiner Rockhounding - Find Agate in Montana",
+  "meta_description": "Free BLM rockhounding near Gardiner, Montana. Find agate, chalcedony, and quartz. No permit required. 25 lbs per day limit. Open June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from volcanic geology of Yellowstone caldera region; specific species may vary",
+    "nearest_city_distance - estimated from GPS; verify with mapping tool",
+    "cell_service - spotty is typical for high elevation Montana BLM; verify with current coverage maps"
+  ],
+  "enriched_at": "2026-04-21T19:07:49.283Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:11:16.116Z"
+}

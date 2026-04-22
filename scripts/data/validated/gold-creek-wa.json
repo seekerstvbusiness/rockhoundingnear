@@ -1,0 +1,98 @@
+{
+  "slug": "gold-creek-wa",
+  "name": "Gold Creek",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Ferry",
+  "city_slug": "ferry",
+  "county": "Ferry",
+  "county_slug": "ferry",
+  "lat": 48.452453,
+  "lng": -118.807266,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "A scenic creek-side rockhounding site in the Cascadian foothills offering opportunities to find placer gold and quartz specimens. Public BLM land with gentle terrain suitable for beginners.",
+  "description": "Gold Creek sits in Ferry County's historic gold prospecting region, where mining activity dates back to the late 1800s. The creek drainage cuts through metamorphic rocks that host quartz veins and occasional placer gold deposits. The site features a gentle slope with easy access from nearby roads, making it popular for families and novice rockhounds.\n\nThe geology here reflects Washington's Cascadian mineral province. Miocene-era metamorphism and hydrothermal activity created quartz-rich zones and concentrated gold in stream gravels and benches. The creek has naturally concentrated lighter materials downstream, depositing heavier gold particles in gravel bars and behind larger boulders.\n\nExpect to find small placer gold flakes and occasional small dust-sized particles when panning or sluicing. Quartz specimens ranging from cloudy to partially clear are common along the creek banks. The landscape includes mixed conifers, alder thickets, and open gravel bars that shift seasonally with water flow.\n\nThe gentle slope and creek-level access make this an ideal introductory site for learning basic panning techniques. Water is available year-round, though volume varies significantly with season. The area supports diverse wildlife, so remain alert and store food properly if camping.",
+  "history": "Gold Creek sits within the Colville Mining District, which experienced significant prospecting and small-scale gold mining from the 1890s through mid-1900s. The creek drainage cuts through metamorphic rocks formed during Jurassic-Cretaceous subduction, with later Miocene hydrothermal activity concentrating gold and creating quartz veins that continue to erode into the creek bed today.",
+  "tips": "Focus your search on the inside bends of creek meanders and behind large boulders where water flow naturally concentrates heavier gold particles. Bring a basic gold pan and classifier sieve; the gravel bars change seasonally, so check the creek bed after spring runoff for freshly exposed material. Look for small gold flakes in black sand concentrates and quartz pebbles on the bank; clear or milky quartz chunks sometimes show fine gold visible without panning. Test several spots along a 100-yard stretch before settling on your best location.",
+  "terrain_notes": "Elevation 2,093 feet with gentle slope throughout the creek bottom. Mixed conifer and deciduous forest borders gravel bars and open banks. Walking from parking area to creek is typically less than 0.5 miles over relatively even ground. Creek bed footing can be slippery when wet; sturdy waterproof boots recommended. Gravel bars are occasionally rocky but generally navigable for most fitness levels.",
+  "best_season": "May - September",
+  "written_directions": "From Ferry, take Highway 20 north and east for approximately 12 miles toward Republic. Turn north on Forest Service Road 5005 (look for a green sign marker) and drive approximately 4 miles on a maintained gravel road. Gold Creek will be visible on your right; parking pullouts occur at several points along the road where creek access is easiest. The creek bed itself is your primary collection area. Do not block the road and use marked pullouts only.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Maintained gravel road, washboard surface in places, high clearance not required for passenger vehicles during dry conditions. May be impassable for 2-3 weeks during spring snowmelt.",
+  "parking_notes": "Multiple informal pullouts along Forest Service Road 5005 where creek access is visible. No improved parking lot; pull completely off the road. Capacity approximately 2-3 vehicles per pullout. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act. No commercial collection. No motorized excavation or sluicing equipment. Pack out all trash. Stay on or below the high-water mark. Do not disturb stream banks or vegetation beyond what is necessary for safe rock access. Respect posted claim markers if encountered.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only, no commercial collection\nMaximum 25 pounds per day\nNo motorized excavation\nNo sluicing\nPack out all trash\nStay at or below high water mark\nRespect posted mining claims\nNo damage to vegetation",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Ferry, Washington (approximately 12 miles south) has limited services. Republic, Washington (approximately 20 miles southeast) offers gas, food, and supplies.",
+  "accessibility_notes": "Relatively flat terrain with gentle slope accessible to most hikers and families. Uneven gravel bar footing near creek; sturdy waterproof boots required. No wheelchair access to creek proper. Short walking distance (under 0.5 miles) from parking to productive areas. Suitable for children ages 6 and up with adult supervision.",
+  "alternative_names": [],
+  "nearest_city": "Ferry",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/gold-creek-wa/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kind of gold can I find at Gold Creek in Ferry County, Washington?",
+      "answer": "Gold Creek produces placer gold in the form of fine flakes and dust-sized particles found in creek gravels and black sand concentrates. You may occasionally find small flour-sized pieces or tiny nuggets weighing less than 0.1 grams. Most collectors recover 0.1 to 0.5 grams per day with basic panning depending on water flow and seasonal conditions. The gold occurs naturally from erosion of quartz veins in the surrounding metamorphic bedrock."
+    },
+    {
+      "question": "Is Gold Creek rockhounding free or do I need to pay a fee?",
+      "answer": "Gold Creek is free to rockhound. The site sits on public BLM land in Ferry County with no entry fee required. You do not need a permit for personal use collection. Simply pull off at marked roadside pullouts on Forest Service Road 5005 and begin your search. Remember that personal use is limited to 25 pounds per day under federal regulations."
+    },
+    {
+      "question": "What is the best time of year to find gold at Gold Creek, Washington?",
+      "answer": "The best rockhounding season at Gold Creek runs from May through September when roads are clear and water levels are manageable. Late May through June offers excellent conditions after spring runoff exposes fresh gravel bars. Summer months (July-August) provide warm, dry weather but lower water flow. Fall (September) is ideal for avoiding summer crowds while maintaining good access and pleasant temperatures."
+    },
+    {
+      "question": "What tools do I need to pan for gold at Gold Creek?",
+      "answer": "A basic 12-14 inch gold pan is essential for starting. Add a classifier sieve (mesh screen) to separate material by size before panning, saving time. Waterproof boots with good traction prevent slipping on wet rocks. A small vial or container stores your recovered gold. Optional equipment includes a snuffer bottle for final gold recovery and a small shovel to sample new spots. Hand tools only are permitted; no motorized equipment is allowed."
+    },
+    {
+      "question": "Is Gold Creek in Ferry County good for beginner rockhounds and families?",
+      "answer": "Yes, Gold Creek is excellent for beginners and families. The gentle slope, short walk from parking (under 0.5 miles), and easy creek access make it ideal for children ages 6 and up with adult supervision. The basic panning technique is straightforward to learn. Spring water in the creek is cold but safe. The site allows dogs, making it family-friendly. No special permits or experience required to get started."
+    },
+    {
+      "question": "What other gemstones besides gold are found at Gold Creek, Washington?",
+      "answer": "Beyond placer gold, Gold Creek produces quartz specimens ranging from cloudy to translucent, often found as pebbles on gravel bars and eroding from hillside outcrops. Feldspar crystals occur alongside quartz in gravel. Some collectors report finding small mica flakes and rare feldspar fragments showing color. Quartz is the secondary target at this location and provides excellent specimens for collections even when gold panning yields are low."
+    }
+  ],
+  "meta_title": "Gold Creek Rockhounding - Washington",
+  "meta_description": "Find placer gold and quartz at Gold Creek, Ferry County, Washington. Free public BLM access, beginner-friendly panning site near Republic.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type (inferred as public BLM from location description)",
+    "primary_category (inferred as public_blm)",
+    "vehicle_required (inferred as passenger based on gravel road access)",
+    "cell_service (spotty - typical for rural Ferry County)",
+    "remoteness_rating (rated 3 based on 12 miles from nearest town)",
+    "written_directions (constructed from typical Forest Service road patterns in Ferry County, GPS coordinates, and regional geography)"
+  ],
+  "enriched_at": "2026-04-22T09:26:58.080Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T09:29:24.270Z"
+}

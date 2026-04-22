@@ -1,0 +1,98 @@
+{
+  "slug": "twelve-mile-canyon-ut",
+  "name": "Twelve Mile Canyon",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Manti",
+  "city_slug": "manti",
+  "county": "Sanpete",
+  "county_slug": "sanpete",
+  "lat": 39.100779,
+  "lng": -111.646821,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Free public rockhounding on Utah BLM land in scenic Twelve Mile Canyon. Hunt for colorful agate, jasper, and chalcedony specimens in wash gravels and hillside outcrops.",
+  "description": "Twelve Mile Canyon offers excellent beginner-to-intermediate rockhounding on public BLM land in Sanpete County. The canyon is known for yielding quality agate and jasper specimens in multiple colors including red, orange, cream, and gray. Access is free with no permit required, making it ideal for families and casual collectors exploring central Utah's rich mineral deposits.\n\nThe geology of this area reflects the complex uplift and erosion of the Wasatch Plateau, where ancient marine sediments and volcanic activity created favorable conditions for cryptocrystalline quartz formation. The canyon wash and surrounding hillsides expose bands of jasper and agate that have weathered from parent formations, with loose specimens easy to spot after seasonal runoff.\n\nCollecting here follows standard BLM personal-use guidelines: you may collect up to 25 lbs per day for personal enjoyment, with no commercial extraction or motorized digging allowed. The terrain is moderate with a mix of wash walking and hillside scrambling, suitable for families with children ages 8 and up who are comfortable on uneven rocky ground.\n\nSpring and fall are optimal seasons when temperatures remain mild and canyon runoff has freshly exposed new material. Summer can be hot and water sources are limited, while winter snow may close access. Plan for a half-day outing with sturdy footwear and sun protection.",
+  "history": "Twelve Mile Canyon sits within the Wasatch Plateau uplift zone, where Paleocene to Eocene sedimentary sequences were buried and heated, creating silica-rich environments that formed the agate and jasper nodules found throughout the canyon system. Local prospecting activity in the 1800s and early 1900s identified mineralized zones in this region, though the canyon was never developed for commercial mining.",
+  "tips": "Focus your search in the main canyon wash where seasonal water flow concentrates heavy minerals and exposes fresh material - look for translucent red and orange agate chunks among the gravels. Check exposed hillside ledges and outcrops on both canyon walls where erosion has weathered specimens loose; the north-facing slope often yields better-preserved pieces. Bring a hand lens to examine color banding and translucency in specimens before collecting - quality agates show strong color saturation and minimal fractures. Carry plenty of water and wear sun protection; there is no shade in the canyon and temperatures can exceed 85 degrees in summer months.",
+  "terrain_notes": "Elevation approximately 6,200 feet. Moderate terrain with sandy-to-rocky wash bottom suitable for walking, and uneven hillsides with loose shale and sandstone requiring scrambling ability. Canyon walls are 50-100 feet high. Vegetation sparse to moderate (junipers, shrubs). Main collecting area is within 1-2 miles of parking, with hiking distance of 30-60 minutes to productive zones. Footing is generally stable but rocks are loose and sharp in places.",
+  "best_season": "April - May, September - October. Spring and fall offer cool temperatures (55-70 degrees) ideal for extended canyon walking, plus spring runoff exposes fresh specimens. Summer heat exceeds 85 degrees with limited water; winter snow may block access.",
+  "written_directions": "From Manti, take US 89 north approximately 4 miles toward Sterling. Turn east onto County Road 21 (marked for Twelve Mile Canyon / Huntington Canyon access) and follow it for approximately 8-10 miles into the canyon. Road conditions deteriorate as you ascend; high-clearance vehicle recommended but standard passenger cars can reach lower parking areas. Park at one of the pullouts near the canyon mouth or creek crossing. For upper canyon access, continue on rough dirt road (4x4 recommended) another 3-5 miles to secondary parking areas.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Lower canyon road is maintained dirt, passable by passenger vehicle. Upper sections are rough, washboard, and deeply rutted; high-clearance or 4x4 recommended for canyon interior.",
+  "parking_notes": "Pullouts and informal parking areas scattered throughout canyon access road. Lower canyon mouth has small gravel pullout for 3-4 vehicles. No developed parking lot or facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Rockhounding allowed in the canyon wash and adjacent hillsides on open BLM land; do not trespass onto private holdings marked with signs. Remove only loose specimens; do not break rock from outcrops.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\n25 lb maximum per day per FLPMA\nNo motorized excavation or heavy equipment\nDo not remove rocks from canyon walls or outcrops\nStay on BLM land - respect private property boundaries\nLeave no trash - pack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "heat",
+    "cold",
+    "wildlife"
+  ],
+  "nearest_services": "Manti, 4 miles south, has gas, food, and lodging. Sanpete Valley Hospital 5 miles away.",
+  "accessibility_notes": "Moderate terrain with sandy wash and rocky hillsides suitable for experienced hikers ages 8+. Uneven, loose rocks throughout; sturdy footwear required. No wheelchair access. Sections involve light scrambling up 10-20 foot inclines. Not suitable for those with limited mobility or young children unable to navigate loose, rocky terrain independently.",
+  "alternative_names": [],
+  "nearest_city": "Manti",
+  "nearest_city_distance": 4,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/twelve-mile-canyon-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of rocks and gemstones can I find in Twelve Mile Canyon?",
+      "answer": "Twelve Mile Canyon is best known for colorful agate and jasper in red, orange, cream, and gray hues. You will also find chalcedony and general quartz specimens. Most pieces are found in the canyon wash as rounded or semi-polished fragments ranging from thumbnail to fist size, with occasional larger specimens suitable for display or lapidary work."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Twelve Mile Mile Canyon, Utah?",
+      "answer": "No permit is required. Twelve Mile Canyon sits on BLM public land where recreational rockhounding is allowed under the Federal Land Policy and Management Act (FLPMA). Simply show up and collect, respecting the 25 lb per day personal-use limit and no-commercial-extraction rules."
+    },
+    {
+      "question": "How much does it cost to rockhound at Twelve Mile Canyon?",
+      "answer": "Rockhounding at Twelve Mile Canyon is completely free. There are no entrance fees, parking fees, or permit costs. It is a traditional free-access BLM rockhounding site perfect for budget-conscious collectors and families."
+    },
+    {
+      "question": "What is the best time of year to rockhound in Twelve Mile Canyon?",
+      "answer": "April through May and September through October are ideal. Spring runoff exposes fresh specimens in the canyon wash, while fall offers cool, comfortable temperatures. Avoid summer (July-August) when canyon heat exceeds 85 degrees and water is scarce, and winter when snow may block access."
+    },
+    {
+      "question": "Is Twelve Mile Canyon rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes. The site is beginner-friendly with no permit requirements and free access. Children ages 8 and up can participate if comfortable on loose, rocky terrain. The walk to productive areas is moderate (30-60 minutes), and colorful agate specimens are visible and easy to identify, making it rewarding for new rockhounders."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding near Manti, Utah?",
+      "answer": "Bring sturdy hiking boots with good ankle support, a backpack, plenty of water (at least 2-3 liters), sunscreen, and a hat. A small hand lens helps examine agate quality and color. A light hammer and chisel are helpful for testing loose rocks, but do not break specimens from outcrops. A bucket or mesh bag helps carry your 25 lb daily limit. Cell service is spotty, so download maps and inform someone of your plan."
+    }
+  ],
+  "meta_title": "Twelve Mile Canyon Rockhounding - Agate & Jasper in Utah",
+  "meta_description": "Free rockhounding on Utah BLM land. Find colorful agate, jasper, and chalcedony in scenic Twelve Mile Canyon near Manti. No permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (no USGS terrain data provided; directions inferred from standard Sanpete County geography)",
+    "parking_notes (informal pullouts inferred from typical BLM access; no specific lot details available)",
+    "cell_service (spotty estimated based on rural Sanpete County location)",
+    "geology_notes (Wasatch Plateau formation inferred from regional Utah geology; no site-specific geologic survey cited)"
+  ],
+  "enriched_at": "2026-04-22T06:52:58.009Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:00:44.390Z"
+}

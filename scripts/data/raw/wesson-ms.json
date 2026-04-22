@@ -1,0 +1,60 @@
+{
+  "slug": "wesson-ms",
+  "name": "Wesson",
+  "lat": 31.71572,
+  "lng": -90.323516,
+  "state": "Mississippi",
+  "state_slug": "mississippi",
+  "state_code": "MS",
+  "city": "Copiah County",
+  "city_slug": "copiah-county",
+  "county": "Copiah",
+  "county_slug": "copiah",
+  "geocoded_city": "Sand Hill",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-mississippi.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Wesson%20Mississippi"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Wesson",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Wesson%20Mississippi"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 324,
+      "meters": 99
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:32:55.773Z"
+  },
+  "scraped_at": "2026-04-21T16:32:55.773Z",
+  "scrape_quality": "minimal"
+}

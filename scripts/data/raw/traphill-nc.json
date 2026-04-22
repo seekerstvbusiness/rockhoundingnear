@@ -1,0 +1,56 @@
+{
+  "slug": "traphill-nc",
+  "name": "Traphill",
+  "lat": 36.335573,
+  "lng": -81.032065,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Wilkes County",
+  "city_slug": "wilkes-county",
+  "county": "Wilkes",
+  "county_slug": "wilkes",
+  "geocoded_city": "Wilkes County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Traphill%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Traphill"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Traphill%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:32:37.458Z"
+  },
+  "scraped_at": "2026-04-22T02:32:37.458Z",
+  "scrape_quality": "minimal"
+}

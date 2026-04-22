@@ -1,0 +1,103 @@
+{
+  "slug": "mt-adams-wa",
+  "name": "Mt. Adams",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Trout Lake",
+  "city_slug": "trout-lake",
+  "county": "Skamania",
+  "county_slug": "skamania",
+  "lat": 46.235928,
+  "lng": -121.547376,
+  "gem_types": [
+    "Peridot",
+    "Obsidian",
+    "Quartz"
+  ],
+  "short_description": "High-elevation rockhounding site on the flanks of the Cascade stratovolcano Mt. Adams. Hunt for olivine (peridot), obsidian, and volcanic minerals in glacial moraines and lava flows.",
+  "description": "Mt. Adams is Washington's second-highest peak and a prime location for rockhounding along its gentle slopes and volcanic geology. The area sits within the Cascade Range volcanic arc, where Holocene and Pleistocene eruptions created extensive basaltic lava flows, pyroclastic deposits, and exposed olivine-rich mafic rocks. Collectors can search glacial moraines, stream washes, and exposed volcanic outcrops for peridot (olivine), dark obsidian nodules, and specimen-quality basalt. The gentle terrain and accessible elevation (6168 feet at the site reference point) make this suitable for hikers of various skill levels, though weather changes rapidly at higher elevations.\n\nThe volcanic mineralogy here is exceptional - the olivine (peridot) crystals weathering from the basaltic host rock are a signature find, and obsidian occurs in pockets throughout the flow fields. Alpine meadows and sparse subalpine forest provide good visibility for spotting dark volcanic specimens against the lighter volcanic soil and pumice.\n\nAccess is primarily via National Forest lands managed by Gifford Pinchot National Forest. Most productive collecting occurs in the transition zones between different lava flows and in glacial outwash areas where minerals are concentrated. The terrain is generally stable, though loose volcanic rock and scree slopes require careful footing.",
+  "history": "Mt. Adams is a Quaternary stratovolcano that has erupted multiple times over the past 500,000 years, with the most recent activity around 7,000 years ago. The olivine-rich mafic lavas and pyroclastic deposits exposed throughout the area are products of these eruptions, and glacial activity during the Pleistocene carved moraines and outwash zones that concentrate collectible minerals. The volcanic mineralogy - particularly the peridot and obsidian - results from fractional crystallization deep in the magma chamber, with olivine crystallizing early and being brought to the surface in magma that erupted explosively and effusively.",
+  "tips": "Search glacial moraines and stream washes on the lower flanks where olivine crystals (peridot) are weathered from basaltic host rock and concentrated by water action - look for small translucent greenish crystals in dark volcanic sand. Use a hand lens to identify olivine by its pale green color and glassy luster; obsidian appears as dark, glassy nodules often with a blue-gray sheen when wet. Bring a rock hammer, cold chisel, and small collection bag; the volcanic rock is brittle and fractures well, but wear safety glasses when hammering basalt. Visit after snowmelt (late June onward) when accessing higher slopes, but early fall offers the best weather stability - avoid the upper slopes during afternoon thunderstorms, which develop rapidly at elevation.",
+  "terrain_notes": "Elevation 6168 feet in the subalpine zone with gentle slopes characteristic of the lower Mt. Adams flanks. Terrain transitions from subalpine forest to alpine meadow and pumice plains. Footing is generally stable on established trails and moraine fields, but loose volcanic scree and sharp basalt fragments require sturdy boots. Walking distance from trailhead parking to productive collecting areas ranges from 1 to 5 miles depending on route. Views are open in the pumice fields; vegetation is sparse.",
+  "best_season": "June - September, with peak conditions July - August when snow has melted from lower slopes and weather is most stable. Spring (May-June) offers good collecting as snow recedes, but afternoon thunderstorms are frequent. Avoid November through April due to heavy snow accumulation and difficult access.",
+  "written_directions": "From Trout Lake, take Washington State Route 141 south toward Mt. Adams. Continue approximately 18 miles to the Mt. Adams Recreation Area entrance. Follow Forest Service Road 8040 (gravel, well-maintained) for about 7 miles to the Killen Creek Trailhead parking area. Alternatively, access via Forest Service Road 2329 from the White Salmon River valley for lower-elevation collecting areas. High-clearance vehicle recommended for FS roads beyond pavement; check seasonal road conditions with Gifford Pinchot National Forest.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "awd",
+  "road_conditions": "Forest Service roads (FS 8040, FS 2329) are gravel and generally well-maintained mid-summer through early fall. Spring and late fall may present washboard and mud. High-clearance vehicle recommended. Winter closure typical above 4000 feet.",
+  "parking_notes": "Killen Creek Trailhead offers a small gravel parking area (10-15 vehicle capacity). Additional pullouts exist along FS roads. No developed amenities; arrive early during peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use rockhounding permitted on Gifford Pinchot National Forest lands. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection or sale of specimens. No motorized excavation. Stay on established trails where possible to protect alpine vegetation. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - maximum 25 lbs per day per FLPMA\nNo commercial collection or resale\nNo motorized excavation equipment\nRemain on established trails to protect alpine meadows\nPack out all trash\nCamp only at designated National Forest campgrounds (not at collecting areas)",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "loose_rock",
+    "sharp_material",
+    "remote",
+    "cliffs"
+  ],
+  "nearest_services": "Trout Lake (approximately 18 miles north) has a small store, gas station, and limited dining. White Salmon (20 miles west) offers more services. Stevenson, WA (30 miles northwest) has a full grocery store and hospital.",
+  "accessibility_notes": "Moderate terrain with uneven volcanic rock, scree, and stream crossings. No wheelchair access to productive collecting areas. Trails are hikeable but require steady footing and elevation gain. Sturdy footwear with ankle support essential. Altitude (6000+ feet) may affect those with cardiac or respiratory conditions. Weather changes rapidly - plan for sudden temperature drops and afternoon thunderstorms.",
+  "alternative_names": [
+    "Mt. Adams Rockhounding",
+    "Cascades Peridot Collecting"
+  ],
+  "nearest_city": "Trout Lake",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/mt-adams-wa/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/mt-adams-wa/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems and minerals can you find rockhounding at Mt. Adams in Washington?",
+      "answer": "Mt. Adams is known for peridot (olivine crystals), obsidian, and high-quality basalt specimens. The olivine is weathered from mafic lava flows and often found as small translucent green crystals in glacial moraines and stream washes. Dark obsidian nodules are scattered throughout the pumice fields on the lower flanks. Basalt specimens with olivine phenocrysts are excellent for collectors."
+    },
+    {
+      "question": "How do you access Mt. Adams rockhounding sites near Trout Lake?",
+      "answer": "From Trout Lake, take WA Route 141 south approximately 18 miles to the Mt. Adams Recreation Area. Continue on Forest Service Road 8040 (gravel) for about 7 miles to Killen Creek Trailhead. High-clearance or all-wheel-drive vehicle is recommended. Roads are typically open and passable mid-June through October; spring and winter may require 4WD or chains."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Mt. Adams on Gifford Pinchot National Forest?",
+      "answer": "No permit is required for personal use rockhounding on Gifford Pinchot National Forest lands. However, you are limited to 25 lbs per day per FLPMA regulations, and commercial collection is strictly prohibited. Always pack out all trash and stay on established trails to protect alpine vegetation."
+    },
+    {
+      "question": "What is the best time of year to hunt for peridot and obsidian at Mt. Adams?",
+      "answer": "The best rockhounding season at Mt. Adams is July through August, when snow has melted from the slopes and weather is most stable. June and September are also productive but bring afternoon thunderstorms. Avoid November through April due to heavy snow accumulation and road closures on Forest Service roads above 4000 feet."
+    },
+    {
+      "question": "What tools and gear do you need for rockhounding the volcanic slopes at Mt. Adams?",
+      "answer": "Bring a rock hammer or chisel, cold chisel set, safety glasses for hammering basalt, and a sturdy collection bag or backpack. A hand lens (10x magnification) helps identify olivine by its pale green color and glassy luster. Wear ankle-support hiking boots with good grip for loose volcanic scree. Pack water, sun protection, and a weather-resistant jacket - conditions change rapidly at 6000+ feet elevation."
+    },
+    {
+      "question": "Is Mt. Adams rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, Mt. Adams is beginner and family-friendly for kids ages 8+. The lower slopes have gentle terrain and accessible trail systems leading to productive collecting areas. Olivine and obsidian are visually distinctive and easy to identify in the field. Start at lower elevations (below 5000 feet) if children are new to hiking, and always supervise young rockhounders around sharp volcanic rock and cliff edges."
+    }
+  ],
+  "meta_title": "Mt. Adams Rockhounding - Find Peridot & Obsidian",
+  "meta_description": "Hunt peridot, obsidian, and basalt on Gifford Pinchot National Forest near Trout Lake, WA. Public land collecting, moderate hike. Open June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type (inferred as public based on national forest land)",
+    "primary_category (inferred as national_forest)",
+    "collection_rules (standard FLPMA language - verify with local ranger district)",
+    "written_directions (inferred from general Mt. Adams access routes - verify current FS road numbers and conditions)"
+  ],
+  "enriched_at": "2026-04-22T09:27:24.720Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T09:30:59.348Z"
+}

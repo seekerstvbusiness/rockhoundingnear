@@ -1,0 +1,100 @@
+{
+  "slug": "nelson-nv",
+  "name": "Nelson",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Las Vegas",
+  "city_slug": "las-vegas",
+  "county": "Clark",
+  "county_slug": "clark",
+  "lat": 35.707587,
+  "lng": -114.708413,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM rockhounding site near historic Nelson ghost town featuring quartz, chalcedony, and jasper specimens. Free public collecting on desert terrain with scenic views of the Eldorado Canyon area.",
+  "description": "Nelson is a historic rockhounding destination on BLM land in southern Nevada's Clark County, located near the abandoned mining town of Nelson in Eldorado Canyon. This site sits within the Mojave Desert province and offers free public access for recreational mineral collecting on typical high desert terrain. The area has a rich mining heritage dating back to the late 1800s silver boom, and mineral enthusiasts can still find quality quartz, chalcedony, jasper, and agate specimens scattered across the surrounding slopes and washes.\n\nThe geology here reflects the Basin and Range province formation, where Precambrian and Paleozoic bedrock underlies younger desert alluvium. Hydrothermal activity associated with historic mining operations left quartz veins and silica-rich deposits throughout the area. You will encounter both loose specimens in washes and pieces embedded in hillside outcrops, making this site suitable for rockhounds of varying skill levels.\n\nVisitors should expect typical Mojave Desert conditions: sparse creosote and blackbrush vegetation, rocky bajadas, and excellent dry-season collecting. The terrain is moderately steep in places but generally walkable. Nelson's proximity to Las Vegas makes it an accessible day trip for both casual collectors and serious mineral hunters seeking quality southwestern desert specimens.\n\nBecause this is BLM land, personal use collection is free with no permit required, though a 25-pound daily limit applies. The site attracts both experienced rockhounds exploring the mining history and families looking for an educational geology outing. The combination of accessible terrain, abundant specimens, and historical context makes Nelson a worthwhile stop for anyone rockhounding in southern Nevada.",
+  "history": "Nelson sits within the Eldorado Canyon mining district, which experienced significant silver and gold prospecting beginning in the 1880s. The hydrothermal activity that created valuable ore deposits also produced abundant quartz veins and silica-rich secondary minerals that persist in the landscape today, making this area geologically productive for recreational collectors.",
+  "tips": "Search the dry washes and bajada slopes where specimens naturally accumulate and are easier to spot against lighter desert soil. Bring a small classifier or magnifying glass to identify chalcedony and agate banding, and look for translucent or banded pieces rather than solid gray quartz for higher-quality finds. Morning collecting is best to avoid afternoon heat; work the northern and eastern slopes where shade persists longer and specimens often weather more visibly out of darker hillside rock.",
+  "terrain_notes": "High desert bajada and hillside terrain with elevation around 2,100 to 2,400 feet. Sparse creosote and blackbrush vegetation scattered across rocky slopes. Soil is sandy with numerous rocks and boulders. Footing is generally firm but rocky and uneven in places. Typical walking distance from parking areas ranges from half a mile to 2 miles depending on which collector areas you target. No shade available except occasional larger rocks.",
+  "best_season": "October - April",
+  "written_directions": "From Las Vegas, take US 95 south approximately 40 miles toward Searchlight. Turn east onto the Nelson Road exit (watch for historic Nelson ghost town signs). Follow Nelson Road east for approximately 5 miles as it winds toward Eldorado Canyon. The BLM collecting areas surround Nelson ghost town; park at informal pullouts along Nelson Road or near the historic townsite. GPS coordinates will guide you directly to the area. High-clearance vehicles recommended but passenger cars can typically reach main collecting zones.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Nelson Road is unpaved but generally passable for passenger vehicles in dry conditions. Washboard surface typical of rural Nevada BLM access roads. High-clearance vehicle recommended but not required for main collecting areas. Avoid travel during or immediately after rain.",
+  "parking_notes": "Informal pullouts and parking areas along Nelson Road near the historic townsite. No developed facilities. Space available for 5-15 vehicles at various spots. No fee or reservation required.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection. No motorized excavation or heavy equipment. Collection is limited to hand tools only. Respect existing claim markers and do not collect from privately owned property adjacent to BLM lands. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation\nHand tools only\nRespect mining claims\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "remote",
+    "sharp_material"
+  ],
+  "nearest_services": "Searchlight, Nevada, approximately 35 miles north. Limited services; gas and basic food available. More extensive services in Las Vegas, approximately 45 miles northwest.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain suitable for most ages and fitness levels. Uneven rocky ground requires sturdy footwear. No wheelchair-accessible routes; hiking off-road required. Parking pullouts are unpaved and unimproved. No shade or water facilities available; bring plenty of water and sun protection. The terrain is walking-friendly for families but requires basic hiking ability.",
+  "alternative_names": [
+    "Eldorado Canyon BLM collecting area"
+  ],
+  "nearest_city": "Las Vegas",
+  "nearest_city_distance": 45,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/nelson-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/nelson-nv/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Nelson, Nevada?",
+      "answer": "Nelson BLM land is known for quartz, chalcedony, jasper, and agate specimens. Most finds are milky to clear quartz pieces and banded chalcedony. Jasper varieties appear in earth tones of red, brown, and tan. The area's hydrothermal history means specimens are typically higher quality than random desert rocks."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Nelson, Nevada?",
+      "answer": "No permit is required for recreational collecting at Nelson on BLM land. Collection is free and open to the public year-round, though you are limited to 25 pounds per day per FLPMA regulations and must use hand tools only."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Las Vegas at Nelson?",
+      "answer": "October through April is ideal for collecting at Nelson. Winter and early spring temperatures range from 50-70 degrees Fahrenheit, making extended collecting comfortable. Summer heat exceeds 110 degrees and makes collecting dangerous. Late spring (April) can still work well but brings increasing afternoon thunderstorm risk."
+    },
+    {
+      "question": "How far is Nelson rockhounding site from Las Vegas?",
+      "answer": "Nelson is approximately 45 miles south of Las Vegas, roughly a 50-minute to one-hour drive via US 95 toward Searchlight. It is one of the closer quality rockhounding destinations to Las Vegas, making it ideal for day trips."
+    },
+    {
+      "question": "What tools do I need for rockhounding at Nelson, Nevada?",
+      "answer": "Bring a small pickaxe or rock hammer, chisel, bucket or pack for specimens, hand classifier for sorting, and magnifying glass to examine pieces. Sturdy gloves protect from sharp material and the rocky terrain. High-quality finds at Nelson reward careful specimen selection, so take time to examine pieces before collecting."
+    },
+    {
+      "question": "Is Nelson, Nevada a good rockhounding site for beginners?",
+      "answer": "Yes, Nelson is excellent for beginners. The BLM land is open to public collection with no permits needed, specimens are abundant and accessible in washes and hillside slopes, and the terrain is not extremely remote or difficult. Families with children ages 6 and up can enjoy productive collecting with basic hand tools and appropriate sun protection."
+    }
+  ],
+  "meta_title": "Nelson Rockhounding - Find Quartz & Agate Near Las Vegas",
+  "meta_description": "Free BLM rockhounding at Nelson, Nevada. Collect quartz, chalcedony, jasper near Eldorado Canyon. No permit required. Beginner-friendly desert site 45 miles from Las Vegas.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (no terrain data provided; constructed from geographic knowledge)",
+    "parking_notes (informal BLM site; estimated capacity)",
+    "cell_service (estimated spotty based on remote southern Nevada location)"
+  ],
+  "enriched_at": "2026-04-22T06:44:52.692Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:34.674Z"
+}

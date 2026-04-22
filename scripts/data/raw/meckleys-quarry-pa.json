@@ -1,0 +1,64 @@
+{
+  "slug": "meckleys-quarry-pa",
+  "name": "Meckley's Quarry",
+  "lat": 40.675563,
+  "lng": -76.831961,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Lower Mahanoy Township",
+  "city_slug": "lower-mahanoy-township",
+  "county": "Northumberland",
+  "county_slug": "northumberland",
+  "geocoded_city": "Lower Mahanoy Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Meckley's%20Quarry%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Meckley's%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Meckley's%20Quarry%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 599,
+      "meters": 182
+    },
+    "slope": "gentle slope",
+    "nearest_city": {
+      "name": "Selinsgrove",
+      "distance_mi": 9,
+      "population": 5654
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:56:41.339Z"
+  },
+  "scraped_at": "2026-04-21T18:56:41.339Z",
+  "scrape_quality": "minimal"
+}

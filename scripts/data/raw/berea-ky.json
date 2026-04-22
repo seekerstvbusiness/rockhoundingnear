@@ -1,0 +1,57 @@
+{
+  "slug": "berea-ky",
+  "name": "Berea",
+  "lat": 37.560403,
+  "lng": -84.302351,
+  "state": "Kentucky",
+  "state_slug": "kentucky",
+  "state_code": "KY",
+  "city": "Madison County",
+  "city_slug": "madison-county",
+  "county": "Madison",
+  "county_slug": "madison",
+  "geocoded_city": "Madison County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kentucky.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Berea%20Kentucky"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Berea",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Berea%20Kentucky"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:19:16.240Z"
+  },
+  "scraped_at": "2026-04-21T17:19:16.240Z",
+  "scrape_quality": "minimal"
+}

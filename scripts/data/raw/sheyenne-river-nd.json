@@ -1,0 +1,60 @@
+{
+  "slug": "sheyenne-river-nd",
+  "name": "Sheyenne River",
+  "lat": 47.83184,
+  "lng": -98.935349,
+  "state": "North Dakota",
+  "state_slug": "north-dakota",
+  "state_code": "ND",
+  "city": "Eddy County",
+  "city_slug": "eddy-county",
+  "county": "Eddy",
+  "county_slug": "eddy",
+  "geocoded_city": "Fort Totten District",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Sheyenne%20River%20North%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Sheyenne%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Sheyenne%20River%20North%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1399,
+      "meters": 427
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:37:47.758Z"
+  },
+  "scraped_at": "2026-04-21T16:37:47.758Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "hubbard-park-ct",
+  "name": "Hubbard Park",
+  "lat": 41.54941,
+  "lng": -72.835882,
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "state_code": "CT",
+  "city": "Meriden",
+  "city_slug": "meriden",
+  "county": "South Central Connecticut Planning Region",
+  "county_slug": "south-central-connecticut-planning-region",
+  "geocoded_city": "Meriden",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-connecticut.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hubbard%20Park%20Connecticut"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hubbard%20Park",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hubbard%20Park%20Connecticut"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:11:38.110Z"
+  },
+  "scraped_at": "2026-04-21T18:11:38.110Z",
+  "scrape_quality": "minimal"
+}

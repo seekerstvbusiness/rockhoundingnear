@@ -1,0 +1,57 @@
+{
+  "slug": "rattlesnake-butte-sd",
+  "name": "Rattlesnake Butte",
+  "lat": 44.949626,
+  "lng": -101.859223,
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "state_code": "SD",
+  "city": "Ziebach County",
+  "city_slug": "ziebach-county",
+  "county": "Ziebach",
+  "county_slug": "ziebach",
+  "geocoded_city": "Ziebach County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Rattlesnake%20Butte%20South%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Rattlesnake%20Butte",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Rattlesnake%20Butte%20South%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:49:16.521Z"
+  },
+  "scraped_at": "2026-04-21T17:49:16.521Z",
+  "scrape_quality": "minimal"
+}

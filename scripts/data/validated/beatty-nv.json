@@ -1,0 +1,96 @@
+{
+  "slug": "beatty-nv",
+  "name": "Beatty",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Beatty",
+  "city_slug": "beatty",
+  "county": "Nye",
+  "county_slug": "nye",
+  "lat": 36.901533,
+  "lng": -116.836241,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "Rockhound the high desert around historic Beatty on BLM land. Find quartz, chalcedony, and colorful jasper with no permits required and easy access.",
+  "description": "Beatty sits at 4,044 feet in the heart of Nevada's Basin and Range province, a region shaped by Tertiary volcanic activity and extended crustal faulting. The surrounding public BLM land offers excellent opportunities for collectors seeking quartz, chalcedony, jasper, and agate specimens typical of Great Basin geology. This is gateway rockhounding for both beginners and experienced collectors - close to the historic mining town of Beatty with its gold and silver heritage, and near world-class sites like the Bullfrog District.\n\nThe moderate slope terrain around Beatty exposes numerous washes and bajadas where weathering and erosion have freed mineral specimens from host rock. Most productive areas lie within a short drive or walk from Highway 95, making this one of Nevada's most accessible rockhounding regions. The high elevation and desert climate mean you collect on mostly stable ground, though seasonal flash floods can briefly reshape collecting areas after heavy rains.\n\nThis location is ideal for prospectors interested in understanding how Basin and Range geology concentrates collectible minerals. You will find specimens scattered on the surface and exposed in wash banks where seasonal water has done much of the work. The combination of BLM regulations, wide-open terrain, and proven gem locations makes Beatty a smart base camp for serious collecting trips into Nye County.",
+  "history": "The Beatty area sits within the Tertiary Basin and Range province, where intense volcanic activity and subsequent crustal extension between 30 and 3 million years ago deposited thick sequences of rhyolite, andesite, and welded tuff. Silica-rich hydrothermal fluids during this volcanic period created the quartz, chalcedony, and cryptocrystalline minerals found throughout the district today. The Bullfrog gold discovery of 1904 drew prospectors to the region, and while gold mining has declined, rockhounders continue to profit from the same geological events that made Beatty a mining hub.",
+  "tips": "Search washes and bajada surfaces where desert pavement has concentrated lighter specimens - focus on areas with exposed volcanic tuff and rhyolite outcrops. Bring a 5-gallon bucket and small shovel to excavate wash banks where chalcedony and agate often hide just below the surface; many finds are partially buried. Look for translucent or banded quartz specimens in cream, pink, and purple tones, plus opaque jasper in red and brown. Early morning collecting is best - start at first light before heat builds, and always carry extra water since the high desert sun reflects intensely off light-colored rock.",
+  "terrain_notes": "Moderate slope high desert terrain at 4,044 feet elevation with scattered sagebrush, creosote, and sparse vegetation. Rocky bajadas transition to wash beds where most surface specimens concentrate. Walking distance from parking pullouts ranges from 100 yards to 2 miles depending on site chosen. Footing is generally stable on hardpan and compacted soil, though scattered loose rock and volcanic fragments require sturdy boots. No established trail system - cross-country hiking typical.",
+  "best_season": "October - April. The high desert elevation keeps summer temperatures extreme (95-110F), making midday collecting dangerous. Fall and winter offer pleasant daytime temps (60-75F) and lower water needs. Spring (March-April) can bring flash flood risk in washes, so avoid immediately after heavy rains.",
+  "written_directions": "From Beatty town center, head south on Nevada Highway 95 approximately 3 miles. Look for dirt pullouts and access roads on both east and west sides of the highway. Most productive collecting areas are within 1-2 miles of Highway 95. For specific wash sites, enter GPS coordinates or ask at the Beatty Visitor Center for current conditions and recommended pullout locations. High-clearance vehicle recommended for deeper penetration into BLM access roads east of Highway 95.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Nevada Highway 95 is fully paved. Most BLM pullouts and access roads are graded dirt with minor washboard. Passenger vehicles suitable for main collecting areas near highway; high-clearance vehicle helpful for remote wash access.",
+  "parking_notes": "Multiple unsigned dirt pullouts along Highway 95 south of Beatty. No formal parking lot, but wide shoulders and turnouts accommodate 3-5 vehicles. Limited shade - arrive early in cooler months.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation. Leave natural features intact. Pack out all trash. Respect any posted closures or restrictions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation or heavy equipment\nLeave natural features and vegetation intact\nPack out all trash\nRespect posted closures and private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "flash_floods"
+  ],
+  "nearest_services": "Beatty town, approximately 3 miles north. Gas, food, lodging, and water available. No services on BLM land.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Graded dirt roads lead to pullouts. Cross-country walking on bajadas and wash beds involves uneven rocky footing and scattered loose volcanic rock. No wheelchair access. Sturdy hiking boots strongly recommended. High sun exposure and low shade - plan shorter trips in summer.",
+  "alternative_names": [],
+  "nearest_city": "Beatty",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/beatty-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Beatty, Nevada?",
+      "answer": "The Beatty area is known for quartz, chalcedony, jasper, and agate specimens. You will find translucent quartz in cream, pink, and purple tones, plus colorful opaque jasper in red and brown. These minerals form from Tertiary volcanic activity that shaped the Basin and Range province. Surface collecting on BLM land is productive year-round, with best results in fall and winter."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Beatty?",
+      "answer": "No permit is required for personal use rockhounding on Nevada BLM land near Beatty. You are allowed to collect up to 25 lbs per day under FLPMA regulations. Commercial collection is prohibited. Simply park at one of the pullouts along Highway 95 south of town and start collecting on the open public land."
+    },
+    {
+      "question": "How do I find chalcedony and agate at Beatty rockhounding sites?",
+      "answer": "Focus your search on washes and bajadas where weathering has concentrated lighter specimens on the surface. Partially buried specimens often hide in wash banks just below the surface - bring a small shovel and 5-gallon bucket to excavate these areas. Look for translucent or banded material and check areas with exposed volcanic tuff and rhyolite outcrops where silica-rich fluids historically deposited these minerals."
+    },
+    {
+      "question": "What is the best season for rockhounding near Beatty, Nevada?",
+      "answer": "October through April is ideal. Summer temperatures at this 4,044-foot elevation exceed 95-110F, making daytime collecting dangerous. Fall and winter offer pleasant conditions with temps around 60-75F and lower water requirements. Avoid washes immediately after spring rains due to flash flood risk. Bring extra water year-round due to intense desert sun reflection."
+    },
+    {
+      "question": "Is Beatty rockhounding beginner-friendly and suitable for families?",
+      "answer": "Yes, Beatty is excellent for beginners and families. Easy access from Highway 95 with pullouts just 3 miles south of town, no permits required, and productive surface collecting make this ideal for first-time rockhounders. Children ages 6+ can participate. Multiple sites of varying difficulty exist - easier bajada walks for young collectors, and more remote washes for experienced hunters."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding around Beatty?",
+      "answer": "Bring sturdy hiking boots for uneven volcanic rock, a small shovel or digging tool, a 5-gallon bucket for carrying specimens, and a hand lens to identify chalcedony and quartz. Most importantly, carry extra water - at least 2-3 liters per person - because the high desert sun reflects intensely off light-colored rock. A GPS unit or smartphone with offline maps helps locate productive wash access points."
+    }
+  ],
+  "meta_title": "Beatty Rockhounding - Find Quartz & Agate in Nevada",
+  "meta_description": "Rockhound for quartz, chalcedony, and agate on BLM land near Beatty, Nevada. No permit required, 25 lbs daily limit. Easy access from Highway 95.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types inferred from Basin and Range geology without specific source confirmation",
+    "road_conditions estimated from terrain data - local conditions may vary",
+    "parking_notes based on typical BLM pullout setup without site-specific survey"
+  ],
+  "enriched_at": "2026-04-22T09:50:06.731Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:14.437Z"
+}

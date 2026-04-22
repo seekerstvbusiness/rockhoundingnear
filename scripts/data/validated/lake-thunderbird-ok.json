@@ -1,0 +1,99 @@
+{
+  "slug": "lake-thunderbird-ok",
+  "name": "Lake Thunderbird",
+  "state": "Oklahoma",
+  "state_slug": "oklahoma",
+  "city": "Norman",
+  "city_slug": "norman",
+  "county": "Cleveland",
+  "county_slug": "cleveland",
+  "lat": 35.22593,
+  "lng": -97.281552,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Chert"
+  ],
+  "short_description": "Public lake recreation area near Norman offering shoreline rockhounding for quartz and chalcedony specimens. Flat terrain and easy access make it suitable for beginners and families.",
+  "description": "Lake Thunderbird State Park surrounds a scenic reservoir in Cleveland County, Oklahoma, providing public access to shoreline rockhounding opportunities. The lake sits within the Canadian Shield transition zone where Precambrian basement rocks and Paleozoic sedimentary formations create diverse collecting opportunities along the water's edge. Visitors can search exposed shoreline, especially after water level fluctuations, for loose quartz, chalcedony nodules, and chert fragments that erode from surrounding hillsides. The flat terrain and well-maintained park facilities make this an accessible location for rockhounders of all skill levels.\n\nThe geology here reflects Oklahoma's complex plate history. Quartz and chalcedony form in silica-rich groundwater environments within Paleozoic limestone and dolomite formations. Chert nodules, common throughout Oklahoma's bedrock, weather out of parent rocks and accumulate along the shoreline where wave action concentrates heavier mineral specimens. Water level changes throughout the year expose fresh collecting areas.\n\nThe park offers picnic areas, restrooms, and parking near the main shoreline access points. Most productive collecting occurs near the dam and along the northern shore where geological formations are more exposed. The relatively flat walking terrain and proximity to parking makes this ideal for family outings combined with rockhounding.",
+  "history": "Lake Thunderbird was impounded in 1948, creating a 1,200-acre reservoir that exposed and continues to reveal Paleozoic sedimentary rocks typical of south-central Oklahoma. The bedrock geology includes Precambrian granite basement with overlying limestone, dolomite, and shale formations from the Ordovician and later periods, which naturally host quartz, chalcedony, and chert nodules that accumulate along the modern shoreline.",
+  "tips": "Search the shoreline after water level drops in late summer and fall, when newly exposed clay banks and gravel bars reveal fresh specimens. Look for translucent quartz and white to tan chalcedony nodules along the water's edge and in exposed cutbanks. Bring a small hand tool or rock hammer to gently work specimens from clay, and screen beach material near the waterline where finer pieces concentrate. The best finds typically occur near the dam spillway and along the northern shore where water current deposits heavier minerals.",
+  "terrain_notes": "Elevation 1,046 feet with mostly flat to gently rolling terrain around the lake. Shoreline walking is easy with firm ground and maintained park paths. Access to collecting areas is typically within 100-200 feet of parking areas. Ground surface is mixed clay, grass, and gravel beach. No significant elevation changes required for productive rockhounding.",
+  "best_season": "March - May and September - November. Spring and fall provide moderate temperatures ideal for extended collecting. Summer heat and winter cold reduce comfort. Late summer water level recession exposes maximum shoreline area.",
+  "written_directions": "From Norman, take State Road 9 east for approximately 8 miles. Turn north on Lake Thunderbird Road and follow signs to the main park entrance and boat ramp parking area. The GPS coordinates place the location near the northern shore; follow park roads to accessible shoreline access points. Park near the designated areas and walk short distances to the water's edge for collecting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "state_park",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway access. Park roads are asphalt and in good condition. No high-clearance vehicle needed.",
+  "parking_notes": "Multiple designated parking areas throughout the state park near lake access points. Main parking at boat ramp and picnic areas accommodates standard vehicles. Free parking for day-use visitors.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Lake Thunderbird State Park is public land with day-use access. Rockhounding for personal use only. Collect only loose specimens from public shoreline areas. Do not attempt excavation in park property or damage geological formations. Park rules prohibit removal of soil or rocks from designated protected areas. Check with park office for any seasonal restrictions. No commercial collection permitted.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nLoose specimens from shoreline only\nNo excavation or destruction of park features\nRestricted areas must be respected\nDay-use area hours apply\nCheck with park office for current access restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "flash_floods"
+  ],
+  "nearest_services": "Norman, approximately 8 miles northwest, offers all services including gas stations, restaurants, and supply stores.",
+  "accessibility_notes": "Relatively flat terrain accessible to most visitors. Parking areas are close to shoreline collecting zones, typically requiring walks of 100-200 feet. Maintained park paths and beach access suitable for families with young children. No significant obstacles or elevation changes. Firm ground suitable for standard footwear.",
+  "alternative_names": [
+    "Thunderbird Lake",
+    "Lake Thunderbird State Park"
+  ],
+  "nearest_city": "Norman",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oklahoma/lake-thunderbird-ok/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oklahoma/lake-thunderbird-ok/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Lake Thunderbird near Norman?",
+      "answer": "Lake Thunderbird's shoreline yields quartz crystals, chalcedony nodules, and chert fragments. The white to tan chalcedony specimens are most common and make excellent starter collections. These minerals weather from the underlying Paleozoic limestone and dolomite formations exposed around the lake basin."
+    },
+    {
+      "question": "Is rockhounding free at Lake Thunderbird State Park in Oklahoma?",
+      "answer": "Yes, rockhounding is free at Lake Thunderbird. The state park charges no day-use fee for access. Simply drive to the park, use designated parking areas, and collect loose specimens from the public shoreline. This makes it an excellent budget-friendly option for Oklahoma rockhounders."
+    },
+    {
+      "question": "Do you need a permit to collect rocks at Lake Thunderbird?",
+      "answer": "No permit is required for personal-use rockhounding at Lake Thunderbird State Park. You may freely collect loose specimens from the shoreline. However, commercial collection is not permitted, and you must respect any posted restricted areas within the park."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Lake Thunderbird?",
+      "answer": "March through May and September through November offer ideal conditions with moderate temperatures for extended collecting trips. Late summer water level drops expose fresh shoreline areas with concentrated mineral deposits. Avoid the intense summer heat and winter cold for more comfortable rockhounding."
+    },
+    {
+      "question": "Is Lake Thunderbird good for beginner rockhounders and families?",
+      "answer": "Absolutely. Lake Thunderbird is perfect for beginners and families. The flat terrain requires minimal hiking, parking is close to collecting areas, park facilities include restrooms and picnic areas, and loose specimens are easy to find along the shoreline. Children as young as 6 can enjoy productive collecting here."
+    },
+    {
+      "question": "What tools do I need to rockhound at Lake Thunderbird near Norman?",
+      "answer": "Bring a small hand tool, rock hammer, or digging knife to gently extract chalcedony and chert from exposed clay banks. A mesh screen or classifier helps sort smaller pieces from beach gravel. A collection bag completes your kit. The sandy shoreline requires minimal excavation, making this an easy location for basic tools."
+    }
+  ],
+  "meta_title": "Lake Thunderbird Rockhounding - Oklahoma",
+  "meta_description": "Find quartz, chalcedony, and chert at Lake Thunderbird near Norman, Oklahoma. Easy public shoreline rockhounding for families and beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "fee_amount",
+    "collection_rules specifics",
+    "quantity_limits"
+  ],
+  "enriched_at": "2026-04-21T17:10:42.066Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T17:12:45.792Z"
+}

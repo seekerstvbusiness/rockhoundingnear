@@ -1,0 +1,100 @@
+{
+  "slug": "thermopolis-wy",
+  "name": "Thermopolis",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Thermopolis",
+  "city_slug": "thermopolis",
+  "county": "Fremont",
+  "county_slug": "fremont",
+  "lat": 43.511004,
+  "lng": -108.625825,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Rockhound public BLM land near Thermopolis offering agate and jasper collecting in high desert terrain. Personal use collecting with no permits required and gentle slopes make this accessible for a...",
+  "description": "Thermopolis sits in the heart of Wyoming's Hot Springs Country on productive BLM land known for quality agate and jasper specimens. This area lies within the Bighorn Basin, a region shaped by millions of years of geological uplift and erosion that exposed colorful silica-rich deposits. The gentle slopes at 4469 feet elevation make rockhounding here accessible compared to higher Wyoming sites, with good walking terrain and excellent exposure of collecting material in washes and hillside outcrops.\n\nThe geology here reflects ancient lake beds and fluvial deposits from the Paleocene and Eocene epochs, when this area was a warm, wet environment. Silica-rich groundwater percolating through sandstones and conglomerates created the agate nodules, jasper seams, and chalcedony specimens found throughout the region. The Bighorn Basin's gentle folding and weathering have naturally exposed these gem materials on surface and in seasonal drainages.\n\nCollectors here find banded agates in whites, grays, and warm earth tones, often with moss or dendritic patterns. Jasper colors range from red and brown to mottled patterns, and quartz specimens are abundant. The BLM designation means no permits or fees, making this an ideal location for beginners and families wanting to experience rockhounding without barriers. Expect to spend 2-4 hours per visit in productive areas, with best results after seasonal runoff exposes fresh material in washes.\n\nParking areas are accessible by passenger vehicle on maintained roads, though some secondary roads may require higher clearance after wet weather. The area supports casual collecting year-round, though spring and fall offer the most comfortable conditions for extended field work.",
+  "history": "This region sits within the Bighorn Basin, shaped by Paleocene and Eocene volcanic and sedimentary activity that deposited thick sequences of sandstone, shale, and conglomerate. Silica-rich hydrothermal fluids percolating through these formations for millions of years created the agate nodules and jasper deposits found here today, which weathering and erosion have naturally exposed to the surface.",
+  "tips": "Search along seasonal washes and arroyos where water erosion naturally concentrates heavier agate and jasper specimens on the surface and in gravelbars. Look for color breaks in hillside outcrops - banded agate often appears as whitish or tan striped patterns contrasting with surrounding rock. Bring a geology hammer and chisel to test suspect material for the smooth, waxy luster typical of quality agate and chalcedony, and a 5-gallon bucket to manage your daily 25-pound collection limit efficiently.",
+  "terrain_notes": "Elevation 4469 feet with gentle slopes and rolling terrain. High desert landscape with sparse sagebrush and grasses. Terrain is mostly accessible on foot with stable footing on well-established rockhounding paths. Parking areas are typically within 0.5 to 2 miles of productive collecting zones. Washes and hillsides offer natural concentration of specimens. No major obstacles or extreme slopes; suitable for hikers of moderate fitness.",
+  "best_season": "April - October. Spring and early summer offer the most comfortable temperatures and active water erosion in washes that concentrates specimens. Fall provides cooler collecting weather without summer heat. Winter weather can be unpredictable at this elevation and may limit access to secondary roads.",
+  "written_directions": "From Thermopolis, take Wyoming Highway 120 northeast toward the Bighorn Basin BLM lands. Travel approximately 8-12 miles to reach productive public lands. Look for informal pullouts and parking areas along the highway and secondary roads marked for public access. Consult current BLM recreation maps and signs at the Thermopolis visitor center for specific access points and parking coordinates, as collecting zones shift with seasonal conditions and land management updates.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway to site. Secondary roads to specific collecting areas may be unpaved and require higher clearance in wet conditions. Most parking areas accessible by standard passenger vehicles.",
+  "parking_notes": "Informal pullouts and designated parking areas along roads. Capacity varies by location. No developed parking lots, but multiple access points provide flexibility for spreading use.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection or sale. No motorized excavation or heavy equipment. Collect agate, jasper, chalcedony, and quartz specimens from surface and weathered outcrops. Do not excavate into solid rock or disturb archaeological sites. Pack out all waste and leave no trace.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nCollect from surface and weathered material only\nPack out all waste\nLeave no trace",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Thermopolis, approximately 8-12 miles. Full amenities including gas, food, water, lodging, and visitor services. Hot Springs State Park facilities available in town.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Minimal elevation gain. Parking areas within short walking distance of productive zones. Unpaved secondary roads may have uneven surfaces. Sturdy hiking boots recommended but not essential for casual collecting. No wheelchair access to remote collecting areas, though roadside parking near some productive zones may accommodate limited mobility visitors.",
+  "alternative_names": [
+    "Bighorn Basin BLM",
+    "Hot Springs County Rockhounding"
+  ],
+  "nearest_city": "Thermopolis",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/thermopolis-wy/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agate and jasper can I find rockhounding near Thermopolis, Wyoming?",
+      "answer": "The Bighorn Basin near Thermopolis is known for banded agate with patterns in white, gray, tan, and earthy tones, often with dendritic or moss formations. Red, brown, and mottled jasper specimens are also common, along with chalcedony and quartz. Most pieces are hand-sized nodules suitable for tumbling or lapidary work."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Thermopolis?",
+      "answer": "No permit is required for personal recreational collecting on BLM land near Thermopolis. Wyoming BLM follows FLPMA guidelines allowing casual collecting without permits or fees, making this an ideal free rockhounding destination for beginners and families."
+    },
+    {
+      "question": "What is the collection limit for rockhounding in the Thermopolis BLM area?",
+      "answer": "You may collect up to 25 pounds per day per FLPMA regulations on Wyoming BLM land. This limit applies to personal use only. Commercial collection and motorized excavation are not allowed."
+    },
+    {
+      "question": "When is the best time to rockhound near Thermopolis, Wyoming?",
+      "answer": "April through October offers the most comfortable collecting conditions. Spring and early summer are ideal as seasonal water erosion in washes naturally concentrates agate and jasper specimens on the surface. Fall provides cooler weather. Winter weather at 4469 feet elevation can be unpredictable and limit access."
+    },
+    {
+      "question": "Is rockhounding near Thermopolis suitable for kids and families?",
+      "answer": "Yes, Thermopolis BLM land is very family-friendly. Easy terrain, no permits or fees, and productive surface collecting make it ideal for children age 6 and up. No special equipment is required beyond basic tools like a small hammer and bucket. The gentle slopes and short walking distances accommodate various fitness levels."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding near Thermopolis?",
+      "answer": "Bring a small geology hammer or chisel to test and extract specimens, a 5-gallon bucket to manage your 25-pound daily limit, sturdy hiking boots for uneven terrain, a hat and sunscreen for high desert sun, and plenty of water. A loupe or magnifier helps identify quality agate by its waxy luster and fine banding patterns."
+    }
+  ],
+  "meta_title": "Thermopolis Rockhounding - Wyoming BLM Agate",
+  "meta_description": "Find agate, jasper, and chalcedony on free BLM land near Thermopolis, Wyoming. No permits required. Easy family-friendly rockhounding with 25-lb daily limits.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - specific pullout locations and road names could not be verified without current BLM maps",
+    "parking_notes - details of specific parking areas inferred from typical BLM practice",
+    "road_conditions - specific road numbers not provided in source data",
+    "gem_types - specific agate and jasper types inferred from typical Bighorn Basin geology"
+  ],
+  "enriched_at": "2026-04-22T06:40:43.725Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:43:56.156Z"
+}

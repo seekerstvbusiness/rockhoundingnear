@@ -1,0 +1,60 @@
+{
+  "slug": "grand-isle-vt",
+  "name": "Grand Isle",
+  "lat": 44.632199,
+  "lng": -73.270397,
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "state_code": "VT",
+  "city": "South Hero",
+  "city_slug": "south-hero",
+  "county": "Grand Isle",
+  "county_slug": "grand-isle",
+  "geocoded_city": "South Hero",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-vermont.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Grand%20Isle%20Vermont"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Grand%20Isle",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Grand%20Isle%20Vermont"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 103,
+      "meters": 32
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:03:36.994Z"
+  },
+  "scraped_at": "2026-04-21T17:03:36.994Z",
+  "scrape_quality": "minimal"
+}

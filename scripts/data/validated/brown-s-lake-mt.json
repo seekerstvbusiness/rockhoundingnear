@@ -1,0 +1,97 @@
+{
+  "slug": "brown-s-lake-mt",
+  "name": "Brown's Lake",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Powell",
+  "city_slug": "powell",
+  "county": "Powell",
+  "county_slug": "powell",
+  "lat": 46.950164,
+  "lng": -113.015544,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM public land rockhounding site near Powell offering agate and chalcedony collecting on flat terrain. Personal use collecting with no permit required.",
+  "description": "Brown's Lake sits on Montana BLM land in Powell County at 4,304 feet elevation, offering rockhounders easy access to agate, chalcedony, and quartz specimens. The relatively flat terrain and straightforward public access make this an excellent destination for both beginners and experienced collectors looking for quality gemstone material without the cost of fee dig sites.\n\nThis area sits within the Northern Rockies geological province where Tertiary volcanic activity and subsequent erosion exposed silica-rich deposits. The lake basin landscape has naturally concentrated agate and chalcedony nodules in accessible locations, making systematic searching productive. Local collectors report finding well-formed specimens, particularly after seasonal runoff exposes fresh material in washes and along banks.\n\nThe collecting experience here centers on surface material and accessible exposures rather than deep excavation. You will want to focus your search on areas where recent erosion has washed material downhill and along any drainage patterns. The relatively open terrain allows for efficient coverage of promising ground.\n\nAs public BLM land, Brown's Lake offers free, permit-free collecting under personal use guidelines. This site works well for day trips from Powell and nearby communities. Water access and the pleasant montane environment make this a rewarding location during optimal collecting seasons.",
+  "history": "This area lies within the Northern Rockies province where Tertiary-age volcanic and hydrothermal activity deposited silica-rich fluids that eventually crystallized into agate and chalcedony formations. Millions of years of erosion and weathering have exposed these nodules in the lake basin and surrounding terrain, concentrating collectible material along natural drainage patterns.",
+  "tips": "Search along the flatter areas near the lake margin and in any shallow washes or drainage lines where agate nodules naturally accumulate through erosion and gravity. Bring a 5-gallon bucket, sturdy shoes, and a hand shovel to work loose material; the flat terrain makes digging easier than at steeper sites. Look for translucent to opaque white, gray, brown, or banded agate and chalcedony typically ranging from walnut to fist-sized, and plan to spend 2-3 hours systematically covering ground to find quality specimens.",
+  "terrain_notes": "Elevation 4,304 feet on relatively flat terrain with sparse montane vegetation. Walking distances from parking are generally short and footing is stable across grassy and open ground. No major elevation changes. Terrain is accessible to most hikers with standard footwear.",
+  "best_season": "June - September. Higher elevation and potential spring snowmelt make late spring through early fall ideal for comfortable collecting. Summer offers the longest daylight and most stable weather.",
+  "written_directions": "From Powell, take MT 200 west toward Missoula. Brown's Lake is located approximately 10-12 miles northwest of Powell. Watch for BLM access signs and parking areas along or near MT 200. Specific pullouts and access points may be marked with BLM recreation signage. A passenger vehicle can access the main areas, though a short walk from parking may be required to reach optimal collecting zones.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway access to site. Minor unpaved pullouts possible near collecting areas. No high-clearance vehicle required.",
+  "parking_notes": "BLM pullouts and informal parking areas near the lake. Capacity varies by location; plan to arrive early on weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. All collecting must follow standard BLM recreation guidelines for Montana public lands.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo collecting on private adjacent land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "loose_rock"
+  ],
+  "nearest_services": "Powell, Montana is approximately 10-12 miles southeast with gas, food, water, and lodging.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Unpaved pullouts and parking areas are present. Stable footing on grassland and open ground. No major obstacles to mobility. Suitable for families with children and those with moderate mobility.",
+  "alternative_names": [],
+  "nearest_city": "Powell",
+  "nearest_city_distance": 11,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/brown-s-lake-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/brown-s-lake-mt/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and gemstones can I find at Brown's Lake in Montana?",
+      "answer": "Brown's Lake is known for agate, chalcedony, and quartz specimens. Collectors typically find well-formed agate nodules and chalcedony pieces ranging from walnut-sized to fist-sized, often with banding in white, gray, and brown tones. Some specimens are translucent enough to backlight."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Brown's Lake, Montana?",
+      "answer": "No permit is required. Brown's Lake sits on Montana BLM public land where recreational collecting is allowed for personal use only. You do not need to file any paperwork or pay a fee to collect agates and other gemstones here."
+    },
+    {
+      "question": "How much gemstone material can I collect per day at Brown's Lake?",
+      "answer": "BLM regulations limit personal use collecting to 25 lbs per day per person on Montana public lands. This includes all agate, chalcedony, and quartz material collected. Commercial collecting and motorized excavation are not permitted."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Brown's Lake near Powell?",
+      "answer": "June through September offers the best collecting conditions. Higher elevation and potential spring snowmelt make this window ideal for comfortable hiking and access. Summer provides the longest daylight hours and most stable weather for a full day of searching for agate specimens."
+    },
+    {
+      "question": "How do I get to Brown's Lake from Powell, Montana?",
+      "answer": "From Powell, take MT 200 west toward Missoula for approximately 10-12 miles. Look for BLM access signs and parking pullouts along or near the highway. A passenger vehicle is sufficient for main access points. Short walks from parking may be required to reach prime collecting areas."
+    },
+    {
+      "question": "Is Brown's Lake good for beginner rockhounders?",
+      "answer": "Yes, Brown's Lake is excellent for beginners. The flat terrain requires minimal hiking, parking is accessible via paved highway, and surface material is plentiful. No special skills or expensive equipment are needed beyond a bucket, shovel, and sturdy shoes. Families with children ages 6 and up will find this location manageable and rewarding."
+    }
+  ],
+  "meta_title": "Brown's Lake Rockhounding - Montana",
+  "meta_description": "Find agate and chalcedony at Brown's Lake, Montana BLM land. Free, permit-free collecting for personal use. Easy access near Powell.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "written_directions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-21T19:06:17.290Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:08:52.839Z"
+}

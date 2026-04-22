@@ -1,0 +1,99 @@
+{
+  "slug": "keota-ia",
+  "name": "Keota",
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "city": "Keota",
+  "city_slug": "keota",
+  "county": "Washington",
+  "county_slug": "washington",
+  "lat": 41.343471,
+  "lng": -91.942435,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Calcite"
+  ],
+  "short_description": "Small rural Iowa site near Keota offering opportunities to find quartz and chalcedony specimens in exposed glacial till and creek beds along the Iowa River watershed.",
+  "description": "Keota is a small unincorporated community in Washington County, Iowa, situated in the heart of the Paleozoic limestone and dolomite region of eastern Iowa. The area around Keota features typical glaciated Midwestern terrain with rolling hills and creek systems that expose quartz-rich glacial deposits and occasional chalcedony fragments. This location is best suited for rockhounds interested in exploring natural creek beds and eroded hillsides where glacial materials have been sorted and concentrated by water action over thousands of years.\n\nThe geology here reflects Iowa's complex glacial history. During the Pleistocene epoch, massive ice sheets advanced and retreated multiple times across this region, grinding Paleozoic bedrock and transporting mineral-rich material southward. The till deposits left behind contain fragments of quartz, chalcedony, and other hard minerals that were liberated from parent rock in Minnesota and Wisconsin. Today, seasonal water erosion continues to expose these glacial materials in creek banks and hillside outcrops, making casual surface collecting possible in appropriate locations.\n\nAccess around Keota is primarily private land, so rockhounding success depends on obtaining landowner permission. Local streams and public rights-of-way may offer limited collecting opportunities. This is an ideal location for beginners willing to explore creek beds and learn to identify quality quartz specimens in a rural setting. The gentle rolling terrain makes this site accessible to most fitness levels, though you will need sturdy footwear for walking creek banks and crossing wet ground.\n\nVisitors should respect private property boundaries and always ask permission before entering any land near Keota. The quiet, rural character of this area makes it an excellent destination for those seeking a peaceful rockhounding experience away from crowded fee dig sites.",
+  "history": "The Keota area sits within Iowa's glaciated terrain, shaped by Pleistocene ice sheets that advanced and retreated multiple times, depositing thick layers of till containing fragments of Paleozoic dolomite and quartz from bedrock sources to the north. The quartz and chalcedony found here today were liberated by glacial grinding and have been further concentrated by erosion along the Iowa River drainage system over the past 12000 years since deglaciation.",
+  "tips": "Search creek beds and eroded stream banks after spring runoff, where recent water action exposes fresh quartz and chalcedony fragments in the till. Look for milky white to translucent quartz pebbles and pieces of banded chalcedony on the surface of exposed banks rather than digging. Bring a classifier or small screen to sift finer materials and identify higher-quality specimens quickly. Always obtain landowner permission before accessing any private property, and focus on public stream rights-of-way and county roads where legal access is clearer.",
+  "terrain_notes": "Elevation 731 feet in gently rolling glaciated terrain typical of eastern Iowa. Terrain consists of grassy hills, mixed deciduous woods, and creek systems draining toward the Iowa River. Walking surfaces include soft soil, exposed creek banks, and grass fields. Creek beds may be muddy or wet depending on recent rainfall. Most productive areas are within walking distance of parking, typically less than one mile. Footing is generally stable but can be slippery near water after rain.",
+  "best_season": "April - June, September - October. Spring rains expose fresh glacial material in creek banks, while fall offers drier conditions and clearer visibility. Summer can be warm and humid; winter weather makes creek access difficult.",
+  "written_directions": "From Keota town center, take County Road F28 east approximately 2 miles. Look for creek access points along the road where County Road F28 crosses stream valleys. Informal pullouts exist near bridge crossings. Alternatively, explore the Iowa River valley by taking US 30 east from Keota for 3 miles, then turning south on County Road X26 to access lower elevation terrain near the river floodplain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "passenger",
+  "road_conditions": "County roads are paved and well-maintained. Rough spots may appear after heavy rain. Passenger vehicles adequate for main routes; avoid attempting to drive directly into muddy creek bottoms.",
+  "parking_notes": "Informal pullouts near bridge crossings on County Road F28. No developed parking area. Park safely off road to avoid blocking agricultural traffic. Capacity is minimal; typically space for 2-3 vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "All land near Keota is private property. You must obtain explicit permission from the landowner before collecting. Do not cross fences or trespass. Collect only surface materials; do not dig or remove large rocks. Respect property boundaries and close all gates behind you.",
+  "quantity_limits": null,
+  "rules": "Obtain landowner permission before entering private property\nCollect surface materials only, no digging\nDo not remove large rock outcrops or disturb vegetation\nClose gates and respect all fences\nNo motorized equipment or vehicles off established roads",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "flash_floods",
+    "wildlife",
+    "cold",
+    "remote"
+  ],
+  "nearest_services": "Keota has minimal services. Washington, Iowa is approximately 12 miles south and offers gas, food, and supplies at typical rural convenience stores and local restaurants.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Creek banks may be muddy or uneven. Sturdy waterproof boots recommended. No wheelchair access to creek collecting areas. Informal parking near road crossings requires short walks (under 0.5 mile) to productive sites.",
+  "alternative_names": [],
+  "nearest_city": "Washington",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/iowa/keota-ia/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/iowa/keota-ia/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What quartz and chalcedony can I find rockhounding near Keota, Iowa?",
+      "answer": "The Keota area yields milky white to translucent quartz pebbles and fragments of chalcedony in various colors ranging from cream to tan and light gray. These minerals are found in glacial till and creek bed deposits. Most specimens are small to medium-sized pieces suitable for display or tumbling. High-quality cabinet specimens are less common but possible with patient searching."
+    },
+    {
+      "question": "Is rockhounding near Keota, Iowa free or do I need a permit?",
+      "answer": "Rockhounding near Keota is free if you obtain landowner permission, as all accessible land is private property. No state permit is required. However, you must ask the property owner before collecting. Contact local landowners or the Washington County Assessor's office for guidance on property ownership before visiting."
+    },
+    {
+      "question": "What is the best time of year to find minerals around Keota, Iowa?",
+      "answer": "April through June and September through October are ideal. Spring rains expose fresh glacial materials in creek banks, while fall offers dry conditions and clear visibility. Summer humidity and heat are less pleasant; winter weather makes creek access difficult and unpleasant."
+    },
+    {
+      "question": "Can I bring my family and kids rockhounding near Keota?",
+      "answer": "Yes, Keota is beginner and family-friendly with easy terrain and accessible creek beds suitable for children ages 6 and up. The quiet rural setting and gentle landscape make it an excellent introduction to rockhounding. Bring proper footwear, water, and sun protection. Always supervise children near water."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding near Keota, Iowa?",
+      "answer": "Basic tools include a small chisel or rock hammer, a classifier or fine-mesh screen for sorting materials, and a collection bag. Waterproof boots are essential for creek bed work. A magnifying glass helps identify and evaluate specimens in the field. Bring water, sunscreen, and a hat for sun protection during spring and fall collecting trips."
+    },
+    {
+      "question": "How far is Keota, Iowa from larger rockhounding destinations and is it worth visiting?",
+      "answer": "Keota is within 50 miles of several productive glacial and limestone areas in eastern Iowa and southern Minnesota. While Keota itself offers modest finds compared to commercial fee dig sites, it provides a low-cost introduction to glacial mineral hunting and an opportunity to explore authentic rural creek beds. It is best combined with visits to other regional sites for a comprehensive rockhounding trip."
+    }
+  ],
+  "meta_title": "Keota Iowa Rockhounding - Find Quartz",
+  "meta_description": "Hunt quartz and chalcedony near Keota, Iowa. Glacial deposits in creek beds. Beginner-friendly, private land access. Spring and fall are best seasons.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type - inferred as private based on rural Iowa geography; no public land designation confirmed",
+    "gem_types - quartz and chalcedony inferred from glacial geology; specific field confirmation needed",
+    "parking_notes - informal pullouts inferred from road structure; actual parking amenities not verified",
+    "collection_rules - standard private land rules applied; local landowner restrictions may vary",
+    "road_conditions - inferred from typical Washington County road standards; specific current conditions unverified"
+  ],
+  "enriched_at": "2026-04-21T18:02:59.493Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:05:29.909Z"
+}

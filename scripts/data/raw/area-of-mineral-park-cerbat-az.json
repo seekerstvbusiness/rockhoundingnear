@@ -1,0 +1,65 @@
+{
+  "slug": "area-of-mineral-park-cerbat-az",
+  "name": "Area of Mineral Park & Cerbat",
+  "lat": 35.322685,
+  "lng": -114.205107,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/area-of-mineral-park-cerbat"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Area%20of%20Mineral%20Park%20%26%20Cerbat%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Area%20of%20Mineral%20Park%20%26%20Cerbat",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Area%20of%20Mineral%20Park%20%26%20Cerbat%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3354,
+      "meters": 1022
+    },
+    "slope": null,
+    "nearest_city": {
+      "name": "Golden Valley",
+      "distance_mi": 7,
+      "population": 8801
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T17:01:55.910Z"
+  },
+  "scraped_at": "2026-04-20T17:01:55.910Z",
+  "scrape_quality": "partial"
+}

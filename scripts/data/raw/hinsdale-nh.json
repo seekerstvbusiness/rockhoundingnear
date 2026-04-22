@@ -1,0 +1,60 @@
+{
+  "slug": "hinsdale-nh",
+  "name": "Hinsdale",
+  "lat": 42.786162,
+  "lng": -72.465832,
+  "state": "New Hampshire",
+  "state_slug": "new-hampshire",
+  "state_code": "NH",
+  "city": "Hinsdale",
+  "city_slug": "hinsdale",
+  "county": "Cheshire",
+  "county_slug": "cheshire",
+  "geocoded_city": "Hinsdale",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-hampshire.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hinsdale%20New%20Hampshire"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hinsdale",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hinsdale%20New%20Hampshire"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 518,
+      "meters": 158
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:23:06.747Z"
+  },
+  "scraped_at": "2026-04-21T17:23:06.747Z",
+  "scrape_quality": "minimal"
+}

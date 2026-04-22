@@ -1,0 +1,76 @@
+{
+  "slug": "sheffield-ia",
+  "name": "Sheffield",
+  "lat": 42.921663,
+  "lng": -93.17778,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Geneseo Township",
+  "city_slug": "geneseo-township",
+  "county": "Cerro Gordo",
+  "county_slug": "cerro-gordo",
+  "geocoded_city": "Geneseo Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Sheffield%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Sheffield",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Sheffield%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1043,
+      "meters": 318
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "West Fork Cedar River",
+        "type": "river",
+        "dist": 1.1
+      },
+      {
+        "name": "Boylan Creek",
+        "type": "stream",
+        "dist": 3.4
+      },
+      {
+        "name": "Baileye Creek",
+        "type": "stream",
+        "dist": 3.8
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:54:25.208Z"
+  },
+  "scraped_at": "2026-04-21T17:54:25.208Z",
+  "scrape_quality": "minimal"
+}

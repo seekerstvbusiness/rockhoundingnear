@@ -1,0 +1,100 @@
+{
+  "slug": "golconda-petrified-area-nv",
+  "name": "Golconda (petrified area)",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Humboldt County Area",
+  "city_slug": "humboldt-county",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "lat": 40.978696,
+  "lng": -117.483383,
+  "gem_types": [
+    "Petrified Wood",
+    "Chalcedony",
+    "Agate",
+    "Jasper"
+  ],
+  "short_description": "BLM rockhounding site near Golconda featuring excellent petrified wood and colorful chalcedony specimens. Free collecting on public land with scenic high-desert terrain and easy access.",
+  "description": "Golconda's petrified area sits on Nevada BLM land in the high desert region of Humboldt County, offering rockhounders a chance to find quality petrified wood and silica-based gems without fees or permits. The site is characterized by relatively flat to gently rolling terrain at 4,328 feet elevation, making it accessible for collectors of all experience levels. Petrified wood specimens range from small chips to substantial chunks, often displaying beautiful browns, reds, and golden hues created by iron oxide and other mineral replacement over millions of years.\n\nThe area also yields colorful chalcedony, agate nodules, and jasper pieces scattered across the desert surface and exposed in washes. The Miocene-era volcanic activity that shaped this region created ideal conditions for silica-rich mineral deposition and fossil preservation. Collectors often find specimens by walking the washes after rainfall has exposed new material, or by carefully scanning hillsides where erosion continuously reveals buried treasure.\n\nAs BLM land, Golconda operates under standard recreational collecting rules: no permits required, no fees, and a 25-pound daily limit per person. This makes it an excellent destination for weekend rockhounders seeking quality material without commercial pressure. The flat terrain and open landscape allow easy scouting of new areas, and the remoteness provides a genuine backcountry collecting experience.\n\nVisit during fall through spring when temperatures are moderate and visibility is excellent. Summer heat can be intense at this elevation, though it does dry out the landscape quickly after rare precipitation events. Bring plenty of water, sun protection, and sturdy footwear suitable for rocky, uneven ground.",
+  "history": "The Golconda area lies within Nevada's Great Basin high desert, where Miocene volcanic activity 15-20 million years ago deposited silica-rich fluids and ash. These geological conditions created ideal environments for petrified wood formation as ancient trees were buried and replaced by silica minerals, and for chalcedony and agate precipitation in fractures and cavities. Early prospectors in the region sought gold and silver, but the abundance of quality petrified wood specimens has made this area a consistent rockhounding destination for collectors.",
+  "tips": "Walk the main washes running through the area after rain or snowmelt - these natural channels expose fresh petrified wood and chalcedony specimens washed down from surrounding hillsides. Look for pieces with smooth, polished-looking surfaces and vibrant coloring (browns, reds, oranges) indicating high-quality replacement; avoid dull gray or heavily weathered fragments. Use a 5-gallon bucket and a small pry bar to test loose rocks on hillsides; many specimens sit just beneath the surface in weathered areas. Bring a magnet to test pieces - genuine petrified wood often contains iron-bearing minerals that will slightly affect a compass.",
+  "terrain_notes": "Elevation 4,328 feet with predominantly flat to gently rolling terrain. Open high desert landscape with sparse sagebrush and desert shrubs. Scattered rock outcrops and washes provide collecting zones. Walking distance from parking typically 0.5 to 2 miles across relatively stable ground. Footing is rocky but not treacherous; sturdy hiking boots recommended. Some areas have loose gravel and small rocks that can shift underfoot.",
+  "best_season": "October - April. Summer temperatures exceed 85-90F with intense sun exposure and rare water availability. Fall and winter provide moderate temps (40-60F), low humidity, and excellent visibility for spotting specimens. Spring (March-April) is also productive as snowmelt and rain expose fresh material.",
+  "written_directions": "From Winnemucca (approximately 65 miles south), take Nevada State Route 95 north toward Paradise Valley for about 50 miles. Continue on NV-95 past the town of Denio turnoff. Near the community of Golconda, look for BLM access roads heading east into the high desert. The petrified area is accessible via unmarked dirt roads branching from NV-95; use GPS coordinates 40.978696, -117.483383 to navigate to the main collecting zone. Roads are passable for high-clearance vehicles; passenger cars may reach basic access points but higher-quality collecting requires some rough road travel. Park at informal pullouts near washes or hillsides with visible surface specimens.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and gravel roads, generally passable for high-clearance vehicles. Some washboard surface sections; minor ruts after rain. Passenger cars can reach primary areas, but rougher side roads may require AWD.",
+  "parking_notes": "Informal pullouts and wide spots along dirt roads. No developed parking lot. Space for 3-5 vehicles at typical collecting spots. Park away from wash channels to avoid flood risk.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection or resale of specimens. No motorized excavation, heavy equipment, or large-scale disturbance. Collect only loose surface material and specimens from exposed areas; do not blast, drill, or heavily modify rock formations. Pack out all trash. Respect any posted closures or site restrictions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nCollect loose surface material only\nNo blasting or drilling\nPack out all trash\nRespect posted closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "Winnemucca, approximately 65 miles south. Full services including gas, food, lodging, and water. Paradise Valley area has minimal services; Gerlach (northeast, ~70 miles) has limited options.",
+  "accessibility_notes": "Relatively flat, open terrain accessible to most hikers and families. Uneven rocky ground requires sturdy footwear but no technical climbing. Informal parking at pullouts may be uneven. No wheelchair accessibility due to rough roads and rocky terrain. Short walking distances (under 2 miles) to productive collecting areas make this suitable for those with limited mobility who can manage unpaved surfaces.",
+  "alternative_names": [
+    "Golconda Petrified Wood Area",
+    "Golconda BLM"
+  ],
+  "nearest_city": "Winnemucca",
+  "nearest_city_distance": 65,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/golconda-petrified-area-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kind of petrified wood can I find at Golconda in Nevada?",
+      "answer": "Golconda's petrified wood specimens feature excellent replacement quality with vibrant colors including browns, reds, golds, and oranges created by iron oxide and silica minerals. Most pieces range from small chips to 6-12 inch chunks. The Miocene-era volcanic activity that buried ancient forests here created ideal conditions for complete silicification, resulting in hard, durable specimens suitable for polishing or display."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Golconda petrified area?",
+      "answer": "No permit is required. Golconda sits on Nevada BLM land where recreational collecting is allowed under FLPMA regulations. You can collect free of charge as long as you follow the 25-pound daily limit and collect only for personal use, not commercial purposes."
+    },
+    {
+      "question": "How far is Golconda rockhounding area from Winnemucca, Nevada?",
+      "answer": "Golconda's petrified area is approximately 65 miles north of Winnemucca via Nevada State Route 95. The drive takes about 90 minutes. Winnemucca offers all services including gas, food, lodging, and supplies before heading to the remote collecting site."
+    },
+    {
+      "question": "What is the best time of year to rockhound for petrified wood at Golconda?",
+      "answer": "October through April offers ideal conditions with temperatures between 40-60F and excellent visibility. Avoid summer months when temperatures exceed 85-90F with intense sun and scarce water. Spring snowmelt and rain expose fresh specimens in washes, making March-April particularly productive."
+    },
+    {
+      "question": "What tools do I need for rockhounding at Golconda petrified wood site?",
+      "answer": "Bring a 5-gallon bucket for specimens, a small pry bar to test loose rocks on hillsides, a magnet to verify specimens, sturdy hiking boots for rocky terrain, and a headlamp for early morning or late afternoon collecting. Essential gear includes plenty of water (minimum 2 gallons per person), sun protection, and a GPS device or smartphone with offline maps since cell service is spotty."
+    },
+    {
+      "question": "Is Golconda petrified area good for beginner rockhounders?",
+      "answer": "Yes, Golconda is excellent for beginners. The flat, open terrain requires no technical skills, surface specimens are abundant and easy to spot, and no permits or experience are needed. Family groups and children can collect quality petrified wood and chalcedony specimens within a short walk of parking areas. The BLM land is free and accessible year-round under basic collection rules."
+    }
+  ],
+  "meta_title": "Golconda Petrified Wood - Nevada BLM",
+  "meta_description": "Free rockhounding on Nevada BLM land near Golconda. Find petrified wood, chalcedony, and agate. No permit required. 25 lb daily limit. Year-round access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - based on general NV geography and BLM access patterns",
+    "nearest_city_distance - estimated from GPS coordinates",
+    "cell_service - inferred as spotty for remote Humboldt County BLM land",
+    "terrain_notes - inferred from elevation and regional characteristics"
+  ],
+  "enriched_at": "2026-04-22T06:43:41.384Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:10.151Z"
+}

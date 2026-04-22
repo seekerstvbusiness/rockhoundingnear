@@ -1,0 +1,97 @@
+{
+  "slug": "red-desert-wy",
+  "name": "Red Desert",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Sweetwater County Area",
+  "city_slug": "sweetwater-county",
+  "county": "Sweetwater",
+  "county_slug": "sweetwater",
+  "lat": 41.819392,
+  "lng": -108.279871,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Public BLM rockhounding in Wyoming's Red Desert. Find agate, jasper, and chalcedony across high desert terrain. No permit required, 25 lb daily limit.",
+  "description": "The Red Desert of southwestern Wyoming offers excellent rockhounding opportunities on BLM public lands in Sweetwater County. This vast high desert landscape, characterized by badlands, red siltstone formations, and sparse vegetation, produces quality agate specimens, jasper, and other quartz-based gems. The area's relatively flat to gently rolling terrain at 6,580 feet elevation makes it accessible for rockhounders of varying experience levels.\n\nThe Red Desert sits within the Great Divide Basin, a unique geological feature where ancient Eocene and Paleocene sedimentary rocks have been eroded and weathered to expose colorful gemstone-bearing formations. The red coloration comes from iron oxide-rich silts and clays, while the agate and jasper nodules formed from silica-rich fluids that percolated through these layers millions of years ago. Rockhounders can often find specimens weathering out of the hillsides and wash bottoms throughout the region.\n\nThis BLM land is ideal for casual collectors and families seeking quality specimens without commercial pressure or crowded conditions. The desert environment means relatively sparse vegetation and open sight lines, allowing you to scan wide areas efficiently. Most productive areas are found along washes and eroding badland slopes where weather and water continuously expose fresh material.\n\nBest collecting occurs in spring and fall when temperatures are moderate and hiking conditions are comfortable. Summer heat can be intense at this elevation, while winter weather can close access roads. Always bring plenty of water, sun protection, and a detailed map or GPS unit, as the terrain can feel featureless and navigation requires attention.",
+  "history": "The Red Desert's gemstone-bearing formations were created during the Paleocene to Eocene epochs when silica-rich groundwater flowed through ancient lake beds and sedimentary sequences, depositing chalcedony, agate, and jasper in the surrounding rocks. These deposits have been exposed through millions of years of uplift and erosion associated with the formation of the Rocky Mountain province, making the Red Desert a natural collecting ground for high-quality specimens.",
+  "tips": "Search along eroding badland slopes and dry wash bottoms where red siltstone and mudstone are actively weathering, as this is where agate and jasper naturally expose themselves. Bring a magnifying glass to identify the translucency and banding patterns that distinguish quality agate from common chalcedony. Look for specimens with distinctive reddish, orange, or tan coloration typical of this region, and examine the undersides of loose rocks where fresh breaks reveal the best color. Use a small pry bar to carefully extract nodules from weathered slopes, and always backfill holes to prevent erosion and protect the landscape.",
+  "terrain_notes": "Elevation 6,580 feet with flat to gently rolling high desert terrain. Sparse vegetation includes low shrubs and grasses typical of the Basin and Range province. Unpaved BLM roads provide access to multiple collecting areas. Walking distances typically range from parking to productive zones vary from 0.5 to 3 miles depending on specific access points. Footing is generally stable but uneven in places with scattered loose rocks. The open, exposed terrain offers little shade.",
+  "best_season": "April - May and September - October. Spring and fall provide moderate temperatures and comfortable hiking conditions. Summer heat (80-90+ degrees F) and winter snow/cold make those seasons less ideal for extended field work.",
+  "written_directions": "From Rawlins, take I-80 west for approximately 40 miles toward Rock Springs. Exit onto US 287 north and continue for about 15 miles. Turn east onto Red Desert Road (county road) and follow it for approximately 10-15 miles into the heart of the Red Desert. Multiple pullouts and informal parking areas line this road where BLM land is accessible. GPS coordinates provided mark a central collecting area, but rockhounders should explore along various BLM access points throughout the region.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved county and BLM roads in variable condition. High-clearance vehicle recommended after recent weather. Washboard texture common. Passenger vehicles can access main roads in dry conditions.",
+  "parking_notes": "Multiple informal pullouts and parking areas along Red Desert Road and BLM access roads. No developed parking facilities. Space available for 2-5 vehicles at most pullouts. Park in designated or clearly used areas only.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation. Collection allowed only on designated BLM public lands - respect private property boundaries. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo collection on private property\nPack out all trash\nFill in any holes created",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material"
+  ],
+  "nearest_services": "Rawlins, Wyoming approximately 40-50 miles southwest. Gas, food, water, and lodging available. Rock Springs, Wyoming approximately 30 miles west offers additional services.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers. Uneven rocky footing in places requires sturdy footwear but no technical climbing. No wheelchair access due to unpaved roads and uneven terrain. Limited shade and exposure to sun and wind. Distances can be covered at moderate pace.",
+  "alternative_names": [],
+  "nearest_city": "Rawlins",
+  "nearest_city_distance": 45,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/red-desert-wy/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/red-desert-wy/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can I find rockhounding in the Red Desert near Rawlins, Wyoming?",
+      "answer": "The Red Desert produces excellent quality agate with distinctive reddish, orange, and tan banding patterns, along with various jasper types ranging from red to brown. Chalcedony is also common throughout the region. Most specimens are found as weathered nodules eroding from badland slopes and dry washes."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land in the Red Desert, Wyoming?",
+      "answer": "No permit is required for recreational rockhounding on BLM public land in the Red Desert. However, you must follow the 25 lb per day personal use limit per FLPMA regulations and collect only on designated public BLM land, not private property."
+    },
+    {
+      "question": "What is the best time to go rockhounding in Wyoming's Red Desert?",
+      "answer": "April through May and September through October are ideal. These months offer moderate temperatures (50-70 degrees F) and comfortable hiking conditions. Summer heat exceeds 80-90 degrees F with little shade, while winter brings snow and cold that can block access roads."
+    },
+    {
+      "question": "How far is it from Rawlins to the Red Desert rockhounding area in Sweetwater County?",
+      "answer": "The Red Desert is approximately 40-45 miles from Rawlins. From Rawlins, take I-80 west then US 287 north, then east on Red Desert Road into the collecting area. Total drive time is typically 1 to 1.5 hours depending on road conditions."
+    },
+    {
+      "question": "Is the Red Desert in Wyoming beginner-friendly for first-time rockhounders?",
+      "answer": "Yes, the Red Desert is excellent for beginners. The relatively flat terrain, easy access via BLM roads, and abundant surface specimens make it ideal for learning. No special permits or fees apply, and specimens are visible across exposed badland slopes and washes."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding in the Red Desert, Wyoming?",
+      "answer": "Bring a small pry bar or rock hammer, magnifying glass to examine specimens, collection bag, sturdy hiking boots, 2-3 liters of water per person, sun protection (hat, sunscreen), map or GPS unit, and a vehicle suitable for unpaved roads. A metal detector can also be useful in some areas."
+    }
+  ],
+  "meta_title": "Red Desert Rockhounding - Wyoming Agate & Jasper",
+  "meta_description": "Find agate, jasper, and chalcedony on public BLM land in Wyoming's Red Desert. No permit needed. 25 lb daily limit. Beginner-friendly rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T06:40:13.459Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:43:06.130Z"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "lincoln-gulch-ut",
+  "name": "Lincoln Gulch",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Beaver",
+  "city_slug": "beaver",
+  "county": "Beaver",
+  "county_slug": "beaver",
+  "lat": 38.262966,
+  "lng": -112.888175,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM public land rockhounding site in central Utah known for quality agate and chalcedony specimens. Easy access with no permits required for personal collecting.",
+  "description": "Lincoln Gulch is a popular rockhounding destination on Utah BLM land near Beaver County in southwestern Utah. The area sits within a productive geothermal and volcanic zone where silica-rich hydrothermal fluids have created abundant agate, chalcedony, and quartz deposits. Rockhounders of all skill levels can access this site without permits or fees, making it an excellent choice for families and beginners looking to expand their collections.\n\nThe gulch cuts through terrain characteristic of the Great Basin, with exposed volcanic and sedimentary layers that host nodular agate deposits and chalcedony seams. Collectors typically find nodules weathering out of the hillsides and scattered in the wash after seasonal runoff. The agate here ranges from translucent to opaque with occasional banding and color variation - whites, tans, and subtle reds are most common. Smaller jasper pieces and quartz fragments are also abundant.\n\nBest collecting occurs in the main wash and along the eroded banks where fresh material is regularly exposed. The surrounding terrain is relatively open with scattered juniper and pinyon, allowing good visibility of the ground. Bring a crack hammer or rock pick to work specimens free from the surrounding matrix, and expect to spend 2-4 hours working the productive zone. Water is not reliably available, so pack what you need for the day.\n\nThis location remains moderately popular with both local and traveling rockhounds, yet rarely becomes crowded. Respect other collectors and the landscape by filling holes, removing sharp edges from broken specimens, and staying within the productive zone. The BLM welcomes recreational collecting here as long as you follow personal-use guidelines.",
+  "history": "Lincoln Gulch sits within the Basin and Range province of Utah where Tertiary-age volcanic activity (20-30 million years ago) deposited thick sequences of rhyolite and other silica-rich volcanic rocks. Subsequent geothermal circulation and hydrothermal alteration along fractures created chalcedony and agate-bearing veins and nodule deposits that weather out of the host rock. The gulch itself is a natural drainage carved through these mineral-rich layers, making it an ideal rockhounding location where gravity and water have already concentrated loose specimens.",
+  "tips": "Focus on the main wash bottom and the eroded banks - recent water flow exposes fresh material regularly. Bring a 2-3 lb crack hammer or small pry bar to carefully extract nodules from the surrounding rock matrix; avoid damaging specimens by striking from the side rather than from above. Look for subtle color variations and translucency at eye level as you walk - the best agates often have a slightly waxy luster that catches the light. Work early in the day or after overcast weather when the low angle of light makes specimens more visible against the surrounding earth tones.",
+  "terrain_notes": "Lincoln Gulch cuts through rolling foothills at approximately 7,000 feet elevation with moderate slopes. The wash itself is relatively gentle and walkable, lined with scattered juniper and pinyon pine. Ground footing is uneven with scattered rocks and loose material typical of an active drainage. From the parking area, the productive collecting zone is roughly a 10-15 minute walk up the wash. The surrounding terrain is semi-arid with good drainage; mud is not typically an issue.",
+  "best_season": "October - April",
+  "written_directions": "From Beaver, Utah, take US 89 south toward Cedar City for approximately 12 miles. Turn east onto a signed BLM road (watch for rough signage) and follow it for roughly 6-8 miles to the Lincoln Gulch drainage area. This road may be rough and unimproved; high-clearance vehicles are recommended after heavy rain. Park in the wide pullout area near the confluence of the main wash. The collecting zone begins immediately upstream from the parking area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt road, washboard surface, high-clearance recommended, impassable during wet conditions",
+  "parking_notes": "Informal pullout area with space for 3-5 vehicles near the main wash confluence. No facilities. Pack out all trash.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or heavy equipment. No collection from private property adjacent to BLM land. Pack out all trash and respect other collectors.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nPack out all trash\nRespect other collectors and the landscape",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Beaver, Utah (approximately 18 miles north) has gas, food, and lodging. Water and supplies should be purchased before heading to the site.",
+  "accessibility_notes": "Relatively easy terrain once you reach the collecting zone. The main wash is walkable with uneven footing. Low-mobility visitors may find the rough road access and uneven wash bottom challenging. Sturdy footwear required. No wheelchair access due to terrain and rough road.",
+  "alternative_names": [],
+  "nearest_city": "Beaver",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/lincoln-gulch-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/lincoln-gulch-ut/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/lincoln-gulch-ut/mineral-2-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/lincoln-gulch-ut/mineral-3-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates can you find at Lincoln Gulch, Utah?",
+      "answer": "Lincoln Gulch is known for quality nodular agate, often found in whites, tans, and subtle reds with occasional banding. The agate here ranges from translucent to opaque and is typically found as weathered nodules in the main wash and eroded banks. Most specimens are small to medium sized and require a crack hammer to extract from the surrounding host rock."
+    },
+    {
+      "question": "Is rockhounding at Lincoln Gulch free and do you need a permit?",
+      "answer": "Yes, rockhounding at Lincoln Gulch is completely free with no permit required. The site is on Utah BLM land, which allows recreational collecting under personal-use guidelines. You can collect up to 25 lbs per day at no cost, making it an excellent budget-friendly option for Utah rockhounds."
+    },
+    {
+      "question": "What is the best season to rockhound Lincoln Gulch near Beaver?",
+      "answer": "The best time to visit is October through April when temperatures are cooler and more comfortable for outdoor work. Summer heat can be intense at this elevation, and spring runoff can make the access road impassable. Fall and early winter offer ideal conditions with clear skies and moderate temperatures."
+    },
+    {
+      "question": "Is Lincoln Gulch rockhounding site suitable for families and kids?",
+      "answer": "Yes, Lincoln Gulch is beginner and family-friendly. The collecting zone is an easy walk from the parking area with minimal elevation gain. Kids as young as 6 can participate with supervision. The site requires only basic tools like a crack hammer, and finding specimens is straightforward even for novice rockhounders. No permits or special skills are needed."
+    },
+    {
+      "question": "What tools and gear do you need to collect at Lincoln Gulch?",
+      "answer": "Bring a 2-3 lb crack hammer or small pry bar to extract nodules from the rock matrix. A chisel or flat-head screwdriver helps with delicate extraction. Wear sturdy hiking boots for uneven wash terrain. Pack plenty of water, sun protection, and a collection bag to carry your finds up to the 25 lb daily limit. Gloves can protect your hands from sharp edges."
+    },
+    {
+      "question": "How do you access Lincoln Gulch from Beaver, Utah and what vehicle do you need?",
+      "answer": "From Beaver, take US 89 south for about 12 miles, then turn east onto a rough BLM road for 6-8 miles to reach Lincoln Gulch. A high-clearance or all-wheel-drive vehicle is recommended, especially after rain. The rough dirt road becomes impassable during wet conditions, so check road conditions before heading out and avoid the site immediately after storms."
+    }
+  ],
+  "meta_title": "Lincoln Gulch Rockhounding - Utah BLM",
+  "meta_description": "Free rockhounding on Utah BLM land near Beaver. Find agate, chalcedony, and quartz. No permit required, 25 lbs daily limit. Perfect for families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "nearest_city_distance",
+    "geology_notes (derived from state geological knowledge, not specific source)"
+  ],
+  "enriched_at": "2026-04-22T10:17:53.945Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:19:07.201Z"
+}

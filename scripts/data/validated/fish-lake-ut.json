@@ -1,0 +1,98 @@
+{
+  "slug": "fish-lake-ut",
+  "name": "Fish Lake",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Sevier County",
+  "city_slug": "sevier-county",
+  "county": "Sevier",
+  "county_slug": "sevier",
+  "lat": 38.562008,
+  "lng": -111.709415,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land rockhounding site near Fish Lake offering agate and jasper collecting in a scenic high-elevation setting. Free personal use collection with no permit required.",
+  "description": "Fish Lake sits on Utah BLM land in Sevier County, offering rockhounders a scenic high-elevation setting for collecting quartz-based gemstones. This area is part of the Colorado Plateau province, where ancient volcanic activity and hydrothermal processes have created excellent conditions for agate, jasper, and chalcedony deposits. The lake itself is a popular destination, but the surrounding BLM lands are accessible for recreational mineral collecting under personal use regulations.\n\nThe geology around Fish Lake reflects the region's complex volcanic and sedimentary history. Miocene-age volcanic rocks and rhyolitic deposits have weathered to expose colorful jasper bands and agate nodules in exposed washes and hillside outcrops. The altitude here ranges from 8,400 to 9,000 feet, giving the area cooler temperatures and reliable spring/summer conditions for collecting.\n\nExpect to find banded agates, red and brown jasper fragments, and clear to milky quartz specimens in washes and along rocky slopes. The collecting can range from easy surface gathering to moderate scrambling on unstable talus slopes. Most productive areas are within short walking distance of parking and access roads.\n\nThis is a family-friendly site with established access via the Fish Lake scenic loop road. The combination of scenic views, reliable gem deposits, and free public access makes it a solid choice for weekend collectors. Summer is peak season here due to snow closure of the high pass road in winter months.",
+  "history": "Fish Lake sits within the Colorado Plateau volcanic field where Miocene-age volcanic eruptions deposited rhyolitic lavas and welded tuffs across the landscape. Subsequent weathering and hydrothermal circulation over millions of years created the agate-bearing deposits and jasper formations found throughout the region today.",
+  "tips": "Focus your search in washes and arroyos where water erosion has concentrated heavier gemstones and exposed fresh material from surrounding hillsides. Look for colorful red, brown, and tan bands in rock outcrops along the roadside and in dry creek beds. Bring a small hammer and chisel to extract partially exposed specimens from host rock, and scan the ground carefully around areas where quartz veins intersect with darker host rock for the best specimens.",
+  "terrain_notes": "High-elevation terrain ranging from 8,400 to 9,000 feet elevation with mixed sagebrush and conifer vegetation. Terrain is uneven with rocky hillsides, loose talus slopes, and several seasonal washes. Most productive collecting areas require short to moderate walks from parking areas, typically 0.25 to 1 mile. Footing is rocky and uneven; sturdy hiking boots are essential. Exposed ridges can be windy and exposed to weather changes.",
+  "best_season": "June - September. The high elevation causes heavy snow closure of the main Fish Lake access road from November through May. Summer and early fall offer optimal weather, dry ground conditions, and full road access. Spring snowmelt can make washes dangerous and muddy.",
+  "written_directions": "From Richfield (approximately 30 miles southwest), take US 89 north toward Fish Lake. Continue on scenic Fish Lake Loop Road (Forest Road 035) around the lake. Numerous pullouts and rough BLM access roads branch off from the main loop. Park at any established pullout and walk into the surrounding terrain. The area around the north and east shores of the lake has the most accessible collecting on BLM land.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Fish Lake Loop Road (FS 035) is paved to the main lake area. Secondary BLM access roads are rough gravel and may require high-clearance vehicles after heavy rain. Main loop is passable by standard passenger vehicles during snow-free months.",
+  "parking_notes": "Multiple informal pullouts and turnouts along Fish Lake Loop Road. No formal parking lot at the rockhounding areas themselves. Expect 5-15 vehicle capacity at most pullouts. Peak summer weekends can be busy.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or power tools. Collect only loose material and weathered surface specimens. Do not blast or use explosives. Leave the site as you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo power tools or explosives\nCollect loose material and weathered surface specimens only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "cold",
+    "heat",
+    "wildlife"
+  ],
+  "nearest_services": "Richfield, approximately 30 miles southwest, has gas, food, and lodging. Fish Lake Resort (seasonal) is closer with limited services.",
+  "accessibility_notes": "Moderate difficulty terrain with uneven rocky slopes and loose talus. No wheelchair access to collecting areas. Most productive sites require short walks over rocky ground. Sturdy hiking boots essential. Hillsides near parking are steep in places. Not recommended for those with significant mobility limitations, though some gathering is possible at roadside pullouts.",
+  "alternative_names": [],
+  "nearest_city": "Richfield",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/fish-lake-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Fish Lake, Utah?",
+      "answer": "Fish Lake BLM land is known for agate, jasper, chalcedony, and quartz specimens. You'll find colorful banded agates in red, brown, and tan hues, plus red and brown jasper fragments in washes and along hillside outcrops. Most specimens are small to medium sized and suitable for both beginners and experienced collectors."
+    },
+    {
+      "question": "Is there a fee or permit required to rockhound at Fish Lake?",
+      "answer": "No fee or permit is required for personal use rockhounding at Fish Lake. It is BLM public land open to recreational collecting under FLPMA regulations. You do not need to register or apply in advance. Simply follow the 25 lb per day collection limit and personal use only rules."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Fish Lake, Utah?",
+      "answer": "The best season is June through September. Fish Lake sits at 8,400-9,000 feet elevation and the main access road is closed by heavy snow from November through May. Summer offers dry conditions, stable weather, and full road access for exploring the best collecting areas."
+    },
+    {
+      "question": "How far is Fish Lake from Richfield, and what are the driving directions?",
+      "answer": "Fish Lake is approximately 30 miles north of Richfield. Take US 89 north from Richfield toward Fish Lake, then follow the scenic Fish Lake Loop Road (FS 035) around the lake. Multiple pullouts and BLM access roads branch off the main loop where you can park and walk to collecting areas on public land."
+    },
+    {
+      "question": "Is Fish Lake a good rockhounding spot for families and beginners?",
+      "answer": "Yes, Fish Lake is beginner-friendly and family-suitable. Surface collecting is easy along roadside pullouts and in accessible washes. The terrain is moderate with some steep areas, making it ideal for ages 8 and up. No special equipment or experience is needed to find agates and jasper. Dogs are also welcome on BLM land."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Fish Lake?",
+      "answer": "Bring a small hammer and cold chisel to extract partially exposed specimens from host rock. Sturdy hiking boots are essential for the rocky, uneven terrain. A backpack, water bottle, and sun protection are recommended for the high elevation. A hand lens is helpful for examining quartz deposits and banded patterns in agates. Start with basic hand tools for surface collecting."
+    }
+  ],
+  "meta_title": "Fish Lake Rockhounding - Utah",
+  "meta_description": "Find agate, jasper, and quartz at Fish Lake BLM land near Richfield. Free public collecting, no permit needed. Best June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Colorado Plateau geology and regional agate/jasper deposits)",
+    "written_directions (specific road names inferred from Fish Lake area access)",
+    "nearest_city (Richfield is closest major town; Sevier is county seat but smaller)",
+    "cell_service (spotty - typical for high elevation Utah BLM area; not verified for exact location)",
+    "remoteness_rating (3/5 - accessible by vehicle but in high country; estimated based on distance and terrain)"
+  ],
+  "enriched_at": "2026-04-22T06:53:00.467Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:00:48.805Z"
+}

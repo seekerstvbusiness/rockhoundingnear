@@ -1,0 +1,57 @@
+{
+  "slug": "redding-ct",
+  "name": "Redding",
+  "lat": 41.305406,
+  "lng": -73.404788,
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "state_code": "CT",
+  "city": "Redding",
+  "city_slug": "redding",
+  "county": "Western Connecticut Planning Region",
+  "county_slug": "western-connecticut-planning-region",
+  "geocoded_city": "Redding",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-connecticut.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Redding%20Connecticut"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Redding",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Redding%20Connecticut"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:09:28.221Z"
+  },
+  "scraped_at": "2026-04-21T18:09:28.221Z",
+  "scrape_quality": "minimal"
+}

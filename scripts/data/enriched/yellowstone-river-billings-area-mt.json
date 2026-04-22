@@ -1,0 +1,100 @@
+{
+  "slug": "yellowstone-river-billings-area-mt",
+  "name": "Yellowstone River (Billings area)",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Huntley",
+  "city_slug": "huntley",
+  "county": "Yellowstone",
+  "county_slug": "yellowstone",
+  "lat": 45.905411,
+  "lng": -108.317354,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Petrified Wood"
+  ],
+  "short_description": "Free public BLM rockhounding along the Yellowstone River near Huntley. Hunt for agates, jasper, and chalcedony in river gravels with no permit required.",
+  "description": "The Yellowstone River drainage in the Billings area offers excellent public rockhounding opportunities on BLM-managed land. This stretch of river has carved through Tertiary volcanic and sedimentary formations, exposing a variety of chalcedony-based gems in the river bottoms and benches. The relatively flat terrain and easy access make this an ideal location for beginners and families looking to collect high-quality specimens without fees or permits.\n\nThe geology here reflects the region's volcanic past. Miocene-age volcanic activity and subsequent hydrothermal circulation deposited silica-rich fluids throughout the rock layers. Over millions of years, weathering and river transport have concentrated agates, jaspers, and other microcrystalline quartz varieties in the gravels and terraces along the Yellowstone River. The river continues to expose fresh material during high-water periods, making this a reliably productive site.\n\nRockhounds typically focus on the river gravels, abandoned channels, and low terraces where heavier gem material settles. The exposed benches above the current water level often yield the best specimens, as they represent older deposits that have been naturally concentrated and sorted. Spring runoff typically brings fresh material to the surface, making May through June particularly productive.\n\nThis location is ideal for day trips from Billings and the surrounding communities. The open BLM land allows you to explore multiple areas along the river, and the low elevation and flat terrain make collecting comfortable during most of the year. Always check local conditions and respect any seasonal closures related to wildlife management or river access.",
+  "history": "The Yellowstone River has shaped this landscape for millions of years, carving through Tertiary volcanic and sedimentary sequences deposited during intense Miocene magmatism in the Northern Rocky Mountains. The river's continued erosion exposes agates, jaspers, and chalcedony that formed in ancient volcanic rocks and hydrothermal deposits, concentrating gem material in modern gravel bars and terraces that rockhounds access today.",
+  "tips": "Focus on the low terraces and abandoned river channels where heavy gem material naturally settles - these areas yield better specimens than actively moving gravel in the current channel. Look for translucent or banded agate and jasper specimens; red, orange, and brown colors are most common here. Bring a 5-gallon bucket to sort through gravels efficiently, and a small shovel to explore beneath the surface layer where gemstones often concentrate. Early morning trips during spring and early summer offer the best conditions and fewer crowds.",
+  "terrain_notes": "Flat to gently rolling terrain at 3006 feet elevation. The Yellowstone River valley here is characterized by open BLM grassland with sparse shrub vegetation. River access involves walking 100 to 500 yards from parking areas across relatively level ground to benches and gravel bars. Footing can be uneven among river rocks, but the terrain is generally walkable for most fitness levels. No maintained trails, so routes are self-directed.",
+  "best_season": "May - September. Spring and early summer (May-June) are optimal as snowmelt brings fresh material to gravel bars and river access is easiest. July and August can be hot but remain productive. By September, water levels drop and more gravel is exposed. Winter access is possible but cold and less comfortable.",
+  "written_directions": "From Huntley, take MT 312 east toward the Yellowstone River for approximately 3 miles. Look for BLM land access points and informal pullouts along the river road. Park at any of the wide shoulders near river-facing benches. Walk down to the river terraces and gravel bars. GPS coordinates 45.905411, -108.317354 mark a central access point; scout multiple areas along the river to find the most productive spots.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and gravel secondary roads with occasional washboard. Passenger vehicles can access most pullouts; high clearance not required in dry conditions.",
+  "parking_notes": "Informal pullouts along river roads throughout the area. No developed parking lot; park at wide shoulders and scenic overlooks. Capacity varies by location but typically accommodates 2-5 vehicles per site.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Respect posted closures and private property boundaries. Pack out all waste.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 pounds per day per FLPMA\nNo commercial collecting\nNo motorized excavation or heavy equipment\nRespect seasonal closures and wildlife restrictions\nLeave no trace; pack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "cold"
+  ],
+  "nearest_services": "Huntley, Montana, approximately 3 miles. Basic services available; Billings (20 miles west) offers full amenities including gas, food, lodging, and rock shops.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and collectors. Informal trails across grassland to river benches require sturdy footwear due to uneven ground and rocks. No wheelchair access to gem-bearing areas. River terraces can be muddy in spring; plan accordingly.",
+  "alternative_names": [],
+  "nearest_city": "Huntley",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/yellowstone-river-billings-area-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/yellowstone-river-billings-area-mt/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/yellowstone-river-billings-area-mt/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding along the Yellowstone River near Huntley?",
+      "answer": "The Yellowstone River in the Billings area is known for agate, jasper, chalcedony, and occasionally petrified wood. Specimens range from small tumble-grade pieces to higher-quality facet-grade agates. Red, orange, brown, and banded varieties are most common in the river gravels and benches."
+    },
+    {
+      "question": "Do you need a permit to rockhound on BLM land along the Yellowstone River in Montana?",
+      "answer": "No permit is required for recreational rockhounding on this BLM land. You can collect up to 25 pounds per day for personal use at no cost. Commercial collection and motorized excavation are not allowed."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Huntley, Montana?",
+      "answer": "May through September is ideal, with May and June being peak season when spring runoff exposes fresh material on gravel bars. Summer remains productive but can be hot. Fall is good when water levels drop and more gravel surfaces. Winter is possible but uncomfortable."
+    },
+    {
+      "question": "How do you find agates and jasper in river gravel beds?",
+      "answer": "Focus on low terraces and abandoned river channels where heavier gemstones naturally settle. Look for translucent banding or solid color in brown, red, and orange hues. Bring a shovel to probe beneath the surface layer and a 5-gallon bucket to sort gravels efficiently. Early morning gives you more time and fewer crowds."
+    },
+    {
+      "question": "Is the Yellowstone River rockhounding site beginner-friendly and family-safe?",
+      "answer": "Yes, this is an excellent beginner and family destination. The flat terrain, easy access, and no-permit requirement make it ideal for children ages 6 and up. Bring sturdy footwear for uneven rocks and dress for temperature swings. Dogs are welcome on public BLM land."
+    },
+    {
+      "question": "How far is the Yellowstone River rockhounding area from Billings, and what tools do you need?",
+      "answer": "The site is about 20 miles east of Billings, near Huntley (3 miles). Bring a small shovel or rock pick, a 5-gallon bucket for sorting, a hand lens to inspect specimens, and a collection bag. Sturdy boots, sun protection, and water are essential. A GPS unit is helpful for marking productive spots."
+    }
+  ],
+  "meta_title": "Yellowstone River Rockhounding - Huntley, Montana",
+  "meta_description": "Find agate, jasper, and chalcedony along the Yellowstone River near Huntley on free BLM land. No permit required. Perfect for beginners and families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from river geology and regional sources)",
+    "hazards (cold inferred from Montana elevation and season)",
+    "cell_service (spotty inferred from rural location near Huntley)",
+    "best_season (May-September inferred from Northern Rocky Mountain climate)"
+  ],
+  "enriched_at": "2026-04-21T19:07:59.574Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:12:03.380Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "scribner-ledge-quarry-crocker-hill-mines-me",
+  "name": "Scribner Ledge Quarry & Crocker Hill Mines",
+  "lat": 44.2762,
+  "lng": -70.467332,
+  "state": "Maine",
+  "state_slug": "maine",
+  "state_code": "ME",
+  "city": "Paris",
+  "city_slug": "paris",
+  "county": "Oxford",
+  "county_slug": "oxford",
+  "geocoded_city": "Paris",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maine.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Scribner%20Ledge%20Quarry%20%26%20Crocker%20Hill%20Mines%20Maine"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Scribner%20Ledge%20Quarry%20%26%20Crocker%20Hill%20Mines",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Scribner%20Ledge%20Quarry%20%26%20Crocker%20Hill%20Mines%20Maine"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1182,
+      "meters": 360
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:46:05.312Z"
+  },
+  "scraped_at": "2026-04-21T16:46:05.312Z",
+  "scrape_quality": "minimal"
+}

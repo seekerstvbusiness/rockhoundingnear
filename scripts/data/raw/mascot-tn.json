@@ -1,0 +1,60 @@
+{
+  "slug": "mascot-tn",
+  "name": "Mascot",
+  "lat": 36.06531,
+  "lng": -83.734761,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Knox County",
+  "city_slug": "knox-county",
+  "county": "Knox",
+  "county_slug": "knox",
+  "geocoded_city": "Mascot",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mascot%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mascot",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mascot%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 898,
+      "meters": 274
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:30:47.936Z"
+  },
+  "scraped_at": "2026-04-21T18:30:47.936Z",
+  "scrape_quality": "minimal"
+}

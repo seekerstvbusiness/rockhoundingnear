@@ -1,0 +1,96 @@
+{
+  "slug": "three-peaks-ut",
+  "name": "Three Peaks",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Iron County",
+  "city_slug": "iron-county",
+  "county": "Iron",
+  "county_slug": "iron",
+  "lat": 37.782588,
+  "lng": -113.374896,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Public BLM rockhounding site near Cedar City offering agate and jasper specimens in high desert terrain. No permit required for personal use collection.",
+  "description": "Three Peaks is a popular public BLM rockhounding destination in Iron County's high desert landscape, located in the transition zone between the Colorado Plateau and Basin and Range provinces. The site offers accessible collecting for agate, jasper, and chalcedony specimens with minimal regulatory restrictions. The surrounding terrain features typical Mojave Desert vegetation and volcanic geology, with scattered outcrops and wash areas that expose colorful mineral deposits. This location is ideal for both experienced rockhounders and beginners seeking free, open access to quality specimens without the cost of commercial fee dig sites.\n\nThe Three Peaks area benefits from its proximity to Cedar City, making it a convenient day trip for collectors throughout the Southwest. The landscape combines exposed volcanic and sedimentary formations that have weathered into productive collecting zones. Morning or late-afternoon visits provide better lighting for spotting specimens against the red and tan soil. The site experiences relatively light foot traffic compared to more famous Utah locations, allowing collectors to work methodically through promising washes and hillsides.",
+  "history": "This region sits within the Mojave Desert section of the Basin and Range province, where Tertiary volcanic activity and subsequent erosion have exposed layers of rhyolitic tuff and basalt containing silica-rich mineral deposits. The agate and jasper found here formed from silica precipitation in fractures and cavities during ancient hydrothermal processes, with weathering and stream action concentrating specimens in wash gravels over millions of years.",
+  "tips": "Work the drainage washes and streambed areas where water has concentrated lighter specimens; scan the ground in early morning or late afternoon light when shadow contrast makes red and banded agates easier to spot. Carry a 5-gallon bucket and small garden trowel to carefully excavate around larger pieces without damaging specimens. Look for opaque to translucent chunks with visible banding or color variation; the best specimens often show rust-red, orange, or cream coloring and may be partially buried in fine gravel or clay.",
+  "terrain_notes": "Elevation approximately 5,200 feet with gently rolling high desert terrain. Sparse creosote and shadscale vegetation on reddish volcanic soil. Walking distance from parking averages less than 0.5 miles to productive collecting zones. Footing is generally stable but uneven with scattered rocks and slight slope toward natural washes. No significant cliffs or sudden drop-offs in primary collecting areas.",
+  "best_season": "October - April. Daytime temperatures in May through September exceed 85 degrees Fahrenheit, making midday collection uncomfortable. Spring and fall offer ideal conditions with cool mornings and moderate afternoon warmth. Winter is viable but early morning frost possible; dress in layers.",
+  "written_directions": "From Cedar City, take US 91 south approximately 12 miles. Near the community of Paragonah, look for BLM access roads marked with directional signs. Turn east onto the dirt road and follow it approximately 3-4 miles, bearing slightly northeast toward the Three Peaks formation visible on the horizon. Park at designated pullouts along the access road or in natural parking areas near the base of the prominent ridgeline. High-clearance vehicle recommended after rain; passenger car passable in dry conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved dirt road, washboard surface in places. Passable in most weather with standard vehicle. May become slick after precipitation; check conditions before visiting.",
+  "parking_notes": "Informal pullouts and parking areas along the access road near the Three Peaks formation. No established parking lot; space available for 5-10 vehicles at multiple locations. No facilities or amenities on-site.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No digging on private property or in protected areas. Pack out all trash. Stay on established roads where possible. Report any abandoned mine hazards to the local BLM field office.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation\nNo digging on private property\nPack out all trash\nStay on established roads",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Cedar City - 15 miles north. Full services including gas, restaurants, groceries, and lodging. Paragonah has limited services.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most fitness levels. Unpaved road to parking area passable in standard vehicles. Walking distances short, typically under 0.5 miles. Uneven but stable ground footing. No wheelchair access to main collecting areas, but nearby road-side locations offer limited collecting with minimal walking.",
+  "alternative_names": [],
+  "nearest_city": "Cedar City",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/three-peaks-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of rocks and gems can I find rockhounding near Three Peaks, Utah?",
+      "answer": "Three Peaks is known for agate, jasper, quartz, and chalcedony specimens. The agate found here often displays banding in rust-red, orange, and cream colors. Jasper pieces typically show opaque coloring with mixed tones. Most specimens are small to palm-sized, with occasional larger pieces in productive wash areas."
+    },
+    {
+      "question": "Do I need a permit to go rockhounding at Three Peaks?",
+      "answer": "No permit is required. Three Peaks is on public BLM land where recreational rockhounding is allowed under FLPMA personal use guidelines. You may collect up to 25 pounds per day at no cost, with no application or permission needed in advance."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Three Peaks near Cedar City?",
+      "answer": "October through April offers the most comfortable collecting conditions. Daytime temperatures range from 50 to 70 degrees Fahrenheit, and visibility is excellent. Avoid May through September when temperatures regularly exceed 85 degrees. Winter is viable but dress for cool mornings."
+    },
+    {
+      "question": "How far is Three Peaks rockhounding site from Cedar City, and what vehicle do I need?",
+      "answer": "Three Peaks is approximately 15 miles south of Cedar City via US 91. A standard passenger car can reach the site on the unpaved access road in dry conditions, though high-clearance vehicles are safer after rain. The drive takes about 20-25 minutes from Cedar City."
+    },
+    {
+      "question": "Can I bring my family and kids to rockhound at Three Peaks?",
+      "answer": "Yes, Three Peaks is highly family-friendly and beginner-suitable. The terrain is easy to moderate with short walking distances, making it appropriate for children as young as six. Bring plenty of water, sunscreen, and hats. Dogs are welcome on-site."
+    },
+    {
+      "question": "What tools and equipment should I bring for rockhounding at Three Peaks?",
+      "answer": "Bring a small trowel or rock pick for excavating around specimens, a 5-gallon bucket for carrying finds, magnifying glass to inspect banding and quality, sturdy work gloves, and a padded collection bag. Wear hiking boots or sturdy shoes, bring 2-3 liters of water, sunscreen, and a wide-brimmed hat. A headlamp is useful for checking washes and crevices."
+    }
+  ],
+  "meta_title": "Three Peaks Rockhounding - Utah Agate & Jasper",
+  "meta_description": "Find agate, jasper, and quartz at Three Peaks near Cedar City. Free BLM rockhounding, no permit needed. 25 lb daily limit. Easy terrain for families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "terrain_notes",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T06:50:28.410Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:56:52.339Z"
+}

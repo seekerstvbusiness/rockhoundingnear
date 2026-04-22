@@ -1,0 +1,100 @@
+{
+  "slug": "bonanza-opal-mines-nv",
+  "name": "Bonanza Opal Mines",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Gerlach",
+  "city_slug": "gerlach",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "lat": 41.84678826,
+  "lng": -119.0065158,
+  "gem_types": [
+    "Opal",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Public BLM rockhounding for fire opals and common opal on open desert terrain near the Black Rock Desert. Free collecting with no permit required, up to 25 lbs per day.",
+  "description": "Bonanza Opal Mines is a productive BLM public collecting area in northwestern Nevada's high desert where fire opals and common opals can be found in weathered volcanic horizons. This remote location sits in Humboldt County near the edge of the Black Rock Desert playa, an expansive alkaline basin formed during the Basin and Range extension period. The area has a long history of small-scale opal mining and rockhounding, with numerous surface diggings and weathered outcrops exposing precious and common opal in silica-rich volcanic deposits. Collectors typically work scattered claims and natural eroding banks along wash systems, where opal nodules weather out of host rock. The terrain is typical high desert - sparse sagebrush, volcanic rocks, and sandy soil with good visibility for spotting material. Water, shade, and services are minimal, making preparation essential. This is an excellent destination for patient rockhounders willing to hike rough terrain and invest time in careful surface collecting.\n\nThe opal deposits here formed during Miocene-era hydrothermal activity when silica-rich fluids circulated through fractured volcanic rocks, precipitating precious and common opal in cavities and along fractures. Ground-source heat from geothermal areas may have contributed to secondary silica enrichment in surface zones. The host rocks are primarily rhyolite and basalt flows typical of the Modoc Plateau volcanic field that extends into northwestern Nevada. Weathering over millions of years has exposed these opal-bearing horizons and created the loose nodules and fragments collectors find today.\n\nExpect to work washes, hillsides with visible volcanic outcrops, and weathered banks where erosion naturally exposes fresh material. Fire opals appear as bright red-orange translucent stones, while common opals range from white to milky blue-gray. Most pieces are small (pea to marble-sized), though larger specimen-quality pieces are occasionally found. The area requires high-clearance or 4x4 vehicle access via rough desert roads, and there is no guarantee of cell service. Bring ample water (at least 2 gallons per person), sun protection, and tools for careful surface work.\n\nThis location is best visited October through April when daytime temperatures are moderate and heat stress is minimized. Summer temperatures can exceed 100F in this open desert. Roads are generally passable year-round, but spring runoff and occasional winter snow can make access difficult. Early morning visits extend your collecting window and allow retreat before afternoon heat.",
+  "history": "The Bonanza area sits within the Modoc Plateau volcanic field, where Miocene rhyolitic and basaltic eruptions (approximately 20-12 million years ago) created the host rocks for later opal mineralization. Subsequent hydrothermal circulation during regional extension deposited silica-rich fluids into fractures, forming both precious fire opals and common opals characteristic of volcanic opal deposits in the Great Basin. Small-scale mining and rockhounding claims have worked this area since at least the mid-20th century, with persistent surface collecting supporting its reputation as a reliable opal source.",
+  "tips": "Focus on eroded washes and natural bank exposures where water and gravity have already done the work of exposing loose nodules - these are your highest-probability areas. Bring a small geologist's hammer and chisel to carefully extract partially exposed pieces from weathered banks without shattering them. Look for translucent red-orange fire opal fragments and milky chalcedony-rich nodules; most pieces are small, so patience and systematic visual scanning of the ground surface is more productive than digging. Work early morning in cooler months to maximize ground time, and mark your vehicle location clearly since the terrain is featureless desert and disorientation is a real risk.",
+  "terrain_notes": "Open high desert terrain at approximately 3,900-4,200 feet elevation with sparse sagebrush, volcanic rock outcrops, and sandy washes. Footing is uneven with scattered sharp volcanic rocks, loose gravel, and scattered opal fragments. Hiking distances from parking to productive areas are typically 0.5 to 2 miles over gentle slopes and wash systems. Terrain is navigable but requires sturdy footwear and constant awareness of footing. No shade available; sun exposure is intense. Elevation is high enough to make heat less extreme than lower desert areas, but sun reflection off light-colored volcanic rocks increases burn risk.",
+  "best_season": "October - April. Daytime temperatures are moderate (50-70F), nighttime temperatures drop to 20-40F. Avoid May through September when daytime highs exceed 90-100F and heat-related illness risk is significant in this open, shadeless terrain. Winter access is generally possible but occasional snow may require high-clearance vehicles. Early morning starts (6-8 AM) are strongly recommended year-round to maximize comfortable collecting hours.",
+  "written_directions": "From Gerlach, Nevada, take Nevada Highway 34 east toward the Black Rock Desert for approximately 15 miles. Turn north onto BLM Road (County Road 447 or similar desert road - exact route varies; use GPS for current access points). Drive approximately 5-8 miles on dirt/gravel road with potential washboard and rocks; passenger vehicle access is marginal; high-clearance or 4x4 is strongly recommended. Look for informal pullouts and dispersed camping areas marked by fire rings and tire tracks. Park in designated pullouts or safe side areas away from active wash channels. From parking, walk north or east toward exposed volcanic outcrops and eroded washes where opal-bearing material is visible.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough dirt and gravel BLM roads with washboard, rocks, and potential deep ruts. High-clearance essential; 4x4 recommended. Routes vary seasonally based on washout and maintenance. Always carry water, spare tire, and recovery gear.",
+  "parking_notes": "Informal dispersed parking at pullouts and camps throughout the area. No developed lot. Capacity is unlimited but sites fill with other rockhounders on good-weather weekends. Park in marked pullouts away from washes to avoid flash flood risk. No amenities (no toilet, water, or facilities).",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or sale of material. No motorized excavation or power tools. Hand tools (hammer, chisel, pick) only. Do not disturb or enter abandoned mine workings. Pack out all trash. Leave gates as found. Respect other claimholders' marked claims.",
+  "quantity_limits": "25 lbs per day per FLPMA",
+  "rules": "Personal use only - no commercial collection\n25 lbs maximum per day per FLPMA\nHand tools only - no motorized equipment\nNo entry into abandoned mines\nPack out all trash\nLeave gates as found\nRespect posted mining claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "loose_rock",
+    "abandoned_mines"
+  ],
+  "nearest_services": "Gerlach, Nevada (approximately 15-20 miles south) has gas, limited food, and water. Stock all supplies before leaving town. McDermitt, Oregon (approximately 60 miles northeast) offers additional services. Plan for full self-sufficiency once in the field.",
+  "accessibility_notes": "Moderate difficulty terrain requiring high-clearance or 4x4 vehicle and 0.5-2 mile hikes over uneven, rocky ground. Scattered sharp volcanic rocks and loose footing throughout. No wheelchair access. Sturdy boots and trekking poles strongly recommended. Not suitable for visitors with limited mobility, young children, or those unaccustomed to remote desert hiking. Open, shadeless, and exposed to intense sun - heat stress is a significant risk even in cooler months.",
+  "alternative_names": [
+    "Bonanza Opal Field"
+  ],
+  "nearest_city": "Gerlach",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/bonanza-opal-mines-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/bonanza-opal-mines-nv/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What kind of opal can you find at Bonanza Opal Mines in Nevada?",
+      "answer": "Bonanza Opal Mines is known for fire opals - translucent red-orange stones that display brilliant color in sunlight - and common opals in white, milky, and blue-gray tones. Most pieces are small (pea to marble-sized), though patient searching occasionally yields specimen-quality material. Pieces typically form nodules in weathered volcanic banks and wash exposures."
+    },
+    {
+      "question": "Is rockhounding at Bonanza Opal Mines free, and do you need a permit?",
+      "answer": "Yes, collecting at Bonanza Opal Mines is completely free and requires no permit. This is public BLM land where personal-use rockhounding is allowed under FLPMA rules. You are limited to 25 lbs per day and must use hand tools only - no motorized equipment or commercial collection is permitted."
+    },
+    {
+      "question": "How do you get to Bonanza Opal Mines from Gerlach, Nevada?",
+      "answer": "From Gerlach, take Nevada Highway 34 east toward the Black Rock Desert for 15 miles, then turn north onto rough BLM dirt roads for another 5-8 miles. High-clearance or 4x4 vehicles are strongly recommended, as the roads are washboarded, rocky, and subject to seasonal washouts. Use GPS for current route confirmation, as roads shift seasonally."
+    },
+    {
+      "question": "When is the best season to rockhound at Bonanza Opal Mines?",
+      "answer": "October through April is optimal, when daytime temperatures range from 50-70F and the remote desert location is safe to explore. Avoid May through September when temperatures exceed 90-100F with no shade available - heat stress is a serious risk. Start collecting early morning (6-8 AM) year-round to maximize comfortable hours."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding at Bonanza Opal Mines?",
+      "answer": "Bring a small geologist's hammer, chisel, and hand pick for surface work and extracting exposed pieces from banks. Essential supplies include 2+ gallons of water per person, sun protection (hat, sunscreen, long sleeves), sturdy hiking boots, and a basic first-aid kit. A GPS device is highly recommended since the area is featureless desert with no landmarks."
+    },
+    {
+      "question": "Is Bonanza Opal Mines a good beginner rockhounding spot in Nevada?",
+      "answer": "Yes, Bonanza Opal Mines is excellent for beginners with moderate desert experience. Surface collecting requires patience rather than advanced skills, and opal fragments are visible on exposed banks. However, the remote location (4+ hours from major towns), lack of cell service, intense heat in summer, and rough road access mean you must come prepared with water, navigation tools, and a reliable vehicle."
+    }
+  ],
+  "meta_title": "Bonanza Opal Mines Rockhounding - Nevada",
+  "meta_description": "Find fire opals and common opal at free BLM rockhounding near Gerlach, Nevada. No permit required, 25 lbs/day limit. High-clearance vehicle essential.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - specific BLM road numbers not confirmed from terrain data; route verified via GPS coordinates only",
+    "nearest_city_distance - estimated based on GPS coordinates; confirm via mapping",
+    "remoteness_rating - assessed from 4x4 vehicle requirement and cell service absence"
+  ],
+  "enriched_at": "2026-04-22T06:45:24.245Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:55.924Z"
+}

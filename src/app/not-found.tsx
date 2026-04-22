@@ -39,7 +39,7 @@ export default function NotFound() {
         <div className="border-t border-border pt-8">
           <p className="text-xs text-muted-foreground uppercase tracking-widest mb-4">Or explore by</p>
           <div className="flex flex-wrap justify-center gap-2">
-            <Link href="/states" className="inline-flex items-center gap-1.5 text-sm text-foreground border border-border rounded-full px-3.5 py-1.5 hover:border-ruby-300 hover:bg-ruby-50 hover:text-primary transition-all">
+            <Link href="/locations" className="inline-flex items-center gap-1.5 text-sm text-foreground border border-border rounded-full px-3.5 py-1.5 hover:border-ruby-300 hover:bg-ruby-50 hover:text-primary transition-all">
               <Mountain className="w-3.5 h-3.5 text-ruby-300" />
               Browse by State
             </Link>

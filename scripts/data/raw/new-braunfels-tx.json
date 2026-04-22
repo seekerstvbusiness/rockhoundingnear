@@ -1,0 +1,60 @@
+{
+  "slug": "new-braunfels-tx",
+  "name": "New Braunfels",
+  "lat": 29.728566,
+  "lng": -98.108819,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "New Braunfels",
+  "city_slug": "new-braunfels",
+  "county": "Comal",
+  "county_slug": "comal",
+  "geocoded_city": "New Braunfels",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=New%20Braunfels%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=New%20Braunfels",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=New%20Braunfels%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 596,
+      "meters": 182
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:46:08.192Z"
+  },
+  "scraped_at": "2026-04-21T18:46:08.192Z",
+  "scrape_quality": "minimal"
+}

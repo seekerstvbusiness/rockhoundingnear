@@ -1,0 +1,60 @@
+{
+  "slug": "bemis-stream-prospect-me",
+  "name": "Bemis Stream Prospect",
+  "lat": 44.824144,
+  "lng": -70.716848,
+  "state": "Maine",
+  "state_slug": "maine",
+  "state_code": "ME",
+  "city": "Township D",
+  "city_slug": "township-d",
+  "county": "Franklin",
+  "county_slug": "franklin",
+  "geocoded_city": "Township D",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maine.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bemis%20Stream%20Prospect%20Maine"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bemis%20Stream%20Prospect",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bemis%20Stream%20Prospect%20Maine"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1659,
+      "meters": 506
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:45:32.835Z"
+  },
+  "scraped_at": "2026-04-21T16:45:32.835Z",
+  "scrape_quality": "minimal"
+}

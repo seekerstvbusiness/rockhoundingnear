@@ -1,0 +1,102 @@
+{
+  "slug": "w-side-of-glass-mountains-tx",
+  "name": "W side of Glass Mountains",
+  "state": "Texas",
+  "state_slug": "texas",
+  "city": "Brewster County Area",
+  "city_slug": "brewster-county",
+  "county": "Brewster",
+  "county_slug": "brewster",
+  "lat": 30.370427,
+  "lng": -103.400201,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Feldspar"
+  ],
+  "short_description": "Explore the west side of the Glass Mountains in remote Brewster County for quartz and chalcedony specimens. This BLM-accessible site offers excellent rockhounding in pristine West Texas desert terr...",
+  "description": "The Glass Mountains west slope is a classic West Texas rockhounding destination located in the Chisos Basin region of Brewster County. This area sits within the Tertiary volcanic province where extensive silica-rich deposits were formed during Cenozoic volcanism and hydrothermal activity. The flat terrain makes access relatively straightforward despite the remote desert setting, and the exposed geological formations provide excellent opportunities to find quartz crystals, chalcedony nodules, and well-formed agate specimens.\n\nThe site is managed as public BLM land, making it open to casual collectors following standard rockhounding regulations. The Glass Mountains themselves are named for the glassy appearance of the abundant quartz and feldspar minerals exposed in the volcanic rock formations. The west-facing slope receives less direct afternoon sun exposure, making it more comfortable for summer collecting, though the desert heat remains a factor year-round.\n\nRockhounders here typically find loose specimens scattered across the surface and in shallow washes rather than requiring significant excavation. The flat topography means you can cover considerable ground without the physical demands of steep climbing. Bring plenty of water and plan for the isolated location - services are well over an hour away. The area offers solitude and uncrowded collecting, a major advantage over more developed sites.",
+  "history": "The Glass Mountains are part of the Big Bend region's Tertiary volcanic belt, where extensive rhyolitic eruptions and subsequent hydrothermal alteration between 30-50 million years ago deposited thick sequences of glassy quartz and feldspar-rich volcanic rocks. This area has been known to mineral collectors for decades as a reliable source of quartz specimens and chalcedony nodules, though the remote location has kept it less developed than other Texas rockhounding destinations.",
+  "tips": "Search along the base of rocky outcrops and in shallow desert washes where weathering naturally concentrates loose specimens - the flat terrain allows you to systematically work across a wide area. Bring a geological hammer to test suspect rocks; true quartz and chalcedony will ring distinctly and often show conchoidal fracture patterns. Look for milky white to clear quartz crystals and banded chalcedony with red, orange, or brown striations - the volcanic context here produces specimens with distinctive coloring. Early morning collecting before the desert heat peaks will extend your productive time and reduce heat exposure risk.",
+  "terrain_notes": "Flat to gently rolling desert terrain at approximately 4,500 feet elevation dominated by sparse creosote and desert scrub vegetation. Footing is generally stable across compacted desert soil and exposed bedrock, though watch for scattered rocks and shallow erosion channels. Parking areas are typically unpaved pullouts along ranch roads; walking distances from parking to productive collecting zones range from immediate roadside to 1-2 miles cross-country.",
+  "best_season": "October - April. The West Texas desert temperatures soar above 100 degrees Fahrenheit from May through September, making summer collecting dangerously hot with extreme sun exposure and dehydration risk. Fall and spring offer comfortable 70-85 degree conditions ideal for full-day collecting sessions.",
+  "written_directions": "From Marathon, take US 385 south approximately 35 miles toward Study Butte. Continue south on US 385 for another 15 miles past Study Butte. Turn west onto Ranch Road 170 and drive approximately 10 miles toward the Glass Mountains. Look for unsigned pullouts on the west side of the mountain ridge line. GPS navigation is essential as official signage is minimal; use coordinates 30.370427, -103.400201 to locate the primary collecting area on the western slope.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Ranch Road 170 is unpaved with washboard surface and some ruts; high-clearance vehicle recommended but standard passenger cars have accessed this area during dry conditions. Road quality varies seasonally with winter rains creating temporary wash crossings.",
+  "parking_notes": "Scattered unpaved pullouts along Ranch Road 170 on the western flank. No developed parking lot; pull well off the road to avoid blocking access. Capacity varies from 2-4 vehicles per pullout.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or powered equipment. Remove only loose or surface specimens; do not dig into bedrock or outcrops. Pack out all trash. Respect any active ranch operations or posted private property boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo powered equipment\nRemove loose specimens only\nNo bedrock extraction\nPack out all trash\nRespect private property markers",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Marathon, Texas approximately 50 miles north. Limited gas, food, and lodging available. Study Butte has minimal services 25 miles away.",
+  "accessibility_notes": "Flat desert terrain with stable footing suitable for most fitness levels. No steep slopes or technical terrain. Accessible to families with children and moderate mobility. Bring high SPF sunscreen, wide-brimmed hat, and 1-2 gallons water per person. Unpaved road to parking may be problematic for low-clearance vehicles.",
+  "alternative_names": [
+    "Glass Mountains West Slope",
+    "Chisos Basin Quartz Fields"
+  ],
+  "nearest_city": "Marathon",
+  "nearest_city_distance": 50,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/texas/w-side-of-glass-mountains-tx/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of quartz and gemstones can I find on the west side of Glass Mountains in Texas?",
+      "answer": "The Glass Mountains west slope produces excellent quartz crystals, chalcedony nodules, agate specimens, and feldspar. Most collectors find milky white to clear quartz and banded chalcedony with distinctive red, orange, and brown striations characteristic of the area's Tertiary volcanic formations. Specimens are typically small to medium-sized and found loose on the surface."
+    },
+    {
+      "question": "Is rockhounding free at Glass Mountains west side or do I need to pay a fee?",
+      "answer": "Rockhounding is completely free at the Glass Mountains west side. The site is BLM public land open to personal collection with no fees. You will need a vehicle capable of handling unpaved ranch roads, and should plan for the 50-mile drive from Marathon as the nearest town with services."
+    },
+    {
+      "question": "What is the best season for rockhounding at Glass Mountains west slope near Brewster County?",
+      "answer": "October through April is ideal. Summer temperatures exceed 100 degrees Fahrenheit making daytime collecting dangerous. Fall and spring offer comfortable 70-85 degree conditions perfect for full-day expeditions. Winter rarely produces snow or ice in this region, though occasional freeze-thaw cycles can expose fresh specimens."
+    },
+    {
+      "question": "How do I find the Glass Mountains west side rockhounding site and what driving directions apply?",
+      "answer": "From Marathon, drive south 35 miles on US 385 toward Study Butte, then continue another 15 miles past Study Butte. Turn west onto Ranch Road 170 for approximately 10 miles. Look for unpaved pullouts on the west mountainside at coordinates 30.370427, -103.400201. GPS is essential as signage is minimal."
+    },
+    {
+      "question": "Can beginners and families find good specimens at Glass Mountains west side rockhounding site?",
+      "answer": "Yes, this is an excellent beginner location. The flat terrain requires no technical hiking, specimens are visible on the surface, and no specialized tools are needed to collect samples. Families with children ages 6 and older enjoy success here. The main challenges are the remote location and intense desert heat, which you manage by bringing water and visiting October through April."
+    },
+    {
+      "question": "What tools, supplies, and preparation do I need for rockhounding at Glass Mountains west Texas location?",
+      "answer": "Bring 1-2 gallons of water per person, high SPF sunscreen, wide-brimmed hat, sturdy hiking boots, and a small geological hammer to test specimens. A backpack with padding protects your finds during the walk back to the car. The unpaved ranch road access requires a high-clearance vehicle or SUV. GPS navigation is critical in this remote area with minimal signage."
+    }
+  ],
+  "meta_title": "Glass Mountains West Rockhounding - Texas",
+  "meta_description": "Find quartz, chalcedony, and agate at Glass Mountains west side, Brewster County. Free BLM rockhounding near Marathon, Texas.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "road_conditions",
+    "parking_notes",
+    "written_directions",
+    "nearest_city",
+    "nearest_city_distance",
+    "terrain_notes"
+  ],
+  "enriched_at": "2026-04-21T18:51:26.584Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:53:24.866Z"
+}

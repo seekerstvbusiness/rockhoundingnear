@@ -1,0 +1,98 @@
+{
+  "slug": "sugarloaf-mt-or",
+  "name": "Sugarloaf Mt.",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Curry County Area",
+  "city_slug": "curry-county",
+  "county": "Curry",
+  "county_slug": "curry",
+  "lat": 42.837498,
+  "lng": -124.240163,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public land in coastal Curry County offering steep terrain rockhounding for agate, jasper, and chalcedony. Free personal-use collecting with no permit required.",
+  "description": "Sugarloaf Mt. sits on Oregon BLM land in the rugged Curry County coastal region, an area known for its productive agate and jasper deposits. The steep terrain and coastal proximity create excellent conditions for discovering chalcedony nodules and banded agates weathered from ancient volcanic and sedimentary formations. This is a true public rockhounding opportunity with no fees or permits required - just the Bureau of Land Management's standard personal-use rules. The surrounding landscape reflects the Pacific Northwest's dramatic geology, with exposed ridges and washes that concentrate mineral specimens. Expect challenging terrain but rewarding finds for those willing to explore the hillsides and gullies.",
+  "history": "This region lies within the Klamath-Siskiyou geological zone where Tertiary-age volcanic activity and marine sedimentary deposits created widespread chalcedony and agate formations. The steep coastal terrain here has been naturally exposed through millions of years of erosion and uplift, making surface specimens accessible to rockhounders today.",
+  "tips": "Search the steep hillside washes and gullies where erosion concentrates heavier mineral material. Look for banded agate specimens in shades of white, gray, and rust - they often appear at the surface after winter rains loosen them from unstable slopes. Bring a sturdy rock hammer and chisel to extract specimens from matrix, and wear heavy gloves and boots for protection on sharp, loose rock. Check morning light on south-facing slopes where light-colored specimens show clearly against darker soil.",
+  "terrain_notes": "Steep, exposed hillside terrain at elevation approximately 1,800 feet. Uneven rocky footing with loose rock and significant slope. Dense coastal vegetation in places. Walking distance from parking varies; expect moderate to strenuous hiking depending on which drainages you explore. No established trails - route-finding required.",
+  "best_season": "April - October",
+  "written_directions": "From Gold Beach, take US 101 south approximately 8 miles. Look for BLM public land markers and pullouts on the east side of US 101 near the Sugarloaf Mt. area. Park at any legal pullout along the highway and hike upslope east into the exposed hillside terrain. Consult a BLM map of Curry County for exact access points, as parking is informal.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "hiking",
+  "road_conditions": "US 101 is fully paved. Access to collection areas requires hiking off-road.",
+  "parking_notes": "Informal pullouts along US 101. No developed parking facility. Parking limited to roadside shoulders and occasional gravel turnouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. All collection must comply with BLM regulations for this specific area.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo mechanized digging equipment",
+  "beginner_friendly": true,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cliffs",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Gold Beach, approximately 8 miles north - has gas, food, water, and supplies",
+  "accessibility_notes": "Steep, uneven hillside terrain with loose rock and no established trails. Significant slope and unstable footing make this unsuitable for anyone with limited mobility. Sturdy hiking boots and careful route-finding essential. Not wheelchair accessible.",
+  "alternative_names": [],
+  "nearest_city": "Gold Beach",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/sugarloaf-mt-or/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can you find rockhounding at Sugarloaf Mt. in Oregon?",
+      "answer": "Sugarloaf Mt. on BLM land in Curry County is known for agate, jasper, chalcedony, and quartz specimens. The banded agates are particularly prized, often found in white, gray, and rust tones. Chalcedony nodules weathered from hillside slopes are common surface finds."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Sugarloaf Mt., Oregon?",
+      "answer": "No permit is required at Sugarloaf Mt. This is public BLM land where personal-use collecting is allowed without permits or fees. You must follow the 25 lb per day limit and the standard FLPMA regulations for public lands."
+    },
+    {
+      "question": "Is Sugarloaf Mt. rockhounding suitable for beginners?",
+      "answer": "Yes, beginners can successfully collect at Sugarloaf Mt., though the steep terrain requires moderate hiking fitness. Start with surface specimens visible on exposed hillside slopes before attempting to extract material from matrix with hand tools."
+    },
+    {
+      "question": "What is the best time to visit Sugarloaf Mt. for rockhounding near Gold Beach?",
+      "answer": "The best rockhounding season at Sugarloaf Mt. is April through October when weather is milder and trails are passable. Spring and early fall offer the best combination of stable weather and post-rain mineral exposure."
+    },
+    {
+      "question": "How do you find agates on the steep terrain at Sugarloaf Mt., Oregon?",
+      "answer": "Focus on washes, gullies, and eroded areas on the exposed hillside where agates naturally concentrate. Look for banded patterns and the characteristic waxy luster of chalcedony specimens. Morning light on south-facing slopes makes lighter-colored agates easier to spot."
+    },
+    {
+      "question": "What tools and safety gear should you bring to Sugarloaf Mt. rockhounding?",
+      "answer": "Bring a sturdy rock hammer, chisel, heavy work gloves, and protective eyewear for extraction work. Wear sturdy hiking boots with ankle support for the steep, loose terrain. A small rucksack for specimens, water, and a BLM map are also recommended."
+    }
+  ],
+  "meta_title": "Sugarloaf Mt. Rockhounding - Oregon",
+  "meta_description": "Free BLM rockhounding for agate, jasper, and chalcedony near Gold Beach, Oregon. No permit required. 25 lb daily limit. Steep terrain.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "parking_notes",
+    "written_directions",
+    "best_season"
+  ],
+  "enriched_at": "2026-04-21T19:25:47.335Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:27:53.904Z"
+}

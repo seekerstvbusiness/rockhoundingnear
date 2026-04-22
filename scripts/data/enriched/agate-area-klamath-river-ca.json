@@ -1,0 +1,99 @@
+{
+  "slug": "agate-area-klamath-river-ca",
+  "name": "Agate Area (Klamath River)",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Yreka",
+  "city_slug": "yreka",
+  "county": "Siskiyou",
+  "county_slug": "siskiyou",
+  "lat": 42.00089,
+  "lng": -122.401752,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "Free BLM rockhounding near the Klamath River where volcanic geology creates excellent agate and chalcedony specimens. Beginner-friendly collecting with scenic river access.",
+  "description": "The Agate Area along the Klamath River in northern California sits within prime rockhounding territory shaped by Cascade Range volcanic activity. This BLM public land offers free personal-use collecting of agates, chalcedony, and jasper without permits, making it ideal for both beginners and experienced collectors. The gentle slopes and river-adjacent terrain provide natural weathering that exposes colorful specimens in washes and along exposed banks.\n\nGeologically, this region experienced significant volcanism during the Miocene and Pliocene epochs. Silica-rich volcanic fluids percolated through fractured basalt and andesite, slowly crystallizing into the agate and chalcedony deposits found here. The Klamath River's continuous erosion naturally exposes fresh material, particularly in spring runoff when banks shift and new surfaces wash clean.\n\nCollecting here typically yields translucent to opaque agates in shades of cream, red, and brown, along with banded chalcedony specimens. The best material concentrates in gravel benches, along the river's edge, and in the weathered slopes above. Most collectors find specimens ranging from thumbnail to fist-sized pieces, with rare exceptional finds possible.\n\nThis location remains popular because access is straightforward, rules are simple, and the geology reliably produces quality specimens. The elevation of 3,247 feet and gentle terrain make it accessible to families and less-experienced rockhounders, though summer heat and river conditions demand preparation.\n\nExpect to spend 2-4 hours collecting, working washes and exposed hillsides methodically. The combination of free access, proven productivity, and scenic river setting makes this a reliable choice for northern California rockhounding trips.",
+  "history": "The Klamath River drainage basin occupies a geologically complex zone where the Cascade volcanic arc meets the Modoc Plateau. Miocene to Pliocene volcanism (roughly 20 to 2 million years ago) deposited extensive basalt and andesite flows with embedded silica deposits. As these volcanic rocks weathered over millions of years, agate and chalcedony nodules were exposed by erosion, and the Klamath River's relentless cutting action continues to expose fresh material today.",
+  "tips": "Search gravel benches and wash bottoms first, where heavier agate specimens settle during high water periods. Look for the telltale banding and translucency visible in sunlight - even partially buried pieces show color when wet. Bring a small classifier or mesh to sift finer gravels, and check behind larger rocks where specimens lodge. Early morning light at the river's edge makes spotting the better color and pattern much easier.",
+  "terrain_notes": "Elevation 3,247 feet with gentle to moderate slopes leading down to the Klamath River. Terrain is primarily rocky with scattered low vegetation, weathered basalt outcrops, and gravel benches. Walking distance from parking to prime collecting areas ranges from 0.25 to 1 mile. Footing is uneven across rocky ground and loose gravel; sturdy footwear and a walking stick help with stability on slopes. River access requires careful footing on wet rocks during high water season.",
+  "best_season": "April - October. Late spring through early fall offers the most reliable weather and river conditions. Summer (June-August) can bring intense heat at this elevation; plan early morning collection. Fall (September-October) provides cooler temperatures and excellent visibility. Avoid November-March when rain and snow increase flash flood risk and make footing treacherous.",
+  "written_directions": "From Yreka, take CA-263 north toward Grenada for approximately 12 miles. Turn east on CA-96 (Klamath River Road) and drive 8-10 miles east following the river. Look for BLM public land signs and informal pullouts along the road near visible river access points. Park in unsigned dirt pullouts and walk toward the river and exposed wash areas. GPS coordinates point to productive areas within a 0.5 mile radius of the main river stretch.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "CA-96 is paved and well-maintained along the Klamath. Pullouts are unpaved dirt with occasional washboard texture. Standard passenger vehicles are adequate; high clearance not required.",
+  "parking_notes": "Informal dirt pullouts along CA-96 throughout this BLM area. No designated parking lot. Capacity varies from 2-6 vehicles per pullout. Most pullouts offer direct or short-walk river access.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or processing equipment. No removal of petrified wood, fossils, or artifacts. Pack out all trash. Respect private property boundaries where BLM land adjoins private holdings.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo removal of petrified wood, fossils, or artifacts\nPack out all trash\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "sharp_material",
+    "flash_floods",
+    "cold"
+  ],
+  "nearest_services": "Yreka has full services (gas, food, lodging, supplies) approximately 20 miles west. Grenada is a small community with basic amenities about 12 miles west.",
+  "accessibility_notes": "Relatively easy access with gentle slopes and short walks to productive areas. Uneven rocky terrain and loose gravel require sturdy footwear and decent balance. No wheelchair accessibility. River access involves uneven and potentially slippery rock surfaces. Older adults and those with mobility limitations may find some areas challenging but manageable with rest stops.",
+  "alternative_names": [
+    "Klamath River Agate",
+    "Lower Klamath Agate Area"
+  ],
+  "nearest_city": "Yreka",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/agate-area-klamath-river-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates can I find at the Klamath River Agate Area?",
+      "answer": "This location yields banded agates, fire agates with red and brown coloring, and translucent chalcedony specimens. Most finds range from thumbnail to fist-sized, with colors typically cream, tan, red, and brown. The river's continuous erosion constantly exposes fresh material, so quality and variety improve with thorough searching along gravel benches and wash bottoms."
+    },
+    {
+      "question": "Is rockhounding free at the Klamath River Agate Area in Siskiyou County?",
+      "answer": "Yes, this BLM public land allows free personal-use rockhounding with no permit required. You are limited to collecting 25 lbs per day per FLPMA regulations. No fees, no commercial collection, and no motorized excavation are permitted. This makes it an excellent budget-friendly rockhounding destination."
+    },
+    {
+      "question": "When is the best time of year to find agates at the Klamath River?",
+      "answer": "April through October is ideal, with late spring and early fall offering the best combination of weather and accessibility. Spring runoff exposes fresh material along banks, while summer heat can be intense at 3,247 feet elevation. Fall provides cooler temperatures and clear visibility. Avoid November through March when rain and snow increase flood risk."
+    },
+    {
+      "question": "How do I get to the Agate Area from Yreka?",
+      "answer": "From Yreka, take CA-263 north for 12 miles toward Grenada, then turn east on CA-96 (Klamath River Road) for 8-10 miles. Look for BLM signs and informal dirt pullouts along the river. The route follows the scenic Klamath River and is accessible by standard passenger vehicles on paved highways."
+    },
+    {
+      "question": "Is the Klamath River Agate Area good for beginner rockhounders and families?",
+      "answer": "Absolutely. The gentle terrain, easy road access, and reliable agate deposits make this ideal for beginners and children ages 6 and up. The short walks to productive areas mean families can collect without extensive hiking. Free access and simple rules add to the appeal for first-time rockhounding trips."
+    },
+    {
+      "question": "What tools and supplies should I bring to find agates at the Klamath River?",
+      "answer": "Bring sturdy hiking boots, a small classifier or mesh screen to sift fine gravel, a lightweight hammer for careful specimen extraction, and a collection bag. A walking stick helps on uneven terrain. Pack plenty of water, sun protection, and a headlamp for early-morning collecting. Leave no trace by packing out all trash."
+    }
+  ],
+  "meta_title": "Agate Area Klamath River - California Rockhounding",
+  "meta_description": "Find free agates and chalcedony on BLM land near the Klamath River in Siskiyou County, California. No permit needed, 25 lb daily limit. Beginner-friendly rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated at 20 miles based on Yreka location)",
+    "written_directions (constructed from typical CA-96 access patterns - specific pullout names unknown)",
+    "cell_service (spotty estimated for rural Siskiyou County - not confirmed)",
+    "remoteness_rating (estimated at 3 based on road access and river proximity)"
+  ],
+  "enriched_at": "2026-04-21T19:31:19.852Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:34:05.482Z"
+}

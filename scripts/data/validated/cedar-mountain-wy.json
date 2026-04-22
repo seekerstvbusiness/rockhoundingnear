@@ -1,0 +1,99 @@
+{
+  "slug": "cedar-mountain-wy",
+  "name": "Cedar Mountain",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Cody",
+  "city_slug": "cody",
+  "county": "Park",
+  "county_slug": "park",
+  "lat": 44.489678,
+  "lng": -109.126296,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land rockhounding site near Cody offering agate and jasper collecting at moderate elevation with scenic mountain views and easy access.",
+  "description": "Cedar Mountain sits within Park County's productive BLM lands, accessible to rockhounders seeking quality agate and jasper specimens. The 6,200-foot elevation site offers a mix of open sagebrush terrain and scattered outcrop areas where silica-rich minerals have concentrated over millions of years. This location is ideal for intermediate rockhounders looking to expand their collections without the constraints of fee dig sites or permit requirements.\n\nThe area benefits from the regional geology of the Absaroka Range foothills, where Paleocene and Eocene volcanic activity created extensive ash flows rich in silica. Weathering and oxidation of these volcanic deposits produced the colorful agates and jaspers visible in surface gravels and small exposures. The chalcedony found here typically displays earth tones - cream, tan, rust, and occasionally pale blue - making it popular for both rough specimens and lapidary work.\n\nExpect to spend 2-4 hours searching productive gravels on gentle slopes and around weathered ridges. The site is less crowded than popular fee digs, giving you space to explore thoroughly. Early morning visits offer better lighting for spotting translucent specimens in the morning sun. The surrounding landscape includes sagebrush, scattered ponderosa pine at higher elevations, and excellent views toward the Absaroka peaks to the south.\n\nBring plenty of water - high elevation and low humidity create dehydration risk even in cooler months. Weather can change quickly at this elevation; afternoon thunderstorms are common in summer. The rocky terrain demands sturdy boots with good ankle support. Most productive collecting occurs in washes and along eroded ridges where material naturally concentrates.",
+  "history": "Cedar Mountain lies within the Absaroka Range foothills, where extensive Paleocene-Eocene volcanism deposited thick sequences of ash and volcanic rock. Weathering of these ash deposits over 50+ million years created silica-rich secondary minerals including the agates, chalcedony, and jasper found at the surface today. This area saw significant prospecting activity during Wyoming's mining boom era, though it remains a productive rockhounding destination rather than a commercial claim.",
+  "tips": "Focus your search on eroded ridgelines and dry wash bottoms where heavier agate specimens naturally concentrate - these low spots expose the most material. Scan the ground systematically in a grid pattern rather than randomly wandering; agate often blends with surrounding rock until you train your eye to spot the waxy luster. Bring a UV light to check for fluorescence in evening hours - many local specimens fluoresce faintly under UV, helping confirm agate versus common quartz. Pack out all material you excavate; use a small hand rake or brush rather than power tools to stay within BLM personal-use guidelines.",
+  "terrain_notes": "Moderate elevation terrain at 6,202 feet with rolling sagebrush slopes and scattered rock outcrops. Ground cover is sparse to moderate - sagebrush, bitterbrush, and scattered grass with exposed gravels and weathered volcanic rock. Walking distance from parking is typically 0.25 to 1.5 miles depending on where you focus. Footing is uneven with frequent ankle-turning hazards from loose rock and rabbit holes. No maintained trail; cross-country hiking required. Afternoon winds common. Expect cool mornings and warm afternoons even in summer.",
+  "best_season": "June - September for comfort and access; July-August brings afternoon thunderstorms. April-May and September-October offer excellent collecting with fewer crowds and mild temperatures. Avoid winter (November-March) when snow and ice restrict high-elevation access.",
+  "written_directions": "From Cody, take WY-120 (Yellowstone Highway) west toward Yellowstone National Park for approximately 35-40 miles. Continue on WY-120 past the East Entrance area. Turn north onto Forest Service or BLM access roads in the Park County area (coordinates 44.489678, -109.126296). A standard passenger vehicle can reach the general area, but expect rough dirt roads in the final 3-5 miles. Park at any safe pullout and walk cross-country to productive slopes. Use GPS or detailed maps as signage is minimal. Closest services are in Cody.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt roads with washboard surface in final approach. High-clearance or all-wheel-drive recommended. Road may be impassable during wet weather or heavy snow. Check local conditions before attempting access in spring or after storms.",
+  "parking_notes": "Informal pullouts along access roads. No developed parking area. Space for 2-4 vehicles at typical pullouts. No facilities. Arrive early in high season to secure parking.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or large-scale digging. Hand tools only. Pack out all excavated material - do not leave holes or pits. BLM land is open to the public for recreational rockhounding; no permit required.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo abandonment of excavations",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "remote",
+    "loose_rock",
+    "flash_floods"
+  ],
+  "nearest_services": "Cody, Wyoming (40 miles east) - full services including gas, food, water, and lodging.",
+  "accessibility_notes": "Uneven rocky terrain with ankle-turning hazards. No wheelchair access. Sturdy hiking boots with good ankle support essential. Moderate elevation (6,200 ft) may affect those sensitive to altitude. Walking distance from parking typically 0.25-1.5 miles over unimproved terrain. Not suitable for limited mobility or young children without close supervision.",
+  "alternative_names": [],
+  "nearest_city": "Cody",
+  "nearest_city_distance": 40,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/cedar-mountain-wy/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/cedar-mountain-wy/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of rocks and gems can you find at Cedar Mountain near Cody, Wyoming?",
+      "answer": "Cedar Mountain is known for agate, chalcedony, jasper, and quartz specimens. The agates typically display cream, tan, rust, and pale blue colors. Jasper ranges from red to brown tones. Most specimens are found in surface gravels and weathered exposures along ridgelines and dry washes."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Cedar Mountain BLM land?",
+      "answer": "No permit is required for recreational rockhounding on Cedar Mountain BLM land. The site is open for personal use collection under FLPMA regulations. However, you are limited to 25 lbs per day and cannot use motorized equipment or collect commercially."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Cedar Mountain, Wyoming?",
+      "answer": "June through September offers the most reliable access, though July-August can bring afternoon thunderstorms. April-May and September-October provide excellent collecting with mild temperatures and fewer crowds. Winter access (November-March) is restricted by snow and ice at this 6,200-foot elevation."
+    },
+    {
+      "question": "How far is Cedar Mountain rockhounding site from Cody and what road conditions should you expect?",
+      "answer": "Cedar Mountain is approximately 40 miles west of Cody via WY-120. The final 3-5 miles require rough dirt roads with washboard surface. High-clearance or all-wheel-drive vehicles are recommended. Roads may be impassable during wet weather or heavy snow."
+    },
+    {
+      "question": "Is Cedar Mountain rockhounding site beginner-friendly and suitable for families with children?",
+      "answer": "Yes, Cedar Mountain is beginner-friendly and suitable for families with children ages 8 and up. The moderate difficulty terrain and abundant surface specimens make it accessible for those new to rockhounding. However, uneven ground and loose rock require parental supervision for younger children and sturdy boots for everyone."
+    },
+    {
+      "question": "What tools and supplies should you bring when rockhounding at Cedar Mountain near Park County?",
+      "answer": "Bring sturdy hiking boots, a small hand rake or brush for gentle excavation, a backpack, plenty of water (high elevation and low humidity cause rapid dehydration), sunscreen, and a UV light for checking specimens at dusk. A hand-held GPS or detailed map is essential since signage is minimal. Leave motorized tools behind - only hand tools are permitted on BLM land."
+    }
+  ],
+  "meta_title": "Cedar Mountain Rockhounding - Wyoming",
+  "meta_description": "Find agate, jasper, and chalcedony at Cedar Mountain near Cody, Wyoming. Free BLM rockhounding, no permit needed. 25 lbs daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (specific road names inferred from general WY-120 corridor and GPS coords)",
+    "parking_notes (no official source for capacity or facilities)",
+    "cell_service (estimated as spotty based on remote location)"
+  ],
+  "enriched_at": "2026-04-22T06:40:14.600Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:42:22.609Z"
+}

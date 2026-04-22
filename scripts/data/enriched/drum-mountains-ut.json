@@ -1,0 +1,97 @@
+{
+  "slug": "drum-mountains-ut",
+  "name": "Drum Mountains",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Juab County",
+  "city_slug": "juab-county",
+  "county": "Juab",
+  "county_slug": "juab",
+  "lat": 39.571094,
+  "lng": -113.035857,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM public land in central Utah offering free rockhounding for quartz, chalcedony, and jasper specimens. No permit required - collect up to 25 lbs per day for personal use.",
+  "description": "The Drum Mountains sit within the Great Basin of central Utah, a region rich with silica-rich mineral deposits left from ancient hydrothermal activity and weathering of volcanic formations. This BLM-managed area is accessible to rockhounds seeking quality quartz specimens, chalcedony nodules, and colorful jasper without requiring permits or fees. The terrain features exposed ridgelines and wash areas where mineralized material weatheres out naturally, making specimen collection straightforward for both beginners and experienced rockhounders.\n\nGeologically, the Drum Mountains formed during the Basin and Range extension that began in the Miocene epoch. This process created fault-block mountains and exposed older rock units that contain silica-rich veins and nodules. The mineralization found here reflects both primary hydrothermal events and secondary weathering processes that concentrated silica into the varieties of quartz and chalcedony visible at the surface today.\n\nVisitors can expect a semi-arid high desert environment with sparse vegetation and excellent rock exposure. Most productive areas are located along washes and bajadas where erosion has naturally concentrated loose specimens. The elevation and open terrain provide good visibility for spotting specimens. This location is ideal for rockhounds who want free access to quality material without the constraints of fee dig sites or private land permissions.\n\nThe Drum Mountains area is particularly known for clean quartz crystals, banded chalcedony, and various jasper colors including red, brown, and mixed-hue specimens. Early morning or late afternoon light helps with specimen spotting. The relatively open terrain and good road access make this a practical choice for day trips from Nephi or Salina.",
+  "history": "The Drum Mountains are part of the larger Basin and Range physiographic province, where Miocene and later extension created tilted fault-block mountains exposing Paleozoic and Precambrian host rocks. Hydrothermal fluids deposited quartz, chalcedony, and other silica minerals in fractures and cavities; subsequent erosion and weathering exposed these specimens at the surface where rockhounders find them today. This area has been known to local collectors for decades as a reliable source of good-quality quartz and chalcedony without requiring access to private claims.",
+  "tips": "Search actively in the washes and bajada areas where gravity and water naturally collect loose specimens - avoid climbs to high ridges unless you spot promising outcrops. Bring a hand lens to identify banding and color variations in chalcedony; the best specimens often have visible layering and deep saturation. Look for material with good clarity and color saturation rather than heavily fractured pieces; quartz here often forms clean drusy surfaces and terminated crystals. Early morning light makes spotting lighter-colored specimens much easier against dark soil.",
+  "terrain_notes": "The Drum Mountains range from approximately 5200 to 6200 feet elevation with open, semi-arid terrain typical of the Great Basin. Terrain is mostly rolling hills, bajadas, and shallow washes with scattered low brush and sparse juniper. Walking distances from parking areas to productive zones are typically 0.5 to 2 miles over uneven but generally navigable ground. Footing is stable on packed soil and rock, though scattered loose rocks and minor erosion gullies require steady hiking. No significant cliffs or sudden drops in main collecting areas.",
+  "best_season": "April - June and September - November. Spring and fall offer mild temperatures ideal for hiking and specimen hunting. Summer heat (often exceeding 90 degrees F) makes daytime collecting uncomfortable; winter (December - February) can bring occasional snow at higher elevations and cold mornings. Late spring and early fall provide the most comfortable conditions with low morning temperatures and moderate afternoon warmth.",
+  "written_directions": "From Nephi (approximately 25 miles west), take US 6 east toward Salina. Continue on US 6 for about 18 miles past Nephi. Watch for BLM land signs and dirt road access points on the north side of the highway entering the Drum Mountains foothills. Turn north onto improved dirt roads (passable by passenger vehicle in dry conditions) and follow them into the range. Park at pullouts near productive washes and ridgelines. From Salina (approximately 15 miles south), take US 50 west then US 6 west and look for the same BLM access points.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt roads passable by passenger vehicles in dry conditions. Surface is packed soil with minor washboard. High-clearance vehicles recommended for rougher secondary access roads. Avoid during or immediately after rain when clay becomes slippery.",
+  "parking_notes": "Multiple informal pullouts along access roads; no developed parking lot. Park well off the main road to allow passage. Capacity is unrestricted but areas see light to moderate use. Always leave room for other vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection or sale of specimens. No motorized excavation or power tools. Hand tools and small picks permitted. All collecting must be non-destructive surface collection only.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nHand tools only\nNon-destructive surface collection",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Nephi (approximately 25 miles west) offers gas, food, water, and lodging. Salina (approximately 15 miles south) offers basic supplies and fuel.",
+  "accessibility_notes": "Relatively open terrain with minimal elevation change in main collecting areas. Washes and bajadas are stable and walkable for most fitness levels. Uneven rocky footing requires sturdy hiking boots. No wheelchair access to collecting areas. Limited shade available; hat and sunscreen essential. Water sources non-existent in the field; carry all drinking water needed.",
+  "alternative_names": [],
+  "nearest_city": "Nephi",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/drum-mountains-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding in the Drum Mountains near Nephi?",
+      "answer": "The Drum Mountains are known for quality quartz specimens, chalcedony in various colors, jasper (red, brown, and mixed hues), and agate nodules. Quartz is the most common find, often appearing as clusters with terminated crystals. Chalcedony is typically banded and ranges from cream to deep red. This area is less known than other Utah sites, making it a great choice for avoiding crowds while still finding excellent specimens."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Drum Mountains in Utah?",
+      "answer": "No permit is required. Drum Mountains are on BLM public land where recreational rockhounding is allowed under personal use regulations. You can collect for free up to 25 lbs per day. No application process or fees apply. Just follow the basic BLM rules: no commercial collection, no motorized excavation, and non-destructive surface collection only."
+    },
+    {
+      "question": "How far is Drum Mountains from Nephi and what is the drive like?",
+      "answer": "Drum Mountains are approximately 25 miles east of Nephi via US 6. The drive takes about 35-40 minutes. Once off the highway, you'll access the site via improved dirt roads suitable for passenger vehicles in dry conditions. The final approach is unpaved but well-established, requiring no special equipment or high-clearance vehicle under normal conditions."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Drum Mountains?",
+      "answer": "April through June and September through November offer the most comfortable collecting conditions. Spring and fall temperatures are mild (60-75 degrees F), ideal for hiking and searching. Summer temperatures often exceed 90 degrees F, making daytime collecting hot and uncomfortable. Winter can bring snow at higher elevations and very cold mornings. Avoid collecting during or immediately after rain when dirt roads may become slippery."
+    },
+    {
+      "question": "Is Drum Mountains rockhounding good for beginners and families with kids?",
+      "answer": "Yes, Drum Mountains is excellent for beginners and families. The terrain is relatively easy with short walking distances to productive areas (typically 0.5-2 miles from parking). Specimens are visible at the surface without requiring excavation. Children ages 6 and up can participate comfortably. No permits or special skills are needed. The open landscape allows for easy supervision of children, and dogs are welcome on the BLM land."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Drum Mountains?",
+      "answer": "Bring a small hand pick or geology hammer, heavy-duty gloves, and a backpack for carrying specimens (remember the 25 lb daily limit). A hand lens helps identify chalcedony banding and quartz quality. Essential supplies include plenty of drinking water (no sources in the field), a wide-brimmed hat, sunscreen, and sturdy hiking boots for uneven terrain. A GPS unit or marked map helps locate productive wash areas. Avoid motorized tools - only hand tools are permitted."
+    }
+  ],
+  "meta_title": "Drum Mountains Rockhounding - Free Utah BLM Quartz",
+  "meta_description": "Free rockhounding on Utah BLM land. Find quartz, chalcedony, and jasper in the Drum Mountains near Nephi. No permit needed, 25 lbs per day.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "specific_washes_and_ridges",
+    "exact_road_names_and_distances",
+    "historical_mining_activity_documentation",
+    "cell_service_provider_coverage"
+  ],
+  "enriched_at": "2026-04-22T06:50:40.414Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:57:20.323Z"
+}

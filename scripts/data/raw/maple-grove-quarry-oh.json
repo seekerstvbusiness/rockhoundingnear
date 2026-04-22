@@ -1,0 +1,60 @@
+{
+  "slug": "maple-grove-quarry-oh",
+  "name": "Maple Grove Quarry",
+  "lat": 41.225566,
+  "lng": -83.213729,
+  "state": "Ohio",
+  "state_slug": "ohio",
+  "state_code": "OH",
+  "city": "Liberty Township",
+  "city_slug": "liberty-township",
+  "county": "Seneca",
+  "county_slug": "seneca",
+  "geocoded_city": "Liberty Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-ohio.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Maple%20Grove%20Quarry%20Ohio"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Maple%20Grove%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Maple%20Grove%20Quarry%20Ohio"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 658,
+      "meters": 200
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:44:14.544Z"
+  },
+  "scraped_at": "2026-04-21T16:44:14.545Z",
+  "scrape_quality": "minimal"
+}

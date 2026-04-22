@@ -1,0 +1,57 @@
+{
+  "slug": "crab-orchard-tn",
+  "name": "Crab Orchard",
+  "lat": 35.910921,
+  "lng": -84.869047,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Crab Orchard",
+  "city_slug": "crab-orchard",
+  "county": "Cumberland",
+  "county_slug": "cumberland",
+  "geocoded_city": "Crab Orchard",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Crab%20Orchard%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Crab%20Orchard",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Crab%20Orchard%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:23:00.913Z"
+  },
+  "scraped_at": "2026-04-21T18:23:00.913Z",
+  "scrape_quality": "minimal"
+}

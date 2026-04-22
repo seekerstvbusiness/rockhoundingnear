@@ -1,0 +1,60 @@
+{
+  "slug": "road-cut-on-e-side-of-us-87-tx",
+  "name": "Road cut on E side of US 87",
+  "lat": 30.161106,
+  "lng": -98.893423,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Gillespie County",
+  "city_slug": "gillespie-county",
+  "county": "Gillespie",
+  "county_slug": "gillespie",
+  "geocoded_city": "Gillespie County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Road%20cut%20on%20E%20side%20of%20US%2087%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Road%20cut%20on%20E%20side%20of%20US%2087",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Road%20cut%20on%20E%20side%20of%20US%2087%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1903,
+      "meters": 580
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:46:32.732Z"
+  },
+  "scraped_at": "2026-04-21T18:46:32.732Z",
+  "scrape_quality": "minimal"
+}

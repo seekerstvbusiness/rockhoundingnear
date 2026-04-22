@@ -1,0 +1,65 @@
+{
+  "slug": "shores-of-ochoco-reservoir-or",
+  "name": "Shores of Ochoco Reservoir",
+  "lat": 44.312485,
+  "lng": -120.680337,
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "state_code": "OR",
+  "city": "Crook County",
+  "city_slug": "crook-county",
+  "county": "Crook",
+  "county_slug": "crook",
+  "geocoded_city": "Crook County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oregon.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Shores%20of%20Ochoco%20Reservoir%20Oregon"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Shores%20of%20Ochoco%20Reservoir",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Shores%20of%20Ochoco%20Reservoir%20Oregon"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3115,
+      "meters": 949
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:39:53.400Z"
+  },
+  "scraped_at": "2026-04-21T18:39:53.400Z",
+  "scrape_quality": "partial"
+}

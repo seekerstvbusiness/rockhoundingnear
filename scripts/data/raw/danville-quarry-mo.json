@@ -1,0 +1,60 @@
+{
+  "slug": "danville-quarry-mo",
+  "name": "Danville Quarry",
+  "lat": 38.90059,
+  "lng": -91.541692,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Montgomery County",
+  "city_slug": "montgomery-county",
+  "county": "Montgomery",
+  "county_slug": "montgomery",
+  "geocoded_city": "Mineola",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Danville%20Quarry%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Danville%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Danville%20Quarry%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 712,
+      "meters": 217
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:02:44.703Z"
+  },
+  "scraped_at": "2026-04-21T19:02:44.703Z",
+  "scrape_quality": "minimal"
+}

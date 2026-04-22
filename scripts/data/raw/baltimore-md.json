@@ -1,0 +1,60 @@
+{
+  "slug": "baltimore-md",
+  "name": "Baltimore",
+  "lat": 39.425784,
+  "lng": -76.441464,
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "state_code": "MD",
+  "city": "Baltimore County",
+  "city_slug": "baltimore-county",
+  "county": "Baltimore",
+  "county_slug": "baltimore",
+  "geocoded_city": "Honeygo",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maryland.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Baltimore%20Maryland"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Baltimore",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Baltimore%20Maryland"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 78,
+      "meters": 24
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:33:13.939Z"
+  },
+  "scraped_at": "2026-04-21T17:33:13.939Z",
+  "scrape_quality": "minimal"
+}

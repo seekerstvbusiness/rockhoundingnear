@@ -1,0 +1,60 @@
+{
+  "slug": "smoky-hill-river-chalk-ks",
+  "name": "Smoky Hill River (chalk)",
+  "lat": 38.725486,
+  "lng": -99.395079,
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "state_code": "KS",
+  "city": "Ellis County",
+  "city_slug": "ellis-county",
+  "county": "Ellis",
+  "county_slug": "ellis",
+  "geocoded_city": "Antonino",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Smoky%20Hill%20River%20(chalk)%20Kansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Smoky%20Hill%20River%20(chalk)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Smoky%20Hill%20River%20(chalk)%20Kansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1934,
+      "meters": 590
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:40:49.639Z"
+  },
+  "scraped_at": "2026-04-21T17:40:49.640Z",
+  "scrape_quality": "minimal"
+}

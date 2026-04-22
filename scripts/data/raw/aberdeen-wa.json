@@ -1,0 +1,60 @@
+{
+  "slug": "aberdeen-wa",
+  "name": "Aberdeen",
+  "lat": 46.850482,
+  "lng": -124.113485,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Grays Harbor County",
+  "city_slug": "grays-harbor-county",
+  "county": "Grays Harbor",
+  "county_slug": "grays-harbor",
+  "geocoded_city": "Grayland",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Aberdeen%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Aberdeen",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Aberdeen%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 8,
+      "meters": 2
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:13:38.136Z"
+  },
+  "scraped_at": "2026-04-21T19:13:38.136Z",
+  "scrape_quality": "minimal"
+}

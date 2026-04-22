@@ -1,0 +1,57 @@
+{
+  "slug": "blenheim-sc",
+  "name": "Blenheim",
+  "lat": 34.442071,
+  "lng": -79.661808,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "Marlboro County",
+  "city_slug": "marlboro-county",
+  "county": "Marlboro",
+  "county_slug": "marlboro",
+  "geocoded_city": "Marlboro County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Blenheim%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Blenheim",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Blenheim%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:56:49.272Z"
+  },
+  "scraped_at": "2026-04-21T17:56:49.272Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "black-ankle-mine-nc",
+  "name": "Black Ankle Mine",
+  "lat": 35.491422,
+  "lng": -79.810421,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Montgomery County",
+  "city_slug": "montgomery-county",
+  "county": "Montgomery",
+  "county_slug": "montgomery",
+  "geocoded_city": "Montgomery County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Black%20Ankle%20Mine%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Black%20Ankle%20Mine"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Black%20Ankle%20Mine%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:30:46.170Z"
+  },
+  "scraped_at": "2026-04-22T02:30:46.170Z",
+  "scrape_quality": "minimal"
+}

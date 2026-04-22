@@ -1,0 +1,60 @@
+{
+  "slug": "bacon-hollow-va",
+  "name": "Bacon Hollow",
+  "lat": 38.272334,
+  "lng": -78.568037,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Greene County",
+  "city_slug": "greene-county",
+  "county": "Greene",
+  "county_slug": "greene",
+  "geocoded_city": "Saint George",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bacon%20Hollow%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bacon%20Hollow",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bacon%20Hollow%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 901,
+      "meters": 274
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:11:32.825Z"
+  },
+  "scraped_at": "2026-04-21T19:11:32.825Z",
+  "scrape_quality": "minimal"
+}

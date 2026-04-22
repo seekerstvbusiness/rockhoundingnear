@@ -1,0 +1,60 @@
+{
+  "slug": "archangel-creek-ak",
+  "name": "Archangel Creek",
+  "lat": 61.818261,
+  "lng": -149.241862,
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "state_code": "AK",
+  "city": "Matanuska-Susitna Borough",
+  "city_slug": "matanuska-susitna-borough",
+  "county": "Matanuska-Susitna Borough",
+  "county_slug": "matanuska-susitna-borough",
+  "geocoded_city": "Matanuska-Susitna Borough",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-alaska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Archangel%20Creek%20Alaska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Archangel%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Archangel%20Creek%20Alaska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3079,
+      "meters": 938
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:25:34.651Z"
+  },
+  "scraped_at": "2026-04-21T18:25:34.652Z",
+  "scrape_quality": "minimal"
+}

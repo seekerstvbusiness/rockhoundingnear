@@ -1,0 +1,60 @@
+{
+  "slug": "hall-creek-and-silver-creek-nc",
+  "name": "Hall Creek and Silver Creek",
+  "lat": 35.635707,
+  "lng": -81.825679,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Burke County",
+  "city_slug": "burke-county",
+  "county": "Burke",
+  "county_slug": "burke",
+  "geocoded_city": "Burke County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hall%20Creek%20and%20Silver%20Creek%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hall%20Creek%20and%20Silver%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hall%20Creek%20and%20Silver%20Creek%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1154,
+      "meters": 352
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:34:12.054Z"
+  },
+  "scraped_at": "2026-04-21T19:34:12.054Z",
+  "scrape_quality": "minimal"
+}

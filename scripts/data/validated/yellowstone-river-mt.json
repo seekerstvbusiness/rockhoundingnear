@@ -1,0 +1,102 @@
+{
+  "slug": "yellowstone-river-mt",
+  "name": "Yellowstone River",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Livingston",
+  "city_slug": "livingston",
+  "county": "Park",
+  "county_slug": "park",
+  "lat": 45.628491,
+  "lng": -110.567798,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Public BLM rockhounding along the scenic Yellowstone River in Park County. Find agate, jasper, and quartz specimens in river gravels and benches without permits.",
+  "description": "The Yellowstone River corridor in Park County offers excellent rockhounding opportunities on BLM-managed public lands. This stretch of river has carved through geologically diverse terrain, exposing colorful agates, jaspers, and chalcedony specimens in the riverbed gravels and along elevated terraces. The gentle slope and accessible river access make this an ideal location for beginners and families looking to collect quality specimens without the hassle of fees or permits.\n\nThe geology here reflects the Yellowstone hotspot track and Basin and Range province influence. During the Tertiary period, extensive volcanic and silica-rich hydrothermal activity deposited cryptocrystalline minerals throughout this region. The Yellowstone River's erosion has concentrated these materials in accessible gravel bars and benches, making collecting relatively productive after seasonal floods redistribute material.\n\nRockhounders can expect to find colorful banded agates ranging from thumb-sized to palm-sized specimens, translucent to opaque jasper in reds and browns, and occasional well-formed quartz crystals. The river environment means material tends to be naturally polished by water action, so many pieces are attractive as-collected. Spring runoff brings fresh material down from higher elevations, making late spring through early summer particularly productive.\n\nThe area is popular with both casual collectors and serious rockhounds due to its combination of accessibility, variety, and no-permit regulations. Expect some competition during summer weekends, but the extensive public land and multiple access points mean you can usually find productive spots away from crowds.",
+  "history": "The Yellowstone River corridor sits within the northern margin of the Yellowstone hotspot track, where Tertiary-age volcanism and associated hydrothermal systems (10-30 million years ago) deposited the silica-rich fluids that crystallized into the agate and jasper deposits found here today. Modern river erosion over thousands of years has concentrated these weather-resistant minerals in accessible gravels and terraces.",
+  "tips": "Focus your search on the inside bends of the river where gravel bars accumulate and on elevated terraces 10-20 feet above the current waterline - these areas concentrate heavier minerals like agate and jasper. Bring a classifier or mesh screen to sift through river gravel efficiently; the best specimens often hide beneath the surface. Look for translucent red and brown colors in jasper and banded white-and-brown patterns in agate - these tend to be the most common and collectible specimens. After spring flooding, revisit your favorite spots within a week or two, as fresh material is continuously exposed.",
+  "terrain_notes": "Elevation 4,520 feet with gentle slopes throughout the BLM access area. The terrain consists of river bottomland with gravelly floodplain, interspersed with sagebrush and scattered cottonwoods. Walking distances from parking areas to productive collecting spots range from 50 feet to 1/2 mile. Footing is generally stable on gravel and sandy areas, though some sections have loose river rocks that require careful stepping. River banks can be slippery during wet conditions.",
+  "best_season": "April - October. Peak collecting occurs May - September when water levels drop after spring snowmelt, exposing gravel bars and terraces. Winter snowfall and ice make access difficult. Late spring (May-June) is optimal as recent flooding brings fresh material to the surface.",
+  "written_directions": "From Livingston, take US Highway 89 South toward Paradise Valley. Continue south for approximately 12 miles. Look for BLM access points and pullouts along the east side of the river near milepost markers. The main popular access area is near Yankee Jim Canyon, about 15 miles south of Livingston. Parking pullouts are marked along the highway; take any safe pullout and walk down to the river benches and gravel bars. The terrain is gentle, making access straightforward from roadside parking areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US Highway 89 is paved and well-maintained year-round. Pullouts are unpaved but easily accessible to standard passenger vehicles.",
+  "parking_notes": "Multiple unpaved pullouts along US 89 adjacent to the Yellowstone River. No developed parking lot; pullouts accommodate 2-5 vehicles each. Parking is first-come, first-served. High-use weekends may require finding alternative pullouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or heavy equipment. Collect only loose material from the surface and shallow digging; do not extract from bedrock outcrops. Leave the site as you found it. Respect private property boundaries outside BLM lands.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs per day maximum\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nCollect loose material only\nNo extraction from bedrock\nLeave site undisturbed\nRespect adjacent private property",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Livingston, Montana - approximately 12-15 miles north. Full services including gas, groceries, restaurants, and lodging available.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Unpaved pullouts are accessible to standard vehicles. Walking from parking to collecting areas is mostly level with gentle slopes. Some sections have uneven river rocks that may challenge visitors with mobility limitations. No wheelchair access to the best collecting areas.",
+  "alternative_names": [
+    "Paradise Valley Yellowstone River",
+    "Yankee Jim Canyon collecting area"
+  ],
+  "nearest_city": "Livingston",
+  "nearest_city_distance": 13,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/yellowstone-river-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/yellowstone-river-mt/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/yellowstone-river-mt/mineral-2-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Yellowstone River near Livingston?",
+      "answer": "The Yellowstone River near Livingston is known for agate, jasper, chalcedony, and quartz. The most commonly found specimens are colorful banded agates in white and brown tones, translucent jasper in reds and browns, and occasional quartz crystals. Many pieces are naturally polished by river action, making them attractive as-found specimens."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Yellowstone River in Montana?",
+      "answer": "No permit is required. The Yellowstone River BLM lands in Park County allow personal use rockhounding without fees or permits under FLPMA regulations. You must follow the 25 lb per day collection limit and cannot use motorized equipment or commercial collection methods."
+    },
+    {
+      "question": "What is the best time of year to rockhound the Yellowstone River in Montana?",
+      "answer": "The best rockhounding season is May through September, with peak conditions in late May and early June after spring snowmelt. Water levels drop, exposing gravel bars and terraces, and recent flooding brings fresh material to the surface. Winter snowfall and ice make access difficult from November through March."
+    },
+    {
+      "question": "Is Yellowstone River rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, this is an excellent location for beginners and families. The gentle terrain requires no special climbing skills, parking is roadside and accessible, and no permits or fees apply. Children ages 6 and up can participate comfortably. The easy access and productive collecting make it perfect for first-time rockhounders."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Yellowstone River?",
+      "answer": "Bring a small classifier or mesh screen to sift river gravel efficiently, a small shovel or hand trowel for light digging in gravel bars, a 5-gallon bucket to transport specimens, and a backpack for comfort. A jeweler's loupe helps identify translucent specimens. Sturdy boots with good grip are essential for navigating loose river rocks. The 25 lb daily limit means you won't need heavy equipment."
+    },
+    {
+      "question": "How far is Yellowstone River rockhounding from Livingston, and what are driving directions?",
+      "answer": "Yellowstone River BLM collecting areas are approximately 12-15 miles south of Livingston, Montana. From Livingston, take US Highway 89 South toward Paradise Valley for about 12 miles and look for unpaved pullouts along the river near Yankee Jim Canyon. The drive takes about 20 minutes from downtown Livingston. Multiple pullouts provide easy access without hiking."
+    }
+  ],
+  "meta_title": "Yellowstone River Rockhounding - Montana",
+  "meta_description": "Find agate, jasper, and quartz at Yellowstone River on free BLM land near Livingston, MT. No permits required. Beginner-friendly collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from highway geography and general BLM access patterns)",
+    "parking_notes (typical BLM pullout setup)",
+    "cell_service (spotty is typical for rural Montana river valleys)"
+  ],
+  "enriched_at": "2026-04-21T19:07:55.423Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:11:51.706Z"
+}

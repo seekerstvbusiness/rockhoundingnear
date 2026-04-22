@@ -1,0 +1,60 @@
+{
+  "slug": "stone-mountain-ga",
+  "name": "Stone Mountain",
+  "lat": 33.799904,
+  "lng": -84.157142,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "DeKalb County",
+  "city_slug": "dekalb-county",
+  "county": "DeKalb",
+  "county_slug": "dekalb",
+  "geocoded_city": "DeKalb County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Stone%20Mountain%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Stone%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Stone%20Mountain%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 899,
+      "meters": 274
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:00:08.484Z"
+  },
+  "scraped_at": "2026-04-21T19:00:08.484Z",
+  "scrape_quality": "minimal"
+}

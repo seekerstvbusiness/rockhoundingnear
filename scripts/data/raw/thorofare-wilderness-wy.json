@@ -1,0 +1,65 @@
+{
+  "slug": "thorofare-wilderness-wy",
+  "name": "Thorofare Wilderness",
+  "lat": 44.123345,
+  "lng": -110.116899,
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "state_code": "WY",
+  "city": "Teton County",
+  "city_slug": "teton-county",
+  "county": "Teton",
+  "county_slug": "teton",
+  "geocoded_city": "Teton County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wyoming.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Thorofare%20Wilderness%20Wyoming"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Thorofare%20Wilderness",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Thorofare%20Wilderness%20Wyoming"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 7848,
+      "meters": 2392
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:43:01.520Z"
+  },
+  "scraped_at": "2026-04-21T18:43:01.520Z",
+  "scrape_quality": "partial"
+}

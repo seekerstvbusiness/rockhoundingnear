@@ -1,0 +1,97 @@
+{
+  "slug": "hanover-nh",
+  "name": "Hanover",
+  "state": "New Hampshire",
+  "state_slug": "new-hampshire",
+  "city": "Hanover",
+  "city_slug": "hanover",
+  "county": "Grafton",
+  "county_slug": "grafton",
+  "lat": 43.735386,
+  "lng": -72.142749,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Garnet"
+  ],
+  "short_description": "Rockhound the upper Connecticut River valley for quartz, feldspar, and mica specimens in the metamorphic bedrock of New Hampshire's White Mountains region.",
+  "description": "Hanover sits in the heart of New Hampshire's White Mountains geology, where Paleozoic metamorphic bedrock dominates the landscape. The town itself offers modest rockhounding opportunities in creek beds, roadcuts, and hiking areas throughout Grafton County. Quartz is the most common find, ranging from clear crystalline specimens to milky varieties, often mixed with feldspar and mica in schist and gneiss outcrops. The moderate elevation (2175 ft) and mixed deciduous-conifer forest create a scenic New England environment with excellent autumn colors and reliable springs.\n\nThe geology here is dominated by the Acadian Orogeny metamorphic complex, a mountain-building event that occurred 375-325 million years ago. Heat and pressure transformed sedimentary rocks into schist, gneiss, and quartzite, concentrating feldspar and quartz crystals throughout the region. Small garnets can occasionally be found in garnet-mica schist, and muscovite mica books are common in roadcuts and stream exposures.\n\nRockhounders visiting Hanover should explore the Connecticut River valley tributaries, forest roads maintained by the National Forest, and designated hiking areas. The terrain is hiking-friendly but requires sturdy boots, as loose rock and uneven footing are common. Water access near Hanover provides excellent venue for light collecting, though crowds near town require seeking quieter tributary areas.\n\nBest results come in spring (April-May) when snowmelt opens creeks and reveals fresh material, and again in fall (September-October) when autumn conditions make hiking pleasant. Summer heat and humidity are less ideal, though accessible. Always respect private property boundaries, as much land in the Hanover area is privately owned.",
+  "history": "The bedrock here is part of the Acadian metamorphic belt, formed during the Paleozoic Era when Africa and North America collided, generating intense heat and pressure that transformed ancient sediments into schist and gneiss. This mountainous region was heavily quarried for building stone and granite in the 1800s-1900s, with remnants of old stone walls and quarry sites still visible throughout the White Mountains.",
+  "tips": "Search creek beds and small tributary washes for rounded quartz pebbles and mica flakes - spring runoff exposes fresh material. Look for white and clear quartz crystals in roadcuts and granite boulders, often clustered with silvery muscovite mica. Carry a hand lens to identify feldspar (pink or white) versus quartz (glassy, harder), and use a geology hammer to carefully extract specimens from loose talus slopes rather than carving into solid outcrops. Visit hiking trails like those near Dartmouth College lands or Forest Service roads where natural erosion constantly refreshes exposed material.",
+  "terrain_notes": "Moderate elevation (2175 ft) with rolling terrain and mixed deciduous-conifer forest typical of the White Mountains. Walking distance from trailheads averages 0.5-2 miles. Footing is uneven with roots, loose rock, and seasonal mud common. No wheelchair access to productive rockhounding areas. Sturdy hiking boots strongly recommended.",
+  "best_season": "April - May and September - October. Spring brings snowmelt that exposes fresh material in creeks and streams, while fall offers comfortable hiking weather and lower humidity. Avoid summer heat and wet conditions; winter snow covers most productive areas.",
+  "written_directions": "From Hanover town center, take NH Route 120 north toward Wentworth Location, or explore Forest Service Road 11 (Ravine Lodge Road) east from the Dartmouth area toward Lyme. Alternatively, drive east on NH Route 10 toward Lyme, then north on back roads toward hiking trail access points in the White Mountain National Forest vicinity. Numerous roadcuts provide quick collecting spots within 5-15 minutes of town center. Always verify current road conditions and access permissions before traveling remote Forest Service roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "passenger",
+  "road_conditions": "Main routes (NH 120, NH 10) are paved and well-maintained. Forest Service access roads are unpaved gravel, passable by passenger car in dry conditions but may require high-clearance or AWD after rain or snowmelt.",
+  "parking_notes": "Roadside pullouts along NH Route 120 and Forest Service roads. Trailhead parking areas near Dartmouth College maintained areas. Limited formal parking; plan for 1-3 vehicle spaces at roadcut spots. Larger lots available at Hanover town parking areas (downtown) or hiking trailheads.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Rockhounding on National Forest land is permitted under general use regulations - collect specimens for personal collection only, not for sale or commercial purposes. Respect all private property boundaries (much land near Hanover is privately owned). Do not remove material from active mining areas, quarries, or state-protected geological sites. Take only what you can carry. No motorized excavation. Leave no trace - fill holes and restore disturbed areas.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nNo commercial collection or sale\nRespect private property boundaries\nNo motorized excavation equipment\nFill holes and restore disturbed ground\nLeave no trace",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Hanover town center has gas, food, water, and supplies - 0-5 miles depending on exact rockhounding location. Lyme, NH (10 miles north) also offers services.",
+  "accessibility_notes": "Relatively easy access for beginners. Creek beds and roadcuts near main highways are accessible to most skill levels. Hiking to remote areas requires sturdy boots and moderate fitness. No wheelchair access to productive spots. Terrain is uneven with loose rock and roots common. Most accessible collecting is within 0.5 miles of road pullouts.",
+  "alternative_names": [],
+  "nearest_city": "Hanover",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-hampshire/hanover-nh/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Hanover, New Hampshire?",
+      "answer": "The primary gems found near Hanover are quartz (both clear and milky), feldspar (white and pink), and mica. Small garnets occasionally appear in garnet-mica schist, particularly in stream beds and along hiking trails. Most specimens are modest in size but excellent for collectors studying metamorphic rock mineralogy."
+    },
+    {
+      "question": "Is rockhounding free near Hanover, or do you need a permit?",
+      "answer": "Rockhounding near Hanover on National Forest and public lands is free and does not require a permit for personal use collection. However, you must respect private property boundaries, as much of the surrounding land is privately owned. Always verify access before venturing onto unfamiliar land."
+    },
+    {
+      "question": "What is the best time of year for rockhounding around Hanover, NH?",
+      "answer": "April through May and September through October are ideal. Spring brings snowmelt that exposes fresh material in creeks and streams, while fall offers comfortable hiking temperatures and low humidity. Summer can be hot and humid, and winter snow covers most productive areas."
+    },
+    {
+      "question": "How do you find quartz and feldspar specimens in the Hanover area?",
+      "answer": "Search creek beds and tributary washes for rounded pebbles and crystals, which are most exposed during or shortly after spring runoff. Check roadcuts along NH Route 120 and Forest Service roads for larger crystal clusters. Look for white, clear, or pink mineral veins in granite boulders and loose talus slopes. A hand lens helps distinguish quartz (glassy, harder) from feldspar (softer, sometimes pink)."
+    },
+    {
+      "question": "Can you bring kids rockhounding near Hanover?",
+      "answer": "Yes, Hanover-area rockhounding is family-friendly for children ages 6 and up. Roadside pullouts and short creek walks require minimal hiking and are safe for young collectors. Always supervise children on uneven terrain, bring water, and teach them to respect private property and leave no trace."
+    },
+    {
+      "question": "What tools and preparation do you need for rockhounding at Hanover, New Hampshire?",
+      "answer": "Bring sturdy hiking boots (essential for uneven, rocky terrain), a hand lens or magnifier for identifying minerals, a small geology hammer for safely extracting specimens, a collection bag, and water. Spring and fall require a light jacket; wear sun protection year-round. Check local weather and road conditions before visiting, especially on Forest Service roads."
+    }
+  ],
+  "meta_title": "Hanover Rockhounding - Find Quartz & Mica",
+  "meta_description": "Free rockhounding near Hanover, NH for quartz, feldspar, and mica. Public land access, easy terrain, best April-May and September-October.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "gem_types",
+    "written_directions",
+    "road_conditions",
+    "accessibility_notes"
+  ],
+  "enriched_at": "2026-04-21T17:49:16.881Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:50:25.453Z"
+}

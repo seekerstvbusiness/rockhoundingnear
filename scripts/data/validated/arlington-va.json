@@ -1,0 +1,97 @@
+{
+  "slug": "arlington-va",
+  "name": "Arlington",
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "city": "Arlington",
+  "city_slug": "arlington",
+  "county": "Arlington",
+  "county_slug": "arlington",
+  "lat": 38.849431,
+  "lng": -77.103245,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Urban rockhounding in Northern Virginia's flat Piedmont terrain. Search stream beds and exposures for quartz, feldspar, and mica specimens near the Potomac River.",
+  "description": "Arlington sits in the Piedmont physiographic province of Northern Virginia, characterized by low-lying metamorphic bedrock and extensive quaternary deposits. The area's flat elevation of 67 feet reflects its position near the fall line where the Piedmont meets the Coastal Plain. Rockhounding opportunities are limited compared to mountain regions, but persistent collectors can find small quartz crystals, feldspar fragments, and mica flakes in stream beds, road cuts, and disturbed earth around the county.\n\nThe bedrock here consists primarily of Precambrian metamorphic rocks - schist, gneiss, and quartzite - that were metamorphosed during the Grenville orogeny roughly 1 billion years ago and later reactivated during the Alleghenian mountain-building event 300 million years ago. These metamorphic rocks weather into their component minerals, which concentrate in nearby streams and erosional features. The Potomac River and its tributaries have historically been the most productive collecting areas, as flowing water naturally segregates and polishes mineral specimens.\n\nThis is an urban location with significant restrictions on public land access. Most productive rockhounding requires permission from private landowners or visits to stream beds on public easements. The flat, developed terrain means fewer dramatic outcrops compared to Virginia's western mountain regions, but patient work in accessible streams and quarry sites can yield decent specimens for study collections. Beginners should focus on identification skills rather than quantity here, as the area's commercial and residential nature limits true wilderness collecting.\n\nBest results come from visiting after heavy rains when streams are more active and have exposed fresh material. Spring and early fall offer ideal conditions - comfortable temperatures and higher water flow without summer heat stress. The proximity to Washington, D.C. means cell service is reliable and access is straightforward, making this a good option for urban rockhounders with limited travel time.",
+  "history": "The Piedmont bedrock underlying Arlington formed during the Grenville orogeny when African-Indian continental fragments collided with proto-North America, creating metamorphic rocks under extreme heat and pressure roughly 1 billion years ago. These rocks were reactivated and uplifted during the Alleghenian orogeny 300 million years ago when Africa collided with North America, creating the Appalachian Mountains - though Arlington's position near the fall line places it at the eroded edge of that mountain system.",
+  "tips": "Search stream beds along the Potomac River and tributary creeks after spring rains, when water erosion exposes fresh quartz and feldspar fragments in the gravel bars. Use a 10x hand lens to identify feldspar's flat cleavage planes and mica's perfect basal splitting - these features distinguish them from simple quartz. Focus on the inside bends of streams where heavy minerals settle, and look for concentrated bands of dark mica flakes indicating ancient schist weathering. Bring a small classifier or mesh screen to quickly sort fine material; this region produces mostly small specimens suitable for study collections rather than display pieces.",
+  "terrain_notes": "Extremely flat terrain at 67 feet elevation with minimal slope. The landscape is heavily developed and urbanized with scattered parks, stream corridors, and remnant natural areas. Stream beds are accessible but often bordered by residential or commercial property. Walking surfaces vary from paved park trails to muddy stream banks. Footing can be slippery along stream edges, especially after rain. Most productive areas require parking at public access points and short walks of 0.25 to 1 mile.",
+  "best_season": "March - May and September - November. Spring brings peak stream flow after winter rainfall and moderate temperatures. Fall offers similar conditions with lower humidity. Summer heat combined with lower water levels makes collecting uncomfortable and less productive. Winter stream access is possible but cold temperatures limit comfort for extended fieldwork.",
+  "written_directions": "From downtown Arlington, access the Potomac River via the Arlington waterfront parks. Take US Route 50 toward the Potomac River and exit toward the George Washington Memorial Parkway or Theodore Roosevelt Island access. Parking areas are available at Theodore Roosevelt Island (approximately 2 miles northwest of central Arlington) and along the Potomac Greenway trail system. Stream beds are accessible from multiple public access points; consult Arlington Parks and Recreation for current public easement locations. For interior creek access, contact private landowners for permission or visit Arlington Natural Areas managed by the county.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "All approaches via paved urban roads. Access to stream beds requires parking on public streets or in designated park lots; final approach on foot via paved or dirt trails.",
+  "parking_notes": "Multiple public parking lots available at Theodore Roosevelt Island, Arlington Waterfront Park, and other county park facilities. Spaces fill quickly during weekends and nice weather. Street parking available on surrounding residential roads. No dedicated rockhounding parking; use public park facilities.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal collection only on public lands and stream easements. Check with Arlington County Parks and Recreation for current access rules at each location. No excavation with motorized equipment. Private land requires explicit owner permission. Many stream banks are on private property; respect posted boundaries. Do not trespass on residential or commercial property.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nNo commercial use\nNo motorized excavation\nPrivate land requires owner permission\nRespect all posted access restrictions\nDo not trespass on private property\nCheck with Arlington Parks and Recreation for current public access areas",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "sharp_material",
+    "cold",
+    "heat"
+  ],
+  "nearest_services": "Downtown Arlington and Washington, D.C. area with full services including gas, food, water, and stores within 1 - 3 miles of all collecting areas. Theodore Roosevelt Island and waterfront parks have restrooms.",
+  "accessibility_notes": "Relatively flat, paved or well-maintained trail access to most public areas. Some stream bank approaches are uneven and potentially muddy. Park facilities are accessible; creek-side terrain varies from easy to moderate based on specific location. Waterfront parks offer wheelchair access to overlooks but stream bed collecting requires hiking off main paths. Sturdy footwear recommended due to muddy and rocky stream banks.",
+  "alternative_names": [],
+  "nearest_city": "Arlington",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/virginia/arlington-va/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/virginia/arlington-va/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding in Arlington, Virginia?",
+      "answer": "Arlington's Piedmont bedrock yields quartz crystals, feldspar fragments, and mica flakes. Stream beds along the Potomac River and local tributaries concentrate these metamorphic minerals where water erosion naturally segregates them. Most specimens are small but suitable for study collections and mineral identification practice."
+    },
+    {
+      "question": "Is rockhounding allowed in Arlington, Virginia parks and public lands?",
+      "answer": "Yes, personal use mineral collection is permitted in Arlington's public parks and stream easements, though specific access varies by location. Theodore Roosevelt Island, Arlington Waterfront Park, and county natural areas allow rockhounding. Contact Arlington Parks and Recreation to confirm current access rules at each site before visiting."
+    },
+    {
+      "question": "Do I need a permit to rockhound in Arlington, Virginia?",
+      "answer": "No permit is required for personal rockhounding on public lands and stream easements in Arlington. However, you must obtain explicit permission from private landowners if collecting on private property. Always respect posted access restrictions and do not trespass."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Arlington, Virginia?",
+      "answer": "March through May and September through November offer ideal rockhounding conditions. Spring brings peak stream flow after winter rains, exposing fresh mineral specimens. Fall provides similar benefits with comfortable temperatures and moderate water levels. Summer heat and low water reduce productivity, while winter cold limits comfort for extended fieldwork."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding in Arlington?",
+      "answer": "Bring a 10x hand lens for identifying feldspar's cleavage and mica's perfect basal splitting. A small classifier or mesh screen speeds sorting of fine stream material. Pack sturdy waterproof hiking boots for muddy stream banks, a backpack for specimens, and a field notebook. A small chisel or pry bar helps with minor excavation where permitted, but motorized tools are not allowed."
+    },
+    {
+      "question": "Is Arlington, Virginia a good rockhounding location for beginners?",
+      "answer": "Yes, Arlington is beginner-friendly due to easy access, reliable services, and no permit requirements. The flat terrain and short walk distances to productive areas make it ideal for families and those with limited mobility. Beginners can develop mineral identification skills by collecting quartz, feldspar, and mica in streams. The urban location means cell service and nearby amenities support a comfortable first rockhounding experience."
+    }
+  ],
+  "meta_title": "Arlington Rockhounding - Virginia Quartz & Feldspar",
+  "meta_description": "Find quartz, feldspar, and mica in Arlington, Virginia's Piedmont streams. Easy public access, no permit needed. Great for beginners near Washington, D.C.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "collection_rules",
+    "access permissions for specific Arlington locations"
+  ],
+  "enriched_at": "2026-04-21T19:17:17.981Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:22:16.335Z"
+}

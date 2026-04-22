@@ -1,0 +1,100 @@
+{
+  "slug": "tres-hermanas-mts-nm",
+  "name": "Tres Hermanas Mts",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Deming",
+  "city_slug": "deming",
+  "county": "Luna",
+  "county_slug": "luna",
+  "lat": 31.930749,
+  "lng": -107.72552,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Deming offering desert agate and chalcedony collecting with scenic views of the Three Sisters peaks. Easy access on gentle slopes with year-round rockhounding opportunity.",
+  "description": "Tres Hermanas Mts sits on New Mexico BLM land in the northern Chihuahuan Desert, a landscape shaped by ancient volcanic and basin-and-range geology. The distinctive three peaks that give this location its name dominate the horizon, rising above 4600 feet elevation. This area is known for surface collecting of agate, chalcedony, and jasper specimens scattered across desert washes and gentle hillsides. The terrain combines accessible slopes with productive collecting grounds that reward careful surface searching.\n\nThe geological setting here reflects millions of years of volcanic and silica-rich groundwater activity. Miocene-age volcanic rocks and silicified sediments have weathered into the colorful gem materials found today. Desert washes and bajadas expose fresh material regularly through erosion, making this a reliable spot for specimen hunters of all experience levels.\n\nCollecting here is straightforward due to the gentle topography and open access. The landscape offers both immediate payoff for casual rockhounders and rewarding extended exploration for serious collectors. Bring plenty of water and sun protection - the high desert sun and heat are the primary challenges, not difficult terrain.\n\nAs BLM public land, this location operates under simple recreational use rules with no permit requirements. The 25-pound daily limit per FLPMA ensures sustainable collecting while allowing serious hobbyists to build meaningful collections. Most collectors report best results by systematically walking washes and checking hillside exposures where weathering reveals fresh specimens.",
+  "history": "The Tres Hermanas mountains formed during the Miocene epoch when extensive volcanism created andesite and rhyolite flows across this region. Subsequent silica-rich groundwater percolation through these volcanic rocks and surrounding sediments deposited agate, chalcedony, and jasper nodules that collectors find today. The gentle bajadas and wash systems have exposed these deposits over millennia of Basin and Range subsidence and erosion.",
+  "tips": "Focus your search on desert washes and arroyos where water erosion continuously exposes fresh material - walk the wash bottoms and banks systematically. Look for translucent to opaque agate with banding patterns and chalcedony specimens in cream, tan, and rust colors; jasper pieces often display red and brown tones. Bring a 5-gallon bucket and collecting bags - specimens here range from thumbnail-sized to fist-sized, so you can reach your 25-pound daily limit quickly. Morning hours are best for both specimen visibility and heat management in this exposed desert environment.",
+  "terrain_notes": "Elevation 4659 feet on gentle slopes with sparse desert vegetation including creosote and yucca. Walking surface combines hardpacked caliche, sandy wash bottoms, and scattered small rocks. No formal trails - cross-country walking over open desert. Typical collecting distances range from parking to 0.5 to 2 miles across easily walkable terrain. Well-draining soil and minimal loose rock hazard, though scattered sharp volcanic fragments require sturdy footwear.",
+  "best_season": "October - April. Winter temperatures are mild (40-60 F daytime) and heat exposure is minimal. May through September brings extreme desert heat exceeding 95-100 F, making morning-only collecting advisable and water requirements critical.",
+  "written_directions": "From Deming, take US 180 north approximately 12 miles toward the Tres Hermanas peaks. Watch for BLM access points and informal pullouts on either side of the highway near the mountain base. GPS coordinates (31.930749, -107.72552) mark the central peak area. High-clearance vehicles recommended for accessing secondary rough roads into prime collecting areas; standard passenger cars can reach highway-adjacent spots. No formal parking area - use wide pullouts along the access roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 180 is paved. Secondary access roads are unpaved dirt and caliche, passable year-round but rough in spots. High clearance preferable for rough areas; 2WD acceptable for main highway access points.",
+  "parking_notes": "Informal pullouts and wide shoulders along US 180 and secondary roads. No developed parking lot. Multiple access points allow parking near collecting areas. Typical capacity 2-4 vehicles per pullout.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Hand tools only. Pack out all trash. Collect surface specimens only - do not dig into hillsides or sealed deposits.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nPack out all trash\nSurface collecting only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "sharp_material",
+    "remote"
+  ],
+  "nearest_services": "Deming, approximately 12 miles south. Full services including gas, food, water, and lodging available. Luna County Hospital located in Deming.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Gentle slopes and open desert with minimal elevation change. Unpaved roads to main collecting areas passable by standard passenger vehicles. No formal trails but cross-country walking is straightforward. Sturdy footwear recommended due to scattered sharp volcanic rock fragments. Not wheelchair accessible due to rough terrain and lack of developed pathways.",
+  "alternative_names": [
+    "Three Sisters Mountains",
+    "Three Hermanas"
+  ],
+  "nearest_city": "Deming",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/tres-hermanas-mts-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of gemstones can I find rockhounding at Tres Hermanas Mts near Deming?",
+      "answer": "Tres Hermanas is known for agate, chalcedony, jasper, and quartz specimens. The agate often displays banding patterns in cream and tan tones, while chalcedony appears in translucent varieties. Red and brown jasper pieces are common finds in this area's desert washes and bajadas."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Tres Hermanas Mts on BLM land in New Mexico?",
+      "answer": "No permit is required for recreational collecting at Tres Hermanas Mts. The location sits on public BLM land managed under FLPMA, which allows personal use collecting without permits. You simply need to follow the 25-pound daily limit and surface-collection-only rules."
+    },
+    {
+      "question": "Is Tres Hermanas Mts rockhounding site suitable for beginners and families with kids?",
+      "answer": "Yes, Tres Hermanas is excellent for beginners and families. The gentle slopes and easily walkable open desert terrain require minimal hiking ability. Kids aged 6 and up can successfully hunt for specimens. The area's straightforward access and abundant surface material make it ideal for introducing children to rockhounding."
+    },
+    {
+      "question": "What is the best time of year to rockhound for agate at Tres Hermanas Mts in Luna County?",
+      "answer": "October through April is optimal for collecting at Tres Hermanas. Winter months offer mild temperatures (40-60 F) and manageable heat exposure, while summer heat exceeds 95-100 F. Spring and fall shoulder seasons provide comfortable conditions for spending several hours hunting specimens."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Tres Hermanas Mts?",
+      "answer": "Bring a sturdy pair of hiking boots for protection against sharp volcanic rock fragments. Pack a 5-gallon bucket and collection bags to reach your 25-pound daily limit. Essentials include a magnifying glass to inspect specimens, a geologist's hammer for testing hardness, plenty of water (at least 2 gallons), sun protection, and a GPS device or printed directions since cell service is spotty in this remote area."
+    },
+    {
+      "question": "How far is Tres Hermanas Mts rockhounding location from Deming, and what are driving directions?",
+      "answer": "Tres Hermanas Mts is approximately 12 miles north of Deming. Drive north on US 180 toward the distinctive three peaks. Look for informal pullouts along the highway and secondary roads near the mountain base at GPS coordinates 31.930749, -107.72552. High-clearance vehicles are recommended for rough secondary roads, though standard cars can access highway-adjacent collecting areas."
+    }
+  ],
+  "meta_title": "Tres Hermanas Mts Rockhounding - New Mexico",
+  "meta_description": "Find agate, chalcedony, and jasper at Tres Hermanas Mts near Deming on New Mexico BLM public land. No permit needed, 25 lbs/day limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (based on regional geology but specific collection data not sourced)",
+    "nearest_city_distance (estimated from GPS coordinates)",
+    "parking_notes (informal pullouts inferred from BLM standard practice)",
+    "cell_service (estimated as spotty based on remoteness and rural location)"
+  ],
+  "enriched_at": "2026-04-22T06:47:17.735Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:52:02.210Z"
+}

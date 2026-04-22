@@ -1,0 +1,98 @@
+{
+  "slug": "savoy-sd",
+  "name": "Savoy",
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "city": "Lawrence County Area",
+  "city_slug": "lawrence-county",
+  "county": "Lawrence",
+  "county_slug": "lawrence",
+  "lat": 44.359857,
+  "lng": -103.913828,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chert"
+  ],
+  "short_description": "Rockhounding in the Black Hills region near Savoy offers access to colorful agates, jasper, and quartz specimens. Public land in Lawrence County provides excellent collecting opportunities in a sce...",
+  "description": "Savoy sits in the northern Black Hills region of South Dakota, where Precambrian metamorphic rocks and Paleozoic sedimentary formations create a rich hunting ground for rockhounders. The area's gentle slopes and high elevation (5,611 feet) support a mixed ponderosa pine and prairie landscape typical of the Black Hills transition zone. Collectors here commonly find banded agates, red and brown jasper, and clear to smoky quartz specimens in creek beds, exposed hillsides, and talus slopes.\n\nThe geology of this region reflects over a billion years of complex deformation and mineralization. During the Precambrian, metamorphic processes created the resistant granite and schist that form the Black Hills core. Later, during the Paleozoic, marine sediments were deposited over these ancient rocks. Weathering and erosion throughout the Quaternary exposed these mineral-rich layers, concentrating specimens in surface deposits and washes that are accessible to rockhounders.\n\nAccess to Savoy-area public lands allows personal collection on BLM and national forest parcels. The gentle terrain makes this site suitable for rockhounders of varied ability, though some areas may involve creek walking or hillside scrambling. Expect to find quality specimens ranging from thumbnail pieces to hand-sized rocks, with the best material often concentrated in alluvial fans and wash areas after seasonal runoff.\n\nThe Black Hills climate and elevation mean weather changes quickly, and afternoon thunderstorms are common in summer. Spring and fall offer ideal collecting conditions with comfortable temperatures and lower water levels in streams. This location's proximity to Lawrence County services and established rockhounding areas makes it a practical base for a collecting trip in the northern Black Hills.",
+  "history": "The Savoy area sits within the Black Hills, a region where Precambrian granitic and metamorphic rocks were uplifted during the Laramide Orogeny (70-55 million years ago), bringing deep crustal material to the surface. This uplift exposed multiple rock units containing silica-rich minerals that subsequently weathered into the agates, jaspers, and quartz specimens found today in surface deposits and stream gravels.",
+  "tips": "Search creek beds and washes after spring runoff when gravel concentrations are highest and specimens have been recently exposed by water action. Look for agate pieces showing translucent banding or color zoning in reds, browns, whites, and grays - these typically indicate higher-quality material. Jasper here often appears as opaque red, brown, or multicolored chunks in hillside talus; scan slope faces and behind vegetation where material collects. Bring a 5-gallon bucket and small digging tool to work productive washes efficiently without over-excavating.",
+  "terrain_notes": "Elevation 5,611 feet on gentle slopes with mixed ponderosa pine forest and exposed hillsides. Terrain is rolling rather than steep, with creek beds and washes accessible by short walks of 0.5 to 2 miles from parking areas. Footing is generally stable on established paths but can be rocky and uneven in washes. No formal parking area; pullouts along accessing roads accommodate 2-4 vehicles. Walking distance from parking typically 10-30 minutes to productive collecting areas.",
+  "best_season": "May - September. Spring snowmelt (May-early June) exposes fresh material in washes. Summer offers reliable access though afternoon thunderstorms are common. September brings stable weather and cooler temperatures ideal for active rockhounding.",
+  "written_directions": "From Lawrence (approximately 20 miles south), take US 85 north toward Lead. Continue north on US 85 for 12-14 miles into Lawrence County. Look for Forest Service roads and pullouts in the Savoy vicinity east of US 85, marked by small signs or visible collecting areas. Access varies; ask at the Lawrence County Sheriff's office or local sporting goods stores for current road conditions and preferred access points. GPS coordinates will guide you to the central Savoy area; expect unpaved Forest Service roads requiring passenger vehicle clearance.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved Forest Service roads, generally passable for passenger vehicles in dry conditions. Washboard surface common. Avoid during wet weather or spring thaw.",
+  "parking_notes": "Informal pullouts along Forest Service access roads, typically accommodating 2-4 vehicles. No developed parking lot. Space is limited; arrive early during peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect from surface and loose material only - do not dig into bedrock or blast. Respect private property boundaries and stay on public lands.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo blasting or heavy machinery\nCollect surface material only\nStay on public lands\nClose all gates behind you",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "flash_floods",
+    "cold",
+    "remote"
+  ],
+  "nearest_services": "Lawrence, South Dakota, approximately 20 miles south. Services include gas, food, and lodging. Lead, South Dakota, 18 miles north, offers full services including a small hospital.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Unpaved road to parking pullouts requires clearance typical of passenger vehicles. Walking distances to collecting areas are short (10-30 minutes). Creek washes may be rocky and uneven; sturdy footwear recommended. Most areas not wheelchair accessible due to rough terrain.",
+  "alternative_names": [],
+  "nearest_city": "Lawrence",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/south-dakota/savoy-sd/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of rocks and gems can I find rockhounding near Savoy, South Dakota?",
+      "answer": "The Savoy area is known for banded agates with red, brown, and white coloring, opaque jasper (often red and brown), clear to smoky quartz, and chert specimens. Most material is found in creek beds and hillside talus deposits. Quality ranges from thumbnail-sized pieces to hand-sized collectibles suitable for display or cabochon cutting."
+    },
+    {
+      "question": "Is rockhounding at Savoy free, or do I need a permit?",
+      "answer": "Rockhounding at Savoy is free and does not require a permit. The area sits on public lands (National Forest) where personal collection is allowed under FLPMA regulations. You may collect up to 25 pounds per day for personal use at no cost."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in the Black Hills near Savoy?",
+      "answer": "May through September is ideal. Spring runoff (May-early June) exposes fresh material in creek beds. Summer offers reliable access, though afternoon thunderstorms are common. September provides stable weather and cooler temperatures perfect for active collecting. Avoid winter months due to snow at 5,600-foot elevation."
+    },
+    {
+      "question": "How do I find agates and jasper in Savoy-area washes and hillsides?",
+      "answer": "Search creek beds and washes where water has concentrated heavier minerals. Look for agates showing translucent banding or distinct color zoning in reds, whites, and grays. Jasper appears as opaque red or brown chunks scattered on hillsides and in talus slopes behind vegetation. Use a 5-gallon bucket and small digging tool to work productive areas efficiently without over-excavating."
+    },
+    {
+      "question": "Is the Savoy rockhounding area suitable for kids and families?",
+      "answer": "Yes, Savoy is family-friendly and beginner-suitable. The terrain is relatively flat to gently rolling, with short walks (10-30 minutes) to productive collecting areas. Children ages 6 and up can participate effectively. The area is dog-friendly, making it ideal for families with pets seeking an outdoor rockhounding adventure."
+    },
+    {
+      "question": "What tools and equipment should I bring for rockhounding at Savoy?",
+      "answer": "Bring a 5-gallon bucket for transporting specimens, a small hand spade or shovel for working washes, a magnifying glass to identify agate banding, and sturdy hiking boots for rocky terrain. Bring plenty of water (especially in summer), sun protection, and a map of Forest Service roads. A GPS unit or smartphone will help navigate to productive areas and stay on public land."
+    }
+  ],
+  "meta_title": "Savoy Rockhounding - South Dakota Black Hills",
+  "meta_description": "Hunt agates, jasper, and quartz near Savoy in South Dakota's Black Hills. Free public rockhounding on National Forest land, perfect for families and beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Black Hills geology - no scraped source)",
+    "primary_category (inferred as national_forest - terrain data did not specify)",
+    "written_directions (constructed using regional knowledge - no specific source provided)",
+    "best_season (derived from Black Hills climate patterns)",
+    "hazards (inferred from terrain elevation and remoteness)"
+  ],
+  "enriched_at": "2026-04-21T18:35:38.933Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:37:02.268Z"
+}

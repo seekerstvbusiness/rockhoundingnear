@@ -1,0 +1,60 @@
+{
+  "slug": "souris-river-nd",
+  "name": "Souris River",
+  "lat": 48.114986,
+  "lng": -100.801942,
+  "state": "North Dakota",
+  "state_slug": "north-dakota",
+  "state_code": "ND",
+  "city": "McHenry County",
+  "city_slug": "mchenry-county",
+  "county": "McHenry",
+  "county_slug": "mchenry",
+  "geocoded_city": "McHenry County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Souris%20River%20North%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Souris%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Souris%20River%20North%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1482,
+      "meters": 452
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:35:59.099Z"
+  },
+  "scraped_at": "2026-04-21T16:35:59.099Z",
+  "scrape_quality": "minimal"
+}

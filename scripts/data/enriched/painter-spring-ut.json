@@ -1,0 +1,97 @@
+{
+  "slug": "painter-spring-ut",
+  "name": "Painter Spring",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Millard County",
+  "city_slug": "millard-county",
+  "county": "Millard",
+  "county_slug": "millard",
+  "lat": 39.185116,
+  "lng": -113.441994,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding site near central Utah offering agate, jasper, and chalcedony collecting in high desert terrain. Free access with no permits required.",
+  "description": "Painter Spring is a public BLM rockhounding site located in Millard County's remote high desert landscape. This location provides excellent opportunities for collectors seeking quality agate, jasper, and chalcedony specimens in relatively undisturbed terrain. The site sits at moderate elevation in the Basin and Range physiographic province, characterized by sparse vegetation, scattered rock outcrops, and wide-open vistas typical of central Utah's public lands.\n\nThe geology here reflects the region's rich silica-bearing formations. Miocene-age volcanic activity and subsequent groundwater circulation deposited silica-rich fluids that crystallized into the agate and chalcedony nodules found throughout the area today. Jasper deposits result from iron oxide-stained silica precipitation in ancient hydrothermal environments. These conditions created the colorful banded and mottled specimens sought by collectors.\n\nExpect to spend 2-4 hours surface collecting across gently rolling terrain with scattered wash systems. The surrounding landscape offers minimal shade, so morning or late-afternoon visits are most comfortable. Surface specimens are the primary find here - nodules and pieces eroding from hillsides and wash banks. This is a beginner-friendly location that requires no special permits and welcomes rockhounding on a casual personal-use basis.\n\nParking is available at pullouts near the access roads. From there, most productive areas are within a 10-20 minute walk of vehicle parking. The combination of free access, public land status, and reliable agate/jasper presence makes Painter Spring a solid choice for central Utah rockhounding trips.",
+  "history": "Painter Spring sits within the Basin and Range province where Miocene-age volcanic activity (20-15 million years ago) deposited extensive silica-rich hydrothermal fluids that crystallized into agate and jasper deposits. The site's colorful nodules and specimens result from millions of years of weathering and erosion exposing these ancient mineral-filled cavities in bedrock.",
+  "tips": "Search wash banks and sandy areas where erosion naturally exposes specimens - look for colorful banded agate with white, red, or brown banding, and opaque jasper with mottled patterns. Bring a UV light to identify fluorescent specimens that often indicate better quality material. Work the base of small ridges where runoff has concentrated lighter nodules, and examine loose gravels for partially buried pieces showing fresh color where weathered surfaces are dull.",
+  "terrain_notes": "Moderate elevation high desert terrain (approximately 5,200-5,400 feet) with sparse sagebrush and scattered juniper. Gently rolling slopes with occasional steeper washes. Most collecting occurs on relatively flat terrain with stable footing on compacted dirt and sandy washes. Minimal shade available. Footing is generally solid except where loose scree is present near wash banks.",
+  "best_season": "October - April. The high desert climate brings extreme heat (90-110F) in summer months. Fall through spring offers comfortable temperatures (50-75F) and optimal collecting conditions. Late October and March offer particularly pleasant weather and lower visitation.",
+  "written_directions": "From Delta, Utah (the nearest town with services), head south on US-6 for approximately 35 miles. Continue through the town of Deseret. Look for local BLM access roads heading east toward Painter Spring in the Millard County area. The precise location is accessed via rough dirt roads - high-clearance vehicles are recommended. GPS coordinates (39.185116, -113.441994) are essential for locating this remote site. Verify current road conditions before departing, as spring snowmelt and heavy rains may limit access.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt roads with potential washboard surface and ruts, especially after rain. High-clearance or AWD vehicle recommended for reliable access. Road conditions vary seasonally.",
+  "parking_notes": "Pullouts and informal parking areas available near BLM access points. Space for 3-5 vehicles typical. No developed facilities or amenities at parking areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or digging with heavy equipment. Surface collection only. All collecting must comply with local BLM management plans.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nSurface collection only\nResearch current BLM closures before visiting",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Delta, Utah (approximately 35 miles northwest) - gas, food, water, and supplies available. No services at or near the rockhounding site itself.",
+  "accessibility_notes": "Relatively easy terrain with gentle slopes and stable footing on dirt and sandy washes. No wheelchair access due to rough dirt road approach and uneven natural terrain. Sturdy closed-toe hiking boots recommended. The remote location and lack of shade require good physical condition and heat tolerance. Most able-bodied visitors can access productive collecting areas within 10-20 minutes walking distance from parking.",
+  "alternative_names": [],
+  "nearest_city": "Delta",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/painter-spring-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agate can you find at Painter Spring in Utah?",
+      "answer": "Painter Spring is known for producing banded agate with distinctive red, brown, white, and tan striping, as well as mottled and dendritic varieties. Most specimens are found as nodules and loose pieces in washes and along hillsides. The colorful banding results from iron oxide layers deposited during ancient hydrothermal activity in the Miocene period."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Painter Spring, Utah?",
+      "answer": "No permit is required for personal use rockhounding at Painter Spring. This is BLM public land in Millard County where recreational collecting is allowed under FLPMA guidelines. You are limited to 25 lbs per day and must collect for personal use only - no commercial collection is permitted."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Painter Spring?",
+      "answer": "October through April is ideal for Painter Spring rockhounding. Summer temperatures in this high desert area regularly exceed 100F with minimal shade available. Fall and spring offer comfortable temperatures (50-75F) and the best collecting conditions. Winter visits are possible but snow may temporarily block access roads."
+    },
+    {
+      "question": "How far is Painter Spring from Delta, Utah and what roads do you take?",
+      "answer": "Painter Spring is approximately 35 miles south of Delta. Take US-6 south through Deseret and continue toward Millard County. Access requires rough BLM dirt roads that may need high-clearance or AWD vehicles. GPS coordinates (39.185116, -113.441994) are essential since the remote location is difficult to locate without precise navigation."
+    },
+    {
+      "question": "Can families with young children rockhound at Painter Spring?",
+      "answer": "Yes, Painter Spring is family-friendly for rockhounding with children ages 6 and up. The terrain is relatively easy with gentle slopes and short walking distances from parking. However, plan for the remote location with no shade, water, or facilities - bring plenty of water, sunscreen, and hats. Start early in the day and return before afternoon heat peaks."
+    },
+    {
+      "question": "What tools and equipment should you bring when rockhounding at Painter Spring?",
+      "answer": "Bring a sturdy hammer and chisel for specimen collection, a UV light to identify fluorescent pieces, and a backpack with a 25-lb capacity limit. Essential: sunscreen, wide-brimmed hat, minimum 2 liters of water per person, and closed-toe hiking boots. A GPS device or smartphone with maps helps navigate rough access roads. Bring a cooler for heat protection and a headlamp if visiting during shorter daylight months."
+    }
+  ],
+  "meta_title": "Painter Spring Rockhounding - Utah Agate & Jasper",
+  "meta_description": "Free BLM rockhounding at Painter Spring, Utah. Find agate, jasper, and chalcedony. No permit needed. 25 lb daily limit. Remote high desert site near Delta.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T06:51:18.115Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:58:09.756Z"
+}

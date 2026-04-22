@@ -1,0 +1,38 @@
+{
+  "state_slug": "alabama",
+  "total": 1,
+  "stages": {
+    "scrape": {
+      "done": [
+        "hogg-mine-al"
+      ],
+      "failed": []
+    },
+    "enrich": {
+      "done": [
+        "hogg-mine-al"
+      ],
+      "failed": []
+    },
+    "images": {
+      "done": [
+        "hogg-mine-al"
+      ],
+      "failed": []
+    },
+    "validate": {
+      "done": [
+        "hogg-mine-al"
+      ],
+      "failed": []
+    },
+    "import": {
+      "done": [
+        "hogg-mine-al"
+      ],
+      "failed": []
+    }
+  },
+  "started_at": "2026-04-21T16:31:54.747Z",
+  "updated_at": "2026-04-22T10:13:25.255Z"
+}

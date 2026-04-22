@@ -1,0 +1,60 @@
+{
+  "slug": "vaugh-ga",
+  "name": "Vaugh",
+  "lat": 33.280887,
+  "lng": -84.395014,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Spalding County",
+  "city_slug": "spalding-county",
+  "county": "Spalding",
+  "county_slug": "spalding",
+  "geocoded_city": "Vaughn",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Vaugh%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Vaugh",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Vaugh%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 765,
+      "meters": 233
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:12:02.221Z"
+  },
+  "scraped_at": "2026-04-21T19:12:02.221Z",
+  "scrape_quality": "minimal"
+}

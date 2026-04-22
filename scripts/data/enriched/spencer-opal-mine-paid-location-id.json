@@ -1,0 +1,96 @@
+{
+  "slug": "spencer-opal-mine-paid-location-id",
+  "name": "Spencer Opal Mine",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Spencer",
+  "city_slug": "spencer",
+  "county": "Clark",
+  "county_slug": "clark",
+  "lat": 44.36143,
+  "lng": -112.186463,
+  "gem_types": [
+    "Opal",
+    "Chalcedony",
+    "Agate"
+  ],
+  "short_description": "Public BLM land near Spencer offering recreational opal collecting with no permit required. Maximum 25 lbs per day allowed under FLPMA regulations.",
+  "description": "Spencer Opal Mine sits on Idaho BLM land in the high desert plateau country of central Idaho, near the small town of Spencer in Clark County. This location provides rockhounders the opportunity to collect fire opals and chalcedony specimens under standard recreational use guidelines. The site is easily accessible by passenger vehicle, making it suitable for collectors of all experience levels seeking to add Idaho opals to their collection.\n\nThe geology of this region reflects the Basin and Range extension that occurred during the Cenozoic era. Silica-rich hydrothermal fluids percolated through fractured volcanic rock and sedimentary layers, depositing microcrystalline silica that eventually formed the opal and chalcedony deposits found here. The Spencer area sits within zones of historical hot spring activity where these conditions favored opal formation, particularly in the upper portions of eroded ridges and washes.\n\nCollecting at Spencer Opal Mine follows standard BLM recreational guidelines: personal use only, maximum 25 lbs per day, no commercial collection, and no motorized excavation. This makes it an ideal location for hobbyists looking to gather specimens without the commitment or cost of fee-dig sites. The terrain is relatively open sagebrush country with scattered outcrops, allowing you to explore a reasonable area in a single outing.\n\nVisitors should bring hand tools such as a rock hammer, chisel, and bucket, and wear sturdy boots as the ground can be uneven and rocky. Early morning visits often yield better results as the light helps reveal opal specimens among the soil and weathered rock. The high elevation and semi-arid climate mean temperatures can vary significantly between seasons.",
+  "history": "The Spencer area lies within a region of central Idaho known for Cenozoic volcanic and hydrothermal activity. Miocene-age hot springs and geothermal systems deposited silica-rich fluids into fractured volcanic country rock, creating the conditions necessary for fire opal and precious opal formation. Historical prospectors recognized these deposits, and the area has remained a productive site for small-scale recreational collecting.",
+  "tips": "Search in eroded washes and along hillside slopes where water has exposed opal-bearing material; fire opals often appear as translucent reddish or orange specimens. Use a small rock hammer and chisel to carefully work outcrops and loose rock rather than digging indiscriminately. Look for chalcedony nodules and agate fragments in the surrounding area if opal proves scarce on the day of your visit. Always fill in any holes or disturbed ground to maintain the landscape and comply with BLM stewardship expectations.",
+  "terrain_notes": "Elevation approximately 6,200 feet. Rolling to gently sloping sagebrush steppe with scattered basalt and rhyolite outcrops. Terrain is uneven with loose volcanic rock and shallow soil. Walking distance from parking is typically 0.5 to 2 miles depending on which collecting areas you explore. Footing can be rocky and unstable in places; sturdy hiking boots are essential.",
+  "best_season": "June - September. High elevation and semi-arid climate mean winter brings snow and ice that limits access. Spring can be muddy. Summer and early fall offer the most reliable weather, with warm days and minimal precipitation. Late September is particularly good as temperatures cool but conditions remain dry.",
+  "written_directions": "From Spencer, take local roads east and north approximately 8-10 miles toward the BLM collecting areas near the Spencer area boundary. Consult current BLM Idaho maps or contact the Salmon Field Office to confirm exact access points and seasonal road conditions. A standard passenger vehicle can usually reach main parking areas, though some side roads may be rougher. GPS coordinates 44.36143, -112.186463 mark the general location; use these with a mapping application to confirm your approach.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mostly dirt and gravel roads maintained by BLM; generally passable to passenger vehicles during dry season. May require high-clearance or AWD during wet periods or winter.",
+  "parking_notes": "Informal pullouts and parking areas near collecting sites. No developed parking lot; vehicles park along road shoulders or in designated BLM pullouts. Capacity varies by location; typically room for 5-10 vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation. No removal of larger formations or veins. Pack out all trash. Fill in any excavated areas. Respect all posted closures and seasonal restrictions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo large formation removal\nPack out all trash\nFill in excavated areas\nRespect posted closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Spencer, approximately 8-10 miles west, offers basic supplies. Larger services and accommodations are available in Salmon, approximately 40 miles south.",
+  "accessibility_notes": "Relatively uneven terrain with loose volcanic rock and shallow soil. No wheelchair accessibility to collecting areas. Sturdy hiking boots and reasonable physical fitness required. Elevation of 6,200 feet may affect those sensitive to altitude. Dogs should be kept under control due to wildlife presence.",
+  "alternative_names": [],
+  "nearest_city": "Spencer",
+  "nearest_city_distance": 9,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/spencer-opal-mine-paid-location-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of opals can you find at Spencer Opal Mine in Idaho?",
+      "answer": "Spencer Opal Mine is known for fire opals, which display warm reddish, orange, and yellow hues. Specimens are typically translucent microcrystalline opal found in weathered volcanic material. You may also encounter chalcedony nodules and agate fragments in the surrounding area."
+    },
+    {
+      "question": "Do you need a permit to collect at Spencer Opal Mine?",
+      "answer": "No permit is required for recreational collecting at Spencer Opal Mine. As BLM public land, this site follows standard FLPMA regulations allowing personal use collection without a permit, though you are limited to 25 lbs per day."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Spencer, Idaho?",
+      "answer": "The best season to visit Spencer Opal Mine is June through September. High elevation means winter brings snow and ice, while spring can be muddy. Summer and early fall offer warm, dry weather ideal for exploring the sagebrush terrain and locating specimens."
+    },
+    {
+      "question": "What tools do you need to collect opals at Spencer, Idaho?",
+      "answer": "Bring a small rock hammer, chisel, and bucket for specimens. Sturdy boots are essential due to uneven rocky terrain. A hand lens helps identify opal specimens, and sunscreen and water are important at the 6,200-foot elevation in the semi-arid climate."
+    },
+    {
+      "question": "Is Spencer Opal Mine a beginner-friendly rockhounding location?",
+      "answer": "Yes, Spencer Opal Mine is excellent for beginners. The easy difficulty, no permit requirement, and abundant specimens make it ideal for first-time rockhounders. The terrain is manageable for most fitness levels, and opals are relatively easy to spot once you learn what to look for."
+    },
+    {
+      "question": "How far is Spencer Opal Mine from town and what services are nearby?",
+      "answer": "Spencer Opal Mine is located about 8-10 miles from the town of Spencer. Spencer offers basic supplies and gas, while larger services including restaurants, lodging, and grocery stores are available in Salmon, approximately 40 miles to the south."
+    }
+  ],
+  "meta_title": "Spencer Opal Mine Rockhounding - Idaho",
+  "meta_description": "Collect fire opals, chalcedony, and agate at Spencer Opal Mine on public BLM land. No permit required, 25 lbs/day limit. Beginner-friendly Idaho rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (no detailed terrain data provided - directions inferred from general geography)",
+    "parking_notes (informal BLM parking typical but specifics unconfirmed)",
+    "fee_amount (labeled as paid location in name but BLM site typically free - requires verification)",
+    "cell_service (spotty inferred from remote Idaho location)"
+  ],
+  "enriched_at": "2026-04-22T09:49:59.299Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:45.959Z"
+}

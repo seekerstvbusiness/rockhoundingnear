@@ -1,0 +1,103 @@
+{
+  "slug": "althouse-creek-or",
+  "name": "Althouse Creek",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Josephine County Area",
+  "city_slug": "josephine-county",
+  "county": "Josephine",
+  "county_slug": "josephine",
+  "lat": 42.112576,
+  "lng": -123.538928,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding site in southwestern Oregon offering agate, jasper, and quartz specimens along Althouse Creek. Free public collecting with 25 lb daily limit.",
+  "description": "Althouse Creek sits in the heart of Josephine County's rockhounding country, a productive BLM area where collectors find quality agate nodules, banded jasper, and colorful quartz specimens. The site follows the creek drainage through mixed forest and open brush, with multiple productive washing areas and hillside outcrops accessible to moderate hikers. This region benefits from Oregon's rich volcanic and sedimentary geology - the Althouse Creek drainage has yielded collector-grade material for decades, and the creek's constant erosive action continues to expose fresh specimens.\n\nThe elevation of 1656 feet keeps the site mild compared to higher mountain passes, and the creek-based approach means good water access for washing finds on site. Collectors should expect to spend time exploring both the creek bed gravels and the surrounding weathered hillsides where agates and jasper weather out of the host rock. Many productive spots are within easy walking distance of parking areas, though the best material often requires scrambling along the creek itself.\n\nThis is a beginner-friendly location with minimal hazards compared to other Oregon rockhounding sites. The combination of public access, no permit requirement, and reliable gem production makes Althouse Creek a favorite for those seeking quality southeastern Oregon specimens without the difficulty of high mountain sites or the fees of commercial operations.",
+  "history": "Althouse Creek lies within the Klamath Mountains physiographic province, where Mesozoic and Cenozoic volcanic and sedimentary rocks host abundant silica-rich mineral deposits. The creek drainage itself has served as a natural sorting mechanism for over 100 years, concentrating agate nodules and jasper fragments in gravels that early prospectors recognized as productive rockhounding territory.",
+  "tips": "Focus on the creek bed gravels and the banks within 50 feet of the water line - this is where erosion concentrates the heaviest specimens. Bring a small classifier or screen to work creek gravels efficiently and identify agates still embedded in weathered rock. Look for translucent banding patterns and waxy luster on exposed rocks; agates often appear weathered and chalky on the outside but polish to reveal vibrant color patterns inside. The hillsides immediately adjacent to the creek bed are also productive - scan slopes for loose jasper chips and quartz fragments weathering from outcrops.",
+  "terrain_notes": "Elevation 1656 feet in mixed forest transitioning to open brush. Terrain is moderately rugged with moderate slope grades along the creek drainage. Walking distance from parking to productive areas averages 0.25 to 1 mile depending on access point chosen. Footing is uneven with loose rocks, creek cobbles, and some erosional gullies. No maintained trail - travel is cross-country and creek-walking. Sturdy boots with ankle support strongly recommended.",
+  "best_season": "May - September. The drier months provide best access; spring snowmelt can make the creek difficult to work, while fall rains begin in late September. Summer months offer reliable weather and lower water levels, making creek bed work productive and safe.",
+  "written_directions": "From Grants Pass, drive south on I-5 for approximately 25 miles toward the California border. Take the Rogue River exit and head south/southeast toward Josephine County on local county roads. Navigate toward the Althouse Creek drainage area using Forest Service or BLM access roads. Specific parking pullouts exist along the main creek access road; look for informal rockhound parking areas marked by other collector vehicles. GPS coordinates 42.112576, -123.538928 mark the general productive zone. The final approach involves narrow county/BLM roads suitable for passenger vehicles but requiring careful driving. Confirm current road conditions with the Grants Pass BLM office before traveling.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "County and BLM access roads with gravel surface; some washboard and minor ruts. Passenger vehicles suitable in dry conditions; high-clearance preferred. Not recommended after heavy rain.",
+  "parking_notes": "Informal pullouts along creek access road. Limited developed parking; expect 2-4 vehicle capacity at main sites. No amenities or facilities. Parking is free.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No blasting or power tools. Collect only loose material and surface specimens - do not break bedrock. Pack out all trash. Follow Leave No Trace principles.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nNo blasting\nCollect only loose material and surface specimens\nDo not break bedrock\nPack out all trash\nFollow Leave No Trace principles",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "flash_floods",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Grants Pass, approximately 30 miles north. Full services including gas, food, lodging, and water. Jacksonville and Cave Junction offer smaller towns closer to the site with basic services.",
+  "accessibility_notes": "Moderate terrain with uneven creek-bed walking and hillside scrambling. Loose rocks and unstable footing common. No wheelchair access or developed trail. Requires sturdy footwear and moderate fitness for creek-bed collecting. Hillside work involves slope navigation. Not suitable for limited mobility or very young children without close supervision.",
+  "alternative_names": [],
+  "nearest_city": "Grants Pass",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/althouse-creek-or/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/althouse-creek-or/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/althouse-creek-or/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/althouse-creek-or/mineral-3-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates can you find at Althouse Creek in Oregon?",
+      "answer": "Althouse Creek is known for banded agate, moss agate, and translucent chalcedony specimens. Agates here often show waxy luster and can display vibrant color banding ranging from white to orange, red, and brown. Many specimens start out weathered and chalky-looking on the surface but reveal stunning color and clarity when cut or polished. The creek-bed gravels concentrate agates that have weathered out of surrounding volcanic host rock."
+    },
+    {
+      "question": "Is there a permit required for rockhounding at Althouse Creek BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Althouse Creek. As BLM public land in Oregon, it follows FLPMA personal-use collection rules: you can collect up to 25 lbs per day at no cost. Commercial collection is prohibited. Simply show up during daylight hours, follow the 25 lb daily limit, and pack out your trash."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Althouse Creek near Josephine County?",
+      "answer": "May through September is optimal for Althouse Creek. Water levels are lower in summer months, making creek-bed work safer and more productive. Spring snowmelt and fall rains begin in late September, which can make the creek dangerous and access roads muddy. Summer provides warm, stable weather and better exposure of creek gravels where agates concentrate."
+    },
+    {
+      "question": "How difficult is rockhounding at Althouse Creek for beginners?",
+      "answer": "Althouse Creek is beginner-friendly with moderate terrain difficulty. No permit or equipment is required to start collecting. Agates and jasper are relatively easy to spot once you learn to identify their waxy luster and banding. Most productive areas are within 1 mile of parking, and the creek-bed collecting requires only a small screen and water to be effective. Children 8 and older can participate with supervision."
+    },
+    {
+      "question": "What tools and equipment should I bring to Althouse Creek rockhounding?",
+      "answer": "Bring sturdy hiking boots, a small classifier or screen for working creek gravels, a 5-gallon bucket, hand tools (small pick, chisel), and water for washing. A daypack, snacks, and first aid kit are essential. Bring a scale or weight estimate since the 25 lb daily limit applies - a small luggage scale helps track your take. Wear sun protection and bring extra water since services are 30 miles away."
+    },
+    {
+      "question": "Where exactly should I search for agates and jasper at Althouse Creek?",
+      "answer": "Focus first on the Althouse Creek bed itself, especially in areas with concentrated gravels and gravel bars. The creek banks within 50 feet of the water line are productive due to natural sorting by erosion. Hillsides immediately adjacent to the creek drainage often yield loose jasper chips and quartz fragments weathering from outcrops. Screen creek gravels to find smaller agates and specimens still partially embedded in weathered rock. Early morning or after creek flows subsides offers best access to productive side channels."
+    }
+  ],
+  "meta_title": "Althouse Creek Rockhounding - Oregon BLM",
+  "meta_description": "Free BLM rockhounding in Josephine County for agate, jasper, and quartz. No permit, 25 lb daily limit. Moderate terrain, beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "parking_notes",
+    "cell_service",
+    "hazards"
+  ],
+  "enriched_at": "2026-04-22T06:39:26.952Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:40:31.386Z"
+}

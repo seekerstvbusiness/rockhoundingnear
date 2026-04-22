@@ -1,0 +1,99 @@
+{
+  "slug": "tuscarora-nv",
+  "name": "Tuscarora",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Elko",
+  "city_slug": "elko",
+  "county": "Elko",
+  "county_slug": "elko",
+  "lat": 41.319183,
+  "lng": -116.220512,
+  "gem_types": [
+    "Agate",
+    "Quartz",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM public land rockhounding site in the high desert near Tuscarora with abundant agate, quartz, and chalcedony specimens. Free collecting with no permit required.",
+  "description": "Tuscarora sits in the heart of Nevada's Basin and Range province at 6,197 feet elevation, offering excellent opportunities for recreational rockhounds seeking quality agate and quartz specimens. The gentle slopes and exposed mineralized terrain make this a productive location for both beginners and experienced collectors. The area is characterized by typical Great Basin high desert geology with numerous exposed wash cuts and hillside outcrops that reveal colorful banded agates, translucent quartz, and fine chalcedony nodules.\n\nThis location is managed by the Nevada BLM, which means it is open to the public for personal use rockhounding at no charge. The terrain transitions between sagebrush-covered flats and gentle rocky hillsides, making access straightforward for most skill levels. Collectors typically focus their efforts along dry washes and arroyos where water erosion has exposed fresh material and concentrated heavier specimens at the surface.\n\nThe high elevation and relatively mild terrain provide comfortable collecting conditions during the cooler months. Visitors should expect to spend several hours walking across gentle slopes and through wash bottoms examining loose material and partially exposed specimens in the ground. The remote location means self-sufficiency is important - bring adequate water, sun protection, and tools for extracting specimens.",
+  "history": "Tuscarora lies within the northern Nevada portion of the Basin and Range physiographic province, where Tertiary-age rhyolitic and andesitic volcanic activity deposited extensive silica-rich ash falls and hydrothermal fluids. These processes created the agate and chalcedony deposits now exposed at the surface through millions of years of erosion. The area was actively prospected during Nevada's late 19th-century mining rushes, and the ghost town of Tuscarora served as a supply center for surrounding mining camps seeking silver, gold, and other minerals.",
+  "tips": "Search the exposed washes and arroyos where water erosion has naturally concentrated heavier agate nodules and quartz fragments along the surface. Use a geological hammer and chisel to carefully extract partially buried specimens from rocky hillsides, where many of the finest banded agates remain partially exposed in the host rock. Look for specimens with rich banding, translucency, or distinctive color patterns - the best agates here often show red, orange, and cream-colored bands. Early morning or late afternoon collecting offers better lighting to spot specimens and reduces midday heat exposure.",
+  "terrain_notes": "Elevation 6,197 feet with gentle slopes throughout the collecting area. Terrain is predominantly high desert sagebrush scrubland with scattered juniper, rocky washes, and exposed hillsides with light soil cover. Walking distances from parking areas typically range from 0.5 to 2 miles. Footing is moderately uneven with loose volcanic rock and some embedded larger boulders in wash bottoms. Ground is generally stable but rocky and requires sturdy footwear.",
+  "best_season": "May - October. The high elevation (over 6,000 feet) means cooler temperatures and more comfortable collecting conditions during late spring through fall. Winter months bring snow and cold temperatures that make access difficult. Summer can be hot but is manageable with early morning starts and adequate water supplies.",
+  "written_directions": "From Elko, take Nevada State Route 226 north toward Tuscarora approximately 45 miles. Continue through the town of Tuscarora and follow the BLM access roads east and southeast of town. Specific collecting areas are accessible via maintained dirt roads suitable for passenger vehicles under normal conditions. Look for pullouts and turnarounds along the BLM roads where you can safely park and begin walking into the collecting zones. Detailed directions to specific productive spots may require consultation with local rockhounding clubs or the Elko BLM field office.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Maintained dirt roads suitable for passenger vehicles. Some washboard and minor ruts possible depending on recent weather. High-clearance recommended but not required for main access roads.",
+  "parking_notes": "Informal pullouts and parking areas along BLM roads. Capacity varies by location but typically accommodates 2-4 vehicles per spot. No developed parking facilities or amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or heavy equipment. Specimens must be hand-collected using basic hand tools only. Leave the site as you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nHand tools only (hammer, chisel, pick)\nLeave no trash behind\nRespect private property boundaries adjacent to BLM land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Elko, Nevada (approximately 45 miles south) has full services including gas, food, lodging, and supplies. Tuscarora has minimal services - plan to resupply in Elko.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Unpaved dirt roads to parking areas suitable for standard passenger vehicles. Walking on uneven rocky ground requires sturdy footwear and moderate mobility. No wheelchair-accessible areas or facilities. Terrain is open and exposed with limited shade - sun protection essential.",
+  "alternative_names": [],
+  "nearest_city": "Elko",
+  "nearest_city_distance": 45,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/tuscarora-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/tuscarora-nv/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Tuscarora, Nevada?",
+      "answer": "The primary gemstones at Tuscarora are banded agate, quartz, chalcedony, and jasper. The agates here often display beautiful red, orange, and cream-colored banding. Many specimens are found loose on the surface in washes and along hillsides, making them accessible to collectors of all experience levels."
+    },
+    {
+      "question": "Do I need a permit to collect rocks at Tuscarora BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Tuscarora. The site is open BLM public land where personal use collection is allowed at no charge. You only need to follow the 25 lb per day limit and avoid commercial collection activities."
+    },
+    {
+      "question": "How far is Tuscarora from Elko, and what is the drive like?",
+      "answer": "Tuscarora is approximately 45 miles north of Elko via Nevada State Route 226. The drive takes about an hour and includes paved highway and maintained dirt roads. The last portion involves BLM access roads suitable for standard passenger vehicles, though high-clearance vehicles are recommended."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Tuscarora?",
+      "answer": "The best rockhounding season at Tuscarora is May through October. The high elevation (6,197 feet) means cooler temperatures during summer and early fall. Winter months bring snow and cold that make access difficult. Plan to arrive early in the day to maximize light and avoid midday heat."
+    },
+    {
+      "question": "Is Tuscarora rockhounding suitable for beginners and families?",
+      "answer": "Yes, Tuscarora is very beginner and family-friendly. The terrain features gentle slopes and easy access to productive collecting areas. Children ages 6 and up can participate, and specimens are often found loose on the surface requiring minimal digging. Standard hand tools like a hammer and chisel are all you need."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Tuscarora?",
+      "answer": "Bring a geological hammer, cold chisel, sturdy gloves, and a collection bag. Essential supplies include plenty of water (at least 2 liters), sunscreen, a wide-brimmed hat, and sturdy hiking boots. A field guide to Nevada agate will help you identify the best specimens. Because Tuscarora is remote, ensure your vehicle has adequate fuel and consider bringing a basic first aid kit."
+    }
+  ],
+  "meta_title": "Tuscarora Rockhounding - Find Agate & Quartz, Nevada",
+  "meta_description": "Free BLM rockhounding site near Tuscarora, Nevada. Collect agate, quartz, and chalcedony. No permit required. 45 miles from Elko.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city - Tuscarora is a ghost town; Elko is nearest functioning city with services",
+    "road_conditions - inferred from BLM land type; specific road conditions not provided in source",
+    "cell_service - inferred as spotty based on remote high desert location; not explicitly stated in source",
+    "gem_types - inferred from typical Basin and Range geology; specific site geology not provided in source"
+  ],
+  "enriched_at": "2026-04-22T06:43:11.230Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:34.900Z"
+}

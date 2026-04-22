@@ -1,0 +1,60 @@
+{
+  "slug": "olowalu-valley-hi",
+  "name": "Olowalu Valley",
+  "lat": 20.826239,
+  "lng": -156.605554,
+  "state": "Hawaii",
+  "state_slug": "hawaii",
+  "state_code": "HI",
+  "city": "Maui County",
+  "city_slug": "maui-county",
+  "county": "Maui",
+  "county_slug": "maui",
+  "geocoded_city": "Maui County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-hawaii.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Olowalu%20Valley%20Hawaii"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Olowalu%20Valley",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Olowalu%20Valley%20Hawaii"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 345,
+      "meters": 105
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:32:41.512Z"
+  },
+  "scraped_at": "2026-04-21T16:32:41.512Z",
+  "scrape_quality": "minimal"
+}

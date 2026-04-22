@@ -1,0 +1,60 @@
+{
+  "slug": "severance-hill-nh",
+  "name": "Severance Hill",
+  "lat": 43.52371,
+  "lng": -71.899439,
+  "state": "New Hampshire",
+  "state_slug": "new-hampshire",
+  "state_code": "NH",
+  "city": "Danbury",
+  "city_slug": "danbury",
+  "county": "Merrimack",
+  "county_slug": "merrimack",
+  "geocoded_city": "Danbury",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-hampshire.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Severance%20Hill%20New%20Hampshire"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Severance%20Hill",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Severance%20Hill%20New%20Hampshire"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1508,
+      "meters": 460
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:28:29.342Z"
+  },
+  "scraped_at": "2026-04-21T17:28:29.342Z",
+  "scrape_quality": "minimal"
+}

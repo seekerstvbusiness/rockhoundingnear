@@ -1,0 +1,100 @@
+{
+  "slug": "antelope-range-ut",
+  "name": "Antelope Range",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Piute County",
+  "city_slug": "piute-county",
+  "county": "Piute",
+  "county_slug": "piute",
+  "lat": 38.501216,
+  "lng": -112.19837,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding in central Utah's scenic high desert. Hunt for colorful agates, jasper, and chalcedony nodules across rolling sagebrush terrain with minimal crowds.",
+  "description": "The Antelope Range area in Piute County offers excellent rockhounding opportunities on public BLM land where collectors can search for quality agate, jasper, and chalcedony specimens. This remote high-desert location sits at approximately 6,500 feet elevation and features vast expanses of sagebrush-covered hills with exposed geological formations perfect for surface collecting. The area is known for producing nodules and small pocket pieces with strong color and translucency, making it ideal for both beginners learning to identify field specimens and experienced collectors seeking display-quality stones.\n\nThe Antelope Range sits within Utah's Basin and Range province, where Tertiary-age volcanic activity and subsequent silica-rich groundwater created abundant nodule deposits in ancient lake beds and volcanic sequences. These geologic conditions, combined with millions of years of weathering and erosion, have exposed the agate and jasper nodules at the surface where rockhounders can find them today.\n\nExpect to walk across open terrain with scattered sagebrush, rabbit brush, and some pinyon-juniper woodland. The ground is rocky but generally not extremely steep, making this location accessible to most skill levels. Morning visits are recommended since afternoon winds can kick up dust across the open landscape. Bring plenty of water as shade is limited and the high elevation sun is intense even in cooler months.\n\nThe remoteness of the Antelope Range means you will experience very few other rockhounders and minimal development. This isolation is part of the appeal but requires self-reliance and trip preparation. Cell service is spotty at best, so inform someone of your location and expected return time before heading out.",
+  "history": "The Antelope Range lies within Utah's Basin and Range geologic province, where Miocene volcanic and hydrothermal activity deposited silica-rich fluids that crystallized into agate and jasper nodules within volcanic rocks and ancient lake beds. The nodules have been naturally exposed through millions of years of erosion, creating excellent surface collecting opportunities that attract rockhounders seeking quality specimens without the need for excavation.",
+  "tips": "Focus your search on hillsides facing south and southwest where erosion has exposed the most nodules at the surface. Look for translucent agate with pink, red, orange, or tan banding, and multicolored jasper pieces with contrasting patterns. Bring a hand lens to inspect specimens for chalcedony luster and color before adding them to your pack. Use a small grapefruit-sized collecting bag to track your weight against the 25-pound daily limit, and mark productive areas mentally so you can return to similar geology nearby.",
+  "terrain_notes": "High desert terrain at approximately 6,500 feet elevation with rolling hills covered in sagebrush and scattered pinyon-juniper. Slopes are moderate and walking is relatively easy on packed earth and scattered small rocks. No major cliffs or technical obstacles, but footing requires sturdy hiking boots. Parking pullouts are scattered along access roads, with walking distances to productive collecting areas ranging from 0.5 to 3 miles across open terrain. Elevation provides cooler temperatures than lower Utah deserts but also means afternoon thunderstorm risk in monsoon season.",
+  "best_season": "April - June and September - November. Spring and fall offer ideal temperatures for hiking and collecting across exposed terrain. Summer heat at 6,500 feet can reach 85-90 degrees by afternoon, and afternoon monsoon thunderstorms create flash flood risk in washes. Winter snow is possible above 6,500 feet and makes access unpredictable.",
+  "written_directions": "From Marysvale (the nearest town with services, approximately 20 miles south), take US 89 north toward Salina for approximately 15 miles. Watch for BLM access roads heading east toward the Antelope Range foothills. Several dirt roads branch off US 89 into productive collecting areas; early morning reconnaissance from the highway helps identify the best pullout locations. Four-wheel drive is not required for main access roads, but high-clearance vehicles are recommended. Popular collecting zones are typically 1-5 miles from the highway via well-traveled dirt roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and gravel access roads, generally well-maintained and passable to standard high-clearance vehicles. Some sections may be washboard or rutted after rain. Winter snow may temporarily close higher elevation roads.",
+  "parking_notes": "Informal pullouts scattered along access roads near productive collecting areas. No developed parking lot or facilities. Space is typically available, and popular sites are marked by small clearings or tire tracks indicating previous rockhound activity.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation, explosives, or heavy equipment. Surface collecting only. Pack out all trash. Respect any seasonal closures or active resource management areas posted by BLM.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or explosives\nSurface collecting only\nPack out all trash\nRespect posted closures and resource areas",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Marysvale, Utah, approximately 20 miles south. Gas, food, water, and lodging available. The town offers the last reliable services before heading into the Antelope Range.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers and families with basic fitness. Unpaved dirt roads reach main collecting areas. No wheelchair access to collecting zones. Sturdy hiking boots recommended for rocky footing. The main limiting factor is remoteness and distance from parking to productive areas, not terrain difficulty. Younger children and seniors can participate if prepared with adequate water and sun protection.",
+  "alternative_names": [],
+  "nearest_city": "Marysvale",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/antelope-range-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding in the Antelope Range, Utah?",
+      "answer": "The Antelope Range is known for producing quality agate, jasper, chalcedony, and quartz nodules. Collectors typically find translucent agate with pink, red, orange, and tan banding, as well as multicolored jasper with contrasting patterns. Most specimens are hand-sized nodules found on the surface across open sagebrush terrain."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Antelope Range on BLM land?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Antelope Range. Personal use collecting is allowed free of charge under the Federal Land Policy and Management Act. You are limited to 25 pounds per day and cannot engage in commercial collection or use motorized excavation."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Piute County, Utah?",
+      "answer": "April through June and September through November are ideal for collecting at Antelope Range. Spring and fall offer comfortable temperatures for hiking across open terrain. Summer afternoon thunderstorms create flash flood risk in washes, and winter snow at 6,500 feet elevation can make road access unpredictable. Avoid mid-summer heat and winter closure periods."
+    },
+    {
+      "question": "How far is Antelope Range from Marysvale and what are the driving directions?",
+      "answer": "Antelope Range is approximately 20 miles north of Marysvale, Utah. Take US 89 north from Marysvale toward Salina for about 15 miles, then turn east onto BLM access roads toward the Antelope Range foothills. Several dirt road pullouts provide access to productive collecting areas within 1-5 miles of the highway. Standard passenger vehicles with high clearance can reach main sites."
+    },
+    {
+      "question": "Is Antelope Range rockhounding suitable for beginners and families?",
+      "answer": "Yes, Antelope Range is excellent for beginner rockhounders and families. Terrain is relatively flat to rolling sagebrush hills without technical obstacles. Nodules are found on the surface requiring only walking and observation skills. Kids as young as 6 can participate if prepared with water and sun protection. The main challenge is the remote location, not the collecting difficulty."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding in the Antelope Range?",
+      "answer": "Bring sturdy hiking boots, a small hand lens for inspecting specimens, a collection bag or backpack, and plenty of water (at least 2-3 liters per person). A light hammer or chisel is useful for testing specimens, but surface nodules often require no tools. Sun protection, a hat, and a map or GPS device are essential since the area is remote with spotty cell service. Inform someone of your location before departing."
+    }
+  ],
+  "meta_title": "Antelope Range Rockhounding - Utah BLM",
+  "meta_description": "Hunt agate, jasper, and chalcedony at Antelope Range, Utah on public BLM land. Free permit-free rockhounding in Piute County's high desert.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - estimated based on typical Basin and Range geology; confirm with local collector reports",
+    "nearest_city_distance - estimated at 20 miles; verify with mapping tools",
+    "road_conditions - inferred from BLM access road standards; check current conditions with local BLM office",
+    "cell_service - marked spotty based on remote location; verify with carriers in area"
+  ],
+  "enriched_at": "2026-04-22T06:51:43.518Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:58:42.061Z"
+}

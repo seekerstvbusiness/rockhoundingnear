@@ -1,0 +1,60 @@
+{
+  "slug": "hickory-grove-sc",
+  "name": "Hickory Grove",
+  "lat": 34.947067,
+  "lng": -81.479175,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "York County",
+  "city_slug": "york-county",
+  "county": "York",
+  "county_slug": "york",
+  "geocoded_city": "York County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hickory%20Grove%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hickory%20Grove",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hickory%20Grove%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 507,
+      "meters": 155
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:54:12.216Z"
+  },
+  "scraped_at": "2026-04-21T17:54:12.216Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "bolton-lime-quarry-paid-area-ma",
+  "name": "Bolton Lime Quarry (paid area)",
+  "lat": 42.439257,
+  "lng": -71.567007,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Bolton",
+  "city_slug": "bolton",
+  "county": "Worcester",
+  "county_slug": "worcester",
+  "geocoded_city": "Bolton",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bolton%20Lime%20Quarry%20(paid%20area)%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bolton%20Lime%20Quarry%20(paid%20area)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bolton%20Lime%20Quarry%20(paid%20area)%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 275,
+      "meters": 84
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:21:56.409Z"
+  },
+  "scraped_at": "2026-04-21T19:21:56.410Z",
+  "scrape_quality": "minimal"
+}

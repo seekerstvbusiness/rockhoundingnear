@@ -1,0 +1,57 @@
+{
+  "slug": "blue-springs-tn",
+  "name": "Blue Springs",
+  "lat": 35.087645,
+  "lng": -84.913105,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Bradley County",
+  "city_slug": "bradley-county",
+  "county": "Bradley",
+  "county_slug": "bradley",
+  "geocoded_city": "Blue Springs",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Blue%20Springs%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Blue%20Springs",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Blue%20Springs%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:29:02.871Z"
+  },
+  "scraped_at": "2026-04-21T18:29:02.871Z",
+  "scrape_quality": "minimal"
+}

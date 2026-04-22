@@ -1,0 +1,97 @@
+{
+  "slug": "shirley-basin-wy",
+  "name": "Shirley Basin",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Rawlins",
+  "city_slug": "rawlins",
+  "county": "Carbon",
+  "county_slug": "carbon",
+  "lat": 42.331839,
+  "lng": -106.258527,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land in the Basin and Range with excellent agate and jasper collecting. Flat, accessible terrain at 7,019 feet elevation perfect for all skill levels.",
+  "description": "Shirley Basin is a scenic high-elevation rockhounding destination on BLM-managed public land in Carbon County, Wyoming. This broad, flat basin sits at 7,019 feet and offers wide-open spaces for exploring agate, chalcedony, and jasper nodules weathering out of the sagebrush-covered terrain. The geology here reflects classic Basin and Range extension and silica-rich mineralization that formed during the Tertiary period, creating abundant nodule deposits that are easily spotted on the ground surface.\n\nThe basin's expansive, rolling landscape makes this an ideal beginner to intermediate rockhounding site. You can walk the hillsides and washes looking for colorful agate and jasper pieces that have weathered free from the surrounding rock. The relatively flat terrain means less strenuous hiking compared to canyon or mountain sites, and you can cover substantial ground without technical climbing or scrambling.\n\nWyoming's high-elevation summer season is the primary collection window here. The area experiences significant snow and cold from November through April, making late spring and early fall the most comfortable times to visit. Water and services are limited, so plan accordingly and bring plenty of supplies.\n\nThis is classic BLM rockhounding - no permit required, no fees, and straightforward personal-use collection rules. The remote location means solitude and uncrowded collecting, though you should come prepared for variable weather and bring navigation tools since cell service is spotty at best.",
+  "history": "Shirley Basin sits within the Laramie Range and Basin and Range transition zone of Wyoming, an area shaped by Tertiary-age tectonic extension and associated hydrothermal activity. Silica-rich fluids circulated through host rocks during this period, precipitating agate, chalcedony, and other silicate minerals that now weather out as nodules across the basin floor - a common pattern throughout the high desert West.",
+  "tips": "Search the dry washes and gentle hillsides where erosion naturally exposes nodules; agate and chalcedony show up as round, smooth stones in shades of white, gray, brown, and occasionally banded colors. Bring a hand lens or 10x magnifier to identify chalcedony and distinguish higher-quality pieces from common quartz. The flat terrain means you can walk grid patterns across the basin systematically rather than following a single trail - cover more ground by exploring different ridges and draws. Early morning light helps spot the subtle color contrasts of agate nodules against the sage and soil.",
+  "terrain_notes": "Shirley Basin is predominantly flat to gently rolling terrain at 7,019 feet elevation, dominated by high desert sagebrush and scattered low scrub. The ground surface is mostly hard-packed dirt, scattered rocks, and exposed bedrock outcrops. Walking is easy across most of the basin with good footing; wear sturdy hiking boots for comfort over the rocky ground. Distances to productive collecting areas vary, but you can reach excellent nodule fields within 0.5 to 2 miles of parking pullouts.",
+  "best_season": "June - September. High elevation (over 7,000 ft) means heavy snow and cold temperatures from November through April. Late spring and early autumn offer the most stable weather, though afternoon thunderstorms are possible in July and August.",
+  "written_directions": "From Rawlins, drive north on WY-287 approximately 30 miles toward Saratoga. Near milepost 175, turn west onto County Road 408 (Shirley Basin Road) and follow it westbound for approximately 8-12 miles into the basin. The BLM land begins a few miles up this road; look for wide pullouts and natural parking areas on both sides. High-clearance vehicles are helpful during wet conditions, but passenger cars can typically access the main collecting areas in dry weather. Once you reach the basin floor, look for informal pullouts where other rockhounders have parked and proceed on foot into the sagebrush.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "County Road 408 is unpaved dirt, typically well-maintained but can be washboard in places. High-clearance or AWD recommended during wet/muddy conditions; passenger cars manageable in dry weather.",
+  "parking_notes": "Informal pullouts and wide areas along CR-408 and throughout the basin. No designated parking lot; park along the roadsides where other collectors have parked. Typical pullout capacity 2-4 vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No explosives. Collect only loose material and weathered nodules - do not break apart bedrock or extract material from live rock faces.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo explosives\nCollect loose nodules and weathered material only\nDo not break bedrock or extract from live outcrops",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "Rawlins, approximately 40 miles south, has gas, food, lodging, and supplies. Saratoga, approximately 25 miles southeast, has limited services.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers of all ages. Unpaved road to parking area; high-clearance helpful in wet conditions. Once parked, ground is generally easy walking across sagebrush with scattered rocks. No wheelchair access on the unpaved access road; once at basin collecting areas, terrain is relatively open and easy to traverse on foot.",
+  "alternative_names": [],
+  "nearest_city": "Rawlins",
+  "nearest_city_distance": 40,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/shirley-basin-wy/cover.png",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Shirley Basin in Wyoming?",
+      "answer": "Shirley Basin is known for agate, chalcedony, jasper, and quartz. Most pieces are nodules ranging from 1-4 inches in diameter. Colors include white, gray, tan, brown, and occasionally banded or striped patterns. The chalcedony here is often translucent and takes a good polish."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Shirley Basin BLM land?",
+      "answer": "No permit is required for recreational rockhounding on Shirley Basin BLM land. You can collect for free under FLPMA personal-use rules. Just follow the 25 lb per day limit and avoid any posted restricted areas."
+    },
+    {
+      "question": "What is the best time of year to collect at Shirley Basin Wyoming?",
+      "answer": "June through September is ideal. The basin sits at 7,019 feet elevation, so it experiences heavy snow and freezing temperatures November through April. Late spring (May-June) and early fall (August-September) offer the most stable weather, though afternoon thunderstorms can occur in midsummer."
+    },
+    {
+      "question": "Is Shirley Basin rockhounding beginner-friendly?",
+      "answer": "Yes. The flat to gently rolling terrain requires minimal hiking experience, the nodules are often visible on the surface, and no special tools are needed to get started. Kids ages 6 and up can enjoy collecting here. Dogs are welcome on the BLM land."
+    },
+    {
+      "question": "How do I get to Shirley Basin from Rawlins?",
+      "answer": "From Rawlins, drive north on WY-287 about 30 miles toward Saratoga. Near milepost 175, turn west onto County Road 408 (Shirley Basin Road) and follow it westbound 8-12 miles into the basin. Passenger cars can usually access the site in dry weather; AWD or high-clearance is better in wet conditions."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Shirley Basin?",
+      "answer": "Bring sturdy hiking boots, plenty of water (no reliable water sources nearby), a backpack, and a hand lens or 10x magnifier to identify chalcedony and agate quality. A daypack or canvas bag helps carry your 25 lb daily limit. Sun protection, a hat, and a topographic map or GPS unit are essential in this remote, high-elevation area."
+    }
+  ],
+  "meta_title": "Shirley Basin Rockhounding - Wyoming BLM",
+  "meta_description": "Find agate, chalcedony, and jasper at Shirley Basin on public BLM land near Rawlins, WY. No permit needed. Flat terrain perfect for families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city",
+    "written_directions",
+    "gem_types",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:41:05.186Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:04.993Z"
+}

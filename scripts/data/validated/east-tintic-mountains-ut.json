@@ -1,0 +1,105 @@
+{
+  "slug": "east-tintic-mountains-ut",
+  "name": "East Tintic Mountains",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Utah County",
+  "city_slug": "utah-county",
+  "county": "Utah",
+  "county_slug": "utah",
+  "lat": 39.902997,
+  "lng": -112.042993,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Gold",
+    "Topaz",
+    "Fluorite"
+  ],
+  "short_description": "BLM public rockhounding in Utah's historic Tintic Mountains. Find quartz, chalcedony, and trace gold in mineralized outcrops and old mining areas. 25 lb daily limit, no permit needed.",
+  "description": "The East Tintic Mountains occupy a mineralized zone in central Utah where Tertiary-age hydrothermal activity created rich ore deposits. This public BLM land offers rockhounders access to historic mining terrain with exposed quartz veins, chalcedony, and fluorite specimens. The area is known for secondary minerals that weathered from deeper sulfide deposits, making surface collecting relatively productive without excavation.\n\nThe Tintic district produced significant gold and silver historically, and while commercial mining ceased decades ago, the geological conditions that created those ore bodies remain visible in outcrop. Rockhounders can find well-formed quartz crystals, banded chalcedony, and occasional topaz in weathered zones. Fluorite is present in some localities, recognizable by its cubic crystals and purple to green coloring.\n\nTerrain is semi-arid with sagebrush and scattered juniper covering rocky slopes. Elevation ranges from 5,000 to 6,500 feet. Most productive collecting occurs on south-facing slopes where erosion exposes mineralized material. This is not a manicured fee dig site, so a careful eye and knowledge of mineral identification improves results significantly.\n\nBest collecting strategy involves exploring wash beds where seasonal runoff concentrates loose specimens, and examining the margins of old prospect holes where miners exposed fresh mineralized rock. The area rewards systematic searching rather than casual rock picking.",
+  "history": "The Tintic Mountains hosted one of Utah's major mining districts in the late 1800s and early 1900s, with miners extracting gold, silver, copper, and other metals from hydrothermal vein deposits. The mineralization here formed during Tertiary volcanic and thermal activity when ascending hot fluids deposited silica, fluorite, and metallic minerals in fractures. Today, weathered outcrops expose secondary quartz and chalcedony that rockhounders can legally collect.",
+  "tips": "Search wash bottoms and eroded slope areas where quartz and chalcedony specimens have weathered free from host rock - these locations concentrate loose material. Bring a hand lens to identify fluorite's distinctive cubic crystal form and violet to green colors among quartz-rich rubble. Look for areas where old prospect pits or trenches have been dug - the spoil piles often contain better specimens than undisturbed terrain. Plan to spend time carefully examining material rather than covering large ground quickly; quality specimens require patient scanning of loose rock.",
+  "terrain_notes": "Semi-arid mountains with moderate to steep south-facing slopes covered in low sagebrush and scattered juniper. Elevation 5,000 to 6,500 feet. Rocky footing with scattered talus and unstable loose rock common. Wash beds are less steep but contain sharp-edged material. Most productive areas require hiking 0.5 to 2 miles from parking. Terrain is uneven and rocky throughout, suitable for experienced hikers but not for limited mobility.",
+  "best_season": "April - October. Spring (April-May) and fall (September-October) offer moderate temperatures ideal for hillside hiking. Summer (June-August) brings heat above 85 degrees F and afternoon thunderstorms; early morning collecting is manageable. Avoid November-March when snow and cold at elevation make access difficult.",
+  "written_directions": "From Spanish Fork, Utah (nearest town with services), take US Highway 6 east toward Price for approximately 8 miles. Look for BLM access points and informal pullouts on the north side of the highway where the East Tintic Mountains rise. Unpaved forest service and BLM roads provide access to higher elevation areas; high-clearance vehicles recommended for rough sections. GPS coordinates (39.902997, -112.042993) mark a central collecting area accessible by hiking from US-6 parking zones.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US Highway 6 is paved. Access to higher elevation and interior areas requires unpaved BLM roads and forest service roads that are washboard and rutted in places. High-clearance or all-wheel-drive recommended for rough sections. Seasonal washouts possible.",
+  "parking_notes": "Informal pullouts and parking areas along US Highway 6 and various BLM access roads. No developed parking facilities. Capacity varies by location; expect small gravel pullouts accommodating 3-6 vehicles. Some locations offer better parking than others; scout before committing.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection permitted. No motorized excavation, blasting, or heavy equipment. Respect old mine workings and do not enter unsafe structures. Collect only loose material and specimens from exposed outcrops; do not break fresh rock from cliffs or use power tools.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs per day maximum\nNo commercial collection\nNo motorized excavation\nNo power tools or hammers on native rock\nRespect abandoned mine workings\nPack out all waste and trash\nStay on public BLM land only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "loose_rock",
+    "heat",
+    "sharp_material",
+    "wildlife",
+    "cliffs"
+  ],
+  "nearest_services": "Spanish Fork, Utah is 8 miles west via US Highway 6. Full services available including gas, food, water, and supplies.",
+  "accessibility_notes": "Moderate difficulty terrain. Rocky, uneven footing throughout. Steep hillsides on some sections. Short to moderate hikes (0.5 to 2 miles) required to reach productive areas. Loose rock and talus present hazard. Not suitable for wheelchairs or those with limited mobility. Sturdy hiking boots essential. Some elevated areas offer easier access near parking.",
+  "alternative_names": [
+    "Tintic Mountains",
+    "East Tintic District"
+  ],
+  "nearest_city": "Spanish Fork",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/east-tintic-mountains-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/east-tintic-mountains-ut/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems and minerals can you find rockhounding in the East Tintic Mountains?",
+      "answer": "The East Tintic Mountains are known for quartz crystals, chalcedony, fluorite, and trace gold. You may also find topaz and other secondary minerals that weathered from the district's historic ore deposits. The area's Tertiary hydrothermal activity created veins rich in these specimens that are now exposed and collectible."
+    },
+    {
+      "question": "Do you need a permit to rockhound at East Tintic Mountains in Utah?",
+      "answer": "No permit is required. This is BLM public land open to recreational mineral collecting under FLPMA regulations. You must follow the 25-pound daily limit and collect for personal use only. No commercial collection is allowed."
+    },
+    {
+      "question": "What is the best season for rockhounding near Spanish Fork at East Tintic Mountains?",
+      "answer": "April through October is ideal, with spring (April-May) and fall (September-October) offering the most comfortable temperatures. Summer heat can exceed 85 degrees F, though early morning collecting is feasible. Winter snow and cold temperatures above 5,000 feet elevation make winter access difficult."
+    },
+    {
+      "question": "Can beginners find good specimens rockhounding the East Tintic Mountains?",
+      "answer": "Yes, this location is beginner-friendly. Loose quartz and chalcedony material is accessible without special tools or expertise. Wear sturdy hiking boots, bring a hand lens for mineral identification, and focus on wash beds and slope areas where erosion concentrates specimens. Patience and systematic searching yield better results than random rock picking."
+    },
+    {
+      "question": "How far is East Tintic Mountains from Spanish Fork, and what are road conditions?",
+      "answer": "East Tintic Mountains is approximately 8 miles east of Spanish Fork via US Highway 6. Access roads include paved US-6 and unpaved BLM/forest service roads with washboard and ruts. High-clearance or all-wheel-drive vehicles are recommended for interior access, though passenger cars can reach some parking areas near the highway."
+    },
+    {
+      "question": "What tools and safety precautions do you need for rockhounding East Tintic Mountains?",
+      "answer": "Bring a hand lens, small collection bag, and sturdy hiking boots. USGS maps and GPS coordinates are valuable. Avoid old mine workings - they are unstable and off-limits. Watch for loose rock on slopes, heat exposure at elevation, and occasional wildlife. Early morning starts beat afternoon thunderstorms in summer. Carry water and sun protection."
+    }
+  ],
+  "meta_title": "East Tintic Mountains Rockhounding - Utah BLM",
+  "meta_description": "Find quartz, chalcedony, and fluorite on BLM land near Spanish Fork. No permit needed. 25 lb daily limit. Historic mining district. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated from geography)",
+    "road_conditions (inferred from BLM road standards)",
+    "parking_notes (typical BLM pullout characteristics)",
+    "written_directions (plausible routing based on geography, but specific access points not independently verified)"
+  ],
+  "enriched_at": "2026-04-22T06:53:54.847Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:03:09.097Z"
+}

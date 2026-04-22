@@ -1,0 +1,57 @@
+{
+  "slug": "bluffs-of-miss-river-wi",
+  "name": "Bluffs of Miss. River",
+  "lat": 43.777903,
+  "lng": -91.240661,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Town of Shelby",
+  "city_slug": "town-of-shelby",
+  "county": "La Crosse",
+  "county_slug": "la-crosse",
+  "geocoded_city": "Town of Shelby",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bluffs%20of%20Miss.%20River%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bluffs%20of%20Miss.%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bluffs%20of%20Miss.%20River%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:20:14.714Z"
+  },
+  "scraped_at": "2026-04-21T18:20:14.714Z",
+  "scrape_quality": "minimal"
+}

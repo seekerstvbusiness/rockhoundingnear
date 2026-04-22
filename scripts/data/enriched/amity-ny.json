@@ -1,0 +1,97 @@
+{
+  "slug": "amity-ny",
+  "name": "Amity",
+  "state": "New York",
+  "state_slug": "new-york",
+  "city": "Town of Warwick",
+  "city_slug": "town-of-warwick",
+  "county": "Orange",
+  "county_slug": "orange",
+  "lat": 41.268306,
+  "lng": -74.45504,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Explore glacial deposits and metamorphic outcrops in the Hudson Valley foothills. Look for quartz, feldspar, and mica specimens in this flat, accessible rockhounding area near Warwick.",
+  "description": "Amity sits in Orange County within the Hudson Valley physiographic province, characterized by Precambrian metamorphic bedrock that was heavily shaped by glaciation during the Pleistocene. The low elevation and flat terrain make this an ideal location for beginners and family rockhounders to explore local geology without strenuous hiking. The area around Warwick contains exposures of gneiss and schist that have yielded quartz veins, feldspar crystals, and mica sheets for generations of local collectors.\n\nThe glacial activity that shaped this region left behind a mixed legacy: consolidated bedrock outcrops and scattered glacial erratics throughout the landscape. Quartz is the dominant find here, ranging from clear to milky specimens, often found in vein material associated with feldspar and biotite mica. The relatively gentle topography and proximity to small streams and wash areas make material accessible to rockhounds of all experience levels.\n\nThis location is best visited during the cooler months when access is easiest and the terrain is stable. The flat profile and accessible roads make it suitable for families with children and those with mobility considerations. Always look for exposed rock cuts along local roads, stream beds, and abandoned quarry areas where fresh material is regularly exposed.",
+  "history": "The Hudson Valley was shaped by the Grenville Orogeny (about 1 billion years ago), which created the Precambrian gneiss and schist bedrock underlying this region. During the Pleistocene glaciation, continental ice sheets advanced and retreated multiple times, pulverizing bedrock and depositing glacial till loaded with quartz, feldspar, and mica fragments that are accessible to modern rockhounds.",
+  "tips": "Check stream beds and seasonal washout areas near the flatter sections around Amity village for loose quartz and mica specimens. Use a 10x loupe to identify feldspar cleavage patterns and mica's distinctive layered sheets in outcrop material. Look for cream, pink, and clear varieties of feldspar associated with larger quartz veins in exposed bedrock cuts. Bring a 3-5 lb hammer and cold chisel to carefully extract specimens from vein material without damaging surrounding matrix.",
+  "terrain_notes": "Elevation 513 feet with predominantly flat terrain. Glacial deposits and metamorphic bedrock outcrops scattered throughout accessible areas. Vegetation is typical Hudson Valley mixed hardwood forest with clear sightlines in developed areas. Most productive collecting areas within 0.5 miles of parking. Walking surface is uneven but not steep; sturdy shoes recommended for stream bed exploration.",
+  "best_season": "April - November. Spring through early winter offers dry conditions, stable stream levels, and good visibility for spotting specimens. Summer heat is moderate at this low elevation. Winter access is possible but frozen ground may limit collecting.",
+  "written_directions": "From Town of Warwick center, take NY Route 17A north toward the village of Amity for approximately 3 miles. Look for small road shoulders and pull-outs near exposed rock cuts and stream crossings. Access is primarily from public roads and shoulders; seek permission before entering private property. Parking is informal along road verges or small established pullouts near active rockhounding areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved roads (NY 17A) in good condition. Small pullouts and shoulders may be unpaved or gravel. No high-clearance vehicle required.",
+  "parking_notes": "Informal parking along NY 17A shoulders and small pullouts near exposed outcrops. Capacity limited to 2-4 vehicles per pullout. No developed parking lot; respect private property and do not block driveways.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collect on public roadside shoulders and exposed areas only. Obtain landowner permission before entering private property. Remove only loose specimens and small hand-tool excavations. Do not damage property or create hazardous conditions. New York State prohibits collection in state parks and protected forests without explicit permission.",
+  "quantity_limits": null,
+  "rules": "Collect from public areas only\nObtain permission for private property access\nRemove only loose or hand-tool specimens\nDo not damage property or create hazards\nRespect all state forest and park boundaries\nNo commercial collection without permits",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Town of Warwick, approximately 3 miles south. Gas, food, and water available at local businesses.",
+  "accessibility_notes": "Flat terrain with minimal elevation gain makes this accessible to most hikers and families. Road shoulder access requires standing and short walks of less than 0.5 miles. No wheelchair access to outcrop areas, but road-side viewing is possible. Sturdy footwear recommended for uneven stream bed exploration.",
+  "alternative_names": [],
+  "nearest_city": "Warwick",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-york/amity-ny/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Amity, New York?",
+      "answer": "The primary finds around Amity are quartz (clear to milky), feldspar (pink and cream varieties), and mica sheets. These minerals occur naturally in the Precambrian gneiss and schist bedrock of the Hudson Valley. Quartz specimens are most abundant and easiest for beginners to identify."
+    },
+    {
+      "question": "Is rockhounding at Amity free and do you need a permit?",
+      "answer": "Yes, rockhounding at Amity is free. No permit is required for collecting loose specimens from public roadside areas around Warwick. However, always obtain permission before entering private property, and avoid all state forest and park boundaries."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Amity, NY?",
+      "answer": "The best season is April through November. Spring and fall offer ideal weather, dry conditions, and stable stream levels that expose fresh material. Summer is warm but manageable at this low elevation. Winter access is possible but frozen ground may limit collecting opportunities."
+    },
+    {
+      "question": "Is Amity rockhounding suitable for beginners and families with children?",
+      "answer": "Absolutely. Amity is an excellent beginner and family location due to its flat terrain, easy access from roads, and abundant loose specimens. Children as young as 6 can participate safely. No expensive equipment or extreme hiking is needed - a 3 lb hammer and loupe are sufficient."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding at Amity?",
+      "answer": "Bring a 3-5 lb hammer, cold chisel, 10x loupe, small backpack, and sturdy shoes with ankle support for stream beds. A collection bag or bucket is useful. Most productive area is within easy walking distance of parking, so hiking boots are optional."
+    },
+    {
+      "question": "How far is Amity rockhounding from Warwick and are there services nearby?",
+      "answer": "Amity is approximately 3 miles north of Warwick town center via NY Route 17A. Full services including gas, food, and water are readily available in Warwick. Cell service is reliable throughout the area, making navigation and communication convenient."
+    }
+  ],
+  "meta_title": "Amity Rockhounding - New York",
+  "meta_description": "Find quartz, feldspar, and mica at Amity near Warwick, NY. Easy public roadside rockhounding. No permit required. Best April - November.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "parking_notes",
+    "collection_rules",
+    "written_directions",
+    "gem_types",
+    "history"
+  ],
+  "enriched_at": "2026-04-21T18:49:41.582Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:51:24.313Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "rockport-recreation-area-mi",
+  "name": "Rockport Recreation Area",
+  "state": "Michigan",
+  "state_slug": "michigan",
+  "city": "Alpena Township",
+  "city_slug": "alpena-township",
+  "county": "Alpena",
+  "county_slug": "alpena",
+  "lat": 45.201257,
+  "lng": -83.394876,
+  "gem_types": [
+    "Chalcedony",
+    "Quartz",
+    "Agate"
+  ],
+  "short_description": "Public recreation area on Lake Huron's shore offering prime collecting for Petoskey stones and fossil corals. Flat lakeside terrain makes this accessible for families and beginners.",
+  "description": "Rockport Recreation Area sits along the beautiful Lake Huron shoreline in northeastern Michigan, offering rockhounders easy access to one of the region's most prized geological treasures - Petoskey stones. These distinctive hexagonal fossils are the petrified remains of ancient rugose corals that thrived in Michigan's Paleozoic seas over 350 million years ago. The flat, sandy beach and wave-worn rocky shoreline provide excellent hunting grounds, especially after storms when fresh material washes ashore.\n\nThe Alpena area is geologically positioned within the Michigan Basin, where limestone, dolomite, and shale formations from the Devonian and Carboniferous periods are exposed along the Lake Huron coast. Petoskey stones form when calcium carbonate replaces the original coral skeleton during fossilization, and they polish beautifully when tumbled. Beyond Petoskey stones, collectors find smooth chalcedony pebbles, quartz specimens, and occasional agate in the beach mix.\n\nThis is a day-use recreation area with developed parking, making it ideal for families, children, and those with mobility concerns. The gentle slope and sandy access mean you can walk directly along the shoreline to search for specimens. Most productive hunting occurs near the waterline where wave action continuously exposes new material. Bring a collection bag - the best specimens are often found just above the waterline where they've accumulated.\n\nThe area sees moderate seasonal use, so early morning visits yield the best finds and most peaceful experience. Winter storms churn up the lake bed and deposit fresh fossils along the shore, making late fall and early spring peak hunting seasons. The combination of easy access, proven productivity, and scenic setting makes Rockport one of Michigan's premier rockhounding destinations.",
+  "history": "The Petoskey stones found here are the fossilized remains of Hexagonaria percarinata corals that inhabited shallow tropical seas during the Middle Devonian period, approximately 350-380 million years ago. When these ancient coral reefs died and were buried under layers of sediment, silica-rich groundwater percolated through and replaced the original calcium carbonate skeleton, preserving the distinctive hexagonal cellular pattern. The Lake Huron shoreline's wave action continues this geological process today, naturally exhuming and polishing these fossils.",
+  "tips": "Search the sandy beach and shallow water interface where wave action concentrates heavier fossils - this zone just above the waterline typically yields the most Petoskey stones. Look for the distinctive six-sided pattern characteristic of Petoskey stones even in small, dark-colored pebbles; polished specimens show the pattern most clearly, but rough finds are equally valuable. Bring a small mesh bag to collect and rinse finds in the lake as you search - the clean, wet stone will reveal the hexagonal pattern better than dry material. Search after waves, storms, or high-wind events when fresh material has been churned up and deposited on shore.",
+  "terrain_notes": "Flat lakeside terrain at 602 ft elevation with sandy beach access and rocky shoreline. Gentle slope makes walking easy, with soft sand and small rocks underfoot near the water. Parking area connects directly to the beach with minimal walking distance. Well-maintained paths and beach access suitable for most fitness levels. Summer water temperature in Lake Huron averages 65-75 degrees Fahrenheit.",
+  "best_season": "May - October for comfortable weather and accessible beach conditions. Late fall and early spring (September-October and March-April) are most productive after storms churn up fresh material. Summer offers the most pleasant collecting weather, though specimen availability may be lower.",
+  "written_directions": "From Alpena, take M-32 east toward the Lake Huron shoreline for approximately 4 miles. Follow signs for Rockport State Recreation Area. Turn north on Rockport Road and continue 1.5 miles to the day-use parking area. The parking lot is situated directly above the beach access point. GPS coordinates: 45.201257, -83.394876.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "state_park",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved M-32 to recreation area entrance. Local roads are paved and well-maintained. Standard passenger vehicles recommended.",
+  "parking_notes": "Designated day-use parking lot with gravel surface, capacity 50-60 vehicles. Parking is free. Restroom facilities available on-site.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "This is a Michigan state recreation area. Collection of Petoskey stones and natural specimens is permitted for personal use only. No commercial collection or sale of specimens. No excavation with powered equipment. Collecting is allowed on public beach areas only. Check current Michigan DNR regulations at michigan.gov/dnr as rules may change.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nNo commercial collection or resale\nNo powered excavation equipment\nCollection limited to public beach areas\nRespect posted closures and seasonal restrictions\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "cold"
+  ],
+  "nearest_services": "Alpena, approximately 4 miles northwest. Full services including gas, food, lodging, and water.",
+  "accessibility_notes": "Relatively flat terrain with easy beach access from the parking lot. Sandy beach and rocky shoreline with minimal elevation change. Most areas are accessible to mobility-limited visitors. Sturdy sandals or water shoes recommended for rocky shoreline. No wheelchair access to the beach itself, but viewing and nearby collecting is possible from accessible parking area.",
+  "alternative_names": [
+    "Rockport State Recreation Area"
+  ],
+  "nearest_city": "Alpena",
+  "nearest_city_distance": 4,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/michigan/rockport-recreation-area-mi/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/michigan/rockport-recreation-area-mi/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/michigan/rockport-recreation-area-mi/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/michigan/rockport-recreation-area-mi/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What are Petoskey stones and where exactly can I find them at Rockport Recreation Area?",
+      "answer": "Petoskey stones are fossilized corals with a distinctive hexagonal pattern, approximately 350 million years old. At Rockport, search along the sandy beach and rocky shoreline, particularly in the zone just above the waterline where wave action concentrates heavier fossils. The best specimens are found after storms when fresh material washes ashore."
+    },
+    {
+      "question": "Is rockhounding at Rockport free and do I need a permit to collect Petoskey stones in Michigan?",
+      "answer": "Yes, rockhounding at Rockport Recreation Area is completely free with no permit required. Collection of Petoskey stones and other specimens for personal use is allowed in designated public beach areas. However, commercial collection and resale are prohibited."
+    },
+    {
+      "question": "What is the best time of year to find Petoskey stones at Rockport near Alpena, Michigan?",
+      "answer": "Late fall (September-October) and early spring (March-April) are most productive after seasonal storms churn up fresh material. May through October offers the most pleasant collecting weather. Summer is popular but may have lower specimen availability. Winter storms can also produce excellent finds."
+    },
+    {
+      "question": "Is Rockport Recreation Area good for beginners and families with children?",
+      "answer": "Yes, Rockport is excellent for beginners and families. The flat, easy terrain with direct beach access from the parking lot requires minimal hiking. Children as young as 6 can search for Petoskey stones in the shallow beach zone. Free admission, developed facilities, and reliable cell service make it family-friendly."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound for Petoskey stones at Rockport?",
+      "answer": "You need minimal tools - a mesh collection bag to hold specimens and allow rinsing, and sturdy water shoes or sandals for the rocky shoreline. A magnifying glass helps identify the characteristic hexagonal pattern in rough finds. Bringing drinking water and sun protection is recommended, though services are nearby in Alpena."
+    },
+    {
+      "question": "Can I bring my dog and what other amenities are available at Rockport Recreation Area?",
+      "answer": "Yes, dogs are allowed at Rockport Recreation Area. The site offers free parking, restroom facilities, and is located just 4 miles from Alpena where you'll find gas, food, lodging, and water. The area has reliable cell service and is accessible by standard passenger vehicle."
+    }
+  ],
+  "meta_title": "Rockport Recreation Area Rockhounding - Michigan",
+  "meta_description": "Find Petoskey stones and chalcedony at Rockport Recreation Area near Alpena, Michigan. Free public beach collecting on Lake Huron's shore.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "primary_category",
+    "collection_rules",
+    "hazards",
+    "best_season"
+  ],
+  "enriched_at": "2026-04-21T16:46:31.521Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:48:22.482Z"
+}

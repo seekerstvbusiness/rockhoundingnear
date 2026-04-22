@@ -1,0 +1,60 @@
+{
+  "slug": "valentine-ne",
+  "name": "Valentine",
+  "lat": 42.89717,
+  "lng": -100.490525,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Cherry County",
+  "city_slug": "cherry-county",
+  "county": "Cherry",
+  "county_slug": "cherry",
+  "geocoded_city": "Cherry County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Valentine%20Nebraska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Valentine",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Valentine%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2381,
+      "meters": 726
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:59:11.105Z"
+  },
+  "scraped_at": "2026-04-21T16:59:11.105Z",
+  "scrape_quality": "minimal"
+}

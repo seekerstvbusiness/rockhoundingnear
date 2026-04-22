@@ -1,0 +1,101 @@
+{
+  "slug": "eden-valley-wy",
+  "name": "Eden Valley",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Eden",
+  "city_slug": "eden",
+  "county": "Sweetwater",
+  "county_slug": "sweetwater",
+  "lat": 42.02912,
+  "lng": -109.540508,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding area in southwestern Wyoming's high desert offering agate and chalcedony finds. Free access with no permit required, ideal for beginners exploring the Basin and Range province.",
+  "description": "Eden Valley sits in the heart of Sweetwater County's high desert landscape, a productive BLM area managed for recreational rockhounding. The site offers open public access to terrain rich with silica-based minerals, primarily agates, chalcedony, and jasper specimens scattered across desert wash beds and weathered slopes. The elevation of 6,530 feet brings cooler temperatures than lower desert areas, making spring and fall collecting comfortable here. This is an excellent beginner-friendly location where visitors can spend a full day exploring multiple drainages without requiring specialized gear or permits.\n\nThe geology here reflects the Basin and Range province's extensive volcanic and hydrothermal history. During the Tertiary period, widespread silica-rich fluids moved through fractured rock, depositing agate and chalcedony nodules in volcanic host rocks. Erosion over millions of years has exposed these buried treasures in washes and on hillsides, where they weather out naturally and concentrate in drainages. The high desert environment means minimal vegetation, making it easier to spot colorful stones against the pale soil.\n\nVisitors should plan to explore the numerous small washes that cross the valley floor and the gentle to moderate slopes surrounding them. The Big Sandy River drainage system, 2.9 miles south, feeds several tributaries that produce consistent finds. Daytime temperatures in summer can exceed 85 degrees Fahrenheit on open ground, so water and sun protection are essential. Fall through spring offers the most comfortable collecting conditions.\n\nThis location rewards patience and systematic searching. Rather than expecting large specimens, rockhounders typically find palm-sized to fist-sized agates and chalcedony pieces. The best material often shows banding, color variation, or semi-transparent qualities that become visible when wet. Beginners often have immediate success here, making it an excellent introduction to high desert collecting.",
+  "history": "Eden Valley sits within the Basin and Range province, where intense Tertiary-age volcanism (roughly 30-50 million years ago) produced the silica-rich hydrothermal systems that created the agate and chalcedony deposits found today. The Overland Trail and later Wyoming ranching culture used this valley as a travel corridor, but the mineral deposits remained largely unexploited until BLM recreational rockhounding became popular in the late 20th century.",
+  "tips": "Search the wash beds and their banks first, where seasonal water flow concentrates heavier stones and exposes fresh material in cutbanks. Look for banded or translucent chalcedony and agates with distinctive striping or color variation - wet the stones with your water bottle to reveal true colors, as dry desert patina can obscure beauty. Bring a 5-gallon bucket or small backpack to stay within the 25-pound daily limit without overloading yourself; focus on quality over quantity. Early morning visits in spring or fall beat the heat and give you the full day before sunset at 6,530 feet elevation.",
+  "terrain_notes": "Elevation 6,530 feet. Gently rolling high desert terrain with scattered sagebrush, juniper, and desert grass. Multiple small washes and drainages cross the valley floor, offering the most productive search areas. Footing is generally stable on compacted soil and sand, but loose rock and occasional steep small gullies require sturdy boots. Walking distance from dispersed parking to prime collecting areas typically ranges from 0.5 to 3 miles depending on which drainage you explore. No formal trail system; cross-country walking required.",
+  "best_season": "April - October. Spring and fall offer mild temperatures (50-70 degrees Fahrenheit) ideal for full-day collecting. Summer heat (80-90+ degrees) is intense on open ground; early morning and evening collecting recommended if visiting June-August. Winter (November-March) brings occasional snow and freezing nights, making access difficult.",
+  "written_directions": "From Eden, Wyoming, take Wyoming Highway 28 south approximately 7 miles. Look for BLM access points and informal pullouts along the highway where the valley terrain flattens out. GPS coordinates 42.02912, -109.540508 mark the heart of productive collecting area. No formal road leads directly into the main valley; use Highway 28 as your reference point and access the site via foot from pullouts or cross-country driving on BLM land if your vehicle is suitable. Nearest reliable services (fuel, food, water) are in Eden, 7 miles north.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Wyoming Highway 28 is paved. Access to dispersed parking areas may involve unpaved BLM roads in good condition during dry weather; high-clearance vehicle helpful but not required. Avoid access during wet periods when soil becomes muddy.",
+  "parking_notes": "Multiple informal pullouts along Highway 28 and adjacent BLM roads. No developed parking lot. Pull well off the highway and park responsibly on BLM land. Space varies seasonally; popular areas during peak season (April-May) may be crowded on weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or sales. No motorized excavation or mechanical collection methods. Pack out all trash. Stay on or near existing roads and trails when possible to minimize land disturbance. No explosives or power tools.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection or resale\nNo motorized excavation or digging equipment\nNo power tools or explosives\nPack out all trash\nMinimize surface disturbance",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Eden, Wyoming, 7 miles north. Limited services; fuel, food, and water available. Larger town with full services (Sweetwater/Rock Springs area) approximately 50 miles south.",
+  "accessibility_notes": "Terrain is relatively flat to gently rolling with stable footing across most of the valley. Loose rocks and small arroyos present minor obstacles but pose no barrier to able-bodied hikers. Unpaved BLM roads accessible to standard passenger vehicles in good weather. Limited shade on open desert; heat exposure is the primary concern. Wheelchair access limited due to uneven terrain and lack of developed infrastructure.",
+  "alternative_names": [],
+  "nearest_city": "Eden",
+  "nearest_city_distance": 7,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/eden-valley-wy/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/eden-valley-wy/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of rocks and gems can I find rockhounding in Eden Valley, Wyoming?",
+      "answer": "Eden Valley is known for agate, chalcedony, jasper, and quartz specimens. Most finds are palm to fist-sized with good banding and color variation. The area's high desert geology produces semi-translucent agates and banded chalcedony that become more visible when wet. Specimens typically range from small pebbles to 3-4 inch pieces."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Eden Valley on BLM land?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Eden Valley. Personal use collection is allowed free of charge under FLPMA regulations. You only need to follow the 25-pound-per-day limit and personal use requirement. No fees or advance registration necessary."
+    },
+    {
+      "question": "What is the best season for rockhounding near Eden, Wyoming?",
+      "answer": "April through October offers the best conditions. Spring (April-May) and fall (September-October) provide ideal mild temperatures (50-70 degrees Fahrenheit) for full-day collecting. Summer heat can exceed 85 degrees on open ground, making early morning or evening collecting necessary. Winter brings occasional snow and freezing temperatures that make access difficult."
+    },
+    {
+      "question": "How far is Eden Valley from town and what services are available?",
+      "answer": "Eden Valley is 7 miles south of Eden, Wyoming via Highway 28. Eden offers basic fuel, food, and water services. The larger town of Rock Springs with full amenities is about 50 miles south. Bring plenty of water for your rockhounding trip, as the high desert location offers no shade or services at the collecting site."
+    },
+    {
+      "question": "Is Eden Valley good for beginning rockhounders or families with children?",
+      "answer": "Yes, Eden Valley is excellent for beginners and families. The terrain is relatively flat with stable footing, and finds are consistent and accessible without specialized equipment. Kids ages 6 and up can participate successfully. The main challenges are sun exposure and heat, which are manageable with proper water, sunscreen, and timing your visit for spring or fall."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Eden Valley?",
+      "answer": "Basic supplies include a 5-gallon bucket or small backpack, water bottle (bring extra), sun protection, and sturdy hiking boots. A small chisel or rock hammer is helpful but optional for detaching loose specimens. Wet your finds with water to see true colors and identify the best pieces. Since the 25-pound daily limit applies, focus on quality finds rather than filling your bucket."
+    }
+  ],
+  "meta_title": "Eden Valley Rockhounding - Wyoming Agate Collecting",
+  "meta_description": "Free BLM rockhounding near Eden, Wyoming. Find agate, chalcedony, and jasper. No permit required, 25 lbs/day limit. Beginner-friendly high desert site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "terrain_notes",
+    "best_season",
+    "hazards",
+    "cell_service"
+  ],
+  "road_name": "Highway 28 / WY 28",
+  "enriched_at": "2026-04-22T06:40:16.090Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:42:34.300Z"
+}

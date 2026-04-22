@@ -1,0 +1,98 @@
+{
+  "slug": "bayview-id",
+  "name": "Bayview",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Bonner County Area",
+  "city_slug": "bonner-county",
+  "county": "Bonner",
+  "county_slug": "bonner",
+  "lat": 47.913814,
+  "lng": -116.475412,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM public land rockhounding site near Bonner County with moderate terrain offering quartz, chalcedony, and jasper specimens. Free collecting with 25 lb daily limit.",
+  "description": "Bayview is a public BLM rockhounding site in the Bonner County area of northern Idaho, positioned within the Coeur d'Alene mining district's broader geological framework. At 3,068 feet elevation with moderate slope terrain, this location offers accessible rockhounding for quartz, chalcedony, jasper, and agate specimens typical of Idaho's Precambrian to Mesozoic bedrock. The site sits on publicly managed land where recreational collectors can pursue their hobby without permits, making it an excellent choice for both beginners and experienced rockhounders seeking free, legal access to mineral-rich terrain.\n\nThe geology here reflects the complex mineralization patterns of the Interior Northwest. Northern Idaho's bedrock includes metamorphic rocks and mineralized zones from the Belt Supergroup and associated Proterozoic formations, which weather and erode to release secondary minerals into surface deposits and creek gravels. Quartz and chalcedony are abundant as vein material and fracture-filling minerals; jasper and agate form in silica-rich environments where volcanic activity or hydrothermal fluids deposited these cryptocrystalline minerals over geological time.\n\nExpect moderate terrain with mixed vegetation typical of the northern Rockies transition zone. The moderate slope means steady climbing or descending, requiring normal hiking fitness. Rockhounding here typically involves searching creek washes, exposed hillsides, and eroded banks where gravity and water have concentrated heavier minerals. Spring and early summer melt can expose fresh surfaces; fall offers stable conditions and lower visitor traffic.\n\nThis BLM site is beginner-friendly due to the lack of permits and straightforward access rules. The gem varieties found here reward patient searching - look for translucent quartz crystals in stream gravels, banded jasper on exposed slopes, and chalcedony in weathered outcrops. The moderate difficulty rating reflects terrain rather than skill required; anyone comfortable hiking moderate slopes can collect here legally.",
+  "history": "This region sits within the Coeur d'Alene mining district of northern Idaho, where Precambrian Belt Supergroup metasedimentary rocks and Proterozoic mineralized zones have been shaped by tectonic uplift and erosion. The quartz, chalcedony, and jasper found at Bayview derive from ancient hydrothermal mineralization events and silica-rich metamorphic protoliths, subsequently exposed and concentrated by millions of years of weathering and transport through Holocene creek systems.",
+  "tips": "Search creek washes and eroded banks where water has concentrated heavier minerals like quartz and jasper into accessible deposits. Use a geology hammer and chisel to carefully sample visible outcrops showing banding or color change; avoid hammering randomly. Look for translucent to milky quartz in stream gravels, banded or red jasper on south-facing slopes, and pale gray to white chalcedony in fractured bedrock. Bring a 5-gallon bucket or backpack to manage your 25 lb daily limit - specimens found here are typically fist-sized or smaller.",
+  "terrain_notes": "Elevation 3,068 feet with moderate slope throughout the site. Expect mixed conifer and deciduous forest with some open rocky areas. Uneven ground with exposed roots and loose rock common. Most productive areas require 15-30 minute walks from parking. Sturdy hiking boots required; trail may be muddy in spring or wet conditions.",
+  "best_season": "May - September. High elevation and northern latitude mean spring snow lingers into May, and frost returns by October. Summer offers stable ground, lower water levels in creeks (exposing more gravels), and reliable weather. Late September can work but nights begin dropping near freezing.",
+  "written_directions": "From Bonner, Idaho (nearest town), take ID-200 east toward Clark Fork. Continue on ID-200 for approximately 8-10 miles. Look for BLM access signs or small dirt pullouts on the north side of the highway near Bayview. Parking is typically a small gravel area; confirm current access at the Coeur d'Alene BLM District office in Post Falls before visiting.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "hiking",
+  "road_conditions": "ID-200 is fully paved. BLM access roads and parking areas unpaved, may be rough or muddy seasonally.",
+  "parking_notes": "Small gravel or dirt pullout area; likely capacity 3-5 vehicles. No facilities. Confirm access and parking conditions with Coeur d'Alene BLM District before visiting.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect only specimens; do not remove large rocks or alter landscape. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\nMaximum 25 lbs per day\nNo motorized excavation or power tools\nNo removal of large rocks or landscape alteration\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Bonner, Idaho approximately 8-10 miles southwest. Gas, food, and lodging available; no services at site.",
+  "accessibility_notes": "Moderate slope terrain with uneven ground, exposed roots, and loose rock. No developed trail or wheelchair access. Sturdy hiking boots essential. 15-30 minute walks from parking to productive areas. Not suitable for limited mobility or young children without adult supervision.",
+  "alternative_names": [],
+  "nearest_city": "Bonner",
+  "nearest_city_distance": 9,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/bayview-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Bayview, Idaho?",
+      "answer": "Bayview offers quartz, chalcedony, jasper, and agate specimens. Quartz appears as translucent crystals in stream gravels; jasper is often banded or red and found on exposed slopes; chalcedony typically occurs as pale gray or white material in fractured bedrock. All are beginner-friendly finds requiring basic rockhounding skills."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Bayview BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Bayview. This is public BLM land where personal collecting is allowed under FLPMA rules. Simply follow the 25 lb per day limit and pack out all trash. No fees apply."
+    },
+    {
+      "question": "How far is Bayview rockhounding site from Bonner, Idaho?",
+      "answer": "Bayview is approximately 8-10 miles east of Bonner on ID-200. The drive takes about 15 minutes. Access is via small BLM parking pullouts along the highway; confirm current access conditions with the Coeur d'Alene BLM District office before your trip."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Bonner County?",
+      "answer": "May through September is ideal. Spring snow at 3,068 feet elevation lingers into May, and frost returns by October. Summer offers stable ground, lower water levels in creeks (exposing productive gravel deposits), and reliable weather. Late September can work but nighttime temperatures drop quickly."
+    },
+    {
+      "question": "Is Bayview suitable for beginner rockhounds and families?",
+      "answer": "Yes, Bayview is beginner-friendly. No permits or special skills are required, and the gem types (quartz, jasper, chalcedony, agate) are common and easy to identify. Moderate terrain suits families with children 8 and up; dogs are welcome. Keep in mind the 25 lb daily limit and bring sturdy hiking boots for uneven ground."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Bayview?",
+      "answer": "Bring a geology hammer and cold chisel for safely sampling outcrops, a 5-gallon bucket or backpack to manage your 25 lb daily limit, sturdy hiking boots for moderate slope terrain, water, and a first aid kit. A hand lens helps identify chalcedony and quartz details. Bring a map and GPS device since cell service is spotty in the area."
+    }
+  ],
+  "meta_title": "Bayview Rockhounding - Idaho BLM",
+  "meta_description": "Free BLM rockhounding at Bayview, Idaho near Bonner County. Find quartz, jasper, and chalcedony on public land. No permit required, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "written_directions",
+    "parking_notes",
+    "cell_service",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T06:43:07.251Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:07.513Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "tennessee-river-streams-tn",
+  "name": "Tennessee River & Streams",
+  "lat": 35.385937,
+  "lng": -88.175123,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Hardin County",
+  "city_slug": "hardin-county",
+  "county": "Hardin",
+  "county_slug": "hardin",
+  "geocoded_city": "Decatur County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Tennessee%20River%20%26%20Streams%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Tennessee%20River%20%26%20Streams",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Tennessee%20River%20%26%20Streams%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 356,
+      "meters": 108
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:20:41.418Z"
+  },
+  "scraped_at": "2026-04-21T18:20:41.418Z",
+  "scrape_quality": "minimal"
+}

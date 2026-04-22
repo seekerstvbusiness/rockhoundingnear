@@ -1,0 +1,102 @@
+{
+  "slug": "tallapoosa-mines-nv",
+  "name": "Tallapoosa Mines",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Lyon County Area",
+  "city_slug": "lyon-county",
+  "county": "Lyon",
+  "county_slug": "lyon",
+  "lat": 39.454976,
+  "lng": -119.279444,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "Historic mining site on BLM land in Lyon County offering personal use collecting of gold, quartz, and jasper. No permit required and free access make this an excellent destination for rockhounders ...",
+  "description": "Tallapoosa Mines sits on public BLM land in Lyon County, Nevada, within the historic mining region that has attracted prospectors for over a century. This location preserves access to productive mineral-bearing terrain where gold, quartz specimens, and jasper can be found in association with old mining activity and natural outcropping. The site benefits from moderate elevation (5498 feet) and relatively accessible terrain that makes it suitable for both beginners and experienced collectors.\n\nThe geology here reflects Nevada's rich mineralization in the Basin and Range province. Quartz veins cutting through altered host rock provided pathways for gold-bearing fluids during regional hydrothermal activity in the Tertiary and Quaternary periods. The presence of jasper and other silica-rich materials indicates the silica-saturated environment that produced valuable mineral deposits. Collectors should examine quartz-rich exposures, old prospect pits, and surrounding washes where material has weathered and concentrated.\n\nThe moderate slope terrain and mid-elevation location create manageable hiking conditions. Visibility of mineralization is generally good where old workings have exposed fresh material. The BLM designation ensures this remains open to recreational collecting under personal use guidelines, making it reliable for trip planning throughout the year. Spring and fall offer the most comfortable collecting windows, though the site can be accessed year-round with appropriate preparation.\n\nExpect to find small gold flakes in quartz and at wash concentrations, though significant specimens are not guaranteed. Jasper pieces ranging from thumbnail to palm size are common, and quartz specimens with good crystal faces occur in areas with minimal collection pressure. Always respect abandoned mine infrastructure and avoid entering shafts or unstable workings.",
+  "history": "Tallapoosa Mines developed during Nevada's historic mining booms when prospectors systematically worked quartz veins and placer deposits throughout Lyon County. The thermal fluids that created the gold and quartz mineralization here were generated during Tertiary-age volcanism and hydrothermal circulation in the Basin and Range geologic province, concentrating precious metals in fissure veins and disseminated deposits.",
+  "tips": "Search in exposed quartz veins on hillsides and in wash gravels where weathering has concentrated heavier materials - gold and jasper tend to concentrate in low-energy areas of drainage systems. Use a small hand lens to spot gold flakes in quartz samples and look for the translucent reddish to brown jasper pieces among the darker host rock. A small classifier or sieve helps identify gold in collected gravel, and a magnet can separate magnetic iron-rich material from your target specimens. The moderate slope means starting at the upper workings and carefully examining material downslope where gravity has moved loose, weathered pieces.",
+  "terrain_notes": "Elevation 5498 feet on moderate slope terrain with typical high desert vegetation including sagebrush and scattered juniper. Parking and walking access are generally straightforward with uneven rocky ground typical of mining areas. Footing requires sturdy boots due to scattered rock, mine tailings, and uneven mining-disturbed ground. Most productive areas are within 1-2 miles of the parking area with gentle to moderate grades.",
+  "best_season": "October - April. Nevada's high desert elevation means summer heat (100+ F) can be extreme, while the moderate elevation avoids the heaviest winter snows. Spring (March-April) and fall (October-November) offer ideal temperatures for sustained collecting and comfortable hiking.",
+  "written_directions": "From Fernley, Nevada (nearest significant town), take US 95A south for approximately 18 miles toward Wabuska. Continue south through Lyon County following terrain toward the historic mining districts. The Tallapoosa area is accessed via local mining roads branching east from the main highway corridor in Lyon County. Consult detailed Nevada BLM maps and GPS coordinates (39.454976, -119.279444) for precise final approach, as access roads may be unmarked. High-clearance or 4WD vehicle recommended for final road segments.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Final approach via rough mining district roads suitable for high-clearance vehicles. Some seasonal wash crossings possible. Main highway access is paved.",
+  "parking_notes": "Parking available at old mine workings and pullouts near productive areas. Space limited but typically adequate for small groups. No developed parking facility.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collection limited to hand tools and simple mechanical means. Respect BLM closures and avoid disturbing marked claims or active mining operations. Do not remove or disturb mine structures or infrastructure.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\nMaximum 25 lbs per day per FLPMA\nNo motorized excavation or heavy equipment\nHand tools only - picks, shovels, classifiers permitted\nRespect all BLM closures and posted restrictions\nDo not enter mine shafts or tunnels\nAvoid active or marked mineral claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Fernley, Nevada approximately 18-20 miles north with gas, food, and lodging. Wabuska has limited services.",
+  "accessibility_notes": "Moderate terrain with uneven rocky ground and old mining disturbance. No wheelchair access. Sturdy hiking boots and reasonable fitness level required. Moderate elevation (5498 ft) may affect those with altitude sensitivity. Rough road access limits vehicles to high-clearance or 4WD.",
+  "alternative_names": [
+    "Tallapoosa Mining District"
+  ],
+  "nearest_city": "Fernley",
+  "nearest_city_distance": 19,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/tallapoosa-mines-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/tallapoosa-mines-nv/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Can I find gold at Tallapoosa Mines without a permit?",
+      "answer": "Yes, Tallapoosa Mines is on BLM public land where personal use gold panning and collecting requires no permit. You can collect up to 25 lbs per day of gold-bearing quartz and other specimens free of charge under FLPMA rules."
+    },
+    {
+      "question": "What gems and minerals can you find at Tallapoosa Mines in Nevada?",
+      "answer": "The primary minerals at Tallapoosa are gold (in quartz veins and wash gravels), quartz specimens with good crystal faces, and jasper in reddish-brown tones. Collectors also find iron-rich minerals and occasional feldspar in the host rock surrounding historic mining workings."
+    },
+    {
+      "question": "How do I get to Tallapoosa Mines from Fernley Nevada?",
+      "answer": "From Fernley, take US 95A south for about 18 miles toward Wabuska, then follow local mining district roads east toward the historic Tallapoosa area. A high-clearance or 4WD vehicle is recommended for the final rough road approach to the site."
+    },
+    {
+      "question": "What is the best time to rockhound at Tallapoosa Mines?",
+      "answer": "October through April offers the most comfortable collecting conditions. Nevada's high desert summers exceed 100 F, while the moderate 5498-foot elevation avoids heavy winter snow. Spring and fall provide ideal temperatures for sustained outdoor work."
+    },
+    {
+      "question": "Is Tallapoosa Mines beginner-friendly for rockhounding?",
+      "answer": "Yes, Tallapoosa is suitable for beginners. The moderate terrain is manageable, free access eliminates permit hassles, and simple hand tools like a small pick and magnet are all you need to find gold flakes and jasper pieces. Historical mine workings mark productive areas."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Tallapoosa Mines?",
+      "answer": "Bring sturdy hiking boots, a small hand pick or mattock, a magnet to identify magnetite, a hand lens for spotting gold, a classifier or sieve, and water. A small backpack helps carry your 25-lb daily limit. Avoid motorized tools - hand collection only on BLM land."
+    }
+  ],
+  "meta_title": "Tallapoosa Mines Rockhounding - Nevada",
+  "meta_description": "Find gold, quartz, and jasper at Tallapoosa Mines on free BLM land in Lyon County, Nevada. No permit needed. Personal use collecting allowed year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:44:02.724Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:50:01.974Z"
+}

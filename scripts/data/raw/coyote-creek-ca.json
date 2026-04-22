@@ -1,0 +1,62 @@
+{
+  "slug": "coyote-creek-ca",
+  "name": "Coyote Creek",
+  "lat": 37.149996,
+  "lng": -121.578344,
+  "state": "California",
+  "state_slug": "california",
+  "state_code": "CA",
+  "city": "Santa Clara County",
+  "city_slug": "santa-clara-county",
+  "county": "Santa Clara",
+  "county_slug": "santa-clara",
+  "geocoded_city": "Morgan Hill",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-california.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Coyote%20Creek%20California"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Coyote%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Coyote%20Creek%20California"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:19:42.477Z"
+  },
+  "scraped_at": "2026-04-21T19:19:42.477Z",
+  "scrape_quality": "partial"
+}

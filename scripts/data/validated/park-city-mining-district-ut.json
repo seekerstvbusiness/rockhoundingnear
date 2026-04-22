@@ -1,0 +1,101 @@
+{
+  "slug": "park-city-mining-district-ut",
+  "name": "Park City mining district",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Park City",
+  "city_slug": "park-city",
+  "county": "Summit",
+  "county_slug": "summit",
+  "lat": 40.623022,
+  "lng": -111.542537,
+  "gem_types": [
+    "Gold",
+    "Silver",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Historic mining district on public BLM land where rockhounds can search for quartz, gold, and silver specimens. No permit required for personal use collection.",
+  "description": "Park City's mining district sits within the Wasatch Range, where rich mineral deposits attracted prospectors during the silver boom of the 1870s-1890s. The district remains accessible to recreational rockhounders on public BLM land, offering a chance to search old mining areas and surrounding hills for quartz veins, silver minerals, and small gold flakes. The terrain is mountainous and can be rough, with many abandoned prospects and working claims scattered throughout the area. Most public collecting happens in the open hills and washes between established claims. This is a historic site with significant cultural heritage value - many original mine structures and adits remain visible, making it a geologically and historically rich destination for rockhounding enthusiasts who appreciate both minerals and mining history.\n\nThe geology here reflects classic Basin and Range mineralization. Hydrothermal fluids associated with buried igneous intrusions created extensive quartz veins and replaced host rocks with silver, lead, and zinc minerals during the Tertiary era. Collectors often find milky and clear quartz specimens, occasional silver minerals like argentite or cerargyrite, and traces of native gold in quartz-hosted deposits.\n\nBecause this is an active mining district with many private claims, always verify you are on public BLM land before collecting. Respect all posted claim markers and stay in areas open to public use. The elevation and mountain setting create pleasant summer conditions but winters are severe.",
+  "history": "The Park City mining district was developed in the 1870s following the discovery of rich silver deposits in the Wasatch Range. Hydrothermal activity related to Tertiary-age igneous intrusions created extensive quartz veins carrying silver, gold, lead, and zinc mineralization that drove one of Utah's major historic mining booms.",
+  "tips": "Look for quartz veins in the hillsides and exposed rock outcrops - these often contain the best specimens and traces of precious metals. Use a gold pan in small washes and creek beds where quartz fragments accumulate, as fine gold can concentrate in these areas. Focus your search near old prospect pits and along the ridgelines where mineral-rich outcrops are exposed. Bring good quality hand tools (pick, chisel, small crowbar) to extract clean quartz specimens from their host rock.",
+  "terrain_notes": "Mountainous terrain at 8,000-10,000 feet elevation with mixed conifer forest and alpine meadows. Terrain is rocky and uneven with exposed bedrock in many areas. Walking distance from parking varies from a few hundred yards to several miles depending on where you explore. Footing is challenging on loose talus and scree slopes; sturdy hiking boots are essential. Many old roads and trails crisscross the area, some passable by vehicle.",
+  "best_season": "June - September. High elevation means snow covers the ground from November through May. Summer weather is mild and ideal for hiking and rockhounding, though afternoon thunderstorms are common in July and August.",
+  "written_directions": "From Park City, head east on UT-224 toward the mountains for about 2 miles. Continue as the road becomes steeper and enters the mining district proper. Numerous pullouts and old mining roads branch off from the main highway. Popular collecting areas are accessible via side roads that lead to old prospect sites and ridgetops. Park in established pullouts or parking areas - do not block access roads. GPS coordinates will help you navigate to specific old claims and prospects. Many collectors access the area via hiking trails that begin from parking areas near the ski resort base.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved main road (UT-224) in good condition. Side roads and access roads are unpaved, may have washboard texture and some roughness. High-clearance vehicle helpful for rough side roads but passenger cars can access main collecting areas.",
+  "parking_notes": "Multiple informal pullouts and small parking areas scattered throughout the mining district. No developed parking lot. Pullouts vary in capacity from 1-2 cars to small groups. Areas near old mines and prospect sites typically have natural turnouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Do not collect on private claims - respect all posted claim markers. Stay on public BLM land only. Do not remove artifacts or disturb historic structures.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect posted private claims\nNo removal of artifacts or historic structures\nStay on public BLM land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Park City, approximately 2-5 miles away. Full services including gas, food, lodging, and sporting goods stores.",
+  "accessibility_notes": "Moderate terrain accessibility. Uneven rocky terrain with steep slopes in many areas. No wheelchair access to most collecting sites. Sturdy hiking boots required. Elevation (8,000-10,000 feet) may affect some visitors accustomed to lower elevations. Several areas accessible via short walks from parking, while premium collecting spots require 1-3 mile hikes over rough terrain.",
+  "alternative_names": [
+    "Park City Silver District",
+    "Wasatch Range Mining District"
+  ],
+  "nearest_city": "Park City",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/park-city-mining-district-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can you find at Park City mining district?",
+      "answer": "The Park City mining district is known for quartz (milky and clear varieties), gold, silver minerals, and chalcedony. You may find small gold flakes in quartz veins, native silver in some specimens, and well-formed quartz crystals. Most collectors find good quartz specimens that range from small fragments to larger hand-sized pieces."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Park City mining district?",
+      "answer": "No permit is required for recreational rockhounding on public BLM land at Park City. You can collect for personal use without advance permission, following the 25 lb per day limit set by federal regulations. However, you must stay on public land and avoid all posted private mining claims."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Park City, Utah?",
+      "answer": "June through September is the optimal collecting season. Heavy snow covers the area from November through May, making access difficult or impossible. Summer offers mild weather and clear conditions, though afternoon thunderstorms are common in July and August. Morning collecting trips are often best before storms develop."
+    },
+    {
+      "question": "How do you find gold at Park City mining district?",
+      "answer": "Gold at Park City typically occurs as fine flakes and small particles within quartz veins in the hillsides and ridgetops. Pan small washes and creek beds where quartz fragments accumulate, as gold naturally concentrates in these low-lying areas. Many old prospect pits and worked areas also show signs of historic gold extraction, indicating productive zones."
+    },
+    {
+      "question": "Is Park City mining district beginner-friendly for rockhounding?",
+      "answer": "Yes, Park City is suitable for beginners and families. The area has easy access from nearby Park City, no permit requirements, and numerous accessible collecting spots. However, the mountainous terrain requires moderate hiking ability and good footwear. Experienced rockhounders will also appreciate the historic geology and silver-era mining heritage."
+    },
+    {
+      "question": "What tools and equipment should you bring to Park City mining district?",
+      "answer": "Bring a quality rock hammer or pick to extract specimens from quartz veins, a small chisel, and a backpack to carry your finds. A gold pan is useful for testing small washes. Wear sturdy hiking boots for the rocky, uneven terrain at 8,000-10,000 feet elevation. Bring water, sun protection, and a map or GPS device to navigate old mining roads safely."
+    }
+  ],
+  "meta_title": "Park City Mining District Rockhounding - Utah",
+  "meta_description": "Find quartz, gold, and silver specimens at Park City mining district on public BLM land. No permit required, 25 lbs per day limit. Open June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from historic silver district)",
+    "terrain_notes (elevation/vegetation estimated from geography)",
+    "parking_notes (typical for BLM mining districts)",
+    "cell_service (spotty estimated for high elevation mountain area)"
+  ],
+  "enriched_at": "2026-04-22T06:53:08.177Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:01:41.772Z"
+}

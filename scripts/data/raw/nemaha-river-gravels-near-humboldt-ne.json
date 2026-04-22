@@ -1,0 +1,64 @@
+{
+  "slug": "nemaha-river-gravels-near-humboldt-ne",
+  "name": "Nemaha River gravels near Humboldt",
+  "lat": 40.155904,
+  "lng": -95.953011,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Richardson County",
+  "city_slug": "richardson-county",
+  "county": "Richardson",
+  "county_slug": "richardson",
+  "geocoded_city": "Richardson County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": true,
+      "url": "https://www.mindat.org/search.php?q=Nemaha%20River%20gravels%20near%20Humboldt%20Nebraska",
+      "description_snippet": "Search Error --> Log In Register Language: English 中文 About Support Us Photos Discussions Search Learn More Quick Links : The Mindat Manual The Rock H. Currier Digital Library Mindat Newsletter [Free Download] Home Page About Mindat The Mindat Manual History of Mindat Copyright Status Who We Are Contact Us Advertise on Mindat Donate to Mindat Corporate Sponsorship Sponsor a Page Sponsored Pages Mindat Advertisers Advertise on Mindat Learning Center What is a mineral? The most common minerals on earth Information for Educators Mindat Articles The Elements The Rock H. Currier Digital Library Geologic Time Minerals by Properties Minerals by Chemistry Advanced Locality Search Random Mineral Random Locality Search by minID Localities Near Me Search Articles Search Glossary More Search Options Search For: - Any - Mineral / Rock / Gem Locality Minerals in Region Photo Glossary Discussions Articles Site Search Mineral Name: Locality Name: Keyword(s): &nbsp; The Mindat Manual Add a New Photo Rate Photos Locality Edit Report Coordinate Completion Report Add Glossary Item Mining Companies Statistics Users Mineral Museums Clubs & Organizations Mineral Shows & Events The Mindat Directory Device Settings The Mineral Quiz Time Machine Photo Search Photo Galleries Search by Color New Photos Today New Photos Yesterday Members' Photo Galleries Past Photo of the Day Gallery Photography Search Error Nothing selected &nbsp; and/or &nbsp; Mindat.org® is an outreach project of the Hudson Institute "
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": true,
+      "url": "https://rockhoundingmap.com/?s=Nemaha%20River%20gravels%20near%20Humboldt",
+      "description_snippet": "Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Nemaha%20River%20gravels%20near%20Humboldt%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[mindat] Search Error --> Log In Register Language: English 中文 About Support Us Photos Discussions Search Learn More Quick Links : The Mindat Manual The Rock H. Currier Digital Library Mindat Newsletter [Free Download] Home Page About Mindat The Mindat Manual History of Mindat Copyright Status Who We Are Contact Us Advertise on Mindat Donate to Mindat Corporate Sponsorship Sponsor a Page Sponsored Pages Mindat Advertisers Advertise on Mindat Learning Center What is a mineral? The most common minerals on earth Information for Educators Mindat Articles The Elements The Rock H. Currier Digital Library Geologic Time Minerals by Properties Minerals by Chemistry Advanced Locality Search Random Mineral Random Locality Search by minID Localities Near Me Search Articles Search Glossary More Search Options Search For: - Any - Mineral / Rock / Gem Locality Minerals in Region Photo Glossary Discussions Articles Site Search Mineral Name: Locality Name: Keyword(s): &nbsp; The Mindat Manual Add a New Photo Rate Photos Locality Edit Report Coordinate Completion Report Add Glossary Item Mining Companies Statistics Users Mineral Museums Clubs & Organizations Mineral Shows & Events The Mindat Directory Device Settings The Mineral Quiz Time Machine Photo Search Photo Galleries Search by Color New Photos Today New Photos Yesterday Members' Photo Galleries Past Photo of the Day Gallery Photography Search Error Nothing selected &nbsp; and/or &nbsp; Mindat.org® is an outreach project of the Hudson Institute ",
+      "[rockhounding_map] Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy"
+    ],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "partial",
+    "sources_found": 2
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 952,
+      "meters": 290
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:05:03.975Z"
+  },
+  "scraped_at": "2026-04-21T17:05:03.975Z",
+  "scrape_quality": "partial"
+}

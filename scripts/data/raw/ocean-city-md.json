@@ -1,0 +1,60 @@
+{
+  "slug": "ocean-city-md",
+  "name": "Ocean City",
+  "lat": 38.414746,
+  "lng": -75.054966,
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "state_code": "MD",
+  "city": "Ocean City",
+  "city_slug": "ocean-city",
+  "county": "Worcester",
+  "county_slug": "worcester",
+  "geocoded_city": "Ocean City",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maryland.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ocean%20City%20Maryland"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ocean%20City",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ocean%20City%20Maryland"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 5,
+      "meters": 2
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:38:42.929Z"
+  },
+  "scraped_at": "2026-04-21T17:38:42.929Z",
+  "scrape_quality": "minimal"
+}

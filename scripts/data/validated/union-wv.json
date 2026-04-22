@@ -1,0 +1,101 @@
+{
+  "slug": "union-wv",
+  "name": "Union",
+  "state": "West Virginia",
+  "state_slug": "west-virginia",
+  "city": "Monroe County Area",
+  "city_slug": "monroe-county",
+  "county": "Monroe",
+  "county_slug": "monroe",
+  "lat": 37.536118,
+  "lng": -80.516521,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Chert",
+    "Calcite"
+  ],
+  "short_description": "Explore rockhounding in southern West Virginia near Turkey Creek. Find quartz, jasper, and chert specimens in this moderate-elevation Appalachian region with accessible public land collecting.",
+  "description": "Union sits in Monroe County in the heart of southern West Virginia's Appalachian foothills, at about 2,000 feet elevation near Turkey Creek. This area offers rockhounders access to quartz-rich formations, banded jasper, and chert deposits typical of West Virginia's Paleozoic-age limestone and shale bedrock. The moderate slopes and stream-carved valleys create excellent conditions for finding loose specimens in creek beds and exposed weathered outcrops.\n\nThe region's geology reflects hundreds of millions of years of marine sedimentation during the Paleozoic Era, when shallow seas covered what is now Appalachia. Silica-rich solutions percolating through limestone and shale layers deposited quartz veins, nodules, and banding that crystallized into the specimens found here today. Local creeks like Turkey Creek continue to expose and transport these mineral-bearing rocks, making stream beds productive collecting areas.\n\nRockhounders here typically find milky white quartz, translucent to opaque jasper in reds and browns, and gray or tan chert suitable for cutting and polishing. Calcite crystals and secondary mineral deposits also appear in some weathered outcrops. The moderate terrain and stream access make this a good location for families and beginner rockhounders willing to do light hiking and creek walking.\n\nBest collecting occurs after seasonal rains when stream flow has recently turned over new material. The area around Turkey Creek drainage offers the most promise, with accessible pullouts and relatively short walks to productive ground. Spring and fall trips avoid the summer heat and winter icing that can make the terrain more difficult.",
+  "history": "Union lies within the Appalachian Basin where Paleozoic-age marine sedimentation (roughly 300-500 million years ago) deposited thick sequences of limestone, shale, and sandstone. Silica-rich groundwater moving through these sediments during diagenesis and later tectonic activity formed quartz veins, jasper bands, and chert nodules that persist as collectible specimens today. Local prospecting and small-scale quarrying have long recognized the quartz and chert resources in Monroe County.",
+  "tips": "Search along Turkey Creek and its visible tributary washes where water has sorted and exposed loose specimens - light gray and white quartz nodules are most common here. Use a small pickaxe or cold chisel to carefully extract specimens from creek banks and weathered shale faces; chert and jasper can be brittle, so test carefully before striking hard. Look for banded patterns in jasper and translucent zones in quartz - these are the best-quality pieces for polishing. Visit after heavy spring rains when creek flow has recently churned material.",
+  "terrain_notes": "Moderate elevation (1,986 ft) with rolling to moderate slopes typical of southern Appalachia. Terrain is mixed deciduous forest and open fields with good seasonal access to Turkey Creek. Walking distances from parking to productive areas typically 0.5 to 2 miles. Footing can be uneven with loose rocks, roots, and stream bank slumping; sturdy hiking boots are recommended. Creek crossings may be necessary depending on water level.",
+  "best_season": "April - June and September - November. Spring offers water flow that exposes fresh material; early summer and fall provide comfortable temperatures and low water levels for safe wading. Avoid July - August heat and winter ice/snow that makes the terrain slippery and hazardous.",
+  "written_directions": "From Pearisburg, Virginia (19 miles south), take US 219 north toward Union, West Virginia. Continue on local roads into Monroe County toward the Turkey Creek drainage. Look for pullouts and farm access roads on the east side of the creek near Union. GPS coordinates 37.536118, -80.516521 mark a central access point. Note: Road conditions vary; check with local sources before traveling in wet weather as back roads can become impassable.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": "Mixed paved and unpaved local roads; some sections may be gravel or dirt. Standard passenger vehicle acceptable during dry conditions; high-clearance vehicle recommended for wet seasons.",
+  "parking_notes": "Informal pullouts along Turkey Creek access roads and farm gates. No designated parking area; park respectfully on roadside without blocking gates or blocking traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Rockhounding is permitted on public and accessible private land in the area under West Virginia rockhounding tradition. Obtain permission from landowners before entering private property. Collect only for personal use and hobby purposes. Do not disturb active mining operations, quarries, or marked private claims. Remove only loose surface material and small hand-tool excavations; do not blast or use motorized equipment. Leave the area clean and restore any disturbed earth.",
+  "quantity_limits": null,
+  "rules": "Obtain landowner permission before collecting\nPersonal use only - no commercial collection\nNo motorized equipment or blasting\nLeave area clean and respect private property\nDo not collect from active quarries or marked claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Pearisburg, Virginia is 19 miles south with gas, food, and water services. Union, West Virginia (approximate distance 3-5 miles) may have limited services.",
+  "accessibility_notes": "Relatively flat to rolling terrain with moderate slopes accessible to most hikers. No wheelchair access due to uneven creek banks, loose rocks, and stream crossings. Sturdy footwear and moderate fitness required for safe walking. Shorter 0.5-mile trips to nearby creek sections suitable for families with young children.",
+  "alternative_names": [],
+  "nearest_city": "Pearisburg",
+  "nearest_city_distance": 19,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/west-virginia/union-wv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Union, West Virginia?",
+      "answer": "The primary specimens at Union are quartz, jasper, chert, and calcite. Quartz appears as white to milky nodules and small veins. Jasper shows red, brown, and tan banding suitable for cabbing and polishing. Chert occurs as gray or tan nodules in the shale and limestone. These form from Paleozoic-age marine sediments and silica-rich groundwater mineralization."
+    },
+    {
+      "question": "Is rockhounding at Union, West Virginia free or do you need a permit?",
+      "answer": "Rockhounding at Union is free on public and accessible private land with no formal permit required. You must obtain permission from private landowners before entering their property. Collecting is limited to personal hobby use only; commercial collection is not allowed."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Monroe County, West Virginia?",
+      "answer": "The best seasons are April - June and September - November. Spring offers good water flow that exposes fresh specimens in Turkey Creek, while fall provides comfortable temperatures and lower water levels for safe wading. Avoid summer heat (July - August) and winter conditions when ice and snow make terrain hazardous."
+    },
+    {
+      "question": "How do you find quartz and jasper specimens at Union, West Virginia?",
+      "answer": "Search along Turkey Creek and tributary washes where water has sorted and exposed loose specimens. Light gray and white quartz nodules concentrate in creek beds and on banks. Look for banded red and brown jasper on exposed weathered shale faces. Use a small pickaxe or cold chisel to carefully extract pieces; visit after heavy spring rains when fresh material has been churned up."
+    },
+    {
+      "question": "Is Union, West Virginia rockhounding suitable for beginners and families?",
+      "answer": "Yes, Union is beginner and family friendly. The terrain is moderate elevation with relatively accessible creek beds and short walking distances (0.5 - 2 miles) to productive areas. Kids age 6 and up can participate with proper supervision. Loose surface specimens are easy to spot and collect with basic hand tools."
+    },
+    {
+      "question": "What tools and supplies should you bring for rockhounding at Union, West Virginia?",
+      "answer": "Bring sturdy hiking boots for uneven creek banks and loose rocks, a small pickaxe or cold chisel for extracting specimens, safety glasses, a collection bag, and a field guide to identify specimens. Bring water and snacks; cell service is spotty, so inform someone of your plans. Wear sun protection and insect repellent, especially in spring and fall."
+    }
+  ],
+  "meta_title": "Union Rockhounding - West Virginia",
+  "meta_description": "Find quartz, jasper, and chert at Union, WV. Free public rockhounding near Turkey Creek with easy to moderate terrain. Perfect for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category (inferred as 'other' due to unknown public/private mix)",
+    "access_type (assumed 'public' based on typical Appalachian public land access)",
+    "collection_rules (based on West Virginia rockhounding tradition and general Appalachian norms - confirm with local sources)",
+    "parking_notes (inferred as informal access typical of rural West Virginia creek collecting)",
+    "road_conditions (estimated based on typical Monroe County rural road infrastructure)",
+    "written_directions (estimated based on geographic position relative to Pearisburg and general mountain roads)"
+  ],
+  "enriched_at": "2026-04-21T17:50:05.337Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:51:14.360Z"
+}

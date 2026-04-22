@@ -1,0 +1,99 @@
+{
+  "slug": "petaca-nm",
+  "name": "Petaca",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Petaca",
+  "city_slug": "petaca",
+  "county": "Rio Arriba",
+  "county_slug": "rio-arriba",
+  "lat": 36.503348,
+  "lng": -106.023464,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Free BLM rockhounding at 7,570 feet in the high desert of northern New Mexico. Hunt for agate, jasper, and quartz on gentle terrain near the historic Petaca community.",
+  "description": "Petaca offers accessible rockhounding on public BLM land in the scenic high desert of Rio Arriba County. Located at elevation 7,570 feet, this gentle-sloped area provides year-round collecting opportunities without permits or fees. The terrain is relatively open and walkable, making it suitable for families and beginners looking to find quality agate, jasper, and chalcedony specimens.\n\nThe Rio Arriba County region sits within the transition between the Colorado Plateau and the Rio Grande Rift zone. Miocene-age volcanic and sedimentary deposits here have created extensive beds of microcrystalline quartz varieties, particularly agates and jaspers that weather out of hillside outcrops and wash bottoms. The gentle slope and exposed geology make specimen hunting straightforward without requiring technical climbing or excavation.\n\nVisitors should expect semi-arid high-desert conditions with sparse vegetation and excellent surface visibility for spotting specimens. The area's elevation keeps summers cool compared to lower New Mexico deserts, and winter snows are light. Most collecting happens on exposed hillsides and in shallow washes where material naturally erodes from parent rock. This is prime territory for finding thumb-sized to palm-sized agate nodules and jasper fragments suitable for cutting or display.\n\nThe Petaca area maintains a strong rockhounding tradition, with local collectors returning seasonally. The combination of productive ground, free access, and beginner-friendly terrain makes this a reliable destination for building a personal collection without commercial pressure. Respect other collectors and avoid any private claims or marked areas.",
+  "history": "The Petaca region sits within the transition zone between the Colorado Plateau and Rio Grande Rift provinces, where Miocene volcanic activity and silica-rich hydrothermal fluids deposited extensive microcrystalline quartz nodules and replacements. The gentle slopes and high desert environment have allowed natural weathering to concentrate agate and jasper specimens on the surface, making them accessible to surface collectors without deep excavation.",
+  "tips": "Focus on the base of hillsides and wash banks where agate and jasper nodules naturally erode and accumulate; look for rounded, waxy-looking stones in shades of brown, red, grey, and cream. Carry a loupe to examine the fine banding and color patterns that distinguish quality agate from common flint. Bring sturdy gloves and a rock hammer or pick to carefully extract specimens from exposed matrix without damage. Early morning or late afternoon light helps spot the subtle shine of chalcedony on the ground surface.",
+  "terrain_notes": "Elevation 7,570 feet with gentle slopes and open high-desert terrain. Sparse pinyon-juniper vegetation and exposed red-brown soil. Most collecting within walking distance of parking areas, typically 100 to 500 yards from vehicle. Footing is steady on compacted earth with scattered loose rocks; no major hazards. Terrain is accessible to most hikers with standard footwear.",
+  "best_season": "October - April. The high elevation keeps summers warm but tolerable. Winter snows are light and infrequent at this elevation. Fall and early spring offer ideal temperatures (50-65 F) for sustained field work. Summer monsoons (July-August) occasionally bring flash-flood risk to washes.",
+  "written_directions": "From the town of Petaca, take NM 285 north or south depending on site access; park at pullouts or dispersed camping areas near the community. Most BLM rockhounding in Rio Arriba County is accessible via county roads branching from NM 285. Ask locally at Petaca for specific current pull-off locations, as access points shift seasonally. GPS coordinates 36.503348, -106.023464 mark the general collection zone. Expect dirt roads suitable for passenger vehicles in dry conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt roads, generally graded. Suitable for passenger cars in dry weather. May require high-clearance or four-wheel-drive in wet conditions or winter.",
+  "parking_notes": "Dispersed parking at pullouts and informal camping areas along county roads. No developed parking lot. Multiple pull-offs available near productive collecting zones.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect only agate, jasper, chalcedony, and other microcrystalline quartz. Do not disturb exposed mineralized veins or blast rock. Respect private claims and marked restricted areas.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or resale\nNo motorized equipment for excavation\nNo removal of specimens from marked mineral claims\nRestrict collecting to surface and naturally exposed material\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Petaca town (small community, limited services). Espanola, NM approximately 30 miles south, with gas, food, water, and supplies.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Unpaved roads to parking areas. Terrain is open and unobstructed with good visibility. Sturdy everyday footwear adequate for most areas. No wheelchair access to collecting zones, but parking areas themselves are accessible by vehicle.",
+  "alternative_names": [],
+  "nearest_city": "Espanola",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/petaca-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding at Petaca, New Mexico?",
+      "answer": "Petaca's BLM land is known for agate, jasper, chalcedony, and quartz specimens. Most material occurs as nodules and fragments eroding from hillsides. Agate nodules typically range from thumb-sized to palm-sized and display cream, brown, red, and grey banding. This is an excellent location for building a beginner's collection of quality microcrystalline quartz specimens."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Petaca?",
+      "answer": "No permit is required for recreational rockhounding at Petaca. The area sits on BLM public land where personal use collecting is allowed under FLPMA guidelines. You can collect up to 25 lbs per day at no cost. Just respect the 25-pound daily limit and avoid any marked private claims."
+    },
+    {
+      "question": "When is the best time to rockhound near Petaca?",
+      "answer": "October through April is ideal. The high elevation (7,570 feet) keeps summers warm but fall and early spring offer the best temperatures (50-65 F) for sustained field work. Winter snows are light at this elevation. Summer monsoon season (July-August) can bring flash-flood risk to washes."
+    },
+    {
+      "question": "How do I find agate and jasper at Petaca?",
+      "answer": "Focus on the base of hillsides and shallow washes where nodules naturally weather out. Look for rounded, waxy-looking stones in browns, reds, and greys. Use a loupe to spot the fine banding characteristic of quality agate. Early morning or late afternoon light reflects off the chalcedony surface. Carry a rock hammer to carefully extract specimens without damage."
+    },
+    {
+      "question": "Is rockhounding at Petaca good for beginners and families?",
+      "answer": "Yes, Petaca is excellent for beginners and families. The terrain is gently sloping, open, and accessible with standard footwear. No permits or fees are required. Children ages 6 and up can participate safely. The combination of productive ground, free access, and straightforward specimen hunting makes this an ideal training location."
+    },
+    {
+      "question": "What should I bring for rockhounding at Petaca?",
+      "answer": "Bring a backpack, water bottle, sturdy gloves, and a rock hammer or pick. A loupe helps identify quality specimens. Wear sun protection, a hat, and sturdy footwear for high-desert conditions. A GPS device or phone with offline maps is helpful for navigation. Pack out all trash to preserve the site for future collectors."
+    }
+  ],
+  "meta_title": "Petaca Rockhounding - New Mexico",
+  "meta_description": "Free BLM rockhounding for agate, jasper, and chalcedony at Petaca, New Mexico. No permit required. Easy terrain at 7,570 feet. Find specimens year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "nearest_city_distance",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T06:46:18.169Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:49:48.818Z"
+}

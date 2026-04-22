@@ -1,0 +1,60 @@
+{
+  "slug": "burlington-geodes-ia",
+  "name": "Burlington (geodes)",
+  "lat": 40.852054,
+  "lng": -91.149314,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Des Moines County",
+  "city_slug": "des-moines-county",
+  "county": "Des Moines",
+  "county_slug": "des-moines",
+  "geocoded_city": "Burlington",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Burlington%20(geodes)%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Burlington%20(geodes)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Burlington%20(geodes)%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 545,
+      "meters": 166
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:55:24.371Z"
+  },
+  "scraped_at": "2026-04-21T17:55:24.371Z",
+  "scrape_quality": "minimal"
+}

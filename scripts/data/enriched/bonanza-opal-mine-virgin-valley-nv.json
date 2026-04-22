@@ -1,0 +1,101 @@
+{
+  "slug": "bonanza-opal-mine-virgin-valley-nv",
+  "name": "Bonanza Opal Mine (Virgin Valley)",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "McDermitt",
+  "city_slug": "mcdermitt",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "lat": 41.78,
+  "lng": -119.1,
+  "gem_types": [
+    "Opal",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Virgin Valley's famous Bonanza Opal Mine offers public BLM access to fire opal and precious opal deposits formed in Miocene volcanic ash. Collect up to 25 lbs daily at no cost.",
+  "description": "The Bonanza Opal Mine sits within Nevada's renowned Virgin Valley opal field, where some of the world's finest precious and fire opals have been found for over a century. This BLM-administered public land welcomes rockhounders to search for translucent and opaque opals, often displaying brilliant play-of-color in reds, oranges, yellows, and greens. The deposit formed when silica-rich water percolated through Miocene-age volcanic ash and tuff layers approximately 14 million years ago, slowly filling cavities and cracks with opal. Virgin Valley opals are unique because many specimens lack the crazing and checking problems common in opals from other regions, making them highly prized by collectors and lapidaries.\n\nThis location is less developed than some nearby commercial fee-dig operations, making it ideal for rockhounders seeking a more natural, exploratory collecting experience. The terrain features eroded hillsides and washes where opal-bearing material is frequently exposed by seasonal runoff. Most collectors work the soft volcanic ash and weathered tuff, looking for the distinctive glassy or milky appearance of opal nodules and seams. The site attracts both beginners and experienced rockhounders due to its accessibility and the genuine possibility of finding specimens worth significant time spent.\n\nVisualize your search focused on the pale tan and gray volcanic deposits; opals often stand out as translucent or glassy areas within the softer host rock. Fire opal here typically appears as orange-red transparent material, while precious opal shows internal color play. The wash bottoms and eroded slopes are your best bet for exposed specimens. Bring tools to carefully extract nodules and always check for loose material before positioning yourself below steep banks.",
+  "history": "Virgin Valley formed during the middle Miocene epoch when extensive volcanic activity blanketed the region with thick deposits of volcanic ash and pumice. Silica-rich fluids from hydrothermal activity slowly filled pores and fractures in these volcanic rocks, depositing opal over millions of years. Commercial mining and recreational collecting have continued in this area since the early 1900s, with the Bonanza Mine being one of the historically significant producing areas.",
+  "tips": "Focus your search in the eroded washes and hillside slopes where lighter-colored volcanic ash is exposed; opal here often appears as glassy, translucent nodules contrasting with the duller host rock. Use a small pry bar and cold chisel to carefully work around nodules rather than striking them directly, as Virgin Valley opals can be brittle. Look for the characteristic semi-transparent or milky appearance of opal material, particularly in shades of white, orange, red, and occasionally showing internal color flashing. Work systematically along exposed faces and around the bases of erosion gullies where opal concentrates.",
+  "terrain_notes": "Rolling hills and gentle slopes with moderate to steep erosion cuts revealing volcanic ash and tuff deposits. Elevation ranges from approximately 4,200 to 4,500 feet. Terrain is sparsely vegetated with low brush and sagebrush. Walking distances from parking pullouts typically range from 50 yards to a half mile. Footing on slopes can be uneven with loose volcanic material; sturdy boots are essential. Washes may carry water seasonally.",
+  "best_season": "October - April. Late spring through early fall brings intense desert heat exceeding 90 degrees Fahrenheit, making summer collecting uncomfortable and potentially dangerous. Fall and winter offer cooler temperatures, better visibility, and seasonal water flow in washes that exposes fresh material.",
+  "written_directions": "From McDermitt, Nevada, take US 95 north approximately 35 miles toward the Oregon border. Look for signs or landmarks indicating Virgin Valley opal fields. Turn east on county/BLM access roads (County Road 34A or similar local roads) and follow toward the Bonanza Mine area. The exact pullout will require local knowledge or current BLM maps, as access points can shift seasonally. Consult the Humboldt County BLM field office or current rockhounding guides for precise coordinates of maintained parking areas. High-clearance vehicles are recommended after winter or spring runoff.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unimproved BLM dirt roads, potentially washboarded and rough after weather events. Seasonal washouts possible in spring. Suitable for high-clearance vehicles; standard passenger cars risk damage.",
+  "parking_notes": "Informal pullouts and parking areas managed by BLM. No developed facilities. Space for several vehicles. Parking is free and available year-round.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or resale of material. No motorized excavation equipment. No use of explosives. All excavation must be by hand tools only. Leave site clean and close all holes to prevent erosion or safety hazards.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\n25 lb daily limit per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo explosives\nFill and close excavations\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "loose_rock",
+    "abandoned_mines",
+    "snakes",
+    "remote"
+  ],
+  "nearest_services": "McDermitt, Nevada (approximately 35 miles south) has limited gas and services. Gerlach, Nevada (approximately 60 miles south) offers more complete amenities. Bring plenty of water, as services are sparse in this remote high-desert region.",
+  "accessibility_notes": "Uneven rocky terrain with loose volcanic material on slopes. No wheelchair access to collecting areas. Sturdy high-ankle hiking boots essential. Terrain involves climbing and traversing hillsides with moderate elevation change. Not suitable for limited mobility. Water and shade are minimal; bring adequate hydration and sun protection.",
+  "alternative_names": [
+    "Virgin Valley Opal Field",
+    "Virgin Valley Bonanza"
+  ],
+  "nearest_city": "McDermitt",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/bonanza-opal-mine-virgin-valley-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/bonanza-opal-mine-virgin-valley-nv/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What type of opal can I find at Bonanza Opal Mine in Virgin Valley?",
+      "answer": "Bonanza Opal Mine is famous for both precious opal and fire opal. Virgin Valley opals are exceptional because they rarely display the crazing and checking problems common in other regions. You may find translucent to semi-transparent specimens showing brilliant internal color play in reds, oranges, and yellows, as well as white and milky opals. The best specimens are often discovered in the soft volcanic ash layers."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Virgin Valley Bonanza Opal Mine?",
+      "answer": "No permit is required for recreational rockhounding at Bonanza Opal Mine. The site is on public BLM land in Nevada where personal use collecting is allowed without fees or permits. You must follow FLPMA regulations: 25 lb daily limit, no commercial collection, and hand tools only."
+    },
+    {
+      "question": "How far is Bonanza Opal Mine from the nearest town and what season is best to visit?",
+      "answer": "Bonanza Opal Mine is approximately 35 miles north of McDermitt, Nevada via US 95. The best collecting season is October through April when temperatures are moderate (typically 40-60 degrees Fahrenheit). Avoid summer months (May - September) when desert heat exceeds 90 degrees and makes collecting dangerous. Fall and winter also bring seasonal water flow in washes that exposes fresh material."
+    },
+    {
+      "question": "What tools and equipment do I need to collect opal at Virgin Valley?",
+      "answer": "Bring a small pry bar, cold chisel, and hammer for carefully extracting nodules from the volcanic ash. Wear sturdy high-ankle hiking boots due to loose rocky terrain. Essential items include plenty of water (at least 3-4 liters per person), sun protection, a hat, and a collection bag. A small hand rake or brush helps expose material in washes. Do not bring motorized equipment, as hand tools only are allowed."
+    },
+    {
+      "question": "Is rockhounding at Bonanza Opal Mine in Virgin Valley beginner-friendly?",
+      "answer": "Yes, Bonanza Opal Mine is suitable for beginners and families with children ages 8 and up. The terrain is moderately challenging but navigable for people in reasonable physical condition. Opals stand out visually from the host rock, making them relatively easy to spot. However, the site is remote, so bring supplies and plan to spend time learning to recognize opal material. Start with the more accessible wash areas before attempting steeper slopes."
+    },
+    {
+      "question": "What is the daily collection limit at Virgin Valley Bonanza Opal Mine and what happens if I exceed it?",
+      "answer": "The daily limit is 25 pounds per person per day under Federal FLPMA regulations for BLM public lands. This limit applies to all personal use collecting and is enforced by BLM rangers. Exceeding the limit constitutes illegal collection. Most rockhounders easily find specimens worth keeping within this weight allowance, as quality opal nodules are often found in smaller sizes. Always adhere to the limit and leave material for future collectors."
+    }
+  ],
+  "meta_title": "Bonanza Opal Mine Virgin Valley - Nevada Rockhounding",
+  "meta_description": "Find precious opal and fire opal at Bonanza Opal Mine on public BLM land near McDermitt, Nevada. No permit required, 25 lb daily limit. Free rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - specific county road numbers not confirmed from terrain data",
+    "parking_notes - specific capacity not verified",
+    "cell_service - estimated based on remote location, should be field-verified"
+  ],
+  "enriched_at": "2026-04-22T06:45:18.394Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:55.001Z"
+}

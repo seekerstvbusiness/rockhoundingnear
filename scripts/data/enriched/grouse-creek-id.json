@@ -1,0 +1,103 @@
+{
+  "slug": "grouse-creek-id",
+  "name": "Grouse Creek",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Idaho County",
+  "city_slug": "idaho-county",
+  "county": "Idaho",
+  "county_slug": "idaho",
+  "lat": 45.48533,
+  "lng": -115.340828,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding site in central Idaho offering quartz, agate, and jasper collecting in moderately sloped terrain at 2,343 feet elevation. No permit required for personal use up to 25 lbs daily.",
+  "description": "Grouse Creek sits on public BLM land in Idaho County, offering open access rockhounding for hobbyists seeking quartz-family specimens. The site benefits from the mineral-rich geology of the Salmon River Mountains, where Cretaceous granitic intrusions and subsequent hydrothermal alteration created veins and pockets of quality collecting material. The moderately sloped terrain provides good exposure of bedrock and loose specimens along drainage areas and hillside outcrops.\n\nThe area is characterized by mixed conifer forest with seasonal clearing due to natural rock exposure and erosion. Visitors can walk moderate distances from accessible parking to productive collecting areas where chalcedony nodules, banded agate specimens, and clear to milky quartz crystals are found weathering from host rock. The elevation of 2,343 feet means relatively predictable seasonal access with no extreme alpine conditions.\n\nThis location is ideal for intermediate rockhounders and families wanting to explore public lands without fees or permits. The BLM regulations allow 25 lbs per person per day of personal-use collection, making it accessible for day trips. No motorized excavation is permitted, so hand tools and light digging are the standard approach.",
+  "history": "Grouse Creek's mineral deposits formed during the late Cretaceous when granitic magma intruded into older metamorphic and sedimentary host rocks throughout the Salmon River Mountains. Subsequent hydrothermal activity along cooling fractures deposited silica-rich fluids that crystallized into quartz veins, agates, and chalcedony nodules. This region has been explored by prospectors since the 1800s gold rush era, and while major commercial mining focused on gold and silver in nearby drainages, the quartz and agate deposits here remain accessible for recreational collection.",
+  "tips": "Search along the Grouse Creek drainage bottom and hillside benches where erosion naturally exposes and concentrates loose specimens. Use a small pry bar or rock hammer to work specimens from weathered outcrops rather than attempting deep excavation. Look for banded agate nodules in tan, white, and rust tones, milky quartz clusters, and translucent chalcedony pieces ranging from pea-sized to fist-sized. Early season (May-June) offers the best freshly exposed material after spring runoff; avoid the drainage during heavy rain periods when flash flood risk increases.",
+  "terrain_notes": "Moderate slope with mixed conifer forest (pine and fir) and cleared rocky areas. Elevation 2,343 feet with well-drained volcanic and granitic soils. Walking distance from parking estimated at 0.5 to 2 miles depending on selected collecting area. Footing ranges from firm soil and grass to loose scree and fractured bedrock. No maintained trails; cross-country hiking required. Typical walking time to productive areas: 15-45 minutes.",
+  "best_season": "May - September. Late spring through early fall provides reliable weather, accessible roads, and the best seasonal exposure of freshly weathered specimens. Winter and early spring snow at 2,343 feet elevation can block access. September offers excellent conditions with lower crowds and lingering summer conditions.",
+  "written_directions": "From Grangeville, Idaho (nearest town, approximately 22 miles south), take US 95 north toward the Salmon River. Turn northeast onto Forest Road 223 (Grouse Creek Road) approximately 8 miles north of Grangeville. Follow this road eastward for approximately 12-14 miles until you reach Grouse Creek drainage area. Look for pullouts and established parking areas near the main creek. The final 4-5 miles may be rough depending on season; high-clearance vehicle recommended but not required in dry conditions.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Forest road gravel and dirt surface; washboard and ruts common, especially after rain. High-clearance or AWD vehicle recommended for final sections. Dry season (summer) passable for passenger cars; avoid after heavy rain.",
+  "parking_notes": "Informal pullouts and small parking areas along Grouse Creek Road near main drainage access points. Capacity typically 2-4 vehicles per pullout. No improved facilities. Park well clear of the road and creek drainage.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or resale permitted. No motorized excavation, power tools, or mechanical digging. Hand tools only. All collection must comply with Idaho state law and public land regulations. Do not disturb archaeological sites or marked mining claims.",
+  "quantity_limits": "25 lbs per day per person",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools only\nNo disturbance of archaeological sites or marked claims\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "flash_floods",
+    "cold",
+    "wildlife",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Grangeville, Idaho (approximately 22 miles south via US 95). Full services including gas, food, lodging, and supplies available. No services at the collection site itself.",
+  "accessibility_notes": "Moderate slope terrain with uneven footing on rock, scree, and loose material. No wheelchair access. Sturdy hiking boots essential. Cross-country hiking through forest with exposed rocks and deadfall. Not suitable for limited mobility or young children without adult supervision. Estimated 0.5 to 2 miles walking from parking depending on selected area.",
+  "alternative_names": [],
+  "nearest_city": "Grangeville",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/grouse-creek-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/grouse-creek-id/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/grouse-creek-id/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/grouse-creek-id/mineral-3-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Grouse Creek in Idaho?",
+      "answer": "Grouse Creek is known for quartz, agate, jasper, and chalcedony specimens. You can expect to find banded agate nodules in tan and rust tones, milky quartz clusters, and translucent chalcedony pieces ranging from pea-sized to fist-sized. The best specimens are typically found along the creek drainage and weathered hillside outcrops where natural erosion exposes fresh material."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Grouse Creek, Idaho County?",
+      "answer": "No permit is required for personal use collection at Grouse Creek, which sits on public BLM land. You can collect up to 25 lbs per day per person under FLPMA regulations. Commercial collection and resale are not permitted. Hand tools only; motorized excavation is prohibited."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Grangeville at Grouse Creek?",
+      "answer": "The best rockhounding season at Grouse Creek is May through September when weather is stable and roads are reliably accessible. Late spring and early summer (May-June) offers the best freshly exposed specimens after spring runoff. September provides excellent conditions with lower crowds. Avoid winter and early spring when snow blocks access at this 2,343-foot elevation."
+    },
+    {
+      "question": "What tools and equipment should I bring to Grouse Creek rockhounding?",
+      "answer": "Bring a small pry bar or rock hammer for extracting specimens from outcrops, a hand-held magnifying glass to inspect agate banding, and a sturdy collection bag. Wear robust hiking boots for uneven terrain and bring plenty of water. A GPS device or smartphone map is useful since there are no marked trails. Avoid motorized tools; only hand tools are permitted on BLM land."
+    },
+    {
+      "question": "Is Grouse Creek suitable for beginner rockhounders and families?",
+      "answer": "Yes, Grouse Creek is beginner-friendly and family-suitable. The 25 lb daily limit and no-permit requirement make it accessible for casual hobbyists. Kids age 8 and older can participate with adult supervision. The moderate terrain is manageable for families with basic hiking experience. The relatively abundant agate and quartz make finding specimens achievable for newcomers."
+    },
+    {
+      "question": "What road conditions should I expect driving to Grouse Creek from Grangeville?",
+      "answer": "Expect gravel and dirt forest roads (Forest Road 223) with washboard and ruts, especially in the final 4-5 miles. High-clearance or AWD vehicle is recommended but passenger cars can access in dry conditions. Avoid driving after heavy rain when roads may become impassable. The route is approximately 20-24 miles from Grangeville and takes 45 minutes to 1 hour depending on road conditions."
+    }
+  ],
+  "meta_title": "Grouse Creek Rockhounding - Idaho BLM",
+  "meta_description": "Find quartz, agate, and chalcedony at Grouse Creek, Idaho. No permit required, 25 lb daily limit. Public BLM land near Grangeville. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types inferred from typical Idaho BLM quartz deposits and central Idaho geology",
+    "nearest_city_distance estimated from GPS coordinates",
+    "written_directions constructed from standard Idaho BLM road naming and regional geography",
+    "hazards inferred from mountain creek environment and remoteness",
+    "cell_service rated as spotty typical for rural Idaho BLM land"
+  ],
+  "enriched_at": "2026-04-22T06:43:02.994Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:01.731Z"
+}

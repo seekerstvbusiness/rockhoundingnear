@@ -1,0 +1,57 @@
+{
+  "slug": "warwick-ri",
+  "name": "Warwick",
+  "lat": 41.659486,
+  "lng": -71.410334,
+  "state": "Rhode Island",
+  "state_slug": "rhode-island",
+  "state_code": "RI",
+  "city": "Warwick",
+  "city_slug": "warwick",
+  "county": "Kent County",
+  "county_slug": null,
+  "geocoded_city": "Warwick",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-rhode-island.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Warwick%20Rhode%20Island"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Warwick",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Warwick%20Rhode%20Island"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:35:34.190Z"
+  },
+  "scraped_at": "2026-04-21T16:35:34.190Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "red-gulch-wy",
+  "name": "Red Gulch",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Big Horn County",
+  "city_slug": "big-horn-county",
+  "county": "Big Horn",
+  "county_slug": "big-horn",
+  "lat": 44.517525,
+  "lng": -107.818876,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Greybull offering productive collecting of colorful agates, jasper, and chalcedony nodules on flat terrain with minimal hiking required.",
+  "description": "Red Gulch is a rockhounding destination on Wyoming BLM land in Big Horn County, accessible to collectors of all skill levels. The site sits at 4,182 feet elevation on relatively flat terrain, making it ideal for families and beginning rockhounds. The gentle landscape allows you to cover ground easily while scanning for nodules and specimens that erode from the surrounding exposures.\n\nThe geology here reflects the Absaroka Mountain region's rich mineral heritage. Miocene-age volcanic and sedimentary layers host silica-rich nodules that have weathered out over millennia. The colorful agates and jaspers found here display reds, browns, creams, and yellows typical of Bighorn Basin specimens. Chalcedony nodules and quartz pieces are abundant, making this a reliable location for building a collection.\n\nCollecting is straightforward: walk the washes and hillsides, examining loose material and eroded banks for nodules and chips. The flat terrain means you can hunt comfortably for hours without steep climbs. Best results come from checking the bottoms of small arroyos where water action naturally concentrates heavier stones.\n\nAs BLM land, Red Gulch requires no permits and imposes only the standard personal-use limits. This makes it an excellent choice for casual day trips and informal group outings. The accessibility and productive geology attract rockhounders from across northern Wyoming.",
+  "history": "Red Gulch sits within the Bighorn Basin, where Eocene to Miocene silica-rich fluids deposited during a period of intense volcanic and hydrothermal activity created the agate and jasper nodules found here today. This region's mineral wealth attracted prospectors and rockhounders throughout the 20th century, and the area remains popular for personal specimen collecting on public BLM lands.",
+  "tips": "Focus your search on the bottoms and banks of small washes and arroyos where water erosion concentrates nodules over time. Look for the characteristic glossy luster and banding patterns of quality agates and jasper - avoid dull, chalky pieces that indicate weathering. Bring a 5-gallon bucket and small geology hammer to test suspect stones; many nodules break cleanly to reveal solid, colorful interiors. Check the site multiple times across seasons as winter runoff and spring erosion continually expose fresh material.",
+  "terrain_notes": "Flat to gently rolling terrain at 4,182 feet elevation. Sparse sagebrush and grassland with scattered outcrop exposures. Walking distance from parking is minimal (most productive areas within 0.25 miles). Footing is generally good on compacted soil and gravel, though loose rocks and uneven ground require normal hiking boots.",
+  "best_season": "April - October. Spring through fall offers the most comfortable temperatures and reliable access. Winter snows and mud can make roads impassable; summer heat (July-August) is manageable but warmer midday hours are less pleasant.",
+  "written_directions": "From Greybull, Wyoming, take Wyoming Highway 14 east toward Meeteetse for approximately 12 miles. Turn south onto a BLM access road (watch for rockhounding or BLM boundary markers). Continue south for 2-3 miles on rough dirt road to the main collecting area. Standard passenger vehicles can access the main parking area, though high-clearance is helpful after wet weather.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt road to parking area; may be rough or muddy after precipitation. High-clearance vehicle recommended but not required in dry conditions.",
+  "parking_notes": "Informal pull-offs and flat areas suitable for parking near the main collecting area. No developed lot; expect room for 3-5 vehicles. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or mechanized equipment. Pack out all trash. Respect private property boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lb per day limit\nNo commercial collection\nNo motorized excavation\nNo mechanized equipment\nPack out all trash\nRespect property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Greybull, Wyoming (approximately 12 miles west) has gas, food, water, and supplies.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Unpaved road to parking area but no steep grades or technical scrambling required. Sturdy walking shoes recommended but heavy-duty hiking boots not necessary. Limited facilities or shade at the site.",
+  "alternative_names": [],
+  "nearest_city": "Greybull",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/red-gulch-wy/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What agates and jasper can I find at Red Gulch near Greybull, Wyoming?",
+      "answer": "Red Gulch is known for colorful agate and jasper nodules displaying reds, browns, creams, and yellows typical of Bighorn Basin specimens. Chalcedony and quartz pieces are also abundant. Most specimens range from golf-ball to fist-size, though larger nodules are occasionally found. Quality agates often show banding patterns visible when broken open."
+    },
+    {
+      "question": "Is rockhounding at Red Gulch free or do I need a permit?",
+      "answer": "Red Gulch is located on BLM public land with no permit required. Collecting is free, but you must follow BLM personal-use rules: maximum 25 lbs per day, no commercial collection, and no motorized equipment. Pack out all trash and respect property boundaries."
+    },
+    {
+      "question": "When is the best time to rockhound Red Gulch in Wyoming?",
+      "answer": "April through October is ideal. Spring and fall offer comfortable temperatures. Summer is warm but accessible; winter snows and mud can make the access road impassable. Spring runoff and erosion expose fresh material, making May and early June especially productive."
+    },
+    {
+      "question": "How difficult is rockhounding at Red Gulch for beginners and families?",
+      "answer": "Red Gulch is highly beginner and family-friendly. The flat terrain requires minimal hiking, making it ideal for children ages 6 and up. No technical climbing or scrambling needed. Standard walking shoes and a basic geology hammer are sufficient tools. Most productive collecting areas are within a quarter-mile of parking."
+    },
+    {
+      "question": "What tools and equipment do I need to collect at Red Gulch?",
+      "answer": "Bring a small geology hammer or chisel to test nodules, a 5-gallon bucket for specimens, work gloves, sturdy walking shoes, water, and sun protection. A hand lens helps identify banding and quality before filling your bucket. Wear long sleeves for protection from sharp edges and sun exposure."
+    },
+    {
+      "question": "Where exactly should I search for nodules at Red Gulch rockhounding site?",
+      "answer": "Focus on the bottoms and banks of small washes and arroyos where water erosion concentrates heavier nodules over time. Scan exposed hillsides for loose pieces eroding from the outcrop. The flat terrain allows easy coverage; most collectors find productive patches within the first 0.5 miles from parking by following natural low points and erosion patterns."
+    }
+  ],
+  "meta_title": "Red Gulch Rockhounding - Wyoming Agate & Jasper",
+  "meta_description": "Find colorful agates, jasper, and chalcedony at Red Gulch near Greybull on free BLM land. Easy terrain, no permit needed, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-21T19:25:40.881Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:27:05.571Z"
+}

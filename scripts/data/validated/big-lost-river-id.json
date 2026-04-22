@@ -1,0 +1,101 @@
+{
+  "slug": "big-lost-river-id",
+  "name": "Big Lost River",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Arco",
+  "city_slug": "arco",
+  "county": "Butte",
+  "county_slug": "butte",
+  "lat": 43.79522,
+  "lng": -112.851842,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public rockhounding along the scenic Big Lost River near Arco. Find colorful agate, jasper, and chalcedony in gravel bars and stream terraces at 4789 ft elevation.",
+  "description": "Big Lost River offers excellent rockhounding opportunities on public BLM land in the remote Butte County area of central Idaho. The river valley sits at approximately 4789 feet elevation with relatively flat terrain that makes it accessible to rockhounds of varying skill levels. This location is ideal for finding agate, jasper, quartz, and chalcedony specimens that have weathered out of nearby volcanic and sedimentary formations.\n\nThe Big Lost River flows through a landscape shaped by ancient volcanic activity and basin-and-range tectonics. The river's gravel bars and stream terraces contain a mix of local rocks and minerals washed downstream from higher elevations. The relatively gentle slope of the terrain near the river makes walking and collecting straightforward, though you will encounter uneven ground and scattered rocks typical of alluvial deposits.\n\nThis is a remote location with minimal development, so plan accordingly with adequate water, fuel, and supplies from Arco. The site is best visited during late spring through early fall when weather is stable and river access is easiest. Personal use collecting is permitted on BLM land with a 25 lb daily limit per federal regulations.\n\nThe collecting is best in and around the river's gravel bars where stones accumulate. Look for specimens with color, translucency, or interesting patterns that indicate quality agate or jasper. Many rockhounders work the exposed banks and dried stream channels where recent water movement has exposed fresh material.\n\nExpect to share the area with other outdoor enthusiasts, though crowding is minimal compared to fee dig sites. Bring sturdy footwear, sun protection, and plenty of water as the open terrain offers little shade.",
+  "history": "The Big Lost River valley sits within the Snake River Plain physiographic province, where Miocene-age rhyolitic volcanism and subsequent basin-and-range extension created favorable conditions for silica-rich mineral deposition. The agate and jasper found here today result from the weathering and downstream transport of these volcanic deposits, concentrated in river gravels over millions of years.",
+  "tips": "Search the exposed gravel bars and cutbanks along the river itself, as flowing water naturally concentrates heavier stones and brings fresh material to the surface after seasonal floods. Use a small classifier or screen to sift finer gravels efficiently, and look for specimens with translucent bands, distinct color zoning, or waxy luster that indicate quality agate or chalcedony. The best collecting follows periods of spring runoff when new material is exposed; plan your visit for May through June if possible. Bring a heavy pick or pry bar to loosen material from compacted banks, and wear gloves to protect your hands from sharp rock edges.",
+  "terrain_notes": "Flat to gently sloping terrain at 4789 ft elevation near the river corridor. Walking is easy on alluvial gravel but uneven; loose rocks and scattered boulders are common. The river valley is mostly open with sparse shrubby vegetation typical of high desert. Access from parking is typically a short walk (under 0.5 miles) to productive gravel bars. Ground is dry and hard-packed except immediately adjacent to water.",
+  "best_season": "May - October. Late spring and early summer (May-June) offers excellent conditions when spring runoff has exposed new material in gravel bars. Summers (July-August) can be very hot in this high desert location, but collecting is still productive. Fall (September-October) provides cooler temperatures and fewer insects. Winter snow and cold make access difficult November through April.",
+  "written_directions": "From Arco, take US 93 north approximately 12 miles toward the Big Lost River area. Watch for BLM access points and pullouts along the road near the river. The main river corridor crosses under or near US 93 at several points. Look for graveled turnouts on the west side of the highway. A high-clearance vehicle is recommended for some side roads leading to productive gravel bars, but main river access is usually via short walks from roadside parking areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 93 is paved and well-maintained. Side roads and pullouts to river access may be unpaved, graded dirt with minor washboard. Passenger cars can access main river areas, though higher-clearance vehicles are better for some secondary access roads.",
+  "parking_notes": "Scattered BLM pullouts and turnouts along US 93 near the river. Most are informal, unimproved areas with room for 2-4 vehicles. No developed parking facility. Plan to park in established turnouts visible from the highway.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or heavy equipment. Hand tools only. Respect private property boundaries and posted areas.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day per federal FLPMA guidelines\nNo commercial collection\nNo motorized excavation or heavy equipment\nHand tools only\nRespect all posted and private property\nLeave the site clean",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "heat",
+    "remote",
+    "cold",
+    "flash_floods"
+  ],
+  "nearest_services": "Arco, Idaho (approximately 12 miles south). Gas, food, and water available in town. No services at the collecting site.",
+  "accessibility_notes": "Relatively flat terrain with easy walking on alluvial gravel bars. Uneven footing and scattered rocks present minor trip hazards. No wheelchair access to collecting areas. Sturdy hiking boots recommended but not required for casual collecting. The site is accessible to most people with basic mobility, though extended collecting requires comfort walking on uneven, rocky ground.",
+  "alternative_names": [],
+  "nearest_city": "Arco",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/big-lost-river-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/big-lost-river-id/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding at Big Lost River near Arco, Idaho?",
+      "answer": "Big Lost River is known for agate, jasper, quartz, and chalcedony. The river's gravel bars contain specimens ranging from small pebbles to hand-sized pieces. Quality agates often show banding, color, and translucency. Most collectors find mixed lots of jasper and chalcedony along with occasional quality agate specimens."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Big Lost River on BLM land?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Big Lost River. Collection is allowed for personal use only under FLPMA guidelines. You must follow the 25 lb per day limit and use hand tools only. Commercial collection and motorized excavation are not permitted."
+    },
+    {
+      "question": "How far is Big Lost River rockhounding from Arco, and what roads do I take?",
+      "answer": "Big Lost River is approximately 12 miles north of Arco. Take US 93 north from Arco toward the river. Multiple BLM pullouts and turnouts provide access along the highway. Most locations are a short walk from roadside parking. A passenger vehicle can reach main collecting areas, though higher-clearance vehicles are useful for some secondary access roads."
+    },
+    {
+      "question": "When is the best time of year to rockhound at Big Lost River?",
+      "answer": "The best rockhounding season is May through October. Late spring and early summer (May-June) are ideal when spring runoff exposes fresh material in gravel bars. Fall (September-October) offers cooler temperatures. Summer heat (July-August) can be intense but collecting is still productive. Winter is difficult due to snow and cold from November through April."
+    },
+    {
+      "question": "Is Big Lost River a good rockhounding location for beginners and families?",
+      "answer": "Yes, Big Lost River is excellent for beginners and families. The flat terrain and easy access make it beginner-friendly. Children ages 6 and up can participate in collecting. No special skills or equipment are required, though hand tools like small picks and screens are helpful. Dogs are welcome on this public BLM land. The main hazards are loose rocks and sharp material, both easily avoided with basic care."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Big Lost River?",
+      "answer": "Bring sturdy hiking boots, work gloves, a small pick or chisel, and a classifier or screen for sifting gravel. A heavy pry bar helps loosen material from compacted banks. Bring plenty of water, sun protection, and a backpack to carry specimens. A geology field guide helps identify agates and jasper in the field. Since this is a remote location, fill up on gas and supplies in Arco before heading out."
+    }
+  ],
+  "meta_title": "Big Lost River Rockhounding - Idaho Agate & Jasper",
+  "meta_description": "Find agate, jasper, and chalcedony at Big Lost River on BLM land near Arco, Idaho. Free public rockhounding, no permit required. Best May-October.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city",
+    "nearest_city_distance",
+    "written_directions",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T09:27:58.320Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:30:03.425Z"
+}

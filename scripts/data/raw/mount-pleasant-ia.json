@@ -1,0 +1,60 @@
+{
+  "slug": "mount-pleasant-ia",
+  "name": "Mount Pleasant",
+  "lat": 40.952932,
+  "lng": -91.567344,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Mount Pleasant",
+  "city_slug": "mount-pleasant",
+  "county": "Henry",
+  "county_slug": "henry",
+  "geocoded_city": "Mount Pleasant",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mount%20Pleasant%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mount%20Pleasant",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mount%20Pleasant%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 663,
+      "meters": 202
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:56:43.402Z"
+  },
+  "scraped_at": "2026-04-21T17:56:43.403Z",
+  "scrape_quality": "minimal"
+}

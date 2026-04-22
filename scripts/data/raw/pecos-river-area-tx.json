@@ -1,0 +1,60 @@
+{
+  "slug": "pecos-river-area-tx",
+  "name": "Pecos River Area",
+  "lat": 30.173606,
+  "lng": -101.575195,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Val Verde County",
+  "city_slug": "val-verde-county",
+  "county": "Val Verde",
+  "county_slug": "val-verde",
+  "geocoded_city": "Val Verde County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pecos%20River%20Area%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pecos%20River%20Area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pecos%20River%20Area%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1848,
+      "meters": 563
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:50:48.928Z"
+  },
+  "scraped_at": "2026-04-21T18:50:48.928Z",
+  "scrape_quality": "minimal"
+}

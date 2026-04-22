@@ -1,0 +1,100 @@
+{
+  "slug": "little-missouri-river-nd",
+  "name": "Little Missouri River",
+  "state": "North Dakota",
+  "state_slug": "north-dakota",
+  "city": "Watford City",
+  "city_slug": "watford-city",
+  "county": "McKenzie",
+  "county_slug": "mckenzie",
+  "lat": 47.523954,
+  "lng": -103.452108,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Petrified Wood",
+    "Chalcedony"
+  ],
+  "short_description": "Hunt for banded agates, jasper, and petrified wood along the scenic Little Missouri River badlands. Public access on BLM land with excellent finds in stream gravels and eroded hillsides.",
+  "description": "The Little Missouri River winds through McKenzie County's rugged badlands, exposing Paleocene and Eocene sedimentary formations that are prime rockhounding territory. This site offers excellent opportunities to collect colorful agates, jasper specimens, and fossilized wood fragments from exposed gravels and wash banks. The river corridor has been a popular collecting area for decades due to its abundance of quality specimens and relatively easy access to productive ground.\n\nThe terrain along the Little Missouri features typical Great Plains badlands topography: gently rolling hills dissected by the river valley, with exposed clay, silt, and gravel deposits. Stream gravels contain the best concentrations of agate and jasper, particularly after spring runoff or heavy rains when new material is exposed. The area is open to public rockhounding on BLM-managed lands, making it accessible year-round for enthusiasts willing to explore.\n\nWalking the river gravels and scanning hillside exposures typically yields specimens ranging from small 1-2 inch pieces to larger chunks suitable for cabochon cutting or specimen display. The banded agates here often display earth tones - whites, tans, grays, and subtle reds - typical of the Northern Great Plains geological heritage. Petrified wood fragments, though often fragmentary, provide excellent material for polishing and tumbling.\n\nVisitors should plan for flat to gently rolling terrain with some scrambling required to reach productive areas. The landscape is relatively open with sparse vegetation, offering good visibility for spot hunting. Water access is available from the river itself, though you should carry drinking water. The relative remoteness means self-sufficiency is important - cell service is spotty at best, and services in Watford City are 20+ miles away.",
+  "history": "The Little Missouri River valley sits within the northern Great Plains, where Paleocene and Eocene sediments were deposited in shallow inland seas and fluvial environments 50-65 million years ago. These ancient sedimentary deposits underwent silica cementation and diagenesis, creating the agate and jasper-bearing gravels exposed today by millions of years of river erosion. The river's ongoing downcutting through these formations continuously exposes fresh material in its banks and gravels, making this a perpetually productive rockhounding location.",
+  "tips": "Focus your search on gravels and bars along the river channel and immediate banks, where the heaviest minerals accumulate - this is where the best agates and jasper naturally concentrate. Use a small sifting screen or classifier to process gravels efficiently; many specimens are hand-sized but some of the best pieces are egg to fist-sized and visible in raw gravels. Look for the characteristic banding patterns and translucency of agates by holding suspected pieces up to sunlight - quality agates will show light penetration and distinct color layering. After rain or spring runoff, new material rolls into accessible areas, so revisit productive spots seasonally for fresh finds.",
+  "terrain_notes": "Elevation 1980 feet with flat to gently rolling topography. The river valley floor is relatively open with minimal vegetation - mainly sagebrush and grasses. Walking surface transitions from sandy/gravelly river bars to clay badlands slopes. Access to productive areas typically requires 0.5 to 2 miles of walking from parking. Footing is generally stable but uneven; watch for loose shale fragments and eroded banks. Spring runoff can make some areas muddy, so sturdy footwear is essential.",
+  "best_season": "April - October. Late spring through early fall provides the best combination of dry ground, accessible roads, and comfortable temperatures. Winter snow and ice can make backcountry access difficult. Early summer (late May-June) is excellent as spring floods expose fresh gravel bars.",
+  "written_directions": "From Watford City, take US 2 west for approximately 18 miles toward the Montana border. Turn north on a county road toward the Little Missouri River valley (exact road varies by specific access point). Multiple public access points exist along the river; look for BLM signage and pullouts. GPS coordinates 47.523954, -103.452108 mark a central productive area. High-clearance or all-terrain vehicles are recommended for reaching optimal collecting areas, though some river access is available via passenger car to initial pullouts.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "County roads to access points are typically unpaved and may be rough in places. Winter conditions can make roads impassable. High-clearance vehicles handle conditions better but passenger cars can reach some areas.",
+  "parking_notes": "Multiple informal pullouts and parking areas exist along approach roads and river access points. No formal parking lot; expect pullouts with capacity for 2-10 vehicles. Some areas have minimal parking infrastructure.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. Collection restricted to loose surface material and naturally exposed gravels - do not dig into hillsides or construct excavations. Respect private property boundaries where they border public land. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo picking or digging into intact formations\nRespect private property boundaries\nPack out all trash\nNo fires on BLM land during fire season",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Watford City, approximately 20 miles southeast. Full services including gas, food, water, and lodging available.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Uneven rocky footing on badlands slopes and river gravels requires sturdy footwear. No wheelchair access to productive areas. Walking distances of 0.5-2 miles from parking typical. River access may involve minor scrambling over loose material.",
+  "alternative_names": [
+    "Little Missouri Badlands",
+    "McKenzie County Rockhounding Area"
+  ],
+  "nearest_city": "Watford City",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-dakota/little-missouri-river-nd/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What agates and gemstones can I find at the Little Missouri River in North Dakota?",
+      "answer": "The Little Missouri River badlands are known for banded agates, jasper, petrified wood, and chalcedony. Agates typically display earth tones - whites, grays, tans, and subtle reds - from Paleocene and Eocene sedimentary formations. Jasper pieces range from small fragments to fist-sized specimens suitable for lapidary work. Petrified wood is common but often fragmentary, making it ideal for tumbling."
+    },
+    {
+      "question": "Is rockhounding at Little Missouri River free, and what are the collection rules?",
+      "answer": "Yes, rockhounding is free on BLM public land. You can collect personal use material up to 25 lbs per day under FLPMA regulations. No permit is required, but commercial collection is prohibited. Stick to loose surface material and naturally exposed gravels - do not dig into hillsides or excavate. Pack out all trash."
+    },
+    {
+      "question": "How do I get to Little Missouri River rockhounding from Watford City?",
+      "answer": "From Watford City, take US 2 west approximately 18 miles toward the Montana border, then turn north on county roads toward the river valley. Multiple BLM access points exist along the river. High-clearance vehicles are recommended for optimal access, though some areas are reachable by standard passenger cars. GPS 47.523954, -103.452108 marks a central productive area."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Little Missouri River, North Dakota?",
+      "answer": "April through October is best, with late spring (May-June) being excellent after spring floods expose fresh gravel bars and material. Summer provides warm, dry collecting conditions. Avoid winter when snow and ice can make backcountry access difficult. Early morning visits often yield better light for spotting translucent agates."
+    },
+    {
+      "question": "Is Little Missouri River rockhounding beginner-friendly, and can I bring my family?",
+      "answer": "Yes, this is an excellent beginner and family destination. Flat to gently rolling terrain requires no technical skills, and children as young as 6 can participate. The abundant surface material means even first-time rockhounders find quality specimens. Bring sturdy walking shoes, drinking water, and sun protection. The open landscape is safe for supervised family exploration."
+    },
+    {
+      "question": "What tools and supplies should I bring when rockhounding at Little Missouri River?",
+      "answer": "Bring a small classifier or sifting screen to process gravels efficiently. A hand lens helps identify banding patterns that indicate quality agates. Pack sturdy boots for uneven badlands terrain, plenty of drinking water (no services nearby), and sun protection. A backpack for carrying specimens, trash bag for cleanup, and a field guide to Northern Plains agates are valuable. Cell service is spotty, so inform someone of your plans."
+    }
+  ],
+  "meta_title": "Little Missouri River Rockhounding - North Dakota",
+  "meta_description": "Hunt banded agates, jasper, and petrified wood at Little Missouri River. Free BLM public rockhounding near Watford City, ND. No permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from general location - specific road names unconfirmed)",
+    "primary_category (inferred as BLM public land - McKenzie County location typical for public lands in this area)",
+    "gem_types (based on North Dakota badlands geology - not confirmed from direct source for this specific GPS point)",
+    "hazards (based on terrain type and remoteness)"
+  ],
+  "enriched_at": "2026-04-21T16:38:33.786Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:39:44.013Z"
+}

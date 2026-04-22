@@ -1,0 +1,100 @@
+{
+  "slug": "glass-mountain-ca",
+  "name": "Glass Mountain",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Klamath Falls Area",
+  "city_slug": "klamath-falls",
+  "county": "Siskiyou",
+  "county_slug": "siskiyou",
+  "lat": 41.601534,
+  "lng": -121.504443,
+  "gem_types": [
+    "Obsidian",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "High-elevation BLM site famous for jet-black obsidian and volcanic glass. Located at 7,607 feet in remote northern California with excellent collecting potential.",
+  "description": "Glass Mountain is one of California's premier obsidian rockhounding destinations, situated in the remote volcanic landscape of northern Siskiyou County. This high-elevation site sits at 7,607 feet where Pliocene-age rhyolitic volcanism created massive deposits of obsidian and related volcanic glass materials. The mountain itself is a stark, barren volcanic formation with minimal vegetation, making surface prospecting straightforward and productive.\n\nThe obsidian here ranges from solid jet-black specimens to translucent varieties, with some pieces showing the characteristic conchoidal fracture patterns that make obsidian prized by both rockhounders and lapidaries. Beyond obsidian, collectors also find chalcedony specimens, quartz crystals, and other volcanic minerals scattered across the exposed talus slopes. The flat terrain around the upper reaches makes this accessible compared to other volcanic peaks in the region.\n\nAs BLM public land, Glass Mountain allows personal recreational collection under standard federal regulations. The remote location means solitude is virtually guaranteed, though you should come prepared for high elevation conditions and minimal services. The barren volcanic terrain offers excellent visibility of mineral specimens, and the lack of vegetation means less competition from other rockhounders at most times of year.\n\nBest collecting happens on the outer slopes where weathering has exposed fresh material. The obsidian here typically ranges from orange-sized to fist-sized pieces, with occasional larger specimens. Because this is actively volcanic country, always watch for unstable ground and be aware of the rugged, uneven footing despite the flat slope rating.\n\nVisit during late spring through early fall when high elevation snow clears and roads are passable. Winter access is severely limited, and summer heat at this elevation is actually mild compared to lower elevations, making shoulder seasons ideal.",
+  "history": "Glass Mountain is part of the Modoc Plateau's extensive volcanic field, where Pliocene-age rhyolitic eruptions (roughly 3-5 million years ago) deposited massive obsidian flows and pyroclastic deposits. The mountain's name derives from the glassy, reflective appearance of obsidian covering much of its surface. Native Americans used obsidian from this region for tools and trade for thousands of years, and the area continues to be historically significant in understanding California's volcanic geology.",
+  "tips": "Focus your search on the outer talus slopes and exposed ridge lines where weathering naturally breaks down rock and exposes fresh obsidian specimens. Bring a small backpack and wear sturdy hiking boots with ankle support - the volcanic rock is extremely sharp and uneven footing is common despite the slope being classified as flat. Look for glossy, jet-black pieces in sunlight; obsidian's reflective quality makes it stand out against the dull gray volcanic rock. Carry plenty of water (at least 3 liters) as this high elevation, exposed site offers zero shade and minimal water sources.",
+  "terrain_notes": "Elevation 7,607 feet in volcanic plateau country with sparse, low shrub vegetation. Terrain is classified as flat but features uneven, broken volcanic rock throughout - not truly flat in the traditional sense. No maintained trails; access is cross-country over volcanic talus. Parking area to productive collecting zones is typically 0.5-2 miles cross-country hiking. Footing is difficult and hazardous due to extremely sharp volcanic rock and loose stone.",
+  "best_season": "June - September. High elevation (over 7,600 feet) means snow blocks access October through May most years. Summer conditions are mild at this elevation compared to lower California valleys. Weather can change rapidly; afternoon thunderstorms are possible even in summer.",
+  "written_directions": "From Klamath Falls, Oregon, drive south on US 97 for approximately 40 miles into California. Near Chemult, take Forest Road 43 (also signed as Medicine Lake Volcano Road) south toward Glass Mountain. Continue on Forest Road 43 for approximately 15 miles, following signs toward Medicine Lake area. Glass Mountain is accessible via rough forest service roads; high-clearance vehicle strongly recommended. GPS coordinates: 41.601534, -121.504443. Final approach roads are primitive and may be impassable during wet conditions or snow season. Allow 1.5-2 hours from Klamath Falls.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough forest service road, high-clearance vehicle recommended. Primitive unimproved surface with potential washboard and ruts. Not suitable for passenger cars. Seasonal closure possible during winter/wet periods.",
+  "parking_notes": "Informal pullouts and turnarounds along forest service roads. No developed parking lot. Space limited; arrive early during popular season. Pack out all trash.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. No collecting on adjacent private land. Pack out all trash. Leave no trace.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection permitted\nNo motorized excavation or heavy equipment\nNo collecting on private land\nPack out all trash\nLeave no trace principles apply",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "cold",
+    "remote",
+    "wildlife"
+  ],
+  "nearest_services": "Klamath Falls, Oregon - approximately 40 miles north. Full services including gas, food, water, lodging. Nearest California services at Mount Shasta area, approximately 70 miles south.",
+  "accessibility_notes": "Uneven, extremely sharp volcanic rock throughout. No wheelchair access. Not suitable for limited mobility. Requires high-clearance vehicle to reach site, then cross-country hiking over hazardous terrain. Sturdy boots with ankle support and protective clothing essential. High elevation (7,607 feet) may cause altitude effects for unacclimated visitors.",
+  "alternative_names": [
+    "Glass Mountain Obsidian Site",
+    "Modoc Plateau Obsidian Fields"
+  ],
+  "nearest_city": "Klamath Falls",
+  "nearest_city_distance": 40,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/glass-mountain-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of obsidian and volcanic glass can I find at Glass Mountain in California?",
+      "answer": "Glass Mountain is known for jet-black obsidian specimens ranging from orange-sized to fist-sized pieces, along with translucent varieties showing characteristic conchoidal fracture patterns. You'll also find chalcedony and quartz in volcanic formations. The site's Pliocene-age rhyolitic deposits produce high-quality specimens ideal for lapidary work and collecting."
+    },
+    {
+      "question": "Is a permit required to collect obsidian at Glass Mountain California?",
+      "answer": "No permit is required. Glass Mountain is BLM public land where recreational rock collecting is allowed under personal use regulations. You can collect up to 25 lbs per day per the Federal Land Policy and Management Act (FLPMA). Commercial collection and motorized excavation are prohibited."
+    },
+    {
+      "question": "What is the best time to rockhound at Glass Mountain near Klamath Falls?",
+      "answer": "June through September is optimal. The site sits at 7,607 feet elevation where snow blocks access most of the year. High elevation means mild summer temperatures and minimal crowds. Avoid winter and spring when forest roads are often closed or impassable due to snow and mud."
+    },
+    {
+      "question": "What vehicle do I need to reach Glass Mountain's obsidian deposits?",
+      "answer": "High-clearance or all-wheel-drive vehicle is strongly recommended. Access is via rough forest service roads (Forest Road 43) that feature washboard surfaces, ruts, and potential seasonal closures. Passenger cars are not suitable. Allow 1.5-2 hours driving from Klamath Falls."
+    },
+    {
+      "question": "Is Glass Mountain rockhounding site suitable for beginners and families?",
+      "answer": "Glass Mountain is best for experienced rockhounders age 12 and up. The site requires high-clearance vehicle access, cross-country hiking over extremely sharp volcanic rock, and significant elevation (7,607 feet). Sharp material, loose footing, and remote location with no cell service make this a moderate-to-difficult site. Beginners should start at more developed California obsidian locations."
+    },
+    {
+      "question": "What tools and supplies should I bring for collecting at Glass Mountain California?",
+      "answer": "Bring sturdy hiking boots with ankle support due to sharp volcanic rock. Pack at least 3 liters of water as the exposed, barren site offers zero shade and no water sources. Carry a small backpack, hand tools (chisel, hammer), safety glasses, sun protection, and a headlamp. Bring a GPS device or offline maps - cell service is completely unavailable in this remote area."
+    }
+  ],
+  "meta_title": "Glass Mountain Obsidian - California BLM Rockhounding",
+  "meta_description": "Collect jet-black obsidian and volcanic glass at Glass Mountain, California. Free BLM access, 7,607 feet elevation, 25 lbs/day limit. June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance - estimated from GPS coordinates and known geography",
+    "written_directions - specific forest road numbers inferred from Glass Mountain location and typical Modoc Plateau access routes",
+    "hazards - inferred from volcanic terrain and remote location characteristics",
+    "family_friendly - set false based on difficulty and remote nature without specific source"
+  ],
+  "enriched_at": "2026-04-21T19:31:43.962Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:34:25.949Z"
+}

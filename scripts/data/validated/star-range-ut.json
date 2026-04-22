@@ -1,0 +1,98 @@
+{
+  "slug": "star-range-ut",
+  "name": "Star Range",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Beaver",
+  "city_slug": "beaver",
+  "county": "Beaver",
+  "county_slug": "beaver",
+  "lat": 38.345621,
+  "lng": -113.144168,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding site in southwestern Utah offering agate, jasper, and quartz specimens. Free public collecting with scenic views of the Star Range formations.",
+  "description": "Star Range is a productive BLM rockhounding area located in Beaver County, Utah, within the high desert terrain of southwestern Utah. The site sits within the Great Basin geological province, where ancient Tertiary volcanic activity and mineral-rich groundwater created excellent conditions for agate and jasper formation. The rolling terrain and exposed hillsides provide accessible locations to search for colorful chalcedony specimens, banded agates, and jasper nodules weathering out from the surface.\n\nThis location is ideal for rockhounders seeking a combination of productivity and ease of access. The Star Range area experiences moderate foot traffic from rockhounders and offers multiple collecting zones across the public land. Unlike many Utah rockhounding sites, the terrain here is not overly technical, making it suitable for families and beginners who want to experience productive collecting without backcountry skills.\n\nVisitors should focus their efforts on exposed washes, hillside slopes, and areas where erosion has naturally exposed nodules. The high desert climate means surfaces weather quickly, continuously exposing fresh material. The elevation and open terrain provide good visibility for spotting specimens. Most successful collectors spend 3-5 hours systematically working slopes and wash areas.\n\nThe site's proximity to Beaver makes it a convenient half-day or full-day outing. Bring plenty of water, sun protection, and wear sturdy hiking boots as the terrain is rocky. The collecting limit of 25 pounds per day keeps the area from becoming overcrowded and ensures sustainable use of this public resource.",
+  "history": "The Star Range lies within the Basin and Range province of the Great Basin, where Oligocene to Miocene volcanic activity (approximately 30-20 million years ago) deposited extensive ash flows and silica-rich mineralization across southwestern Utah. Subsequent groundwater circulation through these volcanic deposits dissolved and redeposited silica, forming the agate and jasper nodules found here today as weathering slowly brings them to the surface.",
+  "tips": "Search exposed hillsides on the south and west-facing slopes where erosion naturally exposes nodules - look for half-buried specimens eroding from tan and gray volcanic host rock. Bring a small trowel or digging bar to carefully extract specimens without breaking them; many agate and jasper pieces here are partially buried and worth the careful excavation. Focus on washes and gullies where water erosion concentrates lightweight material and exposes heavier mineral deposits on the surface. Early morning light makes spotting translucent agates easier - many specimens show chalky white or pale rust coloring on the outside that belies colorful banded or plume patterns inside.",
+  "terrain_notes": "The Star Range area features rolling high desert terrain at approximately 6,200-6,800 feet elevation with scattered sagebrush, juniper, and pinyon pine vegetation. Hillsides are moderately steep to rolling, with exposed volcanic rock outcrops and scattered talus. Collecting areas are typically within 1-3 miles of parking, involving moderate walking across uneven rocky terrain with stable footing. Surfaces are rocky but not dangerously loose; sturdy boots are essential. The open terrain provides good visibility and navigation.",
+  "best_season": "October - April. The high elevation and exposure make summer temperatures uncomfortable (often exceeding 85-90 degrees Fahrenheit in July-August), and afternoon thunderstorms are common June-September. Spring and fall offer ideal conditions with moderate temperatures, clear skies, and good visibility. Winter is possible but snow may block access some years.",
+  "written_directions": "From Beaver, Utah, head south on US 89 for approximately 8 miles. Look for unsigned BLM access points on the west side of the highway in the Star Range foothills area. GPS coordinates (38.345621, -113.144168) mark the primary collecting zone. Park at any wide shoulder or established pullout along US 89, then walk west into the sagebrush-covered slopes. No official parking area or trailhead exists; use judgment for safe parking that does not obstruct traffic.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 89 is a well-maintained paved highway. Access to actual collecting areas requires walking from the shoulder; no vehicle travel needed within the BLM land itself.",
+  "parking_notes": "Park on wide shoulders along US 89 at established pullouts. No developed parking lot; capacity is informal. Multiple access points exist along the highway in this region. Ensure parking does not obstruct traffic or block private property access.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection allowed. No motorized excavation or removal of equipment. Leave no trash. Respect any posted claims or private property boundaries adjacent to BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nLeave no trace - pack out all trash\nRespect adjacent private property",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Beaver, Utah is approximately 8 miles north. Gas, food, water, and lodging are available in Beaver. No services at the site.",
+  "accessibility_notes": "Relatively easy terrain for most hikers. Parking is roadside along US 89 with short to moderate walking (1-3 miles) to productive areas. Terrain is rocky but stable, with gentle to moderate slopes. No wheelchair access; sturdy footwear is essential. The open sagebrush terrain is navigable without technical climbing skills.",
+  "alternative_names": [],
+  "nearest_city": "Beaver",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/star-range-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates and gemstones can I find at Star Range near Beaver, Utah?",
+      "answer": "Star Range is known for banded agates, colorful jasper, and chalcedony specimens. Most specimens are small to medium-sized nodules with white, rust, or cream-colored exteriors that often contain beautiful banded or plume patterns inside. Quartz specimens and occasional petrified wood are also found here."
+    },
+    {
+      "question": "Is there a fee or permit required for rockhounding at Star Range, Utah?",
+      "answer": "No. Star Range is on BLM public land, so there is no fee and no permit required for recreational rockhounding. You can collect for personal use free of charge, with a 25-pound daily limit per FLPMA regulations."
+    },
+    {
+      "question": "How far from Beaver is Star Range rockhounding, and how do I get there?",
+      "answer": "Star Range is approximately 8 miles south of Beaver on US 89. Simply drive south on US 89 and look for pullouts on the west side in the foothills area around GPS 38.345621, -113.144168. Park safely and walk west into the sagebrush-covered slopes to begin collecting."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Star Range in Beaver County?",
+      "answer": "October through April offers the best conditions. Spring and fall provide ideal temperatures and clear skies for searching. Summer brings high heat and afternoon thunderstorms, while the elevation can receive snow in winter. Avoid July and August when temperatures regularly exceed 85-90 degrees."
+    },
+    {
+      "question": "Is Star Range rockhounding site suitable for beginners and families with kids?",
+      "answer": "Yes. Star Range is beginner-friendly with easy terrain and no technical skills required. The open sagebrush landscape makes it easy to spot specimens, and kids as young as six can participate. The main challenges are heat and distance walked, so bring plenty of water and take breaks. Dogs are also welcome on this BLM land."
+    },
+    {
+      "question": "What tools and supplies do I need to rockhound at Star Range successfully?",
+      "answer": "Bring a small trowel or digging bar to carefully extract agate and jasper nodules, a collection bag, sturdy hiking boots, and a hat. Most importantly, bring at least 2-3 liters of water per person - the high desert offers no shade. A GPS unit or smartphone with offline maps helps with navigation. Early morning visits make spotting translucent specimens easier in better light."
+    }
+  ],
+  "meta_title": "Star Range Rockhounding - Utah Agate & Jasper",
+  "meta_description": "Free BLM rockhounding near Beaver, Utah. Collect agate, jasper, and quartz. No permit, 25 lb daily limit. Easy terrain, beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Basin and Range volcanic geology and typical Utah BLM sites)",
+    "best_season (estimated based on Utah high elevation climate)",
+    "nearest_city_distance (estimated from GPS coordinates)",
+    "terrain_notes (estimated elevation and vegetation based on regional geology)",
+    "hazards (inferred from terrain and climate)"
+  ],
+  "enriched_at": "2026-04-22T10:18:17.902Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:19:28.017Z"
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "bonanza-flat-ut",
+  "name": "Bonanza Flat",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Wasatch County",
+  "city_slug": "wasatch-county",
+  "county": "Wasatch",
+  "county_slug": "wasatch",
+  "lat": 40.594718,
+  "lng": -111.516271,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding site near the Wasatch Range offering abundant quartz, agate, and jasper specimens. Free public collecting with no permits required.",
+  "description": "Bonanza Flat is a productive public rockhounding location on BLM land in Wasatch County, Utah, situated within the transition zone between the Basin and Range and the Wasatch Mountains. This area is known for scattered quartz-rich mineralization and silica-based specimens that are accessible to rockhounders of all skill levels. The flat terrain dotted with sagebrush provides good visibility for spotting specimens weathering out of the soil and hillside outcrops.\n\nThe geological setting here reflects Tertiary and Quaternary volcanic and lacustrine activity typical of the greater Utah landscape. Silica-rich fluids from ancient hydrothermal systems have created concentrations of quartz, chalcedony, and agate nodules that weather out naturally over time. The arid climate of the Wasatch foothills means minimal vegetation cover, exposing mineral-bearing surface material and making specimen hunting straightforward for beginners.\n\nExpect to find translucent to opaque quartz crystals, banded agate specimens in earth tones, and chalcedony pieces scattered across the working surface. Most specimens range from small palm-sized pieces to fist-sized nodules. The open terrain allows for systematic searching and encourages exploration of different microhabitats - dry washes, hillside slopes, and ridge lines all produce material.\n\nAs a BLM location, Bonanza Flat offers free, unrestricted public access under standard recreational rockhounding guidelines. There are no permits, fees, or special permissions needed. This makes it an ideal destination for weekend collectors, families introducing children to the hobby, and anyone seeking quality specimens without bureaucratic barriers. The relatively gentle terrain and proximity to services make logistics straightforward.",
+  "history": "The Wasatch County region sits within the Tertiary-Quaternary volcanic arc of the Basin and Range province, where extensional tectonics and silica-rich hydrothermal fluids deposited abundant chalcedony, quartz, and agate formations. Early prospectors and miners worked claims throughout the Wasatch foothills in the late 1800s and early 1900s, creating a legacy of mineral exposure and loose surface specimens that rockhounders benefit from today.",
+  "tips": "Search the dry washes and erosional gullies where water has concentrated lighter quartz pieces and exposed fresh material from the hillsides above. Bring a magnifying glass to identify the best specimens - look for translucent edges or banding patterns that indicate higher-quality agate. Early morning light makes spotting translucent material easier against the sagebrush background. Systematically work upslope from washes toward ridge tops where older weathered material accumulates.",
+  "terrain_notes": "Bonanza Flat sits at approximately 6,200-6,500 feet elevation on gently sloping terrain covered with sparse sagebrush, antelope brush, and scattered rocks. Walking is straightforward on mostly open ground with occasional loose scree. Visibility is excellent year-round due to minimal vegetation. Parking areas offer direct access within short walking distances (typically under half a mile) to productive collecting zones. Footing is generally stable but watch for loose cobbles in washes.",
+  "best_season": "May - October. The lower elevation (compared to high Uinta Range sites) means earlier spring access than mountain locations. Avoid winter months when snow and ice can make roads impassable. Late spring through mid-fall offers ideal collecting conditions with minimal precipitation and comfortable temperatures for full-day fieldwork.",
+  "written_directions": "From Park City, take US 40 east toward Vernal for approximately 18 miles. Turn south on County Road 129 (Strawberry Valley Road) for about 8 miles. Watch for BLM signs marking public land boundaries. Continue on improved dirt road to Bonanza Flat proper. GPS coordinates (40.594718, -111.516271) mark the central collecting area. High-clearance vehicle recommended during spring mud season, but passenger vehicles can typically access main parking areas during dry months.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Maintained dirt road, generally passable to passenger vehicles during dry season. Can become muddy or rutted in spring and after heavy rain. High-clearance or AWD recommended April-May.",
+  "parking_notes": "Informal pullouts and parking areas scattered across the BLM land. No developed parking lot. Multiple access points allow flexibility in finding good collecting spots with minimal crowding.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or power equipment. No collecting in closed areas or around cultural/archaeological sites. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power equipment\nNo collecting in restricted areas\nPack out all trash\nRespect closure signs and seasonal restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Park City, Utah, approximately 18 miles west via US 40. Full services including gas, food, water, and emergency care available.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and visitors with basic fitness. Short walking distances (under half a mile typically) from parking to productive collecting areas. Uneven rocky footing requires sturdy footwear but not technical hiking ability. No wheelchair access to collecting zones due to terrain.",
+  "alternative_names": [
+    "Strawberry Valley rockhounding area"
+  ],
+  "nearest_city": "Park City",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/bonanza-flat-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/bonanza-flat-ut/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What kind of gems can I find rockhounding at Bonanza Flat in Utah?",
+      "answer": "Bonanza Flat is known for quartz crystals, banded agate, jasper, and chalcedony specimens. Most pieces range from small palm-sized nodules to fist-sized chunks. The translucent quartz and colorful agate specimens are the primary targets for collectors here."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Bonanza Flat, Utah?",
+      "answer": "No permit is required. Bonanza Flat sits on BLM land where recreational rockhounding is allowed as a free public use. You simply need to follow the 25 lb per day personal use limit and pack out all trash."
+    },
+    {
+      "question": "How far is Bonanza Flat from Park City, and what are directions?",
+      "answer": "Bonanza Flat is approximately 18 miles east of Park City. From Park City, take US 40 east toward Vernal for 18 miles, then turn south on County Road 129 (Strawberry Valley Road) for about 8 miles. Look for BLM signs to access public land."
+    },
+    {
+      "question": "What is the best season to go rockhounding at Bonanza Flat?",
+      "answer": "May through October is ideal for Bonanza Flat. Spring and fall offer comfortable temperatures, while the lower elevation (6,200-6,500 feet) allows earlier access than high mountain sites. Winter snow and spring mud can make the dirt road difficult to navigate."
+    },
+    {
+      "question": "Is Bonanza Flat a good rockhounding spot for beginners and families with kids?",
+      "answer": "Yes, Bonanza Flat is excellent for beginners and families. The terrain is relatively flat and open with good visibility, specimens are accessible on the surface without heavy digging, and there are no permits or fees. Children ages 6 and up can participate in productive collecting."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Bonanza Flat, Utah?",
+      "answer": "Basic equipment includes a small backpack, hammer or chisel for extracting specimens, a magnifying glass to identify quality agate and quartz, and a collection bag. Bring plenty of water, sunscreen, and sturdy boots for walking on uneven rocky terrain. A 5-gallon bucket is helpful for organizing finds during the day."
+    }
+  ],
+  "meta_title": "Bonanza Flat Rockhounding - Utah",
+  "meta_description": "Free BLM rockhounding at Bonanza Flat, Utah. Find quartz, agate, jasper, and chalcedony near Park City. No permits required, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from general Wasatch County geography without specific road verification",
+    "gem_types - inferred as typical for Wasatch foothills BLM land without specific site survey data",
+    "parking_notes - described generically for BLM land without knowledge of exact parking infrastructure",
+    "cell_service - estimated as spotty based on location remoteness, not verified",
+    "nearest_city_distance - estimated at 18 miles based on GPS coordinates and Park City location"
+  ],
+  "enriched_at": "2026-04-22T06:53:05.666Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:01:42.774Z"
+}

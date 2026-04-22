@@ -1,0 +1,65 @@
+{
+  "slug": "laguna-nm",
+  "name": "Laguna",
+  "lat": 35.048808,
+  "lng": -107.405675,
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "state_code": "NM",
+  "city": "Cibola County",
+  "city_slug": "cibola-county",
+  "county": "Cibola",
+  "county_slug": "cibola",
+  "geocoded_city": "Laguna",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-mexico.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Laguna%20New%20Mexico"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "New Mexico BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Laguna",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Laguna%20New%20Mexico"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] New Mexico BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 5861,
+      "meters": 1786
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:32:45.495Z"
+  },
+  "scraped_at": "2026-04-21T19:32:45.495Z",
+  "scrape_quality": "partial"
+}

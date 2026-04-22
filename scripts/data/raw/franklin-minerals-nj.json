@@ -1,0 +1,60 @@
+{
+  "slug": "franklin-minerals-nj",
+  "name": "Franklin (minerals)",
+  "lat": 41.10078,
+  "lng": -74.593113,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Franklin",
+  "city_slug": "franklin",
+  "county": "Sussex",
+  "county_slug": "sussex",
+  "geocoded_city": "Franklin",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Franklin%20(minerals)%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Franklin%20(minerals)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Franklin%20(minerals)%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 608,
+      "meters": 185
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:30:46.770Z"
+  },
+  "scraped_at": "2026-04-21T18:30:46.770Z",
+  "scrape_quality": "minimal"
+}

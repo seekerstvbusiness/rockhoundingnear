@@ -1,0 +1,100 @@
+{
+  "slug": "ten-sleep-wy",
+  "name": "Ten Sleep",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Washakie County Area",
+  "city_slug": "washakie-county",
+  "county": "Washakie",
+  "county_slug": "washakie",
+  "lat": 44.083641,
+  "lng": -107.510926,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding near the Ten Sleep River offers easy access to agate, jasper, and chalcedony specimens. Flat terrain and personal-use collecting make this ideal for beginners.",
+  "description": "Ten Sleep in Washakie County, Wyoming is a classic BLM rockhounding destination located in the northern Wyoming Basin. The area sits at 4,374 feet elevation with flat to gently rolling terrain that makes it accessible to rockhounds of all experience levels. The Ten Sleep River valley and surrounding drainages expose weathered volcanic and silica-rich formations that host quality agate, jasper, chalcedony, and quartz specimens.\n\nThe geology here reflects Eocene to Miocene volcanic and hydrothermal activity that deposited silica-rich fluids throughout the region. These fluids created nodules and seams of microcrystalline quartz that slowly weathered out of parent rock over millions of years and concentrated in washes and along hillsides. The Ten Sleep drainage system continues this natural sorting process, making creek beds and nearby benches excellent collecting spots.\n\nCollecting is straightforward on this BLM land: no permit required, no fees, and a generous 25-pound daily limit per FLPMA rules. The flat terrain means minimal hiking and easy access for families and older collectors. Specimens typically range from thumb-sized to several inches, with good translucency and color variation. The nearby Ten Sleep River provides seasonal water access and a landmark for orientation.\n\nThis site is best visited in late spring through early fall when roads are dry and weather is mild. The region experiences significant snowfall in winter and muddy conditions in spring, making vehicle access difficult outside the warmer months. BLM land here is open to multiple uses, so expect occasional ATVs and other users.",
+  "history": "The Ten Sleep area sits within the northern Wyoming Basin, where Eocene to Miocene volcanic activity and subsequent hydrothermal circulation deposited silica-rich fluids along fracture zones and in porous formations. These conditions created the agate and jasper nodules found today. Early prospectors explored this region for uranium and other minerals during the mid-20th century, and rockhounding has been popular here for decades as BLM rules allow personal collection.",
+  "tips": "Search washes and streambed deposits along the Ten Sleep River drainage, where agates and jasper have concentrated through natural weathering and erosion. Look for translucent or banded specimens in cream, tan, red, and brown colors - these often sit partially exposed on the surface or in loose gravels. Bring a small digging bar and bucket; the ground is often firm but specimens may be buried 2-4 inches deep. Visit after seasonal rains when fresh material is exposed, and work early in the day to avoid afternoon heat and other users.",
+  "terrain_notes": "Flat to gently rolling terrain at 4,374 feet elevation. Sparse sagebrush and grass cover with occasional juniper and pinyon pine. Walking distance from parking is variable - some washes are within 0.5 miles, others may require 1-2 miles of easy hiking. Footing is generally firm but uneven in places with loose rocks and sagebrush root systems. No significant elevation change. Parking pullouts available near creek access points along back roads.",
+  "best_season": "May - October. Winter snows and spring mud make roads impassable or difficult. July and August can see afternoon thunderstorms and heat. May through June and September through October offer the best combination of dry roads, mild temperatures, and visible specimens exposed by spring runoff.",
+  "written_directions": "From Washakie, head north on Wyoming State Highway 16 for approximately 12 miles toward Ten Sleep. Look for BLM access signs and pullouts marking creek and wash access points. Local forest service and BLM maps show specific backcountry roads branching east toward the Ten Sleep River drainage. Passenger vehicles can access main pullouts; high-clearance or 4WD may be needed for more remote side roads depending on seasonal conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mostly unpaved BLM roads and maintained county roads. Can be washboard and rough. Passable in dry conditions with passenger vehicles to main pullouts; some side roads may require high-clearance. Roads become impassable or very difficult after rain, snow, or during mud season.",
+  "parking_notes": "Multiple informal pullouts along creek-access roads. No developed parking lots. Pullouts typically accommodate 2-4 vehicles. Park near wash entrances or along road shoulders. No amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection. No motorized excavation or power tools. Hand tools only (pick, shovel, pry bar). Remove only what you can carry. Leave the site clean. Respect other users and their claims to productive spots.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools only\nRemove only what you can carry\nNo surface disturbance beyond collecting",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Washakie is the nearest small community, approximately 12 miles south. Ten Sleep (small town) is about 15 miles northeast. Both offer limited services. For full services, go to Worland, Wyoming, approximately 30 miles south.",
+  "accessibility_notes": "Relatively flat terrain with easy walking and minimal elevation change. Uneven footing in places due to loose rocks and sagebrush. No wheelchair access to remote collecting areas, but accessible via vehicle to main pullouts. Sturdy footwear and a walking stick are helpful. Easy site suitable for families and older rockhounders.",
+  "alternative_names": [
+    "Ten Sleep River",
+    "Ten Sleep Drainage"
+  ],
+  "nearest_city": "Washakie",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/ten-sleep-wy/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/ten-sleep-wy/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What agates and jaspers can I find rockhounding at Ten Sleep, Wyoming?",
+      "answer": "Ten Sleep BLM land yields quality agate, jasper, and chalcedony specimens in cream, tan, red, brown, and occasionally banded patterns. Specimens typically range from thumbnail size to several inches. Translucency varies, and many pieces show natural polish from streambed sorting. Look for pieces with solid color or dramatic banding."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Ten Sleep on BLM land?",
+      "answer": "No permit is required to rockhound at Ten Sleep. Wyoming BLM land allows personal use collecting under FLPMA regulations. Simply show up, follow the 25-pound daily limit, use hand tools only, and pack out what you collect. There are no fees."
+    },
+    {
+      "question": "What is the best season for rockhounding near Ten Sleep, Wyoming?",
+      "answer": "May through October is best, with peak conditions in May-June and September-October. Winter brings snow and impassable roads. July-August can feature afternoon thunderstorms and intense heat. Spring runoff exposes fresh material, making late May and early June excellent for finding specimens."
+    },
+    {
+      "question": "Is Ten Sleep rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, Ten Sleep is ideal for beginners. Flat terrain requires minimal hiking, specimens are abundant and easily spotted in washes, and the 25-pound daily limit is generous for casual collectors. Children ages 6 and up can participate. Bring water, sun protection, and hand tools like a small pick or pry bar."
+    },
+    {
+      "question": "What tools and gear do I need for collecting at Ten Sleep?",
+      "answer": "Bring a small digging bar or mattock, bucket for specimens, water bottle, sun hat, and sturdy hiking boots. A small brush helps clean specimens in the field. Gloves protect hands from sharp rocks and desert vegetation. No power tools or motorized equipment are allowed on BLM land."
+    },
+    {
+      "question": "How far is Ten Sleep rockhounding from Washakie and Worland, Wyoming?",
+      "answer": "Ten Sleep is approximately 12 miles north of Washakie and about 15 miles northeast of the small town of Ten Sleep. The nearest full-service town is Worland, roughly 30 miles south. All are accessible via paved roads; BLM access roads branch northeast toward the Ten Sleep River drainage."
+    }
+  ],
+  "meta_title": "Ten Sleep Rockhounding - Wyoming BLM",
+  "meta_description": "Free rockhounding for agate, jasper, and chalcedony on Wyoming BLM land. No permit, flat terrain, beginner-friendly. Find your best haul today.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T06:40:36.147Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:43:38.710Z"
+}

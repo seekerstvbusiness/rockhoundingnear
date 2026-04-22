@@ -1,0 +1,100 @@
+{
+  "slug": "green-creek-wa",
+  "name": "Green Creek",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Longview",
+  "city_slug": "longview",
+  "county": "Pacific",
+  "county_slug": "pacific",
+  "lat": 46.588285,
+  "lng": -123.615081,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "Flat, accessible rockhounding along Green Creek near Longview where Cascade volcanic deposits yield colorful agate and chalcedony specimens. Easy family-friendly collecting on public land.",
+  "description": "Green Creek in Pacific County, Washington offers beginner-friendly rockhounding in the transitional zone between the Cascade Range foothills and the Willamette Valley lowlands. The creek bed and surrounding banks expose weathered volcanic material from the Miocene-age Cascade volcanism that shaped much of central Washington. Agate and chalcedony nodules erode from ash flows and rhyolitic deposits, settling in accessible creek beds and alluvial fans.\n\nThe flat terrain at 100 feet elevation makes this an ideal location for families and rockhounders with limited mobility. Green Creek runs through this region seasonally or year-round depending on recent precipitation, creating natural sorting of heavier mineral specimens in gravel bars and creek bends. The area sees moderate foot traffic but remains relatively undiscovered compared to popular Washington rockhounding destinations.\n\nCollectors can search the exposed creek bed, gravel bars, and surrounding hillsides for translucent to opaque agate specimens, often banded in reds, whites, and grays. Chalcedony and microcrystalline quartz varieties are common secondary finds. The flat slope means minimal hiking required, though creek access varies with water levels.\n\nBest collecting occurs after seasonal runoff when fresh material is exposed but water levels are manageable. The Pacific County area offers wet winters and mild summers typical of coastal Washington, so preparation for moisture and cool temperatures is essential year-round.",
+  "history": "Green Creek sits within the Cascade volcanic province where Eocene to Miocene rhyolitic and andesitic volcanism deposited silica-rich ash and lava flows. These volcanic deposits weathered over millions of years, with groundwater circulation forming secondary agate and chalcedony nodules in fractures and cavities. Historical settlement and logging activity in Pacific County did not significantly disturb this rockhounding area, leaving it accessible for personal mineral collection.",
+  "tips": "Search the main creek bed and inside bends where gravel concentrates after water flow - these spots naturally trap heavier agate specimens. Look for semi-translucent specimens with banding in reds, whites, and earth tones; chalcedony here often appears as waxy, compact pieces rather than large nodules. Bring a small classifier or sieve to quickly scan creek gravel without hand-sorting everything. Visit after heavy rains when water levels are dropping but fresh material has been exposed - avoid attempting creek access during high water.",
+  "terrain_notes": "Elevation 100 feet with very flat to gently sloping terrain. The area features mixed second-growth forest and cleared land typical of Pacific County lowlands. Green Creek flows year-round or seasonally through the location. Walking distance from parking to productive collecting areas is typically under 1 mile. Footing is uneven with loose gravel in the creek bed and softer ground under forest canopy. Creek banks may be muddy or slippery during wet seasons.",
+  "best_season": "October - April",
+  "written_directions": "From Longview, take Interstate 5 north or south to locate Pacific County backroads. Access Green Creek via local county roads in the Longview area - typical county roads serve the location. Coordinates are 46.588285, -123.615081. From central Longview, head east on local roads toward the creek drainage approximately 8-12 miles. Road access is unpaved or mixed paved-gravel county road; passenger vehicles can usually reach parking areas but high-clearance preferred during wet seasons. Ask locally for current access points and road conditions before visiting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved county road with gravel surface. May be muddy or rutted during wet season. High-clearance vehicle recommended but passenger car access possible in dry conditions.",
+  "parking_notes": "Pullout parking along Green Creek Road or informal gravel turnouts near creek access points. Space limited; typically 2-4 vehicle capacity per pullout. No formal parking facility.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection. No motorized excavation or powered equipment. Respect private property boundaries if present. Leave no trash. Do not damage living trees or established vegetation.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo powered equipment\nRespect property boundaries\nLeave no trash\nDo not damage vegetation",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Longview, WA - approximately 8-12 miles west. Full services including gas stations, restaurants, hardware stores, and grocery. Kelso, WA also nearby with similar amenities.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Unpaved county road to parking area; parking spots are gravel pullouts. Creek bed footing is uneven with loose gravel and rocks. Muddy conditions likely during wet seasons. Not suitable for wheelchairs or severe mobility limitations, but the flat terrain means minimal elevation gain for anyone able to navigate loose ground.",
+  "alternative_names": [],
+  "nearest_city": "Longview",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/green-creek-wa/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/green-creek-wa/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/green-creek-wa/mineral-2-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agate and chalcedony can I find at Green Creek in Washington?",
+      "answer": "Green Creek yields primarily banded agate with red, white, and gray coloration, along with translucent to opaque chalcedony. Most specimens are small to medium sized nodules or creek-rounded pieces rather than large geodes. Microcrystalline quartz varieties also appear frequently. The specimens here are best suited for polishing, tumbling, or jewelry-grade crafting."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Green Creek near Longview?",
+      "answer": "No permit is required for personal rockhounding at Green Creek on public land. The 25-pound per day limit applies under FLPMA guidelines. Commercial collection and motorized equipment are not allowed. Always verify current land status and access before visiting, as conditions may change."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Green Creek, Washington?",
+      "answer": "October through April is ideal for collecting at Green Creek. This period follows summer heat and precedes spring flooding, offering manageable water levels and fresh exposed material. Heavy rains in fall and winter expose new specimens. Avoid summer when water is lower but temperatures are higher, and spring when flood waters make creek access dangerous."
+    },
+    {
+      "question": "Is Green Creek rockhounding site beginner-friendly and suitable for families with kids?",
+      "answer": "Yes, Green Creek is highly beginner-friendly and excellent for families. The flat terrain requires minimal hiking, parking is accessible via unpaved roads passable by most vehicles, and the creek bed is safe for supervised children aged 6 and up. No special skills or expensive equipment are needed - just a small classifier and collection bag."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Green Creek?",
+      "answer": "Bring a small hand rake or classifier to sort creek gravel efficiently, a collection bag (25 lb limit), sturdy boots with good grip, gloves, and a small magnifier to identify specimens. A lightweight camp chair is helpful for comfortably examining gravel. In wet seasons, bring waterproof gloves and extra socks. No powered equipment or heavy excavation tools are permitted."
+    },
+    {
+      "question": "How far is Green Creek from Longview and what are road conditions like?",
+      "answer": "Green Creek is approximately 8-12 miles east of Longview via county backroads. Access roads are unpaved or mixed gravel-paved county roads. High-clearance vehicles are recommended, though passenger cars can reach most areas in dry conditions. Roads may be muddy or rutted during the wet Pacific Northwest winter months. Always check local conditions before departing."
+    }
+  ],
+  "meta_title": "Green Creek Rockhounding - Washington Agate",
+  "meta_description": "Find banded agate and chalcedony at Green Creek near Longview, WA. Easy public land rockhounding, no permit needed. Family-friendly creek bed collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T09:27:23.006Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T09:30:42.777Z"
+}

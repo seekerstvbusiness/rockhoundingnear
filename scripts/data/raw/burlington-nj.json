@@ -1,0 +1,64 @@
+{
+  "slug": "burlington-nj",
+  "name": "Burlington",
+  "lat": 40.039558,
+  "lng": -74.977633,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Delran Township",
+  "city_slug": "delran-township",
+  "county": "Burlington",
+  "county_slug": "burlington",
+  "geocoded_city": "Delran Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Burlington%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Burlington",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Burlington%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 0,
+      "meters": 0
+    },
+    "slope": null,
+    "nearest_city": {
+      "name": "Allentown",
+      "distance_mi": 47,
+      "population": 120443
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:39:42.231Z"
+  },
+  "scraped_at": "2026-04-21T18:39:42.231Z",
+  "scrape_quality": "minimal"
+}

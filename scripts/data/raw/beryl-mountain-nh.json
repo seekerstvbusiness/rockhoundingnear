@@ -1,0 +1,60 @@
+{
+  "slug": "beryl-mountain-nh",
+  "name": "Beryl Mountain",
+  "lat": 43.18099,
+  "lng": -72.294144,
+  "state": "New Hampshire",
+  "state_slug": "new-hampshire",
+  "state_code": "NH",
+  "city": "Acworth",
+  "city_slug": "acworth",
+  "county": "Sullivan",
+  "county_slug": "sullivan",
+  "geocoded_city": "Acworth",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-hampshire.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Beryl%20Mountain%20New%20Hampshire"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Beryl%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Beryl%20Mountain%20New%20Hampshire"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1127,
+      "meters": 344
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:28:59.268Z"
+  },
+  "scraped_at": "2026-04-21T17:28:59.268Z",
+  "scrape_quality": "minimal"
+}

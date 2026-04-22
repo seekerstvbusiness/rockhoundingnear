@@ -1,0 +1,60 @@
+{
+  "slug": "little-tennessee-river-tn",
+  "name": "Little Tennessee River",
+  "lat": 35.540168,
+  "lng": -84.089751,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Monroe County",
+  "city_slug": "monroe-county",
+  "county": "Monroe",
+  "county_slug": "monroe",
+  "geocoded_city": "Citico Beach",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Little%20Tennessee%20River%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Little%20Tennessee%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Little%20Tennessee%20River%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 813,
+      "meters": 248
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:30:46.051Z"
+  },
+  "scraped_at": "2026-04-21T18:30:46.051Z",
+  "scrape_quality": "minimal"
+}

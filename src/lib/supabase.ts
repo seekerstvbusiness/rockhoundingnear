@@ -122,6 +122,27 @@ export async function getAllStates(): Promise<StateData[]> {
   return data ?? []
 }
 
+export async function getBestCities(limit = 12): Promise<{ city: string; state: string; state_slug: string; city_slug: string; count: number }[]> {
+  const { data, error } = await supabase
+    .from('locations')
+    .select('city, state, state_slug, city_slug')
+    .eq('published', true)
+    .not('city_slug', 'is', null)
+  if (error) { console.error(error); return [] }
+
+  const counts = new Map<string, { city: string; state: string; state_slug: string; city_slug: string; count: number }>()
+  for (const r of data ?? []) {
+    if (!r.city_slug) continue
+    const existing = counts.get(r.city_slug + '_' + r.state_slug)
+    if (existing) existing.count++
+    else counts.set(r.city_slug + '_' + r.state_slug, { city: r.city, state: r.state, state_slug: r.state_slug, city_slug: r.city_slug, count: 1 })
+  }
+
+  return [...counts.values()]
+    .sort((a, b) => b.count - a.count)
+    .slice(0, limit)
+}
+
 export async function getCitiesInState(stateSlug: string) {
   const { data, error } = await supabase
     .from('locations')

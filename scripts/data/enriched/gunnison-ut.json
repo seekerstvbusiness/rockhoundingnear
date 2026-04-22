@@ -1,0 +1,101 @@
+{
+  "slug": "gunnison-ut",
+  "name": "Gunnison",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Sanpete County",
+  "city_slug": "sanpete-county",
+  "county": "Sanpete",
+  "county_slug": "sanpete",
+  "lat": 39.125793,
+  "lng": -111.743785,
+  "gem_types": [
+    "Agate",
+    "Quartz",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "Public BLM rockhounding near Gunnison offers free access to scenic collecting areas with agate, quartz, and jasper specimens. No permit required for personal use.",
+  "description": "Gunnison sits in central Utah's Sanpete County, a region with excellent public BLM land for rockhounding. The area around Gunnison provides easy access to colorful agate and quartz specimens in desert washes and hillside outcrops typical of the Basin and Range province. This is a beginner-friendly destination that requires no permits and allows up to 25 pounds of material per day for personal use.\n\nThe collecting areas feature exposed Cenozoic alluvial deposits and weathered volcanic materials that have produced quality specimens of banded agate, translucent chalcedony, and patterned jasper. The terrain is relatively open sagebrush scrubland with good visibility, making it easy to spot specimens on the ground surface. Most productive areas are found in and around desert washes where water erosion has concentrated lighter specimens.\n\nAccess is straightforward from town, with multiple pullouts along local roads leading to productive collecting zones. The site works well for families and first-time rockhounders because specimens are relatively easy to locate without specialized equipment. Spring and fall weather makes collecting comfortable, though the site is accessible year-round.\n\nExpect to find hand-sized specimens of banded agate in cream, tan, and rust tones, along with milky quartz and red to brown jasper. Many collectors focus on wash areas where material concentrates naturally. The open terrain allows you to cover ground quickly and evaluate different spots within a short visit.",
+  "history": "This area sits within the Basin and Range geological province where Cenozoic volcanic and alluvial activity deposited silica-rich materials over millions of years. Weathering and erosion of these ancient deposits created the agate, quartz, and jasper specimens found here today, concentrated in desert washes and hillside contexts typical of central Utah's rock formations.",
+  "tips": "Focus your search in dry desert washes and bajadas where water runoff concentrates lighter specimens - walk the wash bottoms and look for the cream and rust-colored banding typical of quality Utah agate. Bring a 5-gallon bucket and small shovel to move surface material and examine the subsurface; many specimens are just 2-4 inches below the ground. Look for specimens with visible banding or translucency rather than plain nodules, and collect intact pieces rather than fragments to maximize your daily limit. Early morning or late afternoon light makes spotting specimens easier on light-colored soil.",
+  "terrain_notes": "Elevation approximately 5,200 feet with rolling sagebrush-covered terrain and scattered juniper. Slopes are gentle to moderate, mostly open and exposed. Walking distance from pullouts ranges from 100 yards to 1 mile depending on which wash or hillside you access. Footing is solid packed dirt and light gravel with occasional loose rock; normal hiking boots are adequate. The terrain is relatively flat overall with good visibility across collecting areas.",
+  "best_season": "October - April. Cool to mild temperatures make collecting comfortable during these months. Avoid peak summer heat (May-September) when daytime temperatures exceed 90 degrees Fahrenheit. Winter is generally clear and accessible, though occasional snow may close secondary roads temporarily.",
+  "written_directions": "From Gunnison, head north on Main Street (becomes Utah State Route 89 north). Continue approximately 8-10 miles north toward Sterling. Look for unsigned pullouts and spur roads on both east and west sides of the highway; these access open BLM land with visible wash systems and hillside outcrops. Park at obvious pullouts near milepost markers or where wash drainage crosses the road. The most productive areas are 5-15 miles north of downtown Gunnison along Route 89 and adjacent county roads branching east and west.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Utah State Route 89 is paved and well-maintained. Access roads to BLM pullouts are mostly unpaved but passable for standard passenger vehicles in dry conditions. Some secondary spurs may have washboard texture. High clearance not required for main collecting areas.",
+  "parking_notes": "Multiple informal pullouts along Route 89 and spur roads provide parking for 2-6 vehicles each. No developed parking areas or facilities; parking is unimproved dirt. Capacity varies by location but generally accommodates casual rockhounders.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect only loose material and surface specimens. Do not dig into bedrock outcrops. Pack out all trash. Respect private property boundaries and adjacent ranch lands.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation\nCollect surface and loose material only\nDo not dig into bedrock or outcrops\nNo power tools\nPack out all trash\nRespect adjacent private land boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Gunnison, approximately 8-15 miles south. Gas, food, and basic supplies available in Gunnison. Larger services (hospitals, major retailers) in Ephraim or Manti, 15-20 miles away.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Unpaved pullouts may be rough in places but generally passable. Washes are easy to navigate with stable footing. Open landscape allows you to choose your own route based on mobility needs. No developed trails; hiking distance is flexible and self-directed. Suitable for families and casual collectors.",
+  "alternative_names": [],
+  "nearest_city": "Gunnison",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/gunnison-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/gunnison-ut/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/gunnison-ut/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/gunnison-ut/mineral-3-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Gunnison, Utah?",
+      "answer": "The Gunnison area on BLM land is known for banded agate in cream, tan, and rust colors, along with milky to translucent quartz, red-brown jasper, and chalcedony specimens. Most pieces are hand-sized and found as loose surface material in desert washes and alluvial fans."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Gunnison?",
+      "answer": "No permit is required for personal use collecting on BLM land near Gunnison. You can collect up to 25 pounds per day free of charge under FLPMA regulations. Commercial collection and motorized excavation are not allowed."
+    },
+    {
+      "question": "What is the best season for rockhounding in Gunnison, Utah?",
+      "answer": "October through April is ideal for collecting near Gunnison. Cool temperatures make outdoor work comfortable, and the weather is generally clear. Summer heat (May-September) can exceed 90 degrees and makes extended collecting unpleasant. Winter collecting is accessible though occasional snow may affect secondary roads."
+    },
+    {
+      "question": "Can families and beginners find success rockhounding in Gunnison?",
+      "answer": "Yes, Gunnison is beginner-friendly and excellent for families. No permits or special knowledge are required, specimens are relatively easy to spot on the surface, and the gentle terrain is accessible to children as young as 6. Most productive areas are within walking distance of pullouts."
+    },
+    {
+      "question": "How far is Gunnison rockhounding from town and what tools do I need?",
+      "answer": "Productive collecting areas are 8-15 miles north of Gunnison via Utah State Route 89. You can reach them by standard passenger vehicle. Bring a 5-gallon bucket, small shovel, and hiking boots. A hand lens helps identify banding in agate specimens, but is optional for beginners."
+    },
+    {
+      "question": "Where exactly should I look for agate in the Gunnison BLM area?",
+      "answer": "Focus on dry desert washes and bajada slopes where water runoff concentrates lighter specimens. Search the wash bottoms and adjacent hillsides along pullouts north of Gunnison on Route 89 and county spur roads. Look 2-4 inches below the surface and in areas with visible banding or color variation."
+    }
+  ],
+  "meta_title": "Gunnison Rockhounding - Utah BLM",
+  "meta_description": "Free rockhounding near Gunnison, Utah. Find agate, quartz, and jasper on public BLM land. No permit required. Up to 25 lbs per day.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "cell_service",
+    "nearest_services",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T06:52:41.857Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:00:43.482Z"
+}

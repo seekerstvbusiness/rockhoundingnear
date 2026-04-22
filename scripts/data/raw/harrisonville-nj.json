@@ -1,0 +1,60 @@
+{
+  "slug": "harrisonville-nj",
+  "name": "Harrisonville",
+  "lat": 39.682075,
+  "lng": -75.267679,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "South Harrison Township",
+  "city_slug": "south-harrison-township",
+  "county": "Gloucester",
+  "county_slug": "gloucester",
+  "geocoded_city": "South Harrison Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Harrisonville%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Harrisonville",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Harrisonville%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 44,
+      "meters": 13
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:42:06.223Z"
+  },
+  "scraped_at": "2026-04-21T18:42:06.224Z",
+  "scrape_quality": "minimal"
+}

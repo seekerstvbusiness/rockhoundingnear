@@ -1,0 +1,105 @@
+{
+  "slug": "lamberts-mine-ct",
+  "name": "Lamberts Mine",
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "city": "West Haven",
+  "city_slug": "west-haven",
+  "county": "South Central Connecticut Planning Region",
+  "county_slug": "south-central-connecticut-planning-region",
+  "lat": 41.306285,
+  "lng": -72.982786,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Historic Connecticut mining site near West Haven with quartz and feldspar deposits. Limited public access due to private ownership and site conditions.",
+  "description": "Lamberts Mine is a historic mineral location in the West Haven area of Connecticut, situated within the New England Upland geology of south-central Connecticut. This site is primarily known for quartz, feldspar, and mica minerals that formed during the Paleozoic mountain-building events that created the underlying metamorphic bedrock of the region. The site has limited accessibility and visitor information is sparse, making it a challenging destination for rockhounders seeking established collecting opportunities.\n\nThe geology of this area reflects Connecticut's complex Precambrian and Paleozoic history, where metamorphic rocks including schist and gneiss host pegmatitic and hydrothermal mineral deposits. Quartz veins and feldspar crystals are characteristic of these metamorphic sequences. Historically, Connecticut mining operations focused on a variety of minerals, though most historic mines are no longer accessible to the public.\n\nVisitors interested in this location should note that access may be restricted due to private ownership or land management policies. Before planning a trip, contact local Connecticut geological survey offices or the Connecticut Department of Energy and Environmental Protection to clarify current access permissions and site conditions. Many of Connecticut's historic mines have become hazardous over time, and public safety is a primary concern.",
+  "history": "Lamberts Mine is part of Connecticut's historic mining heritage in the New England Upland region, where Paleozoic metamorphic rocks host pegmatite and quartz vein deposits rich in feldspar and mica minerals. Connecticut's mineral deposits formed during intense mountain-building activity and subsequent hydrothermal alteration, creating conditions favorable for crystal growth in fracture zones.",
+  "tips": "Before visiting, verify current access status and ownership with Connecticut DEEP, as many historic mines are posted or unsafe. Look for quartz veins and feldspar crystals along exposed outcrops and weathered material. Use a small pry bar and chisel to carefully extract specimens from vein walls rather than loose material. Connecticut's humid climate means specimens may show iron oxidation staining on quartz; rinse finds gently with water and dry thoroughly.",
+  "terrain_notes": "The site is located in the coastal lowlands of south-central Connecticut near West Haven, with elevation around 50-100 feet above sea level. Terrain is typically forested with mixed deciduous trees and dense understory vegetation characteristic of southern New England. The bedrock is obscured by glacial till and soil in most areas, with exposed outcrops near the mine workings.",
+  "best_season": "May - October. Spring through early fall offers the best access conditions, with dry ground and lower tick populations compared to dense summer vegetation. Winter weather and wet conditions make late fall through early spring challenging.",
+  "written_directions": "From West Haven town center, access to Lamberts Mine requires local knowledge and verification of current land permissions. The GPS coordinates (41.306285, -72.982786) place the site in a residential/mixed-use area of West Haven. Contact Connecticut DEEP or local land trusts for current directions and access protocols before attempting to visit.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "hiking",
+  "road_conditions": "Unknown - site access not established for public rockhounding",
+  "parking_notes": "Parking not established. Access currently restricted or uncertain.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": true,
+  "permit_link": "https://portal.ct.gov/DEEP",
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "This is private land or a restricted historic site. Permission from the landowner or Connecticut DEEP is required before any collection. Connecticut state law prohibits mineral collection on protected lands without authorization. Do not trespass. Any collecting on private land requires explicit written permission. Historical mines may contain hazards including unstable structures, contaminated materials, or dangerous voids.",
+  "quantity_limits": null,
+  "rules": "Obtain written permission from property owner before visiting\nNo collection without authorization from Connecticut DEEP\nHazardous conditions likely present at site\nDo not enter abandoned mine structures\nNo motorized equipment allowed",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": false,
+  "kid_age_range": "16+",
+  "hazards": [
+    "abandoned_mines",
+    "sharp_material",
+    "loose_rock",
+    "cold"
+  ],
+  "nearest_services": "West Haven, Connecticut - approximately 1-3 miles distant. Full services including gas, food, water, and lodging available.",
+  "accessibility_notes": "Access status uncertain and likely restricted. Site is in private ownership or restricted historic area. No established parking, trails, or accessibility infrastructure. Terrain would be challenging with forested areas, uneven ground, and potential mine hazards. Not suitable for people with limited mobility or families without prior site authorization.",
+  "alternative_names": [],
+  "nearest_city": "West Haven",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/connecticut/lamberts-mine-ct/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/connecticut/lamberts-mine-ct/mineral-1-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Can I rockhound at Lamberts Mine in Connecticut?",
+      "answer": "Access to Lamberts Mine is not established for public rockhounding. The site is private property or a protected historic location. You must contact the Connecticut Department of Energy and Environmental Protection (DEEP) and obtain written permission from the landowner before visiting. Without authorization, access is trespassing."
+    },
+    {
+      "question": "What minerals can I find at Lamberts Mine near West Haven?",
+      "answer": "Lamberts Mine historically produced quartz, feldspar, and mica minerals. These minerals formed in Connecticut's metamorphic bedrock during Paleozoic mountain-building events. However, without current access to the site, specimen collection is not possible."
+    },
+    {
+      "question": "What is the best season to visit Lamberts Mine in Connecticut?",
+      "answer": "If access were available, May through October would be the optimal season, avoiding winter weather and wet spring conditions. However, thick vegetation and tick activity in summer can make late spring (May-June) or early fall (September-October) preferable for fieldwork in Connecticut."
+    },
+    {
+      "question": "Are there safer Connecticut rockhounding alternatives to Lamberts Mine?",
+      "answer": "Yes, Connecticut has several established rockhounding sites and fee dig operations with public access and safety measures in place. Contact Connecticut DEEP or local mineral clubs for recommended public collecting areas. Many state parks and public lands allow limited mineral collecting with proper permits."
+    },
+    {
+      "question": "Is Lamberts Mine safe to visit for rockhounding?",
+      "answer": "No. Historic mines in Connecticut often contain hazardous conditions including unstable structures, unsafe voids, accumulated water, contaminated materials, and loose debris. Without proper site inspection and remediation, visiting abandoned mines is extremely dangerous. Never enter mine shafts or tunnels."
+    },
+    {
+      "question": "How do I get permission to rockhound at Lamberts Mine?",
+      "answer": "Contact the Connecticut Department of Energy and Environmental Protection (DEEP) at their main office to inquire about the current status and ownership of Lamberts Mine. You will need to identify the landowner and obtain written permission for any site access or collection. Many historic Connecticut mining sites are not available for public use."
+    }
+  ],
+  "meta_title": "Lamberts Mine Rockhounding - Connecticut",
+  "meta_description": "Historic Connecticut mineral site near West Haven with quartz, feldspar, and mica. Limited access - requires landowner permission and DEEP authorization.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "vehicle_required",
+    "road_conditions",
+    "parking_notes",
+    "permit_required",
+    "permit_link",
+    "collection_rules",
+    "written_directions",
+    "family_friendly",
+    "dog_friendly"
+  ],
+  "enriched_at": "2026-04-21T18:14:55.556Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:17:26.177Z"
+}

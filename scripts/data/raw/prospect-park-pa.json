@@ -1,0 +1,64 @@
+{
+  "slug": "prospect-park-pa",
+  "name": "Prospect Park",
+  "lat": 39.877371,
+  "lng": -75.305881,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Prospect Park",
+  "city_slug": "prospect-park",
+  "county": "Delaware",
+  "county_slug": "delaware",
+  "geocoded_city": "Prospect Park",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Prospect%20Park%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Prospect%20Park",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Prospect%20Park%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 5,
+      "meters": 2
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Allentown",
+      "distance_mi": 51,
+      "population": 120443
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:58:18.466Z"
+  },
+  "scraped_at": "2026-04-21T18:58:18.466Z",
+  "scrape_quality": "minimal"
+}

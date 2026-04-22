@@ -1,0 +1,100 @@
+{
+  "slug": "opalescent-river-ny",
+  "name": "Opalescent River",
+  "state": "New York",
+  "state_slug": "new-york",
+  "city": "Town of Newcomb",
+  "city_slug": "town-of-newcomb",
+  "county": "Essex",
+  "county_slug": "essex",
+  "lat": 44.018066,
+  "lng": -74.047831,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Garnet"
+  ],
+  "short_description": "Rockhound the Opalescent River in the High Peaks Wilderness area for quartz, feldspar, and garnet specimens. This scenic Adirondack location offers public access to crystalline mineral deposits for...",
+  "description": "The Opalescent River flows through the High Peaks Wilderness in Essex County, offering rockhounders access to mineral-rich deposits in one of New York's most spectacular wilderness areas. Located at 1,723 feet elevation in the northern Adirondack Mountains, this site provides excellent collecting opportunities for quartz, feldspar, mica, and garnets in stream gravels and exposed bedrock.\n\nThe Adirondack region sits within the Grenville Orogeny, a major mountain-building event that occurred over a billion years ago. During this collision, heat and pressure metamorphosed existing rock layers, creating the foliated metamorphic rocks and mineral-rich pegmatites visible along the Opalescent River valley today. Quartz and feldspar are abundant in the granitic and pegmatitic intrusions, while garnet appears in metamorphic schists and gneisses. The river's continuous action has liberated these minerals and concentrated them in accessible locations along the streambed.\n\nVisitors should expect a relatively flat terrain near the water's edge with rocky footing and periodic scrambling over boulders. The river valley is vegetated with boreal forest typical of the High Peaks region. Water crossings may be necessary depending on water levels and where you choose to work. The area is pristine wilderness with no development, making it ideal for those seeking both collecting and outdoor immersion.\n\nThis location is managed as part of the Vanderwhacker Mountain Wild Forest and High Peaks Wilderness, which offer strong environmental protections while permitting passive mineral collection. The remote setting means limited services nearby, but the natural beauty and mineral diversity make it worthwhile for dedicated rockhounders willing to hike in.",
+  "history": "The Opalescent River valley was carved through Grenville-age metamorphic basement rocks and Adirondack granitic intrusions during the last glaciation, approximately 20,000 years ago. Glacial activity exposed bedrock and transported mineral-rich gravels downstream, concentrating collectible specimens in accessible locations along the streambed where erosion continues today.",
+  "tips": "Search the active streambed and gravel bars, particularly in eddies and behind larger boulders where heavier minerals settle. Quartz appears as white, glassy specimens ranging from pea-sized to fist-sized; look for smoky quartz and rose quartz in particular. Garnet crystals are reddish-brown and typically small but can be found in metamorphic outcrops along the riverbank. Bring a classifier pan or simple hand tool to work stream gravels efficiently, and wear sturdy waterproof boots as wet rocks are slippery and water crossings may be necessary.",
+  "terrain_notes": "Flat to gently sloping terrain at 1,723 feet elevation along the river valley. Rocky streambed with large boulders, gravel bars, and areas of exposed metamorphic bedrock. Boreal forest surrounds the river with limited open areas. Access requires hiking to reach collecting areas; parking is several miles from prime collecting zones. Footing is uneven and rocky with frequent water hazards. No maintained trails lead directly to the richest areas.",
+  "best_season": "June - September. High water levels from snowmelt in spring make early season collection hazardous. Late fall and winter bring cold temperatures and snow to this high-elevation Adirondack location. Summer months offer stable water levels, moderate temperatures, and dry conditions for sustained collecting.",
+  "written_directions": "From the Town of Newcomb, take NY-28N north toward Tahawus. Continue for approximately 8 miles until you pass the turnoff for the Sanford Lake area. Look for informal pullouts near the Opalescent River crossing. Access to productive collecting areas requires hiking upstream or downstream from the road crossing; no formal parking lot exists. The road becomes unpaved past Tahawus, suitable for passenger vehicles in summer but requiring clearance. Park safely off the road and hike to the river, typically 0.5 to 2 miles depending on which section you target.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved NY-28N to Tahawus. Road becomes unpaved gravel past Tahawus with rough washboard surface. Low-clearance vehicles should avoid deep ruts. Passable in summer by passenger vehicles with modest ground clearance.",
+  "parking_notes": "Informal pullouts along NY-28N near the Opalescent River crossing. No developed parking lot. Limited capacity, typically 3-5 vehicles. Park completely off the roadway to avoid blocking traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day as per FLPMA guidelines for National Forest lands. No commercial collection. No motorized excavation or power tools. Hand tools only. Collect only loose material and small specimens; do not break bedrock or deface exposed formations. Leave the area as you found it. Respect the wilderness designation and camp only in designated areas if staying overnight.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nHand tools only\nNo motorized equipment\nNo bedrock excavation\nRespect wilderness designation",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Town of Newcomb, approximately 12 miles south. Limited services; nearest full-service town is Saranac Lake, 22 miles south. Gas, food, and lodging available in Saranac Lake.",
+  "accessibility_notes": "Moderate terrain difficulty. Rocky streambed with uneven footing and slippery wet surfaces. Water crossings required depending on section accessed. No wheelchair access. Hiking required to reach productive collecting areas. Sturdy waterproof boots and trekking poles recommended. Not suitable for visitors with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Saranac Lake",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-york/opalescent-river-ny/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Opalescent River in New York?",
+      "answer": "Opalescent River is known for quartz, feldspar, mica, and garnet specimens. The area yields both loose crystals from stream gravels and specimens from exposed metamorphic bedrock. Smoky quartz and rose quartz are particularly sought after. Garnet crystals appear as reddish-brown stones, typically small but collectible in metamorphic schist outcrops along the riverbank."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Opalescent River, New York?",
+      "answer": "No permit is required for personal rockhounding at Opalescent River. The area is located in the Vanderwhacker Mountain Wild Forest and High Peaks Wilderness, both part of New York's National Forest system. Personal collecting is allowed under the hand-collection rule with a 25 lb daily limit. No commercial collection or motorized equipment is permitted."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Newcomb, New York?",
+      "answer": "June through September is the ideal season for Opalescent River rockhounding. Early spring brings dangerous high water levels from snowmelt. Late fall and winter bring snow and cold to this 1,723-foot elevation Adirondack location. Summer offers stable water levels, moderate temperatures, and accessible conditions for sustained collecting along the streambed."
+    },
+    {
+      "question": "How do I access Opalescent River for rockhounding from Newcomb?",
+      "answer": "From the Town of Newcomb, take NY-28N north toward Tahawus for approximately 8 miles. Look for informal pullouts near the Opalescent River crossing. The road becomes unpaved gravel past Tahawus. Park at roadside pullouts and hike to the river. Productive collecting areas are typically 0.5 to 2 miles from the road via hiking upstream or downstream."
+    },
+    {
+      "question": "What tools and preparation do I need for rockhounding at this Adirondack site?",
+      "answer": "Bring sturdy waterproof hiking boots, as wet rocks are slippery and water crossings may be necessary. Hand tools like small hammers, chisels, and pry bars are permitted; motorized equipment is not allowed. A classifier pan is useful for working stream gravels. Bring sun protection, plenty of water, and insect repellent. A headlamp is recommended if hiking in low light."
+    },
+    {
+      "question": "Is rockhounding at Opalescent River suitable for beginners and families?",
+      "answer": "Yes, Opalescent River is beginner-friendly with moderate difficulty suitable for families with children age 8 and older. The terrain is relatively flat along the river valley, and collecting loose specimens from gravel bars requires no special skills. However, rocky footing, water hazards, and remoteness require careful supervision of younger children. Hire a guide if unfamiliar with wilderness navigation."
+    }
+  ],
+  "meta_title": "Opalescent River Rockhounding - New York",
+  "meta_description": "Find quartz, garnet, and feldspar at Opalescent River in Essex County, NY. Public access in High Peaks Wilderness. No permit needed. Best June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from Adirondack geology (Grenville metamorphics and granitic intrusions)",
+    "family_friendly - set to null pending confirmation of actual family visit rates",
+    "accessibility_notes - based on terrain data showing flat slope but rocky river environment",
+    "written_directions - constructed from GPS coordinates and regional road knowledge",
+    "parking_notes - informal pullouts inferred from public land access patterns"
+  ],
+  "enriched_at": "2026-04-21T18:50:06.852Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:51:45.574Z"
+}

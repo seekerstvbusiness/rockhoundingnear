@@ -1,0 +1,60 @@
+{
+  "slug": "tye-river-gap-va",
+  "name": "Tye River Gap",
+  "lat": 37.886891,
+  "lng": -79.156464,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Rockbridge County",
+  "city_slug": "rockbridge-county",
+  "county": "Rockbridge",
+  "county_slug": "rockbridge",
+  "geocoded_city": "Vesuvius",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Tye%20River%20Gap%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Tye%20River%20Gap",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Tye%20River%20Gap%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2983,
+      "meters": 909
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:05:07.906Z"
+  },
+  "scraped_at": "2026-04-21T19:05:07.906Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "berkeley-springs-wv",
+  "name": "Berkeley Springs",
+  "lat": 39.648957,
+  "lng": -78.217604,
+  "state": "West Virginia",
+  "state_slug": "west-virginia",
+  "state_code": "WV",
+  "city": "Morgan County",
+  "city_slug": "morgan-county",
+  "county": "Morgan",
+  "county_slug": "morgan",
+  "geocoded_city": "Burnt Factory",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-west-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Berkeley%20Springs%20West%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Berkeley%20Springs",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Berkeley%20Springs%20West%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 764,
+      "meters": 233
+    },
+    "slope": "steep terrain",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:29:10.721Z"
+  },
+  "scraped_at": "2026-04-21T17:29:10.722Z",
+  "scrape_quality": "minimal"
+}

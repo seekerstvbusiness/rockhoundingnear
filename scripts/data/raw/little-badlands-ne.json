@@ -1,0 +1,60 @@
+{
+  "slug": "little-badlands-ne",
+  "name": "Little Badlands",
+  "lat": 42.857661,
+  "lng": -103.586352,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Bowen Precinct",
+  "city_slug": "bowen-precinct",
+  "county": "Sioux",
+  "county_slug": "sioux",
+  "geocoded_city": "Bowen Precinct",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Little%20Badlands%20Nebraska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Little%20Badlands",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Little%20Badlands%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3802,
+      "meters": 1159
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:59:15.007Z"
+  },
+  "scraped_at": "2026-04-21T16:59:15.007Z",
+  "scrape_quality": "minimal"
+}

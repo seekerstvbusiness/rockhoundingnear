@@ -38,6 +38,16 @@ const nextConfig: NextConfig = {
         destination: '/locations/:state',
         permanent: true,
       },
+      {
+        source: '/states',
+        destination: '/locations',
+        permanent: true,
+      },
+      {
+        source: '/sitemap',
+        destination: '/sitemap.xml',
+        permanent: true,
+      },
     ]
   },
 };

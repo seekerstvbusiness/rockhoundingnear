@@ -1,0 +1,60 @@
+{
+  "slug": "smoke-hole-wv",
+  "name": "Smoke Hole",
+  "lat": 38.856876,
+  "lng": -79.276386,
+  "state": "West Virginia",
+  "state_slug": "west-virginia",
+  "state_code": "WV",
+  "city": "Pendleton County",
+  "city_slug": "pendleton-county",
+  "county": "Pendleton",
+  "county_slug": "pendleton",
+  "geocoded_city": "Pendleton County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-west-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Smoke%20Hole%20West%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Smoke%20Hole",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Smoke%20Hole%20West%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1624,
+      "meters": 495
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:30:04.017Z"
+  },
+  "scraped_at": "2026-04-21T17:30:04.017Z",
+  "scrape_quality": "minimal"
+}

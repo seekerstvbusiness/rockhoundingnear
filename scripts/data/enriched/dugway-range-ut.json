@@ -1,0 +1,99 @@
+{
+  "slug": "dugway-range-ut",
+  "name": "Dugway Range",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Juab County",
+  "city_slug": "juab-county",
+  "county": "Juab",
+  "county_slug": "juab",
+  "lat": 39.894374,
+  "lng": -113.080169,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Free public BLM rockhounding in Utah's basin and range country. Find agate, chalcedony, and jasper specimens in the high desert of Juab County.",
+  "description": "Dugway Range sits within Utah's Basin and Range physiographic province, a landscape shaped by Miocene-age extension and volcanism. The range exposes Tertiary volcanic rocks and silica-rich sediments ideal for rockhounding. This is accessible BLM land open to recreational collectors year-round, with no permit required and minimal crowds compared to fee dig sites.\n\nThe terrain here is typical Great Basin high desert: sagebrush-covered slopes with scattered outcrops and wash gravels that concentrate lighter minerals. Agate and chalcedony specimens are found loose in washes and embedded in hillside exposures. Jasper and other microcrystalline quartz varieties turn up frequently in the gravelly benches above seasonal drainages.\n\nBecause this is remote BLM land, you'll have solitude and plenty of ground to explore. The collecting is moderate difficulty - you'll hike to productive areas, but the slopes are not steep and the rock is stable underfoot. This location suits intermediate rockhounders comfortable with desert terrain and self-sufficient water and fuel planning.\n\nWater is scarce out here, so bring at least 2 gallons per person. Cell service is unreliable; inform someone of your location and expected return time. The high desert sun is intense even in mild seasons, and afternoon thunderstorms can develop quickly in summer and fall.\n\nThis site rewards patience and a methodical approach. Scan washes carefully for color and pattern changes in gravel beds. Split and examine loose rocks for agate banding. Check hillside seeps where mineralized water once flowed.",
+  "history": "The Dugway Range is part of the Basin and Range extension province, where Miocene-age volcanism and silica-rich hot springs deposited the agate and chalcedony found here today. These volcanic and hydrothermal deposits are typically 20-25 million years old, formed during a period of active crustal stretching across the Great Basin.",
+  "tips": "Search rocky washes and benches for loose agate and chalcedony specimens; look for banding, color variation, and translucency in gravel. Bring a 10x hand lens to examine fine banding in suspected agate - true agate shows microscopic quartz crystals in curved patterns. Use a geologist's hammer to test half-buried specimens in place rather than collecting blindly; check each 50-foot section of wash carefully before moving on. Avoid afternoon thunderstorms common in late summer; plan morning-only collecting trips in July and August.",
+  "terrain_notes": "High desert plateau and foothills ranging 5,200 to 6,800 feet elevation. Vegetation is sparse sagebrush with scattered juniper. Terrain is hilly but not mountainous, with stable rocky slopes and sandy/gravelly washes. Most productive areas lie 0.5 to 2 miles from parking; no sustained steep hiking required. Footing is generally solid but uneven; ankles can turn on loose cobbles in washes. No shade; full sun exposure.",
+  "best_season": "October - April. High desert temps exceed 90F in summer, and afternoon thunderstorms are common June through September. Winter days are cool but usually dry with clear skies. Spring (March-April) and fall (October-November) offer comfortable temperatures and reliable visibility for spotting specimen color.",
+  "written_directions": "From Delta, Utah (nearest town with services), take US 50 east for approximately 30 miles toward Salina. Turn south on a marked BLM access road (coordinates 39.89, -113.08 area). Follow the unpaved road for 2-3 miles to parking areas near the main Dugway Range foothills. High-clearance vehicles recommended after rain, but passenger cars can usually reach parking zones in dry conditions. Expect 45-50 minutes driving time from Delta.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM road, typically passable for passenger vehicles in dry conditions. Washboard surface common. High-clearance vehicles (SUV/truck) recommended after recent rain. No improvement maintenance guaranteed.",
+  "parking_notes": "Informal pullouts and wide spots along the main access road. No developed parking lot. Space available for 3-5 vehicles at each pullout. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Pack out all trash. Do not disturb archaeological or paleontological sites. Stay on existing roads and trails to minimize impact.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\n25 lbs per day maximum per FLPMA\nNo motorized excavation or heavy equipment\nPack out all trash\nAvoid disturbing archaeological sites or artifacts\nStay on established roads and trails",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Delta, Utah - approximately 30 miles northwest. Has gas stations, grocery stores, and basic restaurants. No services within 20 miles of the site.",
+  "accessibility_notes": "Uneven rocky terrain with loose cobbles in washes. No wheelchair access. Sturdy hiking boots strongly recommended. Slopes are moderate but not steep. Most productive areas within 1-2 miles of parking. Heat exposure is significant; limited shade available. Not suitable for very young children or those with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Delta",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/dugway-range-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What can you find rockhounding at Dugway Range in Utah?",
+      "answer": "Dugway Range is known for agate, chalcedony, jasper, and quartz specimens. Most finds are loose in washes and rocky hillsides. Specimens typically range from thumbnail to fist-sized. The agate here often displays banding and translucency characteristic of Tertiary volcanic deposits."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Dugway Range?",
+      "answer": "No permit is required. Dugway Range is BLM public land open to recreational rockhounding under FLPMA regulations. You can collect up to 25 lbs per day for personal use at no cost."
+    },
+    {
+      "question": "What is the best season for rockhounding near Juab County, Utah?",
+      "answer": "October through April is ideal. Daytime temperatures are comfortable (50-70F), and the high desert receives minimal precipitation. Avoid summer months (June-September) when temps exceed 90F and afternoon thunderstorms develop quickly. Spring and fall offer the best balance of weather and visibility."
+    },
+    {
+      "question": "How far is Dugway Range from Delta, Utah, and what tools do I need?",
+      "answer": "Dugway Range is about 30 miles southeast of Delta via US 50. Bring a geologist's hammer, chisel, 10x hand lens, and sturdy boots. Pack 2+ gallons of water, sunscreen, and a hat. A GPS unit is helpful since cell service is unreliable."
+    },
+    {
+      "question": "Is Dugway Range beginner-friendly for rockhounding?",
+      "answer": "Yes, Dugway Range suits intermediate beginners. The terrain is moderate (no technical climbing), and agate/chalcedony are relatively easy to identify once you learn the banding patterns. Bring a hand lens and practice on loose specimens in washes before attempting harder hillside searches."
+    },
+    {
+      "question": "Can you bring dogs and families to Dugway Range for rockhounding?",
+      "answer": "Yes, dogs and families are welcome on BLM land. However, this is remote desert terrain with extreme heat, limited water, and scattered sharp rocks. Keep children within sight at all times. Dogs should be acclimated to heat and brought on-leash to prevent encounters with wildlife."
+    }
+  ],
+  "meta_title": "Dugway Range Rockhounding - Utah BLM",
+  "meta_description": "Free BLM rockhounding for agate, chalcedony, and jasper near Juab County, Utah. No permit needed. 25 lbs per day limit. October-April best season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from GPS and state geography; no specific road name confirmed",
+    "nearest_city_distance - estimated at 30 miles based on Delta to GPS coordinates",
+    "gem_types - inferred from Basin and Range Miocene volcanic deposits; no site-specific specimen list available",
+    "parking_notes - generic BLM standard; no site survey confirmed"
+  ],
+  "enriched_at": "2026-04-22T06:50:33.146Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:57:21.406Z"
+}

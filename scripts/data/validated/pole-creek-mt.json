@@ -1,0 +1,101 @@
+{
+  "slug": "pole-creek-mt",
+  "name": "Pole Creek",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Madison County Area",
+  "city_slug": "madison-county",
+  "county": "Madison",
+  "county_slug": "madison",
+  "lat": 45.576911,
+  "lng": -111.524725,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land rockhounding near Madison County offering agate and chalcedony finds in scenic foothill terrain. Free collecting with no permit required.",
+  "description": "Pole Creek sits on productive BLM land in Montana's Madison County, where Tertiary volcanic activity and basin-and-range tectonics created ideal conditions for silica-rich mineral deposition. The creek drainage exposes gravels and wash deposits that yield quality agate, chalcedony, and jasper specimens suitable for collectors of all skill levels.\n\nThe collecting area centers around the drainage itself and adjacent bench lands at 4,850 feet elevation. Walking access to productive zones is straightforward, with parking available near the road. Rockhounders typically find loose material in creek gravels and along wash banks where erosion exposes colorful nodules and banded specimens.\n\nThis is beginner-friendly rockhounding with no permit requirements and no collecting fees. The BLM designation means free public access year-round, though spring and fall offer the most comfortable conditions. Water is available seasonally in the creek, but bring your own for reliability.\n\nCollecting here rewards patience and systematic searching. The best material typically concentrates in gravel bars and at erosional contacts where finer sediments have washed away. Tool needs are minimal - a small hand pick or pry bar helps extract partially exposed specimens without damage.",
+  "history": "Pole Creek sits within the northern Basin and Range province where Tertiary-age volcanic activity (roughly 50-30 million years ago) deposited silica-rich hydrothermal fluids through fracture networks. As these fluids cooled, they crystallized into agate and chalcedony deposits that filled cavities in surrounding rock. Subsequent basin-and-range extension and erosion by Pole Creek itself has exposed these minerals in modern wash gravels, making them accessible to surface collectors.",
+  "tips": "Search the active creek wash and flood-deposited gravel bars first, as seasonal flow concentrates heavier agate and chalcedony specimens. Look for translucent or banded nodules ranging from 1-3 inches across - these often show color banding in whites, creams, reds, and browns that indicate higher-quality material. Early morning light helps spot glossy specimens among gray river rocks. Bring a hand pick to test loosely cemented nodules in bank exposures without using motorized tools, which are prohibited on this BLM land.",
+  "terrain_notes": "Elevation 4,850 feet with gentle to moderate slopes typical of foothill terrain. Vegetation includes sagebrush and scattered conifers. Parking areas are within 0.25 miles of productive gravels. Walking is mostly on established paths and wash bottoms with minor rocky footing. The creek may flow seasonally and can create muddy sections in spring.",
+  "best_season": "April - October. Late spring and early fall (May and September) offer ideal conditions with moderate temperatures and adequate water flow. Summer can bring afternoon heat at lower elevations; winter snow may limit access at this elevation.",
+  "written_directions": "From Ennis, Montana, take MT 287 south toward West Yellowstone for approximately 18 miles. Turn east onto Forest Road 288 (Madison County Road). Continue approximately 8 miles on this road toward the Pole Creek drainage. Look for BLM parking pullouts marked with yellow/orange signs near the creek crossing. Park in established areas and walk down to the wash gravels.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Forest Road 288 is maintained gravel with some washboard sections. High-clearance vehicle recommended but passenger cars manage in dry conditions.",
+  "parking_notes": "Multiple pullout areas along the road near Pole Creek. Capacity 3-5 vehicles per pullout. No developed parking lot; look for flat turnouts marked for BLM collecting.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Only hand tools permitted. Collect loose surface material and specimens that can be extracted by hand or small hand tools.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or sale\nNo motorized excavation equipment\nHand tools only\nNo removal of in-place bedrock",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Ennis, Montana - 20 miles south. Full services including gas, food, water, and supplies.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Parking is within short walking distance (under 0.5 miles) of productive areas. Wash bottoms have loose and rocky footing requiring sturdy footwear. No wheelchair access to collecting areas. Creekside walking may involve minor scrambling over boulders depending on seasonal water levels.",
+  "alternative_names": [],
+  "nearest_city": "Ennis",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/pole-creek-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/pole-creek-mt/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What agates and chalcedony can I find rockhounding at Pole Creek, Montana?",
+      "answer": "Pole Creek yields banded agate and chalcedony nodules in whites, creams, reds, and browns. Specimens typically range 1-3 inches and show translucent banding when held to light. The best material concentrates in creek gravels and flood-deposited bars where smaller sediments have washed away, exposing the harder silica-rich specimens."
+    },
+    {
+      "question": "Is rockhounding free at Pole Creek, and do I need a permit?",
+      "answer": "Yes, Pole Creek is completely free. It sits on BLM public land with no permit requirement for recreational collecting. You simply park and walk to the creek to start collecting under FLPMA rules: personal use only, 25 lbs per day maximum, and hand tools only."
+    },
+    {
+      "question": "When is the best time of year to rockhound near Madison County, Montana?",
+      "answer": "April through October is best, with May and September offering ideal conditions. Spring runoff exposes fresh material in gravels, while cooler temperatures make fall collecting comfortable. Summer can bring afternoon heat, and winter snow often blocks access at this 4,850-foot elevation."
+    },
+    {
+      "question": "How do I reach Pole Creek from Ennis, Montana?",
+      "answer": "From Ennis, take MT 287 south toward West Yellowstone for approximately 18 miles. Turn east onto Forest Road 288 (Madison County Road) and continue about 8 miles to the Pole Creek drainage. Look for BLM parking pullouts near the creek crossing. The drive takes roughly 45 minutes."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Pole Creek?",
+      "answer": "Bring a small hand pick or pry bar to extract specimens, a collection bag, water, and sturdy hiking boots. Hand tools only are allowed on this BLM land - no motorized equipment. Most productive collecting involves walking creek gravels and searching flood-deposited material, so wear comfortable clothes and bring sun protection."
+    },
+    {
+      "question": "Is Pole Creek rockhounding good for beginners and families?",
+      "answer": "Yes, Pole Creek is excellent for beginners and families. The terrain is gentle, no permit or fee is required, and loose agate and chalcedony specimens are relatively easy to spot in the gravels. Children ages 6+ can participate safely with adult supervision. The short walk from parking to productive areas makes it family-friendly, though watch for seasonal creek flow and loose rocks."
+    }
+  ],
+  "meta_title": "Pole Creek Rockhounding - Montana",
+  "meta_description": "Free BLM rockhounding near Ennis, Montana. Find agate, chalcedony, and jasper. No permit required. 25 lb daily limit. Family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred road names from GPS coords)",
+    "nearest_city_distance (estimated)",
+    "parking_notes (typical BLM layout inferred)",
+    "cell_service (spotty based on remote location)",
+    "specific gem colors and sizes (inferred from regional geology)"
+  ],
+  "enriched_at": "2026-04-21T19:07:02.992Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:12.256Z"
+}

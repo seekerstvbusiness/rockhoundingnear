@@ -1,0 +1,60 @@
+{
+  "slug": "cornwall-wallkill-river-ny",
+  "name": "Cornwall (Wallkill River)",
+  "lat": 41.432618,
+  "lng": -73.988257,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Town of Cornwall",
+  "city_slug": "town-of-cornwall",
+  "county": "Orange",
+  "county_slug": "orange",
+  "geocoded_city": "Town of Cornwall",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cornwall%20(Wallkill%20River)%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cornwall%20(Wallkill%20River)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cornwall%20(Wallkill%20River)%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 601,
+      "meters": 183
+    },
+    "slope": "steep terrain",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:35:02.630Z"
+  },
+  "scraped_at": "2026-04-21T18:35:02.630Z",
+  "scrape_quality": "minimal"
+}

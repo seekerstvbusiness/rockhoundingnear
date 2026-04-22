@@ -1,0 +1,103 @@
+{
+  "slug": "tintic-mountains-ut",
+  "name": "Tintic Mountains",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Eureka",
+  "city_slug": "eureka",
+  "county": "Juab",
+  "county_slug": "juab",
+  "lat": 39.912298,
+  "lng": -112.131141,
+  "gem_types": [
+    "Gold",
+    "Silver",
+    "Quartz",
+    "Fluorite",
+    "Chalcedony"
+  ],
+  "short_description": "Historic mining district in the Tintic Mountains offering opportunities to find gold, silver, and quartz on BLM land. A moderate-difficulty site rich in mining heritage and mineral diversity.",
+  "description": "The Tintic Mountains represent one of Utah's most significant mining districts, with a rich history of precious metal extraction dating back to the 1870s. This BLM-managed area near Eureka allows recreational rockhounders to search for gold, silver, and quartz specimens in the same hills that produced millions in ore during the region's mining heyday. The geology here is dominated by Paleozoic limestone and dolomite host rocks intruded by Tertiary granitic stocks, creating ideal conditions for hydrothermal mineralization. Collectors can expect to find quartz veins, fluorite, chalcedony, and occasional small gold and silver specimens in and around old mining areas, tailings piles, and natural outcrops.\n\nThe Tintic Mountains sit at elevations between 5,000 and 6,700 feet, offering a pleasant climate during the cooler months. The terrain is semi-arid with sagebrush and scattered juniper vegetation, making access and visibility good for spotting mineral specimens. The landscape shows clear evidence of past mining activity - old roads, prospect pits, and weathered tailings provide excellent places to explore. The mineralized zones are distributed across multiple ridge systems, giving rockhounders a large area to investigate.\n\nWhile this is public BLM land open to personal collecting, the site requires moderate physical effort. Hiking distances vary from short walks to several miles depending on which mineral zones you target. The terrain is uneven with rocky footing, loose rock, and occasional steep sections. Cell service is spotty in the mountains, so carry water and inform someone of your plans. The combination of historic interest, geological diversity, and accessible public land makes Tintic a rewarding destination for rockhounds interested in both gold prospecting and general mineral collecting.",
+  "history": "The Tintic Mining District developed after gold and silver discoveries in the 1870s, becoming one of Utah's premier precious metal producers. The ore bodies formed when Tertiary-age hydrothermal fluids associated with granitic intrusions migrated through Paleozoic carbonate host rocks, precipitating gold, silver, fluorite, and silica-rich minerals in veins and replacements.",
+  "tips": "Search around old mining dumps and tailings piles where weathering has exposed fresh mineral specimens - these areas concentrate quartz, fluorite, and occasionally visible gold flakes. Bring a small magnet and hand lens to identify pyrite and distinguish magnetic minerals from non-magnetic specimens. Focus on quartz veins on ridge tops and hillsides; follow these veins downslope as they often break apart and scatter specimens across the surface. Early morning hikes avoid afternoon heat and allow you to cover more ground before fatigue sets in.",
+  "terrain_notes": "Elevations range from 5,200 to 6,700 feet with rolling to steep terrain typical of a mountain mining district. The ground is primarily exposed rock and sparse sagebrush with scattered juniper. Walking distances from parking vary from 0.5 to 3 miles depending on target areas. Footing is rocky and uneven with loose scree common on hillsides. Well-worn mining roads provide easier access to some zones, but off-road hiking is necessary to explore most productive areas.",
+  "best_season": "May - September. Higher elevation (5,200-6,700 ft) makes this area too cold and potentially snowy from October through April. Summer months offer the most comfortable conditions, though afternoon thunderstorms are possible in July-August.",
+  "written_directions": "From Eureka, head west on Main Street which becomes Spanish Fork Canyon Road. Continue for approximately 8 miles, watching for signs toward mining areas or old mine roads. Turn onto one of the well-marked mining access roads heading north or south into the Tintic Mountains. There are several BLM parking areas and pullouts along the canyon road and main access routes. The most popular access is via the old mining roads that branch off Spanish Fork Canyon Road - ask locally in Eureka for current best access points as some roads vary seasonally.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Well-maintained BLM roads and old mining roads, mostly dirt and gravel. Some sections may be rough or have washboard, suitable for passenger vehicles but higher clearance preferred for rougher branch roads.",
+  "parking_notes": "Multiple pullouts and informal parking areas along Spanish Fork Canyon Road and on mining access roads. Capacity varies; expect to find space in off-season. No developed facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or heavy equipment. Respect all posted mining claims and avoid active mining operations. Pack out all trash. Stay on established roads and trails where possible.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or sale\nNo motorized excavation or heavy equipment\nRespect posted mining claims\nAvoid active mining operations\nPack out all trash\nStay on established roads and trails",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Eureka (population ~700), approximately 8 miles southeast. Limited services; gas, food, and water available. Larger services in Spanish Fork or Payson (20-30 miles).",
+  "accessibility_notes": "Uneven rocky terrain with loose scree and steep hillsides in places. Walking distances range from 0.5 to 3 miles. No wheelchair access. Sturdy boots with good ankle support strongly recommended. Not suitable for those with significant mobility limitations.",
+  "alternative_names": [
+    "Tintic District",
+    "Tintic Mining Area"
+  ],
+  "nearest_city": "Eureka",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/tintic-mountains-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gold and silver can you find rockhounding in the Tintic Mountains near Eureka?",
+      "answer": "The Tintic Mountains are a historic gold and silver mining district where recreational collectors can find small gold flakes, silver specimens, and gold-bearing quartz veins. Most collectors find small pieces and flakes rather than large nuggets, but quartz specimens with visible gold and silver minerals are common around old mining areas and tailings."
+    },
+    {
+      "question": "Do you need a permit to rockhound on BLM land in Utah's Tintic Mountains?",
+      "answer": "No permit is required for recreational rockhounding on the Tintic Mountains BLM land. You can collect for personal use up to 25 lbs per day under FLPMA regulations. No fee is charged, but commercial collection and motorized excavation are prohibited."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Tintic Mountains?",
+      "answer": "May through September is best. The Tintic Mountains sit at 5,200-6,700 feet elevation, making winters cold and potentially snowy. Summer offers comfortable hiking conditions, though afternoon thunderstorms can occur in July and August. Avoid October through April when snow and cold limit access."
+    },
+    {
+      "question": "Is the Tintic Mountains rockhounding site good for beginners and families?",
+      "answer": "Yes, the Tintic Mountains are beginner and family friendly. Multiple access points range from short 0.5-mile walks to longer 3-mile hikes. The BLM land is open to all skill levels, and kids age 8+ can participate. The historic mining heritage and visible mineral specimens make it educational and engaging."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at Tintic Mountains?",
+      "answer": "Bring a small hand pick or chisel, hand lens or jeweler's loupe, magnet to identify magnetic minerals, and sturdy hiking boots for rocky terrain. Carry plenty of water, sunscreen, and a hat. A 25-lb bucket or pack helps stay within daily limits. A camera is useful for documenting specimens and the historic mining landscape."
+    },
+    {
+      "question": "Where exactly should you search for quartz and fluorite at Tintic Mountains?",
+      "answer": "Focus on old mining tailings piles and dumps, which concentrate weathered mineral specimens. Follow exposed quartz veins on ridge tops and hillsides downslope where specimens scatter. The higher elevations (above 6,000 feet) often have more visible mineralization. Avoid active mining claims and always respect posted property."
+    }
+  ],
+  "meta_title": "Tintic Mountains Rockhounding - Utah Gold & Silver",
+  "meta_description": "Find gold, silver, and quartz at Tintic Mountains near Eureka, Utah. BLM land, no permit needed. Historic mining district with great geology.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T06:51:01.971Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:57:38.774Z"
+}

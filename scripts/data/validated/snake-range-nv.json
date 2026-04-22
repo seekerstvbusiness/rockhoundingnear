@@ -1,0 +1,97 @@
+{
+  "slug": "snake-range-nv",
+  "name": "Snake Range",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Ely",
+  "city_slug": "ely",
+  "county": "White Pine",
+  "county_slug": "white-pine",
+  "lat": 39.209842,
+  "lng": -114.079182,
+  "gem_types": [
+    "Quartz",
+    "Calcite",
+    "Fluorite",
+    "Beryl"
+  ],
+  "short_description": "BLM public land in Nevada's Snake Range offers free rockhounding for quartz, calcite, and fluorite in high-elevation terrain. Personal use collecting with a 25 lb daily limit.",
+  "description": "The Snake Range is a spectacular north-south trending mountain range in White Pine County, Nevada, offering excellent rockhounding opportunities on public BLM land. This region sits at the heart of the Basin and Range province and features exposed mineral veins from ancient hydrothermal systems. The range is renowned among collectors for clear quartz crystals, fluorite specimens, and calcite formations found in alpine meadows and rocky outcrops. The gentle slopes and accessible high-elevation terrain make this a rewarding destination for both beginners and experienced rockhounders. The Snake Range's diverse geology reflects millions of years of tectonic activity and mineralization, creating pockets of exceptional specimens throughout the range.\n\nThe geology here is dominated by Precambrian metamorphic rocks and Paleozoic carbonates intruded by granitic bodies during the Cretaceous. These interactions created the ideal conditions for fluorite and beryl mineralization. Quartz veins cross-cut the metamorphic basement and often contain well-formed crystals. The high elevation (around 5904 ft at popular collecting areas) means the terrain is relatively open with sparse pinyon-juniper woodland, making mineral outcrops easy to spot.\n\nCollecting in the Snake Range is straightforward and rewarding. The BLM allows personal use collection of up to 25 lbs per day with no permit required. Most collectors focus on rocky hillsides and the bases of outcrops where weathering has exposed fresh mineral material. The relatively gentle slope makes hiking to productive zones manageable even for moderate hikers. Afternoon thunderstorms are common in summer, so early morning starts are recommended. Water and services are limited nearby, so bring plenty of supplies.\n\nThe best finds typically occur in areas with visible quartz veins or where alpine vegetation has been cleared by natural processes. Look for white, purple, or green specimens in feldspar-rich zones. The combination of high elevation, low competition, and productive mineralization makes the Snake Range one of Nevada's best-kept rockhounding secrets.",
+  "history": "The Snake Range formed during the Sevier and Laramide orogenies, with Precambrian metamorphic cores uplifted through Basin and Range extension during the Cenozoic. Cretaceous granitic intrusions interacted with Paleozoic carbonate host rocks to create extensive fluorite, beryl, and quartz mineralization that persists today.",
+  "tips": "Focus your search on rocky ridgetops and the bases of exposed outcrops where quartz veins cross-cut the lighter-colored metamorphic and granitic host rock. Use a small hand lens to identify fluorite (purple, green, or colorless with perfect octahedral cleavage) and beryl (hexagonal crystals, often light green to blue). Bring a small chisel or pry bar to carefully extract specimens from softer host rock, and always check for stability before striking outcrop faces. Start early in the day to avoid afternoon thunderstorms common at this elevation.",
+  "terrain_notes": "The collecting area sits at approximately 5904 ft elevation with gentle to moderate slopes covered in sparse pinyon-juniper woodland. Open rocky ridges and outcrops are scattered throughout, with walking distances from parking ranging from 0.5 to 3 miles depending on target area. Footing is stable on established trails but rocky in outcrop zones; sturdy hiking boots are essential. The terrain is generally accessible but requires moderate hiking ability.",
+  "best_season": "June - September. High elevation means heavy snow closes access November through May. Summer weather is mild at elevation, though afternoon thunderstorms are common July-August. Early morning collecting before storms is recommended.",
+  "written_directions": "From Ely, Nevada, take US 50 east for approximately 25 miles toward the Nevada-Utah border. Look for BLM access roads and pullouts along US 50 on the north side of the Snake Range. Popular collecting areas are accessible via informal dirt roads branching north from US 50. GPS coordinates (39.209842, -114.079182) point to a productive zone; park at road pullouts and hike to nearby outcrops. High-clearance vehicles recommended for some side roads, but passenger cars can reach main BLM access points.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved US 50 provides primary access. Secondary BLM roads are unpaved dirt with possible washboard in wet seasons. High-clearance recommended but not required for main collecting zones.",
+  "parking_notes": "Informal pullouts along US 50 and BLM roads. No developed parking area; park safely off roadway. Limited capacity but rarely crowded.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or blasting. No collection of protected or regulated minerals. Leave the land as you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation or blasting\nNo protected mineral species\nLeave land undisturbed",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "heat",
+    "flash_floods",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Ely, Nevada, approximately 25-35 miles west on US 50. Full services including gas, food, lodging, and water. Nearest smaller services (Spencer Hot Springs area) approximately 15 miles west.",
+  "accessibility_notes": "Moderate hiking terrain with elevation gain up to several hundred feet from parking to productive outcrops. Rocky footing on outcrop zones; not wheelchair accessible. Sturdy hiking boots required. Hiking distances range from 0.5 to 3 miles depending on chosen area. High elevation (5900+ ft) may require acclimatization. Suitable for hikers with basic to moderate fitness.",
+  "alternative_names": [],
+  "nearest_city": "Ely",
+  "nearest_city_distance": 28,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/snake-range-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding in the Snake Range, Nevada?",
+      "answer": "The Snake Range is known for clear quartz crystals, purple and green fluorite, calcite specimens, and beryl. Quartz is the most abundant and easiest to find, while fluorite specimens with perfect crystal form are the prize finds. Collectors also report amethyst, smoky quartz, and occasional mineral combinations. Most specimens are found in rocky outcrops and quartz vein zones throughout the range."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Snake Range, Nevada?",
+      "answer": "No permit is required for personal use rockhounding on BLM land at the Snake Range. Collection is free and open to the public year-round, though access is limited by weather and snow at this high elevation. You simply need to follow the 25 lb per day limit per FLPMA regulations and leave the land undisturbed."
+    },
+    {
+      "question": "What is the best season to rockhound near Ely, Nevada at the Snake Range?",
+      "answer": "The best season is June through September. High elevation (5900+ ft) means heavy snow blocks access November through May. Summer weather is mild, though afternoon thunderstorms are common July-August, so start collecting early in the day. Spring (May) and fall (September-October) offer decent weather with lower storm risk."
+    },
+    {
+      "question": "How far is Snake Range rockhounding from Ely, Nevada and what roads are needed?",
+      "answer": "Snake Range is approximately 25-28 miles east of Ely on US 50. The highway is paved and well-maintained. From US 50, BLM access roads branch north into the range; these are unpaved dirt roads suitable for passenger vehicles, though high-clearance is helpful. Most main collecting zones are within 0.5 to 3 miles of pullouts."
+    },
+    {
+      "question": "Is Snake Range rockhounding good for beginners and families?",
+      "answer": "Yes, the Snake Range is beginner-friendly with moderate hiking on gentle slopes and clearly visible mineral outcrops. The 25 lb personal use limit and free access make it accessible to families. Kids ages 8 and up can participate. The main challenge is high elevation and afternoon thunderstorms; beginners should start on lower-elevation zones closer to US 50 and hike early in the day."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding in the Snake Range?",
+      "answer": "Bring a small chisel, pry bar, or hammer for specimen extraction. A hand lens helps identify fluorite and beryl. Wear sturdy hiking boots for rocky terrain. Pack plenty of water (high elevation dehydrates quickly), sunscreen, and a hat. Bring a backpack or collection bag for specimens. Since services are 25+ miles away in Ely, arrive with a full tank of gas and snacks. A small geological map or GPS is helpful for navigation."
+    }
+  ],
+  "meta_title": "Snake Range Rockhounding - Nevada Quartz & Fluorite",
+  "meta_description": "Free BLM rockhounding for quartz, fluorite, and calcite near Ely, Nevada. High-elevation gems, no permit required, 25 lb daily limit. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - no specific source given; inferred from typical Snake Range finds and regional mineralogy",
+    "nearest_city - Ely is closest named city; White Pine County is too broad for directions",
+    "road_conditions - no specific road name provided in terrain data; inferred from BLM standard road conditions"
+  ],
+  "enriched_at": "2026-04-22T06:43:42.525Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:48:02.311Z"
+}

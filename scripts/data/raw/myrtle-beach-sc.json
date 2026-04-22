@@ -1,0 +1,60 @@
+{
+  "slug": "myrtle-beach-sc",
+  "name": "Myrtle Beach",
+  "lat": 33.687874,
+  "lng": -78.882174,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "Myrtle Beach",
+  "city_slug": "myrtle-beach",
+  "county": "Horry",
+  "county_slug": "horry",
+  "geocoded_city": "Myrtle Beach",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Myrtle%20Beach%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Myrtle%20Beach",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Myrtle%20Beach%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4,
+      "meters": 1
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:58:31.684Z"
+  },
+  "scraped_at": "2026-04-21T17:58:31.684Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "kujulik-bary-ak",
+  "name": "Kujulik Bary",
+  "lat": 56.685225,
+  "lng": -157.767007,
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "state_code": "AK",
+  "city": "Lake and Peninsula Borough",
+  "city_slug": "lake-and-peninsula-borough",
+  "county": "Lake and Peninsula Borough",
+  "county_slug": "lake-and-peninsula-borough",
+  "geocoded_city": "Lake and Peninsula Borough",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-alaska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Kujulik%20Bary%20Alaska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Kujulik%20Bary",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Kujulik%20Bary%20Alaska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:17:51.965Z"
+  },
+  "scraped_at": "2026-04-21T18:17:51.965Z",
+  "scrape_quality": "minimal"
+}

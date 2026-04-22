@@ -1,0 +1,60 @@
+{
+  "slug": "chesapeake-bay-md",
+  "name": "Chesapeake Bay",
+  "lat": 38.44769,
+  "lng": -76.454781,
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "state_code": "MD",
+  "city": "Calvert County",
+  "city_slug": "calvert-county",
+  "county": "Calvert",
+  "county_slug": "calvert",
+  "geocoded_city": "Long Beach",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maryland.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chesapeake%20Bay%20Maryland"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chesapeake%20Bay",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chesapeake%20Bay%20Maryland"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3,
+      "meters": 1
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:34:35.716Z"
+  },
+  "scraped_at": "2026-04-21T17:34:35.716Z",
+  "scrape_quality": "minimal"
+}

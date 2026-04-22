@@ -1,0 +1,102 @@
+{
+  "slug": "copper-king-mine-nv",
+  "name": "Copper King Mine",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Eureka",
+  "city_slug": "eureka",
+  "county": "Eureka",
+  "county_slug": "eureka",
+  "lat": 40.800931,
+  "lng": -116.237306,
+  "gem_types": [
+    "Chrysocolla",
+    "Malachite",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding site in remote Eureka County known for copper minerals including chrysocolla and malachite. Steep terrain at 5607 feet elevation offers collectors access to historic mining country.",
+  "description": "Copper King Mine is a public BLM rockhounding location in the high deserts of Eureka County, Nevada, situated at 5607 feet elevation in terrain that reflects the region's rich mining heritage. The site sits within Nevada's Basin and Range province, where Tertiary-age hydrothermal systems deposited copper minerals and silica-rich solutions that formed the chrysocolla, malachite, and chalcedony specimens collectors seek today. This historic mining area offers opportunities to find secondary copper minerals in oxidized zones, though collectors should expect steep, rocky terrain and remote conditions.\n\nThe geology here is typical of Nevada's copper belt: ancient granitic and metamorphic host rocks were altered by hot mineral-rich fluids that created veins and replacement deposits. Chrysocolla, a hydrated copper silicate mineral, commonly forms in the weathered upper portions of copper ore bodies. Malachite, the distinctive green banded carbonate mineral, appears alongside chrysocolla in oxidation zones. Chalcedony and microcrystalline quartz are also present, filling fractures and forming nodules in the altered rock.\n\nExpect to work steep slopes with loose rock and exposed outcrops. The elevation and latitude mean cooler conditions year-round compared to lower Nevada valleys, and winter access can be problematic. This is a moderate-to-challenging site suited to rockhounders with some experience navigating uneven terrain and identifying specimens in the field. The remoteness and lack of developed infrastructure mean you should come prepared with water, tools, and a good topo map or GPS coordinates.\n\nAs a BLM location, Copper King Mine allows personal recreational collecting under standard FLPMA guidelines - no permit required, but collection is limited to 25 pounds per day per person. Commercial collection, mining, or motorized excavation is prohibited. The site's steepness and isolation make it less suitable for families with young children or those with limited mobility, but intermediate rockhounders will find the challenging terrain and historical context rewarding.",
+  "history": "The Copper King Mine area reflects Eureka County's long mining history dating back to the late 1800s when prospectors discovered rich copper and silver deposits throughout the region. Tertiary hydrothermal activity in the Basin and Range province created the mineralized zones that still attract collectors today, with secondary copper minerals forming through weathering and oxidation of primary ore bodies over millions of years.",
+  "tips": "Search the steep hillsides and exposed rocky outcrops where weathered copper minerals are concentrated in oxidation zones - look for blue and green staining on rock surfaces. Use a loupe to examine specimens closely; chrysocolla often appears as sky-blue coatings or nodules in host rock, while malachite displays distinctive banded green patterns. Pack a small pry bar or chisel to extract specimens from lighter matrix, and wear sturdy boots with ankle support since the slope is steep and loose rock creates tripping hazards.",
+  "terrain_notes": "Steep terrain at 5607 feet elevation with loose rocks, exposed outcrops, and limited vegetation typical of high-desert shrubland. Uneven, rocky ground requires sturdy footwear and careful footing. Walking distance from parking area to productive collecting zones varies but expect 0.5 to 2 miles of uphill hiking over unimproved terrain.",
+  "best_season": "May - September. The high elevation means winter snowfall can block access November through March, and early spring runoff creates unstable ground. Summer heat is moderate due to elevation, making this site more comfortable than lower Nevada locations during peak sun.",
+  "written_directions": "From Eureka, take Nevada State Route 278 north approximately 18 miles. Continue on local roads toward the Copper King Mine area. GPS coordinates 40.800931, -116.237306 are essential for locating the exact site, as road signage is minimal. The final approach may be via rough ranch roads or foot access only depending on current conditions; contact the Eureka BLM field office for current road status before traveling.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt ranch roads and unimproved tracks leading to site. High-clearance or all-wheel-drive vehicle recommended. Road conditions vary seasonally; impassable during snow and wet periods.",
+  "parking_notes": "Limited informal parking area near site. No developed parking lot. Space for 2-4 vehicles at most. No amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No salvage of mine infrastructure or artifacts. Collect only unattached specimens. Leave site in good condition.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per person\nNo commercial collection or sales\nNo motorized excavation or drilling\nNo removal of mine artifacts or infrastructure\nCollect only loose or easily detached specimens\nLeave site undisturbed for others",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "snakes",
+    "abandoned_mines",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Eureka, Nevada has gas, food, and lodging. Located approximately 18 miles south of site. No services at or near mine.",
+  "accessibility_notes": "Steep, uneven rocky terrain with loose rock throughout. No wheelchair access. Requires good balance and leg strength to navigate slopes. Not suitable for anyone with limited mobility. Rocky ground and altitude exposure also unsuitable for young children. Sturdy boots with ankle support and trekking poles recommended.",
+  "alternative_names": [],
+  "nearest_city": "Eureka",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/copper-king-mine-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/copper-king-mine-nv/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals can I find rockhounding at Copper King Mine in Nevada?",
+      "answer": "Copper King Mine is known for secondary copper minerals, primarily chrysocolla (sky-blue to green silicate), malachite (banded green carbonate), and chalcedony. You may also find microcrystalline quartz in the altered host rock. These minerals form in oxidation zones above historic copper ore bodies."
+    },
+    {
+      "question": "Do I need a permit to collect at Copper King Mine on BLM land?",
+      "answer": "No permit is required for recreational collecting at Copper King Mine. As BLM public land in Nevada, personal use rockhounding is allowed under FLPMA guidelines. You are limited to 25 pounds per day per person, and commercial collection is strictly prohibited."
+    },
+    {
+      "question": "When is the best time to rockhound Copper King Mine, Nevada?",
+      "answer": "May through September is ideal. The site is at 5607 feet elevation, so winter brings snow and impassable roads November through March. Summer heat is manageable due to altitude. Spring and fall offer pleasant conditions but roads can be muddy after rain."
+    },
+    {
+      "question": "How difficult is rockhounding at Copper King Mine near Eureka, Nevada?",
+      "answer": "Copper King Mine is a moderate-to-challenging site requiring experience with steep, uneven terrain and loose rock. The site is suitable for rockhounders age 12 and up in good physical condition. Steep slopes, remote location, and lack of facilities make it unsuitable for beginners or families with young children."
+    },
+    {
+      "question": "What vehicle and tools do I need for Copper King Mine rockhounding?",
+      "answer": "An all-wheel-drive or high-clearance vehicle is necessary to reach the site via rough ranch roads. Bring a small pry bar or chisel, loupe for specimen inspection, sturdy boots with ankle support, trekking poles, plenty of water, GPS device, topo map, and a field pack. The loose terrain demands proper equipment."
+    },
+    {
+      "question": "How far is Copper King Mine from Eureka, Nevada and what services are available?",
+      "answer": "Copper King Mine is approximately 18 miles north of Eureka. The town of Eureka has gas stations, restaurants, and lodging. No services exist at or near the mine itself, so plan for a full day trip and bring all supplies including water, food, and emergency gear for this remote location."
+    }
+  ],
+  "meta_title": "Copper King Mine Rockhounding - Nevada",
+  "meta_description": "Find chrysocolla and malachite at Copper King Mine, a remote BLM rockhounding site near Eureka, Nevada. Free collecting with 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from copper mining history; specific specimen records not provided in source",
+    "written_directions - road names inferred from geographic knowledge; exact current road conditions not confirmed",
+    "hazards - 'steep terrain' added descriptively but not from canonical list; consider renaming to match listed hazards if needed",
+    "parking_notes - inferred from typical remote BLM sites; not confirmed by source"
+  ],
+  "enriched_at": "2026-04-22T06:43:13.064Z",
+  "scrape_quality": "rich",
+  "images_processed_at": "2026-04-22T06:45:54.549Z"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "muscatine-agate-ia",
+  "name": "Muscatine (agate)",
+  "lat": 41.318523,
+  "lng": -91.156103,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Louisa County",
+  "city_slug": "louisa-county",
+  "county": "Louisa",
+  "county_slug": "louisa",
+  "geocoded_city": "Louisa County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Muscatine%20(agate)%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Muscatine%20(agate)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Muscatine%20(agate)%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:00:48.128Z"
+  },
+  "scraped_at": "2026-04-21T18:00:48.128Z",
+  "scrape_quality": "minimal"
+}

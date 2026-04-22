@@ -1,0 +1,104 @@
+{
+  "slug": "virginia-city-mt",
+  "name": "Virginia City",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Madison County Area",
+  "city_slug": "madison-county",
+  "county": "Madison",
+  "county_slug": "madison",
+  "lat": 45.275789,
+  "lng": -111.951194,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "Historic mining area on BLM land near Virginia City offering opportunities to find quartz, agate, and jasper along exposed rock faces and washes. No permit required for personal use collecting.",
+  "description": "Virginia City sits in the heart of Montana's Madison County mining district at 6,816 feet elevation, where gentle slopes and historic mining activity have exposed rich mineral-bearing geological formations. This BLM-managed area is accessible for recreational rockhounding and attracts collectors seeking quality quartz specimens, colorful agates, and jasper deposits formed during the region's extensive Tertiary volcanic and hydrothermal activity.\n\nThe geology here reflects the Basin and Range province's characteristic mineralization. During the Miocene epoch, silica-rich hydrothermal fluids moved through fractured rock, depositing quartz and chalcedony that filled cavities and formed the nodules and veins rockhounders seek today. The gentle slopes make access relatively straightforward, and exposed outcrops along washes and hillsides reveal fresh material after seasonal runoff.\n\nWhat makes Virginia City unique is the blend of accessibility and productive collecting ground. The area supports part-time and weekend rockhounders equally well, with material visible on the surface and in exposed banks without extensive digging required. The surrounding landscape offers scenic views across the Madison Range while you search.\n\nBring sturdy footwear for uneven terrain and plan to work systematically through washes and rocky slopes where material naturally concentrates. The elevation means weather can shift quickly, so bring layers even in summer months. Spring runoff exposes fresh material in creek channels, making April and May particularly productive.",
+  "history": "Virginia City developed as a major gold and silver mining hub during the 1860s-1890s, with miners expositing quartz veins and hydrothermal deposits throughout the district. The area's mineralization began during Miocene volcanic activity (roughly 30 million years ago) when hot silica-rich fluids circulated through fractured granite and metamorphic rock, depositing the quartz, chalcedony, and colored minerals that rockhounders find today.",
+  "tips": "Search along creek washes and in the banks of seasonal drainages where erosion naturally exposes fresh quartz and agate material - look for white, milky, or translucent chunks among other rocks. Use a crack hammer or chisel to carefully extract specimens from exposed outcrops and veins in hillside exposures; many quality pieces separate cleanly from host rock. Hunt for agate with banding, color variation, or translucent qualities rather than plain gray material - the best specimens often show some color when backlit. Work methodically through upper-elevation areas (6,500-7,000 feet) where Miocene hydrothermal activity was concentrated.",
+  "terrain_notes": "Elevation 6,816 feet with gentle slopes and exposed rocky terrain. Scattered vegetation typical of high-elevation Montana grassland mixed with small stands of pine and aspen. Walking distance from parking areas generally 0.5 to 2 miles across uneven rocky ground and washes. Footing is moderate with loose rock common; sturdy hiking boots strongly recommended. Some areas feature recent erosion gullies and small drops requiring careful footing.",
+  "best_season": "June - September. High elevation location receives significant snow and afternoon thunderstorms in other months. Summer offers the longest daylight and most stable weather for searching exposed slopes. Late June through August provides optimal conditions; avoid May early season wet conditions and September cold snaps.",
+  "written_directions": "From the town of Virginia City (approximately 3 miles southeast), head northeast on FS Road 1039 or local BLM access roads toward the historic mining areas. GPS navigation to 45.275789, -111.951194 is recommended. Look for pullouts near exposed rock outcrops and creek washes. The gentle slopes mean most productive areas lie within a short walk of road access. Passenger vehicles can reach main parking areas; high-clearance vehicles recommended for rough branch roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mix of maintained dirt roads and rougher branch tracks. Main access roads passable for passenger vehicles in summer; some branch roads may require high-clearance vehicles. No washboard on primary routes, but ruts and loose gravel common after rain.",
+  "parking_notes": "Multiple informal pullouts along access roads near productive collecting areas. No developed parking lot; expect natural dirt pull-offs accommodating 3-5 vehicles per location. Park well off road to allow passage.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or heavy equipment. Remove only loose or easily detached material; do not blast or create new diggings. Pack out all trash and leave the area in better condition than you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo blasting or dynamite\nNo heavy equipment or mechanical digging\nRemove only loose or easily detached specimens\nPack out all trash\nLeave no new excavations",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "cold",
+    "remote",
+    "cliffs"
+  ],
+  "nearest_services": "Virginia City (3 miles) has limited services; Ennis, Montana (approximately 15 miles) offers gas, food, lodging, and supplies. Madison County regional services in Sheridan (20 miles).",
+  "accessibility_notes": "Relatively flat to gently sloping terrain with moderate uneven rocky ground. No wheelchair access to productive collecting areas. Sturdy hiking boots required for loose rock and erosion gullies. Hiking distances of 0.5 to 2 miles from parking. Terrain manageable for most hikers in reasonable physical condition; not suitable for limited mobility or those requiring paved surfaces.",
+  "alternative_names": [
+    "Madison County Rockhounding Area",
+    "Virginia City Mining District"
+  ],
+  "nearest_city": "Virginia City",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/virginia-city-mt/cover.png",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/virginia-city-mt/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/virginia-city-mt/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/virginia-city-mt/mineral-3-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Virginia City, Montana?",
+      "answer": "Virginia City BLM land is productive for quartz specimens, colorful agates, jasper, and chalcedony. Milky white quartz is most common, but look for specimens with color banding, translucence, or interesting formations. Many pieces concentrate in creek washes where seasonal runoff naturally exposes fresh material."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Virginia City, Montana on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Virginia City. BLM land allows personal use collection under FLPMA rules with no fees. You only need to follow collection limits: 25 lbs per day, personal use only, no commercial activity, and no motorized excavation."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Virginia City?",
+      "answer": "June through September is optimal. The area sits at 6,816 feet elevation and receives heavy snow and thunderstorms other months. Late June through August provides the longest daylight and most stable weather. Spring snowmelt (April-May) exposes fresh material in washes but weather is unpredictable."
+    },
+    {
+      "question": "How far is Virginia City rockhounding from town and is a 4x4 required?",
+      "answer": "Virginia City is only 3 miles from the main town. A regular passenger vehicle can reach most productive areas on maintained dirt roads; high-clearance vehicles help access rougher branch roads. Most collecting spots lie within an easy 0.5 to 2 mile walk from parking pullouts."
+    },
+    {
+      "question": "Is Virginia City Montana rockhounding suitable for kids and families?",
+      "answer": "Yes, absolutely. The gentle slopes, nearby parking, and easily accessible material make it ideal for families. Kids ages 6 and up can effectively hunt quartz and agate with basic tools like a crack hammer. The scenic area and short walking distances make it manageable for varying fitness levels."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Virginia City?",
+      "answer": "Bring a crack hammer or small chisel to extract specimens from exposed outcrops, sturdy hiking boots for uneven terrain, water and snacks, sun protection, and a backpack to carry your 25 lb daily limit. A hand lens or magnifying glass helps identify quality agates. Dress in layers since afternoon weather changes quickly at this elevation."
+    }
+  ],
+  "meta_title": "Virginia City Rockhounding - Montana BLM",
+  "meta_description": "Find quartz, agate, and jasper at Virginia City, Montana on BLM land. No permit required, 25 lbs/day limit. Easy access near town.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "cell_service",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-21T19:06:19.877Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:08:46.906Z"
+}

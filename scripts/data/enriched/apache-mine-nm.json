@@ -1,0 +1,98 @@
+{
+  "slug": "apache-mine-nm",
+  "name": "Apache Mine",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Lordsburg",
+  "city_slug": "lordsburg",
+  "county": "Hidalgo",
+  "county_slug": "hidalgo",
+  "lat": 31.84476,
+  "lng": -108.305319,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate"
+  ],
+  "short_description": "BLM rockhounding site in southwestern New Mexico offering Quartz, Chalcedony, and Agate specimens. Free, personal-use collecting on public land with flat terrain and easy access.",
+  "description": "Apache Mine is a public BLM rockhounding location in Hidalgo County's high desert terrain, situated at 4,737 feet elevation near the Arizona-New Mexico border. This site provides free recreational collecting opportunities for Quartz, Chalcedony, and Agate specimens typical of the Basin and Range province geology. The relatively flat terrain makes it accessible to rockhounders of varying skill levels, with parking pullouts and walking distances suitable for casual family collecting trips. The area's clear, dry climate and open landscape allow efficient surface collecting and scanning for exposed mineral specimens. This location follows standard BLM recreational use guidelines, making it ideal for beginners learning rockhounding basics and families seeking affordable outdoor mineral collecting experiences.\n\nThe Apache Mine area sits within the Mogollon Highland region, where extensive Tertiary-age volcanism and hydrothermal activity deposited silica-rich minerals throughout the local geology. Volcanic ash flows and tuffs were later altered by hot springs and groundwater circulation, concentrating Quartz and Chalcedony minerals in vugs, fractures, and weathered zones. The arid Southwest climate has exposed these mineral-bearing rocks at the surface, making them available for surface collecting without excavation.\n\nVisitors should expect wide-open desert vistas with scattered rocks and sparse vegetation typical of the Chihuahuan Desert transition zone. The flat slope reduces fatigue and makes specimen transport manageable. Surface weathering has broken down many rocks, creating ideal conditions for finding loose specimens and fragments. Early morning or late afternoon visits provide the best lighting for spotting translucent and banded Agate and Chalcedony specimens against darker host rock.\n\nRespect for public land stewardship is essential here. Pack out all trash, stay within the rockhounding zone, and leave the landscape intact for future visitors. The straightforward BLM rules and lack of permit requirements make Apache Mine an excellent destination for anyone new to rockhounding in the Southwest.",
+  "history": "This region lies within the Basin and Range province, where Tertiary-age volcanic activity (roughly 30-15 million years ago) deposited rhyolite tuffs and associated silica-rich fluids that created the Quartz and Chalcedony deposits found here. Historic prospecting and small-scale mining operations throughout Hidalgo County sought copper and other economic minerals, but the area remains open for recreational rockhounding today.",
+  "tips": "Search across the flat washes and between scattered rock outcrops where weathering has exposed light-colored Quartz and Chalcedony specimens. Look for banded or translucent pieces with white, gray, or amber coloring - these often indicate higher-quality Agate and Chalcedony fragments. A 5-gallon bucket and hand tools like a small pick or rock hammer help extract specimens from decomposed matrix, but many loose pieces are already surface-available. Scan the ground systematically moving upslope to downslope, as gravity naturally concentrates heavier specimens in drainage areas.",
+  "terrain_notes": "Elevation 4,737 feet on flat to gently rolling high desert terrain. Sparse creosote and desert shrub vegetation typical of the Chihuahuan Desert. Well-developed dirt roads and pullouts provide parking within short walking distance (typically under 0.5 miles) of productive collecting areas. Ground surface is mostly firm packed dirt and small angular rocks - hiking boots or sturdy shoes recommended. No shade structures present; sun exposure is intense during midday hours.",
+  "best_season": "October - April. Winter temperatures in the high desert are mild (40-60 F), providing comfortable collecting conditions. May through September brings intense heat (90-110 F) and occasional afternoon thunderstorms that can create flash-flood hazards in washes. Early morning starts in autumn and spring provide the most pleasant working conditions.",
+  "written_directions": "From Lordsburg, take US 70 east for approximately 12 miles toward the Arizona border. Turn left (north) onto a marked BLM access road; signs and terrain data indicate the turnoff is roughly 2 miles past the Hidalgo-Lordsburg area boundary. Follow the dirt road north for about 3 miles, staying on main track. Look for BLM rockhounding zone markers and park at one of several pullouts. The Apache Mine site lies within walking distance of these parking areas on relatively flat terrain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Well-maintained BLM dirt road, generally passable to standard passenger vehicles in dry conditions. May become impassable during heavy rain. No high-clearance requirement under normal circumstances.",
+  "parking_notes": "Multiple informal pullouts along the main BLM access road near the rockhounding zone. Capacity is typically 3-5 vehicles per pullout. No established parking lot; standard dispersed camping rules apply on BLM land.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or sale of specimens. No motorized excavation or heavy equipment. Collect only loose or naturally weathered specimens; do not hammer at solid outcrops or remove matrix rock. Pack out all trash and respect the landscape. Stay within designated rockhounding area.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only, no commercial collection\nMaximum 25 lbs per day per FLPMA\nNo motorized excavation or heavy equipment\nNo hammering at solid outcrops\nLeave all trash at parking area or pack out\nRespect all BLM signage and stay in designated zones",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "flash_floods"
+  ],
+  "nearest_services": "Lordsburg, approximately 12 miles south on US 70, offers gas stations, restaurants, lodging, and water refill stations.",
+  "accessibility_notes": "Flat, firm-packed terrain accessible to most hikers and casual rockhounders. No wheelchair access to the rockhounding zone itself, though parking pullouts are adjacent to accessible areas. Minimal elevation gain. Sturdy hiking boots or work shoes recommended to protect feet from scattered angular rocks. The open landscape and lack of obstacles make this site suitable for families with young children and those with limited mobility who can walk short distances.",
+  "alternative_names": [],
+  "nearest_city": "Lordsburg",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/apache-mine-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/apache-mine-nm/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding at Apache Mine near Lordsburg, New Mexico?",
+      "answer": "Apache Mine is known for Quartz, Chalcedony, and Agate specimens. The Tertiary volcanic geology and hydrothermal alteration in this part of Hidalgo County created ideal conditions for silica-rich minerals. You will find translucent to opaque pieces ranging from small fragments to hand-sized specimens, often featuring white, gray, or amber banding typical of desert Agate and Chalcedony."
+    },
+    {
+      "question": "Is rockhounding at Apache Mine free, and do I need a permit?",
+      "answer": "Yes, rockhounding at Apache Mine is completely free. No permit is required for recreational collecting on BLM public land in New Mexico. You may collect up to 25 lbs per day for personal use only under FLPMA guidelines. This makes Apache Mine one of the most accessible and affordable rockhounding sites in southwestern New Mexico."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Apache Mine?",
+      "answer": "October through April is ideal. Winter temperatures in the high desert (40-60 F) are mild and comfortable for outdoor collecting. Summer heat (90-110 F) is intense, and afternoon thunderstorms from May through September can trigger flash floods in washes. Early morning starts in autumn provide the best conditions."
+    },
+    {
+      "question": "Is Apache Mine beginner-friendly for first-time rockhounders?",
+      "answer": "Absolutely. Apache Mine is an excellent beginner site. The flat terrain requires no technical skills, permits are not needed, and the $0 fee removes financial barriers. You can surface-collect specimens without heavy equipment, making it perfect for learning basic rockhounding techniques. The open landscape makes it easy to spot specimens against the background."
+    },
+    {
+      "question": "Can I take my family and dog rockhounding at Apache Mine?",
+      "answer": "Yes, Apache Mine welcomes families and dogs. The flat, open terrain is safe and accessible for children ages 6 and up. Dogs are welcome on BLM public land but must be under control. The mild winter climate and short walking distances from parking make it ideal for family outings. There is no shade, so bring water and sun protection."
+    },
+    {
+      "question": "What tools and supplies do I need to rockhound at Apache Mine?",
+      "answer": "For Apache Mine, bring a 5-gallon bucket, a small hand pick or rock hammer, work gloves, and sturdy boots. A loupe or hand lens helps identify Chalcedony and Agate features. Since there is no shade or water nearby, pack a hat, sunscreen, plenty of water, and snacks. A GPS or map helps navigate the BLM access roads from Lordsburg (12 miles north on US 70)."
+    }
+  ],
+  "meta_title": "Apache Mine Rockhounding - New Mexico",
+  "meta_description": "Free BLM rockhounding at Apache Mine near Lordsburg, NM. Find Quartz, Chalcedony, and Agate. No permit required, 25 lbs/day limit. Easy family-friendly collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city",
+    "nearest_city_distance",
+    "written_directions",
+    "cell_service",
+    "remoteness_rating"
+  ],
+  "enriched_at": "2026-04-22T10:17:25.825Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:18:11.399Z"
+}

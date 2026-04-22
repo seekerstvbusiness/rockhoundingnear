@@ -1,0 +1,60 @@
+{
+  "slug": "crawford-fairburn-area-ne",
+  "name": "Crawford (Fairburn area)",
+  "lat": 42.704483,
+  "lng": -103.404348,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Dawes County",
+  "city_slug": "dawes-county",
+  "county": "Dawes",
+  "county_slug": "dawes",
+  "geocoded_city": "Dawes County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Crawford%20(Fairburn%20area)%20Nebraska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Crawford%20(Fairburn%20area)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Crawford%20(Fairburn%20area)%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3615,
+      "meters": 1102
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:59:12.522Z"
+  },
+  "scraped_at": "2026-04-21T16:59:12.522Z",
+  "scrape_quality": "minimal"
+}

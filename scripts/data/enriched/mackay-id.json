@@ -1,0 +1,103 @@
+{
+  "slug": "mackay-id",
+  "name": "Mackay",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Custer County Area",
+  "city_slug": "custer-county",
+  "county": "Custer",
+  "county_slug": "custer",
+  "lat": 43.8902,
+  "lng": -113.67457,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper",
+    "Obsidian"
+  ],
+  "short_description": "BLM rockhounding near Mackay in the Lost River Range. Find quartz, chalcedony, and agate specimens on public land at 7,859 feet elevation.",
+  "description": "The Mackay area in Custer County offers excellent public rockhounding opportunities on Bureau of Land Management (BLM) land in the Lost River Range of central Idaho. This high-elevation site sits at nearly 8,000 feet, providing cool-season collecting in a geologically rich region known for Tertiary volcanic activity and silica mineralization.\n\nThe landscape around Mackay reflects the Basin and Range geology of central Idaho. Miocene-age volcanic deposits and silica-rich hydrothermal fluids created abundant quartz, chalcedony, and agate formations throughout the region. The moderate slopes and exposed ridges here reveal these minerals in weathered outcrops and scattered loose specimens that have been naturally exposed by erosion over millennia.\n\nCollectors can expect to find translucent to opaque quartz specimens, banded chalcedony, colorful agate nodules, and occasional jasper pieces. The terrain is moderately challenging with good walking access from standard pullouts. Personal use rockhounding is allowed under standard BLM recreation regulations with a 25-pound daily limit.\n\nThe high elevation means longer collecting seasons are possible compared to lower desert sites, though winter snow closes access from November through April. Spring through fall offers the most comfortable conditions for working the exposed ridges and wash areas where specimens naturally accumulate.\n\nThis location is ideal for rockhounds seeking public land access without permits or fees, combined with the geological diversity that makes Idaho a premier rockhounding destination. The moderate difficulty and beginner-friendly rules make it accessible to families and new collectors willing to handle the elevation and terrain.",
+  "history": "The Mackay area sits within the Lost River Range, a product of Miocene-era volcanic activity (roughly 15-25 million years ago) that deposited extensive silica-rich fluids throughout central Idaho. This volcanic event created the quartz, chalcedony, and agate formations found in abundance here today. The region has a long history of small-scale prospecting and mining activity dating back to the late 1800s, though modern rockhounding focuses on surface collecting of loose specimens rather than active extraction.",
+  "tips": "Search the exposed ridges and hillsides on south-facing slopes where weathering has naturally exhumed quartz and chalcedony specimens - look for glassy luster catching sunlight. Work the shallow washes and gullies where heavier specimens have rolled downslope and collected in loose gravel. Bring a 10x loupe to inspect banding patterns in chalcedony and agate before collecting - the best specimens show clear color variation and translucency. A light hammer and chisel help extract specimens from weathered outcrops, but most loose pieces can be hand-collected.",
+  "terrain_notes": "Elevation 7,859 feet in the Lost River Range with moderate slopes and exposed volcanic ridgetops. Terrain is moderately steep with scattered sagebrush and thin conifer stands. Walking distances from parking are typically 0.5 to 2 miles over uneven, rocky ground with variable footing. Exposed bedrock and loose talus require sturdy footwear. No maintained trails - access is cross-country hiking over natural terrain.",
+  "best_season": "June - September. The high elevation means snow blocks access from November through April. Late spring and early fall offer pleasant temperatures and clear skies, though afternoon thunderstorms are possible July through August.",
+  "written_directions": "From Mackay (approximately 30 miles south), drive north on ID 93 toward the Lost River Range. Look for BLM pullouts and informal parking areas along ID 93 and adjacent forest roads in the Mackay Peak area. The exact pullout locations vary, but most productive sites are accessed via the high ridges visible from the highway. Standard passenger vehicles can reach several pullouts, though high-clearance vehicles are useful for rougher forest road spurs. Park at any BLM pullout and walk upslope toward exposed ridges and outcrop faces.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "ID 93 is paved. Forest service roads to higher pullouts may be unpaved, washboarded, or rough in spring. High-clearance passenger vehicles recommended but not required for main pullouts.",
+  "parking_notes": "Multiple informal BLM pullouts along ID 93 and adjacent forest roads near Mackay Peak. Limited formal parking infrastructure - typically small unpaved turnouts with space for 2-5 vehicles. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. Standard BLM recreation rules apply.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\n25 pound daily limit per person\nNo commercial operation\nNo motorized tools or heavy equipment\nLeave dig sites reasonably clean\nNo collection of archaeological artifacts\nRefer to local BLM office for any area-specific closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Mackay, Idaho, approximately 30 miles south - offers gas, food, lodging, and water.",
+  "accessibility_notes": "Moderately uneven rocky terrain with elevation gain from parking to collecting areas. No wheelchair access. Sturdy hiking boots strongly recommended. Elevation at 7,859 feet may affect those sensitive to altitude. Steep slopes in some areas - not suitable for limited mobility or very young children without adult supervision. Weather changes rapidly at this elevation.",
+  "alternative_names": [
+    "Lost River Range",
+    "Mackay Peak Area"
+  ],
+  "nearest_city": "Mackay",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/mackay-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/mackay-id/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/mackay-id/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What quartz and agate specimens can I find rockhounding near Mackay, Idaho?",
+      "answer": "The Mackay area on BLM land yields translucent to opaque quartz specimens, banded chalcedony, colorful agate nodules ranging from 0.5 to 4 inches, and occasional jasper pieces. Most specimens are found as loose weathered pieces on hillsides and in shallow washes rather than requiring extraction from bedrock. Quality varies, but persistent collectors regularly find collectible specimens within the 25-pound daily limit."
+    },
+    {
+      "question": "Is rockhounding at Mackay, Idaho free and do I need a permit?",
+      "answer": "Yes, rockhounding at Mackay is completely free on public BLM land with no permit required. You only need to follow standard FLPMA personal use rules: 25 pounds per day limit, no commercial operation, and no motorized excavation. This makes it an excellent budget-friendly rockhounding destination for families and beginners."
+    },
+    {
+      "question": "When is the best season to rockhound near Mackay in the Lost River Range?",
+      "answer": "The best rockhounding season at Mackay is June through September. The high elevation (7,859 feet) means snow closes access from November through April. Late spring and early fall offer the most comfortable temperatures and clearest skies. July and August are popular but can experience afternoon thunderstorms."
+    },
+    {
+      "question": "How do I find the best rockhounding spots around Mackay on BLM land?",
+      "answer": "Focus your search on exposed ridges and hillsides visible from ID 93, particularly south-facing slopes where weathering naturally exhumes specimens. Check shallow washes and gullies where heavier quartz and agate pieces have rolled downslope. The ridges around Mackay Peak offer the most productive areas. Use informal BLM pullouts along the highway as starting points and walk upslope toward exposed outcrops."
+    },
+    {
+      "question": "What tools do I need for rockhounding near Mackay, Idaho?",
+      "answer": "Basic tools work well here: a light hammer and chisel for extracting specimens from weathered outcrops, a 10x loupe to inspect banding in chalcedony before collecting, and a sturdy collection bag. Most loose specimens can be hand-collected. Wear hiking boots with good ankle support because the terrain is rocky and slopes are moderate to steep. Bring water and sun protection for the high elevation."
+    },
+    {
+      "question": "Is Mackay, Idaho a good rockhounding location for beginners and families?",
+      "answer": "Yes, Mackay is beginner-friendly and family-accessible. The site requires no permits, has no fees, allows up to 25 pounds per person per day, and offers excellent specimen quality for new rockhounds. Moderate difficulty terrain is navigable for kids ages 8 and up with adult supervision. The main challenge is the high elevation and lack of facilities, so bring water and be prepared for changing weather."
+    }
+  ],
+  "meta_title": "Mackay Rockhounding - Idaho Quartz & Agate",
+  "meta_description": "Find quartz, agate, and chalcedony on public BLM land near Mackay, Idaho. Free rockhounding, no permit required, 25 lb daily limit at 7,859 ft elevation.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "specific_pullout_locations",
+    "cell_service_coverage_details",
+    "current_access_restrictions"
+  ],
+  "enriched_at": "2026-04-22T09:27:56.309Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:30:06.271Z"
+}

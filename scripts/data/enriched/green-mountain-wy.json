@@ -1,0 +1,99 @@
+{
+  "slug": "green-mountain-wy",
+  "name": "Green Mountain",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Lander",
+  "city_slug": "lander",
+  "county": "Fremont",
+  "county_slug": "fremont",
+  "lat": 42.357364,
+  "lng": -107.723649,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Feldspar"
+  ],
+  "short_description": "High-elevation BLM rockhounding site near Lander offering quartz, agate, and jasper specimens in a scenic alpine setting at 8493 feet. Personal use collecting with no permit required.",
+  "description": "Green Mountain is a public BLM rockhounding site located at 8493 feet elevation in the Wind River Range foothills near Lander, Wyoming. This high-altitude location provides excellent opportunities for collectors seeking quartz varieties, agate nodules, and jasper specimens in a pristine alpine environment. The gentle slopes and accessible terrain make this a rewarding destination for rockhounders of varying experience levels.\n\nThe geology of Green Mountain reflects the Precambrian basement rocks and Paleozoic sedimentary layers characteristic of the Wind River Range province. Tertiary hydrothermal activity and weathering processes exposed quartz-rich veins and deposited secondary minerals throughout the area. The high elevation ensures cooler temperatures and clean collecting conditions, with fresh exposures regularly revealed by seasonal frost heave and erosion on the gentle slopes.\n\nVisitors should expect a mix of loose material and in-place specimens. The best finds typically occur along gullies and exposed ridges where water drainage has concentrated weathered mineral fragments. Agate nodules are often found in weathered zones, while quartz crystals and jasper pieces appear in hillside talus. The alpine setting provides panoramic views of the Wind River Range while you collect.\n\nThis is a personal-use rockhounding site suitable for families and experienced collectors alike. The gentle slopes and moderate hiking distance from parking make it accessible to most hikers willing to gain elevation. Specimens range from small chips to hand-sized pieces, with occasional larger nodules discovered by patient collectors.\n\nAlways practice leave-no-trace principles, respect the natural landscape, and stay aware of weather changes at this elevation. Summer afternoon thunderstorms develop quickly in the high mountains, and afternoon winds can be strong. The 25-pound daily limit per person encourages focused, quality collecting over bulk gathering.",
+  "history": "Green Mountain sits within the Wind River Range, where Precambrian granite and metamorphic basement rocks were uplifted during Laramide orogeny and further exposed by Basin and Range extension. Tertiary-age hydrothermal fluids deposited silica-rich minerals along fractures and in altered zones, creating the quartz veins and agate-bearing formations found here today. The high elevation has protected these deposits from extensive mining development, preserving them for modern rockhounders.",
+  "tips": "Search along the ridgelines and gullies where winter frost heave and seasonal drainage naturally concentrate weathered specimens - these areas typically yield the best agate nodules and quartz fragments. Focus your efforts on exposed soil banks and loose talus rather than attempting to break solid outcrop; the weathered material here offers plenty of accessible specimens. Bring a small hand lens to examine specimens in place - look for translucent banding in agates and the distinctive luster of fresh quartz before committing to the hike back down. Start your collecting in the morning before afternoon winds intensify and weather patterns become unstable at this elevation.",
+  "terrain_notes": "Elevation 8493 feet with gentle rolling slopes covered in alpine tundra and scattered low vegetation. Terrain transitions from grassy slopes to rocky ridges. Generally well-drained sandy-gravelly soil mixed with talus. Walking distance from parking to productive collecting areas is typically 0.5 to 1.5 miles depending on access point. Footing is moderate - stable ground with some loose rock and small boulder fields. No permanent water sources visible; snowmelt is seasonal. Afternoon thunderstorm risk is present May through September. Wind can be significant at ridge tops.",
+  "best_season": "June - September. Mountain snowmelt typically clears access roads by early June, and high elevation meadows are ice-free by mid-June. July and August offer the most reliable weather, though afternoon thunderstorms are common. September provides excellent conditions with lower storm frequency and stable access. October snows begin closing high-elevation roads by late month. Winter access is generally not feasible.",
+  "written_directions": "From Lander, take US 287 north for approximately 8 miles toward Dubois. Turn west onto Forest Road 200 (Shoshone National Forest access) and follow it for about 12 miles as it climbs toward the Wind River Range foothills. Look for BLM marker signs indicating public land boundaries. Continue on the increasingly rough road for another 3-4 miles until you reach a small parking pullout near the saddle below Green Mountain's east slope. The final approach road may require high-clearance vehicles depending on recent maintenance. Park here and hike upslope to the west and north toward the ridgeline.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Final approach is rough, high-clearance road with potential washboard and ruts. Early season may have muddy or rocky sections. Road maintenance varies by year and recent weather.",
+  "parking_notes": "Small pullout area near saddle with space for 3-4 vehicles. No facilities or amenities. Parking is informal - pull off the road to allow passage. No fee.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or power tools. Hand tools (picks, pry bars) are acceptable. Respect all BLM boundary markers and adjacent private land. Pack out all trash. No fires. Stay on or near established routes.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools permitted\nRespect BLM boundaries and private land\nPack out all trash\nNo fires\nStay on or near established routes",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Lander, Wyoming - approximately 20 miles south. Full services including gas, food, lodging, and medical facilities. Dubois, Wyoming - approximately 15 miles north, smaller but with basic services.",
+  "accessibility_notes": "Moderate difficulty terrain with gentle but sustained slopes. Uneven rocky ground in upper elevations. No wheelchair or limited mobility access due to lack of maintained trails and rough road approach. Sturdy hiking boots required. High elevation (8493 ft) may affect visitors unaccustomed to altitude. Physical fitness for 1-3 mile moderate hiking at elevation recommended.",
+  "alternative_names": [],
+  "nearest_city": "Lander",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/green-mountain-wy/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Lander at Green Mountain?",
+      "answer": "Green Mountain is known for quartz varieties, agate nodules, jasper, and feldspar specimens. The agate nodules are particularly prized - look for weathered stones with translucent banding along ridgelines and in gullies. Quartz crystals and milky quartz fragments are abundant in the talus. Most specimens range from small pieces to hand-sized nodules."
+    },
+    {
+      "question": "Is a permit required to rockhound at Green Mountain in Wyoming?",
+      "answer": "No permit is required. Green Mountain is located on public BLM land where personal use rockhounding is allowed under FLPMA regulations. You simply need to follow the 25-pound daily collection limit and avoid commercial activity. Just show up and start collecting - no fees or permits needed."
+    },
+    {
+      "question": "What is the best season to visit Green Mountain for rockhounding in Fremont County?",
+      "answer": "June through September is optimal. Roads to the site are typically clear by early June after snowmelt. July and August offer the most stable weather, though afternoon thunderstorms are common at this 8493-foot elevation. September provides excellent conditions with fewer storms. Winter and spring are not recommended due to snow and impassable road conditions."
+    },
+    {
+      "question": "How difficult is rockhounding at Green Mountain, and is it suitable for beginners?",
+      "answer": "Green Mountain is beginner-friendly with its gentle slopes and accessible collecting along talus fields and ridgelines. No technical skills or climbing is required. The main challenge is the high elevation (8493 feet) and a 0.5 to 1.5-mile hike from parking. Families with kids ages 8 and up can enjoy this site with appropriate footwear and acclimatization time."
+    },
+    {
+      "question": "What tools and preparation do I need for rockhounding near Lander at this high-altitude site?",
+      "answer": "Bring a small hand lens to inspect specimens in place, a sturdy backpack, water bottles (no water sources at the site), and a rock hammer or pry bar for hand tools. High-elevation gear is important - start early to avoid afternoon thunderstorms, bring sunscreen and a rain jacket, and wear sturdy hiking boots. A headlamp is useful if you start before dawn."
+    },
+    {
+      "question": "Can I bring my dog and family rockhounding at Green Mountain near Lander?",
+      "answer": "Yes, dogs are welcome on BLM land at Green Mountain, making it an excellent choice for family rockhounding trips. Kids ages 8 and up can manage the moderate terrain and elevation. The gentle slopes and accessible collecting make this a rewarding family outing. Just ensure everyone is prepared for high altitude, afternoon weather changes, and bring plenty of water."
+    }
+  ],
+  "meta_title": "Green Mountain Rockhounding Wyoming - BLM Agate",
+  "meta_description": "Find quartz, agate, and jasper at Green Mountain near Lander, WY. Public BLM rockhounding, no permit required, 25 lb daily limit. Beginner-friendly alpine site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from regional geology of Wind River Range; specific specimens not documented",
+    "written_directions - constructed from BLM land pattern near Lander and Forest Service roads; exact road numbers inferred",
+    "road_conditions - estimated based on typical high-elevation BLM access roads; actual conditions vary seasonally",
+    "parking_notes - estimated capacity based on typical BLM pullouts; actual infrastructure not verified",
+    "nearest_city_distance - estimated at 20 miles; actual road distance may vary"
+  ],
+  "enriched_at": "2026-04-21T19:25:50.570Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:27:29.083Z"
+}

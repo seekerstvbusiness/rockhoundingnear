@@ -1,0 +1,60 @@
+{
+  "slug": "cle-elum-wa",
+  "name": "Cle Elum",
+  "lat": 47.205511,
+  "lng": -120.935447,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Kittitas County",
+  "city_slug": "kittitas-county",
+  "county": "Kittitas",
+  "county_slug": "kittitas",
+  "geocoded_city": "Cle Elum",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cle%20Elum%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cle%20Elum",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cle%20Elum%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2119,
+      "meters": 646
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:03:16.927Z"
+  },
+  "scraped_at": "2026-04-21T19:03:16.927Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "superior-stone-company-nc",
+  "name": "Superior Stone Company",
+  "lat": 36.116163,
+  "lng": -79.617963,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Guilford County",
+  "city_slug": "guilford-county",
+  "county": "Guilford",
+  "county_slug": "guilford",
+  "geocoded_city": "Guilford County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Superior%20Stone%20Company%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Superior%20Stone%20Company"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Superior%20Stone%20Company%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:27:53.958Z"
+  },
+  "scraped_at": "2026-04-22T02:27:53.958Z",
+  "scrape_quality": "minimal"
+}

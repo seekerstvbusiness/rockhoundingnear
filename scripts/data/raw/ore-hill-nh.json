@@ -1,0 +1,60 @@
+{
+  "slug": "ore-hill-nh",
+  "name": "Ore Hill",
+  "lat": 44.200185,
+  "lng": -71.790984,
+  "state": "New Hampshire",
+  "state_slug": "new-hampshire",
+  "state_code": "NH",
+  "city": "Sugar Hill",
+  "city_slug": "sugar-hill",
+  "county": "Grafton",
+  "county_slug": "grafton",
+  "geocoded_city": "Sugar Hill",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-hampshire.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ore%20Hill%20New%20Hampshire"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ore%20Hill",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ore%20Hill%20New%20Hampshire"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1979,
+      "meters": 603
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:27:18.664Z"
+  },
+  "scraped_at": "2026-04-21T17:27:18.665Z",
+  "scrape_quality": "minimal"
+}

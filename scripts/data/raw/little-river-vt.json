@@ -1,0 +1,60 @@
+{
+  "slug": "little-river-vt",
+  "name": "Little River",
+  "lat": 44.47132,
+  "lng": -72.679106,
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "state_code": "VT",
+  "city": "Stowe",
+  "city_slug": "stowe",
+  "county": "Lamoille",
+  "county_slug": "lamoille",
+  "geocoded_city": "Stowe",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-vermont.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Little%20River%20Vermont"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Little%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Little%20River%20Vermont"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 698,
+      "meters": 213
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:03:38.322Z"
+  },
+  "scraped_at": "2026-04-21T17:03:38.323Z",
+  "scrape_quality": "minimal"
+}

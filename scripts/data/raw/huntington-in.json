@@ -1,0 +1,60 @@
+{
+  "slug": "huntington-in",
+  "name": "Huntington",
+  "lat": 40.89158,
+  "lng": -85.465048,
+  "state": "Indiana",
+  "state_slug": "indiana",
+  "state_code": "IN",
+  "city": "Huntington County",
+  "city_slug": "huntington-county",
+  "county": "Huntington",
+  "county_slug": "huntington",
+  "geocoded_city": "Huntington",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-indiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Huntington%20Indiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Huntington",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Huntington%20Indiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 782,
+      "meters": 238
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:51:08.897Z"
+  },
+  "scraped_at": "2026-04-21T16:51:08.897Z",
+  "scrape_quality": "minimal"
+}

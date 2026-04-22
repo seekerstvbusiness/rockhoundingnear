@@ -1,0 +1,60 @@
+{
+  "slug": "middlesburge-md",
+  "name": "Middlesburge",
+  "lat": 39.60752,
+  "lng": -77.221795,
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "state_code": "MD",
+  "city": "Carroll County",
+  "city_slug": "carroll-county",
+  "county": "Carroll",
+  "county_slug": "carroll",
+  "geocoded_city": "Bruceville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maryland.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Middlesburge%20Maryland"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Middlesburge",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Middlesburge%20Maryland"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 349,
+      "meters": 106
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:34:33.362Z"
+  },
+  "scraped_at": "2026-04-21T17:34:33.362Z",
+  "scrape_quality": "minimal"
+}

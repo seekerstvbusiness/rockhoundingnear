@@ -1,0 +1,96 @@
+{
+  "slug": "ruby-river-mt",
+  "name": "Ruby River",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Madison County Area",
+  "city_slug": "madison-county",
+  "county": "Madison",
+  "county_slug": "madison",
+  "lat": 45.261451,
+  "lng": -112.099574,
+  "gem_types": [
+    "Garnet",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "BLM rockhounding site along the Ruby River where you can collect garnets and quartz specimens from gravels and stream deposits. No permit required, 25 lb daily limit.",
+  "description": "Ruby River in Madison County offers accessible rockhounding on BLM public land with minimal restrictions. The site sits in the Ruby Range foothills where stream channels and glacial gravels contain garnet, quartz, and feldspar specimens. Collectors can work the river gravels and nearby benches throughout the season without permits, making this an ideal spot for beginners and families looking to practice stream collecting techniques.\n\nThe Montana geology here reflects Precambrian metamorphic rocks uplifted during the Laramide orogeny. Garnets found here are primarily from metamorphic schists and gneisses exposed in the range, transported downslope and concentrated in stream gravels over millennia. The river constantly exposes fresh material, particularly after spring runoff and heavy rains.\n\nAccess is straightforward with a passenger vehicle to the general area, though walking to productive gravels may require short hikes over uneven terrain. The flat elevation and mountain valley location mean relatively mild summer conditions and accessible winter-to-spring seasons. Work the inside bends of the river where material accumulates, and scan exposed gravel bars after water levels drop in late summer.\n\nThis location is excellent for learning how to identify garnets in the field, practice panning techniques, and understand how stream sorting concentrates heavier minerals. The BLM regulations are straightforward: personal use only, no permit needed, and a 25 lb daily limit keeps collection sustainable.",
+  "history": "The Ruby Range is composed of Precambrian metamorphic rocks - primarily schists and gneisses - that were uplifted during the Laramide orogeny 70-80 million years ago. Glacial activity during the Pleistocene transported and concentrated garnet and quartz from the metamorphic terrain into the river gravels and benches that rockhounders find today.",
+  "tips": "Focus your search on inside bends of the river and gravel bars where heavy minerals concentrate naturally. Garnet specimens typically range from small pea-sized to thumb-sized; look for deep red to black translucent stones among lighter quartz and feldspar. Bring a small classifier or sifting pan to process gravels efficiently and a magnet to separate magnetite (iron oxide) from other minerals. Work after spring runoff or summer storms when the river has exposed fresh material.",
+  "terrain_notes": "Elevation 5263 feet in a mountain valley setting with relatively flat immediate terrain. The river corridor features exposed gravel bars, stream channels, and low benches with sagebrush and grass cover. Walking distance from parking to productive gravels typically 0.25 - 1 mile over uneven rocky footing. No significant elevation gain required.",
+  "best_season": "June - September. High mountain valley location allows productive collecting during summer months when river levels drop and gravel bars are most exposed. Spring runoff can be strong April-May, making access difficult. Fall remains feasible through mid-September before early snow.",
+  "written_directions": "From Ennis, Montana (approximately 30 miles north), take MT-287 south toward the Ruby River Valley. Continue for roughly 8 miles and watch for BLM access points along the river corridor on the west side of the highway. Park at designated pullouts near the road - several informal sites exist along this stretch. The GPS coordinates (45.261451, -112.099574) mark a productive area; use GPS or local knowledge to locate parking within a mile of this point. High-clearance vehicle recommended for some side roads, but standard passenger cars can reach the general access area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway (MT-287) with unpaved pullouts and rough ranch/access roads. Passenger vehicle adequate for main highway access; higher clearance helpful for some side roads to river access points.",
+  "parking_notes": "Informal pullouts along MT-287 corridor. No developed parking area. Park safely off roadway. Limited capacity - typically space for 2-4 vehicles per pullout.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or digging equipment. Respect any private land boundaries adjacent to BLM sections.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial use\nNo motorized excavation\nNo heavy equipment\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Ennis, Montana, approximately 30 miles north, has gas stations, restaurants, and basic supplies.",
+  "accessibility_notes": "Relatively flat river valley terrain with easy access from parking to gravel bars. Uneven rocky footing on stream gravels and benches. No wheelchair accessibility to productive collecting areas. Sturdy hiking boots strongly recommended. Minimal elevation gain. Suitable for most ages and fitness levels given short walking distances required.",
+  "alternative_names": [],
+  "nearest_city": "Ennis",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/ruby-river-mt/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Ruby River in Montana?",
+      "answer": "Ruby River is known for garnets, quartz, and feldspar collected from stream gravels and river deposits. Garnets are the primary find here - deep red to black metamorphic garnets from 1/4 inch to thumb-sized are common. Quartz specimens range from small crystals to larger opaque pieces. Feldspar is abundant but less sought by most rockhounders."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Ruby River, Montana?",
+      "answer": "No permit is required to rockhound on this BLM public land. However, you must follow personal use guidelines: a 25 lb daily limit, no commercial collection, and no motorized excavation. BLM land in Montana allows recreational collecting without advance permission as long as these rules are observed."
+    },
+    {
+      "question": "What is the best time of year to collect at Ruby River?",
+      "answer": "June through September offers the best conditions at this 5263-foot elevation location. River levels drop in late summer, exposing productive gravel bars. Spring runoff (April-May) makes access difficult and water levels high. Fall collection is possible through mid-September before early snow becomes likely."
+    },
+    {
+      "question": "How far is Ruby River from Ennis and what are the driving conditions?",
+      "answer": "Ruby River is approximately 30 miles south of Ennis via MT-287. The highway is paved, but access to river collecting areas uses unpaved pullouts and rough ranch roads. A standard passenger vehicle can reach the main access points along the highway corridor, though higher-clearance vehicles are useful for some side roads."
+    },
+    {
+      "question": "Is Ruby River Montana a good rockhounding site for beginners and families?",
+      "answer": "Yes, Ruby River is excellent for beginners and families. The terrain is flat and easy to navigate, the 25 lb daily limit is generous for casual collectors, and no permit requirements mean walk-up access. The river gravels provide good learning opportunities for identifying garnets and understanding how mineral concentration works in streams. Children age 6 and up can participate comfortably."
+    },
+    {
+      "question": "What tools and techniques work best for collecting at Ruby River?",
+      "answer": "Bring a classifier or fine sifting pan to process river gravels efficiently - garnets sink to the bottom of panned material. A small hand magnet helps separate magnetite. Work the inside bends of the river and exposed gravel bars where heavy minerals naturally concentrate. Scan exposed gravel bars after spring runoff or summer storms for fresh material. Standard rockhounding tools (small hammer, chisel, ziplock bags) are sufficient for surface collection."
+    }
+  ],
+  "meta_title": "Ruby River Rockhounding - Montana Garnets",
+  "meta_description": "Collect garnets, quartz, and feldspar at Ruby River BLM land near Ennis, Montana. No permit required, 25 lb daily limit. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "gem_types",
+    "best_season",
+    "hazards"
+  ],
+  "enriched_at": "2026-04-21T19:07:05.100Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:16.045Z"
+}

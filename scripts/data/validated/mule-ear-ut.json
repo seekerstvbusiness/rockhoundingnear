@@ -1,0 +1,101 @@
+{
+  "slug": "mule-ear-ut",
+  "name": "Mule Ear",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Monticello",
+  "city_slug": "monticello",
+  "county": "San Juan",
+  "county_slug": "san-juan",
+  "lat": 37.179689,
+  "lng": -109.705279,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Chert"
+  ],
+  "short_description": "BLM rockhounding near Monticello featuring colorful agate, jasper, and chalcedony in scenic San Juan County badlands. Free public access with 25 lb daily limit.",
+  "description": "Mule Ear is a productive BLM rockhounding site located in the high desert badlands of southeast Utah, approximately 25 miles south of Monticello. The area sits within the colorful Chinle and Morrison formation exposures that characterize this region, where Triassic-age sediments host nodules and specimens of quality agate, jasper, and chalcedony. This location is accessible year-round on public land with no permits required, making it ideal for both casual collectors and serious rockhounds.\n\nThe terrain here consists of rolling badlands with exposed clay, siltstone, and sandstone formations in shades of red, purple, and tan. Collectors find specimens scattered across washes, hillsides, and eroded banks where seasonal runoff continuously exposes fresh material. The site offers solitude and productive collecting with minimal crowds, typical of remote San Juan County BLM land.\n\nExpect a moderate hike across uneven, rocky terrain with sparse vegetation. The best specimens are found by carefully working through washes and inspecting exposed clay banks where agate nodules weather out naturally. Bring plenty of water, sun protection, and sturdy boots. The landscape is dramatic and photogenic, with views of distant mesas and buttes typical of the Colorado Plateau.",
+  "history": "The Mule Ear area sits within the Chinle and Morrison formations, which were deposited during the Triassic to Jurassic periods when Utah was a vast depositional basin. Silica-rich groundwater moving through these sediments over millions of years formed the agate and chalcedony nodules collected here today. This region has been lightly prospected by rockhounds since the mid-20th century, with productive collecting occurring steadily as erosion continues to expose new material.",
+  "tips": "Search along dry washes and eroded banks where water has naturally exposed nodules - these areas are far more productive than random surface prospecting. Look for specimens showing banding, color variation, or translucency; many pieces are partially exposed in clay or soft siltstone and can be carefully extracted by hand. Bring a classifying screen or small sifter to process finer material from washes, as smaller agate pieces are abundant. Early morning collecting is best to avoid afternoon sun exposure on this exposed landscape.",
+  "terrain_notes": "High desert badlands terrain at approximately 6,200 feet elevation with rolling hills, exposed clay banks, and dry washes. Sparse vegetation includes low shrubs, cacti, and scattered junipers. Uneven, rocky footing with loose shale and clay requiring careful stepping. Most productive areas require 1-3 mile hikes from parking areas across open terrain with minimal shade.",
+  "best_season": "October - April. The intense heat of summer (June-August) makes daytime collecting dangerous in this exposed desert landscape. Spring (March-April) and fall (October-November) offer ideal temperatures, though winter months are also productive. Avoid summer heat and occasional flash flood risk during monsoon season (July-September).",
+  "written_directions": "From Monticello, take US 191 south for approximately 20 miles toward Blanding. Turn east onto County Road 107 (signed for Mule Ear area) and continue for about 5 miles on graded dirt road. Look for BLM land markers and established pullouts on either side of the road. Park safely off the roadway and hike into exposed badlands exposures. Exact parking depends on seasonal road conditions; high-clearance vehicle recommended after heavy rain.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Graded dirt road, passable for high-clearance vehicles year-round but may become rutted or muddy after heavy rain. Passenger cars should not attempt in wet conditions.",
+  "parking_notes": "Informal pullouts along County Road 107. No developed parking lot. Space for 3-5 vehicles. Pack out all trash and collect only what you can carry.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or powered equipment. Remove only loose material and hand-collected specimens. Pack out all trash. Respect the landscape and leave no trace.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection permitted\nNo motorized excavation or powered tools\nHand-collection only\nPack out all trash\nNo mechanical or destructive extraction",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Monticello, approximately 25 miles north. Full services including gas, food, lodging, and water available. Summer and Saturday hours may be limited; plan accordingly.",
+  "accessibility_notes": "Uneven rocky terrain with loose shale, clay, and scattered rocks requiring careful footing. No wheelchair access. Significant hiking across open badlands (1-3 miles) with minimal shade and exposure to sun and wind. Sturdy, closed-toe hiking boots essential. Not suitable for limited mobility or young children without strong hiking experience.",
+  "alternative_names": [],
+  "nearest_city": "Monticello",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/mule-ear-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/mule-ear-ut/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems and minerals can I find rockhounding at Mule Ear near Monticello?",
+      "answer": "Mule Ear is known for quality agate, jasper, chalcedony, and chert specimens. Most pieces are found as nodules weathering out of Triassic-age clay and siltstone exposures. Specimens range from small (golf-ball size) to large hand-specimens, many with attractive banding and color variation in reds, purples, tans, and whites."
+    },
+    {
+      "question": "Is there a permit or fee required for rockhounding at Mule Ear BLM land?",
+      "answer": "No permit or fee is required. Mule Ear sits on public BLM land open to free recreational rockhounding. You only need to follow BLM collection rules: personal use only, 25 lb daily limit, no commercial collection, and no motorized excavation."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Mule Ear?",
+      "answer": "October through April is ideal. Summer heat is intense and dangerous in this exposed badlands area. Spring (March-April) and fall (October-November) offer comfortable temperatures, while winter is productive but requires layered clothing and shade awareness."
+    },
+    {
+      "question": "What tools and supplies do I need for collecting at Mule Ear?",
+      "answer": "Bring sturdy hiking boots, a rock hammer or chisel for extracting specimens, a backpack or collection bag, at least 3-4 liters of water, sun protection (hat, sunscreen, sunglasses), and a headlamp if collecting early or late. A small classifying screen is helpful for sifting fine material from washes. A GPS device or detailed map is recommended in this remote area."
+    },
+    {
+      "question": "Is Mule Ear rockhounding site beginner-friendly and good for families?",
+      "answer": "Yes, Mule Ear is suitable for beginners and families with children 8 and older. Specimens are accessible and require no advanced knowledge to identify and collect. The terrain is moderate but requires good hiking fitness and preparation. Children should be experienced hikers due to the remote, exposed location and need to hike 1-3 miles from parking."
+    },
+    {
+      "question": "How far is Mule Ear rockhounding site from Monticello Utah and what are driving directions?",
+      "answer": "Mule Ear is approximately 25 miles south of Monticello. From town, take US 191 south for 20 miles toward Blanding, then turn east onto County Road 107 for about 5 miles. Look for BLM markers and established pullouts. High-clearance vehicle recommended, especially after rain. Confirm road conditions before traveling."
+    }
+  ],
+  "meta_title": "Mule Ear Rockhounding - Utah BLM Agate & Jasper",
+  "meta_description": "Find agate, jasper, and chalcedony at Mule Ear BLM land near Monticello. Free public rockhounding, 25 lb limit, no permit required. October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - constructed from GPS location and county road estimate",
+    "nearest_city_distance - estimated 25 miles based on GPS coordinates",
+    "terrain_notes - inferred from San Juan County badlands geology and elevation",
+    "gem_types - based on typical Chinle/Morrison formation exposures in the region"
+  ],
+  "enriched_at": "2026-04-22T06:52:38.701Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:00:22.878Z"
+}

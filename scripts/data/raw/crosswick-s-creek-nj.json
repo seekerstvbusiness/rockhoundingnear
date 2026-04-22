@@ -1,0 +1,57 @@
+{
+  "slug": "crosswick-s-creek-nj",
+  "name": "Crosswick’s Creek",
+  "lat": 40.166619,
+  "lng": -74.67064,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Hamilton Township",
+  "city_slug": "hamilton-township",
+  "county": "Mercer",
+  "county_slug": "mercer",
+  "geocoded_city": "Hamilton Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Crosswick%E2%80%99s%20Creek%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Crosswick%E2%80%99s%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Crosswick%E2%80%99s%20Creek%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:39:47.882Z"
+  },
+  "scraped_at": "2026-04-21T18:39:47.882Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "sharp-mountain-ga",
+  "name": "Sharp Mountain",
+  "lat": 34.437638,
+  "lng": -84.50134,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Pickens County",
+  "city_slug": "pickens-county",
+  "county": "Pickens",
+  "county_slug": "pickens",
+  "geocoded_city": "Pickens County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Sharp%20Mountain%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Sharp%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Sharp%20Mountain%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1739,
+      "meters": 530
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:00:01.521Z"
+  },
+  "scraped_at": "2026-04-21T19:00:01.521Z",
+  "scrape_quality": "minimal"
+}

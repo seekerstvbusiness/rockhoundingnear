@@ -1,0 +1,60 @@
+{
+  "slug": "crider-ky",
+  "name": "Crider",
+  "lat": 37.194897,
+  "lng": -87.971239,
+  "state": "Kentucky",
+  "state_slug": "kentucky",
+  "state_code": "KY",
+  "city": "Caldwell County",
+  "city_slug": "caldwell-county",
+  "county": "Caldwell",
+  "county_slug": "caldwell",
+  "geocoded_city": "Caldwell County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kentucky.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Crider%20Kentucky"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Crider",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Crider%20Kentucky"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 521,
+      "meters": 159
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:15:24.181Z"
+  },
+  "scraped_at": "2026-04-21T17:15:24.182Z",
+  "scrape_quality": "minimal"
+}

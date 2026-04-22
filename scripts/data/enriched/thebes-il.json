@@ -1,0 +1,104 @@
+{
+  "slug": "thebes-il",
+  "name": "Thebes",
+  "state": "Illinois",
+  "state_slug": "illinois",
+  "city": "Alexander County",
+  "city_slug": "alexander-county",
+  "county": "Alexander",
+  "county_slug": "alexander",
+  "lat": 37.23933,
+  "lng": -89.442243,
+  "gem_types": [
+    "Quartz",
+    "Chert",
+    "Calcite",
+    "Jasper"
+  ],
+  "short_description": "Rockhound the bluffs and river terraces of southern Illinois near the Mississippi River for quartz, chert, and fossil-bearing calcite. Low-elevation Paleozoic bedrock makes Thebes a beginner-friend...",
+  "description": "Thebes sits in Alexander County in extreme southern Illinois, just east of the Mississippi River floodplain. This region sits at the northern margin of the Illinois Basin, where Paleozoic sedimentary rocks including dolomite, limestone, and sandstone are exposed in river bluffs and weathered terraces. The low elevation (331 feet) and proximity to the Mississippi River mean that glacial and fluvial action have deposited quartz nodules, chert fragments, and calcite crystals in accessible surface locations.\n\nThe geology here reflects a shallow marine environment from the Paleozoic era, when shallow seas periodically flooded the North American interior. Silica-rich chert formed in limestone beds as biochemical precipitate, and weathering of these beds releases nodules that accumulate in the soil and wash deposits. Quartz veins and secondary calcite fills in fractures are common in the exposed bedrock. The Mississippi River valley has been actively eroding and reworking these sediments for millions of years, concentrating harder materials along terraces and abandoned channel beds.\n\nCollecting at Thebes is straightforward and beginner-friendly. The terrain is relatively flat with gentle slopes leading down to the river. Most productive collecting happens on exposed terraces, streambanks, and freshly eroded banks where winter flooding and spring runoff expose new material. You will find small quartz nodules, translucent chert pieces in white, gray, and brown, and occasional calcite crystals lining small vugs in weathered limestone. Jasper and chalcedony fragments also occur here, though less commonly.\n\nAccess is generally open on public and private land in the area, though always ask permission before entering private property. The site is accessible year-round, though best collecting conditions follow heavy rain or spring flooding when new material is exposed. This is an excellent location for beginning rockhounders and families because the terrain poses no technical difficulty and productive finds are common without specialized equipment.",
+  "history": "Thebes lies within the Illinois Basin, a major Paleozoic depositional province where repeated marine transgression and regression during the Ordovician through Pennsylvanian periods deposited thick sequences of limestone, dolomite, and chert-bearing sediments. The Mississippi River valley has been actively incising and reshaping this bedrock for the past 2 million years, creating the modern bluff and terrace topography and concentrating secondary mineral deposits in accessible surface locations.",
+  "tips": "Focus your search on exposed river terraces and the bases of erosional slopes where chert nodules and quartz fragments naturally concentrate. After heavy rains or spring flooding, check freshly exposed banks and washouts where weathering has loosened material. Bring a small hand lens to examine chert for color and translucence, and look for white calcite veins running through darker limestone fragments. A classifier screen is useful for sorting smaller specimens from sediment.",
+  "terrain_notes": "Elevation 331 feet with gentle to moderate slopes toward the Mississippi River floodplain. Terrain is mostly open with mixed herbaceous and shrubby vegetation, typical of the lower Mississippi valley transitional zone. Walking distance from parking to most productive areas is less than 1 mile over relatively even ground. Footing is stable on compacted soil and terraces, but watch for loose stones and slippery banks after rain.",
+  "best_season": "March - May and September - November. Spring rains and snowmelt expose fresh material in eroded banks, while fall weather provides comfortable collecting temperatures and clear visibility. Summer heat and humidity make midday work uncomfortable, and winter flooding restricts access to some terraces.",
+  "written_directions": "From downtown Cairo, Illinois (the nearest town with services), take US 61 north for approximately 8 miles toward Thebes. Watch for signs marking the Thebes Bluff area or historic sites. You can approach the river bluffs and terrace areas from multiple pullouts along US 61 or from local roads branching east toward the floodplain. GPS coordinates will bring you to the central collecting area near the base of the bluffs. Park at any stable pullout and walk down slope toward exposed terrace deposits and streambanks.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 61 is a well-maintained two-lane highway. Secondary roads to specific collecting areas may be gravel or unpaved but passable by standard passenger vehicles in dry conditions. Avoid during or immediately after heavy rain when terraces may be inaccessible or unsafe.",
+  "parking_notes": "No formal parking area. Use pullouts along US 61 or small gravel areas near bluff access points. Parking capacity is limited and informal. Always pull completely off the road and do not block gates or private driveways.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Respect all property boundaries and obtain permission before entering private land. Personal use collection only. Do not remove specimens from state or federally protected areas if any exist at this specific site. Leave collecting sites in good condition and fill any holes you dig. Do not use motorized equipment or heavy machinery.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nObtain permission before entering private property\nDo not remove material from protected sites\nNo motorized equipment\nLeave sites in good condition",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "flash_floods",
+    "wildlife",
+    "loose_rock"
+  ],
+  "nearest_services": "Cairo, Illinois, approximately 8 miles south. Full services including gas, food, and water available in downtown Cairo.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes. Unpaved roads and pullouts provide basic vehicle access. Uneven ground and loose stones along terrace edges require sturdy footwear and attention to footing. No formal wheelchair access, but lower-mobility visitors can access material from pullout areas without extensive hiking. Avoid after heavy rain when footing becomes slippery.",
+  "alternative_names": [
+    "Thebes Bluff",
+    "Thebes Terrace"
+  ],
+  "nearest_city": "Cairo",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/illinois/thebes-il/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/illinois/thebes-il/mineral-1-calcite.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/illinois/thebes-il/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/illinois/thebes-il/mineral-2-calcite.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Thebes, Illinois?",
+      "answer": "The primary finds at Thebes are quartz nodules, chert fragments in white and gray, calcite crystals, and occasional jasper pieces. These form naturally in Paleozoic limestone and dolomite bedrock exposed by the Mississippi River valley. Quartz and chert are the most reliable finds, while calcite and jasper require more careful searching."
+    },
+    {
+      "question": "Is rockhounding at Thebes, Illinois free or do you need a permit?",
+      "answer": "Rockhounding at Thebes is free and requires no permit for personal use collection on public land and accessible private areas. Always ask permission before entering private property. Commercial collection is not allowed."
+    },
+    {
+      "question": "What is the best time to go rockhounding at Thebes, Illinois?",
+      "answer": "The best collecting season is March through May and September through November. Spring rains expose fresh material in eroded banks, and fall weather provides comfortable temperatures. Summer heat and humidity make work difficult, while winter flooding can restrict access to terraces."
+    },
+    {
+      "question": "How do you find chert and quartz at Thebes near Cairo?",
+      "answer": "Focus your search on river terraces and the bases of erosional slopes where chert nodules and quartz fragments naturally accumulate. After heavy rain or spring flooding, check freshly exposed banks for the easiest finds. Use a hand lens to examine chert for color and translucence, and look for veins of white calcite running through darker stone."
+    },
+    {
+      "question": "Is Thebes, Illinois rockhounding suitable for beginners and families?",
+      "answer": "Yes, Thebes is excellent for beginners and families. The terrain is flat and easy to walk, productive finds are common without specialized equipment, and no technical skill is required. Children ages 6 and up can participate safely with adult supervision and attention to loose rocks near eroded banks."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at Thebes?",
+      "answer": "Basic tools include a small hand lens for examining specimens, a collection bag, and comfortable hiking boots with good traction for walking on uneven terrace ground. A classifier screen is useful for sorting finds from sediment. Heavy excavation equipment is not permitted, and hand tools only are appropriate for this site."
+    }
+  ],
+  "meta_title": "Thebes Rockhounding - Illinois Quartz & Chert",
+  "meta_description": "Find quartz, chert, and calcite at Thebes, Illinois near Cairo. Free public rockhounding on river terraces. Beginner-friendly, no permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "gem_types",
+    "hazards",
+    "collection_rules"
+  ],
+  "enriched_at": "2026-04-21T16:59:27.860Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:00:52.458Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "herkimer-diamond-mines-general-ny",
+  "name": "Herkimer Diamond Mines (general)",
+  "lat": 43.02,
+  "lng": -74.97,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Village of Herkimer",
+  "city_slug": "village-of-herkimer",
+  "county": "Herkimer",
+  "county_slug": "herkimer",
+  "geocoded_city": "Village of Herkimer",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Herkimer%20Diamond%20Mines%20(general)%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Herkimer%20Diamond%20Mines%20(general)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Herkimer%20Diamond%20Mines%20(general)%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 375,
+      "meters": 114
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:49:19.997Z"
+  },
+  "scraped_at": "2026-04-21T18:49:19.997Z",
+  "scrape_quality": "minimal"
+}

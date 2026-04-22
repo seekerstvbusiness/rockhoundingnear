@@ -1,0 +1,95 @@
+{
+  "slug": "mica-mountain-id",
+  "name": "Mica Mountain",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Moscow",
+  "city_slug": "moscow",
+  "county": "Latah",
+  "county_slug": "latah",
+  "lat": 46.903422,
+  "lng": -116.56673,
+  "gem_types": [
+    "Mica",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "BLM public land rockhounding site near Moscow featuring mica schist deposits and quartz veins. Moderate elevation location ideal for personal collectors seeking sheet mica and feldspar specimens.",
+  "description": "Mica Mountain sits on public BLM land in the northern Idaho panhandle, offering rockhounders access to mineralized terrain rich in mica and associated minerals. The site is named for the abundant mica schist formations that dominate the local geology, making it a prime destination for collectors interested in sheet mica, muscovite, and feldspar crystals. The moderate slope terrain at 4,700+ feet elevation provides good hiking access without extreme difficulty, and the landscape transitions between forested areas and exposed mineral outcrops typical of the Latah County region.\n\nThe geology here reflects the complex metamorphic and granitic basement rocks of the Idaho Batholith region. Mica-rich schists formed during regional metamorphism millions of years ago, and later granitic intrusions added quartz and feldspar veins to the mix. This combination creates excellent collecting opportunities for both sheet mica specimens and associated pegmatitic minerals found in fractures and weathered zones.\n\nCollectors can expect to find well-formed mica sheets, often in silvery muscovite variety, along with feldspar crystals and quartz in weathered outcrops and along old prospect workings. The moderate slope and mixed forest cover mean you will navigate some uneven terrain, but foot traffic is manageable. Most productive collecting occurs in areas where erosion has exposed fresh mineral faces or where historic prospecting activity created accessible mineral showings.\n\nThis location is ideal for intermediate rockhounders and anyone interested in sheet minerals and metamorphic geology. The personal-use collection rules and lack of permit requirements make it accessible and straightforward for recreational collectors. Spring through fall provides the most comfortable collecting conditions, though winter access is possible in milder years.",
+  "history": "Mica Mountain lies within the Idaho Batholith province, a massive granitic intrusion that formed during Cretaceous mountain-building events. The underlying metamorphic rocks, including the mica schists found here, were created during earlier regional metamorphism and later intruded by the Batholith granites, creating a geologically diverse terrain rich in sheet mica, quartz, and feldspar minerals ideal for rockhounding.",
+  "tips": "Search along hillside erosion cuts and old prospect pits where fresh mineral faces are exposed; weathered schist outcrops often reveal loose mica sheets ready for collection. Bring a chisel and small hammer to carefully extract sheet mica from foliation planes, and use a loupe to identify feldspar crystals embedded in quartz veins. Look for glittering muscovite on south-facing slopes where sun exposure accelerates weathering and exposes fresh specimens.",
+  "terrain_notes": "Moderate slope elevation of 4,707 feet with mixed conifer forest and exposed mineral outcrops. Uneven rocky terrain typical of schist hillsides with some areas of loose talus. Footing requires sturdy hiking boots. Hiking distance from parking areas typically 0.5 to 2 miles depending on target outcrops.",
+  "best_season": "May - September. Higher elevation and northern location mean snow can persist into late April, and early autumn frosts arrive by October. Summer and early fall provide optimal conditions with lower snow risk and better trail access.",
+  "written_directions": "From Moscow, take US Route 95 north for approximately 12 miles toward Lewiston. Turn east on Forest Road 447 (or locally marked mica mountain access road) and follow for 4-6 miles to pullouts near the base of Mica Mountain. GPS coordinates will guide final approach to parking and trailhead areas on BLM land.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Forest service roads may be unpaved and rough in wet conditions; high-clearance vehicle recommended but passenger car passable in dry season. Expect washboard surface in places.",
+  "parking_notes": "Pullouts and small parking areas near base of mountain; informal BLM parking, no developed facilities. Space for 3-5 vehicles at main access points.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or mechanized collecting equipment. No removal of fossils or archaeological artifacts. Respect all posted claim notices and private property boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nNo fossil or artifact removal\nRespect active mining claims\nLeave no trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "cold",
+    "wildlife"
+  ],
+  "nearest_services": "Moscow, Idaho approximately 12-15 miles south. Full services including gas, food, lodging, and rockhounding supply stores.",
+  "accessibility_notes": "Moderate uneven rocky terrain on hillsides with no wheelchair access. Sturdy hiking boots required. Multiple elevation gain depending on target outcrops (500-1200 feet possible). Not suitable for visitors with limited mobility. Well-conditioned hikers will have no issues; novice hikers should start on lower elevation sections.",
+  "alternative_names": [],
+  "nearest_city": "Moscow",
+  "nearest_city_distance": 13,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/mica-mountain-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What minerals can I find rockhounding at Mica Mountain near Moscow, Idaho?",
+      "answer": "Mica Mountain is known for sheet mica (muscovite), quartz, and feldspar crystals found in schist outcrops and along old prospect workings. You may also find minor tourmaline and other pegmatitic minerals in quartz veins. The mica is typically silvery muscovite suitable for specimen collection."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Mica Mountain?",
+      "answer": "No permit is required for personal use rockhounding on BLM land at Mica Mountain. You may collect up to 25 lbs per day under FLPMA regulations. This makes it an accessible site for recreational collectors without bureaucratic barriers."
+    },
+    {
+      "question": "How far is Mica Mountain from Moscow, and what are the driving directions?",
+      "answer": "Mica Mountain is approximately 12-15 miles north of Moscow. Take US Route 95 north for about 12 miles, then turn east on Forest Road 447 and follow for 4-6 miles to BLM parking areas. GPS coordinates (46.903422, -116.56673) can guide final navigation to trailheads."
+    },
+    {
+      "question": "Is Mica Mountain rockhounding site good for beginners and families?",
+      "answer": "Yes, Mica Mountain is beginner and family-friendly. The moderate difficulty means children ages 8+ with reasonable fitness can hike the terrain. No permit requirements and liberal collection rules make it a straightforward introduction to rockhounding. Start on lower elevation sections for easier access."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Mica Mountain in Idaho?",
+      "answer": "May through September is ideal for collecting at Mica Mountain. Higher elevation and northern Idaho location mean snow can linger into late April, and early frosts arrive by October. Summer and early fall provide optimal trail access and weather conditions."
+    },
+    {
+      "question": "What tools should I bring for collecting mica and feldspar at Mica Mountain?",
+      "answer": "Bring a cold chisel and small hammer for carefully extracting sheet mica along foliation planes, a loupe for identifying feldspar crystals, sturdy hiking boots for uneven schist terrain, a backpack with 25 lb capacity, water, and a first aid kit. A geologist's pick is optional but helpful for exposing fresh mineral faces."
+    }
+  ],
+  "meta_title": "Mica Mountain Rockhounding - Idaho BLM",
+  "meta_description": "Find sheet mica, quartz, and feldspar at Mica Mountain near Moscow, Idaho. Free BLM rockhounding site with 25 lb daily limit. No permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T06:43:22.328Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:33.029Z"
+}

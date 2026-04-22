@@ -1,0 +1,97 @@
+{
+  "slug": "great-salt-flats-ut",
+  "name": "Great Salt Flats",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Tooele",
+  "city_slug": "tooele",
+  "county": "Tooele",
+  "county_slug": "tooele",
+  "lat": 40.790598,
+  "lng": -113.647641,
+  "gem_types": [
+    "Quartz",
+    "Calcite",
+    "Feldspar"
+  ],
+  "short_description": "BLM public land offering free rockhounding near Tooele. Search for quartz crystals and feldspar in the mineral-rich alkaline flats surrounding this unique Utah landscape.",
+  "description": "The Great Salt Flats in Tooele County offer accessible rockhounding on public BLM land where collectors can search for quartz, calcite, and feldspar deposits without fees or permits. This high-elevation basin sits within Utah's Basin and Range province, characterized by relatively flat expanses interspersed with low rocky outcrops. The flats themselves are largely barren of vegetation, making it easy to scan exposed soil and small washes for mineral specimens.\n\nThe terrain here is semi-arid with minimal shade, so conditions can be harsh during summer months but ideal for rockhounding in spring and fall. Most productive collecting areas are within walking distance of pullouts along local roads, though access roads may be rough or require high-clearance vehicles depending on recent maintenance. The flat topography makes this site suitable for families and beginners, though the open exposure means full sun and heat are significant factors.\n\nQuartz crystals are the primary find here, often appearing as clear or milky specimens in soil washes and along shallow drainages. Calcite and feldspar fragments are also common, particularly near low rocky ridges. Because this is working BLM land in a semi-developed county, respect for existing infrastructure and adherence to weight limits is essential. The 25-pound daily limit per person keeps this site sustainable for all users.",
+  "history": "The Great Salt Flats region sits within the Basin and Range physiographic province where Paleogene and Neogene extension created fault-block mountains and intervening basins. Saline lacustrine deposits accumulated in these closed basins during wetter climatic periods, and quartz-rich alluvial materials have been concentrated here over millions of years by erosion from surrounding uplands. The mineral assemblage reflects both evaporitic salt deposits and silicate minerals transported from granitic and metamorphic source rocks in the adjacent ranges.",
+  "tips": "Focus your search in shallow washes and along the margins of low rocky outcrops where water erosion has concentrated lighter mineral grains. Bring a gold pan or screen to process finer material from washes, as quartz crystals often occur mixed with clay and silt. Look for the glint of clear or frosted quartz in morning or late afternoon light when shadows help reveal translucent specimens. Collect in early morning or late afternoon to avoid the intense midday heat, and always mark your GPS location before moving far from your vehicle on the open flats.",
+  "terrain_notes": "Mostly flat to gently rolling terrain at approximately 5,200 feet elevation with sparse low desert vegetation (saltbush, bunchgrass). Walking surfaces are a mix of hard-packed soil, small pebbles, and occasional rocky outcrops. Most collection sites are within 0.5 to 1.5 miles of pullout parking areas. Footing is generally stable but uneven in places with loose small rocks and scattered cobbles. No developed trails; cross-country walking required.",
+  "best_season": "October - April. Summer temperatures regularly exceed 90 degrees Fahrenheit with intense sun exposure and minimal shade. Winter can bring snow and cold, but spring and fall offer comfortable daytime temperatures ideal for extended rockhounding. Early morning starts are recommended even in shoulder seasons.",
+  "written_directions": "From Tooele, take Main Street south toward SR 36. Continue south on SR 36 for approximately 8 miles. Turn west (right) onto local county roads into the Great Salt Flats area (specific road names vary; look for BLM boundary markers and pullouts). GPS coordinates should be used as final navigation aid. Roads are rough in places and may require high-clearance vehicles, especially after rain or snow.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough unpaved roads with washboard texture and occasional ruts. High-clearance vehicle recommended. Passenger cars possible during dry periods but may scrape.",
+  "parking_notes": "Informal pullouts along county roads near the flats. No developed parking lot. Space for 2-4 vehicles per pullout. Park well off active roads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or disturbance of BLM infrastructure. Pack out all trash. Respect posted closure areas.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\n25 pound daily limit per person\nNo commercial collection\nNo motorized equipment for digging\nNo removal of vegetation\nPack out all trash\nRespect all posted signs and closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "Tooele, approximately 8-10 miles north. Full services including gas, food, water, and groceries. Nearest hospital is Mountain West Medical Center in Tooele.",
+  "accessibility_notes": "Relatively flat open terrain with minimal elevation change makes this accessible to most hikers and families. No wheelchair access to collection areas due to rough unpaved roads and uneven ground. Sturdy hiking boots recommended. Bring plenty of water as there is no shade and exposure is significant.",
+  "alternative_names": [],
+  "nearest_city": "Tooele",
+  "nearest_city_distance": 9,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/great-salt-flats-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/great-salt-flats-ut/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/great-salt-flats-ut/mineral-2-calcite.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find at Great Salt Flats near Tooele, Utah?",
+      "answer": "Great Salt Flats is known for clear and milky quartz crystals, calcite fragments, and feldspar specimens. The area's natural mineral concentration from Basin and Range erosion makes it a reliable spot for quartz collecting. Most specimens are small to medium-sized fragments and crystals suitable for collectors of all levels."
+    },
+    {
+      "question": "Do I need a permit or pay a fee to rockhound at Great Salt Flats, Utah?",
+      "answer": "No permit or fee is required. Great Salt Flats is located on public BLM land where recreational rockhounding is free under Federal Land Policy and Management Act (FLPMA) guidelines. You must follow the 25-pound daily collection limit and personal-use-only rules."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Great Salt Flats?",
+      "answer": "October through April is ideal. Summer temperatures exceed 90 degrees with intense sun and no shade, making conditions dangerous. Fall and spring offer comfortable daytime temperatures, though early mornings are still recommended. Winter is possible but may bring snow that obscures minerals."
+    },
+    {
+      "question": "Is Great Salt Flats rockhounding site family and kid-friendly?",
+      "answer": "Yes, Great Salt Flats is excellent for families and children ages 6 and up. The flat, open terrain requires minimal hiking, and children can easily spot quartz crystals in the exposed soil. Bring plenty of water and sun protection, and avoid midday heat. The free access and simple collecting make it perfect for introducing kids to rockhounding."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound at Great Salt Flats?",
+      "answer": "Basic tools include a small hammer, chisel, hand lens or loupe, and collection bags. A gold pan or fine mesh screen is helpful for processing wash material to find smaller quartz specimens. Most importantly, bring 2-3 gallons of water per person, sun protection (hat and sunscreen), and sturdy boots. A GPS device or smartphone is recommended given the open terrain."
+    },
+    {
+      "question": "What road conditions should I expect driving to Great Salt Flats?",
+      "answer": "Access roads are rough, unpaved, and washboard-textured in places. A high-clearance or 4WD vehicle is recommended, though passenger cars may be possible during dry periods. Roads may contain ruts and can be impassable after rain or snow. Check local conditions before visiting and allow extra travel time. Informal pullouts serve as parking with no developed lot."
+    }
+  ],
+  "meta_title": "Great Salt Flats Rockhounding - Utah BLM",
+  "meta_description": "Free rockhounding on Utah BLM land near Tooele. Find quartz crystals, calcite, and feldspar. No permit required, 25 lb daily limit. Family-friendly!",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_services_detail",
+    "specific_county_road_names",
+    "recent_road_maintenance_status"
+  ],
+  "enriched_at": "2026-04-22T06:53:24.551Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:02:05.968Z"
+}

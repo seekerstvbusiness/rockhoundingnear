@@ -1,0 +1,65 @@
+{
+  "slug": "kemmerer-wy",
+  "name": "Kemmerer",
+  "lat": 41.811368,
+  "lng": -110.477977,
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "state_code": "WY",
+  "city": "Lincoln County",
+  "city_slug": "lincoln-county",
+  "county": "Lincoln",
+  "county_slug": "lincoln",
+  "geocoded_city": "Lincoln County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wyoming.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Kemmerer%20Wyoming"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Kemmerer",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Kemmerer%20Wyoming"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 7122,
+      "meters": 2171
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:43:30.956Z"
+  },
+  "scraped_at": "2026-04-21T18:43:30.956Z",
+  "scrape_quality": "partial"
+}

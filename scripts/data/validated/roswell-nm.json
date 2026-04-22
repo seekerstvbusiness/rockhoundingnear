@@ -1,0 +1,103 @@
+{
+  "slug": "roswell-nm",
+  "name": "Roswell",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Roswell",
+  "city_slug": "roswell",
+  "county": "Chaves",
+  "county_slug": "chaves",
+  "lat": 33.39497,
+  "lng": -104.399922,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM public land near Roswell offers free rockhounding for agate, chalcedony, and quartz specimens. Desert terrain with excellent collecting opportunities under New Mexico's generous personal use ru...",
+  "description": "The Roswell area sits within the Chihuahuan Desert basin, where BLM-managed public lands provide excellent opportunities for recreational rockhounders. This region is known for quality agate and chalcedony deposits scattered across desert washes and exposed geological formations. The landscape is characterized by low desert terrain with sandy arroyos, sparse vegetation, and exposed rock outcrops that frequently weather to reveal attractive specimens.\n\nCollecting here requires no permit and follows standard BLM personal use rules, making it an accessible option for rockhounds of all experience levels. The desert environment means you'll search relatively exposed terrain where specimens are often visible on the surface after seasonal rains have eroded the surrounding matrix. Agate nodules typically appear in shades of red, brown, tan, and occasionally banded patterns, while chalcedony occurs in various colors including white, pink, and translucent varieties.\n\nThe Roswell location benefits from New Mexico's cooperative rockhounding regulations and the expansive BLM holdings in Chaves County. You can explore multiple micro-sites across different washes and bajadas within reasonable driving distance, allowing you to sample different geological pockets. The area is popular with both local collectors and visitors because access is straightforward and the resource is renewable thanks to ongoing erosional processes.\n\nExpect to spend several hours searching likely spots, as surface collecting requires patience and a trained eye. The best finds typically occur after heavy spring or summer rains have freshly exposed material. Bring plenty of water, sun protection, and wear sturdy boots suitable for desert terrain with occasional sharp vegetation and loose rock.",
+  "history": "This region lies within the northern Chihuahuan Desert basin, where late Tertiary volcanic and silica-rich groundwater activity deposited agate and chalcedony in cavities within basalt flows and sedimentary formations. The exposed formations here are products of millions of years of erosion and weathering, continuously revealing new specimens as desert washes cut through ancient geological layers.",
+  "tips": "Focus your search in sandy washes (arroyos) where erosion naturally concentrates heavy specimens, and inspect the downhill sides of small rises where specimens tend to collect. Look for the characteristic waxy luster and translucent edges of agate nodules - they often appear as rounded stones in sizes ranging from marble-sized to fist-sized, commonly with reddish or brown exterior weathering. Bring a classifying screen or sturdy brush to gently clean specimens in the field, as the desert sand and caliche coating makes it difficult to assess quality until you clear the surface. Search after spring or early summer thunderstorms when freshly exposed material is most abundant, and work early morning to avoid midday heat.",
+  "terrain_notes": "Low desert terrain at approximately 3,600 feet elevation with sandy soil, sparse creosote and yucca vegetation, and scattered rock outcrops. Washes and bajadas are gently sloping with occasional loose rock and sharp desert vegetation. Walking distances from parking pullouts typically range from 100 yards to 1 mile across relatively flat to gently rolling ground. Footing is generally stable on packed sand and hardpan, though sandy areas can be soft and some arroyos have minor erosional cut banks.",
+  "best_season": "October - April. Winter and early spring offer cooler temperatures ideal for extended field time, and spring rains (March-April) help expose fresh material. Summer heat (June-August) exceeds 95 degrees Fahrenheit regularly, making midday collecting uncomfortable and dangerous.",
+  "written_directions": "From Roswell, take US 285 north or south depending on which BLM parcel you're targeting. The Roswell area has multiple public land sites scattered within 10-30 miles. A general starting point: from downtown Roswell, head east on Second Street which becomes County Road 63, traveling approximately 15-20 miles into open BLM land where pullouts and parking areas appear near promising wash systems. Local rockhounding clubs and the Roswell BLM field office can provide specific coordinates for currently productive areas. Look for typical BLM boundary markers and signs indicating public access.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "County roads and ranch roads are typically graded dirt with washboard texture. High-clearance vehicles recommended but passenger cars can access main collecting areas if driven carefully. Avoid wet-weather travel as clay soils become impassable.",
+  "parking_notes": "Informal pullouts and parking areas scattered throughout BLM land. Most sites have minimal developed parking - expect dirt pullouts along ranch roads or wash access points. Capacity is unlimited but parking is unimproved.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Pack out all waste. Respect private property boundaries - stay on BLM land only.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nPack out all waste\nRespect all boundary markers",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Roswell, approximately 15-25 miles west. Full services including gas, restaurants, hotels, and grocery stores available.",
+  "accessibility_notes": "Relatively flat desert terrain accessible to most hikers. Unpaved ranch and BLM roads to parking areas. Uneven sandy and rocky footing in collecting areas, but no steep terrain. Sturdy boots and sun protection essential. Not wheelchair accessible due to soft sand and lack of maintained paths.",
+  "alternative_names": [
+    "Chaves County BLM",
+    "Roswell BLM collecting areas"
+  ],
+  "nearest_city": "Roswell",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/roswell-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/roswell-nm/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What agates and chalcedony can I find rockhounding near Roswell, New Mexico?",
+      "answer": "The Roswell area BLM lands produce banded and solid agate in red, brown, tan, and white colors, along with translucent chalcedony specimens. You'll find nodules ranging from marble-sized to fist-sized, often with characteristic waxy luster. Surface collecting in desert washes is the primary method, with best results after spring rains expose fresh material."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Roswell?",
+      "answer": "No permit is required for recreational rockhounding on Roswell-area BLM land. Personal use collection is allowed under standard FLPMA regulations with a 25 lb per day limit. No fees are charged and no advance registration is needed - simply follow the public use rules and respect boundary markers."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Roswell, New Mexico?",
+      "answer": "October through April offers ideal conditions, with October-April temperatures under 85 degrees Fahrenheit. March through April is peak season when spring thunderstorms freshen material in desert washes. Summer (June-August) exceeds 95 degrees regularly, making midday collecting dangerous, though some collectors visit early morning or late afternoon."
+    },
+    {
+      "question": "How far is the rockhounding area from Roswell and what roads lead there?",
+      "answer": "BLM collecting sites scatter 15-30 miles from Roswell in multiple directions. From downtown, take US 285 north or south, or head east via County Road 63 and secondary ranch roads. Roads are graded dirt with variable washboard conditions. High-clearance vehicles handle rougher access better, but passenger cars can reach main collecting areas on main ranch roads."
+    },
+    {
+      "question": "Is Roswell rockhounding suitable for beginners and children?",
+      "answer": "Yes - Roswell BLM land is beginner-friendly with easy surface collecting in relatively flat desert terrain. Children ages 6 and up can participate, though adult supervision is essential due to heat, remoteness, and desert wildlife. The straightforward access, no-permit requirement, and visible specimens make it an excellent introduction to desert rockhounding."
+    },
+    {
+      "question": "What tools and equipment should I bring for agate collecting near Roswell?",
+      "answer": "Bring a backsack for specimens, sturdy hiking boots (desert vegetation can be sharp), sun hat, sunscreen, and at least 3-4 liters of water per person. A classifying screen or brush helps clean field finds. A hand lens lets you inspect translucency and banding. A GPS unit or phone with offline maps is wise given the remote terrain, and inform someone of your location."
+    }
+  ],
+  "meta_title": "Roswell Rockhounding - Find Agate & Chalcedony, NM",
+  "meta_description": "Free BLM rockhounding near Roswell for agate, chalcedony, and quartz. No permit required, 25 lb daily limit. Desert terrain, easy access, beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (specific BLM parcel coordinates not available in source data)",
+    "parking_notes (informal BLM parking inferred from standard practices)",
+    "nearest_city_distance (estimated at 18 miles based on central Roswell to typical BLM collecting areas)",
+    "road_conditions (inferred from Chaves County BLM land typical conditions)",
+    "cell_service (spotty based on remote Chihuahuan Desert location)"
+  ],
+  "enriched_at": "2026-04-22T10:17:30.569Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:18:37.947Z"
+}

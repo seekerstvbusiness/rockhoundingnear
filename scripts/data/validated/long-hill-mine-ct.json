@@ -1,0 +1,102 @@
+{
+  "slug": "long-hill-mine-ct",
+  "name": "Long Hill Mine",
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "city": "Trumbull",
+  "city_slug": "trumbull",
+  "county": "Greater Bridgeport Planning Region",
+  "county_slug": "greater-bridgeport-planning-region",
+  "lat": 41.288856,
+  "lng": -73.226422,
+  "gem_types": [
+    "Feldspar",
+    "Quartz",
+    "Mica",
+    "Beryl"
+  ],
+  "short_description": "Historic pegmatite mine near Trumbull offering opportunities to collect feldspar, quartz, and mica specimens. A moderate difficulty site popular with Connecticut rockhounders.",
+  "description": "Long Hill Mine is a historic pegmatite locality in southwestern Connecticut, near the town of Trumbull. The site represents classic New England granite-pegmatite mineralization that formed during the Precambrian era when granitic intrusions penetrated the ancient metamorphic bedrock. Pegmatites like this one are known for producing large, well-formed crystals due to the slow cooling of silica-rich magma in fractures and joints of the host rock.\n\nThe mine historically produced feldspar and mica for industrial use, taking advantage of the coarse-grained crystals typical of pegmatite bodies. Today, collectors visit to find quartz, feldspar (both plagioclase and K-feldspar), biotite mica, and occasionally tourmaline or beryl. The site offers moderate difficulty rockhounding with access to old mine workings and exposed pegmatite dikes.\n\nVisitors should expect rocky terrain with exposed mineral outcrops and some loose material from past mining activity. The elevation of 405 feet makes this a relatively low-elevation site, beneficial for fall and spring collection when temperatures are mild. The surrounding area includes mixed deciduous forest typical of coastal Connecticut.\n\nThis locality appeals to intermediate collectors interested in pegmatite mineralogy and New England geology. The combination of historic mining context and accessible crystal specimens makes it a worthwhile destination for those studying feldspar, mica, or quartz crystal habits. Always respect property boundaries and any posted restrictions at the site.",
+  "history": "Long Hill Mine is part of Connecticut's Precambrian pegmatite belt, formed during the Ordovician to Devonian metamorphic events that created the New England crystalline basement. The pegmatite dikes intruded granitic host rocks and cooled slowly, allowing large mineral crystals to form. The site was worked historically for feldspar and mica extraction, exploiting the coarse crystal structure characteristic of pegmatite bodies in this region.",
+  "tips": "Search along the exposed pegmatite dikes and in the spoil piles from historical mining - feldspar and quartz crystals are often concentrated in areas where mining activity exposed fresh material. Bring a geology hammer and chisel to carefully extract crystals from the host rock; pegmatites can be friable and crystals may be loosely held. Look for white to pink feldspar crystals in the 1-6 inch range, clear to smoky quartz points, and silvery mica sheets - these are the most abundant and collectible specimens here. Visit in spring or fall when cooler weather makes fieldwork more comfortable and visibility is better due to lower vegetation.",
+  "terrain_notes": "The site sits at 405 feet elevation in a mixed deciduous forest setting typical of southwestern Connecticut. Terrain is moderately rocky with exposed granite-pegmatite outcrops, loose boulders, and areas of disturbed ground from historical mining. Walking surfaces are uneven with scattered rock debris. Parking areas may be limited; access may require walking 0.25 to 0.5 miles over woodland terrain to reach the active collecting areas. Footing requires sturdy boots due to rocky, rooted terrain.",
+  "best_season": "April - May, September - November. These shoulder seasons offer comfortable temperatures for fieldwork and better visibility with lower vegetation. Summer heat and humidity can be oppressive in Connecticut's coastal climate, while winter access may be hindered by wet conditions and snow.",
+  "written_directions": "From Trumbull center, head north on Route 111 approximately 1.5 miles. Turn onto local roads heading northeast toward the Long Hill area. The mine site is accessed via private or semi-private roads in a residential neighborhood; confirm current access status before visiting as some portions may be on private property. Parking is typically in roadside pullouts or designated areas near the mine workings. Check with local rockhounding clubs for current access information and any seasonal restrictions.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "hiking",
+  "road_conditions": "Local paved roads leading to site; final approach may be on dirt/gravel if accessing active mine area. Some sections may have seasonal muddy conditions.",
+  "parking_notes": "Limited roadside parking near the mine site. Parking may be in informal pullouts or designated areas; capacity is very limited. Confirm parking location with local rockhounding club before visiting.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "This is private property. Access is permitted for rockhounding only with explicit landowner permission. Respect all posted signs and property boundaries. No commercial collection. Collect only loose material or specimens that can be safely extracted without damaging the site. Do not operate motorized equipment. Fill any holes created during collecting. Leave the site cleaner than you found it.",
+  "quantity_limits": null,
+  "rules": "Obtain permission from property owner before collecting\nPersonal use only - no commercial collection\nRemove loose specimens carefully\nDo not create new excavations\nNo motorized equipment\nRespect all posted restrictions",
+  "beginner_friendly": false,
+  "family_friendly": null,
+  "dog_friendly": false,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Trumbull, Connecticut (approximately 1-2 miles away) offers gas, food, and water. Bridgeport is approximately 5-10 miles south with full services.",
+  "accessibility_notes": "Uneven rocky terrain with loose boulders and debris from historical mining. No wheelchair access. Requires sturdy hiking boots and careful footing. Walking distance of 0.25-0.5 miles may be needed to reach active collecting areas. Not suitable for visitors with limited mobility or balance issues. Loose rock and old mine workings present minor hazard; children should be supervised closely.",
+  "alternative_names": [],
+  "nearest_city": "Trumbull",
+  "nearest_city_distance": 1.5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/connecticut/long-hill-mine-ct/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/connecticut/long-hill-mine-ct/mineral-1-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find at Long Hill Mine near Trumbull, Connecticut?",
+      "answer": "Long Hill Mine is a pegmatite locality where you can collect feldspar (both plagioclase and K-feldspar varieties), quartz crystals, biotite mica sheets, and occasionally beryl or tourmaline. The pegmatite formation produces large, well-formed crystals, making this site valuable for studying crystal habits and New England mineralogy. Feldspar specimens typically show white to pink coloring and can reach 1-6 inches in size."
+    },
+    {
+      "question": "Is Long Hill Mine in Connecticut open to the public for rockhounding?",
+      "answer": "Long Hill Mine is on private property, so access requires explicit permission from the landowner. Before visiting, contact local rockhounding clubs in Connecticut or the property owner to confirm current access status. Access policies may change seasonally or due to site conditions, so always verify access before making the trip."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Long Hill Mine?",
+      "answer": "The best seasons are April through May and September through November when Connecticut weather is mild and comfortable for fieldwork. Spring and fall also offer better visibility with lower vegetation. Summer heat and humidity make collecting uncomfortable, while winter wet conditions can hinder access to the site."
+    },
+    {
+      "question": "What tools and equipment do I need for collecting at Long Hill Mine?",
+      "answer": "Bring a geology hammer, cold chisel, and sturdy hiking boots for the rocky terrain. A hand lens (10x magnification) helps identify feldspars and quartz. Pegmatites can be friable, so use care when extracting crystals. A backpack for carrying specimens and a notebook for documentation are also useful for intermediate collectors."
+    },
+    {
+      "question": "How difficult is rockhounding at Long Hill Mine for beginners?",
+      "answer": "Long Hill Mine is rated moderate difficulty and better suited for intermediate collectors rather than absolute beginners. The uneven rocky terrain, old mine workings, and need to obtain private access make this site more challenging. Beginners should consider visiting with experienced rockhounders or local club members who can guide them safely through the site."
+    },
+    {
+      "question": "How far is Long Hill Mine from Trumbull, and what are the driving directions?",
+      "answer": "Long Hill Mine is approximately 1.5 miles north of Trumbull center. From Trumbull, head north on Route 111 about 1.5 miles, then turn onto local roads heading northeast toward the Long Hill area. The site is accessed via roads in a residential neighborhood. Confirm current access and parking details with local rockhounding clubs, as final approach routes may be on private roads."
+    }
+  ],
+  "meta_title": "Long Hill Mine Rockhounding - Connecticut",
+  "meta_description": "Collect feldspar, quartz, and mica at Long Hill Mine near Trumbull, Connecticut. Private pegmatite site for intermediate rockhounders. Access by permission only.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "collection_rules",
+    "written_directions",
+    "parking_notes",
+    "permit_required",
+    "dog_friendly",
+    "family_friendly"
+  ],
+  "enriched_at": "2026-04-21T18:14:36.198Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:17:05.284Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "rockport-recreation-area-mi",
+  "name": "Rockport Recreation Area",
+  "lat": 45.201257,
+  "lng": -83.394876,
+  "state": "Michigan",
+  "state_slug": "michigan",
+  "state_code": "MI",
+  "city": "Alpena Township",
+  "city_slug": "alpena-township",
+  "county": "Alpena",
+  "county_slug": "alpena",
+  "geocoded_city": "Alpena Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-michigan.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Rockport%20Recreation%20Area%20Michigan"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Rockport%20Recreation%20Area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Rockport%20Recreation%20Area%20Michigan"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 602,
+      "meters": 184
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:45:07.420Z"
+  },
+  "scraped_at": "2026-04-21T16:45:07.420Z",
+  "scrape_quality": "minimal"
+}

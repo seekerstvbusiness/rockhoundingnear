@@ -1,0 +1,60 @@
+{
+  "slug": "beaver-bay-mn",
+  "name": "Beaver Bay",
+  "lat": 47.257332,
+  "lng": -91.29577,
+  "state": "Minnesota",
+  "state_slug": "minnesota",
+  "state_code": "MN",
+  "city": "Beaver Bay",
+  "city_slug": "beaver-bay",
+  "county": "Lake",
+  "county_slug": "lake",
+  "geocoded_city": "Beaver Bay",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-minnesota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Beaver%20Bay%20Minnesota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Beaver%20Bay",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Beaver%20Bay%20Minnesota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 607,
+      "meters": 185
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:03:07.464Z"
+  },
+  "scraped_at": "2026-04-21T18:03:07.464Z",
+  "scrape_quality": "minimal"
+}

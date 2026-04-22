@@ -1,0 +1,60 @@
+{
+  "slug": "mcgee-bend-dam-tx",
+  "name": "McGee Bend dam",
+  "lat": 31.056845,
+  "lng": -94.10297,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Jasper County",
+  "city_slug": "jasper-county",
+  "county": "Jasper",
+  "county_slug": "jasper",
+  "geocoded_city": "Sam Rayburn",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=McGee%20Bend%20dam%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=McGee%20Bend%20dam",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=McGee%20Bend%20dam%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 140,
+      "meters": 43
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:44:44.905Z"
+  },
+  "scraped_at": "2026-04-21T18:44:44.905Z",
+  "scrape_quality": "minimal"
+}

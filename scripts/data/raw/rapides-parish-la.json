@@ -1,0 +1,60 @@
+{
+  "slug": "rapides-parish-la",
+  "name": "Rapides Parish",
+  "lat": 31.431308,
+  "lng": -92.692227,
+  "state": "Louisiana",
+  "state_slug": "louisiana",
+  "state_code": "LA",
+  "city": "Grant Parish",
+  "city_slug": "grant-parish",
+  "county": "Grant",
+  "county_slug": "grant",
+  "geocoded_city": "Grant Parish",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-louisiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Rapides%20Parish%20Louisiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Rapides%20Parish",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Rapides%20Parish%20Louisiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 75,
+      "meters": 23
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:38:36.048Z"
+  },
+  "scraped_at": "2026-04-21T16:38:36.048Z",
+  "scrape_quality": "minimal"
+}

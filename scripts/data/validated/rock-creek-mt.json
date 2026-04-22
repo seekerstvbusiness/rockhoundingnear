@@ -1,0 +1,97 @@
+{
+  "slug": "rock-creek-mt",
+  "name": "Rock Creek",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Philipsburg",
+  "city_slug": "philipsburg",
+  "county": "Granite",
+  "county_slug": "granite",
+  "lat": 46.391194,
+  "lng": -113.683034,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land rockhounding site near Philipsburg with quartz, agate, and chalcedony specimens. Gentle slope terrain at 4579 feet elevation - accessible to rockhounds of all skill levels.",
+  "description": "Rock Creek is a public BLM rockhounding location in Granite County, Montana, offering easy access to quality quartz, agate, and jasper specimens. The site sits at 4579 feet elevation with gentle slopes that make it approachable for families and beginners. This area benefits from Montana's rich mineral heritage - the Granite County region has a long history of small-scale mining and prospecting that brought attention to the quality of mineral deposits here.\n\nThe terrain features gentle rolling slopes with typical high-country vegetation. Walking distance from parking is short to moderate, and footing is generally stable on established rockhounding areas. The exposed rock faces and wash areas are the most productive zones for specimen hunting.\n\nRock Creek produces clean quartz points, banded agates, and colorful jasper pieces suitable for collections or cutting. Most specimens range from thumb-sized to fist-sized, though larger pieces are occasionally found. The site works well for half-day collecting trips and requires minimal specialized equipment.\n\nAs BLM public land, this location operates under standard recreational use guidelines with a 25-pound daily limit per person. No permit is required, making it an excellent choice for spontaneous rockhounding trips. The area attracts both casual collectors and serious rockhounds seeking quality Montana specimens.\n\nVisit during spring or fall for the most comfortable collecting conditions. Summer heat at this elevation is moderate, and winter snow may limit access. The nearest services are in Philipsburg, about 12 miles away.",
+  "history": "Rock Creek sits within the Northern Rocky Mountain province where Precambrian metamorphic rocks and Tertiary-age granitic intrusions created the mineralrich environment found here today. The Granite County region saw significant prospecting activity in the late 1800s and early 1900s, with small mining operations focusing on quartz veins and chalcedony deposits that formed along fracture zones in the granitic bedrock.",
+  "tips": "Focus your search along the main creek wash and exposed rocky outcrops where water erosion naturally exposes fresh material - this is where the cleanest specimens concentrate. Bring a small chisel or hammer to carefully extract specimens from softer matrix, and use a bucket or collection bag to manage your 25-pound daily limit. Look for translucent quartz with good clarity, banded agate patterns showing distinct color zones, and jasper pieces with solid color and smooth texture - these are the most collectible specimens at this site.",
+  "terrain_notes": "Elevation 4579 feet with gentle slopes suitable for most hikers. Terrain includes rocky outcrops, creek wash, and scattered boulders with stable footing on established collecting areas. Vegetation is typical high-country mix of conifers and brush. Walking distance from parking to productive collecting areas is typically under half mile.",
+  "best_season": "May - September. Spring and early summer offer ideal collecting conditions with stable weather and accessible terrain. Late summer heat is moderate at this elevation. Fall (September) remains excellent. Winter snow cover limits access November through April.",
+  "written_directions": "From Philipsburg, take Montana State Route 1 east toward Granite approximately 8 miles. Continue on local roads toward Rock Creek drainage (GPS coordinates 46.391194, -113.683034). Access via BLM public land entry roads - look for established rockhounding pullouts and parking areas near the creek. Contact the Butte Field Office (406-494-5059) for current road conditions and specific parking locations.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM access roads, generally passable to passenger vehicles in dry conditions. May become rough or muddy during wet weather.",
+  "parking_notes": "Informal BLM pullouts and parking areas near Rock Creek. Limited facilities - no developed parking lot. Space for 5-10 vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA. No commercial collection. No motorized excavation. No permanent fixtures or structures. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo permanent structures\nPack out all trash\nStay on established paths where possible",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "Philipsburg - gas, food, water. Approximately 12 miles northwest.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain suitable for most hikers. Unpaved BLM roads to parking areas. Short walking distances to productive collecting zones with stable footing on established paths. Suitable for families and those with limited mobility who can manage uneven natural terrain.",
+  "alternative_names": [],
+  "nearest_city": "Philipsburg",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/rock-creek-mt/cover.png",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/rock-creek-mt/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Rock Creek, Montana?",
+      "answer": "Rock Creek is known for quartz, agate, jasper, and chalcedony specimens. You'll find translucent quartz points, banded agates with distinct color patterns, and solid jasper pieces ranging from thumb to fist-sized. Most specimens are suitable for personal collections or hobbyist lapidary work."
+    },
+    {
+      "question": "Is there a permit required to rockhound at Rock Creek, Montana?",
+      "answer": "No permit is required to rockhound at Rock Creek. It is BLM public land open for recreational mineral collecting under standard FLPMA guidelines. You simply need to follow the 25-pound daily limit and personal use only rule."
+    },
+    {
+      "question": "How much can I collect per day at Rock Creek BLM rockhounding site?",
+      "answer": "You can collect up to 25 pounds per day per FLPMA regulations on this BLM public land. This limit applies per person and is designed for personal use only - no commercial collection is allowed."
+    },
+    {
+      "question": "What is the best time to go rockhounding near Philipsburg, Montana?",
+      "answer": "The best time to rockhound at Rock Creek is May through September when weather is stable and access roads are passable. Spring and early summer offer ideal conditions. Fall (September) is also excellent. Winter snow cover typically limits access from November through April."
+    },
+    {
+      "question": "Is Rock Creek rockhounding site family-friendly and suitable for kids?",
+      "answer": "Yes, Rock Creek is family-friendly with gentle slopes and easy access. The site is suitable for children ages 6 and up. Minimal walking distance from parking to productive areas, stable footing, and the opportunity to find attractive specimens make it ideal for introducing kids to rockhounding."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound at Rock Creek, Montana?",
+      "answer": "Bring a small chisel or rock hammer for extracting specimens, a collection bucket or bag to manage your weight limit, and sturdy footwear for rocky terrain. A loupe (magnifier) helps identify quality pieces, and sun protection is recommended. No specialized equipment is necessary for this beginner-friendly site."
+    }
+  ],
+  "meta_title": "Rock Creek Rockhounding - Montana",
+  "meta_description": "Find quartz, agate, and jasper at Rock Creek BLM site near Philipsburg, Montana. Free public rockhounding, 25-lb daily limit. Family-friendly access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - specific road names inferred from GPS location and regional geography",
+    "parking_notes - based on typical BLM informal parking rather than specific documentation",
+    "cell_service - estimated as spotty based on Granite County rural location"
+  ],
+  "enriched_at": "2026-04-21T19:06:41.044Z",
+  "scrape_quality": "rich",
+  "images_processed_at": "2026-04-21T19:09:40.589Z"
+}

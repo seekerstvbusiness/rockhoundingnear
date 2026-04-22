@@ -1,0 +1,60 @@
+{
+  "slug": "barkhamsted-ct",
+  "name": "Barkhamsted",
+  "lat": 41.939041,
+  "lng": -73.008408,
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "state_code": "CT",
+  "city": "Barkhamsted",
+  "city_slug": "barkhamsted",
+  "county": "Northwest Hills Planning Region",
+  "county_slug": "northwest-hills-planning-region",
+  "geocoded_city": "Barkhamsted",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-connecticut.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Barkhamsted%20Connecticut"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Barkhamsted",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Barkhamsted%20Connecticut"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 471,
+      "meters": 143
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:02:55.661Z"
+  },
+  "scraped_at": "2026-04-21T18:02:55.662Z",
+  "scrape_quality": "minimal"
+}

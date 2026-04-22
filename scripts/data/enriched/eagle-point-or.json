@@ -1,0 +1,99 @@
+{
+  "slug": "eagle-point-or",
+  "name": "Eagle Point",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Eagle Point",
+  "city_slug": "eagle-point",
+  "county": "Jackson",
+  "county_slug": "jackson",
+  "lat": 42.449777,
+  "lng": -122.779684,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Obsidian"
+  ],
+  "short_description": "BLM public land near Eagle Point offering free rockhounding for agate, jasper, and obsidian. Flat terrain with easy access and a 25 lb daily collection limit.",
+  "description": "Eagle Point sits on Oregon BLM land in Jackson County, a region known for its rich volcanic geology and abundant silica-based minerals. This location provides excellent opportunity for beginner and intermediate rockhounds to search for agates, jasper varieties, and obsidian in a relatively accessible setting with minimal elevation gain.\n\nThe site sits at 1365 feet elevation in an area shaped by Miocene-era volcanic activity. Rhyolitic lava flows and pyroclastic deposits in this region created ideal conditions for agate and chalcedony formation. As ground water rich in silica percolated through fractures and cavities in the basalt and rhyolite, it deposited layers of microcrystalline quartz that hardened into the agates and jasper specimens found here today.\n\nThe flat terrain and public BLM access make this an ideal destination for families and those new to rockhounding. You can collect for personal use without a permit, following standard FLPMA rules. The landscape is typical high desert with sagebrush, scattered juniper, and volcanic rock outcrops. Specimens range from small thumb-sized pieces to larger palm-sized agates and banded jasper.\n\nWalking is generally easy across the flat to gently rolling terrain. Search dry washes, exposed hillsides, and areas where erosion has weathered material to the surface. Look for the characteristic banding in agates and the varied earth tones of jasper - reds, oranges, yellows, and browns indicate quality finds.",
+  "history": "Eagle Point sits within the Klamath-Cascade volcanic province, where Miocene-age basaltic and rhyolitic eruptions created the volcanic host rocks now famous for agate and obsidian deposits. This region experienced significant prospecting activity during Oregon's 19th-century mineral booms, particularly for obsidian which was valued for toolmaking by indigenous peoples and later sought by collectors.",
+  "tips": "Search the dry wash bottoms and eroded hillsides where water has naturally exposed agate nodules - the flat terrain makes these areas easy to access. Bring a small hammer or crack hammer to test suspected specimens, as agates often have a waxy luster that distinguishes them from common rock. Look for pieces with visible banding or color variation - solid translucent or semi-translucent pieces with reds, oranges, whites, or earth tones are highest quality. Since you're limited to 25 lbs per day, focus on medium-sized specimens (fist to palm-sized) rather than filling your bag with small pieces.",
+  "terrain_notes": "Flat to gently rolling terrain at 1365 feet elevation. Typical high desert landscape with sagebrush, scattered juniper, and exposed volcanic rock. Ground is a mix of sandy soil and loose volcanic stone. Walking distance from parking is typically under 0.5 miles to productive collecting areas. Footing is generally stable on open flats but watch for loose rock on steeper sections.",
+  "best_season": "April - October",
+  "written_directions": "From Eagle Point, travel south on Oregon State Route 62 approximately 3 miles. Look for BLM public access signs and pullouts on the east side of the highway. Park in marked pullouts and walk into the flat, open areas adjacent to the road where volcanic outcrops are visible. GPS coordinates 42.449777, -122.779684 will take you directly to productive collecting areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway access (Oregon State Route 62). Pullout parking is on unpaved but well-maintained BLM access areas. High-clearance vehicle not required.",
+  "parking_notes": "Multiple unmarked pullouts along Highway 62 on the east side. Capacity varies from 2-4 vehicles per pullout. No formal parking area or facilities. Park off pavement to allow traffic flow.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or power tools. Hand tools only (hammer, chisel, small pick). All collecting must be within BLM public land boundaries. Leave no trash and fill holes when finished.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nStay within BLM boundaries\nPack out all trash\nFill holes when finished",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Eagle Point town center approximately 3 miles north with gas, food, and water.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Paved highway access with nearby pullout parking. Walking distance to productive areas is under 0.5 miles on open ground. Terrain is stable and even with minimal obstacles. Suitable for children ages 6 and up and those with moderate mobility.",
+  "alternative_names": [],
+  "nearest_city": "Eagle Point",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/eagle-point-or/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/eagle-point-or/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/eagle-point-or/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can I find rockhounding near Eagle Point, Oregon?",
+      "answer": "Eagle Point BLM land produces quality banded agates in reds, oranges, whites, and earth tones, plus varied jasper varieties and translucent chalcedony specimens. Obsidian nodules also occur here. Most specimens are fist to palm-sized, making them ideal for collections or cutting and polishing projects."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Eagle Point on BLM land?",
+      "answer": "No permit is required. Eagle Point sits on public BLM land where personal use rockhounding is allowed under FLPMA regulations. You only need to follow the 25 lb per day collection limit and use hand tools only."
+    },
+    {
+      "question": "How far is Eagle Point rockhounding from the town of Eagle Point, and what services are nearby?",
+      "answer": "Productive collecting areas are approximately 3 miles south of Eagle Point town on Highway 62. The town offers gas, food, water, and supplies. Cell service can be spotty in the field, so it is wise to let someone know your location before heading out."
+    },
+    {
+      "question": "Is Eagle Point a good rockhounding site for beginners and families with children?",
+      "answer": "Yes. The flat terrain, easy access from Highway 62, and lack of permit requirements make Eagle Point ideal for beginners and families. Children ages 6 and up can participate in productive collecting. The short walk from parking to productive areas means less fatigue for young rockhounders."
+    },
+    {
+      "question": "What is the best season to rockhound for agate and jasper at Eagle Point, Oregon?",
+      "answer": "April through October offers the best rockhounding conditions. Summer heat (May-August) can be intense in this high desert location, so plan for early morning or late afternoon sessions. Spring and fall provide mild temperatures and excellent specimen visibility after winter and summer erosion expose fresh material."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound at Eagle Point BLM land?",
+      "answer": "Bring a small hammer or crack hammer to test and extract specimens, a chisel for prying, a small backpack for carrying finds, sun protection, and plenty of water. Since the 25 lb daily limit applies, focus on quality specimens rather than quantity. A loupe helps identify banding and translucency in agates."
+    }
+  ],
+  "meta_title": "Eagle Point Rockhounding - Oregon BLM",
+  "meta_description": "Free rockhounding near Eagle Point, Oregon on BLM public land. Find agate, jasper, and obsidian with 25 lb daily limit. Easy family-friendly access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "best_season",
+    "hazards",
+    "nearest_services"
+  ],
+  "enriched_at": "2026-04-22T06:39:24.517Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:40:34.432Z"
+}

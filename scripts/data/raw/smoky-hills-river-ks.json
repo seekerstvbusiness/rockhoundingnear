@@ -1,0 +1,60 @@
+{
+  "slug": "smoky-hills-river-ks",
+  "name": "Smoky Hills River",
+  "lat": 38.967332,
+  "lng": -97.030352,
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "state_code": "KS",
+  "city": "Dickinson County",
+  "city_slug": "dickinson-county",
+  "county": "Dickinson",
+  "county_slug": "dickinson",
+  "geocoded_city": "Dickinson County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Smoky%20Hills%20River%20Kansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Smoky%20Hills%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Smoky%20Hills%20River%20Kansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1091,
+      "meters": 332
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:45:12.563Z"
+  },
+  "scraped_at": "2026-04-21T17:45:12.564Z",
+  "scrape_quality": "minimal"
+}

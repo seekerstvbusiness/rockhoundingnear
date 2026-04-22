@@ -1,0 +1,123 @@
+{
+  "state_slug": "louisiana",
+  "total": 18,
+  "stages": {
+    "scrape": {
+      "done": [
+        "gulfport-la",
+        "tangipahoa-parish-la",
+        "ouachita-river-la",
+        "rapides-parish-la",
+        "pollock-la",
+        "sabine-lake-public-oyster-area-la",
+        "livingston-parish-la",
+        "lake-chien-la",
+        "amite-river-valley-la",
+        "east-west-feliciana-parishes-la",
+        "leesville-la",
+        "baton-rouge-la",
+        "vernon-parish-la",
+        "leesville-opal-area-la",
+        "old-pearl-river-la",
+        "toledo-bend-la",
+        "tangipahoa-river-streams-la",
+        "bogue-chitto-river-la"
+      ],
+      "failed": []
+    },
+    "enrich": {
+      "done": [
+        "vernon-parish-la",
+        "sabine-lake-public-oyster-area-la",
+        "lake-chien-la",
+        "rapides-parish-la",
+        "pollock-la",
+        "livingston-parish-la",
+        "tangipahoa-river-streams-la",
+        "gulfport-la",
+        "tangipahoa-parish-la",
+        "ouachita-river-la",
+        "baton-rouge-la",
+        "leesville-la",
+        "east-west-feliciana-parishes-la",
+        "amite-river-valley-la",
+        "leesville-opal-area-la",
+        "old-pearl-river-la",
+        "toledo-bend-la",
+        "bogue-chitto-river-la"
+      ],
+      "failed": []
+    },
+    "images": {
+      "done": [
+        "livingston-parish-la",
+        "ouachita-river-la",
+        "gulfport-la",
+        "pollock-la",
+        "tangipahoa-parish-la",
+        "lake-chien-la",
+        "vernon-parish-la",
+        "tangipahoa-river-streams-la",
+        "rapides-parish-la",
+        "leesville-la",
+        "amite-river-valley-la",
+        "toledo-bend-la",
+        "sabine-lake-public-oyster-area-la",
+        "leesville-opal-area-la",
+        "bogue-chitto-river-la",
+        "baton-rouge-la",
+        "old-pearl-river-la",
+        "east-west-feliciana-parishes-la"
+      ],
+      "failed": []
+    },
+    "validate": {
+      "done": [
+        "gulfport-la",
+        "livingston-parish-la",
+        "tangipahoa-parish-la",
+        "ouachita-river-la",
+        "pollock-la",
+        "rapides-parish-la",
+        "sabine-lake-public-oyster-area-la",
+        "lake-chien-la",
+        "vernon-parish-la",
+        "tangipahoa-river-streams-la",
+        "leesville-la",
+        "amite-river-valley-la",
+        "east-west-feliciana-parishes-la",
+        "toledo-bend-la",
+        "baton-rouge-la",
+        "leesville-opal-area-la",
+        "bogue-chitto-river-la",
+        "old-pearl-river-la"
+      ],
+      "failed": []
+    },
+    "import": {
+      "done": [
+        "gulfport-la",
+        "livingston-parish-la",
+        "tangipahoa-parish-la",
+        "ouachita-river-la",
+        "pollock-la",
+        "rapides-parish-la",
+        "sabine-lake-public-oyster-area-la",
+        "lake-chien-la",
+        "vernon-parish-la",
+        "tangipahoa-river-streams-la",
+        "leesville-la",
+        "amite-river-valley-la",
+        "east-west-feliciana-parishes-la",
+        "toledo-bend-la",
+        "baton-rouge-la",
+        "leesville-opal-area-la",
+        "bogue-chitto-river-la",
+        "old-pearl-river-la"
+      ],
+      "failed": []
+    }
+  },
+  "started_at": "2026-04-21T16:36:36.208Z",
+  "updated_at": "2026-04-22T10:13:33.418Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "fredericktown-mo",
+  "name": "Fredericktown",
+  "lat": 37.615375,
+  "lng": -90.28467,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Madison County",
+  "city_slug": "madison-county",
+  "county": "Madison",
+  "county_slug": "madison",
+  "geocoded_city": "Mine La Motte",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Fredericktown%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Fredericktown",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Fredericktown%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 825,
+      "meters": 251
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:14:06.816Z"
+  },
+  "scraped_at": "2026-04-21T19:14:06.816Z",
+  "scrape_quality": "minimal"
+}

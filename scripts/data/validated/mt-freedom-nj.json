@@ -1,0 +1,96 @@
+{
+  "slug": "mt-freedom-nj",
+  "name": "Mt. Freedom",
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "city": "Randolph Township",
+  "city_slug": "randolph-township",
+  "county": "Morris",
+  "county_slug": "morris",
+  "lat": 40.820739,
+  "lng": -74.584787,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Mt. Freedom offers rockhounding opportunities on a gentle slope with access to quartz, feldspar, and mica specimens typical of New Jersey's Piedmont geology.",
+  "description": "Mt. Freedom in Morris County sits within New Jersey's Piedmont physiographic province, an area shaped by ancient metamorphic and igneous activity. The gentle slopes and accessible terrain make this location suitable for rockhounds exploring the mineral-rich deposits characteristic of the region. Collectors can search for quartz veins, feldspar crystals, and mica flakes in the exposed bedrock and loose material scattered across the hillside. The site offers a relatively relaxed collecting experience compared to more remote New Jersey locations, with good proximity to services in nearby Randolph Township.\n\nThe elevation of 931 feet provides moderate relief with gentle slopes that do not require extreme exertion. Depending on local access conditions and any restrictions, this location may be accessible year-round, though fall and spring months offer the most pleasant conditions for sustained fieldwork. Always verify current access rules before visiting, as regulations and ownership may change.",
+  "history": "Mt. Freedom sits within the New Jersey Piedmont, formed during the Ordovician to Silurian periods when tectonic collisions metamorphosed sedimentary and volcanic rocks, creating the quartz-feldspar-mica assemblages found here. This region was extensively prospected and quarried during the 19th and 20th centuries for building stone and feldspar used in ceramic production.",
+  "tips": "Search along exposed rock outcrops and in the loose rubble at the base of hillside slopes where weathering concentrates collectible specimens. Look for white and clear quartz in veins, opaque milky quartz, and glassy feldspar crystals embedded in the metamorphic host rock. Bring a small hammer and chisel to extract specimens from bedrock, and a loupe to examine crystal faces and luster. Early season visits (spring and fall) provide better visibility of exposed material before summer vegetation growth obscures the terrain.",
+  "terrain_notes": "Elevation 931 feet with gentle slopes covered by mixed deciduous forest and low brush. Walking distance from parking approximately 0.25 to 0.5 miles to productive collecting areas. Footing is moderately easy to moderate on uneven but stable terrain with exposed bedrock in places. Wear sturdy hiking boots with good ankle support.",
+  "best_season": "April - May, September - November",
+  "written_directions": "From Randolph Township center, drive north on Mount Freedom Road (local route) approximately 1.5 miles to the Mt. Freedom area. Look for roadside pullouts or designated parking near the base of the slope. GPS coordinates 40.820739, -74.584787 mark the primary collecting area. Verify access and any parking restrictions before arrival.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": "Local roads paved; parking area may be unpaved pullout",
+  "parking_notes": "Roadside pullout; capacity limited to 2-3 vehicles. Verify parking is permitted before leaving vehicle.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Respect all posted property boundaries and no-trespassing signs. Collect only loose material and small specimens that do not require excavation or damage to bedrock. Do not remove large blocks or engage in quarrying activity. Check with local authorities or property owner if access status is unclear.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nRespect property boundaries\nNo commercial collection\nNo quarrying or large-scale excavation\nSmall hand tools only\nVerify current access before visiting",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Randolph Township, approximately 2 miles south; gas, food, and water available",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Unpaved parking pullout and walking trails are uneven but stable. Sturdy footwear required. Suitable for families with children ages 6 and up.",
+  "alternative_names": [],
+  "nearest_city": "Morristown",
+  "nearest_city_distance": 6,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-jersey/mt-freedom-nj/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What minerals can I find rockhounding at Mt. Freedom in New Jersey?",
+      "answer": "Mt. Freedom is known for quartz, feldspar, and mica specimens. Expect to find white and clear quartz in veins, opaque milky quartz, and glassy feldspar crystals embedded in the metamorphic bedrock typical of the New Jersey Piedmont."
+    },
+    {
+      "question": "Is Mt. Freedom in Morris County open for public rockhounding?",
+      "answer": "Mt. Freedom appears to allow public access for personal rockhounding on public land. However, always verify current access status and any restrictions before visiting, as regulations can change. Respect all property boundaries and posted signs."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Mt. Freedom?",
+      "answer": "No permit is required for casual personal rockhounding at Mt. Freedom. However, if you plan to dig or remove large specimens, contact local Morris County authorities or the property owner to confirm what activities are allowed."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Randolph Township?",
+      "answer": "The best seasons for rockhounding at Mt. Freedom are April through May and September through November. Spring and fall weather is mild, and reduced vegetation growth makes it easier to spot exposed specimens on the gentle slopes."
+    },
+    {
+      "question": "What tools do I need for rockhounding at Mt. Freedom?",
+      "answer": "Bring a small hammer, chisel, and pry bar for extracting specimens from bedrock. A 10x loupe helps examine crystal quality and identify mineral species. Wear sturdy hiking boots with ankle support, a backpack for carrying finds, and sun protection."
+    },
+    {
+      "question": "Is Mt. Freedom beginner-friendly for family rockhounding trips?",
+      "answer": "Yes, Mt. Freedom is excellent for beginners and families. The gentle slopes, easy accessibility, and abundant surface specimens make it suitable for children ages 6 and older. The site requires no special permits and offers a relaxed introduction to New Jersey rockhounding."
+    }
+  ],
+  "meta_title": "Mt. Freedom Rockhounding - New Jersey",
+  "meta_description": "Find quartz, feldspar, and mica at Mt. Freedom in Randolph Township. Public rockhounding on gentle Piedmont terrain. No permit needed, beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "parking_notes",
+    "collection_rules",
+    "written_directions",
+    "gem_types"
+  ],
+  "enriched_at": "2026-04-21T18:42:27.462Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:43:58.470Z"
+}

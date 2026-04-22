@@ -1,0 +1,60 @@
+{
+  "slug": "pohakea-pass-hi",
+  "name": "Pohakea Pass",
+  "lat": 21.433625,
+  "lng": -158.093644,
+  "state": "Hawaii",
+  "state_slug": "hawaii",
+  "state_code": "HI",
+  "city": "Waipahu",
+  "city_slug": "waipahu",
+  "county": "Honolulu",
+  "county_slug": "honolulu",
+  "geocoded_city": "Waipahu",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-hawaii.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pohakea%20Pass%20Hawaii"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pohakea%20Pass",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pohakea%20Pass%20Hawaii"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1812,
+      "meters": 552
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:32:42.195Z"
+  },
+  "scraped_at": "2026-04-21T16:32:42.195Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "walker-lake-nv",
+  "name": "Walker Lake",
+  "lat": 38.784921,
+  "lng": -118.742462,
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "state_code": "NV",
+  "city": "Mineral County",
+  "city_slug": "mineral-county",
+  "county": "Mineral",
+  "county_slug": "mineral",
+  "geocoded_city": "Mineral County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nevada.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Walker%20Lake%20Nevada"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Nevada BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": true,
+      "url": "https://rockhoundingmap.com/?s=Walker%20Lake",
+      "description_snippet": "Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Walker%20Lake%20Nevada"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Nevada BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA.",
+      "[rockhounding_map] Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy"
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 2
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4008,
+      "meters": 1221
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:35:27.496Z"
+  },
+  "scraped_at": "2026-04-21T19:35:27.496Z",
+  "scrape_quality": "partial"
+}

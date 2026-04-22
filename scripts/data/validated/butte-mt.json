@@ -1,0 +1,101 @@
+{
+  "slug": "butte-mt",
+  "name": "Butte",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Butte",
+  "city_slug": "butte",
+  "county": "Silver Bow",
+  "county_slug": "silver-bow",
+  "lat": 46.020614,
+  "lng": -112.546299,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM rockhounding near Butte with exposed quartz veins and agate nodules from historic mining districts. Free public access with 25 lb daily limits.",
+  "description": "Butte sits within the northern Rocky Mountains at the edge of historic mining country, where extensive copper and precious metal operations have exposed excellent quartz and agate formations. The area around Butte on BLM land offers rockhounders access to mineralized zones with colorful quartz specimens, chalcedony, and nodular agate that formed during Tertiary magmatic and hydrothermal activity. Collectors can search weathered rock piles and outcrops that were disturbed by over a century of mining activity, making specimen hunting relatively accessible compared to unmined terrain.\n\nThe flat to gently rolling terrain at 5,847 feet elevation makes walking comfortable, though weather can turn quickly in fall and winter. BLM regulations here are straightforward: personal use only, no commercial collection, and a 25 lb per day limit. This is ideal for beginners and families who want to explore a working mining landscape without fees or permits.\n\nExpect to find specimens ranging from translucent quartz points to banded agate nodules weathering out of old dumps and along intermittent washes. The surrounding area still shows signs of historic prospecting and small-scale mining operations, which actually improves your odds of finding exposed mineral zones. Bring a sturdy backpack, plenty of water, and wear layers since mountain weather can change rapidly.",
+  "history": "Butte became one of North America's richest mining camps in the late 1800s, with underground copper and precious metal operations that created massive ore bodies through hydrothermal alteration. The quartz and agate found here today are byproducts of the same Tertiary-age magmatic and ore-bearing systems that made the Butte district legendary, now exposed in weathered tailings and natural outcrops across surrounding BLM land.",
+  "tips": "Search along old mine dumps and wash bottoms where water has sorted lighter specimens - quartz and agate tend to concentrate in these areas. Use a 5-10 pound hammer and chisel to carefully extract nodules from host rock, working gently to avoid shattering the specimen. Look for white to gray quartz veins cutting through darker country rock, and search for the distinctive banded or translucent appearance of agate in rounded nodule form. Early morning light shows specimens better, especially translucent materials.",
+  "terrain_notes": "Elevation 5,847 feet with flat to gently rolling terrain makes access easier than higher mountain sites. Sparse vegetation with sagebrush and grasses typical of Montana foothills. Walking distances vary from parking areas, but most productive collecting is within 0.5 mile of accessible pullouts. Footing is stable on most BLM land here, though watch for scattered loose rock and weathered debris.",
+  "best_season": "June - September for most reliable weather. Spring (May) can be muddy from snowmelt. Winter (November - March) brings snow and cold at this elevation, making access difficult. Fall (October) is excellent but weather becomes unpredictable rapidly.",
+  "written_directions": "From downtown Butte, head north on Montana Highway 2 for approximately 8 miles toward Helena. Look for BLM access points and pullouts on both sides of the highway in the rolling foothills. The best access is typically via Forest Road 442 or similar Forest Service connectors branching east from Highway 2. Scout for weathered rock piles and old mining disturbances visible from the road. Park safely off-pavement and hike to mineralized outcrops and wash bottoms within sight of parking.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Highway 2 is paved. Access roads and pullouts are unpaved dirt or gravel, passable for passenger vehicles in dry conditions.",
+  "parking_notes": "Pullouts and informal parking areas along Highway 2 and connecting BLM roads. No developed lot; expect 1-3 vehicle capacity at most pullouts. Park safely off-road to avoid highway traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Respect private property boundaries and active mining claims. Leave gates as you find them.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\n25 lb maximum per day per person\nNo commercial collection or resale\nNo motorized equipment or excavation\nNo collection from marked mining claims\nRespect all posted access restrictions\nLeave gates and fences secure",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "abandoned_mines",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Butte, Montana - full services including gas, food, lodging, and water supplies. Approximately 8 miles south from primary collecting areas.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Unpaved parking pullouts alongside paved highway. No wheelchair access to field sites, but some families with limited mobility can access rock piles near pullouts. Sturdy footwear recommended for rocky terrain and weathered debris.",
+  "alternative_names": [],
+  "nearest_city": "Butte",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/butte-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/butte-mt/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/butte-mt/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/butte-mt/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Butte, Montana?",
+      "answer": "On BLM land around Butte, you can find quartz specimens, agate nodules, chalcedony, and jasper. These formed during the same Tertiary hydrothermal events that created Butte's famous copper deposits. Translucent quartz points and banded agate nodules are most common in old mine dumps and wash bottoms."
+    },
+    {
+      "question": "Do I need a permit to collect rocks on BLM land near Butte?",
+      "answer": "No permit is required for recreational rockhounding on BLM land around Butte. You only need to follow Montana BLM rules: collect personal use only, limit 25 lbs per day, no commercial collection, and no motorized excavation. Simply check current BLM access notifications before visiting."
+    },
+    {
+      "question": "What is the best season for rockhounding in Butte, Montana?",
+      "answer": "June through September offers the most reliable weather at 5,847 feet elevation. May can be muddy from snowmelt, and October weather becomes unpredictable. Winter (November-March) brings snow and cold that limits access. Early fall (September-October) combines good weather with fewer visitors."
+    },
+    {
+      "question": "Is Butte rockhounding suitable for families and young children?",
+      "answer": "Yes, Butte BLM sites are beginner and family-friendly. The flat to gently rolling terrain makes access easier than mountain sites. Children ages 6 and up can participate with adult supervision. Dogs are allowed on BLM land. Keep trips short, bring plenty of water, and stay close to established pullouts for safety."
+    },
+    {
+      "question": "How far do I need to hike to find rocks worth collecting near Butte?",
+      "answer": "Most productive collecting is within 0.5 miles of highway pullouts on Highway 2. Old mine dumps, washes, and weathered outcrops visible from parking areas often yield good specimens. You do not need to hike deep into backcountry to find quartz and agate here."
+    },
+    {
+      "question": "What tools do I need for rockhounding around Butte, Montana?",
+      "answer": "Bring a small 5-10 pound hammer, cold chisel or flathead screwdriver, safety glasses, a sturdy backpack, and plenty of water. A hand lens helps identify quartz and agate details. Wear layers since mountain weather changes quickly. Gloves protect hands from sharp material and sharp edges on broken specimens."
+    }
+  ],
+  "meta_title": "Butte Rockhounding - Find Quartz & Agate in Montana",
+  "meta_description": "Free BLM rockhounding near Butte, Montana. Collect quartz, agate, and chalcedony with 25 lb daily limits. No permits needed. Beginner-friendly access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types inferred from Montana geology and Butte mining history without direct site source",
+    "specific BLM road names inferred from regional geography without detailed topo verification",
+    "cell_service rated spotty based on rural Montana location near Highway 2"
+  ],
+  "enriched_at": "2026-04-21T19:07:25.228Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:45.168Z"
+}

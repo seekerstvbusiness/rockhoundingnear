@@ -1,0 +1,60 @@
+{
+  "slug": "beechgrove-tn",
+  "name": "Beechgrove",
+  "lat": 35.608213,
+  "lng": -86.231533,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Coffee County",
+  "city_slug": "coffee-county",
+  "county": "Coffee",
+  "county_slug": "coffee",
+  "geocoded_city": "Beechgrove",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Beechgrove%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Beechgrove",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Beechgrove%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 870,
+      "meters": 265
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:22:52.872Z"
+  },
+  "scraped_at": "2026-04-21T18:22:52.872Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "fairburn-sd",
+  "name": "Fairburn",
+  "lat": 43.668262,
+  "lng": -103.026905,
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "state_code": "SD",
+  "city": "Custer County",
+  "city_slug": "custer-county",
+  "county": "Custer",
+  "county_slug": "custer",
+  "geocoded_city": "Custer County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Fairburn%20South%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Fairburn",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Fairburn%20South%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2996,
+      "meters": 913
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:41:51.833Z"
+  },
+  "scraped_at": "2026-04-21T17:41:51.833Z",
+  "scrape_quality": "minimal"
+}

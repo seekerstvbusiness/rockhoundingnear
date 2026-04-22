@@ -1,0 +1,106 @@
+{
+  "slug": "tahlequah-ok",
+  "name": "Tahlequah",
+  "state": "Oklahoma",
+  "state_slug": "oklahoma",
+  "city": "Tahlequah",
+  "city_slug": "tahlequah",
+  "county": "Cherokee",
+  "county_slug": "cherokee",
+  "lat": 35.92608,
+  "lng": -94.927272,
+  "gem_types": [
+    "Quartz",
+    "Chert",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "Rockhounding in the Tahlequah area offers opportunities to find quartz, chert, and chalcedony specimens in the scenic Illinois River valley. This historic Cherokee Nation area combines geological i...",
+  "description": "Tahlequah, located in Cherokee County in northeastern Oklahoma, sits within the Boston Mountains foothills of the Ozark Plateau. The region is known for its rich geological deposits of quartz and chert, formed during the Paleozoic Era when this area was covered by ancient seas and subsequently shaped by Precambrian basement rock uplift. The flat terrain around Tahlequah (at 713 feet elevation) makes rockhounding accessible to collectors of all skill levels.\n\nThe Illinois River valley near Tahlequah has long attracted rockhounders seeking quality specimens of milky quartz, smoky quartz, and colorful chert nodules. The area's gentle topography and abundant creekbeds provide excellent collecting opportunities, particularly along eroded banks and wash areas where specimens weather out naturally. Local outcrops and stream deposits yield specimens ranging from small palm-sized pieces to larger collectible chunks.\n\nThe Tahlequah region is part of the Ozark physiographic province, where Ordovician and Silurian-age rocks dominate the bedrock. Chert layers within these sedimentary formations are particularly productive, and quartz veins crosscut the landscape. The flat slope and relatively low elevation make this an ideal location for rockhounders who prefer less strenuous terrain while still accessing quality material.\n\nAccess to rockhounding areas in Cherokee County varies, with some locations on private land and others on public or state-managed areas. Always verify access before visiting, as many productive collecting sites require permission from landowners. The area is best visited during cooler months when creek levels are manageable and hiking conditions are optimal.",
+  "history": "The Tahlequah area sits within the Boston Mountains section of the Ozark Plateau, formed during the Precambrian and Paleozoic eras when marine transgression and regression deposited thick sequences of limestone, dolomite, and chert-bearing sedimentary rocks. Ordovician chert layers are particularly prominent in northeastern Oklahoma, making this region a natural collecting ground for quality specimens. The area has been explored by rockhounders for decades, with the accessible terrain and productive creekbeds making it a favorite for both amateur and serious collectors.",
+  "tips": "Search along the banks of the Illinois River and tributary streams where water erosion naturally exposes quartz and chert specimens. Look for tan, gray, and white chert nodules in creek gravels and around erosion cuts in banks. Bring a small chisel or pry bar to carefully extract specimens from outcrop faces, and use a classifier to sort creek material efficiently. Focus your collecting after heavy rains when new material is exposed, and always stay alert for unstable banks and slippery rocks near water.",
+  "terrain_notes": "Tahlequah sits at 713 feet elevation with predominantly flat terrain, making it very accessible for rockhounding. The area features gentle rolling hills, creek valleys, and moderate vegetation typical of the transitional zone between the Great Plains and Ozark Mountains. Walking distances to productive areas are generally short to moderate, with footing ranging from sandy creek beds to firm forest floor. The flat slope minimizes elevation gain, and hikers should expect normal woodland terrain with occasional rocky outcrops.",
+  "best_season": "April - June, September - November. These months offer moderate temperatures, manageable creek water levels, and pleasant hiking conditions. Avoid summer heat and humidity (July-August), and spring flooding risk during heavy rains.",
+  "written_directions": "From Tahlequah, head north on US 62 toward the Illinois River valley. Several access points exist along county roads and pullouts near creek drainages. Look for informal parking areas near bridge crossings on roads like County Road E and County Road J. The main rockhounding areas are within 3-5 miles north of downtown Tahlequah along the river floodplain. Always ask permission before accessing private property, and check with local land managers for current access status.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved county roads and US highways provide primary access. Secondary roads to some collecting areas may be unpaved or gravel-surfaced, passable by standard passenger vehicles under dry conditions. Check conditions after heavy rain.",
+  "parking_notes": "Informal pullouts and parking areas exist along county roads near creek access points. No developed parking lots. Typical pullout capacity is 3-5 vehicles. Arrive early on weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Rockhounding on public land in Cherokee County is permitted for personal use only on non-restricted areas. Always verify access before collecting - much of the best terrain is private property requiring landowner permission. Take only what you can reasonably carry. Do not remove specimens from protected archaeological or Native American cultural sites. Respect all posted property boundaries. The area is within Cherokee Nation territory; observe all tribal regulations.",
+  "quantity_limits": null,
+  "rules": "Personal use collecting only\nVerify access and get landowner permission for private land\nNo commercial collection without permit\nNo motorized equipment for excavation\nRespect all property boundaries and posted signs\nObserve Cherokee Nation regulations",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Tahlequah (3-5 miles south) offers gas, food, water, and lodging. The city has multiple restaurants, convenience stores, and a hospital.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Creek access may involve stepping over rocks and walking on uneven banks. Standard hiking boots or sturdy shoes recommended. Unpaved roads to some collecting areas. No wheelchair access to productive creekside collecting zones. Generally suitable for moderate fitness levels due to flat elevation profile.",
+  "alternative_names": [
+    "Illinois River Area",
+    "Cherokee County Rockhounding"
+  ],
+  "nearest_city": "Tahlequah",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oklahoma/tahlequah-ok/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oklahoma/tahlequah-ok/mineral-1-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oklahoma/tahlequah-ok/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oklahoma/tahlequah-ok/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What can you find rockhounding near Tahlequah, Oklahoma?",
+      "answer": "The Tahlequah area is known for quality specimens of quartz, chert, and chalcedony. You can find milky quartz, smoky quartz, and colorful chert nodules along creek beds and eroded banks in the Illinois River valley. Jasper specimens also occur in the region. Most finds are palm-sized to larger collectible pieces."
+    },
+    {
+      "question": "Is rockhounding free at Tahlequah, or do you need a permit?",
+      "answer": "Rockhounding for personal use on public land near Tahlequah is free and does not require a permit. However, much of the best terrain is private property - always get landowner permission before collecting. The Tahlequah area is within Cherokee Nation territory, so respect all tribal regulations and posted signs."
+    },
+    {
+      "question": "When is the best time to go rockhounding in Tahlequah?",
+      "answer": "April through June and September through November are ideal for rockhounding near Tahlequah. These months offer moderate temperatures, manageable creek water levels, and pleasant hiking. Avoid summer heat and humidity, and spring flooding risk. After heavy rains, new specimens are exposed in creek gravels."
+    },
+    {
+      "question": "Where specifically should I search for quartz and chert near Tahlequah?",
+      "answer": "Focus your collecting along the Illinois River and tributary creeks where water erosion naturally exposes specimens. Search creek banks, gravel bars, and around erosion cuts. Look for tan, gray, and white chert nodules in creek gravels. Uneven rocky terrain requires sturdy footwear."
+    },
+    {
+      "question": "Is Tahlequah rockhounding suitable for beginners and families?",
+      "answer": "Yes, Tahlequah is beginner and family-friendly. The flat terrain and easy creek access mean you do not need extensive hiking experience. Children ages 6 and up can enjoy collecting. The area is safe for dogs. However, always supervise children near water and slippery creek banks."
+    },
+    {
+      "question": "What tools do I need to bring for rockhounding in the Tahlequah area?",
+      "answer": "Bring a small chisel or pry bar to carefully extract specimens from outcrop faces, a mesh classifier to sort creek material, and sturdy hiking boots. A backpack for carrying specimens, water bottle, and a small hammer complete your kit. Creek water can be cold, so wear appropriate clothing and bring a change of socks."
+    }
+  ],
+  "meta_title": "Tahlequah Rockhounding - Quartz & Chert in Oklahoma",
+  "meta_description": "Find quartz, chert, and chalcedony near Tahlequah, Oklahoma. Free rockhounding on public land. Easy flat terrain, perfect for families. Access creek beds in the Illinois River valley.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "collection_rules",
+    "permit_required",
+    "commercial_use_allowed"
+  ],
+  "enriched_at": "2026-04-21T17:11:12.069Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:12:54.530Z"
+}

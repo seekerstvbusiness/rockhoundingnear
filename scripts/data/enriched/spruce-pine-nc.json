@@ -1,0 +1,107 @@
+{
+  "slug": "spruce-pine-nc",
+  "name": "Spruce Pine",
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "city": "Spruce Pine",
+  "city_slug": "spruce-pine",
+  "county": "Mitchell",
+  "county_slug": "mitchell",
+  "lat": 35.919323,
+  "lng": -81.999391,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Tourmaline",
+    "Beryl"
+  ],
+  "short_description": "Historic mining hub in the Blue Ridge Mountains famous for high-quality feldspar, quartz, and mica. World-class pegmatite deposits yield tourmaline, beryl, and other rare minerals.",
+  "description": "Spruce Pine is one of North Carolina's most significant mineral collecting destinations, located in the heart of the Blue Ridge Mountains of Mitchell County. The area has been a major source of feldspar, quartz, and mica since the 1800s, with industrial mining operations that continue today. The region's pegmatitic rocks - coarse-grained igneous rocks formed from cooling magma - contain exceptional mineral specimens including tourmaline, beryl, and various feldspars that attract rockhounds from across the country.\n\nThe geological setting here is ideal for mineral collection. Spruce Pine sits within the Inner Piedmont province, where Precambrian metamorphic rocks were intruded by Ordovician pegmatites. These pegmatites formed when silica-rich fluids cooled slowly underground, creating large crystal formations. The area's famous Spruce Pine Gem Mine and other regional operations have exposed fresh pegmatite faces, making specimen collection accessible to both beginners and experienced collectors.\n\nCollectors can find specimens on mining company property (with permission), along roadsides, in creek beds, and at local gem mines offering fee digging. The most productive areas are around former and active mining operations where pegmatite outcrops are visible. Quartz crystals, feldspar (often pink or white), mica sheets, and tourmaline are most commonly found. Beryl specimens, including emerald-green varieties, are rarer but possible in pegmatite pockets.\n\nThe region combines easy access with world-class mineral diversity. Many local operations welcome collectors and offer guided digging experiences. The surrounding mountains provide scenic hiking and multiple collecting opportunities at various difficulty levels.",
+  "history": "Spruce Pine's mineral deposits were formed during the Ordovician period when pegmatitic magma intruded into Precambrian metamorphic host rocks, creating some of the world's largest feldspar deposits. Commercial mining began in the 1800s and has continued for nearly two centuries, making this one of the longest-running mineral-producing areas in the eastern United States.",
+  "tips": "Search along active and abandoned mine tailings where pegmatite has been freshly exposed - quartz and feldspar crystals are easiest to spot here. Bring a hand lens to identify tourmaline (typically black, sometimes green or pink striations) within white feldspar matrices. Look in stream beds downslope from mine areas where eroded pegmatite material collects. Check with local mines and private property owners before collecting - many allow rockhounding for free or small fees and often point you to the best current exposures.",
+  "terrain_notes": "Mountainous terrain in the Blue Ridge with elevations around 2,500-3,000 feet. Most collecting areas are on moderate slopes with mixed hardwood and evergreen forest. Access varies from roadside pullouts with easy walking to steeper hillsides requiring scrambling. Creek beds and mine tailings offer relatively flat collecting zones. Footing can be uneven with loose rock and talus common.",
+  "best_season": "April - October. Spring through early fall offers the best weather for outdoor collecting. Winters bring cold temperatures and occasional snow that makes mountain roads less reliable. Late spring (May-June) and early fall (September) are ideal for comfortable hiking and mine access.",
+  "written_directions": "From Spruce Pine town center, head east on US 19E toward the mountains. Most productive collecting areas are within 5 miles of town along US 19E and local roads near mining operations. For roadside collecting, pull off safely near visible pegmatite outcrops along US 19E between Spruce Pine and the North Carolina-Tennessee border. For fee digging and mine access, contact local gem mines listed in town (Spruce Pine area has several commercial operations with clearly marked entrances). High-clearance vehicles recommended for some backcountry mining road access.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 19E is fully paved and well-maintained. Secondary roads to mine properties are generally paved or well-graded gravel. Some backcountry mining roads may be rougher and require careful driving.",
+  "parking_notes": "Multiple safe pullouts along US 19E for roadside collecting. Fee mining operations have dedicated parking areas. Creek bed access via small turnouts along various local roads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use collection only on public roadsides and designated collecting areas. Check with private mine operations regarding their collection policies - some charge modest fees ($5-20 per person per day) and provide access to better exposures. No commercial collection or resale of specimens. Respect all posted private property signs. Always obtain permission before entering posted private land or active mine properties. Pack out all waste.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nNo commercial collection or resale\nObtain permission before accessing private property\nRespect all posted signs\nDo not enter active mining operations without authorization\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "abandoned_mines",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Spruce Pine town center is 0-5 miles away with gas stations, restaurants, and accommodations.",
+  "accessibility_notes": "Roadside and mine-adjacent collecting areas are relatively flat and accessible to most fitness levels. Some creek bed areas require modest hiking and stream crossing. Mine tailings may have uneven surfaces and loose rock. Hiking to more remote pegmatite outcrops can be moderate, with elevation gain and uneven footing. Not ideal for wheelchair access, but many roadside and mine-based options require minimal walking.",
+  "alternative_names": [
+    "Spruce Pine Gem Area",
+    "Blue Ridge Mining District",
+    "Mitchell County Pegmatite Fields"
+  ],
+  "nearest_city": "Spruce Pine",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/spruce-pine-nc/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/spruce-pine-nc/mineral-1-feldspar.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems and minerals can you find rockhounding at Spruce Pine, North Carolina?",
+      "answer": "Spruce Pine is famous for high-quality quartz, feldspar (pink and white varieties), mica, tourmaline, and beryl. The pegmatitic rock formations make it one of the best places on the East Coast to find crystal specimens and rare mineral combinations. Black tourmaline is common, while emerald-green beryl is rarer but possible in pegmatite pockets."
+    },
+    {
+      "question": "Is rockhounding free at Spruce Pine or do you need to pay a fee?",
+      "answer": "Free roadside and public collecting is possible along US 19E and accessible creek beds. However, many of the best collecting areas are at fee-based gem mines ($5-20 per person per day). These fee operations provide tools, guidance, and access to actively mined pegmatite faces with fresh mineral exposures. Check locally for current fees and hours."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Spruce Pine?",
+      "answer": "No permit is required for personal use collecting on public roadsides and designated free areas. However, you must obtain permission before entering private mining property or posted land. Most fee mines handle this automatically when you pay their entrance fee. Always ask before collecting anywhere."
+    },
+    {
+      "question": "What is the best season to go rockhounding in Spruce Pine, North Carolina?",
+      "answer": "April through October offers the best weather for collecting in the Blue Ridge Mountains. May-June and September are ideal for comfortable hiking and outdoor work. Winter snow and ice can make mountain roads less reliable and collecting less pleasant. Spring and early fall are peak seasons."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding at Spruce Pine?",
+      "answer": "Bring a geology hammer or chisel, hand lens (10x magnification) for identifying tourmaline and beryl, safety glasses, and a backpack. Many fee mines provide tools, but bringing your own gives you control over technique. Sturdy hiking boots are essential for rocky terrain. Water and sun protection are critical in the mountains."
+    },
+    {
+      "question": "Is Spruce Pine a good rockhounding location for beginners and families?",
+      "answer": "Yes, Spruce Pine is beginner-friendly and family-accessible. Roadside collecting along US 19E requires minimal effort, and fee-based gem mines offer guided experiences perfect for children ages 6+. The variety of minerals, close proximity to town services, and mix of easy and moderate collecting spots make it ideal for introducing kids to rockhounding."
+    }
+  ],
+  "meta_title": "Spruce Pine Rockhounding - Find Quartz & Tourmaline",
+  "meta_description": "Rockhound for quartz, feldspar, and tourmaline at Spruce Pine, NC. Free and fee collecting near the Blue Ridge Mountains. Beginner-friendly sites.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "vehicle_required",
+    "dog_friendly",
+    "family_friendly",
+    "nearest_city_distance",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T10:17:31.351Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T10:18:40.038Z"
+}

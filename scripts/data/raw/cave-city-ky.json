@@ -1,0 +1,60 @@
+{
+  "slug": "cave-city-ky",
+  "name": "Cave City",
+  "lat": 37.104055,
+  "lng": -86.012474,
+  "state": "Kentucky",
+  "state_slug": "kentucky",
+  "state_code": "KY",
+  "city": "Barren County",
+  "city_slug": "barren-county",
+  "county": "Barren",
+  "county_slug": "barren",
+  "geocoded_city": "Barren County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kentucky.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cave%20City%20Kentucky"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cave%20City",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cave%20City%20Kentucky"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 725,
+      "meters": 221
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:17:25.938Z"
+  },
+  "scraped_at": "2026-04-21T17:17:25.938Z",
+  "scrape_quality": "minimal"
+}

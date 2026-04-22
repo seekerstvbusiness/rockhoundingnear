@@ -1,0 +1,83 @@
+{
+  "state_slug": "delaware",
+  "total": 10,
+  "stages": {
+    "scrape": {
+      "done": [
+        "hoopes-reservoir-de",
+        "coursey-pond-de",
+        "chesapeake-delaware-canal-de",
+        "laurel-de",
+        "deauville-beach-de",
+        "fowler-beach-de",
+        "pepper-creek-de",
+        "killen-pond-de",
+        "near-brandywine-springs-state-park-de",
+        "cape-henlopen-de"
+      ],
+      "failed": []
+    },
+    "enrich": {
+      "done": [
+        "pepper-creek-de",
+        "killen-pond-de",
+        "fowler-beach-de",
+        "laurel-de",
+        "cape-henlopen-de",
+        "near-brandywine-springs-state-park-de",
+        "deauville-beach-de",
+        "hoopes-reservoir-de",
+        "coursey-pond-de",
+        "chesapeake-delaware-canal-de"
+      ],
+      "failed": []
+    },
+    "images": {
+      "done": [
+        "laurel-de",
+        "hoopes-reservoir-de",
+        "cape-henlopen-de",
+        "pepper-creek-de",
+        "fowler-beach-de",
+        "chesapeake-delaware-canal-de",
+        "near-brandywine-springs-state-park-de",
+        "coursey-pond-de",
+        "killen-pond-de",
+        "deauville-beach-de"
+      ],
+      "failed": []
+    },
+    "validate": {
+      "done": [
+        "cape-henlopen-de",
+        "laurel-de",
+        "hoopes-reservoir-de",
+        "deauville-beach-de",
+        "fowler-beach-de",
+        "chesapeake-delaware-canal-de",
+        "pepper-creek-de",
+        "coursey-pond-de",
+        "killen-pond-de",
+        "near-brandywine-springs-state-park-de"
+      ],
+      "failed": []
+    },
+    "import": {
+      "done": [
+        "cape-henlopen-de",
+        "laurel-de",
+        "hoopes-reservoir-de",
+        "deauville-beach-de",
+        "fowler-beach-de",
+        "chesapeake-delaware-canal-de",
+        "pepper-creek-de",
+        "coursey-pond-de",
+        "killen-pond-de",
+        "near-brandywine-springs-state-park-de"
+      ],
+      "failed": []
+    }
+  },
+  "started_at": "2026-04-21T16:33:36.020Z",
+  "updated_at": "2026-04-22T10:13:30.347Z"
+}

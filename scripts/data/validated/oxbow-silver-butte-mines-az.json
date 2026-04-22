@@ -1,0 +1,100 @@
+{
+  "slug": "oxbow-silver-butte-mines-az",
+  "name": "Oxbow & Silver Butte Mines",
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "city": "Fountain Hills",
+  "city_slug": "fountain-hills",
+  "county": "Gila",
+  "county_slug": "gila",
+  "lat": 34.16844,
+  "lng": -111.353996,
+  "gem_types": [
+    "Quartz",
+    "Gold",
+    "Silver",
+    "Chalcedony"
+  ],
+  "short_description": "Historic silver and gold mines on BLM land near Fountain Hills. Free public rockhounding with easy access to mineralized quartz and precious metal specimens.",
+  "description": "The Oxbow and Silver Butte Mines represent classic Arizona mining country in the transition zone between the Superstition Mountains and the Tonto Basin. These historic claims and workings sit on public BLM land with excellent access for recreational rockhounders seeking quartz, gold, and silver-bearing specimens. The mineralization here is typical of Laramide-era porphyry and epithermal deposits that formed between 70 and 50 million years ago when magmatic fluids rose through fractured granite and metamorphic host rocks.\n\nThe terrain offers moderate slopes with scattered desert vegetation, making it accessible for most rockhounds without extreme technical difficulty. Hikers will encounter a mix of exposed rock outcrops, mineralized vein material, and rocky washes that naturally concentrate specimens. The area is relatively open and well-suited for family groups and beginners looking to try small-scale prospecting without the cost of fee dig sites.\n\nQuartz is the dominant mineral found here, ranging from milky white to rose-tinted specimens. Gold and silver traces appear in association with the quartz veins, though specimens are typically small to micro-sized rather than nugget material. Chalcedony and agate-like material can be found in the surrounding washes. Water sources are limited, so bring adequate supplies for the season.\n\nThis site offers a genuine connection to Arizona's mining heritage. Unlike developed fee dig operations, Oxbow and Silver Butte give rockhounders the chance to explore actual historic mining terrain where prospectors worked over a century ago. The BLM designation ensures public access and personal use collection rights without permits or commercial restrictions.",
+  "history": "The Oxbow and Silver Butte Mines developed during Arizona's secondary mining boom in the late 1800s and early 1900s, targeting silver-bearing veins within the Proterozoic metamorphic complex and Laramide-age granitic intrusions. The mineralization here formed when hydrothermal fluids ascended through fractured bedrock during the major magmatic episodes that created most of Arizona's precious metal deposits, creating quartz-hosted veins rich in silver, gold, and associated minerals.",
+  "tips": "Focus your search on the exposed vein material and rocky outcrops that weather out of the hillsides - look for white and cream-colored quartz with darker mineral inclusions where precious metals are most likely to occur. Bring a geology hammer or rock chisel to carefully extract specimens from larger quartz outcrops rather than simply surface collecting. Work the dry washes and arroyos after good rains when new material has been exposed by runoff. Inspect samples under good light for small flakes or threads of gold or silver within the quartz matrix, as most specimens here are matrix material rather than pure nuggets.",
+  "terrain_notes": "Moderate slopes with exposed bedrock, loose rock, and rocky footing throughout. Elevation approximately 2,600 feet with desert scrub, creosote, and scattered palo verde vegetation. Most productive areas are within 0.5 to 2 miles of parking, requiring 15 to 45 minutes hiking depending on chosen direction. Terrain is rocky and uneven with no maintained trails; sturdy hiking boots essential.",
+  "best_season": "October - April. Arizona's low desert climate makes this area extremely hot May through September, with midday temperatures often exceeding 105 degrees F. Winter months offer comfortable hiking conditions with cool mornings and mild afternoons, plus better visibility of light-colored quartz specimens against the darker desert soil.",
+  "written_directions": "From Fountain Hills, take AZ 87 (South Beeline Highway) north for approximately 44 miles toward Payson. Watch for mining claim markers and informal pullouts on either side of the highway near mile marker areas showing historical activity. The Oxbow and Silver Butte Mines are accessed via rough dirt roads branching east or west from AZ 87. GPS coordinates are 34.16844, -111.353996. High-clearance vehicles recommended; standard passenger cars may struggle on rougher approach roads during wet conditions.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt roads with washboard texture and potential high-clearance requirements. Approach roads vary from moderately rough to very rough depending on recent maintenance and weather. May be impassable for low-clearance vehicles during or immediately after rain.",
+  "parking_notes": "Informal pullouts and cleared areas near the mines. No developed parking lot. Space for 3-5 vehicles in most pullout areas. Look for mining claim signs and historic workings as landmarks.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or resale of specimens. No motorized excavation or heavy equipment. Hand tools only - rock hammer, chisel, pick. Remove only loose and weathered material; do not break into solid rock faces or active vein systems. Pack out all trash. Respect any marked private claims adjacent to BLM parcels.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nRemove loose and weathered material only\nRespect marked private claims\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Fountain Hills (44 miles south) has gas, food, and water. Payson (approximately 30 miles north) also offers services. Both towns are essential supply stops before heading to this remote location.",
+  "accessibility_notes": "Uneven rocky terrain with moderate slopes and loose rock throughout. No wheelchair access. Sturdy hiking boots required. Terrain is suitable for fit adults and older children but not for those with limited mobility. Water sources are non-existent in the immediate area; all water must be carried in.",
+  "alternative_names": [
+    "Silver Butte Mine",
+    "Oxbow Mine"
+  ],
+  "nearest_city": "Fountain Hills",
+  "nearest_city_distance": 44,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/oxbow-silver-butte-mines-az/mineral-1-gold.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What can you find rockhounding at Oxbow and Silver Butte Mines in Arizona?",
+      "answer": "The primary finds are quartz specimens, often with visible gold or silver mineralization. Chalcedony and agate-like material also appear in the surrounding washes. Most gold and silver occurs as micro-sized traces within quartz matrix rather than as discrete nuggets, making this ideal for collectors interested in mineralized specimens and Arizona mining heritage."
+    },
+    {
+      "question": "Do you need a permit to rockhound at the Oxbow and Silver Butte Mines?",
+      "answer": "No permit is required. This is BLM public land open for recreational rockhounding under personal use collection rights. You can collect up to 25 lbs per day per FLPMA regulations without any permit, fee, or advance notification needed."
+    },
+    {
+      "question": "What is the best time of year to visit these mines near Fountain Hills?",
+      "answer": "October through April offers ideal conditions. Summers are dangerously hot with temperatures regularly exceeding 105 degrees F, making outdoor work difficult and potentially hazardous. Winter provides comfortable hiking weather, better specimen visibility, and safer working conditions."
+    },
+    {
+      "question": "What tools and gear do you need for rockhounding at Oxbow and Silver Butte?",
+      "answer": "Bring a rock hammer, chisel, and small pick for extracting specimens. You will also need sturdy hiking boots for rocky terrain, a backpack with 25+ lbs capacity, sun protection, and at least 2-3 liters of water per person. A GPS device or smartphone with offline maps is helpful in this remote area with spotty cell service."
+    },
+    {
+      "question": "How difficult is rockhounding at Oxbow and Silver Butte Mines for beginners?",
+      "answer": "This is a moderate-difficulty site. The terrain is rocky with uneven footing and moderate slopes, but the site is accessible without technical rock climbing or extreme endurance requirements. Beginners should have reasonable fitness for hiking and be comfortable with rough terrain. The abundance of surface material and exposed quartz makes it beginner-friendly for actual specimen collection."
+    },
+    {
+      "question": "Is the drive from Fountain Hills to Oxbow and Silver Butte Mines difficult?",
+      "answer": "The main drive north on AZ 87 from Fountain Hills is straightforward, but the final approach roads to the mines are rough dirt roads requiring high-clearance or all-wheel-drive vehicles. Standard passenger cars may struggle, especially after rain. Allow 1-1.5 hours total travel time from Fountain Hills including the rough approach."
+    }
+  ],
+  "meta_title": "Oxbow & Silver Butte Mines Rockhounding - Arizona",
+  "meta_description": "Free BLM rockhounding for quartz, gold, and silver near Fountain Hills. No permit needed. Find mineralized specimens at historic Arizona mines.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "road_conditions details for specific approach roads",
+    "parking_notes capacity estimates",
+    "nearest_services alternative stops"
+  ],
+  "enriched_at": "2026-04-21T15:38:19.106Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T15:56:28.003Z"
+}

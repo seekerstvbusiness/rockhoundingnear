@@ -1,0 +1,101 @@
+{
+  "slug": "ophir-ut",
+  "name": "Ophir",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Tooele",
+  "city_slug": "tooele",
+  "county": "Tooele",
+  "county_slug": "tooele",
+  "lat": 40.373873,
+  "lng": -112.264081,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Gold",
+    "Calcite"
+  ],
+  "short_description": "BLM public land near Tooele offering gold panning and quartz collection in historic mining terrain. Personal use collecting with no permit required.",
+  "description": "Ophir sits in the heart of the Oquirrh Mountains mining district, where over 150 years of mineral exploration have revealed significant deposits of gold, silver, and quartz. This BLM-managed area provides public rockhounders with rare access to historic mining country where you can search for small gold flakes, quartz crystals, and feldspar specimens in areas adjacent to old claims and mine tailings.\n\nThe Ophir district formed during Tertiary-era hydrothermal mineralization when hot silica-rich fluids rising through fractured limestone and quartzite created rich mineral veins. The exposed geology here showcases excellent examples of metamorphic rocks, quartz veins, and iron-stained outcropping that signal mineralization. Many collectors focus on the washes and exposed banks where erosion naturally concentrates lighter minerals.\n\nThis location offers a mix of difficulty levels depending on where you explore. Accessible washes near lower elevations are suitable for beginners interested in gold panning, while rockhounders seeking quartz crystals and mineral specimens may venture onto steeper hillsides with more challenging terrain. The area rewards patience and careful observation, especially after seasonal water flow has moved material and exposed fresh surfaces.\n\nBecause this is active public mining country with claims still being worked nearby, always check posted claim markers and avoid any enclosed mine shafts or active digging areas. The combination of historical significance, accessible public land, and legitimate collecting potential makes Ophir a compelling destination for Utah rockhounds.",
+  "history": "The Ophir mining district has been worked since the 1870s when prospectors discovered silver and gold veins in the Oquirrh Mountains. The mineralization formed during Tertiary time when hydrothermal fluids associated with granitic intrusions deposited gold, silver, copper, and quartz in fractures cutting through Precambrian metamorphic rocks and Paleozoic limestone.",
+  "tips": "Search the bottoms of washes and erosional gullies where gold and heavy minerals naturally concentrate after water flow. Bring a gold pan or classifier for wet areas and focus on quartz-rich banks where feldspar and calcite often cluster together. Look for iron-stained outcrops on hillsides as these typically indicate mineralized zones. Early morning visits avoid afternoon heat and give you best light for spotting light-colored quartz veins against darker host rock.",
+  "terrain_notes": "Elevation ranges from 5,400 to 7,200 feet in the immediate Ophir area. Terrain transitions from relatively flat wash bottoms with cobble and sand to steep rocky hillsides with loose scree and exposed bedrock outcrops. Vegetation is sparse to moderate scrub oak and sagebrush typical of the Wasatch transition zone. Walking distance from parking varies from 0.25 miles for accessible wash areas to 2+ miles for higher ridge-top collecting. Footing is uneven with abundant loose rock and some slickrock outcrops.",
+  "best_season": "May - October. Winter snow and cold make access difficult above 6,000 feet. Spring and early summer offer reliable access and water flow in washes that exposes fresh material. Fall provides warm days and fewer afternoon thunderstorms.",
+  "written_directions": "From Tooele, take Main Street south approximately 12 miles toward Ophir Canyon. Continue on Ophir Canyon Road (also marked as East Canyon Road locally) south and east for 6 miles as it climbs into the Oquirrh Mountains. Look for BLM parking pullouts and access points along the canyon bottom where the road parallels Ophir Creek. Park at any pullout with good sightlines to washes and established rock outcrops. High-clearance vehicles recommended for rough sections in upper canyon.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Ophir Canyon Road is rough dirt and gravel, with washboard sections and minor rocky washouts common in spring. High-clearance vehicle strongly recommended. Not suitable for low-profile passenger cars in upper canyon areas.",
+  "parking_notes": "Informal pullouts along Ophir Canyon Road at the base of the canyon and mid-canyon sections. Limited developed parking; expect 2-6 vehicle capacity at most pullouts. Larger parking area near old Ophir townsite if conditions allow access.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Avoid marked mining claims. Do not enter or disturb mine structures. BLM recreation permit not required for casual collecting.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized equipment for digging\nRespect posted claim markers\nAvoid mine shafts and enclosed structures\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "cold"
+  ],
+  "nearest_services": "Tooele, approximately 15 miles northwest. Full services including gas, food, water, and medical facilities available.",
+  "accessibility_notes": "Lower canyon wash areas are relatively flat and accessible with sturdy hiking boots. Uneven rocky terrain with scattered loose rock throughout. Hillside collecting requires scrambling over scree and exposed bedrock with no maintained trails. Steeper upper canyon sections not suitable for limited mobility. Bring plenty of water and sun protection.",
+  "alternative_names": [
+    "Ophir Canyon"
+  ],
+  "nearest_city": "Tooele",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/ophir-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/ophir-ut/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Can you find gold at Ophir Utah rockhounding site?",
+      "answer": "Yes, Ophir is a historic gold mining district in the Oquirrh Mountains where small gold flakes and occasional small nuggets can be found in washes and creek bottoms. Many collectors use gold pans in wet areas near Ophir Creek. The mineralization is real and documented, though gold recovery requires patience and proper panning technique."
+    },
+    {
+      "question": "What quartz crystals and gems can you collect at Ophir?",
+      "answer": "Quartz crystals, feldspar, and calcite are the primary gems found here, along with occasional gold. The area also yields quartz veins in outcrop form and small crystal specimens. Iron-stained quartz is common on hillside outcrops where hydrothermal activity was concentrated."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Ophir BLM land?",
+      "answer": "No permit is required for recreational personal use collecting on BLM land at Ophir. You are limited to 25 lbs per day per FLPMA rules. Commercial collection and motorized excavation are not allowed."
+    },
+    {
+      "question": "What is the best season to rockhound near Tooele at Ophir?",
+      "answer": "May through October is ideal, as winter snow above 6,000 feet makes access difficult. Spring and early summer offer excellent conditions with water flow in washes that exposes fresh material. Avoid afternoon thunderstorms common in July and August by starting early."
+    },
+    {
+      "question": "Is Ophir rockhounding site beginner friendly with kids?",
+      "answer": "Yes, lower canyon areas are accessible for families and beginners ages 8 and up. Wash bottoms near Ophir Creek offer easy collecting without technical skills. Kids can learn gold panning in wet areas. Higher hillside collecting requires more experience and stamina."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at Ophir?",
+      "answer": "Bring a gold pan or classifier if you plan to work the creek, a rock hammer and chisel for specimen extraction, sturdy boots for uneven terrain, sun protection, and at least 2 liters of water per person. A hand lens helps identify minerals. High-clearance vehicle is recommended for accessing Ophir Canyon Road."
+    }
+  ],
+  "meta_title": "Ophir Rockhounding - Utah Gold Panning & Quartz",
+  "meta_description": "Find gold, quartz, and feldspar at Ophir, Utah on public BLM land. Historic mining district near Tooele with free collecting, no permit required. Plan your trip.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "terrain_notes"
+  ],
+  "enriched_at": "2026-04-22T06:53:28.986Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:02:55.408Z"
+}

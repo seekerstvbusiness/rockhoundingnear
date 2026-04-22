@@ -1,0 +1,65 @@
+{
+  "slug": "jemez-national-recreation-area-nm",
+  "name": "Jemez National Recreation Area",
+  "lat": 35.828325,
+  "lng": -106.641598,
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "state_code": "NM",
+  "city": "Sandoval County",
+  "city_slug": "sandoval-county",
+  "county": "Sandoval",
+  "county_slug": "sandoval",
+  "geocoded_city": "Sandoval County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-mexico.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Jemez%20National%20Recreation%20Area%20New%20Mexico"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "New Mexico BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Jemez%20National%20Recreation%20Area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Jemez%20National%20Recreation%20Area%20New%20Mexico"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] New Mexico BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 7050,
+      "meters": 2149
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:30:25.694Z"
+  },
+  "scraped_at": "2026-04-21T19:30:25.694Z",
+  "scrape_quality": "partial"
+}

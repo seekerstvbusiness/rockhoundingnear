@@ -1,0 +1,60 @@
+{
+  "slug": "monument-mountain-ma",
+  "name": "Monument Mountain",
+  "lat": 42.25884,
+  "lng": -73.349342,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Stockbridge",
+  "city_slug": "stockbridge",
+  "county": "Berkshire",
+  "county_slug": "berkshire",
+  "geocoded_city": "Stockbridge",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Monument%20Mountain%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Monument%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Monument%20Mountain%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1700,
+      "meters": 518
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:16:02.343Z"
+  },
+  "scraped_at": "2026-04-21T19:16:02.343Z",
+  "scrape_quality": "minimal"
+}

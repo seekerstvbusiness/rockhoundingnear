@@ -1,0 +1,60 @@
+{
+  "slug": "baldpate-mountain-me",
+  "name": "Baldpate Mountain",
+  "lat": 44.609213,
+  "lng": -70.892147,
+  "state": "Maine",
+  "state_slug": "maine",
+  "state_code": "ME",
+  "city": "Grafton Township",
+  "city_slug": "grafton-township",
+  "county": "Oxford",
+  "county_slug": "oxford",
+  "geocoded_city": "Grafton Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maine.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Baldpate%20Mountain%20Maine"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Baldpate%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Baldpate%20Mountain%20Maine"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3815,
+      "meters": 1163
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:46:53.316Z"
+  },
+  "scraped_at": "2026-04-21T16:46:53.317Z",
+  "scrape_quality": "minimal"
+}

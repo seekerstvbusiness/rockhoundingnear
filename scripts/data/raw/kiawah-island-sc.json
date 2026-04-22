@@ -1,0 +1,60 @@
+{
+  "slug": "kiawah-island-sc",
+  "name": "Kiawah Island",
+  "lat": 32.601697,
+  "lng": -80.083054,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "Charleston County",
+  "city_slug": "charleston-county",
+  "county": "Charleston",
+  "county_slug": "charleston",
+  "geocoded_city": "Kiawah Island",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Kiawah%20Island%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Kiawah%20Island",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Kiawah%20Island%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4,
+      "meters": 1
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:58:24.032Z"
+  },
+  "scraped_at": "2026-04-21T17:58:24.032Z",
+  "scrape_quality": "minimal"
+}

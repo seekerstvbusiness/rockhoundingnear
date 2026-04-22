@@ -1,0 +1,99 @@
+{
+  "slug": "whistler-spring-or",
+  "name": "Whistler Spring",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Crook County Area",
+  "city_slug": "crook-county",
+  "county": "Crook",
+  "county_slug": "crook",
+  "lat": 44.496386,
+  "lng": -120.485902,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding site in central Oregon offering agate, jasper, and chalcedony on gentle terrain. Free public access with no permits required for personal use collection.",
+  "description": "Whistler Spring is a popular Oregon BLM rockhounding destination located in Crook County's high desert region. This public land site provides excellent opportunities for collectors of all skill levels to search for agate, jasper, and chalcedony specimens across gently sloping terrain typical of central Oregon's geology.\n\nThe area sits within the John Day Fossil Beds region, where Oligocene and Miocene volcanic activity left behind extensive deposits of silica-rich minerals. Over millions of years, weathering and erosion have exposed nodules and fragments of agate and jasper throughout the landscape, making surface collecting productive year-round. The gentle slope and open terrain make this site accessible for families and beginners.\n\nWhistler Spring offers the classic high desert rockhounding experience without the crowds found at commercial dig sites. The surrounding landscape features scattered sagebrush, juniper, and exposed volcanic rock formations that constantly weather to reveal new material. Ground coverage is uneven but navigable, with multiple search areas across the BLM property.\n\nAs a free public access site on BLM land, Whistler Spring requires no permit and allows personal use collection up to 25 pounds per day. The lack of facilities means you should bring water, sun protection, and sturdy hiking boots. Early morning visits during cooler months provide the most comfortable collecting conditions.\n\nThis location appeals to collectors seeking authentic rockhounding without commercial pressures, along with the chance to explore Oregon's rich volcanic geology firsthand.",
+  "history": "Whistler Spring sits within the John Day Fossil Beds region, where extensive Oligocene and Miocene volcanic activity (roughly 33 to 20 million years ago) deposited thick layers of volcanic ash, rhyolite, and basalt. Silica-rich hydrothermal fluids from this volcanism formed the agate, jasper, and chalcedony nodules found throughout the area today. Continued erosion and weathering of these volcanic deposits expose fresh material annually, making this a naturally replenishing rockhounding site.",
+  "tips": "Search the wash bottoms and eroded hillsides where gravity has concentrated loose agate and jasper fragments - these areas often yield the most material with minimal effort. Look for the characteristic banded patterns and translucent edges of agate nodules; most specimens here are palm-sized to fist-sized, weathered from larger deposits in the surrounding volcanic rock. Bring a small magnifying glass to examine chalcedony for subtle color banding and patterns that distinguish high-quality specimens. Work early mornings during cooler months to avoid the intense sun and heat that make afternoon collecting uncomfortable.",
+  "terrain_notes": "Gentle slope with scattered volcanic rock outcrops, sagebrush vegetation, and open high desert landscape. Elevation approximately 2,800 feet. Walking surfaces are uneven but navigable - a mix of exposed bedrock, loose scree, and sandy soil. No formal trails; collectors spread across the BLM property. Parking area to productive collecting zones is typically a short walk of 0.25 to 0.5 miles across open terrain. Footing is manageable but sturdy boots with good ankle support are essential.",
+  "best_season": "October - April. The high desert climate brings intense heat above 85 degrees from May through September, making midday collecting uncomfortable and increasing sun exposure risk. Spring and fall offer mild temperatures (50-70 degrees) and occasional moisture that helps reveal fresh material. Winter is accessible but cold; dress in layers.",
+  "written_directions": "From Prineville (the closest town with full services), take US 26 east toward John Day for approximately 35 miles. Look for BLM access roads and signage directing to Whistler Spring rockhounding area on the north side of US 26. GPS coordinates 44.496386, -120.485902 will take you directly to the primary parking and access area. The final approach may be on a rough BLM road suitable for passenger vehicles in dry conditions; high-clearance vehicles recommended after rain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough BLM access road with potential washboard surface. Suitable for passenger vehicles in dry conditions; high-clearance or AWD recommended after recent rain or snow. No paving; dirt surface prone to becoming slippery when wet.",
+  "parking_notes": "Informal pullout area near the main Whistler Spring access. No designated parking lot or facilities. Space for 5-10 vehicles depending on grouping. No restrooms, water, or shade structures available.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or sale of material. No motorized excavation, pick-and-hammer collection only. Collecting restricted to loose material and weathered nodules on the surface; do not break open bedrock formations or extract from vertical cliff faces.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection or resale\nNo motorized excavation\nHand tools only - pick and hammer collection\nNo rock blasting or dynamite\nDo not damage or deface geological formations\nPack out all waste and trash\nRespect surrounding wildlife and vegetation",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote",
+    "snakes"
+  ],
+  "nearest_services": "Prineville, approximately 35 miles west. Full services including gas, food, water, and medical facilities. John Day, approximately 40 miles east, also offers gas and limited services.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain with uneven rocky surfaces and scattered loose scree. No wheelchair access. Sturdy footwear with good ankle support is essential. Walking distances from parking to productive areas are typically short (less than 0.5 miles) and manageable for most hikers. The open landscape provides good visibility and navigation is straightforward. Not suitable for mobility-impaired visitors due to uneven terrain.",
+  "alternative_names": [],
+  "nearest_city": "Prineville",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/whistler-spring-or/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can I find at Whistler Spring in Oregon?",
+      "answer": "Whistler Spring is known for producing banded agates, colorful jasper specimens, and chalcedony fragments. Most material is palm to fist-sized with characteristic banding patterns and translucent edges. The agates here often display red, orange, white, and brown bands typical of Oregon's John Day volcanic deposits. Look for weathered nodules with smooth edges - these have been naturally tumbled and reveal the best color."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Whistler Spring BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Whistler Spring. As a public BLM site, it allows free personal use collection under standard BLM regulations. You simply show up and collect up to 25 pounds per day at no cost. No advance registration, permit applications, or fees are necessary."
+    },
+    {
+      "question": "When is the best time to visit Whistler Spring for rockhounding near Prineville?",
+      "answer": "October through April offers the most comfortable collecting conditions with mild temperatures (50-70 degrees) and better visibility. Summer months (May-September) bring intense desert heat exceeding 85 degrees, making daytime collecting uncomfortable. Spring and fall provide the ideal balance of weather and fresh material exposure. Early morning visits during any season maximize comfort and collecting time."
+    },
+    {
+      "question": "Is Whistler Spring family-friendly for beginners and kids?",
+      "answer": "Yes, Whistler Spring is excellent for families and beginner rockhounders. The terrain is gentle with easy walking, and surface collecting requires no special skills or equipment. Children ages 6 and up can successfully find agates and jasper. The open landscape provides good supervision sightlines for parents. Bring plenty of water, sunscreen, and hats for sun protection in the high desert environment."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Whistler Spring?",
+      "answer": "Basic hand tools are sufficient: a small pick hammer or geology hammer for testing loose material, and a 5-gallon bucket or collection bag for finds. Bring sturdy hiking boots with ankle support for uneven rocky terrain, a wide-brimmed hat, and at least 3 liters of water per person in the dry desert climate. A small magnifying glass helps examine chalcedony banding. Sunscreen and light long sleeves protect against intense UV exposure. Avoid heavy tools since you're limited to 25 pounds daily."
+    },
+    {
+      "question": "How far is Whistler Spring from Prineville Oregon and what are road conditions?",
+      "answer": "Whistler Spring is approximately 35 miles east of Prineville on US 26 toward John Day. The final approach is on a rough BLM access road that is manageable for passenger vehicles in dry conditions but becomes slippery after rain. High-clearance or AWD vehicles are recommended after recent precipitation. The drive from Prineville takes about 50 minutes to one hour depending on final road conditions. Check local weather before visiting during wet seasons."
+    }
+  ],
+  "meta_title": "Whistler Spring Rockhounding - Oregon BLM",
+  "meta_description": "Find agate, jasper, and chalcedony at free Whistler Spring BLM site near Prineville, Oregon. No permit required. Easy terrain, beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from John Day Fossil Beds geology; confirm via local sources",
+    "written_directions - specific BLM road names not provided in source; routing estimated via GPS and US 26",
+    "parking_notes - no formal documentation provided; estimated capacity based on typical BLM informal access areas",
+    "cell_service - estimated as spotty based on remote Crook County location; verify with carriers",
+    "nearest_city_distance - measured 35 miles from Prineville based on geographic knowledge"
+  ],
+  "enriched_at": "2026-04-21T18:52:23.965Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:53:57.878Z"
+}

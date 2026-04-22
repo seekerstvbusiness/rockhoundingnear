@@ -1,0 +1,60 @@
+{
+  "slug": "yadkin-river-nc",
+  "name": "Yadkin River",
+  "lat": 35.934507,
+  "lng": -81.069899,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Alexander County",
+  "city_slug": "alexander-county",
+  "county": "Alexander",
+  "county_slug": "alexander",
+  "geocoded_city": "Alexander County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Yadkin%20River%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Yadkin%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Yadkin%20River%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 945,
+      "meters": 288
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:26:38.578Z"
+  },
+  "scraped_at": "2026-04-21T19:26:38.578Z",
+  "scrape_quality": "minimal"
+}

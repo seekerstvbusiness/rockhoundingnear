@@ -1,0 +1,65 @@
+{
+  "slug": "purdue-canyon-creeks-id",
+  "name": "Purdue & Canyon Creeks",
+  "lat": 46.899101,
+  "lng": -116.355432,
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "state_code": "ID",
+  "city": "Latah County",
+  "city_slug": "latah-county",
+  "county": "Latah",
+  "county_slug": "latah",
+  "geocoded_city": "Latah County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-idaho.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Purdue%20%26%20Canyon%20Creeks%20Idaho"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Idaho BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Purdue%20%26%20Canyon%20Creeks",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Purdue%20%26%20Canyon%20Creeks%20Idaho"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Idaho BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2980,
+      "meters": 908
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:32:18.407Z"
+  },
+  "scraped_at": "2026-04-21T19:32:18.408Z",
+  "scrape_quality": "partial"
+}

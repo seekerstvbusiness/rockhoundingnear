@@ -1,0 +1,97 @@
+{
+  "slug": "gass-peak-nv",
+  "name": "Gass Peak",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Las Vegas",
+  "city_slug": "las-vegas",
+  "county": "Clark",
+  "county_slug": "clark",
+  "lat": 36.369088,
+  "lng": -115.172289,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM public land rockhounding site near Las Vegas offering quartz, chalcedony, and jasper specimens. Free collecting with no permit required - perfect for casual desert prospecting.",
+  "description": "Gass Peak sits within Clark County's accessible BLM lands in the Mojave Desert transition zone, featuring exposed geological formations rich in silica-based minerals. This location attracts rockhounders seeking quartz variants, chalcedony nodules, and jasper specimens typical of the Basin and Range province. The area's volcanic and sedimentary history has created excellent collecting opportunities for specimens ranging from thumb-sized pieces to substantial hand samples. Access is straightforward from Las Vegas, making this a viable weekend collecting site for those avoiding crowded fee dig operations. The relatively open terrain and public land status mean you can roam and explore multiple erosional gullies and wash systems where minerals concentrate naturally.\n\nThe geology reflects Tertiary-age volcanic activity combined with basin-fill deposits that weathered into the colorful mineral assemblages present today. Seasonal flash flooding and natural erosion continually expose fresh material in arroyos and bajadas. You will encounter scattered pieces of quality quartz and chalcedony with minimal excavation - most specimens surface naturally rather than requiring digging. The surrounding desert vegetation is sparse, offering good visibility for spotting pieces across the ground. Be prepared for full sun exposure and carry adequate water, as shade is limited.\n\nThis site works well for beginners because collecting is straightforward - walk the washes, scan the ground, and pick up specimens that exceed your 25-pound daily limit. No motorized digging, hammers, or picks are needed for best results here. Intermediate and advanced collectors may appreciate the challenge of finding higher-quality specimens or unusual color variations. The lack of crowds and commercial pressure makes this an authentic rockhounding experience on true public land.",
+  "history": "Gass Peak lies within the Mojave Desert section of the Basin and Range physiographic province, where Miocene-age (approximately 20-25 million years ago) volcanic and hydrothermal activity deposited silica-rich fluids that crystallized into quartz, chalcedony, and other silicate minerals. The region's geological evolution included periods of uplift, erosion, and basin-fill deposition, creating the layered formations and erosional washes that concentrate collectible specimens at the surface today.",
+  "tips": "Search the larger desert washes and arroyos where water flow concentrates heavier minerals and exposes fresh material after seasonal storms - this is where the best pieces collect naturally. Look for translucent to opaque quartz in white, gray, and purple shades; chalcedony often appears as smooth, waxy nodules in tan, brown, and reddish hues; and jasper shows banded or solid red, brown, and yellow colors in hand-sized chunks. Bring a geological hammer and chisel if you want to extract specimens from outcrop faces, but most collecting here involves surface walking and selecting pieces already exposed - avoid the temptation to dig into undisturbed soil or vegetation. Wear sturdy boots with thick soles because sharp volcanic fragments and desert cholla can damage feet and ankles; bring at least 3-4 liters of water per person and a wide-brimmed hat, as the full-sun desert exposure causes rapid dehydration and sunburn.",
+  "terrain_notes": "Gass Peak area terrain ranges from 1,500 to 2,000 feet elevation with moderate to steep bajada slopes covered in sparse creosote bush, yucca, and low desert scrub. Footing is uneven rocky desert pavement with loose volcanic fragments, small boulders, and embedded rocks requiring careful stepping. Main washes are typically 10-20 feet wide with sandy bottoms, banks 2-6 feet high, and occasional larger rock outcrops. Walking distances from parking to productive areas range from 0.5 to 2 miles depending on which wash systems you explore. The terrain is not wheelchair accessible and offers no maintained trails.",
+  "best_season": "October - April. Desert heat makes June through September dangerously hot (105-115 F), and flash flood risk increases during late summer monsoon season (July-August). Winter months offer comfortable temperatures, low precipitation, and excellent visibility for spotting surface specimens. Late fall (October-November) and early spring (February-April) are optimal.",
+  "written_directions": "From Las Vegas, take US 95 north approximately 25 miles toward Gass Peak. Look for BLM land access points and pullouts on the east side of the highway in the Gass Peak area. GPS coordinates 36.369088, -115.172289 will lead you to parking areas near the productive mineral washes. High-clearance vehicles are recommended for rough two-track roads; standard passenger vehicles can access some parking areas via maintained dirt roads. Do not rely on GPS navigation alone - print a BLM map or download offline maps before departure, as cell service is spotty.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and graded two-track roads; some sections with washboard surface and minor ruts. High-clearance recommended but not required for main access routes. Avoid travel after heavy rain when roads become impassable.",
+  "parking_notes": "Multiple informal pullouts and cleared parking areas along BLM land access roads. No developed parking lot; expect wide shoulders and natural clearings for 2-8 vehicles. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or heavy machinery. No digging in designated areas or protected archaeological sites. Remove only loose or naturally exposed specimens. Do not disturb vegetation or blast rock.",
+  "quantity_limits": "25 lbs per day per FLPMA",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day\nNo commercial collection or sales\nNo motorized excavation or heavy digging equipment\nNo blasting\nDo not disturb vegetation or cultural sites\nPack out all garbage\nClose gates behind you\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes",
+    "remote"
+  ],
+  "nearest_services": "Las Vegas, Nevada approximately 25 miles south. Gas, food, water, and lodging available in Las Vegas. No services within 15 miles of Gass Peak.",
+  "accessibility_notes": "Uneven rocky desert terrain with loose volcanic fragments and embedded boulders. No wheelchair access. Footing is unstable and requires careful stepping. Walking distances from parking to productive collecting areas range 0.5 to 2 miles. Sturdy closed-toe boots with thick soles required. Not suitable for limited mobility or young children without close supervision.",
+  "alternative_names": [],
+  "nearest_city": "Las Vegas",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/gass-peak-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Gass Peak near Las Vegas?",
+      "answer": "Gass Peak offers excellent collecting opportunities for quartz (including purple and clear varieties), chalcedony nodules, jasper (red, brown, and banded), and agate specimens. Most pieces are found as naturally exposed surface specimens in desert washes and require minimal excavation. The silica-rich geology of the Mojave Desert creates abundant collectible material across the BLM land."
+    },
+    {
+      "question": "Is Gass Peak rockhounding site free or do I need to pay a fee?",
+      "answer": "Gass Peak is completely free to rockhound. It is BLM public land with no permit required and no collection fee. You can collect up to 25 lbs per day for personal use at no cost. This makes it an affordable alternative to fee dig operations while maintaining access to quality quartz, chalcedony, and jasper specimens."
+    },
+    {
+      "question": "Do I need a permit to collect rocks at Gass Peak in Nevada?",
+      "answer": "No permit is required for personal use rockhounding at Gass Peak. As BLM land governed by the Federal Land Policy and Management Act (FLPMA), recreational collecting is allowed without permits provided you follow the 25-pound daily limit and personal-use-only restriction. Commercial collection is prohibited."
+    },
+    {
+      "question": "What is the best time to go rockhounding at Gass Peak Nevada?",
+      "answer": "October through April is the best rockhounding season at Gass Peak. Daytime temperatures are comfortable (60-75 F), making full-day collecting feasible without heat exhaustion risk. Summer months (June-September) are dangerously hot with temperatures exceeding 110 F. Late fall and early spring also offer excellent visibility for spotting quartz and chalcedony specimens across the desert floor."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Gass Peak?",
+      "answer": "For Gass Peak, bring sturdy closed-toe boots with thick soles to protect against sharp volcanic rocks and desert plants. A small geological hammer and chisel are optional since most specimens are surface-collected. Essential items include 3-4 liters of water per person, a wide-brimmed hat, sunscreen, and a collection bag or backpack. A printed BLM map is recommended since cell service is spotty in this area."
+    },
+    {
+      "question": "Is Gass Peak a good beginner rockhounding location near Las Vegas?",
+      "answer": "Yes, Gass Peak is excellent for beginners. The site requires no special permits, experience, or digging skills - most collecting involves walking washes and picking up naturally exposed quartz, chalcedony, and jasper specimens. The terrain is accessible from Las Vegas (25 miles), the collecting rules are simple, and success rates are high for casual rockhounders. Children ages 8 and up can participate with adult supervision and proper sun protection."
+    }
+  ],
+  "meta_title": "Gass Peak Rockhounding - Free BLM Nevada",
+  "meta_description": "Free rockhounding at Gass Peak BLM near Las Vegas. Collect quartz, chalcedony, jasper. No permit required. October-April best season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:44:54.961Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:36.162Z"
+}

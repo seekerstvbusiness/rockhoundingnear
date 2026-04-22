@@ -1,0 +1,65 @@
+{
+  "slug": "coyote-point-ca",
+  "name": "Coyote Point",
+  "lat": 37.59149,
+  "lng": -122.320449,
+  "state": "California",
+  "state_slug": "california",
+  "state_code": "CA",
+  "city": "San Mateo",
+  "city_slug": "san-mateo",
+  "county": "San Mateo",
+  "county_slug": "san-mateo",
+  "geocoded_city": "San Mateo",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-california.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Coyote%20Point%20California"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Coyote%20Point",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Coyote%20Point%20California"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 5,
+      "meters": 1
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:15:55.325Z"
+  },
+  "scraped_at": "2026-04-21T19:15:55.325Z",
+  "scrape_quality": "partial"
+}

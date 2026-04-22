@@ -1,0 +1,95 @@
+{
+  "slug": "surprise-claim-ca",
+  "name": "Surprise Claim",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Mariposa",
+  "city_slug": "mariposa",
+  "county": "Mariposa",
+  "county_slug": "mariposa",
+  "lat": 37.658333,
+  "lng": -120.054444,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Public BLM rockhounding site in the Sierra Nevada foothills with gentle terrain and quartz-rich mineralization. Free access with a 25 lb daily collection limit.",
+  "description": "Surprise Claim is a recreational rockhounding site located on public BLM land in Mariposa County, California, within the western Sierra Nevada foothills. The site sits at a modest elevation of 1378 feet on gently sloping terrain, making it accessible for rockhounders of varying experience levels. The area is characterized by Sierra Nevada granitic intrusions that have weathered and exposed quartz, feldspar, and mica crystals in outcrop and surface material.\n\nThe geological setting reflects the Mesozoic batholitic complex that forms the core of the Sierra Nevada. During the Late Cretaceous, massive granitic intrusions cooled slowly, creating coarse-grained granite with visible mineral phases. Subsequent weathering and erosion have exposed these minerals at the surface, and small-scale prospecting activity in the region during the 1800s and early 1900s targeted localized quartz veins and pegmatitic zones. Surprise Claim itself likely derives its name from historical prospecting claims that dot this region.\n\nCollectors can expect to find clear to milky quartz chunks, pink and white feldspar crystals, and flaky mica sheets. The gentle slope and accessible terrain make this a good destination for families and beginner rockhounders who want to experience public land collecting without requiring technical climbing or specialized equipment. The surrounding forest provides shade and cooler conditions during the collecting season.\n\nAs with all BLM recreational rockhounding, collection is limited to personal use only, with a maximum of 25 pounds per day. The site requires no permit and is free to access, making it an excellent low-cost introduction to California rockhounding. Plan for a half to full day visit depending on collecting intensity.",
+  "history": "This area sits within the western Sierra Nevada batholith, where Mesozoic granitic intrusions cooled over millions of years to produce coarse quartz, feldspar, and mica crystals. Early-1900s prospectors explored Mariposa County foothills for quartz veins and pegmatitic zones; the 'Surprise Claim' name reflects that era of small-scale mining activity and claims staking typical of this region.",
+  "tips": "Search along the gentle slope where weathering has exposed granite outcrop and scattered quartz fragments; the contact zones between weathered granite and decomposed material often produce the best specimens. Bring a small geology hammer and chisel to cleanly extract crystals from granite; avoid prying aggressively at fresh rock faces. Look for white to clear quartz in hand-sized chunks and pink feldspar crystals showing well-defined crystal faces; mica will appear as thin, shiny flakes that split easily along grain boundaries.",
+  "terrain_notes": "Elevation 1378 feet on gently sloping terrain typical of the Sierra Nevada foothills. Mixed conifer and oak woodland with light to moderate ground cover. Footing is stable on compacted soil and granite fragments; no steep drop-offs. Parking area to collecting zone is approximately 0.25 to 0.5 miles on foot via informal trail or cross-country walking. Well-suited for hikers of all abilities.",
+  "best_season": "April - June and September - November. The moderate elevation and Sierra Nevada location favor spring and fall collecting. Summer heat can be uncomfortable for sustained fieldwork; winter brings occasional rain and mud. Spring wildflowers and fall colors enhance the experience.",
+  "written_directions": "From Mariposa, take Highway 49 north for approximately 8 miles. Turn east onto a well-signed BLM access road. Follow this road for approximately 3 miles to a small parking area or pullout near the claim area. GPS coordinates 37.658333, -120.054444 mark the general collecting zone. Passenger vehicles can navigate the access road under normal conditions, though high-clearance is recommended for rough patches.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Well-maintained BLM access road; graded gravel with occasional washboard. High-clearance vehicles recommended but not required. Suitable for passenger cars in dry conditions.",
+  "parking_notes": "Small informal parking area or pullout near the BLM access road. Space for 4-6 vehicles. No formal facilities; arrive early on weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or heavy equipment. All collected material must be removed from the site same day. Respect posted claim boundaries and avoid any active mining areas.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or resale\nNo motorized excavation or power tools\nRemove all collected material same day\nRespect posted mining claim boundaries\nStay on or near informal trails to minimize disturbance",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Mariposa, approximately 8 miles south. Full services including gas, restaurants, grocery stores, and lodging available.",
+  "accessibility_notes": "Relatively flat terrain on gentle slopes accessible to most hikers and families. Unpaved BLM access road to parking area suitable for standard vehicles. Walking distance from parking to prime collecting zone is short (0.25-0.5 miles) with stable footing on soil and granite fragments. No wheelchair access to collecting areas due to uneven terrain, but the site is manageable for people with moderate mobility.",
+  "alternative_names": [],
+  "nearest_city": "Mariposa",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/surprise-claim-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What can I find rockhounding at Surprise Claim near Mariposa, California?",
+      "answer": "At Surprise Claim, you can find quartz crystals (clear to milky), pink and white feldspar, and mica flakes. The site is located on Sierra Nevada granitic rock that has weathered to expose these mineral crystals at the surface and in shallow deposits. Most specimens are hand-sized or smaller."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Surprise Claim?",
+      "answer": "No permit is required for recreational rockhounding at Surprise Claim. It is public BLM land open for personal use collection. However, you must follow the 25 lb per day collection limit and cannot engage in commercial collection or use motorized equipment."
+    },
+    {
+      "question": "Is Surprise Claim in Mariposa County beginner-friendly?",
+      "answer": "Yes, Surprise Claim is very beginner-friendly. The terrain is gently sloping with stable footing, parking is close to the collecting area, and no special equipment is required. Families with children as young as 6 can comfortably rockhound here. A basic geology hammer and chisel are helpful but optional."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Surprise Claim?",
+      "answer": "The best seasons are April through June and September through November. Spring and fall offer comfortable temperatures for sustained fieldwork in the Sierra Nevada foothills. Summer heat can be uncomfortable, and winter brings occasional rain. Fall also offers beautiful scenery with changing oak and conifer colors."
+    },
+    {
+      "question": "How far is Surprise Claim from Mariposa town, and what tools do I need?",
+      "answer": "Surprise Claim is approximately 8 miles north of Mariposa via Highway 49 and a BLM access road. Bring a small geology hammer, cold chisel, and collecting bags. A hand lens or loupe helps identify crystal faces and mineral types. Standard hiking boots and sun protection are essential. A 5-gallon bucket is useful for carrying your 25 lb daily limit."
+    },
+    {
+      "question": "Can I bring my dog and go rockhounding at Surprise Claim on BLM land?",
+      "answer": "Yes, dogs are allowed on BLM land including Surprise Claim. Keep your dog under control and bring plenty of water, as the area has minimal shade in some sections. The gentle slopes and short walking distance make this a dog-friendly rockhounding destination."
+    }
+  ],
+  "meta_title": "Surprise Claim Rockhounding - California BLM",
+  "meta_description": "Find quartz, feldspar, and mica at Surprise Claim near Mariposa, California. Free BLM rockhounding, no permit required. Beginner-friendly Sierra Nevada site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "gem_types",
+    "hazards"
+  ],
+  "enriched_at": "2026-04-21T19:32:19.791Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:35:19.758Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "pringle-sd",
+  "name": "Pringle",
+  "lat": 43.552283,
+  "lng": -103.627933,
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "state_code": "SD",
+  "city": "Custer County",
+  "city_slug": "custer-county",
+  "county": "Custer",
+  "county_slug": "custer",
+  "geocoded_city": "Custer County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pringle%20South%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pringle",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pringle%20South%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4798,
+      "meters": 1463
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:41:51.121Z"
+  },
+  "scraped_at": "2026-04-21T17:41:51.121Z",
+  "scrape_quality": "minimal"
+}

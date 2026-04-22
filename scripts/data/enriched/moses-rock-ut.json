@@ -1,0 +1,96 @@
+{
+  "slug": "moses-rock-ut",
+  "name": "Moses Rock",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Blanding",
+  "city_slug": "blanding",
+  "county": "San Juan",
+  "county_slug": "san-juan",
+  "lat": 37.084007,
+  "lng": -109.732883,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chert"
+  ],
+  "short_description": "BLM public land rockhounding site near Blanding featuring agate, jasper, and quartz specimens. No permit required for personal use collection in Utah's scenic San Juan County.",
+  "description": "Moses Rock is a public BLM rockhounding location in southeastern Utah's San Juan County, offering accessible collecting opportunities for agate, jasper, and quartz specimens. The site sits within the colorful badlands and canyon country characteristic of the Colorado Plateau, where Tertiary volcanic and sedimentary deposits have weathered to expose quality gemstone material. Collectors often find well-formed agate nodules, banded jasper pieces, and clear quartz fragments scattered across the exposed terrain and wash bottoms. This location is ideal for rockhounders seeking a no-permit, no-fee collecting experience on public lands, though the arid environment and remote character require proper preparation. The area receives relatively light collector pressure compared to more famous Utah rockhounding sites, making it a good choice for those seeking quieter field work.\n\nThe geology here reflects the Basin and Range province's complex history of volcanism and deposition. Miocene-age ash falls and silica-rich groundwater created nodular agate and jasper deposits within the surrounding rock matrix. As the landscape weathered and eroded, these harder gem materials were exposed and concentrated in washes and hillside scree. The colorful chert and quartz found here often displays banding and striping typical of secondary silica deposits in arid environments.\n\nAccess is straightforward via BLM land with standard recreational collecting rules. Bring adequate water, sun protection, and sturdy boots rated for rocky terrain. The site rewards patient searching in washes and along exposed hillsides where erosion continuously exposes fresh material.",
+  "history": "Moses Rock sits within the Colorado Plateau's geologically complex San Juan County, where Tertiary-age volcanic ash deposits and silica-rich hydrothermal fluids created abundant agate and jasper nodules throughout the region. Prospectors and casual rockhounders have collected gemstones from this area for decades, drawn by the accessible BLM land and consistent quality of secondary silica deposits exposed by erosion.",
+  "tips": "Search along dry washes and arroyos where water erosion has concentrated heavier agate and jasper specimens. Look for pieces showing translucent banding, warm earth tones, or the distinctive striped patterns of quality Utah agate and jasper. Bring a magnet to test for iron content in specimens, and examine hillside scree below exposed bedrock faces where fresh material weathering out may yield premium pieces. Best results come in spring after winter weathering has exposed new material, or after summer monsoon events have moved debris in arroyos.",
+  "terrain_notes": "Rolling badland terrain with sparse vegetation and exposed colorful rock outcrops. Elevation approximately 5,500-6,000 feet. Footing is uneven with scattered loose rock, broken agate, and chert fragments throughout. Terrain is hilly with moderate slopes, no technical climbing but requires steady boots and careful footing. Walking distances from parking vary from 0.25 to 2 miles depending on target areas.",
+  "best_season": "October - April. The high desert climate of San Juan County features intense summer heat (often exceeding 95 degrees Fahrenheit in July-August) and occasional late spring/early summer thunderstorms. Fall through spring provides cooler temperatures ideal for daylong field work, with the most stable weather from October through November and again in March-April.",
+  "written_directions": "From Blanding, take US 191 north approximately 12 miles toward Monticello. Watch for BLM access roads and informal pullouts on the east side of the highway in the Moses Rock area (GPS: 37.084, -109.733). High-clearance vehicle recommended for some access spurs; standard passenger vehicles can reach main collecting areas via maintained county roads. Consult BLM maps or onsite signage for current access conditions. The location sits roughly 15-20 minutes north of Blanding.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mostly maintained county and BLM roads; some rough spurs may require high-clearance vehicles. Main access roads are passable for standard passenger cars but may be washboarded or rutted after weather events.",
+  "parking_notes": "Informal BLM pullouts and parking areas along access roads. No developed lot; park off-road near collecting areas as directed by BLM signage. Space typically available for 2-5 vehicles at main access points.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection permitted. No motorized excavation or heavy equipment. Collect only loose or weathered material; do not hammer at bedrock or remove specimens from standing rock. Pack out all waste. All collected material remains subject to public land regulations.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nDo not hammer bedrock\nCollect loose and weathered material only\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "loose_rock",
+    "remote",
+    "wildlife"
+  ],
+  "nearest_services": "Blanding, Utah approximately 12-15 miles south. Gas, food, water, and lodging available in town. No services at or near collecting site.",
+  "accessibility_notes": "Uneven rocky terrain with loose material throughout. No wheelchair or limited-mobility access. Sturdy, closed-toe hiking boots required. Terrain is not steep but requires careful footing due to scattered rock fragments and chert. Walking pace is moderate; most collectors can access productive areas within 30-60 minutes from parking.",
+  "alternative_names": [],
+  "nearest_city": "Blanding",
+  "nearest_city_distance": 13,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/moses-rock-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Moses Rock near Blanding, Utah?",
+      "answer": "Moses Rock yields agate, jasper, quartz, and chert. Look for translucent to opaque agate nodules with warm earth tones and banding, colorful patterned jasper pieces, and clear quartz specimens. The site is known for quality secondary silica deposits typical of the Colorado Plateau. Most pieces are found as loose fragments in washes and scattered across eroded hillsides."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Moses Rock on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Moses Rock. It is located on public BLM land managed under FLPMA (Federal Land Policy and Management Act). Personal use collection is allowed with no fee, as long as you follow the 25 lb per day limit and collect only loose or weathered material without using motorized equipment."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Blanding, Utah?",
+      "answer": "October through April is ideal. The high desert climate of San Juan County experiences intense summer heat exceeding 95 degrees Fahrenheit. Fall and spring offer cooler temperatures and stable weather for all-day field work. Winter snowfall is minimal but possible; spring rains can trigger new material exposure in washes."
+    },
+    {
+      "question": "Is Moses Rock rockhounding site beginner friendly for kids and families?",
+      "answer": "Yes, Moses Rock is beginner and family friendly. Access is easy with no permit required, and the terrain is accessible for children ages 6 and up with proper supervision. Bring plenty of water, sun protection, and sturdy boots. The relatively light collector pressure makes it a good site for families learning rockhounding basics without crowds."
+    },
+    {
+      "question": "What tools and supplies should I bring to rockhound at Moses Rock?",
+      "answer": "Bring a small rock hammer or pick for testing specimens, magnifying glass or loupe to examine detail, and collection bag. Essential supplies include at least 2-3 liters of water per person, sun screen, hat, and closed-toe hiking boots for rocky terrain. A magnet helps test iron content in specimens. GPS or offline maps recommended due to spotty cell service in the area."
+    },
+    {
+      "question": "How far is Moses Rock from Blanding and what are directions to get there?",
+      "answer": "Moses Rock is approximately 13 miles north of Blanding via US 191. From Blanding, take US 191 north for about 12 miles and watch for BLM access roads and informal pullouts on the east side. Standard passenger vehicles can reach main collecting areas, though high-clearance vehicles are recommended for some rougher access spurs. The drive takes about 15-20 minutes from town."
+    }
+  ],
+  "meta_title": "Moses Rock Rockhounding - Utah",
+  "meta_description": "Find agate, jasper, and quartz at Moses Rock near Blanding, Utah. BLM public land, no permit required. Open year-round for personal use rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "terrain_notes"
+  ],
+  "enriched_at": "2026-04-22T06:52:14.738Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:59:50.491Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "mayville-iron-ridge-wi",
+  "name": "Mayville & Iron Ridge",
+  "lat": 43.44677,
+  "lng": -88.536952,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Town of Hubbard",
+  "city_slug": "town-of-hubbard",
+  "county": "Dodge",
+  "county_slug": "dodge",
+  "geocoded_city": "Town of Hubbard",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mayville%20%26%20Iron%20Ridge%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mayville%20%26%20Iron%20Ridge",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mayville%20%26%20Iron%20Ridge%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1074,
+      "meters": 327
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:14:35.159Z"
+  },
+  "scraped_at": "2026-04-21T18:14:35.160Z",
+  "scrape_quality": "minimal"
+}

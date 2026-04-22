@@ -1,0 +1,60 @@
+{
+  "slug": "broad-area-around-bedias-tx",
+  "name": "Broad area around Bedias",
+  "lat": 30.774419,
+  "lng": -95.950128,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Bedias",
+  "city_slug": "bedias",
+  "county": "Grimes",
+  "county_slug": "grimes",
+  "geocoded_city": "Bedias",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Broad%20area%20around%20Bedias%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Broad%20area%20around%20Bedias",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Broad%20area%20around%20Bedias%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 338,
+      "meters": 103
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:44:14.124Z"
+  },
+  "scraped_at": "2026-04-21T18:44:14.124Z",
+  "scrape_quality": "minimal"
+}

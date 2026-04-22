@@ -1,0 +1,60 @@
+{
+  "slug": "waynesboro-ms",
+  "name": "Waynesboro",
+  "lat": 31.754309,
+  "lng": -88.74972,
+  "state": "Mississippi",
+  "state_slug": "mississippi",
+  "state_code": "MS",
+  "city": "Wayne County",
+  "city_slug": "wayne-county",
+  "county": "Wayne",
+  "county_slug": "wayne",
+  "geocoded_city": "Wayne County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-mississippi.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Waynesboro%20Mississippi"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Waynesboro",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Waynesboro%20Mississippi"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 221,
+      "meters": 67
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:32:22.258Z"
+  },
+  "scraped_at": "2026-04-21T16:32:22.258Z",
+  "scrape_quality": "minimal"
+}

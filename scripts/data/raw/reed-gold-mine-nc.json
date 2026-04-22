@@ -1,0 +1,56 @@
+{
+  "slug": "reed-gold-mine-nc",
+  "name": "Reed Gold Mine",
+  "lat": 35.285199,
+  "lng": -80.466533,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Cabarrus County",
+  "city_slug": "cabarrus-county",
+  "county": "Cabarrus",
+  "county_slug": "cabarrus",
+  "geocoded_city": "Cabarrus County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Reed%20Gold%20Mine%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Reed%20Gold%20Mine"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Reed%20Gold%20Mine%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:27:57.468Z"
+  },
+  "scraped_at": "2026-04-22T02:27:57.468Z",
+  "scrape_quality": "minimal"
+}

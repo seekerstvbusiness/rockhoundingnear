@@ -1,0 +1,97 @@
+{
+  "slug": "st-francisville-mo",
+  "name": "St. Francisville",
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "city": "Saint Francisville",
+  "city_slug": "saint-francisville",
+  "county": "Clark",
+  "county_slug": "clark",
+  "lat": 40.454084,
+  "lng": -91.578393,
+  "gem_types": [
+    "Quartz",
+    "Chert",
+    "Agate",
+    "Petrified Wood"
+  ],
+  "short_description": "Rockhounding in Clark County near the Mississippi River valley. Hunt for quartz, chert, and petrified wood along gentle slopes and creek beds in this classic Midwest collecting area.",
+  "description": "St. Francisville sits in Clark County, Missouri, a region rich with paleozoic sedimentary rock formations that yield quality quartz specimens, chert nodules, and occasional petrified wood. The gentle terrain and proximity to local waterways make this an accessible rockhounding destination for collectors of all skill levels. The area sits within the Mississippi River valley physiographic province, where ancient marine deposits and glacial activity have concentrated desirable specimens in accessible locations. You can expect to find milky quartz fragments, translucent chert in various colors from gray to tan, and occasionally well-preserved petrified wood along eroded banks and in field scatter. The relatively flat topography and short distances from parking make this ideal for families and beginning rockhounds who want productive collecting without extreme terrain challenges.",
+  "history": "This region was shaped by Ordovician and Silurian marine deposits overlain by Quaternary glacial materials. The chert and quartz found here formed within ancient sea floors and were subsequently exposed through erosion and glacial activity, concentrating specimens in creek beds and surface deposits typical of the Upper Mississippi River valley.",
+  "tips": "Search along creek beds and eroded stream banks where water has naturally exposed and concentrated heavier minerals and chert nodules. Bring a 5-gallon bucket and small rock hammer; the chert here often breaks clean for display specimens. Look for translucent to opaque chert in shades of gray, tan, and occasional rust-stained pieces; avoid heavily weathered surface material and focus on fresh breaks in exposed banks and cutbanks.",
+  "terrain_notes": "Elevation 533 feet with gentle slopes characteristic of the Mississippi River valley margin. Terrain is mostly accessible with short walking distances from parking areas. Vegetation includes mixed hardwood forest and open fields. Ground footing is generally firm except near creek banks after rain, where soft mud may require careful placement. No significant elevation gain; mostly level to slightly rolling terrain.",
+  "best_season": "April - June and September - October. Spring offers lower water levels in creeks, making bank access safer, and fresh seasonal erosion. Fall provides similar conditions with cooler temperatures. Summer heat and humidity increase discomfort; winter snow and ice can restrict access.",
+  "written_directions": "From Keokuk (11 miles south), take US 61 north toward the Keokuk area, then turn east on local roads toward Saint Francisville. The St. Francisville community is accessible via county roads branching from US 61. GPS coordinates 40.454084, -91.578393 place you near the village. Park at roadside pullouts or public access points near creek beds and field edges. Check locally for current access conditions and private property boundaries before collecting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": "Local county roads are paved or gravel; passenger vehicles adequate for accessing the general area. Some pullouts may be unpaved.",
+  "parking_notes": "Roadside pullouts and informal parking areas near creek access points. Limited formal facilities; park respectfully and avoid blocking farm gates or field access.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collect on public land only. Respect private property and obtain permission before entering posted land. Personal use collecting only; no commercial resale. Collect responsibly without disturbing equipment, structures, or the broader landscape. Follow Leave No Trace principles.",
+  "quantity_limits": null,
+  "rules": "Public land only - respect private property lines\nPersonal use collecting only\nNo commercial collection or resale\nObtain landowner permission before entering private land\nDo not disturb structures, fences, or equipment\nFollow all local regulations",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "flash_floods",
+    "wildlife",
+    "sharp_material"
+  ],
+  "nearest_services": "Keokuk, Iowa, 11 miles south. Full services including gas, food, water, and accommodations. Saint Francisville has limited services.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Gentle slopes and short walking distances from parking. Uneven footing near creek banks; sturdy shoes recommended but not essential. No wheelchair access to best collecting areas. Suitable for families and those with limited mobility in general, though creek access requires careful footing.",
+  "alternative_names": [],
+  "nearest_city": "Keokuk",
+  "nearest_city_distance": 11,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/missouri/st-francisville-mo/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near St. Francisville, Missouri?",
+      "answer": "The primary finds at St. Francisville are quartz fragments, chert nodules in gray and tan colors, and occasional petrified wood. These specimens come from ancient Ordovician and Silurian marine deposits exposed through erosion in the Mississippi River valley. Chert is the most common and collectible material here, often breaking with clean edges suitable for display pieces."
+    },
+    {
+      "question": "Is rockhounding at St. Francisville free and do I need a permit?",
+      "answer": "Yes, rockhounding at St. Francisville is free on public land and no permit is required for personal use collecting. However, you must respect private property boundaries and obtain permission from landowners before entering posted property. Always verify access before visiting and avoid blocked or posted areas."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Clark County, Missouri?",
+      "answer": "The best seasons are April through June and September through October. Spring and fall offer ideal weather, lower creek water levels for safer bank access, and fresh erosion that exposes new specimens. Summer heat and humidity make collecting uncomfortable, while winter conditions may restrict access due to snow or ice."
+    },
+    {
+      "question": "Can families and beginners find success rockhounding at St. Francisville?",
+      "answer": "Absolutely. St. Francisville is ideal for beginners and families. The terrain is easy with gentle slopes, short walking distances, and no special skills required. Quartz and chert are common finds that don't require technical identification. Children as young as six can participate successfully with adult supervision, making it perfect for introducing the hobby to young rockhounds."
+    },
+    {
+      "question": "What tools and equipment do I need to collect at St. Francisville?",
+      "answer": "A small rock hammer or chipping tool is useful for working creek bank specimens and testing fresh breaks. Bring a 5-gallon bucket for transport, heavy gloves to protect hands, and sturdy shoes with good traction for creek-side footing. A small loupe helps identify chert quality and color variations. Water and sunscreen are essential, especially in warm months."
+    },
+    {
+      "question": "How far is St. Francisville from major Missouri rockhounding destinations?",
+      "answer": "St. Francisville is 11 miles north of Keokuk, Iowa, making it accessible from major Mississippi River valley locations. The area sits within Missouri's productive Paleozoic sedimentary belt, placing it near other quality collecting sites in northeast Missouri. Keokuk offers full services and is an excellent base for exploring multiple locations in the region."
+    }
+  ],
+  "meta_title": "St. Francisville Rockhounding - Missouri",
+  "meta_description": "Find quartz, chert, and petrified wood at St. Francisville, Missouri. Easy rockhounding for families near Keokuk. No permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category (inferred as 'other' due to mixed public/unclear designation)",
+    "access_type (assumed public based on rural location and no fee mentions)",
+    "cell_service (estimated as spotty based on rural northeast Missouri location)",
+    "parking_notes (inferred from typical rural Missouri rockhounding access patterns)",
+    "family_friendly (inferred true based on easy terrain and beginner-suitability)"
+  ],
+  "enriched_at": "2026-04-21T19:17:46.059Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:20:03.625Z"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "conrad-hill-mine-near-lexington-nc",
+  "name": "Conrad Hill Mine near Lexington",
+  "lat": 35.78481,
+  "lng": -80.16534,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Davidson County",
+  "city_slug": "davidson-county",
+  "county": "Davidson",
+  "county_slug": "davidson",
+  "geocoded_city": "Davidson County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Conrad%20Hill%20Mine%20near%20Lexington%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Conrad%20Hill%20Mine%20near%20Lexington"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Conrad%20Hill%20Mine%20near%20Lexington%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:28:03.761Z"
+  },
+  "scraped_at": "2026-04-22T02:28:03.761Z",
+  "scrape_quality": "minimal"
+}

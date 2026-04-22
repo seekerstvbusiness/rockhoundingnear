@@ -1,0 +1,64 @@
+{
+  "slug": "alec-mountain-ga",
+  "name": "Alec Mountain",
+  "lat": 34.668915,
+  "lng": -83.596368,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Habersham County",
+  "city_slug": "habersham-county",
+  "county": "Habersham",
+  "county_slug": "habersham",
+  "geocoded_city": "Habersham County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Alec%20Mountain%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Alec%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Alec%20Mountain%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1793,
+      "meters": 547
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Lavonia",
+      "distance_mi": 32,
+      "population": 2012
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:04:00.310Z"
+  },
+  "scraped_at": "2026-04-21T19:04:00.310Z",
+  "scrape_quality": "minimal"
+}

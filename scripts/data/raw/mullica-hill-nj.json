@@ -1,0 +1,60 @@
+{
+  "slug": "mullica-hill-nj",
+  "name": "Mullica Hill",
+  "lat": 39.733109,
+  "lng": -75.220161,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Harrison Township",
+  "city_slug": "harrison-township",
+  "county": "Gloucester",
+  "county_slug": "gloucester",
+  "geocoded_city": "Harrison Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mullica%20Hill%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mullica%20Hill",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mullica%20Hill%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 33,
+      "meters": 10
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:41:48.711Z"
+  },
+  "scraped_at": "2026-04-21T18:41:48.711Z",
+  "scrape_quality": "minimal"
+}

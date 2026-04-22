@@ -1,0 +1,82 @@
+{
+  "slug": "crown-point-ny",
+  "name": "Crown Point",
+  "lat": 43.950317,
+  "lng": -73.437328,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Town of Crown Point",
+  "city_slug": "town-of-crown-point",
+  "county": "Essex",
+  "county_slug": "essex",
+  "geocoded_city": "Town of Crown Point",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Crown%20Point%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Crown%20Point",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Crown%20Point%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "Vermont Route 74 West",
+        "ref": "VT 74",
+        "type": "secondary",
+        "dist": 7.1
+      },
+      {
+        "name": "Vermont Route 74 East",
+        "ref": "VT 74",
+        "type": "secondary",
+        "dist": 7.8
+      },
+      {
+        "name": "Vermont Route 73",
+        "ref": "VT 73",
+        "type": "secondary",
+        "dist": 9.3
+      },
+      {
+        "name": "Vermont Route 30",
+        "ref": "VT 30",
+        "type": "secondary",
+        "dist": 11.3
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:37:40.168Z"
+  },
+  "scraped_at": "2026-04-21T18:37:40.168Z",
+  "scrape_quality": "minimal"
+}

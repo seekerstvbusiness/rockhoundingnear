@@ -1,0 +1,66 @@
+{
+  "slug": "potomac-river-va",
+  "name": "Potomac River",
+  "lat": 38.977555,
+  "lng": -77.233056,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Reston",
+  "city_slug": "reston",
+  "county": "Fairfax",
+  "county_slug": "fairfax",
+  "geocoded_city": "Reston",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Potomac%20River%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Potomac%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Potomac%20River%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 104,
+      "meters": 32
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Colvin Run",
+        "type": "stream",
+        "dist": 5.2
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:09:53.665Z"
+  },
+  "scraped_at": "2026-04-21T19:09:53.665Z",
+  "scrape_quality": "minimal"
+}

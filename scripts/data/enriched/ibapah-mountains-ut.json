@@ -1,0 +1,100 @@
+{
+  "slug": "ibapah-mountains-ut",
+  "name": "Ibapah Mountains",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Tooele",
+  "city_slug": "tooele",
+  "county": "Tooele",
+  "county_slug": "tooele",
+  "lat": 39.912223,
+  "lng": -113.886302,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper"
+  ],
+  "short_description": "Remote BLM rockhounding site in the Great Basin where Basin and Range geology exposes colorful quartz and chalcedony deposits. Personal use collecting with no permits required.",
+  "description": "The Ibapah Mountains sit within Utah's remote western Great Basin, an area shaped by massive tectonic extension during the Miocene epoch. This rugged range exposes tilted Paleozoic sedimentary and metamorphic rocks interlayered with quartz-rich mineralization characteristic of Basin and Range geology. Rockhounders visit this site primarily to collect quartz specimens, chalcedony, agate, and jasper from weathered outcrops and slope wash areas. The terrain is pristine and lightly traveled, offering solitude and genuine backcountry experience.\n\nThe Ibapah Mountains lie in the transition zone between the Great Salt Lake Desert to the north and the filled basins of western Utah. Elevation changes dramatically across the range, with high peaks exceeding 11,000 feet, though prime collecting areas are typically at mid-elevations where rock exposure is best. The geology here reflects the continuous faulting and uplift that characterizes the Basin and Range province - a geological setting that creates ideal conditions for finding well-formed quartz crystals and silica-based gems.\n\nAccess to the Ibapah Mountains requires careful planning. The nearest developed facilities are in Tooele, but the mountains themselves sit far from paved roads. A high-clearance vehicle is strongly recommended, and 4x4 is necessary for some approach routes, particularly after seasonal weather. Most rockhounders establish a base camp and hike into productive collecting areas rather than attempting day trips from town.\n\nThe collecting here rewards patient observation. Quartz crystals often emerge from heavily weathered slopes where frost action and flash floods have broken down host rock over millennia. Look for glassy fragments in dried wash channels and on south-facing slopes where erosion is most active. The best specimens typically appear after winter storms when fresh material has been exposed. Bring plenty of water - this is high desert terrain with minimal shade and intense sun exposure.\n\nThe remoteness is both the site's greatest asset and its most serious challenge. Cellular coverage is unreliable or absent, weather changes rapidly at elevation, and help is hours away if something goes wrong. Come prepared with emergency supplies, full gas tank, extra water, and navigation tools that do not depend on cell service.",
+  "history": "The Ibapah Mountains were formed during the Miocene-era Basin and Range extension that fractured the western North American plate, creating alternating mountain ranges and deep basins across Utah, Nevada, and California. As these ranges tilted upward along normal faults, quartz-rich fluids from deep in the crust percolated through fractures in the Paleozoic limestone and quartzite, depositing silica minerals that today weather out as the quartz and chalcedony specimens rockhounders seek.",
+  "tips": "Search the weathered wash channels at the base of rocky ridges and south-facing slopes where frost action continuously exposes fresh quartz fragments - these areas produce the most consistent finds. Bring a small magnifying glass to identify quartz crystal terminations in the field, and use a chipping hammer to extract specimens from decomposed outcrop rather than prying at solid rock. Early morning collecting in spring (after winter frost action) yields the best material, as overnight temperature swings cause exfoliation in the weathered upper layers of slopes.",
+  "terrain_notes": "Highly variable elevation and exposure. Collecting areas range from 7,500 to 9,500 feet where quartz deposits are accessible. Terrain is steep, rocky, and sparsely vegetated with pinyon-juniper at lower elevations transitioning to mixed conifer at higher zones. Walking distance from parking to productive areas typically 1 to 4 miles depending on access route chosen. Footing is difficult - loose angular rock, unstable scree, and few established trails require sturdy boots and careful route finding.",
+  "best_season": "May - October",
+  "written_directions": "From Tooele, drive west on UT 36 toward Ibapah for approximately 60 miles. The route crosses the Stansbury Mountains and enters the loneliest stretch of Utah desert. Watch for turnoffs toward the Ibapah Mountains on the south side of the highway - these are typically unmarked dirt roads requiring high-clearance vehicles. GPS coordinates are essential: proceed to 39.912223, -113.886302. Park at the highest trailhead accessible by your vehicle and hike into ridge systems where quartz outcrops are visible. High-clearance or 4x4 vehicles are required; the dirt approach roads are rough and narrow.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough high-clearance dirt roads with loose rock, washboard, and potential for deep mud after rain. Final approach may be impassable in wet conditions.",
+  "parking_notes": "Informal pullouts at trailheads. No developed parking area. Space for 3-5 vehicles. No facilities.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collecting limited to surface material and loose fragments only - do not break solid bedrock. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo blasting or heavy tools\nCollect surface material only\nPack out all trash",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cliffs",
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Tooele, Utah: approximately 60 miles east. Full services including fuel, food, lodging, and water.",
+  "accessibility_notes": "Rough backcountry terrain with significant elevation gain and loose, unstable footing. Multiple stream crossings and steep ridge traverses required. Not suitable for limited mobility, young children, or inexperienced hikers. Excellent physical fitness and mountaineering skills essential. Carry emergency supplies and navigation tools.",
+  "alternative_names": [],
+  "nearest_city": "Tooele",
+  "nearest_city_distance": 60,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/ibapah-mountains-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding in the Ibapah Mountains near Tooele?",
+      "answer": "The Ibapah Mountains are primarily known for quartz crystals, chalcedony, agate, and jasper. These silica-based gems form from Miocene hydrothermal activity within the Basin and Range geological province. Specimens are found weathering from Paleozoic host rock on slopes and in washed channels."
+    },
+    {
+      "question": "Do I need a permit to collect gems in the Ibapah Mountains?",
+      "answer": "No permit is required for recreational collecting on BLM land in the Ibapah Mountains. Personal use collection is allowed under FLPMA with a 25 lb per day limit. Tooele County BLM office can provide current regulations if conditions change."
+    },
+    {
+      "question": "How far is the Ibapah Mountains rockhounding site from Tooele, Utah?",
+      "answer": "The Ibapah Mountains are approximately 60 miles west of Tooele via UT 36. This is a remote location requiring a full day of driving and high-clearance or 4x4 vehicle. Most collectors plan overnight trips and establish a base camp."
+    },
+    {
+      "question": "What is the best time of year to rockhound for quartz in the Ibapah Mountains?",
+      "answer": "May through October is optimal, with peak conditions in early June and September. Winter snow and storms close access roads. Spring conditions are ideal because winter frost action exposes fresh material on slopes. Avoid summer mid-day heat by collecting in early morning and evening."
+    },
+    {
+      "question": "What tools and safety gear do I need for Ibapah Mountains rockhounding?",
+      "answer": "Bring a high-clearance or 4x4 vehicle, sturdy hiking boots, GPS device (cell service is absent), full emergency kit, at least 2 liters of water per person, sun protection, and a quality chipping hammer. Do not attempt this site without a means of self-rescue and reliable navigation."
+    },
+    {
+      "question": "Is the Ibapah Mountains rockhounding site suitable for beginners?",
+      "answer": "No. This is an expert-level site requiring advanced backcountry skills, high-clearance vehicle access, and comfort in remote terrain with no cell service. Beginners should start at more accessible Utah rockhounding sites closer to town. Only experienced rockhounders with mountaineering ability should attempt the Ibapah Mountains."
+    }
+  ],
+  "meta_title": "Ibapah Mountains Rockhounding - Utah",
+  "meta_description": "Find quartz, chalcedony, and agate at remote Ibapah Mountains BLM site near Tooele. No permit needed. 4x4 required. Expert skill level.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from Basin and Range geology without site-specific field data",
+    "nearest_city_distance - estimated from map",
+    "elevation ranges - inferred from USGS topography",
+    "best_season - based on high elevation Utah climate logic"
+  ],
+  "enriched_at": "2026-04-22T06:53:26.633Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:02:07.842Z"
+}

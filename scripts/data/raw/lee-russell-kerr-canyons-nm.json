@@ -1,0 +1,65 @@
+{
+  "slug": "lee-russell-kerr-canyons-nm",
+  "name": "Lee Russell & Kerr Canyons",
+  "lat": 33.916717,
+  "lng": -108.672631,
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "state_code": "NM",
+  "city": "Catron County",
+  "city_slug": "catron-county",
+  "county": "Catron",
+  "county_slug": "catron",
+  "geocoded_city": "Catron County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-mexico.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Lee%20Russell%20%26%20Kerr%20Canyons%20New%20Mexico"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "New Mexico BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Lee%20Russell%20%26%20Kerr%20Canyons",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Lee%20Russell%20%26%20Kerr%20Canyons%20New%20Mexico"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] New Mexico BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 7130,
+      "meters": 2173
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:35:35.801Z"
+  },
+  "scraped_at": "2026-04-21T19:35:35.801Z",
+  "scrape_quality": "partial"
+}

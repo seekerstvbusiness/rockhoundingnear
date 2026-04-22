@@ -1,0 +1,97 @@
+{
+  "slug": "house-range-ut",
+  "name": "House Range",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Millard County",
+  "city_slug": "millard-county",
+  "county": "Millard",
+  "county_slug": "millard",
+  "lat": 39.163525,
+  "lng": -113.373013,
+  "gem_types": [
+    "Quartz"
+  ],
+  "short_description": "BLM public land in central Utah famous for Cambrian-era trilobite fossils and paleozoic rock formations. Free rockhounding with 25 lb daily limit.",
+  "description": "The House Range is a distinctive mountain range in Millard County, Utah, prized by fossil collectors and rockhounds for its exceptional Cambrian period exposures. This BLM public land offers free access to some of the most important paleozoic rock formations in North America, where trilobite fossils, brachiopods, and other marine invertebrates are found embedded in limestone and shale layers.\n\nThe range sits within the basin and range physiography of the Great Basin, and its geology preserves a 500-million-year-old marine seabed. During the Cambrian explosion, shallow seas covered this region, depositing layers of sediment that later hardened into the limestone, dolomite, and shale visible today. The House Range Formation is particularly famous among paleontologists for its well-preserved specimens and diverse fauna.\n\nRockhounders visit primarily to search for trilobite fragments in loose talus and weathered outcrops along the hillsides. The collecting is typically light work, though some patience and knowledge are needed to spot the characteristic curved shapes of trilobite segments among common rock debris. Weather-worn limestone breaks naturally along bedding planes, exposing fossils that can range from partial segments to occasionally complete specimens.\n\nThis is a remote, high-desert location with minimal amenities. The best collecting areas require moderate hiking from parking areas. Access is free under BLM regulations, and the landscape offers expansive views of the Great Basin. The site is popular with university geology groups and serious amateur paleontologists.",
+  "history": "The House Range preserves the Cambrian explosion of life approximately 530 million years ago, when this region was submerged beneath a warm, shallow sea. Cambrian trilobites and other marine organisms died and were buried in fine sediments that compacted into the limestone and shale formations visible today. The range became famous in the early 1900s through the work of paleontologists who recognized its exceptional fossil richness and stratigraphic completeness.",
+  "tips": "Search the talus slopes and wash bottoms where limestone breaks down naturally - trilobite segments are often found in loose debris rather than requiring excavation. Look for curved, segmented pieces with a distinctive oval or crescent shape; the larger pieces near the base of outcrops have higher success rates. A geology hammer and cold chisel help split weathered limestone along natural planes, but much of the best material is already exposed. Bring a hand lens to examine fragments closely, as small trilobite pieces are easy to overlook among common quartzite and limestone rubble.",
+  "terrain_notes": "The House Range rises to approximately 6,000 feet elevation with steep, rocky slopes covered in sparse desert shrubland. Terrain is typically uneven, with loose scree and angular limestone fragments throughout. Parking areas near collecting sites involve unpaved BLM roads with washboard surface; high-clearance vehicle recommended but passenger cars can access some lower trailheads. Walking distances from parking to productive collecting areas range from 0.5 to 2 miles depending on location. Footing is rocky and steep in places; sturdy hiking boots essential.",
+  "best_season": "April - June and September - October. Spring and fall offer moderate temperatures and clearer skies for fossil hunting. Summer heat (over 90 degrees F) and winter cold/snow make collecting less comfortable, though the site is technically open year-round.",
+  "written_directions": "From Delta, Utah (nearest town with services), take US Highway 50 east for approximately 32 miles toward Hinckley. Continue east on US 50 for another 8 miles. Turn south onto the House Range BLM access road (unsigned, located near milepost 127-128). Follow the dirt road south for 3-5 miles to primary trailhead parking areas. Road is passable by high-clearance vehicles; inquire locally for current road conditions and specific collecting site access points.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM road with washboard surface; high-clearance recommended. Road can be rutted and may be impassable during/after heavy rain or snow.",
+  "parking_notes": "Multiple informal parking pullouts and small parking areas along BLM access roads near trailheads. No developed parking lots; capacity varies by location, typically 2-6 vehicles per pullout.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. All collection must be hand-collected from surface or loose talus. Do not damage in-place fossils or rock formations.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand collection from surface and loose talus only\nNo damaging in-place outcrops or fossils",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Delta, Utah, approximately 40 miles northwest. Offers gas, food, lodging, and supplies. No services closer to the House Range.",
+  "accessibility_notes": "Uneven, rocky terrain with steep hillsides and loose scree. Significant hiking required to reach productive fossil sites. Trails are not developed or maintained. Sturdy footwear and good fitness level recommended. Not accessible for wheelchairs or limited mobility.",
+  "alternative_names": [
+    "House Range Formation"
+  ],
+  "nearest_city": "Delta",
+  "nearest_city_distance": 40,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/house-range-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What fossils can you find at the House Range in Utah?",
+      "answer": "The House Range is famous for Cambrian-era trilobites, the most common find. You can also discover brachiopods, trilobite fragments, and other invertebrate fossils from 530 million years ago. Most collectors find trilobite segments and small pieces in loose talus and weathered limestone rather than complete specimens."
+    },
+    {
+      "question": "Is there a permit or fee to rockhound at House Range?",
+      "answer": "No permit is required and there is no fee. The House Range is public BLM land. You can collect free of charge under standard FLPMA regulations, limited to 25 lbs per day for personal use only. No commercial collection is allowed."
+    },
+    {
+      "question": "How far is the House Range from Delta, Utah?",
+      "answer": "The House Range is approximately 40 miles southeast of Delta, Utah. From Delta, take US 50 east toward Hinckley, then turn south onto the BLM access road near milepost 127-128. The drive takes about one hour. High-clearance vehicle is recommended for the final dirt road access."
+    },
+    {
+      "question": "What is the best time of year to hunt fossils at House Range?",
+      "answer": "April through June and September through October offer the best conditions. Spring and fall temperatures are moderate and the desert is more comfortable for hiking and collecting. Summer heat exceeds 90 degrees F, and winter can bring snow and cold. The site is open year-round but these seasons are most practical."
+    },
+    {
+      "question": "What tools do I need to find trilobites at the House Range?",
+      "answer": "A geology hammer and cold chisel are helpful for carefully splitting weathered limestone along natural bedding planes. Many fossils are already exposed in loose talus and require no tools. Bring a hand lens to examine small fragments closely, sturdy hiking boots for rocky terrain, sun protection, and water. Most finds come from surface collection rather than excavation."
+    },
+    {
+      "question": "Is the House Range a good rockhounding spot for beginners?",
+      "answer": "Yes, the House Range is beginner-friendly if you are prepared for remote, rocky terrain and are willing to hike. No permit or fee makes access easy. Trilobites are distinctive once you know what to look for, and many fragments are visible in loose talus. However, you need good hiking ability, a high-clearance vehicle, and should bring water and sun protection. Family groups with kids 8+ can enjoy collecting here with proper preparation."
+    }
+  ],
+  "meta_title": "House Range Rockhounding - Utah Trilobite Fossils",
+  "meta_description": "Free BLM rockhounding for Cambrian trilobites and fossils in Utah's House Range. No permit needed, 25 lb daily limit. Remote high-desert collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "written_directions",
+    "parking_notes",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T06:51:16.942Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:58:25.269Z"
+}

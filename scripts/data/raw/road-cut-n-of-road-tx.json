@@ -1,0 +1,60 @@
+{
+  "slug": "road-cut-n-of-road-tx",
+  "name": "Road cut N of road",
+  "lat": 31.658514,
+  "lng": -94.808455,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Nacogdoches County",
+  "city_slug": "nacogdoches-county",
+  "county": "Nacogdoches",
+  "county_slug": "nacogdoches",
+  "geocoded_city": "Winter Hill",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Road%20cut%20N%20of%20road%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Road%20cut%20N%20of%20road",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Road%20cut%20N%20of%20road%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 306,
+      "meters": 93
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:45:38.134Z"
+  },
+  "scraped_at": "2026-04-21T18:45:38.134Z",
+  "scrape_quality": "minimal"
+}

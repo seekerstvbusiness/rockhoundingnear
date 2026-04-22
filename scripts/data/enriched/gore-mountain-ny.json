@@ -1,0 +1,99 @@
+{
+  "slug": "gore-mountain-ny",
+  "name": "Gore Mountain",
+  "state": "New York",
+  "state_slug": "new-york",
+  "city": "Town of Johnsburg",
+  "city_slug": "town-of-johnsburg",
+  "county": "Warren",
+  "county_slug": "warren",
+  "lat": 43.681198,
+  "lng": -74.058899,
+  "gem_types": [
+    "Garnet",
+    "Mica",
+    "Feldspar",
+    "Quartz"
+  ],
+  "short_description": "A moderate alpine rockhounding site in the Adirondack High Peaks where metamorphic rocks yield garnet, mica, and feldspar specimens. Public access with scenic mountain views.",
+  "description": "Gore Mountain is located within the Adirondack Park in northern New York, offering rockhounders access to metamorphic bedrock typical of this geologically significant region. The site sits at 2452 feet elevation with gentle slopes that make it accessible compared to steeper Adirondack peaks. This location is prized by collectors seeking garnet crystals, mica books, and feldspar specimens exposed in outcrops and loose talus scattered across the mountainside.\n\nThe geology of Gore Mountain reflects the Grenville orogeny, a major mountain-building event that metamorphosed sedimentary and igneous rocks into gneiss, schist, and amphibolite during the Proterozoic era. These metamorphic rocks are host to almandine garnets, which typically appear as reddish-brown crystals embedded in the dark host rock. Mica, particularly muscovite and biotite, occurs as loose sheets and flakes throughout the talus fields. Feldspar crystals, often pink or white plagioclase, are abundant in the granite-derived gneisses that form much of the higher elevations.\n\nAccess to Gore Mountain via the gentle slope trail makes this a reasonable destination for intermediate rockhounders. The surrounding Adirondack landscape features mixed forest with exposed bedrock and substantial talus slopes ideal for surface collecting. No permit is required for personal use collection on this public land. Water sources are typically available from seasonal seeps and streams, but bring adequate supply. The views of the High Peaks make this a rewarding location for both geology and scenery.\n\nBest results come from examining freshly exposed talus on north and east-facing slopes where freeze-thaw cycles loosen specimens. Garnet crystals often catch light and stand out against lighter gneiss matrix. Mica books peel easily from weathered schist outcrops. After collecting, please respect the natural environment by not creating new holes or moving large rocks unnecessarily.",
+  "history": "Gore Mountain's rocks were metamorphosed during the Grenville orogeny approximately 1.0 to 1.2 billion years ago, when continental collision transformed pre-existing sedimentary and igneous rocks into the complex metamorphic assemblages visible today. The Adirondacks have a long history of mineral collecting, with 19th-century naturalists and geologists documenting the region's garnet deposits, making it a classic location for amateur mineralogy.",
+  "tips": "Search the talus slopes on the upper eastern and northern sides of the mountain where weathering has loosened specimens - garnet crystals often appear as dark wine-red cubes in lighter gneiss matrix. Use a hand lens to identify feldspar crystal shapes and colors before collecting. Mica can be extracted from schist outcrops with a flathead chisel or old butter knife; look for tight, curved cleavage patterns that indicate fresh material. Bring a 5-gallon bucket or backpack to carry specimens, as the best finds are often clustered in one productive area.",
+  "terrain_notes": "Elevation 2452 feet with gentle slopes and mixed Adirondack forest. Terrain is moderate with exposed bedrock, talus slopes, and small boulder fields. Footing is generally stable on established trails but loose in talus areas. Typical hiking distance from parking area to productive collecting zones is 0.5 to 1.5 miles. Some areas have wet seeps and seasonal streams. Sturdy hiking boots recommended.",
+  "best_season": "June - September. The snow and ice melt by early June, and trails become safe and accessible. High elevation means cooler temperatures and afternoon thunderstorms are possible July through September, but collecting conditions remain excellent. Avoid October through May due to snow, ice, and poor trail conditions at elevation.",
+  "written_directions": "From the Town of Johnsburg, take NY Route 28 north toward the Adirondack High Peaks. Continue approximately 8 miles to the Gore Mountain area near the Ski Center access point. Turn west onto Ski Area Road and follow signs toward trailhead parking areas (approximately 1 mile). Park at the designated public trailhead lot. From parking, hike the marked trail toward Gore Peak for 0.5 to 1.5 miles, watching for talus slopes and exposed bedrock on either side of the trail.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": "Ski Area Road is paved and maintained year-round but can be icy in winter. Passenger vehicles suitable in summer and fall.",
+  "parking_notes": "Public trailhead parking area with gravel lot capacity for approximately 20-30 vehicles. No designated fee; parking is free. Facilities may be limited or seasonal.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use collection only on public Adirondack Park land. No commercial collection or sale of specimens. Maximum 25 pounds per person per day for personal mineral collecting. Do not create new holes or permanently alter the landscape. Leave no trace by packing out all waste. Stay on marked trails to protect natural resources and prevent erosion.",
+  "quantity_limits": "25 pounds per day per collector for personal use",
+  "rules": "Personal use only\nMaximum 25 pounds per day\nNo commercial collection\nNo permanent damage to outcrops or bedrock\nPack out all waste\nStay on established trails when possible",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "cliffs"
+  ],
+  "nearest_services": "Town of Johnsburg has limited services (approximately 8 miles south). For full amenities including gas, food, and lodging, visit North Creek or Warrensburg (approximately 15-20 miles south), where multiple restaurants, shops, and motels are available.",
+  "accessibility_notes": "Moderate terrain with uneven footing on talus slopes and rocky ground. Elevation gain is modest but steady. Sturdy hiking boots required. Not wheelchair accessible. Loose rock and boulder fields present moderate scrambling. Trail is marked and relatively safe but requires reasonable fitness for 1 to 2 mile hikes at elevation.",
+  "alternative_names": [],
+  "nearest_city": "North Creek",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-york/gore-mountain-ny/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What garnets can I find rockhounding at Gore Mountain in New York?",
+      "answer": "Gore Mountain yields almandine garnets, the most common type found in Adirondack metamorphic rocks. Specimens typically appear as dark wine-red to brown crystals ranging from 2 to 15 millimeters, set in light gray or pink gneiss matrix. Crystals often show cube or dodecahedron shapes. Best results come from examining talus fields and fresh bedrock exposures on north-facing slopes."
+    },
+    {
+      "question": "Is there a permit required to rockhound at Gore Mountain near Johnsburg?",
+      "answer": "No permit is required for personal use mineral collecting at Gore Mountain on public Adirondack Park land. You may collect up to 25 pounds per day per person. Commercial collection and sale of specimens is not allowed. Simply park at the public trailhead and hike to productive areas."
+    },
+    {
+      "question": "What is the best season for rockhounding mica and feldspar at Gore Mountain?",
+      "answer": "The best season is June through September when snow has melted and trails are dry and accessible. High elevation means cooler temperatures even in summer, reducing heat stress. July and August can bring afternoon thunderstorms, but collecting conditions remain good. Avoid October through May due to snow and ice at 2452 feet elevation."
+    },
+    {
+      "question": "How difficult is the hike to find specimens at Gore Mountain?",
+      "answer": "Gore Mountain is rated moderate difficulty with a gentle slope and 0.5 to 1.5 mile hike from the parking area to productive talus zones. This makes it accessible for families and intermediate hikers, though sturdy boots and reasonable fitness are recommended. The terrain features loose rock and uneven footing in talus fields, so the route is not suitable for young children alone."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Gore Mountain?",
+      "answer": "Bring sturdy hiking boots, a 5-gallon bucket or backpack for specimens, a hand lens for identification, a flathead chisel or old butter knife for prying mica from schist, and a field guide to Adirondack minerals. Bring at least 2 liters of water, sunscreen, and insect repellent. A camera helps document finds. Leave by early afternoon to avoid hiking in twilight at elevation."
+    },
+    {
+      "question": "Can beginners find good specimens at Gore Mountain near North Creek, New York?",
+      "answer": "Yes, Gore Mountain is beginner-friendly. Garnet, mica, and feldspar are relatively abundant in talus fields and require no specialized skills to identify or collect. The public trailhead access and moderate hiking difficulty make it ideal for families introducing children to Adirondack mineralogy. Start by collecting loose specimens from talus slopes before attempting to chisel at bedrock outcrops."
+    }
+  ],
+  "meta_title": "Gore Mountain Rockhounding - Find Garnet in NY",
+  "meta_description": "Hunt for garnet, mica, and feldspar at Gore Mountain near Johnsburg, NY. Public Adirondack access, moderate hiking, 25 lbs daily limit. Open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "nearest_services",
+    "parking_notes",
+    "remoteness_rating",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-21T18:50:31.337Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:52:15.442Z"
+}

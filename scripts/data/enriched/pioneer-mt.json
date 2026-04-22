@@ -1,0 +1,97 @@
+{
+  "slug": "pioneer-mt",
+  "name": "Pioneer",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Pioneer",
+  "city_slug": "powell-county",
+  "county": "Powell",
+  "county_slug": "powell",
+  "lat": 46.513917,
+  "lng": -112.963783,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding site near Pioneer, Montana offering agate and jasper collecting on flat terrain. No permit required - bring a 25 lb bag and explore this accessible high-elevation location.",
+  "description": "Pioneer is a public BLM rockhounding area in Powell County, Montana, situated at 4,725 feet elevation with flat, walkable terrain ideal for collectors of all skill levels. The site offers excellent opportunities to find agate, jasper, quartz, and chalcedony specimens scattered across the surface and exposed in washes. This region sits within the northern Rocky Mountain province where Precambrian metamorphic rocks and Tertiary volcanic deposits have weathered to expose quality specimens suitable for both display and cutting.\n\nThe relatively flat terrain and proximity to Pioneer make this an accessible day trip for rockhounds. Surface collecting is straightforward here - specimens are visible in disturbed areas, along drainages, and in exposed gravels typical of BLM land in this region. The area's geology favors microcrystalline quartz varieties, making it particularly rewarding for those seeking polishable material.\n\nAs Montana BLM land, this location operates under standard recreational collecting regulations: no permit required, personal use only, and a 25-pound daily limit per the Federal Land Policy and Management Act. This makes Pioneer an excellent choice for families and beginners who want to rockhound without the cost of a fee dig site. The flat slope means you can cover ground efficiently and return with quality specimens without scrambling over difficult terrain.\n\nBest collecting occurs in spring through early fall when access is easiest, though the area can be visited year-round. Plan a half-day trip and bring proper tools, water, and a sturdy collection bag to make the most of your visit to this straightforward but rewarding Montana rockhounding destination.",
+  "history": "This region sits within the northern Rocky Mountain province where Precambrian metamorphic basement rocks and Tertiary silica-rich volcanic deposits created ideal conditions for agate and jasper formation. The high-elevation basin environment allowed circulating fluids to deposit microcrystalline quartz varieties in fractures and cavities, resulting in the quality specimens found here today.",
+  "tips": "Search along drainages and in disturbed areas where specimens are naturally exposed on the surface - look for banded agates and solid-colored jasper pieces in the 1 to 3 inch range. Bring a crack hammer and chisel to separate specimens from host rock, and a 5-gallon bucket with a sealable lid to protect your best finds during transport. Focus on the flatter areas near washes where gravity has concentrated heavier material; specimens here often show polish potential with bands or color variations worth photographing before collection.",
+  "terrain_notes": "Flat terrain at 4,725 feet elevation with easy walking access typical of BLM land in this region. Scattered sagebrush and grassland with occasional rocky outcrops. No significant elevation change. Footing is stable with minimal loose rock hazard. Parking pullouts provide direct access to collecting areas within a short walk.",
+  "best_season": "April - October",
+  "written_directions": "From Pioneer, Montana, travel north or south on the local roads to access BLM land markers. GPS coordinates 46.513917, -112.963783 pinpoint the primary collecting area. Look for BLM boundary signs and public land access points. Park at pullouts along accessed roads and walk into flat, open collecting zones. Detailed county road numbers are best confirmed via current BLM Montana maps or the Powell County assessor's office.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved county road access. Generally passable in passenger vehicles during dry conditions; 4x4 may be preferred in wet weather or snow.",
+  "parking_notes": "Informal pullouts along BLM access roads. No developed parking lot. Park in designated pullout areas and walk to collecting zones. Limited capacity, typically room for 2-3 vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Specimens must be hand-collected or extracted with hand tools only. Pack out all trash and leave the site as you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nHand tools only\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "remote",
+    "cold"
+  ],
+  "nearest_services": "Pioneer, Montana has limited services. For gas, food, and supplies, Deer Lodge (approximately 35 miles south) or Phillipsburg (approximately 25 miles south) offer full amenities.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Unpaved road to parking pullouts but short walk to collecting areas. No wheelchair accessibility. Sturdy footwear recommended but not essential. Low physical exertion required makes this suitable for older rockhounders and those with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Deer Lodge",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/pioneer-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/pioneer-mt/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Pioneer, Montana on BLM land?",
+      "answer": "Pioneer BLM land is known for agate, jasper, quartz, and chalcedony specimens. Most materials are microcrystalline varieties suitable for display, lapidary work, or polishing. Surface specimens typically range from 1 to 3 inches and are found scattered across flat terrain and in washes."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Pioneer, Montana?",
+      "answer": "No permit is required at Pioneer. As BLM public land in Montana, recreational rockhounding is allowed under FLPMA regulations. You must follow the 25-pound daily collection limit and collect for personal use only."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Pioneer, Montana?",
+      "answer": "April through October offers the best collecting conditions when roads are dry and weather is mild. While the site can be visited year-round, winter snow and spring mud may limit access. Late spring and early fall provide ideal temperature and visibility."
+    },
+    {
+      "question": "Is Pioneer, Montana rockhounding site beginner-friendly and family-safe?",
+      "answer": "Yes. The flat terrain, easy surface collecting, and lack of permit requirements make Pioneer ideal for beginners and families with children ages 6 and up. No specialized skills or equipment are needed beyond a basic hammer and collection bag."
+    },
+    {
+      "question": "What tools should I bring to rockhound at Pioneer, Montana?",
+      "answer": "Bring a crack hammer, chisel, 5-gallon collection bucket with lid, work gloves, and a sturdy backpack or day bag. A headlamp is useful if you plan an early morning start. Sunscreen, water, and a hat are essential for the high-elevation Montana climate."
+    },
+    {
+      "question": "How far is Pioneer, Montana rockhounding from the nearest town with services?",
+      "answer": "Pioneer is approximately 35 miles north of Deer Lodge, Montana, which offers gas, food, lodging, and supplies. Phillipsburg is roughly 25 miles south and also provides full services. Plan accordingly for a day trip by fueling up before heading to the site."
+    }
+  ],
+  "meta_title": "Pioneer Rockhounding - Montana BLM Agate Jasper",
+  "meta_description": "Find agate, jasper, and quartz at Pioneer, Montana BLM land. Free rockhounding, no permit required, flat terrain. Perfect for beginners and families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_services",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-21T19:07:07.874Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:29.763Z"
+}

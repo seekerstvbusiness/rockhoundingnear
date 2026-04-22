@@ -1,0 +1,65 @@
+{
+  "slug": "silver-city-id",
+  "name": "Silver City",
+  "lat": 43.014438,
+  "lng": -116.730136,
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "state_code": "ID",
+  "city": "Owyhee County",
+  "city_slug": "owyhee-county",
+  "county": "Owyhee",
+  "county_slug": "owyhee",
+  "geocoded_city": "Silver City",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-idaho.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Silver%20City%20Idaho"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Idaho BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Silver%20City",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Silver%20City%20Idaho"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Idaho BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 6206,
+      "meters": 1892
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:41:01.310Z"
+  },
+  "scraped_at": "2026-04-21T19:41:01.310Z",
+  "scrape_quality": "partial"
+}

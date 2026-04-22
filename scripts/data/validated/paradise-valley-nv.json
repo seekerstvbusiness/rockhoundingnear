@@ -1,0 +1,101 @@
+{
+  "slug": "paradise-valley-nv",
+  "name": "Paradise Valley",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Humboldt County Area",
+  "city_slug": "humboldt-county",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "lat": 41.5733,
+  "lng": -117.480856,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Opal",
+    "Quartz"
+  ],
+  "short_description": "Public BLM rockhounding in remote northern Nevada high desert. Find agate, jasper, and chalcedony on gentle slopes at 5,000+ feet elevation.",
+  "description": "Paradise Valley is a remote BLM rockhounding area in Humboldt County, Nevada, situated at 5,052 feet elevation in the high desert country of the northern Basin and Range province. The gentle terrain and sparse vegetation make it accessible for recreational collectors seeking quality agate and jasper specimens. The area has been known to local rockhounders for decades as a consistent producer of colorful nodules and broken material suitable for cutting and polishing.\n\nThe geological foundation of Paradise Valley reflects typical Basin and Range volcanism. Miocene-era rhyolitic ash flows and silica-rich deposits created ideal conditions for agate and chalcedony nodule formation. Weathering and erosion of these ancient volcanic beds continually expose new material on the surface, making surface collecting viable without extensive digging.\n\nVisitors should expect open high desert terrain with scattered sagebrush, juniper, and scattered rock outcrops. The gentle slope and good visibility make it easier to spot color variations in agate and jasper nodules. This is a low-traffic area popular with knowledgeable rockhounders who respect BLM regulations and leave no trace.\n\nThe 25-pound daily collection limit and personal-use-only requirement are standard BLM protections. Pack water, sun protection, and a sturdy rock hammer. Early morning or late afternoon provides the best light for spotting specimens and avoiding the intense midday desert heat. The area is ideal for both experienced rockhounders and motivated beginners willing to hike remote terrain.",
+  "history": "Paradise Valley lies within the northern Nevada portion of the Basin and Range province, where Miocene volcanic activity (roughly 20-30 million years ago) deposited thick sequences of rhyolitic tuffs and silica-rich deposits. Groundwater circulating through these volcanic rocks during the Tertiary period precipitated silica in fractures and cavities, forming the agate and chalcedony nodules found here today. Local rockhounding activity in this remote region has been steady but low-profile, with collectors drawn to the reliable quality and quantity of nodule material.",
+  "tips": "Search the gentle slopes and wash bottoms where erosion has weathered away host rock and concentrated nodules on the surface. Look for rounded or partially angular nodules exhibiting translucence at the edges, with cream, white, gray, pink, and rust-brown coloring typical of high-desert Nevada agate. Use a small pry bar and rock hammer to test and extract specimens; a headlamp or flashlight helps spot color gradations in shadows. Focus effort in areas with visible quartz outcrops and weathered volcanic material rather than solid bedrock faces.",
+  "terrain_notes": "Elevation 5,052 feet in the high desert. Gentle overall slope with scattered volcanic rock, sagebrush, and juniper. Terrain is uneven with loose rocks underfoot; sturdy hiking boots strongly recommended. Walking distances from parking can vary from 0.25 miles to 2+ miles depending on specimen location. Surface is mostly compacted earth and gravel with pockets of soft ground. No water sources on site.",
+  "best_season": "May - September. Higher elevation (5,000+ ft) stays cooler than lower Nevada deserts. Winter snow is possible; spring weather can be unpredictable. Summer afternoon temperatures typically 75-85 degrees F, making midday collecting challenging. Early morning or evening collecting is most comfortable.",
+  "written_directions": "From the town of McDermitt (approximately 50 miles north), take Nevada State Route 95 south toward Fields. Paradise Valley BLM land is accessible via local ranch roads and unimproved dirt tracks in the vicinity of the Humboldt County high-desert plateau. GPS coordinates 41.5733, -117.480856 mark the approximate center of productive rockhounding terrain. Four-wheel-drive or all-terrain vehicle is strongly recommended. Verify current road access conditions with the Bureau of Land Management Vale-Jordan Creek District office, as seasonal closures and private land boundaries apply.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Unimproved dirt roads and ranch tracks. High-clearance or 4WD vehicles recommended, especially after rain or snow. Washboard surface typical. Route-finding required; local knowledge or GPS essential.",
+  "parking_notes": "Informal pullouts along BLM access roads. No maintained parking facility. Space for 1-3 vehicles at typical stopping points. Park well off active roads.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or heavy equipment. Hand tools only (hammer, pry bar, chisel). Leave no trash. Respect private land boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo surface disturbance beyond specimen collection\nPack out all trash\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "cold",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "McDermitt, Nevada (approximately 50 miles south) offers gas, limited food, and water. No services at the rockhounding site itself.",
+  "accessibility_notes": "Uneven rocky high-desert terrain with loose volcanic rock scattered throughout. No wheelchair access. Sturdy hiking boots and good physical fitness required for multi-mile hikes. Elevation gain minimal on gentle slopes, but remote location and lack of marked trails demand navigation skills or GPS. Heat and sun exposure are significant factors; shade and water are scarce.",
+  "alternative_names": [],
+  "nearest_city": "McDermitt",
+  "nearest_city_distance": 50,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/paradise-valley-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/paradise-valley-nv/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agate and jasper can I find at Paradise Valley Nevada?",
+      "answer": "Paradise Valley produces high-quality nodular agate and chalcedony in cream, white, gray, pink, and rust-brown colors typical of northern Nevada high-desert deposits. Specimens often display translucence and color banding suitable for cutting and polishing. Jasper and common quartz are also present. Most material is found as loose weathered nodules on the surface rather than in solid outcrop."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Paradise Valley BLM land?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Paradise Valley. Federal Land Policy and Management Act (FLPMA) allows personal use collection up to 25 pounds per day without a permit. However, you must follow all collection rules: personal use only, no commercial activity, and hand tools only. Always verify current regulations with the BLM Vale-Jordan Creek District office before your trip."
+    },
+    {
+      "question": "How far is Paradise Valley rockhounding from McDermitt Nevada?",
+      "answer": "Paradise Valley is approximately 50 miles north of McDermitt, Nevada, the nearest town with services. The drive requires high-clearance or four-wheel-drive vehicles on unimproved BLM dirt roads. Allow 1.5 to 2 hours of driving time, and ensure you have full fuel tank, water, and supplies before departing McDermitt, as there are no services along the route."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Paradise Valley?",
+      "answer": "The best rockhounding season at Paradise Valley is May through September when high elevation (5,052 ft) temperatures are moderate and roads are typically passable. Winter and early spring can bring snow and muddy road conditions. Summer afternoons can exceed 85 degrees F, so early morning or evening collecting is most comfortable. Always check seasonal road conditions with the BLM before visiting."
+    },
+    {
+      "question": "Is Paradise Valley rockhounding site beginner-friendly and suitable for kids?",
+      "answer": "Yes, Paradise Valley is beginner-friendly for rockhounders ages 8 and up with reasonable fitness and interest in hiking remote terrain. The gentle slope and accessible surface collecting make it less demanding than some sites. However, the remote location, lack of water, intense sun, and variable weather require proper preparation, navigation skills, and adult supervision for children. Bring plenty of water, sun protection, and a GPS device."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Paradise Valley Nevada?",
+      "answer": "Yes, dogs are allowed on public BLM land at Paradise Valley, making it a dog-friendly rockhounding destination. However, the remote location, lack of water sources, intense heat, and rough terrain require careful preparation. Bring adequate water for both you and your dog, use sun protection, and watch for hazards like snakes, loose rocks, and extreme temperature swings. Keep your dog under control and pack out all trash."
+    }
+  ],
+  "meta_title": "Paradise Valley Rockhounding - Nevada Agate & Jasper",
+  "meta_description": "Find agate, jasper, and chalcedony at Paradise Valley BLM land in northern Nevada. Free rockhounding, 25 lb daily limit, high-desert terrain. GPS & directions.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (based on geographic inference and standard BLM access patterns rather than verified road name)",
+    "nearest_city_distance (estimated from GPS and known Nevada geography)",
+    "gem_types (inferred from typical Basin and Range Miocene volcanic deposits; no specific assay provided)",
+    "hazards (inferred from remote high-desert terrain and elevation; no incident report source)"
+  ],
+  "enriched_at": "2026-04-22T06:43:35.281Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:04.011Z"
+}

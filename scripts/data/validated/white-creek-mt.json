@@ -1,0 +1,99 @@
+{
+  "slug": "white-creek-mt",
+  "name": "White Creek",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Meagher County Area",
+  "city_slug": "broadwater-county",
+  "county": "Broadwater",
+  "county_slug": "broadwater",
+  "lat": 46.627702,
+  "lng": -111.413372,
+  "gem_types": [
+    "Agate",
+    "Quartz",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM public rockhounding site in central Montana's Broadwater County. Search gentle slopes for agates, quartz, and chalcedony with no permit required.",
+  "description": "White Creek is a public BLM rockhounding site located in the high intermountain valleys of central Montana. This scenic area sits at 6,463 feet elevation on land managed for multiple-use recreation, making it accessible to rockhounders year-round with no permitting required.\n\nThe geology of this region reflects Montana's classic Basin and Range structure combined with Tertiary volcanic activity. The gentle slopes surrounding White Creek produce nodular agates and chalcedony specimens that weathered from ancient rhyolitic flows and silica-rich sedimentary deposits. Quartz veins intersect the hillsides, and scattered jasper fragments work their way down the slopes with seasonal erosion.\n\nThis is an ideal site for collectors seeking a relaxed day of surface collecting. The gentle terrain means you can cover ground without the physical demands of steeper sites, and the combination of agate variety and quartz specimens makes for productive searching. Because this is BLM land open to recreational collection, you'll find fewer crowds than fee-dig operations.\n\nBring water, sun protection, and a comfortable pair of hiking boots. The high elevation means weather can change quickly, especially in shoulder seasons. Early morning light often reveals the translucent qualities of agate nodules on the hillside slopes, making spring and fall particularly rewarding times to visit.",
+  "history": "White Creek lies within the Northern Rocky Mountains physiographic province, where Eocene to Miocene volcanic activity deposited thick sequences of rhyolite, andesite, and tuffaceous material. These silica-rich volcanic and pyroclastic deposits subsequently weathered and broke down into the nodular agates and chalcedony fragments that collectors find here today. The broader region around Meagher and Broadwater counties has a long history of small-scale prospecting for precious and semi-precious stones, with many informal collecting areas developed through decades of recreational activity.",
+  "tips": "Focus your search on the upper slopes and washouts where gravity naturally concentrates heavier agate and quartz pieces. Look for opaque white, tan, and banded nodules about 1-3 inches in size; the translucent varieties often catch the light when sun angles are low. Bring a 5-gallon bucket for sorting material on site, a small cold chisel for testing suspected specimens, and a hand lens to inspect color banding and chalcedony quality. Work downslope from exposed rock outcrops where fresh material continues to weather out seasonally.",
+  "terrain_notes": "Elevation of 6,463 feet in open intermountain valley terrain with gentle slopes and mixed grass and sagebrush cover. No major creek crossings required; walking distance from parking to prime collecting areas typically ranges from 100 yards to half a mile depending on where you park. Footing is generally stable with natural grassland and scattered small rocks; watch for horse traffic from local ranching activity. Slopes are manageable for most fitness levels, but elevation may affect those unaccustomed to high altitude.",
+  "best_season": "June - September. High-elevation Montana sites are best visited during summer and early fall when snow is absent, temperatures are moderate (50-70F daytime), and access roads are passable. Winter storms and snow make this site unsafe and inaccessible from November through May. Late spring (May-June) can work but mud from snowmelt may affect road access.",
+  "written_directions": "From White Sulphur Springs (nearest town with services, approximately 20 miles southwest), take Montana Highway 89 north toward Lewistown. Continue north for approximately 12 miles. Look for Forest Road 2850 or local ranch access roads heading east toward White Creek drainage. GPS coordinates 46.627702, -111.413372 will guide you to the general area. Road conditions are typically passable for passenger vehicles during summer, though high-clearance vehicles are recommended. Park in any safe pullout along the road; there are no developed parking areas. Contact the Malta BLM Field Office for current road conditions and site access details.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved ranch/forest service road. Typically passable for passenger vehicles in summer. High-clearance or all-wheel drive recommended after spring snowmelt or summer rains.",
+  "parking_notes": "No developed parking area. Use safe pullouts along the ranch access road. Space for 2-4 vehicles typical.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or power tools. Pack out all trash. Respect fencing and private property boundaries. Do not disturb wildlife or nesting birds.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nPack out all trash\nRespect fencing and private land\nDo not disturb wildlife",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "cold",
+    "remote"
+  ],
+  "nearest_services": "White Sulphur Springs, approximately 20 miles southwest. Full services including gas, food, lodging, and water. Lewistown, approximately 30 miles north, also has complete services.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers and families. Unpaved road to parking area; high-clearance vehicle recommended. Slopes require walking on uneven grassland and scattered small rocks, but no technical scrambling. Sturdy hiking boots recommended. Not suitable for wheelchairs due to unpaved access road and uneven slope terrain.",
+  "alternative_names": [],
+  "nearest_city": "White Sulphur Springs",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/white-creek-mt/cover.png",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/white-creek-mt/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/white-creek-mt/mineral-2-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and quartz can I find at White Creek in Montana?",
+      "answer": "White Creek produces nodular agates with white, tan, and banded coloring, along with translucent chalcedony and quartz specimens. Most nodules range from 1-3 inches in size and weather out of ancient rhyolitic deposits. Many specimens show subtle color banding and take a good polish, making them popular for cabochon cutting and display."
+    },
+    {
+      "question": "Is a permit required for rockhounding at White Creek BLM land near Meagher County?",
+      "answer": "No permit is required for recreational rockhounding at White Creek. This is public BLM land open under the Federal Land Policy and Management Act. You simply need to follow the 25 lbs per day limit and pack out your trash. Commercial collection is not allowed."
+    },
+    {
+      "question": "What is the best season to rockhound at White Creek, Montana?",
+      "answer": "June through September is ideal. This high-elevation site (6,463 feet) is snow-free and accessible only during summer and early fall. Winter storms and snowmelt make the access roads impassable from November through May. Early mornings in July and August offer the best light for spotting translucent agate on the slopes."
+    },
+    {
+      "question": "How far is White Creek from White Sulphur Springs and what are road conditions?",
+      "answer": "White Creek is approximately 20 miles northeast of White Sulphur Springs via Highway 89 and local ranch roads. The access road is unpaved but typically passable for passenger vehicles during summer. High-clearance or all-wheel drive is recommended, especially after rain or snowmelt. Always check with the Malta BLM Field Office for current conditions."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at White Creek?",
+      "answer": "Bring a 5-gallon bucket for sorting material on site, a small cold chisel or pick for testing specimens, a hand lens for inspecting agate banding, sturdy hiking boots, sun protection, and plenty of water (at least 2 liters). A GPS unit or smartphone is useful given the remote location and spotty cell service. Bring all trash removal supplies."
+    },
+    {
+      "question": "Is White Creek rockhounding site beginner-friendly and family-safe?",
+      "answer": "Yes, White Creek is very beginner-friendly. The gentle slopes and accessible terrain make it suitable for families with children ages 6 and up. No technical climbing or specialized skills are required. Dogs are welcome on public BLM land. The main considerations are high elevation (bring water and sun protection) and spotty cell service in the area."
+    }
+  ],
+  "meta_title": "White Creek Rockhounding - Montana Agate & Quartz",
+  "meta_description": "Free BLM rockhounding near Broadwater County, Montana. Find agate, quartz, and chalcedony on gentle slopes. No permit required. Year-round access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-21T19:06:21.538Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:08:59.152Z"
+}

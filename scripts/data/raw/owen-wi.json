@@ -1,0 +1,60 @@
+{
+  "slug": "owen-wi",
+  "name": "Owen",
+  "lat": 44.945436,
+  "lng": -90.561451,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Owen",
+  "city_slug": "owen",
+  "county": "Clark",
+  "county_slug": "clark",
+  "geocoded_city": "Owen",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Owen%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Owen",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Owen%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1229,
+      "meters": 375
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:10:04.130Z"
+  },
+  "scraped_at": "2026-04-21T18:10:04.130Z",
+  "scrape_quality": "minimal"
+}

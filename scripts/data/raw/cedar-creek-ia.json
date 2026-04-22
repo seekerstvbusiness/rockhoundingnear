@@ -1,0 +1,57 @@
+{
+  "slug": "cedar-creek-ia",
+  "name": "Cedar Creek",
+  "lat": 41.167801,
+  "lng": -92.459915,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Mahaska County",
+  "city_slug": "mahaska-county",
+  "county": "Mahaska",
+  "county_slug": "mahaska",
+  "geocoded_city": "Mahaska County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cedar%20Creek%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cedar%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cedar%20Creek%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:58:52.344Z"
+  },
+  "scraped_at": "2026-04-21T17:58:52.344Z",
+  "scrape_quality": "minimal"
+}

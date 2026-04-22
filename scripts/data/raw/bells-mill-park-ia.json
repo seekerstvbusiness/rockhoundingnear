@@ -1,0 +1,60 @@
+{
+  "slug": "bells-mill-park-ia",
+  "name": "Bells Mill Park",
+  "lat": 42.340564,
+  "lng": -93.891692,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Webster Township",
+  "city_slug": "webster-township",
+  "county": "Hamilton",
+  "county_slug": "hamilton",
+  "geocoded_city": "Webster Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bells%20Mill%20Park%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bells%20Mill%20Park",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bells%20Mill%20Park%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 940,
+      "meters": 287
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:52:36.298Z"
+  },
+  "scraped_at": "2026-04-21T17:52:36.299Z",
+  "scrape_quality": "minimal"
+}

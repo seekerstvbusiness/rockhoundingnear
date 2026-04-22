@@ -1,0 +1,60 @@
+{
+  "slug": "mathis-tx",
+  "name": "Mathis",
+  "lat": 28.03829,
+  "lng": -97.859793,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "San Patricio County",
+  "city_slug": "san-patricio-county",
+  "county": "San Patricio",
+  "county_slug": "san-patricio",
+  "geocoded_city": "La Fruta",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mathis%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mathis",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mathis%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 28,
+      "meters": 9
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:49:22.821Z"
+  },
+  "scraped_at": "2026-04-21T18:49:22.821Z",
+  "scrape_quality": "minimal"
+}

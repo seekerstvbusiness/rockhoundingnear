@@ -1,0 +1,80 @@
+{
+  "slug": "elmer-mo",
+  "name": "Elmer",
+  "lat": 39.966424,
+  "lng": -92.656543,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Macon County",
+  "city_slug": "macon-county",
+  "county": "Macon",
+  "county_slug": "macon",
+  "geocoded_city": "Macon County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Elmer%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Elmer",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Elmer%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 714,
+      "meters": 218
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "La Plata",
+      "distance_mi": 10,
+      "population": 1445
+    },
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Walnut Creek",
+        "type": "river",
+        "dist": 2.8
+      },
+      {
+        "name": "Turkey Creek",
+        "type": "river",
+        "dist": 4.3
+      },
+      {
+        "name": "Turkey Creek",
+        "type": "river",
+        "dist": 4.3
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:59:53.836Z"
+  },
+  "scraped_at": "2026-04-21T18:59:53.837Z",
+  "scrape_quality": "minimal"
+}

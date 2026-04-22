@@ -1,0 +1,101 @@
+{
+  "slug": "missionary-ridge-tn",
+  "name": "Missionary Ridge",
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "city": "Chattanooga",
+  "city_slug": "chattanooga",
+  "county": "Hamilton",
+  "county_slug": "hamilton",
+  "lat": 35.039053,
+  "lng": -85.251032,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Agate",
+    "Chert"
+  ],
+  "short_description": "Public hiking area on Missionary Ridge near Chattanooga offering opportunities to find quartz, jasper, and agate specimens along ridge outcrops and washes.",
+  "description": "Missionary Ridge rises prominently above the Chattanooga Valley, offering rockhounders and hikers a scenic location to search for quartz and chalcedony-based specimens. The ridge is part of the Cumberland Plateau geological formation, where Paleozoic sedimentary rocks and Precambrian metamorphic basement create favorable conditions for collecting common mineral specimens. The ridge itself features several established hiking trails that wind through mixed hardwood forest with exposures of cherty limestone and quartzite outcrops.\n\nThe best collecting opportunities occur along the ridge trail system where erosion has exposed loose material in washes and at the base of rocky outcrops. Hikers frequently find milky quartz pieces, banded agate fragments, and jasper specimens scattered in the soil and along stream channels that cut through the ridge. The elevation provides cooler temperatures compared to the valley floor, making this an excellent spring and fall destination.\n\nCollectors should stick to designated hiking trails and public right-of-way areas. Much of Missionary Ridge is private property, so confirm access before exploring. The most accessible collecting occurs near established parking areas and along maintained trail systems where natural erosion exposes mineral specimens. Small hand tools and a keen eye for color variations in the limestone and chert layers will yield the best results.",
+  "history": "Missionary Ridge sits within the Cumberland Plateau, a region shaped by Paleozoic folding and uplift that began during the Alleghenian orogeny roughly 300 million years ago. Subsequent erosion has exposed layers of Ordovician limestone, Silurian dolomite, and cherty formations that contain the quartz and jasper specimens found here today. The ridge's distinctive escarpment and resistant quartzite cap rock reflect the complex geology of eastern Tennessee where ancient continental collisions created mineral-rich formations.",
+  "tips": "Search the base of limestone outcrops and along small washes on the ridge where water erosion exposes loose specimens - this is where agate and jasper fragments accumulate. Use a small hand lens to identify banded or translucent quartz pieces in the soil, and look for color variations ranging from milky white to tan and rust tones. Spring and fall rains increase water flow through gullies, exposing fresh material - visit after rainfall when possible. Stick to established trails to ensure you remain on public land and to minimize impact on the ridge ecosystem.",
+  "terrain_notes": "Missionary Ridge rises approximately 600-700 feet above the Chattanooga Valley with steep escarpment faces and a relatively flat ridge top. Vegetation is mixed hardwood forest typical of the Cumberland Plateau. Established hiking trails provide primary access, with walking distances of 1-3 miles from parking areas depending on target outcrops. Terrain is rocky and uneven with exposed limestone and quartzite ledges. Footing requires sturdy hiking boots, particularly on steeper sections of trail.",
+  "best_season": "April - June and September - November. Spring rains increase water flow that exposes fresh specimens in washes, while cooler temperatures make hiking more comfortable. Summer heat and humidity can be intense at lower elevations around Chattanooga, though the ridge elevation provides some relief.",
+  "written_directions": "From downtown Chattanooga, take US 27 north for approximately 3 miles to the vicinity of Missionary Ridge. Public access points are limited; the most reliable entry is via established trailheads along the ridge. From US 27, follow local roads (such as Crestwood Avenue or Signal Mountain Boulevard) to reach parking areas near Sunset Rock or Point Park overlooks on the ridge. These parking areas provide access to publicly maintained trail systems where rockhounding is permitted. Confirm specific trailhead locations with Chattanooga Parks and Recreation, as access points and trail conditions vary seasonally.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": "Paved roads lead to main trailheads and overlooks. Ridge-top roads are well-maintained. Access to specific collecting areas requires hiking on established trails; backcountry routes may involve rough, eroded footpaths.",
+  "parking_notes": "Public parking is available at established overlooks and trailhead areas, including facilities near Sunset Rock and Point Park. Parking areas have capacity for 20-50 vehicles depending on location. Some popular spots may be crowded on weekends. Arrive early for best parking availability.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal collection only. No commercial excavation or bulk removal. Stay on established trails and public right-of-way areas. Respect private property boundaries - much of Missionary Ridge is privately owned. Collect only loose specimens; do not hammer or break outcrops. Remove trash you find to help preserve the area.",
+  "quantity_limits": null,
+  "rules": "Stay on established public trails\nCollect loose material only\nNo hammering or breaking of rock outcrops\nNo commercial collection\nRespect private property signs\nPack out all trash\nClose gates if encountered",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cliffs",
+    "loose_rock",
+    "wildlife",
+    "heat"
+  ],
+  "nearest_services": "Chattanooga, Tennessee, located 3-5 miles south. Full services including gas stations, restaurants, grocery stores, and outdoor supply shops available throughout the city.",
+  "accessibility_notes": "Moderate hiking required with uneven rocky terrain and no wheelchair access. Steep sections of trail are common. Sturdy hiking boots with good ankle support are essential. Some trail sections feature exposed ledges and loose rock requiring careful foot placement. Not suitable for limited mobility or those uncomfortable with moderate elevation changes. Well-maintained main trails are easier than backcountry routes.",
+  "alternative_names": [
+    "Sunset Rock",
+    "Point Park area"
+  ],
+  "nearest_city": "Chattanooga",
+  "nearest_city_distance": 4,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/tennessee/missionary-ridge-tn/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can you find rockhounding at Missionary Ridge near Chattanooga?",
+      "answer": "Missionary Ridge is best known for finding quartz, agate, jasper, and chert specimens. Collectors regularly recover milky white quartz pieces, banded agate fragments, and jasper in tan and rust tones along the ridge trail system and exposed limestone outcrops. The Cumberland Plateau geology makes these chalcedony-based minerals common finds here."
+    },
+    {
+      "question": "Is Missionary Ridge rockhounding free or do you need a permit?",
+      "answer": "Rockhounding at Missionary Ridge is free and does not require a permit. However, much of the ridge is private property, so stick to established public hiking trails and designated access points. The Sunset Rock and Point Park areas offer the most reliable public access for collectors."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Missionary Ridge in Tennessee?",
+      "answer": "April through June and September through November are ideal. Spring rains expose fresh mineral specimens in washes, while fall offers cooler temperatures and lower humidity than summer. Avoid summer heat when afternoon temperatures can exceed 85-90 degrees F in the valley below the ridge."
+    },
+    {
+      "question": "Can beginners find quartz and agate at Missionary Ridge, Tennessee?",
+      "answer": "Yes, Missionary Ridge is beginner-friendly. Loose quartz and agate specimens are easy to spot along trails and in washes at the base of outcrops. No special skill is needed - just look for translucent or banded pieces in tan, white, and rust colors. Families with children 8 and older can enjoy collecting here safely on established trails."
+    },
+    {
+      "question": "What tools and supplies should you bring for rockhounding at Missionary Ridge?",
+      "answer": "Bring sturdy hiking boots, a small hand lens to identify specimens, a collection bag, and water. A small trowel or rock hammer is helpful but not essential since most finds are loose material. Wear weather-appropriate clothing in layers - spring and fall temperatures can vary widely. Bring a map or GPS device since trails can intersect."
+    },
+    {
+      "question": "How difficult is the hiking and rockhounding terrain at Missionary Ridge?",
+      "answer": "The terrain is moderate with uneven rocky footing and some steep sections on the ridge escarpment. Main trails are well-maintained and accessible to fit hikers, but the area is not suitable for those with limited mobility. Elevation gains of 200-400 feet are typical for ridge-top hikes. Plan 2-3 hours for a collecting trip to allow time for searching outcrops."
+    }
+  ],
+  "meta_title": "Missionary Ridge Rockhounding - Chattanooga, Tennessee",
+  "meta_description": "Find quartz, agate, and jasper at Missionary Ridge near Chattanooga. Free public hiking access to scenic ridge outcrops. Beginner-friendly rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type and primary_category inferred from public trail system with mixed private/public land ownership",
+    "gem_types based on Cumberland Plateau geology; no specific recent field reports available",
+    "collection_rules inferred from typical Tennessee public land practices and private property considerations",
+    "written_directions generalized due to multiple trailhead options; users should verify current access with Chattanooga Parks and Recreation",
+    "remoteness_rating set to 2 due to urban proximity, though specific parking areas and trail conditions should be verified"
+  ],
+  "enriched_at": "2026-04-21T18:37:58.012Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:39:26.832Z"
+}

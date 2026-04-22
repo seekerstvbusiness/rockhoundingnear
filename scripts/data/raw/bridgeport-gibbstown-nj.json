@@ -1,0 +1,57 @@
+{
+  "slug": "bridgeport-gibbstown-nj",
+  "name": "Bridgeport & Gibbstown",
+  "lat": 39.83096,
+  "lng": -75.307174,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Greenwich Township",
+  "city_slug": "greenwich-township",
+  "county": "Gloucester",
+  "county_slug": "gloucester",
+  "geocoded_city": "Greenwich Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bridgeport%20%26%20Gibbstown%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bridgeport%20%26%20Gibbstown",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bridgeport%20%26%20Gibbstown%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:41:47.326Z"
+  },
+  "scraped_at": "2026-04-21T18:41:47.326Z",
+  "scrape_quality": "minimal"
+}

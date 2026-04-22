@@ -1,0 +1,97 @@
+{
+  "slug": "redrock-nm",
+  "name": "Redrock",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Silver City",
+  "city_slug": "silver-city",
+  "county": "Grant",
+  "county_slug": "grant",
+  "lat": 32.735655,
+  "lng": -108.652652,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public rockhounding in Grant County's high desert terrain. Search for colorful agate and jasper specimens in washes and exposed hillsides at 4400 feet elevation.",
+  "description": "Redrock is a productive rockhounding area on New Mexico BLM land near the Grant County region, offering accessible collecting opportunities for agate, jasper, and quartz specimens. The moderate-slope terrain at 4418 feet elevation provides good visibility of exposed geologic formations where these gemstones naturally occur. This area sits within the Basin and Range province where Miocene-era volcanic and hydrothermal activity deposited silica-rich minerals that crystallized into the beautiful agate nodules and chalcedony layers found here today.\n\nThe landscape features typical high desert vegetation with scattered brush and exposed rocky washes where collectors can find specimens weathered from host rock. Access is straightforward on public BLM land with no permits required for personal use collection. The moderate slope means hiking is generally manageable for most skill levels, though sturdy boots and sun protection are essential.\n\nThis location offers excellent value for rockhounders of all experience levels. The natural weathering and erosion patterns in the washes concentrate specimens, making it a reliable spot for finding quality agate and jasper pieces. The terrain allows for systematic searching without requiring technical climbing or specialized equipment.",
+  "history": "This area sits within the Basin and Range geological province where Miocene-era volcanic activity and associated hydrothermal circulation created silica-rich fluids that deposited agate and jasper in host rocks. The weathering and erosion of these formations over millions of years has exposed and concentrated collectible specimens in the washes and hillsides of the Redrock area.",
+  "tips": "Search the bottoms and sides of dry washes first, as erosion naturally concentrates heavier stone specimens. Look for banded agate with distinct color layers - reds, browns, and creams are common here. Bring a 5-gallon bucket and collection bags; the 25-pound daily limit fills faster than you might expect with quality pieces. Early morning or late afternoon light helps spot the subtle color variations that distinguish agate from plain chalcedony.",
+  "terrain_notes": "Elevation 4418 feet with moderate slopes. High desert terrain with sparse brush vegetation and exposed rocky washes. Hiking distance from parking typically 0.5 to 2 miles depending on area explored. Footing can be uneven with loose rocks common; sturdy hiking boots strongly recommended. No water sources on site.",
+  "best_season": "October - April. The high desert location experiences extreme heat May through September (often exceeding 90 degrees F), making morning collections challenging. Fall through spring offers mild temperatures ideal for extended searching. Winter is possible but higher elevation means occasional cold and wind.",
+  "written_directions": "From Silver City, drive east on US 180 approximately 12 miles toward the Gila area. Turn south on Forest Road 153 (or relevant BLM access road serving the Redrock area). Continue approximately 3-5 miles to parking areas near exposed washes and hillsides. Look for informal pullouts where others have parked. The final approach may be on rough dirt road suitable for passenger vehicles in dry conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and gravel roads, unimproved in places. Washboard surface possible. High-clearance passenger vehicles recommended; 4WD not required in dry conditions.",
+  "parking_notes": "Informal pullouts and parking areas near access points. Capacity varies; typically space for 5-15 vehicles depending on location. No developed parking facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or mechanized tools. Hand tools only (pick, shovel, classifier). Respect all marked claim boundaries and private property adjacent to BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools only (pick, hammer, shovel)\nRespect marked mining claims and private property\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Silver City, approximately 12-15 miles northwest. Full services including gas, food, water, and lodging available.",
+  "accessibility_notes": "Relatively flat to moderate terrain with uneven rocky footing. No wheelchair access to collecting areas. Hiking trails range from 0.5 to 2 miles depending on specific location. Sturdy footwear required due to loose rock and sharp stone. Not suitable for limited mobility, but beginners and families can successfully collect with proper preparation.",
+  "alternative_names": [],
+  "nearest_city": "Silver City",
+  "nearest_city_distance": 13,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/redrock-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Redrock, New Mexico?",
+      "answer": "Redrock is known for quality agate specimens with banding in reds, browns, and creams, plus chalcedony, jasper, and quartz. The agate is the primary collectible here, often found as weathered nodules in washes and on hillsides. Most pieces range from small thumb-sized samples to palm-sized specimens."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Redrock on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Redrock. It is public BLM land open to personal use collection. You must follow the 25-pound daily limit per FLPMA and collect only by hand tools. Commercial collection and motorized excavation are prohibited."
+    },
+    {
+      "question": "What is the best time of year to find agate at Redrock, Grant County?",
+      "answer": "October through April is ideal. The high desert location experiences extreme heat May through September, making daytime collecting uncomfortable. Fall and spring offer mild 60-75 degree temperatures perfect for extended searching. Winter is possible but the higher 4400-foot elevation can bring cold and occasional wind."
+    },
+    {
+      "question": "How far is Redrock rockhounding area from Silver City?",
+      "answer": "Redrock is approximately 12-15 miles east of Silver City via US 180 and Forest Road access. The drive takes about 25-30 minutes from town. Silver City offers full services including gas, food, water, and lodging before heading out to collect."
+    },
+    {
+      "question": "Is Redrock rockhounding area suitable for beginners and families?",
+      "answer": "Yes, Redrock is excellent for beginners. The terrain is moderate and accessible, requiring only hand tools and basic rockhounding knowledge. Children age 6 and up can participate with adult supervision. The washes concentrate specimens naturally, making finds likely even for first-time collectors."
+    },
+    {
+      "question": "What tools and equipment do you need to rockhound at Redrock?",
+      "answer": "Bring a hand hammer or pick, small shovel or spade, classifier, and collection bags. A 5-gallon bucket helps organize finds and monitor your 25-pound daily limit. Sun protection (hat, sunscreen, water) is essential in the high desert. Sturdy hiking boots are needed for uneven rocky terrain."
+    }
+  ],
+  "meta_title": "Redrock Rockhounding - New Mexico",
+  "meta_description": "Find agate, jasper, and quartz at Redrock on BLM land near Silver City. Free rockhounding, 25 lb daily limit, no permit required. Best October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T10:17:22.079Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:18:21.606Z"
+}

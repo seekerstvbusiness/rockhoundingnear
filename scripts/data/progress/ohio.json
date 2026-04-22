@@ -1,0 +1,123 @@
+{
+  "state_slug": "ohio",
+  "total": 18,
+  "stages": {
+    "scrape": {
+      "done": [
+        "benton-township-oh",
+        "medusa-quarry-in-sylvania-oh",
+        "conneaut-oh",
+        "sinking-spring-oh",
+        "milford-oh",
+        "columbus-oh",
+        "flint-ridge-oh",
+        "licking-muskingum-counties-oh",
+        "genoa-oh",
+        "clay-center-limestone-quarry-oh",
+        "green-island-oh",
+        "bowling-green-oh",
+        "whitehouse-oh",
+        "chillicothe-oh",
+        "sandusky-oh",
+        "lime-city-oh",
+        "maple-grove-quarry-oh",
+        "tuscarawas-river-near-zoar-oh"
+      ],
+      "failed": []
+    },
+    "enrich": {
+      "done": [
+        "columbus-oh",
+        "medusa-quarry-in-sylvania-oh",
+        "sinking-spring-oh",
+        "conneaut-oh",
+        "flint-ridge-oh",
+        "milford-oh",
+        "clay-center-limestone-quarry-oh",
+        "whitehouse-oh",
+        "licking-muskingum-counties-oh",
+        "benton-township-oh",
+        "green-island-oh",
+        "bowling-green-oh",
+        "maple-grove-quarry-oh",
+        "sandusky-oh",
+        "lime-city-oh",
+        "chillicothe-oh",
+        "genoa-oh",
+        "tuscarawas-river-near-zoar-oh"
+      ],
+      "failed": []
+    },
+    "images": {
+      "done": [
+        "conneaut-oh",
+        "benton-township-oh",
+        "sinking-spring-oh",
+        "columbus-oh",
+        "flint-ridge-oh",
+        "licking-muskingum-counties-oh",
+        "medusa-quarry-in-sylvania-oh",
+        "whitehouse-oh",
+        "clay-center-limestone-quarry-oh",
+        "genoa-oh",
+        "chillicothe-oh",
+        "maple-grove-quarry-oh",
+        "green-island-oh",
+        "sandusky-oh",
+        "tuscarawas-river-near-zoar-oh",
+        "lime-city-oh",
+        "bowling-green-oh",
+        "milford-oh"
+      ],
+      "failed": []
+    },
+    "validate": {
+      "done": [
+        "columbus-oh",
+        "sinking-spring-oh",
+        "benton-township-oh",
+        "conneaut-oh",
+        "milford-oh",
+        "flint-ridge-oh",
+        "licking-muskingum-counties-oh",
+        "medusa-quarry-in-sylvania-oh",
+        "whitehouse-oh",
+        "clay-center-limestone-quarry-oh",
+        "genoa-oh",
+        "green-island-oh",
+        "chillicothe-oh",
+        "sandusky-oh",
+        "maple-grove-quarry-oh",
+        "tuscarawas-river-near-zoar-oh",
+        "bowling-green-oh",
+        "lime-city-oh"
+      ],
+      "failed": []
+    },
+    "import": {
+      "done": [
+        "columbus-oh",
+        "sinking-spring-oh",
+        "benton-township-oh",
+        "conneaut-oh",
+        "milford-oh",
+        "flint-ridge-oh",
+        "licking-muskingum-counties-oh",
+        "medusa-quarry-in-sylvania-oh",
+        "whitehouse-oh",
+        "clay-center-limestone-quarry-oh",
+        "genoa-oh",
+        "green-island-oh",
+        "chillicothe-oh",
+        "sandusky-oh",
+        "maple-grove-quarry-oh",
+        "tuscarawas-river-near-zoar-oh",
+        "bowling-green-oh",
+        "lime-city-oh"
+      ],
+      "failed": []
+    }
+  },
+  "started_at": "2026-04-21T16:40:05.824Z",
+  "updated_at": "2026-04-22T10:13:38.185Z"
+}

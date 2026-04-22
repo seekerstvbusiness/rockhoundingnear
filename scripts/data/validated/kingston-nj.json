@@ -1,0 +1,97 @@
+{
+  "slug": "kingston-nj",
+  "name": "Kingston",
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "city": "Franklin Township",
+  "city_slug": "franklin-township",
+  "county": "Somerset",
+  "county_slug": "somerset",
+  "lat": 40.397123,
+  "lng": -74.609455,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "A small New Jersey locality offering exposure to glacial deposits and metamorphic bedrock minerals. Limited collecting opportunity in an active residential area.",
+  "description": "Kingston is a small village within Franklin Township in Somerset County, New Jersey, situated in the Piedmont physiographic province. The area exposes Precambrian metamorphic rocks - primarily gneiss and schist - that have been weathered and mixed with Pleistocene glacial deposits. This location offers collectors a window into New Jersey's crystalline bedrock geology and the mineral-bearing rocks that underlie much of the state's northern region.\n\nThe primary minerals found here include quartz, feldspar, and mica, which are typical constituents of the metamorphic rock formations dominant in this part of the state. Specimens are typically small and occur as loose fragments in soils and along old exposures. Due to the residential and developed nature of much of Franklin Township, actual rockhounding opportunity at Kingston proper is limited, and collectors should seek permission from private landowners before collecting.\n\nBest results come from examining loose material in ditches, along old fence lines, and in areas where earth disturbance has occurred. Spring and fall offer the most comfortable collecting conditions. Most specimens will be small crystals or fragments of quartz and feldspar rather than large cabinet pieces.",
+  "history": "Kingston lies within the New Jersey Piedmont, where Precambrian metamorphic rocks formed approximately 1 billion years ago during an ancient continental collision. Pleistocene glaciation repeatedly covered this region, depositing erratic boulders and mineral fragments that still weather out of the soil today. The area has minimal historical mining activity, being primarily agricultural and residential land.",
+  "tips": "Look along stream banks and eroded ditches where glacial material has been concentrated; quartz and mica fragments often accumulate in these settings. Use a small rock hammer and chisel to carefully extract specimens from exposed bedrock or old cuts. Examine loose soil and weathered material around field edges and old building foundations, where glacial deposits are most accessible. Always seek permission from private landowners before collecting, as most of Kingston is privately owned residential property.",
+  "terrain_notes": "Gently rolling terrain typical of the New Jersey Piedmont, elevation around 150-250 feet. Mostly developed with residential properties, limited public access. Walking surfaces vary from maintained yards to overgrown fence lines. Footing is generally stable but often muddy or vegetated. No long-distance hiking required if permission is obtained.",
+  "best_season": "April - June and September - November",
+  "written_directions": "From Franklin Township center, head east on High Street or Route 27. Kingston is a small village with scattered properties; GPS coordinates 40.397123, -74.609455 mark the approximate historic village center. No dedicated rockhounding area exists - this is residential property. Inquire at local properties for permission to examine exposed material or old fence lines. Limited parking along road shoulders only.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved residential roads. Route 27 is a major highway. Side roads are maintained but narrow.",
+  "parking_notes": "No official parking area. Small pullouts along residential streets only. Respect private property and park considerately.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Kingston is entirely private residential property. Written permission from landowners is required before any collecting. New Jersey state law prohibits collection on public land without permission. Respect all posted signs and property boundaries.",
+  "quantity_limits": null,
+  "rules": "Permission required from private landowners. No collecting on posted property. Respect all No Trespassing signs. New Jersey prohibits collection on public property without authorization.",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": false,
+  "kid_age_range": "12+",
+  "hazards": [
+    "wildlife",
+    "sharp_material"
+  ],
+  "nearest_services": "Franklin Township center (approximately 2-3 miles). New Brunswick with full services approximately 5 miles away.",
+  "accessibility_notes": "Mostly developed residential terrain with uneven ground and potential obstacles. No wheelchair access. Footing can be muddy or overgrown. Suitable for ambulatory adults willing to navigate private property with permission only.",
+  "alternative_names": [],
+  "nearest_city": "New Brunswick",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-jersey/kingston-nj/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "Can you rockhound for quartz and feldspar at Kingston, New Jersey?",
+      "answer": "Kingston offers limited rockhounding opportunity because it is entirely private residential property. You may find small quartz, feldspar, and mica fragments in glacial deposits, but only with explicit written permission from individual landowners. Most residents will not permit collecting on their property."
+    },
+    {
+      "question": "What minerals are found at Kingston in Somerset County?",
+      "answer": "The primary minerals found here are quartz, feldspar, and mica from metamorphic bedrock and Pleistocene glacial deposits. Specimens are typically small crystal fragments rather than large pieces. Quartz occurs in white, gray, and occasionally smoky varieties."
+    },
+    {
+      "question": "Is a permit required to rockhound at Kingston, New Jersey?",
+      "answer": "No special permit is required, but permission from private landowners is mandatory. Kingston has no public rockhounding area. Contact property owners directly and obtain written consent before collecting anything. Trespassing is illegal."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Kingston, Somerset County?",
+      "answer": "The best seasons are April through June and September through November when temperatures are moderate and soil conditions are firm. Winter can be muddy or frozen, and summer humidity and insects make field work uncomfortable."
+    },
+    {
+      "question": "Are there better rockhounding alternatives near Kingston, New Jersey?",
+      "answer": "Yes. Public rockhounding in New Jersey is very limited due to land ownership. Better options include New Jersey state rock and fossil sites with official programs, or nearby fee dig operations in neighboring states like Pennsylvania and New York that offer guaranteed access and facilities."
+    },
+    {
+      "question": "What tools do I need to collect quartz and feldspar at Kingston?",
+      "answer": "A small rock hammer, chisel, and hand lens are useful for examining and extracting specimens from soil and weathered rock. Bring a collection bag, field notebook, and GPS unit. Wear work gloves to protect hands from sharp mineral edges."
+    }
+  ],
+  "meta_title": "Kingston Rockhounding - Somerset County, New Jersey",
+  "meta_description": "Rockhound for quartz and feldspar at Kingston, NJ. Private land only - permission required. Limited Piedmont mineral collecting opportunity.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "beginner_friendly",
+    "family_friendly",
+    "dog_friendly",
+    "collection_rules",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-21T18:43:30.174Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:44:55.629Z"
+}

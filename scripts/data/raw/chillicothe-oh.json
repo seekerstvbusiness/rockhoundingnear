@@ -1,0 +1,57 @@
+{
+  "slug": "chillicothe-oh",
+  "name": "Chillicothe",
+  "lat": 39.351086,
+  "lng": -83.096715,
+  "state": "Ohio",
+  "state_slug": "ohio",
+  "state_code": "OH",
+  "city": "Ross County",
+  "city_slug": "ross-county",
+  "county": "Ross",
+  "county_slug": "ross",
+  "geocoded_city": "Lattaville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-ohio.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chillicothe%20Ohio"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chillicothe",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chillicothe%20Ohio"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:44:11.514Z"
+  },
+  "scraped_at": "2026-04-21T16:44:11.514Z",
+  "scrape_quality": "minimal"
+}

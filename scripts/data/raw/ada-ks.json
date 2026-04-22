@@ -1,0 +1,60 @@
+{
+  "slug": "ada-ks",
+  "name": "Ada",
+  "lat": 39.160048,
+  "lng": -97.899303,
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "state_code": "KS",
+  "city": "Ottawa County",
+  "city_slug": "ottawa-county",
+  "county": "Ottawa",
+  "county_slug": "ottawa",
+  "geocoded_city": "Ada",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ada%20Kansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ada",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ada%20Kansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1284,
+      "meters": 391
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:49:11.471Z"
+  },
+  "scraped_at": "2026-04-21T17:49:11.471Z",
+  "scrape_quality": "minimal"
+}

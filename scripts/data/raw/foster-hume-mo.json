@@ -1,0 +1,60 @@
+{
+  "slug": "foster-hume-mo",
+  "name": "Foster & Hume",
+  "lat": 38.156535,
+  "lng": -94.494156,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Bates County",
+  "city_slug": "bates-county",
+  "county": "Bates",
+  "county_slug": "bates",
+  "geocoded_city": "New Home",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Foster%20%26%20Hume%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Foster%20%26%20Hume",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Foster%20%26%20Hume%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 877,
+      "meters": 267
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:05:22.204Z"
+  },
+  "scraped_at": "2026-04-21T19:05:22.204Z",
+  "scrape_quality": "minimal"
+}

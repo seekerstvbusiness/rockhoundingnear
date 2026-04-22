@@ -1,0 +1,100 @@
+{
+  "slug": "point-barrow-ak",
+  "name": "Point Barrow",
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "city": "Barrow",
+  "city_slug": "barrow",
+  "county": "North Slope Borough",
+  "county_slug": "north-slope-borough",
+  "lat": 71.375652,
+  "lng": -156.485461,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate"
+  ],
+  "short_description": "Rockhound the northernmost point of Alaska on Arctic Ocean beaches where glacial deposits and coastal erosion expose quartz and chalcedony specimens. Remote Arctic collecting in pristine polar terr...",
+  "description": "Point Barrow represents the northernmost tip of Alaska and offers a truly unique rockhounding experience in the Arctic. Located on the Arctic Ocean coast within the National Petroleum Reserve-Alaska, this extreme destination combines accessible public land with rare geological finds unavailable elsewhere in the lower 48 states. The shoreline regularly yields quartz, chalcedony nodules, and banded agate specimens weathered from Quaternary glacial deposits and exposed through ongoing coastal erosion.\n\nThe geology of Point Barrow reflects thousands of years of glaciation and marine activity. During Pleistocene ice ages, massive continental glaciers advanced across this region, depositing mineral-rich sediments and erratic boulders. Post-glacial isostatic rebound and persistent Arctic Ocean wave action continuously rework these deposits, exposing fresh material along the beach. The permafrost landscape and extreme cold preserve mineral specimens in excellent condition, often with minimal weathering.\n\nCollecting here requires serious Arctic preparation and logistics. This is not a casual day trip - you must arrange transportation to Barrow by air or ship from Anchorage or Fairbanks, typically requiring 2-5 days total travel time and significant expense. Once at Point Barrow, the beaches remain accessible during the brief summer window when sea ice recedes. Specimens tend to be smaller and more heavily weathered than interior deposits, but the novelty of collecting at the Arctic's edge appeals to serious adventurers.\n\nThe National Petroleum Reserve-Alaska permits personal rockhounding on public land, though regulations prohibit commercial collection and motorized excavation. Weather is the primary constraint - sudden fog, wind, and temperature drops can occur even in summer. Cell service is extremely limited, making self-reliance essential. Bring quality field guides specific to Arctic geology and prepare for tundra terrain with poor footing.\n\nPoint Barrow rockhounding rewards patience and proper planning with specimens and experiences impossible to replicate elsewhere. The combination of remote Arctic location, glacial geology, and accessible public beaches makes this destination legendary among collectors pursuing complete state collections or Arctic specialization.",
+  "history": "Point Barrow sits at the edge of the National Petroleum Reserve-Alaska, where Pleistocene glaciers advanced southward across the Arctic Coastal Plain, depositing glacial till and outwash gravels rich in quartz and chalcedony. Ongoing coastal erosion along the Arctic Ocean continuously exposes these Quaternary deposits, creating fresh collecting opportunities where glacial erratics and sedimentary material emerge from permafrost bluffs.",
+  "tips": "Search the active beach zone at low tide, particularly near eroding bluffs where glacial deposits are actively exposed by Arctic Ocean wave action - specimens here are often naturally sorted by size and type. Focus on areas with visible gravel bands and frost-heave hummocks where minerals concentrate. Bring a quality hand lens and UV light to identify chalcedony and verify agate banding in the low Arctic sunlight. Most specimens are small to medium sized, so adjust expectations relative to interior Alaska deposits - quality trumps quantity in this extreme environment.",
+  "terrain_notes": "Point Barrow features low, rolling Arctic tundra with continuous permafrost, sparse vegetation dominated by arctic grasses and lichens, and an elevation barely above sea level. The active beach zone consists of gravel, sand, and scattered cobbles with irregular frost heave and hummocking. Coastal bluffs expose Quaternary deposits and thaw slumps revealing mineral-rich layers. Walking distances vary from beach parking to collecting areas - typically 100 yards to 1 mile depending on tide stage. Footing is uneven, often boggy or icy depending on season, requiring sturdy insulated boots. The coastline is exposed and windswept with no shelter.",
+  "best_season": "June - August. Arctic summer offers the only window when sea ice retreats, permafrost surface becomes marginally less treacherous, and outdoor work is physically possible. Even during these months, temperatures range 35-50 degrees Fahrenheit with frequent fog, wind, and cold drizzle. Winter and shoulder seasons are prohibitively dangerous for casual rockhounding.",
+  "written_directions": "Point Barrow is accessible only by air from Anchorage or Fairbanks via commercial carrier Frontier Air or charter service - approximately 2.5 hours flight time from Anchorage. Ground transportation from Barrow airport to Point Barrow village is by local taxi or rental vehicle, approximately 10 miles south on the only road in the region. From the village, access to the actual Point and collecting beaches requires coordination with local guides or charter services, as this is an active research and wildlife area. There is no standard highway or driving route - all access is arranged through Barrow's visitor services.",
+  "directions": null,
+  "difficulty": "expert",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": "No standard roads to the collecting areas. Beach access requires walking over tundra and gravel shoreline. Single gravel road connects Barrow village to Point Barrow area, passable in summer only.",
+  "parking_notes": "Informal parking near Point Barrow visitor facilities. No developed lot - vehicles park on gravel near beach access points. Capacity limited by Arctic infrastructure. Plan ahead.",
+  "cell_service": "spotty",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only on National Petroleum Reserve-Alaska public land. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection. No motorized excavation. Respect wildlife protection zones and research areas. Check with local Barrow ranger station before collecting.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo collection in restricted research zones\nRespect wildlife protection areas\nPack out all trash",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cold",
+    "remote",
+    "wildlife",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Barrow, Alaska - approximately 10 miles south. Full services including fuel, groceries, restaurants, and lodging available. This is Alaska's northernmost city with year-round population and visitor infrastructure.",
+  "accessibility_notes": "Point Barrow is not accessible to people with limited mobility. The route requires multi-leg air travel to remote Arctic location, navigation of uneven tundra and gravel beach terrain, exposure to extreme Arctic weather, and self-reliance in one of Earth's most remote inhabited places. Sturdy insulated boots, heavy clothing layers, and excellent physical conditioning are mandatory. Coastal erosion and permafrost thaw create unstable footing. Not suitable for wheelchair access or standard accessibility accommodations.",
+  "alternative_names": [
+    "Barrow Point",
+    "Icy Cape"
+  ],
+  "nearest_city": "Barrow",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/alaska/point-barrow-ak/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Point Barrow, Alaska?",
+      "answer": "Point Barrow yields quartz, chalcedony, and banded agate specimens from Quaternary glacial deposits exposed along Arctic Ocean beaches. Specimens are typically small to medium sized and heavily weathered, but the Arctic environment preserves them in excellent condition with minimal oxidation. Collectors also find glacial erratics and interesting pebbles from diverse source rocks transported by ancient ice sheets."
+    },
+    {
+      "question": "How do you get to Point Barrow for rockhounding?",
+      "answer": "Point Barrow is accessible only by scheduled air service from Anchorage or Fairbanks - typically Frontier Air with 2.5 hour flight time from Anchorage. From Barrow airport, ground transportation to Point Barrow village is by local taxi or rental vehicle, approximately 10 miles. Beach access requires coordination with local services or guides. Budget 3-5 days total for travel and expect significant expense - this is not a casual day trip destination."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Point Barrow?",
+      "answer": "No permit is required for personal rockhounding on National Petroleum Reserve-Alaska public land at Point Barrow. However, you must follow FLPMA regulations: maximum 25 lbs per day, personal use only, no commercial collection, and no motorized excavation. Check with the local Barrow ranger station before collecting to confirm access and avoid restricted research or wildlife protection zones."
+    },
+    {
+      "question": "When is the best time to rockhound at Point Barrow?",
+      "answer": "The only viable rockhounding season is June through August when Arctic sea ice retreats and permafrost surface becomes marginally passable. Even during this window, expect temperatures of 35-50 degrees Fahrenheit with frequent fog, wind, and drizzle. Winter and shoulder seasons are prohibitively dangerous. Coastal erosion is most active during summer melt and wave activity, exposing fresh glacial deposits."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding in Arctic Alaska?",
+      "answer": "Essential gear includes insulated boots rated to minus 20 degrees, heavy layered clothing, hand lens for specimen identification, UV light to detect chalcedony and agate, quality field guides for Arctic geology, and a small collection bag for 25 lb daily limit. Bring communication device (satellite messenger), first aid kit, water, and high-calorie food. The Arctic is unforgiving - underestimating gear needs can be life-threatening."
+    },
+    {
+      "question": "Is Point Barrow rockhounding suitable for beginners?",
+      "answer": "No - Point Barrow is an expert-level destination requiring serious Arctic experience, significant financial investment, and complete self-reliance in one of Earth's most remote places. Beginners should gain experience at accessible Alaska rockhounding sites like streams near Fairbanks or coastal areas near Anchorage first. Point Barrow rewards experienced collectors pursuing specialized goals like complete state collections or Arctic specialization, not novices."
+    }
+  ],
+  "meta_title": "Point Barrow Rockhounding - Arctic Alaska Quartz & Agate",
+  "meta_description": "Hunt quartz, chalcedony, and agate at Point Barrow, Alaska's northernmost tip. Expert Arctic rockhounding on remote public beaches with glacial deposits.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "collection_rules",
+    "nearest_services"
+  ],
+  "enriched_at": "2026-04-21T18:30:23.462Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:33:06.509Z"
+}

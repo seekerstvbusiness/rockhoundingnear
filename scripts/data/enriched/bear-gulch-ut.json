@@ -1,0 +1,97 @@
+{
+  "slug": "bear-gulch-ut",
+  "name": "Bear Gulch",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Salt Lake City",
+  "city_slug": "salt-lake-city",
+  "county": "Salt Lake",
+  "county_slug": "salt-lake",
+  "lat": 40.477935,
+  "lng": -112.157281,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper"
+  ],
+  "short_description": "BLM rockhounding near Salt Lake City featuring quartz, chalcedony, and agate specimens in scenic canyon terrain. Free collecting with no permits required.",
+  "description": "Bear Gulch is a accessible BLM rockhounding site located in the Wasatch Range foothills east of Salt Lake City. The area offers excellent opportunities for collectors seeking quartz varieties, chalcedony, agate, and jasper specimens in natural washes and exposed hillside outcrops. This site is popular with both beginners and experienced rockhounders due to its proximity to the city, open access, and reliable mineral deposits.\n\nThe geology of Bear Gulch reflects the region's complex mineralization history. The Wasatch Range formed through Laramide orogeny and subsequent Basin and Range extension, creating fracture zones that hosted silica-rich hydrothermal fluids. These fluids deposited the chalcedony, quartz, and agate found here today. The gulch itself provides natural erosion that exposes fresh material in wash beds and streamside exposures.\n\nRockhounders at Bear Gulch typically search canyon washes where seasonal water flow has exposed mineral-bearing material, and along hillside slopes where weathering has loosened specimens. The site is well-suited for families and beginners because access is straightforward, the terrain is moderately challenging but not dangerous, and success rates are reliable year-round. Experienced collectors often explore the upper reaches of the gulch where fewer people venture.\n\nThe area sees moderate seasonal use from local rockhounders and casual hikers. Being on public BLM land, it remains open to free recreational collecting within legal limits. The combination of reliable finds, easy access, and scenic Wasatch Range views makes this a popular destination for Salt Lake City area collectors.",
+  "history": "Bear Gulch sits within the Wasatch Range, which formed during the Laramide orogeny (80-55 million years ago) when basement rocks were thrust eastward. Subsequent Basin and Range extension created fractures that hosted silica-rich hydrothermal fluids, precipitating the quartz, chalcedony, and agate deposits found here. This area has been recognized locally as a productive rockhounding site for decades, with generations of Salt Lake City collectors familiar with its reliable yields.",
+  "tips": "Search active and recent washes where water flow has exposed fresh material - look for translucent to chalky white quartz pebbles and banded agate chips. Bring a geologist's hammer and chisel to carefully extract specimens from hillside outcrops; many of the best pieces are found partially embedded in rhyolite and limestone. Focus on areas where water has naturally sorted lighter-colored stones into small concentrations, as these indicate zones of silica enrichment.",
+  "terrain_notes": "Bear Gulch features a mix of canyon floor washes and moderate hillside slopes with elevation ranging from approximately 5,200 to 5,800 feet. The terrain consists of exposed Wasatch Range bedrock interspersed with sagebrush, native grasses, and scattered juniper. Walking distance from parking areas ranges from immediate access to washes up to 1-2 miles for upper gulch exploration. Footing varies from sandy wash beds (relatively easy) to rocky slopes with loose scree (moderate difficulty). Seasonal water flow in the main wash; late spring and early summer flows can be swift.",
+  "best_season": "April - October. The shoulder months (April-May and September-October) offer ideal conditions with moderate temperatures, minimal snow, and reliable access. Summer can be hot at midday, though early morning collecting is excellent. Winter snow and ice may occasionally restrict access to upper reaches, though lower wash areas typically remain accessible.",
+  "written_directions": "From Salt Lake City, head east on I-80 toward Park City for approximately 15 miles. Take Exit 134 for US 40 toward Parley's Canyon. Continue on US 40 for approximately 8-10 miles. Bear Gulch access pullouts are marked on the north side of the highway in the canyon area near mile marker 27-29. Look for informal pullouts and parking areas adjacent to small canyon entrances on the right (north) side of the road. Park in designated pullouts and hike into the gulch from the road.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "hiking",
+  "road_conditions": "US 40 is a well-maintained paved highway with seasonal winter maintenance. Access to pullouts is via short rough dirt roads or direct roadside parking. No high-clearance vehicle required.",
+  "parking_notes": "Multiple informal pullouts along US 40 with space for 3-8 vehicles each. No developed parking lot. Pullouts are unsigned but visible from the highway. Arrive early on weekends as popular pullouts fill quickly.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No explosives. Pack out all waste. Stay off private land boundaries. Respect seasonal closures if posted.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nNo explosives\nPack out all waste\nRespect private land boundaries\nNo collection of archaeological artifacts",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "flash_floods",
+    "wildlife"
+  ],
+  "nearest_services": "Park City, Utah, approximately 15 miles northeast. Full services including gas, food, lodging, and supplies. Salt Lake City, approximately 20 miles southwest.",
+  "accessibility_notes": "Relatively easy terrain with straightforward hiking. Lower wash areas are accessible with minimal elevation gain. Upper gulch exploration requires hiking over uneven rocky terrain with loose scree - sturdy hiking boots recommended. No wheelchair access to productive collecting areas. Short walks possible from parking areas for those with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Salt Lake City",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/bear-gulch-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Bear Gulch near Salt Lake City?",
+      "answer": "Bear Gulch is known for quartz, chalcedony, agate, and jasper specimens. The most common finds are milky and clear quartz pebbles in the wash, along with banded agate chips and colorful jasper fragments. Specimens range from small pebbles to pieces several inches across. The best specimens are typically found partially embedded in hillside outcrops rather than loose in the wash."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Bear Gulch Utah?",
+      "answer": "No permit is required for recreational rockhounding at Bear Gulch. As public BLM land, it is open to free personal use collecting. You do not need to contact any agency before visiting. Simply follow the 25 lb per day collection limit and general BLM guidelines for public land use."
+    },
+    {
+      "question": "How far is Bear Gulch rockhounding site from Salt Lake City?",
+      "answer": "Bear Gulch is approximately 18 miles east of downtown Salt Lake City via I-80 and US 40. The drive takes roughly 30-40 minutes depending on traffic. This makes it one of the closest public rockhounding sites to the Salt Lake City area, ideal for a half-day collecting trip."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Bear Gulch?",
+      "answer": "April through October offers the best collecting conditions at Bear Gulch. Spring months (April-May) and fall months (September-October) provide ideal temperatures and reliable access. Summer is productive but can be hot at midday. Winter snow may occasionally block upper gulch areas, though lower wash zones usually remain accessible year-round."
+    },
+    {
+      "question": "Is Bear Gulch rockhounding site good for beginners and families?",
+      "answer": "Yes, Bear Gulch is excellent for beginners and families. The site features easy parking access from US 40, no permits or fees, reliable mineral finds, and straightforward hikes. Children ages 6 and up can participate in the lower wash areas. The terrain is not steep or dangerous, and success rates are consistently good, making it ideal for introducing new rockhounders to the hobby."
+    },
+    {
+      "question": "What tools and equipment should you bring to rockhound at Bear Gulch Utah?",
+      "answer": "Bring a small geologist's hammer and cold chisel for extracting specimens from outcrops, a collection bag for specimens, and sturdy hiking boots for uneven terrain. A small magnifying glass helps identify specimens in the field. Wear sun protection and bring water for the high-altitude desert environment. A GPS device or smartphone map app is helpful for navigation, though the site is easy to find from the highway."
+    }
+  ],
+  "meta_title": "Bear Gulch Rockhounding - Utah - BLM Quartz Agate",
+  "meta_description": "Free rockhounding near Salt Lake City. Find quartz, chalcedony, and agate at Bear Gulch BLM land. No permits. 25 lb daily limit. Family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "nearest_city_distance",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T06:52:07.669Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:59:38.886Z"
+}

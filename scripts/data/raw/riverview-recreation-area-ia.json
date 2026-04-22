@@ -1,0 +1,60 @@
+{
+  "slug": "riverview-recreation-area-ia",
+  "name": "Riverview Recreation Area",
+  "lat": 42.47658,
+  "lng": -92.300841,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Waterloo",
+  "city_slug": "waterloo",
+  "county": "Black Hawk",
+  "county_slug": "black-hawk",
+  "geocoded_city": "Waterloo",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Riverview%20Recreation%20Area%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Riverview%20Recreation%20Area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Riverview%20Recreation%20Area%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 846,
+      "meters": 258
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:53:55.490Z"
+  },
+  "scraped_at": "2026-04-21T17:53:55.491Z",
+  "scrape_quality": "minimal"
+}

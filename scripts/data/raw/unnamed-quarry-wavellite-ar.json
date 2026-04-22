@@ -1,0 +1,60 @@
+{
+  "slug": "unnamed-quarry-wavellite-ar",
+  "name": "Unnamed Quarry (Wavellite)",
+  "lat": 34.595441,
+  "lng": -93.653387,
+  "state": "Arkansas",
+  "state_slug": "arkansas",
+  "state_code": "AR",
+  "city": "Montgomery County",
+  "city_slug": "montgomery-county",
+  "county": "Montgomery",
+  "county_slug": "montgomery",
+  "geocoded_city": "Montgomery County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-arkansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Unnamed%20Quarry%20(Wavellite)%20Arkansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Unnamed%20Quarry%20(Wavellite)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Unnamed%20Quarry%20(Wavellite)%20Arkansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 864,
+      "meters": 263
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:10:38.517Z"
+  },
+  "scraped_at": "2026-04-21T17:10:38.517Z",
+  "scrape_quality": "minimal"
+}

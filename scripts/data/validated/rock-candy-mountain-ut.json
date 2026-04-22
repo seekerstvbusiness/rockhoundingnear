@@ -1,0 +1,99 @@
+{
+  "slug": "rock-candy-mountain-ut",
+  "name": "Rock Candy Mountain",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Piute County",
+  "city_slug": "piute-county",
+  "county": "Piute",
+  "county_slug": "piute",
+  "lat": 38.511724,
+  "lng": -112.268618,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate"
+  ],
+  "short_description": "BLM rockhounding site in central Utah featuring colorful quartz formations and agate deposits. Free public collecting with 25 lb daily limit.",
+  "description": "Rock Candy Mountain is a scenic BLM rockhounding location in Piute County, Utah, known for its distinctive quartz-rich exposures and colorful chalcedony formations. The site sits within the Great Basin physiographic province where Tertiary volcanic and hydrothermal activity created abundant silica-rich mineral deposits. Collectors can find clear and milky quartz specimens, banded agate, and chalcedony in various colors ranging from white to pale pink and brown. The rocky hillsides and wash areas provide excellent opportunities for both beginners and experienced rockhounders to locate quality specimens without a permit or fee.\n\nThe geology here reflects the Basin and Range extension that shaped central Utah. Silica-rich fluids from ancient volcanic systems percolated through fractures and cavities in the host rock, depositing quartz and agate over millions of years. This same process created the spectacular crystal formations and banded patterns visible in the exposed outcrops today. The colorful character of the quartz here makes it popular for display specimens and tumbling.\n\nExpect a moderate day trip with good visibility of mineral-bearing formations. The terrain is rocky and requires careful foot placement, but the reward is access to genuine quartz and agate without commercial collection pressure. Popular collecting zones include the washes where material has weathered free from the hillsides, and the exposed bedrock faces where you can spot banded formations. The open nature of the site makes it ideal for rockhounding families willing to do some light scrambling.",
+  "history": "Rock Candy Mountain sits within the Tertiary-age (23-66 million years ago) volcanic belt that stretches across central Utah. Rhyolitic volcanism and subsequent hydrothermal alteration deposited silica-rich fluids that crystallized into the quartz and agate formations visible today. The site has been a known local rockhounding area for decades, particularly valued by Utah collectors for its accessible quality specimens.",
+  "tips": "Search the rocky washes and creek beds first, where weathered quartz and agate specimens have naturally concentrated. Look for banded agate with distinct color layers and milky quartz showing glassy luster on fresh breaks. Bring a crack hammer or chisel to extract specimens from friable matrix, and a small pry bar to work loose material from fractured outcrops. Early morning visits offer better lighting for spotting translucent specimens and banded patterns.",
+  "terrain_notes": "Rocky foothill terrain at approximately 6,200 feet elevation with scattered juniper and pinyon pine. Uneven ground with abundant loose rock and exposed bedrock outcrops. Walking distance from parking area is typically 0.5 to 2 miles depending on chosen collecting zone. Rocky footing throughout requires sturdy boots and careful foot placement.",
+  "best_season": "April - June, September - November. Spring and fall provide comfortable temperatures (50-70 F) for hiking and collecting. Summer heat exceeds 85 F and winter snow can block access to higher sections of the site.",
+  "written_directions": "From Marysvale (nearest town with services), take US-89 south for approximately 12 miles toward the community of Piute. Watch for BLM access roads turning east or west off US-89 in the Piute Valley area. Local maps or BLM recreational use guides can direct you to specific parking pullouts. Once at the site, follow visible rocky outcrops and washes inland from the parking area. No maintained trail exists, so navigation requires basic map reading or GPS.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM access roads with mild ruts and washboard surface. Passenger vehicles can typically reach main parking areas in dry conditions. High-clearance or 4WD recommended for roads to some secondary collecting zones.",
+  "parking_notes": "Informal pullouts and turnarounds at various access points. No developed parking lot. Capacity typically 5-8 vehicles at main access points. Plan for self-reliant navigation as signage may be minimal.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or large-scale operations. Collectors must pack out all waste and leave the site in good condition.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or sale\nNo motorized excavation or heavy equipment\nPack out all waste and trash\nRemain on designated BLM lands\nRespect any posted closures or restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "sharp_material",
+    "heat"
+  ],
+  "nearest_services": "Marysvale, Utah approximately 12 miles north. Limited services available. Nearest larger town with full facilities is Salina, approximately 25 miles away.",
+  "accessibility_notes": "Uneven rocky terrain with loose material throughout. No wheelchair access or maintained trails. Sturdy hiking boots required. Significant scrambling may be needed to reach best collecting zones. Not suitable for visitors with limited mobility. Able-bodied adults and children age 8+ can typically navigate the terrain safely with proper footwear.",
+  "alternative_names": [],
+  "nearest_city": "Marysvale",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/rock-candy-mountain-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/rock-candy-mountain-ut/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/rock-candy-mountain-ut/mineral-2-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/rock-candy-mountain-ut/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Rock Candy Mountain in Utah?",
+      "answer": "Rock Candy Mountain is known for clear and milky quartz, banded agate, and chalcedony in white, pink, and brown colors. The site yields excellent display specimens and tumbling material. Most specimens range from small thumb-sized pieces to larger palm-sized rocks suitable for lapidary work."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Rock Candy Mountain, Utah?",
+      "answer": "No permit is required. Rock Candy Mountain is BLM public land where recreational rockhounding is allowed free of charge under FLPMA regulations. You can collect up to 25 lbs per day per person for personal use without any paperwork or advance arrangement."
+    },
+    {
+      "question": "When is the best time to rockhound at Rock Candy Mountain?",
+      "answer": "April through June and September through November offer ideal conditions with comfortable temperatures between 50-70 F. Avoid summer (85+ F heat) and winter (snow and cold). Spring and fall also provide better lighting for spotting translucent quartz and banded agate patterns."
+    },
+    {
+      "question": "How far is Rock Candy Mountain from Marysvale, Utah and what supplies do I need?",
+      "answer": "Rock Candy Mountain is approximately 12 miles south of Marysvale via US-89. Bring sturdy hiking boots, a crack hammer or chisel, a small pry bar, and a backpack to carry your 25-lb daily limit. Pack water, sun protection, and a basic map or GPS as cell service is spotty."
+    },
+    {
+      "question": "Is Rock Candy Mountain rockhounding site beginner-friendly and good for families?",
+      "answer": "Yes, Rock Candy Mountain is beginner-friendly and suitable for families. The open terrain and visible quartz formations make it easy for newcomers to locate specimens. Children ages 8+ can participate safely with adult supervision and proper footwear. No special rockhounding experience is needed."
+    },
+    {
+      "question": "What is the terrain and difficulty level at Rock Candy Mountain for collectors?",
+      "answer": "Rock Candy Mountain features moderate-difficulty terrain at 6,200 feet elevation with loose rock, uneven ground, and exposed bedrock. Walking from parking areas to collecting zones is typically 0.5 to 2 miles. The rocky footing requires sturdy boots and careful foot placement, but no technical skills are needed and vehicle access is reasonable for passenger cars."
+    }
+  ],
+  "meta_title": "Rock Candy Mountain Rockhounding - Utah BLM",
+  "meta_description": "Free rockhounding on Utah BLM land. Find quartz, agate, and chalcedony at Rock Candy Mountain near Marysvale. 25 lb daily limit, no permit needed.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "nearest_services",
+    "best_season"
+  ],
+  "enriched_at": "2026-04-22T06:53:00.464Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:01:25.202Z"
+}

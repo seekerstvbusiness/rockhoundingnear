@@ -1,0 +1,95 @@
+{
+  "slug": "aldrich-park-ct",
+  "name": "Aldrich Park",
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "city": "Ridgefield",
+  "city_slug": "ridgefield",
+  "county": "Western Connecticut Planning Region",
+  "county_slug": "western-connecticut-planning-region",
+  "lat": 41.300835,
+  "lng": -73.470359,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "A accessible public park in southwestern Connecticut where rockhounders can search for quartz, feldspar, and mica specimens in glacial deposits and exposed bedrock outcrops.",
+  "description": "Aldrich Park in Ridgefield offers rockhounders an easy-access opportunity to explore Connecticut's glacial geology and metamorphic mineral deposits. The flat terrain and park setting make this an ideal location for beginners and families looking to collect small mineral specimens without navigating difficult backcountry.\n\nThe area sits within the New England Upland physiographic province, where Paleozoic metamorphic rocks including schists, gneisses, and quartzites were heavily modified by Pleistocene glaciation. During the last ice age, glaciers abraded and transported these metamorphic rocks, depositing glacial till and boulders throughout Connecticut. The exposed bedrock and glacial erratics at Aldrich Park contain quartz veins, feldspar crystals, and mica sheets that collectors can extract by breaking apart weathered samples.\n\nExpect to find small to medium-sized mineral specimens rather than gem-quality stones. The flat topography means minimal elevation gain, making this suitable for visitors of varying fitness levels. The park environment provides shade from trees and access to facilities, distinguishing it from remote rockhounding sites.\n\nCollectors should focus on outcrops and large boulders where weather and freezing cycles have naturally fractured stone. Mica sheets often peel off intact, while quartz and feldspar require careful hammering to extract clean specimens.",
+  "history": "This region of Connecticut contains metamorphic bedrock formed during the Ordovician-Silurian mountain-building events when continental collision created the ancestral Appalachians. Subsequent Pleistocene glaciation 20,000 years ago scoured the landscape, exposing metamorphic bedrock and depositing glacial erratics that continue to weather and reveal mineral-rich specimens.",
+  "tips": "Target large glacial boulders and exposed bedrock outcrops where frost weathering has created natural fractures and loose material. Mica specimens are easiest to collect - look for silvery sheets that peel away from feldspathic matrix along natural cleavage. Use a cold chisel and light hammer to carefully work quartz-feldspar specimens free from weathered rock faces. Spring and early summer are ideal when winter frost action has loosened minerals in rock crevices.",
+  "terrain_notes": "Flat parkland with gentle slopes, typical of glacially modified terrain. Well-maintained paths and mowed areas with scattered trees. Walking distances are short from parking to productive rockhounding zones. Footing is generally easy, though some areas may have loose rocks or uneven ground near outcrops. Easily accessible to most hikers and families.",
+  "best_season": "April - October. Spring and early summer are ideal when frost action from winter has loosened minerals. Fall offers pleasant temperatures and lower humidity. Summer can be humid in Connecticut; avoid peak heat July-August.",
+  "written_directions": "From Ridgefield town center, head south on Main Street or Route 35. Aldrich Park is located in the Ridgefield area near the town center. Follow local park signage for access. Parking is available at the park entrance with easy vehicle access via local roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "state_park",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved roads to park entrance. Parking area is maintained and accessible.",
+  "parking_notes": "Park parking lot available with standard capacity. Easy access from passenger vehicles.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Aldrich Park is a public town park. Collection of small mineral and rock specimens is typically permitted for personal use in moderation. Do not remove large boulders or cause damage to park infrastructure. Respect posted park rules and stay on designated areas. Contact Ridgefield Parks & Recreation for specific collection policies before visiting.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nNo commercial harvesting\nStay on designated park paths\nDo not damage park facilities or large boulders\nRespect any posted restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Ridgefield town center, less than 1 mile. Gas, food, water, and supplies readily available.",
+  "accessibility_notes": "Flat terrain is accessible to most visitors including families with young children and those with limited mobility. Park facilities typically include accessible parking and paved pathways. Rockhounding areas near outcrops may have uneven ground requiring sturdy footwear, but overall this is one of Connecticut's most accessible rockhounding locations.",
+  "alternative_names": [],
+  "nearest_city": "Ridgefield",
+  "nearest_city_distance": 0.5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/connecticut/aldrich-park-ct/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/connecticut/aldrich-park-ct/mineral-1-feldspar.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals can you find rockhounding at Aldrich Park in Connecticut?",
+      "answer": "Aldrich Park is best known for quartz, feldspar, and mica specimens. These metamorphic minerals occur in glacial boulders and exposed bedrock throughout the park. Mica sheets often peel off intact, while quartz and feldspar require careful extraction with a cold chisel and hammer."
+    },
+    {
+      "question": "Is Aldrich Park a free rockhounding location with no permit required?",
+      "answer": "Yes, Aldrich Park is a free public town park in Ridgefield with no rockhounding permit required. Personal use collection is typically permitted, though you should contact Ridgefield Parks & Recreation to confirm current collection policies before your visit."
+    },
+    {
+      "question": "What is the best season for rockhounding near Ridgefield, Connecticut?",
+      "answer": "April through October is ideal for rockhounding at Aldrich Park. Spring and early summer are best because winter frost action loosens minerals in rock crevices. Summer temperatures can be humid; fall offers pleasant weather and fewer crowds."
+    },
+    {
+      "question": "Is Aldrich Park beginner-friendly for first-time rockhounders?",
+      "answer": "Absolutely. The flat terrain, easy access, and abundant specimens make Aldrich Park excellent for beginners and families with children. No special skills or equipment are required - a basic geology hammer and chisel are sufficient to extract small mineral specimens."
+    },
+    {
+      "question": "Can you bring dogs to Aldrich Park while rockhounding?",
+      "answer": "Yes, dogs are typically allowed at this public park. However, verify current pet policies with Ridgefield Parks & Recreation before visiting, as some park areas may have seasonal or area-specific restrictions."
+    },
+    {
+      "question": "How close is Aldrich Park to food and water services in Ridgefield?",
+      "answer": "Aldrich Park is less than a mile from Ridgefield town center, which has abundant gas stations, restaurants, and shops. You can easily stock up on water and supplies before or after your rockhounding visit without traveling far."
+    }
+  ],
+  "meta_title": "Aldrich Park Rockhounding - Connecticut",
+  "meta_description": "Free public rockhounding at Aldrich Park in Ridgefield, Connecticut. Find quartz, feldspar, and mica. Beginner-friendly, no permit required. Visit April-October.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "collection_rules",
+    "family_friendly",
+    "primary_category"
+  ],
+  "enriched_at": "2026-04-21T18:14:31.396Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:17:00.345Z"
+}

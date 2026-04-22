@@ -1,0 +1,60 @@
+{
+  "slug": "clearwater-herse-valley-sc",
+  "name": "Clearwater & Herse Valley",
+  "lat": 33.538364,
+  "lng": -81.823864,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "Burnettown",
+  "city_slug": "burnettown",
+  "county": "Aiken",
+  "county_slug": "aiken",
+  "geocoded_city": "Burnettown",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Clearwater%20%26%20Herse%20Valley%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Clearwater%20%26%20Herse%20Valley",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Clearwater%20%26%20Herse%20Valley%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 171,
+      "meters": 52
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:55:29.715Z"
+  },
+  "scraped_at": "2026-04-21T17:55:29.715Z",
+  "scrape_quality": "minimal"
+}

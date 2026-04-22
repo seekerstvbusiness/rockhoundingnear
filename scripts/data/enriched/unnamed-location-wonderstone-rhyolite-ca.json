@@ -1,0 +1,92 @@
+{
+  "slug": "unnamed-location-wonderstone-rhyolite-ca",
+  "name": "Unnamed Location (Wonderstone rhyolite)",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Susanville",
+  "city_slug": "susanville",
+  "county": "Lassen",
+  "county_slug": "lassen",
+  "lat": 41.039936,
+  "lng": -120.78058,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Find colorful wonderstone rhyolite specimens on BLM land in the Lassen Volcanic region. Personal-use rockhounding on gentle slopes at nearly 6000 feet elevation.",
+  "description": "This remote BLM location in northeastern California offers excellent opportunities to collect wonderstone rhyolite, a banded and streaked volcanic rock prized by rockhounders for its striking patterns and color variations. The site sits within the southern Cascade volcanic field, characterized by gently sloping terrain at nearly 5900 feet elevation. Wonderstone specimens here typically display combinations of red, brown, gray, and white bands formed during ancient rhyolitic lava flows and subsequent weathering. The area is relatively undisturbed, making it ideal for finding specimens in various sizes, from small hand samples to larger decorative pieces.\n\nThe geological setting is dominated by Miocene-era volcanic activity that blanketed this region with silica-rich rhyolitic material. As these flows cooled and fractured, groundwater percolation created the distinctive banding and color patterns found in wonderstone. The gently sloping terrain makes collecting easier than steeper volcanic zones, though visitors should be prepared for high elevation and variable weather. This is a true backcountry collecting site with minimal development, offering solitude and genuine rockhounding experience.\n\nBring plenty of water, as this location is remote and offers no facilities. The best specimens are typically found on exposed hillsides and in shallow washes where erosion has naturally exposed fresh material. Collectors should expect to spend several hours exploring the area to build a quality collection. This location is best suited for rockhounders with some experience and solid fitness, as access requires driving remote roads and hiking across open terrain.",
+  "history": "This area sits within the southern Cascade volcanic province, where Miocene-era rhyolitic volcanism (roughly 15-20 million years ago) deposited thick layers of silica-rich lava flows that cooled to form the wonderstone rhyolite found here today. Subsequent episodes of erosion and weathering created the characteristic banding and color patterns that make wonderstone so collectible.",
+  "tips": "Search actively on exposed hillsides and in shallow eroded washes where natural erosion exposes fresh specimens - look for the distinctive red, brown, and white banding patterns. Bring a 5-10 pound hammer and chisel to carefully extract specimens from outcrop material without damaging them. Focus on areas with visible rhyolitic outcrop rather than loose material on flat ground; the best pieces are typically still partially embedded in weathered matrix. Plan to collect in the early morning before afternoon thunderstorms become likely, especially in summer months.",
+  "terrain_notes": "Elevation 5897 feet in the volcanic plateau region. Gently sloping volcanic terrain with sparse sagebrush, scattered volcanic rocks, and exposed rhyolitic outcrop. Walking distances from parking area to productive collecting ground typically range from 0.5 to 2 miles across open slopes. Footing is generally stable with volcanic cinder and loose rock requiring sturdy boots. No water sources at site.",
+  "best_season": "June - September",
+  "written_directions": "From Susanville, take CA 44 east toward the Modoc Plateau for approximately 30 miles. Turn north on Forest Service Road (exact route depends on current BLM access status) toward the Wonderstone locality. Expect dirt/gravel roads with possible washboard conditions. GPS coordinates: 41.039936, -120.78058. Final approach may require high-clearance vehicle; check current BLM road status before departure.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Dirt and gravel roads in varying condition. High-clearance vehicle recommended. Road maintenance depends on seasonal use and weather. Washboard and ruts possible. Confirm current road access status with Susanville BLM office before traveling.",
+  "parking_notes": "Informal parking at trailhead/road terminus. No developed parking area. Space for 2-4 vehicles in pullout areas near collecting zone.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Pack out all waste.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo overnight camping without permit\nPack out all waste",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cold",
+    "remote",
+    "wildlife",
+    "loose_rock"
+  ],
+  "nearest_services": "Susanville, approximately 30 miles west. Full services including gas, food, and lodging available there.",
+  "accessibility_notes": "Moderate difficulty terrain. Uneven volcanic slopes with loose cinder and rocks requiring sturdy boots and good footing. No wheelchair access. Elevation of nearly 6000 feet may affect those with altitude sensitivity. Hiking distances of 0.5-2 miles across open terrain required to reach productive collecting areas. Not suitable for limited mobility. Exposure to sun and wind on open slopes.",
+  "alternative_names": [],
+  "nearest_city": "Susanville",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/unnamed-location-wonderstone-rhyolite-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What is wonderstone rhyolite and where can I find it near Lassen County?",
+      "answer": "Wonderstone rhyolite is a banded volcanic rock featuring distinctive red, brown, gray, and white patterns created by ancient lava flows and weathering. This BLM location in the Lassen volcanic region is excellent for collecting quality specimens on gently sloping terrain. The best specimens are found on exposed hillsides and in shallow washes where natural erosion has exposed fresh material."
+    },
+    {
+      "question": "Do I need a permit to rockhound wonderstone rhyolite on California BLM land?",
+      "answer": "No permit is required for recreational collecting on BLM land in California. You can collect for personal use only under FLPMA guidelines with a 25-pound daily limit. The Susanville BLM office can provide updated access information and current road conditions for this remote location."
+    },
+    {
+      "question": "How long does it take to collect a good wonderstone specimen collection at this location?",
+      "answer": "Most rockhounders spend 4-6 hours at this site to build a quality collection within the 25-pound daily limit. Allow time for hiking to productive areas (0.5-2 miles), actively searching exposed outcrop and washes, and carefully extracting specimens. The remote location and scattered distribution of specimens means you'll hike between productive zones."
+    },
+    {
+      "question": "What tools and supplies do I need to collect wonderstone rhyolite here?",
+      "answer": "Bring a 5-10 pound hammer, chisel, gad, and heavy gloves for safe extraction. Pack 2-3 gallons of water per person (no water at site), a GPS device or phone with offline maps, sturdy hiking boots, and sun protection. At 5897 feet elevation with remote access, bring a first aid kit and let someone know your travel plans."
+    },
+    {
+      "question": "What is the best time of year to rockhound this wonderstone location in Lassen County?",
+      "answer": "June through September is optimal, when high elevation roads are passable and weather is most predictable. Snow and ice close this area in winter. Even in summer, afternoon thunderstorms are common above 5800 feet, so plan morning collecting sessions and descend by mid-afternoon."
+    },
+    {
+      "question": "Is this wonderstone site suitable for beginner rockhounders or families?",
+      "answer": "This is a moderate-to-advanced location better suited for experienced rockhounders. The remote access, high elevation, lack of facilities, and moderate hiking required make it challenging for families with young children. Beginners should have backcountry experience and solid physical fitness. Minimum recommended age is 12 for capable hikers accompanied by adults."
+    }
+  ],
+  "meta_title": "Wonderstone Rhyolite Rockhounding - California",
+  "meta_description": "Collect colorful wonderstone rhyolite on BLM land near Lassen County, CA. Personal-use rockhounding, 25-pound daily limit, no permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (exact Forest Service road designation uncertain without current BLM map), road_conditions (specific washboard/rut severity depends on seasonal maintenance), parking_notes (informal site, exact vehicle capacity estimated), cell_service (estimated as none based on remote BLM location in Lassen volcanic region)"
+  ],
+  "enriched_at": "2026-04-21T19:31:39.500Z",
+  "scrape_quality": "rich",
+  "images_processed_at": "2026-04-21T19:34:26.293Z"
+}

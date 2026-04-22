@@ -1,0 +1,60 @@
+{
+  "slug": "prairie-dog-town-fork-of-red-river-tx",
+  "name": "Prairie Dog Town Fork of Red River",
+  "lat": 34.833519,
+  "lng": -101.41405,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Armstrong County",
+  "city_slug": "armstrong-county",
+  "county": "Armstrong",
+  "county_slug": "armstrong",
+  "geocoded_city": "Armstrong County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Prairie%20Dog%20Town%20Fork%20of%20Red%20River%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Prairie%20Dog%20Town%20Fork%20of%20Red%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Prairie%20Dog%20Town%20Fork%20of%20Red%20River%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2470,
+      "meters": 753
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:35:16.618Z"
+  },
+  "scraped_at": "2026-04-21T18:35:16.618Z",
+  "scrape_quality": "minimal"
+}

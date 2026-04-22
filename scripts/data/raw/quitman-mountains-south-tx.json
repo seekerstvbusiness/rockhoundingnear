@@ -1,0 +1,64 @@
+{
+  "slug": "quitman-mountains-south-tx",
+  "name": "Quitman Mountains (South)",
+  "lat": 31.100546,
+  "lng": -105.508033,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Hudspeth County",
+  "city_slug": "hudspeth-county",
+  "county": "Hudspeth",
+  "county_slug": "hudspeth",
+  "geocoded_city": "Hudspeth County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Quitman%20Mountains%20(South)%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Quitman%20Mountains%20(South)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Quitman%20Mountains%20(South)%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4534,
+      "meters": 1382
+    },
+    "slope": "gentle slope",
+    "nearest_city": {
+      "name": "Fabens",
+      "distance_mi": 47,
+      "population": 7498
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:38:03.401Z"
+  },
+  "scraped_at": "2026-04-21T18:38:03.401Z",
+  "scrape_quality": "minimal"
+}

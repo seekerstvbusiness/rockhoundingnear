@@ -1,0 +1,100 @@
+{
+  "slug": "central-ut",
+  "name": "Central",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Washington County",
+  "city_slug": "washington-county",
+  "county": "Washington",
+  "county_slug": "washington",
+  "lat": 37.41116,
+  "lng": -113.601188,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Washington County offering accessible agate and jasper collecting. No permits required for personal use rockhounding.",
+  "description": "Central sits on productive Bureau of Land Management property in southwestern Utah, within the Virgin River drainage basin. This region is rich with silica-rich mineral deposits formed by ancient volcanic activity and hydrothermal alteration. The landscape features typical Basin and Range topography with desert washes and exposed geological formations that make for excellent agate and jasper hunting.\n\nThe geology here reflects Miocene-era volcanism and subsequent weathering that concentrated cryptocrystalline silica minerals in nodular and banded forms. Agates and chalcedony specimens are commonly found weathering out of hillsides and wash bottoms, often displaying pleasant earth tones of browns, reds, and grays. The accessible terrain combined with the productive mineral potential makes this a solid location for both novice and experienced rockhounds.\n\nCollecting is straightforward and requires no permits for recreational personal use. The BLM land is open to the public with minimal restrictions, allowing you to explore washes, scan exposed hillsides, and turn over rocks in search of specimens. Most productive areas are within easy walking distance of vehicle access points, making this suitable for families and those with limited mobility.\n\nThe high desert climate means collecting is most comfortable during cooler months. Bring plenty of water even in mild seasons, as the terrain offers little shade and distances between water sources can be substantial. Local washes occasionally yield polished specimens after spring runoff, so timing your visit after winter weather can be rewarding.",
+  "history": "This region lies within the Basin and Range geologic province, where Miocene volcanic activity (approximately 20-15 million years ago) deposited silica-rich volcanic rocks and created the hydrothermal conditions necessary for agate and chalcedony formation. Weathering and erosion over millions of years has concentrated these cryptocrystalline minerals into collectable nodules and specimens found in modern wash systems.",
+  "tips": "Search the bottoms and banks of dry washes where agates weathering from hillsides naturally accumulate. Look for the characteristic waxy luster and translucent edges typical of quality agate specimens. Bring a small pick and chisel to test hillside exposures, but remember to stay within the 25-pound daily limit. Early morning light helps spot the subtle color contrasts that distinguish agates from surrounding rocks.",
+  "terrain_notes": "Elevation approximately 2,800-3,200 feet. Gently rolling to moderate slopes with sparse desert shrub vegetation including creosote and yucca. Walking distances from parking vary from immediate roadside collecting to 1-2 miles into productive wash systems. Footing is uneven with scattered rocks and compacted soil; sturdy boots recommended.",
+  "best_season": "October - April",
+  "written_directions": "From St. George, take I-15 north approximately 25 miles to the Washington County area. Exit toward Hurricane or Rockville and head east. Access points to BLM land vary; look for dispersed camping and rockhounding pullouts along backroads east of the Virgin River corridor. Specific access roads include local county routes branching from UT-9 or UT-59. GPS coordinates point to an area accessible by passenger vehicle on maintained dirt roads, though high-clearance vehicles are preferable after rain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt roads to main collecting areas; some rougher roads may require high-clearance vehicles. Generally passable year-round but check conditions after winter storms.",
+  "parking_notes": "Dispersed parking at pullouts and informal camping areas along access roads. No developed parking facilities. Multiple pull-offs available for different collecting zones.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or equipment operation. Collect only loose material and surface specimens; do not damage formations or use power tools.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\n25 pound daily limit per person\nNo commercial collection allowed\nNo motorized excavation\nNo power tools or heavy equipment\nCollect loose and weathered material\nDo not damage rock formations\nLeave gates as found\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "snakes"
+  ],
+  "nearest_services": "St. George, Utah approximately 25-30 miles west. Full services including gas, restaurants, groceries, and lodging available.",
+  "accessibility_notes": "Relatively easy terrain with gentle to moderate slopes. Parking areas situated close to productive collecting zones minimize walking distance. Desert footing is uneven with scattered rocks but no major obstacles. Most sites accessible to those with moderate mobility; some remote washes require more strenuous hiking.",
+  "alternative_names": [],
+  "nearest_city": "St. George",
+  "nearest_city_distance": 28,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/central-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/central-ut/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can you find at Central, Utah rockhounding sites?",
+      "answer": "Central BLM land is known for banded and nodular agates, red and brown jasper, and chalcedony specimens. Many pieces display pleasant earth tones and waxy luster. Specimens range from small pebbles to fist-sized pieces, with occasional larger nodules found in productive washes."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Central on BLM land in Washington County?",
+      "answer": "No permit is required for recreational rockhounding at Central. BLM regulations allow personal use collecting under FLPMA guidelines. You need only follow the 25-pound daily limit and avoid commercial collection."
+    },
+    {
+      "question": "What is the best time of year to rockhound for agates near Washington County, Utah?",
+      "answer": "October through April offers the most comfortable collecting conditions at Central. Cooler temperatures reduce heat exposure, and winter runoff can expose fresh material in washes. Summer temperatures exceed 95 degrees Fahrenheit with minimal shade, making collecting uncomfortable and dangerous."
+    },
+    {
+      "question": "Is Central, Utah rockhounding site beginner friendly and suitable for families with kids?",
+      "answer": "Yes, Central is excellent for beginners and families. The terrain is accessible with easy parking near productive areas, no permits are required, and the modest 25-pound daily limit makes expectations clear. Children ages 6 and up can participate safely with adult supervision."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding agates at Central BLM land?",
+      "answer": "Bring a sturdy pair of boots for uneven terrain, a small pick and chisel for testing hillside exposures, a classifier or magnifying glass to evaluate specimens, and substantial water (at least 3-4 liters). A backpack, knee pads, and sun protection are highly recommended."
+    },
+    {
+      "question": "How far is Central rockhounding from St. George, and what are the road conditions?",
+      "answer": "Central is approximately 25-30 miles east of St. George and accessible via improved dirt roads suitable for passenger vehicles. High-clearance vehicles are preferable after rain. GPS access points are well-positioned near active collecting areas with reasonable driving distances."
+    }
+  ],
+  "meta_title": "Central Rockhounding - Utah Agate & Jasper",
+  "meta_description": "Hunt for agate and jasper at Central, Utah on public BLM land. No permit needed. 25 lb daily limit. Best October - April. Family friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from regional geography and typical BLM access patterns; specific county road names not provided",
+    "nearest_city_distance - estimated at 28 miles from St. George based on coordinates",
+    "parking_notes - typical dispersed BLM camping patterns applied",
+    "cell_service - spotty estimate based on rural Washington County location",
+    "remoteness_rating - inferred from proximity to St. George and access by improved roads"
+  ],
+  "enriched_at": "2026-04-22T06:54:12.492Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:04:07.177Z"
+}

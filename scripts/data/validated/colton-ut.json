@@ -1,0 +1,99 @@
+{
+  "slug": "colton-ut",
+  "name": "Colton",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Carbon County",
+  "city_slug": "carbon-county",
+  "county": "Carbon",
+  "county_slug": "carbon",
+  "lat": 39.704108,
+  "lng": -110.909214,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding site in Carbon County featuring agate, jasper, and chalcedony deposits. Free to collect with no permits required on this scenic Utah public land.",
+  "description": "Colton is a public BLM rockhounding area in Carbon County, Utah, located in the Price-Helper mining district. This site sits within the Uinta Basin geological province, where millions of years of sedimentary deposition and weathering have exposed colorful agate and jasper deposits across the surrounding benches and washes. The area is accessible to recreational rockhounders at no cost and without permits, making it an excellent destination for both beginners and experienced collectors.\n\nThe terrain around Colton features typical Basin and Range characteristics with scattered exposures of silica-rich materials eroding from Tertiary and Quaternary deposits. You will find nodular agates, banded jasper, and chalcedony in various earth tones including reds, oranges, yellows, browns, and whites. The surrounding landscape is semi-arid with scattered sagebrush and pinyon-juniper woodland typical of central Utah's high desert.\n\nRockhounders should focus their efforts in the washes, dry creek beds, and eroded hillsides where weathering naturally exposes and concentrates mineral deposits. The 25-pound daily limit per person means you can take home a meaningful collection without commercial pressure. This location works well for family outings and is less crowded than some popular fee-dig sites in the region.\n\nThe nearest services and town amenities are available in Helper and Price, which are within reasonable driving distance. Plan your visit for cooler months to avoid the intense desert heat, and bring plenty of water regardless of season. The open public land status makes this a reliable choice for free rockhounding in Utah.",
+  "history": "The Colton area lies within the Uinta Basin, a major sedimentary basin filled with deposits from the Laramide Orogeny and subsequent Basin and Range extension during the Tertiary period. Silica-rich fluids migrated through sedimentary rocks, forming agate and chalcedony nodules that were later exposed by erosion of the surrounding softer host rocks. The region has a long history of mineral prospecting dating back to early 20th-century coal and uranium exploration in Carbon County.",
+  "tips": "Search along dry wash bottoms and gullies where erosion naturally concentrates heavier agate and jasper material. Look for partial nodules weathering out of hillside exposures on south and west-facing slopes. Use a rock hammer or chisel to carefully extract specimens from clay banks, and sort your finds frequently to stay within the 25-pound daily limit. Bring a hand lens to identify the subtle banding and color patterns that distinguish quality agate from common quartz.",
+  "terrain_notes": "Elevation around 6,200 feet with rolling benches and intermittent washes typical of the high desert. Semi-arid landscape with scattered sagebrush, small juniper, and pinyon pine. Walking distances from parking areas typically 0.5 to 2 miles over uneven, rocky terrain with moderate slope. Well-worn trails connect productive areas. Footing is generally stable but watch for loose cobbles and sharp-edged rocks underfoot.",
+  "best_season": "April - June, September - October. Temperatures are mild and daytime highs comfortable for extended field work. Summer heat (July - August) can exceed 90 degrees F in the high desert. Winter months (November - March) occasionally bring snow at this elevation, making access challenging.",
+  "written_directions": "From Helper, Utah, take US Highway 6 east toward Price for approximately 8 miles. Continue on US 6 east past Helper for another 5-7 miles. Watch for BLM public land access markers on the north and south sides of the highway. Turn onto established dirt roads and parking pullouts marked for rockhounding access. Local knowledge and online BLM maps are recommended to identify specific productive areas. The main collecting zones are within 1-2 miles of Highway 6 on easily accessible bench terrain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Well-maintained highway access via US 6. Secondary dirt roads to parking areas are generally suitable for passenger vehicles in dry conditions. No high-clearance vehicle required for main access areas. Avoid after heavy rain when dirt roads may become muddy.",
+  "parking_notes": "Multiple informal pullouts and parking areas along secondary roads near Highway 6. No developed parking lot; use designated BLM pullouts and established parking areas. Capacity varies by location, typically accommodating 3-5 vehicles per site. Arrive early on weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Do not remove fossils, archaeological artifacts, or protected species. Respect private property and adjacent land boundaries. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo fossils or archaeological artifacts\nPack out all trash\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Helper, Utah (approximately 8-10 miles west) has gas stations, restaurants, and basic supplies. Price, Utah (15 miles southeast) offers more comprehensive services including groceries and accommodations.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most rockhounders. Uneven rocky terrain with scattered loose cobbles requires sturdy footwear. No wheelchair accessibility to collecting areas. Walking distances of 0.5 to 2 miles over stable but uneven ground. Generally suitable for families with children and moderate fitness levels.",
+  "alternative_names": [],
+  "nearest_city": "Helper",
+  "nearest_city_distance": 9,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/colton-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/colton-ut/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of rocks and gems can you find rockhounding at Colton, Utah?",
+      "answer": "Colton BLM land is known for agate, jasper, chalcedony, and quartz in various colors including reds, oranges, yellows, browns, and whites. Most specimens are found as weathered nodules and fragments in washes and hillside exposures. The semi-arid climate naturally exposes these silica-rich materials year-round."
+    },
+    {
+      "question": "Is rockhounding free at Colton, Utah, and do you need a permit?",
+      "answer": "Yes, rockhounding at Colton is completely free. No permit is required for recreational personal-use collecting on BLM land. You can collect up to 25 lbs per person per day under FLPMA guidelines. This makes it one of the most accessible and affordable rockhounding locations in Utah."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Colton?",
+      "answer": "The best seasons are April through June and September through October when temperatures are mild and comfortable for daytime field work. Summer temperatures often exceed 90 degrees F in this high desert area, while winter can bring occasional snow. Spring and fall provide ideal conditions for extended collecting."
+    },
+    {
+      "question": "How difficult is it to rockhound at Colton for beginners?",
+      "answer": "Colton is very beginner-friendly. The terrain is relatively flat with easy walking distances from parking areas, no permits or fees required, and agates and jasper are relatively straightforward to identify and collect. Kids as young as 6 can participate in supervised rockhounding here, making it excellent for families new to the hobby."
+    },
+    {
+      "question": "What tools and supplies should you bring rockhounding at Colton, Utah?",
+      "answer": "Bring a rock hammer or chisel for specimen extraction, a hand lens for identifying color patterns and banding, sturdy hiking boots for rocky terrain, and a backpack with plenty of water. A bucket or collection bag helps organize finds. Sunscreen and a hat are essential for the exposed high desert landscape. Don't forget to bring a scale to track the 25-lb daily limit."
+    },
+    {
+      "question": "How far is Colton rockhounding site from Price or Helper, Utah?",
+      "answer": "Colton is approximately 8-10 miles east of Helper and 15 miles southeast of Price, Utah. Access is via US Highway 6, making it a convenient day trip from either town. Both communities have gas stations, restaurants, and lodging options. The drive from Helper takes only 15-20 minutes, making it easy to combine rockhounding with other activities in the area."
+    }
+  ],
+  "meta_title": "Colton Rockhounding - Free Agate & Jasper in Utah",
+  "meta_description": "Free BLM rockhounding at Colton, Utah. Collect agate, jasper, and chalcedony with no permit required. Family-friendly, easy access near Helper.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T06:53:49.821Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:03:05.163Z"
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "rome-ga",
+  "name": "Rome",
+  "lat": 34.267749,
+  "lng": -85.256722,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Floyd County",
+  "city_slug": "floyd-county",
+  "county": "Floyd",
+  "county_slug": "floyd",
+  "geocoded_city": "Floyd County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Rome%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Rome",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Rome%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 709,
+      "meters": 216
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "Turner McCall Boulevard",
+        "ref": "US 27;GA 1;GA 20",
+        "type": "primary",
+        "dist": 5.2
+      },
+      {
+        "name": "Turner McCall Boulevard",
+        "ref": "US 27;GA 1;GA 20;GA 53",
+        "type": "primary",
+        "dist": 5.4
+      },
+      {
+        "name": "Alabama Avenue",
+        "ref": "GA 114",
+        "type": "secondary",
+        "dist": 12.7
+      },
+      {
+        "name": "Martha Berry Highway",
+        "ref": "US 27;GA 1",
+        "type": "trunk",
+        "dist": 13.7
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:00:14.144Z"
+  },
+  "scraped_at": "2026-04-21T19:00:14.144Z",
+  "scrape_quality": "minimal"
+}

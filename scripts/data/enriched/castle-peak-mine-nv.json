@@ -1,0 +1,100 @@
+{
+  "slug": "castle-peak-mine-nv",
+  "name": "Castle Peak Mine",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Virginia City",
+  "city_slug": "virginia-city",
+  "county": "Storey",
+  "county_slug": "storey",
+  "lat": 39.409278,
+  "lng": -119.650361,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Gold"
+  ],
+  "short_description": "Historic mining area on BLM land near Virginia City offering rockhounding for quartz and feldspar specimens. Personal use collection allowed with a 25 lb daily limit.",
+  "description": "Castle Peak Mine sits at 6013 feet elevation in the Virginia Range of northwestern Nevada, a region with deep roots in 19th-century hard rock mining. This BLM public land location provides rockhounders access to quartz-rich outcrops and feldspar deposits characteristic of the Sierra Nevada batholith and its overlying volcanic sequences. The moderate slope terrain features exposed mineralized zones where collectors can find quality quartz specimens, feldspar crystals, and traces of historic gold mining activity.\n\nThe geology here reflects Cretaceous granitic intrusion followed by Tertiary volcanic and hydrothermal activity. Silica-rich fluids moved through fractures in the granite and overlying volcanic rocks, creating veins and pods of translucent to milky quartz and feldspathic minerals. Small-scale prospectors and miners worked these claims for over 150 years, leaving behind evidence of their searches in scattered rock piles and open cuts.\n\nExpect moderate hiking over uneven rocky terrain with excellent exposure of mineralized granite. The site rewards patient searching with hand tools - hand lenses reveal beautiful quartz crystals and feldspar tablets in the outcrop zones. Early morning collecting is ideal for shade and to beat afternoon heat at this elevation. The surrounding high desert vegetation is sparse, offering little shade, so plan accordingly.",
+  "history": "Castle Peak Mine developed during Nevada's silver boom era, part of the Comstock mining district's extensive prospecting network that peaked in the 1870s-1880s. The quartz and feldspar mineralization here formed during Cretaceous granitic emplacement followed by Tertiary hydrothermal circulation, creating the quartz-rich veins and feldspathic pegmatitic zones that attracted historic miners seeking gold and silver.",
+  "tips": "Search along exposed granite outcrops and the weathered margins of quartz veins where crystals have been partially liberated by frost action and erosion. Bring a 5-pound hammer, cold chisel, and hand lens to examine potential specimens in place before removal. Look for clear to milky quartz crystals with good luster, and pale pink to white feldspar tablets; the best specimens typically occur in pegmatoid zones where crystals can reach 1-3 inches across. Work the talus slopes at the base of outcrops where gravity has concentrated loose specimens.",
+  "terrain_notes": "Elevation 6013 feet with moderate slope terrain throughout. Exposed granite bedrock with scattered talus fields and sparse desert shrub vegetation. Rocky footing requires sturdy boots; expect uneven walking surfaces with ankle-twisting hazards. Estimated 0.5 to 1.5 miles of hiking from parking area depending on which mineralized zones you target. No shade available - full sun exposure at midday.",
+  "best_season": "May - October. Higher elevation makes winter/early spring snowmelt hazardous and late fall/winter brings snow. Peak season is late May through September when roads are passable and weather is stable, though afternoon heat requires early morning collecting.",
+  "written_directions": "From Virginia City, take US 395 south for approximately 3 miles. Turn east onto Castle Peak Road (unpaved BLM access road) and follow for roughly 2-3 miles toward the Castle Peak drainage. Park at informal pullouts along the road near exposed granite outcrops. GPS coordinates 39.409278, -119.650361 mark the central mineralized zone.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM road with ruts and washboard surface. High-clearance or all-wheel-drive recommended, especially after rain. Road passable May through October; winter snow closes access.",
+  "parking_notes": "Informal pullouts along Castle Peak Road near mineralized outcrops. No designated parking area; park safely off-road. Capacity for 3-5 vehicles distributed along 2-3 mile stretch. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. Collect only loose material or specimens you can hand-extract. Leave claims and mining infrastructure untouched. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nHand tools only\nDo not disturb mining claims or structures\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Virginia City, approximately 3-4 miles west. Gas, food, lodging, and water available in town. No services at the mine.",
+  "accessibility_notes": "Uneven rocky terrain with moderate slope throughout. Unstable footing on talus and granite blocks requires sturdy hiking boots and careful navigation. Not suitable for wheelchairs or limited mobility. Walking distance 0.5-1.5 miles from parking depending on target outcrop zones. No marked trails; route-finding required. Rocky terrain and sharp quartz fragments present ankle and foot hazard. High elevation (6013 ft) may cause mild altitude effects for visitors from sea level.",
+  "alternative_names": [],
+  "nearest_city": "Virginia City",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/castle-peak-mine-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/castle-peak-mine-nv/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems and minerals can I find at Castle Peak Mine in Nevada?",
+      "answer": "Castle Peak Mine is known for quartz crystals, feldspar specimens, and small amounts of gold. You will find clear to milky quartz with good luster, pale pink to white feldspar tablets, and occasionally small gold flakes in mineralized zones. Specimens range from thumbnail to 3 inches across in pegmatoid areas."
+    },
+    {
+      "question": "Is Castle Peak Mine open to the public and do I need a permit?",
+      "answer": "Yes, Castle Peak Mine sits on BLM public land and is open to rockhounding. No permit is required for recreational collecting. You must follow personal use rules: 25 lbs per day limit, hand tools only, no commercial collection."
+    },
+    {
+      "question": "How far is Castle Peak Mine from Virginia City and what's the drive like?",
+      "answer": "Castle Peak Mine is 3-4 miles east of Virginia City via US 395 and Castle Peak Road. The drive takes about 10-15 minutes on paved highway, then 2-3 miles on unpaved BLM road with ruts and washboard. High-clearance or all-wheel-drive vehicle recommended. Road is passable May through October."
+    },
+    {
+      "question": "What's the best time of year to rockhound at Castle Peak Mine, Nevada?",
+      "answer": "Best season is May through October. Higher elevation (6013 ft) makes winter snow hazardous and early spring snowmelt makes access difficult. Peak collecting is late May through September, though afternoons get hot - arrive early and collect in morning shade."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Castle Peak Mine?",
+      "answer": "Bring a 5-pound hammer, cold chisel, hand lens, sturdy hiking boots, water, and sun protection. The terrain is rocky and uneven with no shade, so hat and sunscreen are essential. A small backpack helps carry the 25-lb daily limit. Gloves protect hands from sharp quartz fragments."
+    },
+    {
+      "question": "Is Castle Peak Mine suitable for beginner rockhounders and families?",
+      "answer": "Yes, Castle Peak Mine is beginner-friendly with accessible quartz and feldspar specimens. Moderate terrain suits children 8 and older with adult supervision. The open granite outcrops make it easy to spot specimen zones, though loose rock and ankle hazards require caution. Keep kids close on uneven slopes."
+    }
+  ],
+  "meta_title": "Castle Peak Mine Rockhounding - Nevada",
+  "meta_description": "Find quartz and feldspar at Castle Peak Mine on Nevada BLM land near Virginia City. Personal use collecting, 25 lb daily limit, no permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types inferred from regional geology and historic mining activity rather than specific mindat source",
+    "nearest_city_distance estimated from GPS and geographic knowledge",
+    "written_directions constructed from GPS coordinates and BLM road networks",
+    "hazards inferred from terrain type and elevation",
+    "best_season derived from Nevada high desert climate patterns"
+  ],
+  "enriched_at": "2026-04-22T09:27:54.295Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:46.373Z"
+}

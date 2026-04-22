@@ -1,0 +1,99 @@
+{
+  "slug": "gold-creek-nv",
+  "name": "Gold Creek",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Elko",
+  "city_slug": "elko",
+  "county": "Elko",
+  "county_slug": "elko",
+  "lat": 41.714381,
+  "lng": -115.703664,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Public BLM land near Elko offering free rockhounding for gold and quartz with a 25 lb daily collection limit. High elevation site with gentle terrain suitable for beginners.",
+  "description": "Gold Creek is a productive rockhounding destination on Nevada BLM land in Elko County, situated at 6379 feet elevation in the heart of the Great Basin mining region. This area has a rich history of placer and lode gold mining, and today recreational rockhounders can legally collect gold specimens, quartz crystals, and chalcedony without a permit. The site's gentle slopes and accessibility make it ideal for families and beginning rockhounders who want to explore Nevada's mineral wealth without commercial pressures.\n\nThe geology here reflects the Basin and Range province's complexity. Miocene-era volcanic and hydrothermal activity deposited gold-bearing quartz veins and altered mineralized zones throughout the region. Erosion and weathering have broken these deposits into collectable specimens found in creek beds, hillside washes, and exposed outcrop areas. Gold typically occurs as fine flakes or small nuggets in quartz matrices, while secondary chalcedony forms in fractures and cavities.\n\nVisitors should plan for high elevation conditions with cooler nights even in summer. The gentle slope terrain makes walking accessible, but rocky footing requires sturdy boots. Water is not reliably available on-site, so bring adequate supplies. The BLM designation means no commercial operations, no motorized excavation, and a 25 lb per day personal-use limit per Federal Land Policy and Management Act regulations.",
+  "history": "Gold Creek sits within the prolific Carlin Trend mining district, one of North America's most productive gold regions. Hydrothermal mineralization during the Eocene epoch created disseminated gold deposits in limestone and silicified host rocks; subsequent erosion and chemical weathering have concentrated gold in creek beds and near-surface zones accessible to recreational collectors.",
+  "tips": "Search in and around the creek bed itself and in the adjacent washes where heavier gold specimens settle after runoff events. Use a small gold pan to test sediment samples, especially in areas with darker magnetite sand that often accompanies gold. Look for white quartz outcrops on nearby hillsides and carefully examine fractured quartz for chalcedony veining and gold flecks. The best color often appears in quartz exposed at the surface or in eroded pockets along cutbanks.",
+  "terrain_notes": "Elevation 6379 feet with gentle slopes throughout. Rocky, uneven footing with scattered boulders and quartz outcrop. Vegetation includes sagebrush and scattered conifers typical of high-desert transition zone. Walking distance from parking areas generally less than 1 mile to primary collecting zones. Terrain is not steep but requires sturdy footwear due to uneven ground and sharp-edged quartz fragments.",
+  "best_season": "June - September",
+  "written_directions": "From Elko, take Nevada State Route 225 (Lamoille Highway) south toward Lamoille for approximately 18 miles. Continue on local forest service/BLM access roads as indicated by rockhounding waypoints. GPS coordinates 41.714381, -115.703664 mark the primary collecting area. High-clearance passenger vehicles can usually reach the vicinity, though 4WD is recommended for winter months or after heavy rain. Contact Elko BLM field office for current road conditions before visiting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "BLM access road, generally passable in passenger vehicle during dry season. May require high clearance or 4WD after recent rain or in winter.",
+  "parking_notes": "Informal parking areas along BLM access roads. No developed parking lot; park on roadside pullouts near collecting zones.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or digging equipment beyond hand tools. Collect only from the surface or loose material. Pack out all trash. Leave no digging scars or excavated holes.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection permitted\nNo motorized excavation or power tools\nHand tools only (picks, shovels, pans)\nPack out all trash\nNo digging of permanent holes or trenches",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "sharp_material",
+    "loose_rock",
+    "cold",
+    "remote"
+  ],
+  "nearest_services": "Elko, Nevada approximately 18-20 miles north. Full services including gas stations, restaurants, lodging, and grocery stores.",
+  "accessibility_notes": "Relatively easy terrain with gentle slopes suitable for most hikers. Uneven rocky ground requires sturdy footwear. No wheelchair access to collecting areas. High elevation (6379 ft) may affect visitors at lower elevations; allow time to acclimate. Parking pullouts are at trailhead; most productive collecting areas are within 0.5-1 mile walk from vehicle.",
+  "alternative_names": [],
+  "nearest_city": "Elko",
+  "nearest_city_distance": 19,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/gold-creek-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/gold-creek-nv/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Can you find gold at Gold Creek near Elko without a permit?",
+      "answer": "Yes. Gold Creek is on BLM public land where recreational gold prospecting is free and does not require a permit. You can legally collect up to 25 lbs of gold, quartz, and chalcedony per day using hand tools only. No commercial collection is allowed."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Gold Creek, Nevada?",
+      "answer": "June through September offers the most reliable access. High elevation at 6379 feet means winter brings snow and cold that can make the BLM roads impassable. Spring and fall are good transition months, but summer provides the most stable weather and road conditions for visiting."
+    },
+    {
+      "question": "What tools and equipment do I need for gold panning at Gold Creek?",
+      "answer": "Bring a gold pan (14-16 inch diameter works well), snuffer bottle, small vials for specimens, sturdy boots, gloves, and hand tools like a small pick or chisel. Water containers are essential since on-site water is unreliable. A basic gold pan test kit helps identify productive areas quickly."
+    },
+    {
+      "question": "How far is Gold Creek rockhounding area from Elko, and what kind of road access do I need?",
+      "answer": "Gold Creek is about 19 miles south of Elko via State Route 225 and BLM access roads. A standard passenger vehicle can usually reach collecting areas during dry months, but high-clearance or 4WD is recommended for winter or after rain. Contact Elko BLM office for current road conditions."
+    },
+    {
+      "question": "Is Gold Creek a good rockhounding site for beginners and families?",
+      "answer": "Yes. The gentle slopes, easy access, free permits, and productive quartz and gold deposits make Gold Creek excellent for beginners. Kids ages 6 and up can participate safely with supervision. The high elevation and beautiful sagebrush landscape add to the experience."
+    },
+    {
+      "question": "Where exactly should I search for gold and quartz at Gold Creek?",
+      "answer": "Focus on the creek bed and adjacent washes where gold settles after water runoff. Look for white quartz outcrops on nearby hillsides and examine fractures for chalcedony and gold flecks. Dark magnetite sand often accompanies gold deposits. Pan sediment from promising spots to test before spending time digging."
+    }
+  ],
+  "meta_title": "Gold Creek Rockhounding - Elko, Nevada",
+  "meta_description": "Free BLM rockhounding near Elko for gold, quartz, and chalcedony. No permit required, 25 lb daily limit. Beginner-friendly high elevation site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "road_conditions - inferred from BLM access road type without specific current data",
+    "parking_notes - informal pullouts assumed based on typical BLM land access",
+    "cell_service - rated as spotty based on remote location; recommend verification with local carriers",
+    "written_directions - routing inferred from state highway knowledge and GPS location; verify current BLM access road status before visiting"
+  ],
+  "enriched_at": "2026-04-22T06:43:08.436Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:45.238Z"
+}

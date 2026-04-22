@@ -1,0 +1,78 @@
+{
+  "slug": "foothills-of-sunset-peak-az",
+  "name": "Foothills of Sunset Peak",
+  "lat": 33.115935,
+  "lng": -109.267835,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/foothills-of-sunset-peak"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Foothills%20of%20Sunset%20Peak%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Foothills%20of%20Sunset%20Peak",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Foothills%20of%20Sunset%20Peak%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "gentle slope",
+    "nearest_city": {
+      "name": "Morenci",
+      "distance_mi": 6,
+      "population": 1000
+    },
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Ash Spring Canyon",
+        "type": "stream",
+        "dist": 0.6
+      },
+      {
+        "name": "Dorsey Gulch",
+        "type": "stream",
+        "dist": 2
+      },
+      {
+        "name": "Colorado Gulch",
+        "type": "stream",
+        "dist": 2.3
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T16:51:23.979Z"
+  },
+  "scraped_at": "2026-04-20T16:51:23.980Z",
+  "scrape_quality": "partial"
+}

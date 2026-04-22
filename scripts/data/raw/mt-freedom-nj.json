@@ -1,0 +1,60 @@
+{
+  "slug": "mt-freedom-nj",
+  "name": "Mt. Freedom",
+  "lat": 40.820739,
+  "lng": -74.584787,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Randolph Township",
+  "city_slug": "randolph-township",
+  "county": "Morris",
+  "county_slug": "morris",
+  "geocoded_city": "Randolph Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mt.%20Freedom%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mt.%20Freedom",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mt.%20Freedom%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 931,
+      "meters": 284
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:28:51.821Z"
+  },
+  "scraped_at": "2026-04-21T18:28:51.821Z",
+  "scrape_quality": "minimal"
+}

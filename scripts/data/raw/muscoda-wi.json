@@ -1,0 +1,57 @@
+{
+  "slug": "muscoda-wi",
+  "name": "Muscoda",
+  "lat": 43.19025,
+  "lng": -90.42,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Town of Pulaski",
+  "city_slug": "town-of-pulaski",
+  "county": "Iowa",
+  "county_slug": "iowa",
+  "geocoded_city": "Town of Pulaski",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Muscoda%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Muscoda",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Muscoda%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:18:57.951Z"
+  },
+  "scraped_at": "2026-04-21T18:18:57.951Z",
+  "scrape_quality": "minimal"
+}

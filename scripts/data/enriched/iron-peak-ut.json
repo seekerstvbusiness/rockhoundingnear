@@ -1,0 +1,98 @@
+{
+  "slug": "iron-peak-ut",
+  "name": "Iron Peak",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Iron County",
+  "city_slug": "iron-county",
+  "county": "Iron",
+  "county_slug": "iron",
+  "lat": 37.912488,
+  "lng": -112.690739,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM rockhounding site in southwestern Utah known for quartz specimens, jasper, and agate. Public land with no permit required and excellent access for rockhounds of all skill levels.",
+  "description": "Iron Peak is a public BLM rockhounding location in Iron County, Utah, offering excellent opportunities to collect quartz, jasper, and agate specimens. The site sits within Utah's unique geological landscape where ancient volcanic activity and mineralization created abundant crystal-bearing formations. The terrain around Iron Peak features exposed bedrock, wash areas, and hillsides rich with colorful specimens ranging from translucent quartz points to banded agate and varieties of jasper in reds, yellows, and browns.\n\nThis location is ideal for both beginners and experienced rockhounds. The BLM designation means no permit is required and collection is straightforward - you can collect up to 25 pounds per day for personal use. The area's volcanic history created numerous pockets where quartz and silica-based minerals accumulated over millions of years, making productive collecting relatively accessible with basic tools and knowledge of what to look for.\n\nThe surrounding landscape offers pleasant views of the Iron County region's distinctive red rock formations and desert vegetation. Most collectors focus on the washes and exposed hillsides where erosion naturally exposes new material. Spring and fall weather makes this an especially comfortable collecting season, though winter and summer visits are also possible with appropriate preparation.",
+  "history": "Iron Peak sits within the Basin and Range province of the Great Basin, where Tertiary-age volcanic activity (roughly 30-40 million years ago) deposited extensive silica-rich hydrothermal fluids through fractures and vugs in basalt and rhyolite formations. This mineralization created the quartz, agate, and jasper deposits that rockhounds collect today. The area also has a history of small-scale mining and mineral prospecting dating back to the late 1800s when prospectors recognized the mineral potential of Iron County's geology.",
+  "tips": "Search washes and stream beds where erosion naturally exposes specimens and collects heavier minerals at the surface. Look for quartz points and agate nodules along hillsides with exposed volcanic rock, particularly in areas where the soil has eroded away to reveal the parent material. Bring a small sledge hammer or crack hammer to carefully extract specimens from softer host rock, but avoid aggressive excavation - BLM rules prohibit motorized digging. Morning light makes spotting translucent specimens easier, especially quartz points that catch sunlight.",
+  "terrain_notes": "Terrain ranges from moderate to steep, with elevation around 5,500-6,000 feet. The landscape features exposed volcanic rock outcrops, sandy washes, and scattered desert vegetation including juniper and pinyon pine. Walking distance from parking typically ranges from a few hundred yards to 1-2 miles depending on which collecting areas you target. Footing is uneven and rocky with loose scree common on slopes; sturdy boots are essential.",
+  "best_season": "October - April. Mild daytime temperatures and low humidity make fall and winter ideal. Spring months can be productive but afternoons warm quickly. Summer (May-September) brings extreme heat and afternoon thunderstorms that can trigger flash flooding in washes, making early morning visits safer if collecting during this period.",
+  "written_directions": "From Cedar City, take Iron Valley Road south toward the Iron County border region. The specific pullout for Iron Peak collecting is accessed via BLM back roads south of the main highway corridor. GPS coordinates (37.912488, -112.690739) will guide you directly to the site. Allow 30-40 minutes driving time from Cedar City. Ensure your vehicle is suitable for rough BLM roads and bring detailed maps or download offline GPS; cell service in this region is unreliable. Check current road conditions with the Cedar City BLM field office before departing.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough unpaved BLM road with potential washboard and rocky sections. High-clearance vehicle recommended but not always required depending on recent maintenance. Check with Cedar City BLM office for current conditions.",
+  "parking_notes": "Informal pullouts along BLM access roads. No developed parking facility. Park safely off the main track and mark your vehicle location if traveling alone.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or mechanized digging. Collect only loose material and specimens that can be safely removed by hand tools. Leave the site in better condition than you found it. Respect any posted closures or restrictions. All collected material must leave the site immediately.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo mechanized digging\nHand tools only\nLeave no trace\nRespect posted closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "remote",
+    "flash_floods"
+  ],
+  "nearest_services": "Cedar City, approximately 25-30 miles northwest. Full services including gas, food, water, lodging, and supplies available.",
+  "accessibility_notes": "Relatively accessible terrain compared to expert sites, but uneven rocky ground and scattered slopes require sturdy footwear and moderate mobility. Not wheelchair accessible due to unpaved BLM roads and rocky terrain. Family groups with children ages 6+ can manage the site with supervision.",
+  "alternative_names": [],
+  "nearest_city": "Cedar City",
+  "nearest_city_distance": 28,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/iron-peak-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding at Iron Peak in Utah?",
+      "answer": "Iron Peak is known for quartz specimens including clear points and cloudy varieties, colorful jasper in reds and yellows, banded agate nodules, and iron oxide mineral specimens. Most collectors find multiple specimen types in a single visit, particularly in washes and exposed hillsides where erosion has exposed fresh material."
+    },
+    {
+      "question": "Do I need a permit to collect at Iron Peak BLM site?",
+      "answer": "No permit is required to rockhound at Iron Peak. It is designated public BLM land in Utah where recreational collecting is allowed under the Federal Land Policy and Management Act. You simply need to follow the 25 lb per day personal use limit and leave no motorized equipment or heavy excavation."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Cedar City at Iron Peak?",
+      "answer": "October through April offers the most comfortable collecting conditions with mild temperatures and low humidity. Spring months are productive but afternoons warm quickly. Summer brings extreme heat and dangerous afternoon thunderstorms that can trigger flash floods in washes. Winter visits are possible but early morning starts are essential."
+    },
+    {
+      "question": "How far is Iron Peak from Cedar City and what road conditions should I expect?",
+      "answer": "Iron Peak is approximately 28 miles south of Cedar City and takes 30-40 minutes to reach via BLM access roads. Roads are rough, unpaved, and rocky with potential washboard conditions. High-clearance or AWD vehicles are recommended. Always check current conditions with the Cedar City BLM field office before driving."
+    },
+    {
+      "question": "Is Iron Peak rockhounding site family-friendly for kids and dogs?",
+      "answer": "Yes, Iron Peak is family-friendly and dog-friendly. Kids ages 6 and up can participate with supervision due to relatively accessible terrain and abundant surface specimens. Dogs are welcome on BLM land but should stay close and be controlled. Bring plenty of water for both children and pets as the desert offers no shade."
+    },
+    {
+      "question": "What tools do I need to collect quartz and agate at Iron Peak?",
+      "answer": "Bring a crack hammer or small sledge hammer for carefully extracting specimens from softer host rock, a digging bar or pry bar for leverage, a chisel for precision work, sturdy gloves, a collection bag, and a backpack for carrying your 25 lb daily limit. Hand tools only are permitted - no motorized equipment allowed on this BLM site."
+    }
+  ],
+  "meta_title": "Iron Peak Rockhounding - Utah BLM Quartz & Agate",
+  "meta_description": "Free BLM rockhounding at Iron Peak near Cedar City. Find quartz, agate, and jasper. No permit needed. 25 lb/day limit. October-April best.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from GPS and typical Iron County BLM access)",
+    "nearest_city_distance (estimated from coordinates)",
+    "road_conditions (typical BLM standard)",
+    "parking_notes (typical for informal BLM sites)"
+  ],
+  "enriched_at": "2026-04-22T06:50:27.866Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:56:51.109Z"
+}

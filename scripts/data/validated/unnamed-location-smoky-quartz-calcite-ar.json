@@ -1,0 +1,99 @@
+{
+  "slug": "unnamed-location-smoky-quartz-calcite-ar",
+  "name": "Unnamed Location (Smoky Quartz & Calcite)",
+  "state": "Arkansas",
+  "state_slug": "arkansas",
+  "city": "Benton",
+  "city_slug": "benton",
+  "county": "Saline",
+  "county_slug": "saline",
+  "lat": 34.766515,
+  "lng": -92.782836,
+  "gem_types": [
+    "Smoky Quartz",
+    "Calcite"
+  ],
+  "short_description": "A lesser-known Saline County locale producing smoky quartz crystals and calcite specimens. Access and land status require verification before visiting.",
+  "description": "This Saline County location in central Arkansas offers opportunities to collect smoky quartz and calcite specimens. The site sits within the Ouachita Mountains region, where Paleozoic metamorphic rocks and associated mineral veins have created pockets of quartz-rich material. The gentle slope terrain makes initial prospecting accessible, though ground conditions and land ownership should be confirmed with local authorities before arrival.\n\nSmoky quartz forms in this region due to natural radiation exposure within the quartz crystals during metamorphic processes. Calcite commonly occurs in fractures and voids within the surrounding host rock. Both minerals are popular among collectors for their clarity and aesthetic appeal.\n\nProspectors working this area typically focus on exposed outcrops and weathered zones where crystals weather free from the host rock. The location's exact access status and collection permissions remain unclear, so contacting the Saline County assessor's office or local rockhounding clubs is essential before planning a visit.",
+  "history": "The Saline County area lies within the Ouachita Mountain belt, a major Paleozoic metamorphic province formed during the Alleghenian orogeny approximately 300 million years ago. Hydrothermal fluids associated with metamorphic activity deposited silica and carbonate minerals into fractures, creating the quartz and calcite-bearing veins found in this region today.",
+  "tips": "Search weathered outcrop exposures where calcite and quartz weather free from surrounding metamorphic host rock - these areas often contain the best specimens. Bring a small pry bar and chisel to carefully remove crystals from vugs; smoky quartz crystals can be delicate. Look for areas with visible white or gray quartz veining cutting through darker metamorphic rock - these indicate mineralized zones worth investigating. Early morning prospecting after overnight rain may reveal freshly exposed material on slopes.",
+  "terrain_notes": "Gentle slope terrain typical of Ouachita foothills. Mixed oak and pine forest with seasonal understory growth. Walking distance from parking likely 0.25 to 0.5 miles to exposed outcrops. Rocky footing with loose material common; sturdy boots recommended. Elevation approximately 500-700 feet.",
+  "best_season": "March - May, September - November. Spring offers good footing after winter freeze-thaw cycles expose fresh material. Fall temperatures are pleasant and vegetation is less dense, improving visibility of outcrops.",
+  "written_directions": "From Benton, take Arkansas 5 north approximately 8 miles. The GPS coordinates indicate a location in the eastern foothills area of Saline County. Local knowledge or topographic map consultation is strongly recommended to locate the exact site, as unmarked rockhounding areas often lack signage or established pullouts.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": null,
+  "parking_notes": "No established parking area confirmed. Confirm access and parking with property owner or local authorities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Land ownership and collection permissions unknown. Verify access status with Saline County assessor's office before collecting. If on private land, obtain owner permission. If on public land, follow all state and local regulations.",
+  "quantity_limits": null,
+  "rules": "Confirm property ownership before entering\nObtain permission from landowner if private\nFollow all state of Arkansas rockhounding regulations\nLeave site cleaner than you found it\nNo motorized equipment without explicit permission",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": null,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Benton, approximately 8-10 miles west. Full services including gas, food, and water available.",
+  "accessibility_notes": "Uneven rocky terrain with loose footing common in Ouachita foothills. Moderate slope requires basic hiking fitness. Not wheelchair accessible. Sturdy footwear with good ankle support essential. Bring adequate water and sun protection.",
+  "alternative_names": [],
+  "nearest_city": "Benton",
+  "nearest_city_distance": 9,
+  "cover_photo": null,
+  "images": [],
+  "faq": [
+    {
+      "question": "What smoky quartz and calcite can I find at this Saline County location?",
+      "answer": "This site produces smoky quartz crystals and calcite specimens typical of Ouachita Mountain metamorphic regions. Smoky quartz crystals range from small points to larger specimens, colored gray to brown by natural radiation. Calcite typically occurs as white or clear crystals in fractures and crystal-lined vugs."
+    },
+    {
+      "question": "Is this Saline County rockhounding site free to visit?",
+      "answer": "Access status and land ownership are currently unknown. The site may be on private land requiring owner permission, or public land with specific regulations. Contact the Saline County assessor's office to confirm ownership and collection rights before visiting."
+    },
+    {
+      "question": "Do I need a permit to collect smoky quartz and calcite in Arkansas?",
+      "answer": "Arkansas does not require a general rockhounding permit for personal collection on public land. However, you must verify the specific land status at this location first. Private land always requires owner permission."
+    },
+    {
+      "question": "What is the best season for rockhounding this Saline County site?",
+      "answer": "March through May and September through November offer ideal conditions. Spring freeze-thaw cycles expose fresh material, while fall temperatures are comfortable and lower vegetation improves outcrop visibility."
+    },
+    {
+      "question": "What tools do I need to collect smoky quartz and calcite specimens here?",
+      "answer": "Bring a small pry bar and chisel for careful crystal extraction from vugs. Wear sturdy hiking boots for rocky terrain. Include a backpack, water, small collection bags, and a basic hand lens to evaluate specimens before removal. Smoky quartz can be delicate, so work slowly."
+    },
+    {
+      "question": "Is this Saline County rockhounding location suitable for beginners?",
+      "answer": "Yes, the gentle slope and accessible outcrop areas make this moderately beginner-friendly. However, you must first confirm access permission and verify land status. Once access is confirmed, the site offers good learning opportunities for specimen collection and mineral identification."
+    }
+  ],
+  "meta_title": "Find Smoky Quartz & Calcite in Saline County, Arkansas",
+  "meta_description": "Rockhounding location in Saline County, Arkansas for smoky quartz and calcite specimens. Gentle terrain, moderate difficulty. Verify access before visiting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "permit_required",
+    "dog_friendly",
+    "family_friendly",
+    "road_conditions",
+    "parking_notes",
+    "land_ownership_status",
+    "collection_permission_verification"
+  ],
+  "enriched_at": "2026-04-21T17:17:54.738Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T17:20:53.694Z"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "sunnyside-mine-nm",
+  "name": "Sunnyside Mine",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Española",
+  "city_slug": "espanola",
+  "county": "Rio Arriba",
+  "county_slug": "rio-arriba",
+  "lat": 36.453949,
+  "lng": -106.049393,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "BLM public rockhounding site in the Rio Arriba highlands offering quartz, feldspar, and mica specimens on gentle slopes at 7675 ft elevation. Personal use collecting with no permit required.",
+  "description": "Sunnyside Mine sits on Bureau of Land Management (BLM) public land in Rio Arriba County, New Mexico, within the beautiful northern New Mexico highlands. This location offers rockhounders access to quartz, feldspar, and mica specimens typical of the Precambrian metamorphic and granitic geology of the region. The site features gentle slopes at 7675 feet elevation, making it relatively accessible for collectors of varying experience levels who are prepared for mountain terrain and cooler weather.\n\nThe area's geology reflects the ancient Precambrian basement rocks that underlie much of northern New Mexico. During Proterozoic time, granitic intrusions crystallized here, bringing together quartz, feldspar, and mica in pegmatitic and hydrothermal associations. Later metamorphic processes further altered and enriched these mineral assemblages. The exposed outcrops and weathered debris on the gentle slopes provide excellent opportunities to find quality specimens without requiring specialized climbing skills.\n\nExpect to walk moderate distances across semi-open terrain with scattered vegetation typical of high-elevation New Mexico. Quartz occurs in veins and as part of granitic host rock, while feldspar and mica are best found in weathered talus and along outcrop edges. The gentle slope means less scrambling than many mountain sites, though sturdy footwear is still essential.\n\nAs BLM land, this site allows personal use collecting at no cost, making it an excellent destination for families and collectors on a budget. The lack of permit requirements and 25 lb daily limit per Federal Land Policy and Management Act (FLPMA) rules make this an accessible alternative to fee dig operations. Water and services are available in nearby Española, about 20 miles away.\n\nThis location is best visited during the warmer months when high elevation snow melts and access roads are passable. Spring and early fall offer ideal conditions with moderate temperatures and lower UV intensity at this elevation.",
+  "history": "Sunnyside Mine area sits within the Precambrian basement geology of northern New Mexico, where 1.7 to 1.8 billion year old granitic intrusions crystallized during the Proterozoic era, creating the quartz and feldspar-rich rocks exposed here today. Pegmatitic differentiation during cooling of these granites concentrated mica, feldspar, and quartz into the specimen-quality associations collectors find in weathered outcrops and talus.",
+  "tips": "Search along the gentle slopes and at the base of exposed granitic outcrops where weathering has concentrated larger crystals in talus piles - look for loose quartz clusters and feldspar books on south-facing hillsides. Use a small pry bar to gently work loose specimens from weathered zones rather than striking fresh rock, and bring a magnifying glass to identify the subtle color differences between feldspar varieties. The best specimens often appear after spring snowmelt when fresh erosion exposes new material; concentrate your search in drainage washes where gravity has concentrated heavier specimens.",
+  "terrain_notes": "Elevation 7675 ft with gentle slopes throughout. Semi-open terrain with scattered pinyon-juniper vegetation and exposed granitic outcrops. Walking distances typically 0.5 to 1.5 miles from parking areas. Footing is moderate - uneven rocky ground with loose talus requires sturdy hiking boots but no technical climbing. Some areas have minor washout from spring runoff.",
+  "best_season": "June - September. High elevation location with snow possible October through May. Spring snowmelt (late May) opens access roads and exposes fresh specimens; summer offers stable conditions and reliable access; early fall provides warm days with lower elevation heat. Avoid October - April when mountain weather becomes unpredictable and roads may be impassable.",
+  "written_directions": "From Española, take NM 285 north approximately 18 miles toward Ojo Caliente. Turn east onto a marked BLM access road (County Road 42 or similar - confirm current road names with Rio Arriba County) and continue 2-3 miles on dirt road with gentle grades. Park at the unsigned BLM pullout near the coordinates listed. Parking is informal but wide enough for several vehicles. In wet conditions, 4WD is recommended but not required for the final approach.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt road with gentle grades, washboard surface likely in dry season. High clearance vehicle recommended but passenger sedan manageable in dry conditions. Impassable when wet.",
+  "parking_notes": "Informal BLM pullout with space for 2-4 vehicles. No facilities. Shaded parking not available.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or heavy equipment use. Collect loose specimens only - do not strike fresh rock or remove material from active outcrops. Leave the site cleaner than you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nCollect loose specimens only\nDo not strike fresh rock from outcrops\nNo mechanized equipment",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "remote",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Española, approximately 20 miles south. Gas, food, water, and supplies available.",
+  "accessibility_notes": "Gentle slopes and relatively flat terrain make this accessible to most hikers with basic fitness. Uneven rocky terrain with loose talus requires sturdy hiking boots. No wheelchair access to collection areas. Walking distances of 0.5 to 1.5 miles from parking required.",
+  "alternative_names": [],
+  "nearest_city": "Española",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/sunnyside-mine-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/sunnyside-mine-nm/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals can I find at Sunnyside Mine in Rio Arriba County?",
+      "answer": "Sunnyside Mine on BLM land in Rio Arriba County is known for quartz specimens, feldspar (especially in granitic associations), and mica. The best specimens are found in weathered talus and along granitic outcrop edges where natural erosion has concentrated larger crystals. Spring snowmelt often exposes fresh material."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Sunnyside Mine, New Mexico?",
+      "answer": "No permit is required for personal use collecting at Sunnyside Mine. It is BLM public land where rockhounding is allowed under the Federal Land Policy and Management Act (FLPMA). You are limited to 25 lbs per day and personal use only - no commercial collection is permitted."
+    },
+    {
+      "question": "What is the best time of year to collect at Sunnyside Mine?",
+      "answer": "The best season is June through September when mountain roads are clear and weather is stable. Late May offers excellent collecting after spring snowmelt exposes fresh specimens, while early fall provides warm days with lower heat. Avoid October through April when snow and ice may close access roads at this 7675 ft elevation."
+    },
+    {
+      "question": "How far is Sunnyside Mine from Española, and what are directions to get there?",
+      "answer": "Sunnyside Mine is approximately 20 miles north of Española. From Española, take NM 285 north about 18 miles toward Ojo Caliente, then turn east onto a marked BLM access road (County Road 42) for 2-3 miles on a dirt road to the parking pullout. High clearance is recommended but not always required in dry conditions."
+    },
+    {
+      "question": "Is Sunnyside Mine a good rockhounding spot for beginners and families?",
+      "answer": "Yes, Sunnyside Mine is beginner and family-friendly. The gentle slopes and easy terrain make it accessible to children ages 8 and up with reasonable fitness levels. The lack of permit requirements, free collecting, and 25 lb daily limit make it ideal for families learning to rockhound. No specialized equipment is needed beyond basic tools and sturdy hiking boots."
+    },
+    {
+      "question": "What tools and supplies should I bring when rockhounding at Sunnyside Mine?",
+      "answer": "Bring sturdy hiking boots for uneven talus terrain, a small pry bar or flathead screwdriver for gently extracting specimens, a 5-gallon bucket or backpack to carry your finds (limited to 25 lbs), and a magnifying glass to identify feldspar varieties. At 7675 ft elevation, bring warm layers and plenty of water even in summer months. Cell service is spotty, so tell someone your location."
+    }
+  ],
+  "meta_title": "Sunnyside Mine Rockhounding - New Mexico BLM",
+  "meta_description": "Free BLM rockhounding site near Española for quartz, feldspar, and mica. No permit required, 25 lb daily limit. Gentle slopes at 7675 ft. Easy access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "cell_service",
+    "gem_types"
+  ],
+  "enriched_at": "2026-04-22T06:46:18.287Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:49:49.674Z"
+}

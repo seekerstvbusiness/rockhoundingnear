@@ -1,0 +1,100 @@
+{
+  "slug": "santa-fe-national-forest-nm",
+  "name": "Santa Fe National Forest",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Santa Fe",
+  "city_slug": "santa-fe",
+  "county": "Santa Fe",
+  "county_slug": "santa-fe",
+  "lat": 35.699808,
+  "lng": -106.215964,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Fluorite"
+  ],
+  "short_description": "Explore this high-elevation national forest for quartz, feldspar, and mica specimens. Gentle slopes and accessible terrain make it ideal for rockhounds seeking New Mexico's classic metamorphic mine...",
+  "description": "Santa Fe National Forest sits at 6754 feet elevation in the heart of the Sangre de Cristo Mountains, one of New Mexico's premier rockhounding destinations. This diverse landscape offers collectors opportunities to find quartz crystals, feldspar varieties, mica sheets, and fluorite in metamorphic rock formations and along forest streams. The forest's gentle slopes make it accessible for hikers of varying skill levels, while the high elevation provides cooler temperatures ideal for extended collecting trips. The Precambrian metamorphic basement rocks that dominate this region were formed during ancient mountain-building episodes and contain pockets of well-formed mineral specimens. Rockhounds should focus their efforts on exposed outcrops along ridgelines, weathered stream banks, and areas where forest cover is lighter, as these spots reveal fresh mineral deposits.\n\nThe geological setting combines Proterozoic gneiss and schist with intruded granite bodies, creating ideal conditions for crystal formation. Quartz veins are common throughout the forest, often containing well-defined points and clusters. Feldspar crystals appear in pegmatites and granitic intrusions, while mica sheets can be found splitting naturally from metamorphic rocks. Fluorite, though less abundant, appears in select localities within the forest boundaries.\n\nAccess to the forest is straightforward from Santa Fe, and multiple trailheads provide entry points for rockhounders. The gentle slope terrain means less strenuous hiking compared to steeper mountain ranges, yet you still enjoy the benefits of high-elevation collecting. Water sources are available in the forest, and camping facilities nearby support extended trips.\n\nBest practices include staying on established trails where permitted, respecting private property boundaries that exist within and adjacent to national forest lands, and adhering to all BLM/Forest Service collection limits. The forest receives moderate foot traffic, especially near popular hiking trails, so exploring slightly less-accessed areas often yields better results.",
+  "history": "The metamorphic rocks and granite bodies of the Santa Fe National Forest formed during the Proterozoic Eon, roughly 1.7 to 1.4 billion years ago, when intense tectonic activity and mountain-building created the basement rocks of New Mexico. Subsequent mineralization and weathering over hundreds of millions of years has exposed quartz veins, feldspar pegmatites, and other mineral deposits that attract modern rockhounders. Early Spanish colonial miners explored this region for precious metals and gemstones, though the national forest's primary use today is conservation and recreation.",
+  "tips": "Search along exposed rocky outcrops on ridgelines and hilltops where weathering has exposed fresh quartz veins and feldspar crystals; the gentle slopes make accessing these areas easier than steeper mountain terrain. Look for quartz points in areas where granite has weathered, particularly near dry washes and eroded stream banks where specimens weather out naturally. Bring a small pry bar or chisel to carefully extract specimens from matrix without damaging delicate crystal formations. Best finds occur after spring snowmelt or monsoon rains when water erosion exposes new material along drainages.",
+  "terrain_notes": "Elevation of 6754 feet with gentle slopes throughout most accessible areas. Mixed conifer forest interspersed with open rocky outcrops. Well-established trail systems and accessible ridge walks. Most rockhounding areas within 0.5 to 3 miles of parking areas. Footing is generally stable on established trails, though rocky outcrops require careful footing. Exposed areas can be muddy or slick following precipitation.",
+  "best_season": "June - September. Higher elevations experience heavy snow November through April, making winter access difficult. Summer months provide mild temperatures ideal for hiking and collecting without heat stress. Late spring (May) can work as an alternative when trails are clear of snow.",
+  "written_directions": "From Santa Fe, take US 285 north approximately 3 miles. Turn northeast on NM 475 (Artist Road / Hyde Park Road) and drive approximately 8 miles to reach the forest boundary and access areas. Continue on NM 475 toward ski basin for additional trailheads and access points. Multiple pullouts and parking areas exist along this highway corridor. For specific trailheads, consult Santa Fe National Forest Service maps or visitor center.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "passenger",
+  "road_conditions": "NM 475 is a well-maintained paved road with good clearance suitable for all passenger vehicles. Access roads may be unpaved gravel in some areas; high-clearance preferred but not required for main routes.",
+  "parking_notes": "Multiple pullouts and parking areas along NM 475 corridor. Forest Service parking areas near trailheads typically accommodate 5-15 vehicles. Limited facilities at some locations.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Respect all marked trail closures and private property boundaries. Collection is permitted only on BLM-designated national forest lands; verify you are on public land before collecting. Pack out all waste and leave no trace.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation\nRespect trail closures and boundary signs\nNo collection on private land\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "sharp_material"
+  ],
+  "nearest_services": "Santa Fe, approximately 8-12 miles south. Full services including gas, food, lodging, and supplies available year-round.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers and families. Well-maintained trails and established parking areas. Rocky outcrops and uneven terrain require sturdy footwear but do not require technical climbing. No wheelchair access to prime rockhounding areas, though lower-elevation parking lots are paved. Elevation of 6754 feet may require acclimatization for visitors from lower elevations.",
+  "alternative_names": [
+    "Santa Fe National Forest, Sangre de Cristo Mountains"
+  ],
+  "nearest_city": "Santa Fe",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/santa-fe-national-forest-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/santa-fe-national-forest-nm/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find rockhounding in Santa Fe National Forest?",
+      "answer": "Santa Fe National Forest is known for quartz crystals, feldspar varieties, mica sheets, and fluorite specimens. Quartz is the most abundant find, appearing in both massive and crystalline forms along outcrops and in stream beds. Feldspar crystals occur in granite pegmatites, while mica can be found splitting from metamorphic rocks. Fluorite is less common but does occur in select areas within the forest boundaries."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Santa Fe National Forest?",
+      "answer": "No permit is required for recreational rockhounding at Santa Fe National Forest. You may collect up to 25 lbs per day for personal use only under FLPMA regulations. No commercial collection or motorized excavation is allowed."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Santa Fe?",
+      "answer": "The best rockhounding season runs from June through September when higher elevations are snow-free and temperatures are mild. Late spring (May) can also work once trails clear. Winter access is difficult due to heavy snow at this 6754-foot elevation. Summer monsoons in July and August can trigger flash floods in drainages, but also expose fresh specimens."
+    },
+    {
+      "question": "How far is Santa Fe National Forest from town and what are the roads like?",
+      "answer": "Santa Fe National Forest is approximately 8-10 miles northeast of downtown Santa Fe via US 285 and NM 475. NM 475 is a well-maintained paved road suitable for all passenger vehicles, making access quick and easy from town. Multiple parking pullouts exist along this corridor for rockhounding access."
+    },
+    {
+      "question": "Is Santa Fe National Forest beginner-friendly for family rockhounding trips?",
+      "answer": "Yes, Santa Fe National Forest is excellent for beginners and families. The gentle slopes mean less strenuous hiking than steeper mountain areas. Kids aged 6+ can handle the terrain with proper footwear. Quartz and feldspar specimens are relatively common, making it easy to find attractive rocks quickly and maintain beginner interest."
+    },
+    {
+      "question": "What tools and equipment should I bring to rockhound at Santa Fe National Forest?",
+      "answer": "Bring sturdy hiking boots or trail shoes for the rocky terrain and exposed outcrops. A small pry bar or chisel helps extract specimens carefully from rock matrix. Bring plenty of water (high elevation dehydrates quickly), sun protection, and a daypack to carry your 25-lb daily limit. A hand lens helps identify feldspar and mica in granite. Consider a light jacket as temperatures drop at 6754 feet elevation even in summer."
+    }
+  ],
+  "meta_title": "Santa Fe National Forest Rockhounding - New Mexico",
+  "meta_description": "Find quartz, feldspar, and mica at Santa Fe National Forest near Santa Fe, NM. No permit required. Explore high-elevation rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Sangre de Cristo metamorphic geology)",
+    "specific_trailhead_names (generic parking/access described)",
+    "exact_road_conditions (based on general NM standards)"
+  ],
+  "enriched_at": "2026-04-22T06:46:22.244Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:50:07.086Z"
+}

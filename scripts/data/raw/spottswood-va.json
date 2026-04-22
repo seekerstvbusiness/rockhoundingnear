@@ -1,0 +1,60 @@
+{
+  "slug": "spottswood-va",
+  "name": "Spottswood",
+  "lat": 37.949001,
+  "lng": -79.269536,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Rockbridge County",
+  "city_slug": "rockbridge-county",
+  "county": "Rockbridge",
+  "county_slug": "rockbridge",
+  "geocoded_city": "Rockbridge County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Spottswood%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Spottswood",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Spottswood%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1567,
+      "meters": 477
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:04:15.339Z"
+  },
+  "scraped_at": "2026-04-21T19:04:15.339Z",
+  "scrape_quality": "minimal"
+}

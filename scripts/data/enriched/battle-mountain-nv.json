@@ -1,0 +1,98 @@
+{
+  "slug": "battle-mountain-nv",
+  "name": "Battle Mountain",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Battle Mountain",
+  "city_slug": "battle-mountain",
+  "county": "Lander",
+  "county_slug": "lander",
+  "lat": 40.532598,
+  "lng": -117.115159,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Free BLM rockhounding on gentle slopes at 6,342 feet near Battle Mountain. Hunt for agate, jasper, and chalcedony in a classic Great Basin setting with no permits required.",
+  "description": "Battle Mountain sits at the heart of Nevada's prolific rockhounding country, where BLM public land welcomes recreational collectors year-round. This location offers easy access to agate and jasper deposits typical of the Battle Mountain Range and surrounding basins. The terrain features gentle slopes and exposed geological formations that make it ideal for both beginners and experienced rockhounds seeking free, permit-free collecting opportunities.\n\nThe area sits within Nevada's Basin and Range province, where Tertiary volcanic activity and subsequent hydrothermal alteration created silica-rich mineral deposits. Agates and chalcedony formed in cavities within rhyolitic lavas and welded tuffs, while jasper deposits occur in altered zones and along fault lines. The gentle slope and relatively accessible terrain mean you can cover good ground without extreme exertion, though the high desert elevation requires proper hydration and sun protection.\n\nWhat makes Battle Mountain exceptional is its combination of productive mineral collecting and the absence of crowds. Unlike many fee dig sites, you can explore at your own pace, follow promising washes and outcrops, and work the areas that appeal to you. The 25-pound daily limit under BLM regulations encourages responsible collecting while allowing you to fill a quality collection in a single visit. Bring sturdy boots with good ankle support, as the terrain includes scattered rocks and uneven ground typical of volcanic terrain.",
+  "history": "Battle Mountain lies within the Battle Mountain Mining District, one of Nevada's historic precious metal exploration zones. The underlying geology was shaped by Tertiary-age rhyolitic volcanism (roughly 33-23 million years ago) that deposited extensive ashflow tuffs and lavas across the region. Subsequent mineral-rich hydrothermal fluids altered these volcanic rocks and created the agate, chalcedony, and jasper deposits accessible to collectors today. Small-scale mining activity and mineral prospects in the district reflect the region's long history of resource exploration.",
+  "tips": "Search along dry washes and eroded hillsides where weathering has exposed agate and jasper nodules; focus on areas with visible volcanic rock outcrops and reddish-stained soil indicating iron oxide alteration. Use a 5-gallon bucket and pick to carefully extract nodules from weathered zones without excessive hammering - many pieces can be pried free from loosely consolidated material. Look for translucent or banded chalcedony with reds, oranges, and browns; solid jasper typically appears opaque with bold color banding. The higher elevation means cooler mornings and afternoons - plan your collecting for late morning through mid-afternoon when visibility is best and temperatures are warmest.",
+  "terrain_notes": "Elevation 6,342 feet on gentle slopes with scattered volcanic rock outcrops and sagebrush-covered basins. Terrain is generally walkable but uneven with loose rock and exposed stones requiring careful footing. Distances from parking pullouts range from 0.25 to 1 mile depending on target area. Vegetation is sparse high-desert shrub typical of central Nevada. No developed trails; navigation is cross-country over open terrain.",
+  "best_season": "April - May and September - October. Spring offers moderate temperatures and accessible terrain before summer heat peaks at this elevation. Fall provides ideal collecting conditions after monsoon season clears debris and exposes fresh material. Winter snowfall can occur above 6,000 feet and may block access.",
+  "written_directions": "From Battle Mountain town center, take US 50 north approximately 8 miles. Turn northeast on a BLM access road (marked with standard BLM signage) and drive 3-4 miles on rough dirt to designated pullouts near active collection zones. Parking areas are unsigned; look for disturbed ground and vehicle tracks indicating collector presence. GPS waypoints: 40.532598, -117.115159 serves as the main collecting area hub.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough dirt BLM access road with moderate washboard; high-clearance passenger vehicle recommended but standard cars can navigate slowly. No permanent obstacles.",
+  "parking_notes": "Informal pullouts along BLM access road near collecting areas. No developed parking lot or facilities. Space for 3-5 vehicles at typical spots. No parking fees.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or power tools. All collecting must be done by hand tools only. Do not damage surrounding vegetation or undisturbed areas. Pack out all trash. Leave area as you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs per day maximum\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo damage to vegetation\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Battle Mountain town, 8-10 miles south. Limited services; nearest larger town with full amenities is Elko, approximately 60 miles northwest.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers with modest fitness. Rough dirt access road to parking; standard vehicles can navigate slowly. Uneven rocky footing throughout collecting area requires sturdy boots and careful attention. Not wheelchair accessible. Older children (8+) and adults can easily manage the terrain.",
+  "alternative_names": [],
+  "nearest_city": "Battle Mountain",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/battle-mountain-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/battle-mountain-nv/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates can you find rockhounding near Battle Mountain Nevada?",
+      "answer": "Battle Mountain produces fire agate, moss agate, and banded agate in shades of red, orange, brown, and cream. You'll also find chalcedony nodules with similar coloring and jasper with bold banding. Most specimens range from 1-4 inches; larger pieces are less common but possible. The best pieces show translucent zones when held to light."
+    },
+    {
+      "question": "Is Battle Mountain Nevada a free rockhounding site or are there fees?",
+      "answer": "Battle Mountain sits on BLM public land and is completely free - no permits, no entrance fees, no daily charges. You can collect up to 25 lbs per day under BLM regulations at no cost, making it one of Nevada's most accessible rockhounding destinations."
+    },
+    {
+      "question": "Can beginners rockhound at Battle Mountain and find good specimens?",
+      "answer": "Yes, Battle Mountain is ideal for beginners. The exposed volcanic terrain makes agates and jasper easy to spot, and the gentle slopes mean less strenuous hiking. You can find quality 1-3 inch pieces your first visit with basic hand tools like a geology pick and 5-gallon bucket."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Battle Mountain Nevada?",
+      "answer": "April - May and September - October offer the best collecting conditions with moderate temperatures and clear skies. Summer heat (above 85 degrees at 6,000+ feet) increases fatigue, while winter can bring snow. Fall collecting is especially productive after monsoon rains expose fresh material."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at Battle Mountain?",
+      "answer": "Bring a geology pick or small pry bar, 5-gallon bucket, sturdy hiking boots with ankle support, sunscreen, at least 2-3 liters of water per person, and a hat. A backpack and gloves are helpful for comfort and safety. A handheld GPS or phone with offline maps is useful since cell service is spotty."
+    },
+    {
+      "question": "How far do you have to hike from parking to rockhound at Battle Mountain?",
+      "answer": "Most productive collecting areas are 0.25 to 1 mile from parking pullouts, making it accessible for families with young children or limited mobility. Cross-country terrain is generally flat to gently sloping, and you can concentrate on nearby outcrops without extensive hiking."
+    }
+  ],
+  "meta_title": "Battle Mountain Rockhounding - Free Nevada Agate Collecting",
+  "meta_description": "Free BLM rockhounding for agate, jasper, and chalcedony near Battle Mountain Nevada. No permits required, 25 lb/day limit. Beginner-friendly collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city (inferred as Battle Mountain town itself)",
+    "written_directions (constructed from terrain data and standard NV geography)",
+    "geology_notes (synthesized from Basin and Range geological knowledge)"
+  ],
+  "enriched_at": "2026-04-22T06:43:37.907Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:03.231Z"
+}

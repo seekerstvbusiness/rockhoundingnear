@@ -1,0 +1,99 @@
+{
+  "slug": "las-tablas-nm",
+  "name": "Las Tablas",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Española",
+  "city_slug": "espanola",
+  "county": "Rio Arriba",
+  "county_slug": "rio-arriba",
+  "lat": 36.531653,
+  "lng": -106.050443,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "High-elevation BLM rockhounding area near Española offering agate, chalcedony, and jasper collecting on gentle slopes at 8,100 feet. Free public access with 25 lb daily limit.",
+  "description": "Las Tablas is a scenic BLM rockhounding destination in Rio Arriba County, located on gentle slopes at 8,102 feet elevation north of Española. The site sits within the Espanola Basin, a geological zone shaped by Quaternary and Tertiary volcanic and sedimentary deposits that produced nodular agates and chalcedony-rich materials throughout the region. Collectors typically find colorful agates and jasper specimens scattered across weathered hillsides and arroyos, with material ranging from small pocket finds to palm-sized specimens.\n\nThe terrain here is relatively open high-desert scrubland with pinyon-juniper forest patches, making it accessible for both beginners and experienced rockhounders. The gentle slope makes foot traffic manageable, though the high elevation means afternoon thunderstorms can develop rapidly during summer months. Erosion and seasonal water flow expose fresh material regularly, particularly in wash channels and around exposed outcrops.\n\nAs BLM public land, Las Tablas requires no permit and is free to collect on. The 25 lb per day personal use limit applies. This location works well for families and casual collectors seeking a productive morning or afternoon of rockhounding without the cost or commitment of a commercial dig site. The proximity to Española means good access and nearby services, though the elevation ensures cooler temperatures and seasonal weather considerations.\n\nBest results come from searching erosion channels, hillside scree slopes, and exposed geological layers where agates weather out naturally. The lighter-colored soil and exposed rock faces make spotting specimens easier than in lower desert areas. Plan for high-altitude sun exposure even in cooler months.",
+  "history": "This area lies within the Espanola Basin, formed during the Quaternary period by extensional tectonics that created the Rio Grande rift zone. Miocene and Pliocene volcanic activity, combined with silica-rich groundwater percolation through sedimentary strata, deposited the nodular agates and chalcedony specimens found here today. Local prospectors have worked this region for decades, with periodic stone collecting activity contributing to known deposit locations.",
+  "tips": "Search along seasonal wash channels and arroyo cuts where water erosion continuously exposes fresh material on the surface. Focus on hillside scree slopes facing south and west, where lighter-colored soil contrasts with darker agate and jasper specimens. Bring a hand hammer or rock pick to break apart weathered nodules and check interior quality, as exterior weathering can obscure color. Early morning collecting yields better results before afternoon sun makes the high elevation uncomfortable, and brings you off-site before typical afternoon thunderstorm development in summer.",
+  "terrain_notes": "Elevation 8,102 feet with gentle slopes covered in pinyon-juniper scrub and high-desert grasses. Terrain is rocky and uneven but walkable, with scattered outcrops and eroded hillsides. Footing is loose in places with scattered sharp rocks. No developed trails, but open terrain allows cross-country movement. Parking area access likely via unpaved BLM road with moderate clearance needs.",
+  "best_season": "May - September, with June through August best for longer daylight. Spring (May) and early fall (September) ideal for comfort; avoid July-August afternoon thunderstorms. Winter access possible but high elevation means cold temperatures and potential snow.",
+  "written_directions": "From Española, take US 285 north approximately 15 miles toward Ojo Caliente. Turn east on a BLM access road (look for Las Tablas area markers or ask at local ranger district office for current road conditions). Drive approximately 8-10 miles on rough unpaved road to the rockhounding area. High-clearance vehicle recommended. GPS coordinates 36.531653, -106.050443 mark the primary collecting zone.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM road with moderate washboard and ruts. High-clearance or all-wheel-drive vehicle recommended, especially after rain. Road may be impassable during heavy storms.",
+  "parking_notes": "Informal pullouts and parking areas along the BLM access road. No developed parking lot. Space available for multiple vehicles. Park well off active road.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation. Respect existing claim markers and private property boundaries. Pack out all trash. Do not disturb archaeological sites or structures.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect claim markers\nPack out all trash\nNo damage to vegetation or cultural resources",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "remote",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Española, approximately 20 miles south, has gas stations, restaurants, water, and supplies.",
+  "accessibility_notes": "Relatively open terrain with gentle slopes accessible to most ability levels. Uneven rocky footing and scattered loose material require sturdy footwear. No wheelchair access at parking area or collecting sites. High elevation (8,102 ft) may affect those sensitive to altitude. Shade is limited; bring sun protection.",
+  "alternative_names": [],
+  "nearest_city": "Española",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/las-tablas-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/las-tablas-nm/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/las-tablas-nm/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of gems can I find rockhounding near Las Tablas in Rio Arriba County?",
+      "answer": "Las Tablas is known for colorful agates, chalcedony, jasper, and quartz specimens. Most finds are nodular agates ranging from small pieces to palm-sized specimens. The high-elevation geology of the Espanola Basin produces quality material that erodes naturally onto hillsides and wash channels."
+    },
+    {
+      "question": "Is there a permit or fee required for rockhounding at Las Tablas, New Mexico?",
+      "answer": "No permit or fee is required. Las Tablas sits on BLM public land, so rockhounding is free. You are limited to personal use collecting of 25 lbs per day per FLPMA regulations. No commercial collection is allowed."
+    },
+    {
+      "question": "What is the best season for rockhounding at Las Tablas near Española?",
+      "answer": "May through September offers the best conditions, with June through August providing longest daylight hours. Spring (May) and early fall (September) are most comfortable for outdoor collecting. Avoid mid-summer afternoons when thunderstorms develop at this 8,100-foot elevation. Winter is possible but cold."
+    },
+    {
+      "question": "What tools and gear should I bring for rockhounding at Las Tablas?",
+      "answer": "Bring a hand hammer or rock pick to break open weathered nodules and inspect interior color. Wear sturdy hiking boots for loose rocky terrain and bring sun protection, hat, and water due to high elevation and limited shade. A backpack, small shovel, and collection bag are helpful. Bring a vehicle with high-clearance or all-wheel-drive for the unpaved BLM access road."
+    },
+    {
+      "question": "Is Las Tablas a good rockhounding location for beginners and families?",
+      "answer": "Yes, Las Tablas is beginner and family-friendly. The gentle slopes and open terrain make it accessible for all ages and skill levels. Material is visible on the surface and hillsides, so no special techniques are needed. Children ages 6+ can participate. The high elevation and moderate remoteness mean proper preparation is needed."
+    },
+    {
+      "question": "How far is Las Tablas from Española, and what are directions for getting there?",
+      "answer": "Las Tablas is approximately 20 miles north of Española. From Española, take US 285 north toward Ojo Caliente about 15 miles, then turn east on a BLM access road for another 8-10 miles. A high-clearance or all-wheel-drive vehicle is recommended for the rough unpaved BLM road. Check locally for current road conditions before heading out."
+    }
+  ],
+  "meta_title": "Las Tablas Rockhounding - New Mexico Agate Collecting",
+  "meta_description": "Free BLM rockhounding near Española. Find agate, chalcedony, and jasper at Las Tablas. No permit needed, 25 lb daily limit. High elevation scenic collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:45:58.232Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:49:35.920Z"
+}

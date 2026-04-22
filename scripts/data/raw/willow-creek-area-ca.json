@@ -1,0 +1,65 @@
+{
+  "slug": "willow-creek-area-ca",
+  "name": "Willow Creek area",
+  "lat": 35.892158,
+  "lng": -121.461307,
+  "state": "California",
+  "state_slug": "california",
+  "state_code": "CA",
+  "city": "Monterey County",
+  "city_slug": "monterey-county",
+  "county": "Monterey",
+  "county_slug": "monterey",
+  "geocoded_city": "Monterey County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-california.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Willow%20Creek%20area%20California"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Willow%20Creek%20area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Willow%20Creek%20area%20California"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 10,
+      "meters": 3
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:20:22.001Z"
+  },
+  "scraped_at": "2026-04-21T19:20:22.002Z",
+  "scrape_quality": "partial"
+}

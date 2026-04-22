@@ -1,0 +1,60 @@
+{
+  "slug": "pigeon-point-mn",
+  "name": "Pigeon Point",
+  "lat": 48.002969,
+  "lng": -89.497243,
+  "state": "Minnesota",
+  "state_slug": "minnesota",
+  "state_code": "MN",
+  "city": "Cook County",
+  "city_slug": "cook-county",
+  "county": "Cook",
+  "county_slug": "cook",
+  "geocoded_city": "Cook County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-minnesota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pigeon%20Point%20Minnesota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pigeon%20Point",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pigeon%20Point%20Minnesota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 620,
+      "meters": 189
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:01:06.789Z"
+  },
+  "scraped_at": "2026-04-21T18:01:06.789Z",
+  "scrape_quality": "minimal"
+}

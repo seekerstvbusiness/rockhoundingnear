@@ -1,0 +1,97 @@
+{
+  "slug": "fish-springs-ut",
+  "name": "Fish Springs",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Juab County",
+  "city_slug": "juab-county",
+  "county": "Juab",
+  "county_slug": "juab",
+  "lat": 39.852425,
+  "lng": -113.45411,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Free BLM rockhounding near Delta, Utah featuring agate, chalcedony, and jasper specimens. Public land with no permit required and daily collection limits.",
+  "description": "Fish Springs is a productive rockhounding location on public BLM land in Juab County, offering easy access to quality agate, chalcedony, and jasper specimens. This site sits within Utah's Basin and Range province, where ancient volcanic activity and silica-rich mineral deposits have created ideal conditions for gem formation. The area is popular with both beginners and experienced rockhounders seeking colorful specimens without expensive fees or permit hassles. The surrounding terrain features typical high desert landscape with scattered rocks, washes, and low vegetation making it accessible year-round weather permitting. Fish Springs is well-suited for families and casual collectors looking for a rewarding day of public land rockhounding near the small town of Delta.",
+  "history": "This region sits within the Basin and Range province where Miocene-era volcanic activity and hydrothermal processes deposited silica-rich fluids that crystallized into the agate and chalcedony nodules found here today. The area has been a productive rockhounding destination for Utah collectors for decades, with specimens continuing to weather out of surrounding slopes and wash beds.",
+  "tips": "Search the washes and low hillsides where water erosion exposes fresh specimens - look for the characteristic banded patterns of agates and chalcedony in cream, white, and tan colors. Bring a 5-gallon bucket and hand tools like a rock hammer and chisel to extract specimens efficiently while staying within the 25-pound daily limit. Early morning visits in spring or fall offer the best conditions for spotting specimens and avoiding intense heat; focus on areas where recent runoff has disturbed soil and exposed new material.",
+  "terrain_notes": "Elevation approximately 5,200 feet in high desert terrain with scattered juniper and sagebrush. Terrain is gently rolling with sandy and rocky footing. Walking distances from parking are typically under 1 mile to productive collecting areas. Footing is uneven with scattered rocks and minor grade changes, suitable for moderate mobility.",
+  "best_season": "October - April",
+  "written_directions": "From Delta, Utah, take US 50 east toward Fish Springs. Continue approximately 25 miles on US 50. Look for BLM access points and informal pullouts along the highway corridor near Fish Springs. The location is accessible via short walks from roadside parking areas. GPS coordinates 39.852425, -113.45411 mark the general collecting area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 50 is paved. Informal pullouts may have rough or unpaved surfaces. High-clearance vehicles recommended for exploring secondary access roads.",
+  "parking_notes": "Informal pullouts along US 50 corridor near Fish Springs. No designated lot. Space is limited; plan to park along road shoulder or in small cleared areas. Arrive early during peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Specimens must be hand-collected. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo power tools\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Delta, Utah approximately 25 miles west via US 50. Fuel, food, and water available in Delta.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers with moderate mobility. Unpaved parking pullouts. Uneven rocky footing in collecting areas but no significant elevation gain. Sturdy footwear recommended. Short walking distances from parking.",
+  "alternative_names": [],
+  "nearest_city": "Delta",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/fish-springs-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Fish Springs rockhounding site near Delta, Utah?",
+      "answer": "Fish Springs is known for agate, chalcedony, and jasper specimens. You will find colorful banded agates in cream, white, and tan tones, plus quality chalcedony. Specimens range from small pebbles to larger pieces suitable for cutting and polishing. The high desert geology here produces consistent quality material."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Fish Springs, Utah?",
+      "answer": "No permit is required at Fish Springs because it is public BLM land. You can collect for free under personal use guidelines. You are limited to 25 pounds per day per FLPMA regulations. No fees or advance paperwork needed - just show up and start collecting."
+    },
+    {
+      "question": "What is the best time to go rockhounding at Fish Springs in Utah?",
+      "answer": "October through April offers ideal conditions at Fish Springs. The high desert climate makes summer heat (May-September) challenging with temperatures often exceeding 90 degrees. Winter is mild at 5,200 feet elevation. Fall and spring provide comfortable temperatures and often expose fresh specimens after seasonal rainfall."
+    },
+    {
+      "question": "How far is Fish Springs from Delta, Utah and what tools do I need?",
+      "answer": "Fish Springs is approximately 25 miles east of Delta via US 50. For collecting, bring a rock hammer, chisel, and 5-gallon bucket to stay within the 25-pound limit. A small screen or classifier helps sort specimens. Wear sturdy boots for uneven terrain and bring sun protection for the high desert environment."
+    },
+    {
+      "question": "Is Fish Springs good for beginner rockhounders and families?",
+      "answer": "Yes, Fish Springs is an excellent beginner location. The terrain is relatively easy with short walking distances from parking areas. No special skills or equipment required to find quality specimens. Kids ages 6 and up can participate safely. Free public access and no permits make it a low-pressure introduction to rockhounding."
+    },
+    {
+      "question": "Can I bring my dog to Fish Springs rockhounding area?",
+      "answer": "Yes, dogs are allowed at Fish Springs on public BLM land. Keep your dog under control and watch for desert wildlife including snakes, particularly during warmer months. Bring plenty of water for both you and your pet, as the high desert offers minimal shade. Clean up after your dog and pack out all trash."
+    }
+  ],
+  "meta_title": "Fish Springs Rockhounding - Utah Agate & Chalcedony",
+  "meta_description": "Free BLM rockhounding near Delta, Utah. Find agate, chalcedony, and jasper. No permit required. Personal use collecting. Visit today!",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "written_directions",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:50:26.273Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:57:05.203Z"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "marfa-and-ft-davis-tx",
+  "name": "Marfa and Ft. Davis",
+  "lat": 30.451135,
+  "lng": -103.98211,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Jeff Davis County",
+  "city_slug": "jeff-davis-county",
+  "county": "Jeff Davis",
+  "county_slug": "jeff-davis",
+  "geocoded_city": "Jeff Davis County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Marfa%20and%20Ft.%20Davis%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Marfa%20and%20Ft.%20Davis",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Marfa%20and%20Ft.%20Davis%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:39:59.406Z"
+  },
+  "scraped_at": "2026-04-21T18:39:59.406Z",
+  "scrape_quality": "minimal"
+}

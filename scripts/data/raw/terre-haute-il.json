@@ -1,0 +1,60 @@
+{
+  "slug": "terre-haute-il",
+  "name": "Terre Haute",
+  "lat": 40.655778,
+  "lng": -90.980023,
+  "state": "Illinois",
+  "state_slug": "illinois",
+  "state_code": "IL",
+  "city": "Henderson County",
+  "city_slug": "henderson-county",
+  "county": "Henderson",
+  "county_slug": "henderson",
+  "geocoded_city": "Terre Haute",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-illinois.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Terre%20Haute%20Illinois"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Terre%20Haute",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Terre%20Haute%20Illinois"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 670,
+      "meters": 204
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:54:44.057Z"
+  },
+  "scraped_at": "2026-04-21T16:54:44.058Z",
+  "scrape_quality": "minimal"
+}

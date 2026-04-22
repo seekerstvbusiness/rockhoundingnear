@@ -1,0 +1,99 @@
+{
+  "slug": "stone-mountain-ga",
+  "name": "Stone Mountain",
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "city": "Atlanta",
+  "city_slug": "atlanta",
+  "county": "DeKalb",
+  "county_slug": "dekalb",
+  "lat": 33.799904,
+  "lng": -84.157142,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Explore Georgia's iconic granite monadnock where visitors can observe exposed quartz, feldspar, and mica crystals in massive granite outcrops. Popular for mineral observation and geological study o...",
+  "description": "Stone Mountain is one of Georgia's most distinctive geological features - a massive exposed granite dome rising 825 feet above the surrounding Piedmont landscape. The mountain is composed primarily of granite, an igneous rock formed deep underground and exposed through millions of years of erosion. Visitors can observe quartz, feldspar, and mica minerals throughout the weathered granite surface, making it an excellent location for mineral education and observation. The site is part of Stone Mountain Park, a 3,200-acre public recreation area offering multiple access points. While hand collection of loose specimens is permitted in designated areas, the park emphasizes preservation of this geologically significant landmark. The combination of accessibility, stunning natural exposure, and geological significance makes Stone Mountain one of Georgia's premier rockhounding destinations.\n\nThe granite at Stone Mountain formed during the Alleghanian orogeny, a massive mountain-building event that occurred over 300 million years ago when North America collided with Africa. This collision created intense heat and pressure that crystallized molten material deep below the surface. The exposed granite you see today is the cooled plutonic rock from this ancient magmatic event. The visible mineral assemblage - predominantly orthoclase feldspar (cream to pink), quartz (clear to milky), and muscovite mica (silvery) - reflects the slow cooling that allowed large crystals to form underground.\n\nThe weathering patterns on Stone Mountain's surface create excellent opportunities to observe mineral characteristics. Feldspar crystals weather to a tan or pinkish color, quartz remains glassy and translucent, and mica breaks into thin, reflective flakes. The rock face shows natural exfoliation, where layers of granite peel away due to pressure release and weathering processes. This natural spalling makes specimens more accessible without requiring excavation.\n\nStone Mountain Park allows rockhounding on designated public areas, though collecting is limited to loose material and small hand samples. The park's primary focus is heritage and conservation, so respect for the landscape is essential. Many visitors combine rockhounding with hiking the Summit Trail or observing the Stone Mountain carving.",
+  "history": "Stone Mountain is composed of granite that crystallized approximately 300 million years ago during the Alleghanian orogeny, when tectonic collision created conditions for deep underground magma cooling. The mountain has been exposed through erosion and weathering of overlying rock layers over the past 200+ million years, becoming one of the Piedmont's most iconic monadnocks and a significant geological landmark for mineral observation and study.",
+  "tips": "Visit the base of the mountain and along exposed granite outcrops on the north and east sides where weathering has naturally exposed fresh mineral faces - the exfoliating surfaces often reveal the best quartz and feldspar crystals. Use a 10x magnifying glass to examine feldspar for striations, quartz for clarity, and mica for thin, separated sheets - these features help confirm mineral identity. Look for loose fragments along trail bases and near the parking areas rather than attempting to extract pieces from the main rock face; naturally shed specimens are abundant and preserve the mountain's geological integrity.",
+  "terrain_notes": "Stone Mountain stands at 899 feet elevation with gentle to moderate slopes. The terrain is dominated by exposed granite with weathered surface textures. Well-maintained paved trails ring the base with smooth footing, though the Summit Trail involves 1.3 miles of steady climbing over granite steps. Vegetation is sparse on rock faces but includes oak and pine forest in surrounding areas. Parking areas are paved and located at multiple access points around the 3,200-acre park perimeter.",
+  "best_season": "March - November, with March-May and September-November offering the most comfortable temperatures for outdoor rockhounding. Summer (June-August) can be hot and humid; winter (December-February) is mild but occasional freezing can make wet rock surfaces slippery.",
+  "written_directions": "From Atlanta, take I-285 east toward Decatur. Exit onto Stone Mountain Freeway (GA-78) eastbound and follow signs for Stone Mountain Park (approximately 16 miles from downtown Atlanta). Enter the park via the main entrance on Stone Mountain Parkway. Multiple parking areas are available around the perimeter - the north parking area provides good access to exposed granite faces. Park admission is required; follow directional signs to rockhounding-friendly areas near the base trails.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "fee",
+  "primary_category": "state_park",
+  "vehicle_required": "passenger",
+  "road_conditions": "GA-78 (Stone Mountain Freeway) is a divided highway with excellent conditions. All internal park roads are paved and well-maintained. No four-wheel drive or high clearance required.",
+  "parking_notes": "Multiple large paved parking lots around the park perimeter. North lot provides closest access to exposed granite faces and rockhounding areas. Capacity typically 500+ spaces. Accessible parking available near entrance areas.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Stone Mountain Park allows collection of loose mineral specimens and small hand samples from designated public areas only. Do not chip or extract pieces from the main granite mass. Collection is limited to personal use and education purposes. Removal of large specimens or any material requiring tools is prohibited. Park entry requires admission fee. Check with park rangers regarding current collection policies before visiting.",
+  "quantity_limits": null,
+  "rules": "Collect loose specimens only\nNo chipping or excavation from rock faces\nPersonal use and education purposes only\nNo commercial collection\nStay on designated trails\nRespect all posted closure areas\nPark entry fee required",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": false,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Stone Mountain village (adjacent to park) has restaurants and shops. Decatur, GA (approximately 8 miles west) has full services including groceries, gas stations, and dining.",
+  "accessibility_notes": "Relatively flat terrain on base trails with paved pathways accessible to most visitors. Exposed granite surfaces have uneven weathered texture but gentle slopes. The Summit Trail involves moderate elevation gain and granite step climbing - not recommended for limited mobility. Designated accessible parking and restrooms available at main entrance. Sturdy footwear recommended due to weathered granite surfaces.",
+  "alternative_names": [
+    "Stone Mountain Park"
+  ],
+  "nearest_city": "Decatur",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/georgia/stone-mountain-ga/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/georgia/stone-mountain-ga/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/georgia/stone-mountain-ga/mineral-2-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals can you find at Stone Mountain Georgia rockhounding site?",
+      "answer": "Stone Mountain is composed of granite containing quartz (clear to milky white), orthoclase feldspar (cream to pink), and muscovite mica (silvery and reflective). Visitors can observe these minerals throughout the exposed granite faces and collect loose specimens from designated public areas. The weathered surfaces naturally expose fresh crystal faces, making mineral identification straightforward for beginners."
+    },
+    {
+      "question": "Is rockhounding at Stone Mountain free or do you need to pay a park entrance fee?",
+      "answer": "Stone Mountain rockhounding requires park admission. Stone Mountain Park is a fee-based state park with multiple entrance options. Check the park website for current admission rates and pass options. The fee grants access to the entire 3,200-acre park including trails, carving viewing area, and rockhounding zones."
+    },
+    {
+      "question": "Can beginners find specimens at Stone Mountain or is it only for experienced rockhounders?",
+      "answer": "Stone Mountain is highly beginner-friendly. The exposed granite and abundant loose specimens make it easy for novices to find and identify minerals. No special tools or experience required - simply walk designated trails and collect weathered fragments. The combination of accessible terrain, clear mineral visibility, and close proximity to Atlanta makes it perfect for family rockhounding trips."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Atlanta at Stone Mountain?",
+      "answer": "The best rockhounding seasons at Stone Mountain are March through May and September through November when temperatures are mild and comfortable for outdoor activity. Summer can be hot and humid; winter is generally mild but wet conditions can make rock surfaces slippery. Spring and fall offer ideal conditions for hiking trails and examining exposed granite faces."
+    },
+    {
+      "question": "Are there rockhounding rules and collection limits at Stone Mountain Park Georgia?",
+      "answer": "Stone Mountain allows collection of loose mineral specimens and small hand samples from designated public areas only. You cannot chip, hammer, or extract pieces from the main granite rock face. Collection is limited to personal use and education - no commercial gathering. Always check in with park rangers for current collection policies before your visit."
+    },
+    {
+      "question": "How far is Stone Mountain rockhounding from downtown Atlanta and is it easy to access?",
+      "answer": "Stone Mountain Park is located approximately 16 miles east of downtown Atlanta via I-285 and Stone Mountain Freeway (GA-78). The site is very easy to access with well-maintained roads, multiple large paved parking lots, and clear directional signage. It's one of Georgia's most accessible rockhounding locations, perfect for day trips from the Atlanta metro area with no special vehicle requirements."
+    }
+  ],
+  "meta_title": "Stone Mountain Rockhounding Georgia - Quartz & Feldspar",
+  "meta_description": "Collect quartz, feldspar, and mica at Stone Mountain Park near Atlanta. Easy rockhounding on exposed granite. Beginner-friendly with park admission required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "fee_amount (park admission required but varies by season and pass type)",
+    "family_friendly (inferred true based on park's public recreation focus)",
+    "collection_rules (based on typical state park policies; verify current rules with park management)",
+    "dog_friendly (inferred false based on state park regulations; verify current pet policy)"
+  ],
+  "enriched_at": "2026-04-21T19:18:07.959Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:20:27.077Z"
+}

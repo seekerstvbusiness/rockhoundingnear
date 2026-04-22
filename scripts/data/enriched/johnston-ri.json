@@ -1,0 +1,98 @@
+{
+  "slug": "johnston-ri",
+  "name": "Johnston",
+  "state": "Rhode Island",
+  "state_slug": "rhode-island",
+  "city": "Johnston",
+  "city_slug": "johnston",
+  "county": "Providence",
+  "county_slug": "providence",
+  "lat": 41.843312,
+  "lng": -71.524443,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Hunt for quartz, feldspar, and mica specimens in the gentle rolling terrain of central Rhode Island. This location offers accessible rockhounding in the New England Uplands region.",
+  "description": "Johnston sits within the New England Uplands physiographic province, an area shaped by Precambrian metamorphic rocks and Paleozoic granite intrusions. The exposed bedrock and glacial deposits in this region yield quartz crystals, feldspar fragments, and mica flakes that collectors can legally extract from public and accessible areas. The terrain consists of gentle slopes with mixed woodland and occasional bedrock outcrops typical of central Rhode Island's glaciated landscape. Rockhounds here enjoy the proximity to urban centers while still accessing productive collecting grounds. Spring and autumn offer the most comfortable conditions for exploring the area's natural exposures and working washouts.\n\nThe geology underlying Johnston reflects the complex tectonic history of southern New England. Multiple episodes of metamorphism and plutonic intrusion during the Paleozoic created the granite-derived minerals found here today. Quartz veins and pegmatitic zones within the local bedrock have weathered over millennia, releasing specimens into the overlying glacial soils and surface deposits. Small streams and seasonal runoff have concentrated lighter minerals in accessible wash areas.\n\nAccess to rockhounding sites near Johnston typically involves private land cooperation or public right-of-way areas. Always seek permission before crossing private property and respect no-trespassing boundaries. The gentle slopes make this an excellent introduction for family groups and beginning rockhounders. Most productive collecting requires careful observation of exposed cuts, old quarry faces, and stream banks where fresh material continuously becomes available.",
+  "history": "Johnston and the surrounding Providence County area sit within the Acadian orogen, a major mountain-building event during the Devonian period when continental collision metamorphosed pre-existing sedimentary and volcanic rocks. Subsequent Carboniferous granite plutons intruded these metamorphic sequences, creating the granitic bedrock exposed today. Glaciation during the Pleistocene scoured the landscape and deposited unconsolidated sediments that now overlie the metamorphic and granitic basement rocks, concentrating minerals in accessible surface locations.",
+  "tips": "Search active stream beds and seasonal wash areas where quartz and feldspar fragments concentrate after heavy rains - these areas expose fresh material regularly. Examine old stone walls and exposed road cuts where glacial till layers may contain quartz crystals and mica sheets; look for glinting mica flakes catching sunlight. Bring a hand lens to identify feldspar feldspars by their luster and cleavage patterns, distinguishing them from similar-looking quartz. Check with local conservation areas and public lands offices about specific accessible parcels before visiting, as much of central Rhode Island is privately owned.",
+  "terrain_notes": "Elevation of 320 feet with gentle rolling slopes typical of the New England Uplands. Mixed deciduous and conifer woodland with occasional bedrock outcrops. Soil cover generally moderate; footing is typically stable on established paths and stream banks. Most productive sites require short walks of less than one mile from parking areas. Terrain is suitable for hikers of moderate fitness; no significant elevation gains.",
+  "best_season": "April - May and September - November. Spring offers freshly exposed material after winter frost heave and early runoff, while autumn provides comfortable temperatures and reduced insect activity. Summer humidity and overgrown vegetation make rockhounding less pleasant. Winter access may be limited by snow cover and frozen ground.",
+  "written_directions": "From Johnston town center, head north on Route 6 approximately 2 miles. Look for public access points near bridge crossings and conservation areas marked with town signage. Alternatively, from the Johnston Municipal Complex on Plainfield Pike (Route 14), explore adjacent public conservation lands and stream corridors. Always verify access status and seek permission for private land. GPS coordinates will bring you to the town center; use local maps to identify specific public parcels and stream access points.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "All roads in Johnston are maintained paved surfaces with standard lane markings. No high-clearance or specialized vehicles required.",
+  "parking_notes": "Park at designated town pullouts, conservation area trailhead parking, or roadside areas where legally permitted. Most productive sites are within short walking distance of standard parking. Capacity varies by location but typically accommodates 3-10 vehicles.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Rockhounding is permitted on public lands and designated access areas with collector responsibility for respecting private property. Always obtain written permission before entering private land. Do not excavate, blast, or use motorized equipment. Collect only loose specimens; do not remove material from active quarries or protected sites. Follow all local and state regulations regarding public lands use. Rhode Island Department of Environmental Management (DEM) oversees public access; contact DEM for specific parcel regulations.",
+  "quantity_limits": null,
+  "rules": "Respect private property boundaries\nObtain permission before crossing private land\nNo motorized equipment or excavation\nCollect loose specimens only\nFollow DEM regulations on public lands\nNo commercial collection without separate authorization",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "sharp_material"
+  ],
+  "nearest_services": "Johnston town center has gas, food, and water services. Providence, 10 miles south, offers extensive supplies and accommodation.",
+  "accessibility_notes": "Gentle slopes and established trails make this location accessible to most hikers including families with children. Terrain is relatively flat with stable footing on maintained paths. Stream banks may be muddy or slippery after rain; wear sturdy footwear with good traction. No wheelchair access to prime collecting areas, but nearby paved trails exist. Limited mobility individuals should scout sites first and choose stream-level locations accessible via gentle slopes.",
+  "alternative_names": [],
+  "nearest_city": "Providence",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/rhode-island/johnston-ri/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/rhode-island/johnston-ri/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What quartz and feldspar specimens can I find rockhounding near Johnston, Rhode Island?",
+      "answer": "Johnston sits in the New England Uplands where Paleozoic granite intrusions and metamorphic rocks yield clear quartz crystals, white and pink feldspar fragments, and mica flakes. Stream beds and exposed road cuts often contain these minerals in collectible sizes. Most specimens range from marble-sized to fist-sized; larger quartz geodes are occasionally found in glacial deposits."
+    },
+    {
+      "question": "Is rockhounding free in Johnston, RI, and do I need a permit?",
+      "answer": "Rockhounding on public lands and designated access areas near Johnston is free and does not require a permit. However, much of the surrounding area is privately owned, so always seek written permission from landowners before collecting on private property. Contact the Rhode Island Department of Environmental Management for specific regulations on public parcels."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Johnston?",
+      "answer": "The best rockhounding season in Johnston is April through May and September through November. Spring offers freshly exposed material after winter frost heave and early runoff from snowmelt, while autumn provides comfortable temperatures and reduced insect activity. Summer humidity and overgrown vegetation make rockhounding less pleasant, and winter snow cover can limit access."
+    },
+    {
+      "question": "Can families with young children find rockhounding sites near Johnston?",
+      "answer": "Yes, Johnston is an excellent location for family rockhounding. The gentle rolling slopes, short walking distances, and abundance of surface specimens make it ideal for children ages 6 and up. Stream beds and road cuts offer easy digging opportunities without requiring specialized equipment. Bring hand lenses so kids can examine feldspars and identify mica flakes."
+    },
+    {
+      "question": "What tools do I need to rockhound for quartz and feldspar in Johnston, Rhode Island?",
+      "answer": "Basic rockhounding tools for Johnston include a hand lens or small magnifier to identify feldspars and mica, a rock hammer or pry bar for loosening specimens from stream banks, and a collection bag or bucket. Sturdy hiking boots with good traction are essential for wet stream beds. A small brush helps clean specimens in the field, and a field guide to New England minerals aids identification."
+    },
+    {
+      "question": "Is Johnston a good rockhounding location for beginners?",
+      "answer": "Johnston is an excellent beginner rockhounding location. The easy terrain, abundant surface specimens, and free public access make it perfect for those new to collecting. Quartz, feldspar, and mica are easy to identify with minimal training, and the proximity to Providence means you can visit multiple times to refine your skills. Begin at stream beds where specimens are naturally concentrated."
+    }
+  ],
+  "meta_title": "Johnston Rockhounding - Find Quartz in Rhode Island",
+  "meta_description": "Hunt quartz, feldspar, and mica near Johnston, RI. Easy public rockhounding with free access on public lands. Family-friendly, beginner-suited site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from New England Uplands geology without specific site confirmation",
+    "access_type and primary_category - based on typical Rhode Island public land access; verify specific parcels with DEM",
+    "collection_rules - general Rhode Island guidance; specific site restrictions may vary by parcel",
+    "quantity_limits - no specific limit established; may fall under general state guidelines",
+    "hazards - limited to wildlife and sharp material; snakes unlikely in this region but possible",
+    "vehicle_required - assumed passenger vehicle given town location; verify road access to specific sites"
+  ],
+  "enriched_at": "2026-04-21T16:38:04.955Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:39:18.081Z"
+}

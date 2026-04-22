@@ -1,0 +1,100 @@
+{
+  "slug": "moscow-id",
+  "name": "Moscow",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Moscow",
+  "city_slug": "moscow",
+  "county": "Latah",
+  "county_slug": "latah",
+  "lat": 46.792698,
+  "lng": -117.039487,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper"
+  ],
+  "short_description": "BLM public land near Moscow offering free rockhounding for quartz, chalcedony, and agate. Gentle slopes and easy access make this ideal for beginners exploring Idaho's volcanic geology.",
+  "description": "The Moscow area sits within the Blue Mountains region of north-central Idaho, an area shaped by Miocene-era volcanic activity and subsequent mineralization. This BLM public land site provides excellent free rockhounding opportunities for collectors seeking quartz varieties, chalcedony, and jasper specimens. The gentle terrain and proximity to town make it an accessible destination for families and novice rockhounders learning to identify Idaho minerals in their natural context.\n\nGeologically, this region represents part of the Wallowa-Baker terrane, where ancient volcanic rocks have undergone alteration and weathering to expose quartz-rich mineral deposits. The exposed hillsides and wash areas reveal specimens that eroded from the parent rock, making surface collecting straightforward without requiring deep excavation.\n\nExpect to find small to medium-sized quartz clusters, translucent chalcedony nodules, and banded agate specimens scattered across the gentle slopes. The area's accessibility by passenger vehicle and short walking distances make it practical for day trips from Moscow or the surrounding Latah County communities.\n\nThis location is best visited during the drier months when trails are well-defined and footing is secure. The combination of free access, beginner-friendly terrain, and reliable mineral finds makes Moscow BLM land a solid choice for families introducing children to rockhounding.",
+  "history": "The Moscow area lies within the Blue Mountains volcanic province, where Miocene-age volcanic eruptions (roughly 25-17 million years ago) deposited silica-rich rhyolites and related rocks. Subsequent weathering and hydrothermal alteration created the quartz and chalcedony deposits found here today, with specimens concentrated along washes and eroded hillsides where they naturally accumulate.",
+  "tips": "Search the gentle slopes and erosion washes on the south and west-facing sides where weathering concentrates lighter-colored specimens. Bring a hand lens to examine the fine banding and patterns in agate and chalcedony - specimens are often small but abundant. Look for translucent to milky quartz pieces in the loose soil and rock fragments, particularly after seasonal rainfall washes fresh material downslope. A small digging bar or chisel works well for extracting partially buried specimens from the softer volcanic matrix without excessive effort.",
+  "terrain_notes": "Elevation 2777 feet with gentle slopes throughout the collecting area. Terrain consists of volcanic rock exposures and loose talus scattered across open hillsides with scattered low vegetation. Most productive collecting areas are within 0.5 to 1 mile of parking areas. Footing is generally secure on packed earth and stable rock; wear sturdy hiking boots to avoid rolling ankles on loose fragments. No significant elevation changes make this accessible to most fitness levels.",
+  "best_season": "May - September",
+  "written_directions": "From Moscow, drive south on Highway 95 approximately 8 miles. Turn east onto Forest Road 621 (watch for BLM public land signs). Continue on the unpaved road for approximately 3 miles to a parking pullout on the south side near visible rock exposures. The collecting area begins immediately adjacent to the pullout and extends across the gentle slopes to the east and south.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved but well-maintained forest road; suitable for passenger vehicles in dry conditions. May be rough or impassable during heavy rain or snow. High-clearance advised for comfort but not required.",
+  "parking_notes": "Small dirt pullout accommodating 3-4 vehicles near the main rock exposures. No developed facilities. Space is limited; arrive early on weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect only loose specimens and fragments; do not damage parent rock or living vegetation. Pack out all trash. Leave gates as you find them.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation\nNo damage to parent rock or vegetation\nPack out all trash\nLeave gates as found",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "wildlife",
+    "cold"
+  ],
+  "nearest_services": "Moscow, approximately 8 miles north. Full services including gas, restaurants, lodging, and grocery stores available.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers and families. Unpaved road to parking area is passable by passenger vehicle in dry conditions. Stable footing on packed earth and rocks throughout the main collecting area. No wheelchair accessibility due to unpaved terrain, but able-bodied hikers of all experience levels can manage the site easily.",
+  "alternative_names": [
+    "Latah County BLM Rockhounding"
+  ],
+  "nearest_city": "Moscow",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/moscow-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/moscow-id/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems and minerals can you find rockhounding near Moscow, Idaho on BLM land?",
+      "answer": "The Moscow BLM area is known for quartz, chalcedony, agate, and jasper specimens. Most finds are small to medium-sized pieces scattered across the gentle slopes and washes. Translucent to milky quartz clusters and banded agate nodules are the most common discoveries."
+    },
+    {
+      "question": "Is there a permit required for free rockhounding on Moscow BLM public land?",
+      "answer": "No permit is required for personal use rockhounding on this BLM land. You can collect for free under FLPMA regulations with a 25 lb per day limit. Commercial collection is not allowed."
+    },
+    {
+      "question": "What is the best time of year for rockhounding in the Moscow, Idaho area?",
+      "answer": "May through September offers the best conditions, with dry trails, stable footing, and accessible unpaved roads. Winter snow and spring mud can make the forest road difficult to navigate, while fall weather becomes increasingly unpredictable."
+    },
+    {
+      "question": "Can beginners and families find success rockhounding at Moscow BLM?",
+      "answer": "Yes, this is an ideal beginner and family location. The gentle slopes, easy access by passenger vehicle, and abundant surface specimens make it perfect for introducing children to rockhounding. Most valuable specimens are visible without deep digging."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding near Moscow, Idaho?",
+      "answer": "Basic tools include a hand lens for examining banding patterns, a small digging bar or chisel for extracting partially buried specimens, a collection bag, and sturdy hiking boots. A 5-gallon bucket helps carry specimens, and bring plenty of water as the site offers no shade or services."
+    },
+    {
+      "question": "How far is Moscow BLM rockhounding from town and what are parking conditions like?",
+      "answer": "The main collecting area is approximately 8 miles south of Moscow via Highway 95 and Forest Road 621. Parking is available at a small dirt pullout accommodating 3-4 vehicles near rock exposures. Arrive early on weekends as space is limited. The unpaved road is passable by passenger vehicles in dry conditions."
+    }
+  ],
+  "meta_title": "Moscow Rockhounding - Idaho BLM Free Quartz & Agate",
+  "meta_description": "Free rockhounding on Moscow BLM land for quartz, chalcedony, and agate. Beginner-friendly, 25 lb daily limit, no permit required. Easy access near Moscow, Idaho.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from regional Idaho geology and Blue Mountains volcanic province",
+    "written_directions - Forest Road 621 designation inferred; verify current BLM access road names",
+    "cell_service - spotty estimated based on rural Idaho BLM land; verify with local carriers",
+    "nearest_city_distance - estimated 8 miles based on GPS coordinates"
+  ],
+  "enriched_at": "2026-04-22T06:43:24.076Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:46.576Z"
+}

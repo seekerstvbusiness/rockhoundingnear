@@ -1,0 +1,99 @@
+{
+  "slug": "walker-lake-nv",
+  "name": "Walker Lake",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Hawthorne",
+  "city_slug": "hawthorne",
+  "county": "Mineral",
+  "county_slug": "mineral",
+  "lat": 38.784921,
+  "lng": -118.742462,
+  "gem_types": [
+    "Chalcedony",
+    "Agate",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Walker Lake offering easy access to chalcedony and agate specimens. Scenic desert collecting with gentle slopes and no fees required.",
+  "description": "Walker Lake sits in Nevada's Mineral County on BLM-managed public land, offering free rockhounding opportunities for collectors of all skill levels. The area around this desert basin lake provides access to chalcedony, agate, and jasper deposits scattered across gentle slopes and sandy terrain. The lake itself is a popular destination for anglers and outdoor enthusiasts, making this a multi-purpose trip for families interested in both rockhounding and recreation.\n\nThe geology of this region reflects the Basin and Range province, where Miocene-age volcanic activity and hydrothermal processes deposited silica-rich fluids that formed the chalcedony and agate nodules found throughout the area. Weathering and erosion have exposed these specimens at the surface, making them accessible without advanced tools or techniques. The surrounding landscape is typical high desert: sagebrush, sparse vegetation, and distant mountain views.\n\nCollecting here is straightforward: search washes, bajadas, and low hillsides where erosion naturally exposes specimens. Most productive areas are within short walking distance of pullouts and parking areas. Because this is BLM land with gentle terrain, it suits beginners and families equally well. Water and services are available in the nearby town of Hawthorne, about 20 miles away.\n\nVisit in fall or spring to avoid extreme summer heat and winter cold. The landscape can be deceptive in its barrenness - look carefully along drainage lines and exposed banks where specimens accumulate. Bring plenty of water, sun protection, and sturdy walking shoes; the terrain is mostly easy but the desert sun is intense.",
+  "history": "This region sits within the Basin and Range extensional province, where Miocene volcanic rocks and calderas once dominated. Subsequent hydrothermal circulation and silica-rich groundwater created the chalcedony and agate deposits now found as loose specimens across the basin floor. Walker Lake itself is a remnant of ancient Lake Lahontan, a much larger Pleistocene lake that covered much of the Great Basin.",
+  "tips": "Search along dry washes and bajada margins where water erosion has concentrated specimens; look for nodules weathering out of the sandy soil. Use a hand lens to identify chalcedony's waxy luster and translucent color banding - specimens often show bands of white, gray, or tan. Bring a sturdy hammer and cold chisel to test specimens in place before collecting, and scan the ground systematically rather than wandering aimlessly across the sagebrush. Early morning light at lower sun angles makes spotting specimens easier on light-colored soil.",
+  "terrain_notes": "Elevation 4008 feet. Gentle slope with open desert terrain dominated by sagebrush, scattered creosote, and sandy-rocky soil. Walking distance from parking to productive areas typically 0.5 to 2 miles. Footing is uneven with scattered small rocks and loose gravel; sturdy hiking boots recommended. No shade available except in occasional washes. Excellent visibility across the landscape allows spotting of exposed specimens from distance.",
+  "best_season": "October - April. Extreme heat (100+ F) makes summer collecting dangerous; winter can bring snow at 4000 ft elevation, though days are often clear and mild. Fall and spring offer comfortable temperatures and lower UV intensity.",
+  "written_directions": "From Hawthorne, take US 95 south toward the California border for approximately 18 miles. Turn east on Nevada State Route 359 toward Walker Lake; continue for about 3 miles. Look for BLM access points and pullouts along the east shore of Walker Lake. GPS coordinates 38.784921, -118.742462 mark a productive area on the north end of the lake. Multiple informal pullouts and parking areas exist along the shoreline road.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway (US 95) to Walker Lake. Secondary roads to pullouts are mostly graded dirt with some washboard texture. High-clearance helpful but not required for main access points. Occasional ruts in sandy areas near lake.",
+  "parking_notes": "Multiple informal pullouts and parking areas along Walker Lake shoreline road. No developed parking lot; use pullouts near collecting areas. Capacity typically 2-4 vehicles per pullout. No facilities or restrooms at trailheads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Specimens must be collected by hand tools only. Collection limited to loose surface material and weathered nodules; do not extract from bedrock or use power tools.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo extraction from bedrock\nRespect surrounding vegetation and wildlife",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Hawthorne, NV - approximately 20 miles northwest. Has gas stations, grocery stores, restaurants, and lodging. Walker Lake Resort nearby offers supplies and local information.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Uneven rocky and sandy ground with scattered small rocks requires sturdy footwear. No wheelchair access to collecting areas. Parking pullouts are generally at ground level with easy vehicle access. Short walks (under 2 miles) to most productive areas.",
+  "alternative_names": [],
+  "nearest_city": "Hawthorne",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/walker-lake-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/walker-lake-nv/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Walker Lake Nevada?",
+      "answer": "Walker Lake's BLM land yields chalcedony, agate, jasper, and quartz specimens. Chalcedony is the most common find - look for translucent nodules in white, gray, tan, and banded colors. Agate specimens are less frequent but highly prized. Most specimens are loose surface finds scattered across washes and bajadas."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Walker Lake?",
+      "answer": "No permit is required for recreational rockhounding at Walker Lake. It is BLM public land open to personal use collection under FLPMA regulations. You may collect up to 25 lbs per day at no cost. Commercial collection is prohibited."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Hawthorne Nevada?",
+      "answer": "October through April offers the most comfortable collecting conditions. Avoid summer months (June-August) when temperatures exceed 100F and pose heat safety risks. Winter days are often clear and mild at 4000 ft elevation, though occasional snow can occur. Spring (March-April) and fall (October-November) are ideal for comfort and visibility."
+    },
+    {
+      "question": "How do I find chalcedony and agate at Walker Lake?",
+      "answer": "Search dry washes, bajada margins, and erosion channels where water concentrates specimens. Look for nodules weathering out of sandy soil - use early morning light to help spot specimens. Use a hand lens to identify chalcedony's waxy luster and translucent banding. Scan the ground systematically rather than wandering; specimens are often partially buried in soil."
+    },
+    {
+      "question": "Is rockhounding at Walker Lake suitable for beginners and families with children?",
+      "answer": "Yes, Walker Lake is highly beginner and family-friendly. The terrain is easy with gentle slopes and no technical climbing required. Children as young as 6 can participate. However, bring plenty of water and sun protection - the desert environment is exposed and the sun is intense. A short walk from parking to collecting areas makes it manageable for younger kids."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Walker Lake?",
+      "answer": "Bring a hand hammer, cold chisel, magnifying lens, and sturdy hiking boots. Pack at least 2 liters of water per person, sunscreen, a wide-brimmed hat, and a collection bag (25 lb limit). A field guide to Nevada minerals is helpful. Tools must be hand-operated only - motorized equipment is prohibited on BLM land."
+    }
+  ],
+  "meta_title": "Walker Lake Rockhounding - Find Chalcedony & Agate in Nevada",
+  "meta_description": "Free BLM rockhounding at Walker Lake near Hawthorne. Find chalcedony, agate, and jasper. No permit needed. Easy terrain for families and beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Basin and Range geology - no specific source for exact species at this GPS location)",
+    "parking_notes (informal pullouts estimated from terrain data and typical BLM access)",
+    "cell_service (spotty estimated from rural Nevada location)",
+    "nearest_city_distance (estimated 20 miles from GPS to Hawthorne)"
+  ],
+  "enriched_at": "2026-04-22T06:44:11.649Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:01.109Z"
+}

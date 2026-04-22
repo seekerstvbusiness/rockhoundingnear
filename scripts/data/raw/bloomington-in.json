@@ -1,0 +1,60 @@
+{
+  "slug": "bloomington-in",
+  "name": "Bloomington",
+  "lat": 39.169609,
+  "lng": -86.622747,
+  "state": "Indiana",
+  "state_slug": "indiana",
+  "state_code": "IN",
+  "city": "Monroe County",
+  "city_slug": "monroe-county",
+  "county": "Monroe",
+  "county_slug": "monroe",
+  "geocoded_city": "Monroe County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-indiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bloomington%20Indiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bloomington",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bloomington%20Indiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 897,
+      "meters": 273
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:53:13.603Z"
+  },
+  "scraped_at": "2026-04-21T16:53:13.604Z",
+  "scrape_quality": "minimal"
+}

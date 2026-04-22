@@ -1,0 +1,60 @@
+{
+  "slug": "turtle-mountain-nd",
+  "name": "Turtle Mountain",
+  "lat": 48.815549,
+  "lng": -99.921653,
+  "state": "North Dakota",
+  "state_slug": "north-dakota",
+  "state_code": "ND",
+  "city": "Rolette County",
+  "city_slug": "rolette-county",
+  "county": "Rolette",
+  "county_slug": "rolette",
+  "geocoded_city": "Rolette County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Turtle%20Mountain%20North%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Turtle%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Turtle%20Mountain%20North%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1800,
+      "meters": 549
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:38:02.591Z"
+  },
+  "scraped_at": "2026-04-21T16:38:02.591Z",
+  "scrape_quality": "minimal"
+}

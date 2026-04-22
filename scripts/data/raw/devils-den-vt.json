@@ -1,0 +1,60 @@
+{
+  "slug": "devils-den-vt",
+  "name": "Devil's Den",
+  "lat": 43.35693,
+  "lng": -72.892778,
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "state_code": "VT",
+  "city": "Mount Tabor",
+  "city_slug": "mount-tabor",
+  "county": "Rutland",
+  "county_slug": "rutland",
+  "geocoded_city": "Mount Tabor",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-vermont.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Devil's%20Den%20Vermont"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Devil's%20Den",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Devil's%20Den%20Vermont"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2067,
+      "meters": 630
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:05:29.585Z"
+  },
+  "scraped_at": "2026-04-21T17:05:29.585Z",
+  "scrape_quality": "minimal"
+}

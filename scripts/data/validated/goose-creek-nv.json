@@ -1,0 +1,98 @@
+{
+  "slug": "goose-creek-nv",
+  "name": "Goose Creek",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Elko",
+  "city_slug": "elko",
+  "county": "Elko",
+  "county_slug": "elko",
+  "lat": 41.948075,
+  "lng": -114.074403,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding in northeastern Nevada's high desert. Hunt for colorful agates, chalcedony, and jasper on flat terrain near Elko at 5,058 feet elevation.",
+  "description": "Goose Creek offers accessible rockhounding on BLM-managed public land in Elko County's scenic high desert. The site sits at moderate elevation with flat terrain ideal for family outings and beginner collectors. The area's weathered volcanic and sedimentary exposures yield quality specimens of agate, chalcedony, jasper, and quartz throughout the collecting grounds.\n\nGeologically, this region lies within the Basin and Range province where Tertiary-age volcanic activity and subsequent silica-rich groundwater movement created abundant chalcedony deposits. The flat topography makes walking easy, and specimens are often found scattered on the surface after seasonal weathering exposes fresh material.\n\nCollectors should focus their search on eroded hillsides, dry washes, and areas where recent erosion has exposed colorful material. The high desert setting means excellent visibility and minimal vegetation obstruction. Spring and fall offer the most comfortable collecting temperatures, though the dry climate allows year-round access.\n\nThis location is ideal for family groups, beginners, and those seeking a less crowded alternative to southern Nevada's popular rockhounding sites. The flat terrain and nearby services in Elko make it a practical day-trip destination. Always practice Leave No Trace principles and respect BLM regulations regarding the 25-pound daily collection limit.",
+  "history": "Goose Creek lies within the Basin and Range physiographic province, where Tertiary volcanic rocks and sedimentary sequences deposited during the Paleogene-Neogene time periods created the silica-rich environment that produced the agate and chalcedony deposits found here. Regional exploration and small-scale mining activity in Elko County during the late 1800s and 1900s identified the gemstone potential of these formations, making rockhounding a popular pursuit for both locals and visiting collectors.",
+  "tips": "Search along dry wash beds and eroded hillsides where water has exposed fresh agate and chalcedony specimens - the flat topography makes these areas easy to access. Look for color variation in surface stones: reds, oranges, whites, and blues indicate quality agate or chalcedony worth examining more closely. Bring a 10x loupe to inspect surface texture and translucency - gem-quality pieces often show banding or clear chalcedony cores. The high desert sun reflects well off exposed material, so polarized sunglasses help spot specimens that might otherwise blend with surrounding rocks.",
+  "terrain_notes": "Elevation 5,058 feet with flat to gently rolling terrain covered in sparse high desert vegetation. The area features scattered brush, rabbitbrush, and low grasses typical of northeastern Nevada's semi-arid environment. Walking distance from parking areas to productive collecting zones typically ranges from 50 feet to half a mile. Footing is stable on compacted soil and rocky surfaces with minimal loose material. The flat slope makes hiking accessible for most ability levels, though sturdy footwear is recommended for uneven ground.",
+  "best_season": "April - June and September - November. Spring and fall offer mild temperatures ideal for extended collecting sessions. Summer heat (often exceeding 85 degrees F) makes midday collecting uncomfortable, and winter snow occasionally blocks access routes. Fall provides particularly good conditions with cooler temperatures and lower humidity.",
+  "written_directions": "From Elko, take ID-51 North toward the Mountain City/Contact area for approximately 35-40 miles. Watch for BLM recreation signs directing you toward Goose Creek drainages. Access is typically via maintained dirt roads branching east from the main highway. A high-clearance vehicle helps navigate rougher sections, but passenger vehicles can reach main parking areas. Ask locally at Elko visitor services or BLM field office for current road conditions and specific pullout locations, as access points may vary seasonally.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Maintained dirt roads with possible washboard texture. High-clearance vehicle recommended but not required for main access routes. Some side roads may require 4WD after heavy rain.",
+  "parking_notes": "Informal pullouts and parking areas along access roads. No developed parking lot. Capacity varies by location; typically accommodates 2-6 vehicles per site. Areas may be muddy after precipitation.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection or selling of collected material. No motorized excavation or powered equipment. All collecting must be done by hand. Respect private property boundaries and stay on BLM land only.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or sales\nNo motorized excavation or powered equipment\nHand collection only\nStay on BLM land only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "remote"
+  ],
+  "nearest_services": "Elko, Nevada - approximately 35-40 miles south. Full services including gas, food, lodging, and supplies available in town.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families with children. Uneven rocky ground requires sturdy footwear. No wheelchair access to productive collecting areas. The terrain is generally stable with minimal loose rock hazards. Walking distances typically under one mile from parking areas.",
+  "alternative_names": [],
+  "nearest_city": "Elko",
+  "nearest_city_distance": 38,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/goose-creek-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/goose-creek-nv/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/goose-creek-nv/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and gemstones can I find at Goose Creek in Nevada?",
+      "answer": "Goose Creek is known for colorful agate, chalcedony, jasper, and quartz specimens. The volcanic history of northeastern Nevada's Basin and Range province created ideal conditions for silica deposits. Most surface finds are opaque to semi-translucent agate and chalcedony in reds, oranges, whites, and occasional blues. Expect palm-sized to fist-sized specimens as common finds, though smaller higher-quality pieces also occur."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Goose Creek on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Goose Creek. Nevada BLM land allows personal use collection without advance permission. Simply follow the 25-pound daily limit per FLPMA regulations and hand-collect only. Commercial collecting or large-scale operations require permits and special authorization."
+    },
+    {
+      "question": "What is the best time of year to visit Goose Creek for rockhounding?",
+      "answer": "April through June and September through November offer ideal conditions. Spring and fall temperatures (typically 50-75 degrees F) make extended collecting sessions comfortable. Avoid summer months when daytime heat often exceeds 85 degrees F in this high desert location. Winter snow can occasionally block access roads. Fall collecting is particularly rewarding due to cooler weather and stable conditions."
+    },
+    {
+      "question": "Is Goose Creek beginner-friendly and suitable for families with children?",
+      "answer": "Yes, Goose Creek is excellent for beginners and families. The flat terrain requires no rock climbing or technical skills. Children as young as 6 can participate safely with adult supervision. The proximity to Elko (38 miles) and easy access from parking areas make it a practical family day trip. The high desert landscape provides good visibility of specimens."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound at Goose Creek?",
+      "answer": "Basic hand tools work best here: a small hammer or pick for testing specimens, a 10x loupe for examining details, and a collection bag. Bring plenty of water (at least 2 liters per person), sunscreen, and a hat for protection from high desert sun and UV exposure. Sturdy hiking boots or work boots handle the uneven terrain well. A field guide to Nevada rocks and minerals helps with identification."
+    },
+    {
+      "question": "How far from Elko is Goose Creek and can I visit as a day trip?",
+      "answer": "Goose Creek is approximately 35-40 miles north of Elko via ID-51. Most collectors plan 2-4 hour visits depending on productivity and personal preference. The round trip is easily completed as a day trip from Elko, where you'll find all necessary services: gas, food, lodging, and water. Check current BLM road conditions in Elko before driving north."
+    }
+  ],
+  "meta_title": "Goose Creek Rockhounding - Nevada Agate & Chalcedony",
+  "meta_description": "Hunt agate, chalcedony, and jasper at Goose Creek on Nevada BLM land. No permit needed, 25 lb daily limit. Easy flat terrain near Elko. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "specific_access_roads"
+  ],
+  "enriched_at": "2026-04-22T06:43:59.935Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:49:04.725Z"
+}

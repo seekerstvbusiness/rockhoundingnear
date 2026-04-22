@@ -1,0 +1,98 @@
+{
+  "slug": "jelm-mountain-wy",
+  "name": "Jelm Mountain",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Laramie",
+  "city_slug": "laramie",
+  "county": "Albany",
+  "county_slug": "albany",
+  "lat": 41.076125,
+  "lng": -105.991483,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "High-elevation BLM rockhounding site near Laramie featuring Precambrian granite outcrops with quartz, feldspar, and mica specimens. Free public collecting with no permit required.",
+  "description": "Jelm Mountain sits at 8,708 feet elevation in the Medicine Bow Range, offering rockhounders access to Precambrian granitic bedrock typical of the Rocky Mountain core. The relatively flat summit terrain makes this a unique high-elevation collecting site compared to steeper alpine zones. You will find quartz specimens ranging from clear to smoky varieties, along with feldspathic minerals and mica flakes throughout weathered granite exposures and talus slopes.\n\nThe geology here reflects ancient Archean to Proterozoic granite formation, part of the massive basement rock that underlies much of the Rocky Mountain region. Weathering and freeze-thaw cycles have naturally fractured the granite, exposing mineral-rich surfaces. The high elevation means the collecting season is compressed into summer and early fall months when snow melts and trails are accessible.\n\nThis site works well for collectors seeking representative mineral specimens from the Wyoming Ranges and for those interested in Precambrian geology. The flat summit makes hiking less strenuous than comparable mountain sites, though the elevation itself requires acclimatization. Bring a small pack and hand tools - motorized equipment is prohibited on BLM land.",
+  "history": "Jelm Mountain's granitic composition formed during the Precambrian Archean eon (over 2.5 billion years ago) when magmatic intrusions created the core of the North American continent. The exposed granite outcrops visible today are part of the Medicine Bow batholith, which has been progressively stripped of overlying sedimentary cover by Cenozoic erosion and modern glaciation in the nearby Wind River Range.",
+  "tips": "Search the talus slopes and weathered granite outcrops on the summit plateau for quartz and feldspar specimens - these areas have the most recent fractures exposing fresh mineral faces. Bring a 10x hand lens to identify mica flakes and feldspar feldspathic patterns before committing effort to extraction. Look for quartz in veins running through granite and in individual crystals; smoky quartz is more common here than clear varieties. Collect specimens from loose material and fractured surfaces rather than attempting to hammer solid bedrock - respecting the landscape ensures continued public access.",
+  "terrain_notes": "Elevation 8,708 feet with relatively flat summit plateau covered in scattered granite boulders, low shrub vegetation, and patchy alpine tundra. Parking area sits near the mountain base with approximately 1-2 mile hiking approach to main collecting outcrops. Footing is uneven over talus and granite rubble but not technically difficult; the flat slope makes this more accessible than peak-bagging terrain. Snow persists into late May at this elevation.",
+  "best_season": "June - September. High elevation means late-spring snow melt delays access until early June, and early autumn storms can bring snow by late September. Peak season is July and August when trails are fully clear and weather is most stable.",
+  "written_directions": "From Laramie, take Wyoming Highway 130 (Snowy Range Road) west toward the Medicine Bow Mountains for approximately 25 miles. Near Jelm, turn north on Forest Road 500 (unsigned rough road) toward Jelm Mountain trailhead; follow for about 3 miles to the parking area at the base of the mountain. The final mile may be rough depending on season. High-clearance passenger vehicle recommended, though standard passenger cars have accessed the site in dry conditions. GPS recommended as signage is minimal.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Final approach road is unimproved and may be rough; high-clearance vehicle recommended. Condition varies seasonally - impassable when wet or snow-covered.",
+  "parking_notes": "Primitive pullout parking at trailhead base; space for 3-5 vehicles. No facilities. BLM land parking - arrive early during peak summer weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or mechanized equipment. Collect only from loose material and naturally fractured surfaces. Respect private property boundaries and marked claim stakes. Leave no trash. Pack out all waste.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation or mechanized tools\nCollect from loose material only\nNo defacement of living rock\nPack out all trash\nRespect adjacent private claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Laramie, 30 miles south - full services including gas, food, lodging, and water. Snowy Range Ski Area lodge (20 miles) has limited services.",
+  "accessibility_notes": "Uneven rocky talus terrain with granite boulders scattered across the summit. Hiking to main outcrops is moderate pace but not steep. Footing requires sturdy boots and careful placement. Not suitable for wheelchair access or those with limited mobility. High elevation (8,708 ft) may cause altitude effects for unacclimatized visitors.",
+  "alternative_names": [
+    "Jelm Peak"
+  ],
+  "nearest_city": "Laramie",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/jelm-mountain-wy/mineral-1-mica.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Jelm Mountain in Wyoming?",
+      "answer": "Jelm Mountain offers quartz specimens (including smoky varieties), feldspar, and mica flakes from Precambrian granite bedrock. The site is best for collectors seeking representative mineral specimens from the Wyoming Ranges rather than polished gem-quality stones. Specimens are typically small to medium and suitable for educational collections or lapidary work."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Jelm Mountain?",
+      "answer": "No permit is required. Jelm Mountain is on BLM public land where recreational mineral collection is allowed under FLPMA guidelines. You must follow personal-use-only rules: maximum 25 lbs per day, no commercial collection, and no motorized excavation."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Laramie at Jelm Mountain?",
+      "answer": "June through September is the optimal season. Snow blocks access until late May or early June, and early autumn storms can bring snow by late September. July and August offer the most stable weather and fully accessible trails at this 8,708-foot elevation."
+    },
+    {
+      "question": "How difficult is hiking to the rockhounding areas at Jelm Mountain?",
+      "answer": "The hike is moderate difficulty with a relatively flat summit plateau. Approximately 1-2 miles of hiking from the trailhead parking area is required, and the terrain is uneven talus and granite rubble. The flat slope makes it less strenuous than peak-bagging, though high elevation (8,708 ft) may affect unacclimatized visitors."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at Jelm Mountain?",
+      "answer": "Bring a 10x hand lens to identify mineral types, a small backpack, sturdy hiking boots, and hand tools such as a hammer and chisel for extracting loose specimens. Motorized equipment is prohibited on BLM land. Collect from naturally fractured surfaces and loose material rather than hammering solid bedrock."
+    },
+    {
+      "question": "Is Jelm Mountain rockhounding site beginner-friendly?",
+      "answer": "Yes, Jelm Mountain is suitable for beginners due to the flat terrain, free access with no permits, and easily identifiable minerals (quartz, feldspar, mica). The main challenge is the high elevation and potentially rough road to the trailhead. No special equipment beyond basic hand tools is required, making it an excellent introduction to rockhounding in the Rocky Mountains."
+    }
+  ],
+  "meta_title": "Jelm Mountain Rockhounding - Wyoming",
+  "meta_description": "Find quartz, feldspar, and mica at Jelm Mountain near Laramie. Free BLM rockhounding, no permit needed. High-elevation granite outcrops. Open June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from Precambrian granite composition; no site-specific source provided",
+    "written_directions - constructed from highway data and geographic knowledge; exact road numbers not confirmed",
+    "road_conditions - based on typical BLM access roads in this region; current conditions should be verified with local BLM office",
+    "cell_service - estimated as spotty based on elevation and distance from Laramie; verify with local carriers"
+  ],
+  "enriched_at": "2026-04-22T06:40:58.696Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:06.695Z"
+}

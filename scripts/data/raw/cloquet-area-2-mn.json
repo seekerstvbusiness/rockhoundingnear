@@ -1,0 +1,60 @@
+{
+  "slug": "cloquet-area-2-mn",
+  "name": "Cloquet (area 2)",
+  "lat": 46.721673,
+  "lng": -92.461324,
+  "state": "Minnesota",
+  "state_slug": "minnesota",
+  "state_code": "MN",
+  "city": "Cloquet",
+  "city_slug": "cloquet",
+  "county": "Carlton",
+  "county_slug": "carlton",
+  "geocoded_city": "Cloquet",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-minnesota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cloquet%20(area%202)%20Minnesota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cloquet%20(area%202)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cloquet%20(area%202)%20Minnesota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1200,
+      "meters": 366
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:01:10.407Z"
+  },
+  "scraped_at": "2026-04-21T18:01:10.407Z",
+  "scrape_quality": "minimal"
+}

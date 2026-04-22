@@ -1,0 +1,90 @@
+{
+  "slug": "bimetal-gold-mine-az",
+  "name": "BiMetal Gold Mine",
+  "lat": 35.155909,
+  "lng": -114.081909,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/bimetal-gold-mine"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=BiMetal%20Gold%20Mine%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=BiMetal%20Gold%20Mine",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=BiMetal%20Gold%20Mine%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3030,
+      "meters": 924
+    },
+    "slope": "moderate slope",
+    "nearest_city": {
+      "name": "Kingman",
+      "distance_mi": 3,
+      "population": 36958
+    },
+    "roads": [
+      {
+        "name": "Shinarump Road",
+        "ref": "US 66 Hist",
+        "type": "secondary",
+        "dist": 1.8
+      },
+      {
+        "name": "Shinarump Road",
+        "ref": null,
+        "type": "secondary",
+        "dist": 2
+      },
+      {
+        "name": "West Beale Street",
+        "ref": "US 93",
+        "type": "trunk",
+        "dist": 3.3
+      },
+      {
+        "name": "Fort Beale Drive",
+        "ref": null,
+        "type": "secondary",
+        "dist": 3.8
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T16:58:05.994Z"
+  },
+  "scraped_at": "2026-04-20T16:58:05.995Z",
+  "scrape_quality": "partial"
+}

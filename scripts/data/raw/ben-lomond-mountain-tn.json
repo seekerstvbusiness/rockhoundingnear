@@ -1,0 +1,57 @@
+{
+  "slug": "ben-lomond-mountain-tn",
+  "name": "Ben Lomond Mountain",
+  "lat": 35.628371,
+  "lng": -85.773202,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Warren County",
+  "city_slug": "warren-county",
+  "county": "Warren",
+  "county_slug": "warren",
+  "geocoded_city": "Warren County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ben%20Lomond%20Mountain%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ben%20Lomond%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ben%20Lomond%20Mountain%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:27:28.863Z"
+  },
+  "scraped_at": "2026-04-21T18:27:28.863Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "syracuse-ny",
+  "name": "Syracuse",
+  "state": "New York",
+  "state_slug": "new-york",
+  "city": "City of Syracuse",
+  "city_slug": "city-of-syracuse",
+  "county": "Onondaga",
+  "county_slug": "onondaga",
+  "lat": 43.047006,
+  "lng": -76.147497,
+  "gem_types": [
+    "Quartz",
+    "Calcite",
+    "Feldspar"
+  ],
+  "short_description": "Urban rockhounding in New York's Salt City. Search the Onondaga valley for quartz crystals, calcite specimens, and mineral-rich glacial deposits in a low-elevation Great Lakes region setting.",
+  "description": "Syracuse sits in the heart of the Onondaga limestone belt, one of New York's most geologically significant regions. The city's low elevation of 399 feet and glaciated terrain create excellent opportunities for rockhounders seeking quartz, calcite, and feldspar specimens. During the last ice age, glaciers scraped and tumbled mineral-bearing rocks across this landscape, concentrating collectible material in creek beds, road cuts, and glacial outwash deposits around the Syracuse area.\n\nThe geology here reflects Paleozoic seas that once covered central New York, depositing thick limestone and dolomite units. The Onondaga formation, famous for its salt deposits that fueled Syracuse's industrial history, also produces beautiful calcite crystals and clear quartz. Collectors can find specimens in multiple settings: old quarries (if accessible), glacial till deposits, creek beds, and the banks of the Onondaga Creek and Oswego River system.\n\nThis is an ideal location for New York rockhounders interested in classic Northeast mineral collecting without traveling to remote mountain areas. The area's accessibility and proximity to urban services make it a practical day-trip destination. Local geology museums and the Syracuse area's rich mining heritage provide excellent context for understanding the specimens you find.",
+  "history": "The Syracuse area has been mined for salt since the 1600s, with commercial salt operations reaching their peak in the 1800s. The Onondaga limestone formation that contains valuable salt deposits also hosts quartz and calcite formations created during the Paleozoic era when shallow seas covered the region, followed by glacial action that redistributed and concentrated these minerals throughout the lower Onondaga valley.",
+  "tips": "Search creek beds and stream banks along Onondaga Creek and the Oswego River system, where glacial action and water erosion expose fresh mineral material. Look for clear quartz crystals and white calcite specimens in limestone-derived glacial till along roadsides and cut banks. Bring a small hammer and chisel to carefully extract specimens from limestone outcrops, and always check that access is permitted before collecting on private land or in quarries. The spring and early fall offer the best conditions - winter ice limits stream access, and summer heat and humidity make fieldwork uncomfortable in this low-elevation area.",
+  "terrain_notes": "Syracuse lies at 399 feet elevation in a glaciated valley. Terrain is mostly gentle to rolling with moderate vegetation. Creek beds and stream banks provide good access with short walks from parking areas. Footing in creek beds can be slippery, especially in spring snowmelt. Urban sprawl limits true wilderness, but numerous accessible locations exist within and around the city.",
+  "best_season": "April - June, September - November. Spring offers good stream flow exposing fresh material and moderate temperatures. Fall provides similar conditions with lower humidity. Summer is hot and humid in the lowlands, making fieldwork uncomfortable. Winter brings snow and ice that limits stream and creek access.",
+  "written_directions": "From downtown Syracuse, head south on Route 81 toward the Onondaga Creek valley. Public creek access points exist at several locations: take Exit 17 off I-690 and follow local roads to Onondaga Park area. The Oswego River corridor north of Syracuse, accessible via Bridge Street and later Route 57, offers glacial deposits and creek access. Alternative locations include older road cuts along Route 20 east of the city and gravel pits in the town of Geddes south of Syracuse (check for permission). Always verify current access before visiting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "All routes use paved roads. Local access roads to creek and park areas vary from paved to gravel. No special clearance needed.",
+  "parking_notes": "Multiple public parking areas exist near Onondaga Park, Oswego River access points, and downtown area parks. Most parking is standard lot or street parking with no fees. Capacity varies by location.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Rockhounding is allowed on public lands and in publicly accessible creek beds within Syracuse city limits. Always respect private property - ask permission before entering private land or old quarries. New York State does not require permits for casual mineral collection on public land. Remove only what you can reasonably carry. Do not damage structures, vegetation, or geological formations in state parks or protected areas.",
+  "quantity_limits": null,
+  "rules": "Collect only on public land or with landowner permission\nNo commercial collection without authorization\nRemove only specimens - do not extract large blocks or damage formations\nRespect posted property boundaries\nCheck local park rules before visiting state or county properties",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Syracuse city center is at the location. Full services available including gas, restaurants, hotels, and water. Emergency medical facilities within minutes.",
+  "accessibility_notes": "Terrain is relatively flat and accessible to most hikers. Creek bed access may involve short scrambles over loose rock and slippery surfaces, especially after rain. Footwear with good grip is essential. Paved parking and some park areas are wheelchair accessible, but creek bed collecting requires mobility.",
+  "alternative_names": [
+    "Onondaga Creek",
+    "Oswego River valley"
+  ],
+  "nearest_city": "Syracuse",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-york/syracuse-ny/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Syracuse, New York?",
+      "answer": "The Syracuse area is known for quartz crystals, white calcite specimens, and feldspars found in glacial deposits and creek beds. The region's Onondaga limestone formation produces high-quality calcite specimens. Quartz appears in various forms including clear crystals and milky varieties. These minerals concentrated in this area due to both Paleozoic ocean deposits and recent glacial action that redistributed mineral-rich materials throughout the valley."
+    },
+    {
+      "question": "Is rockhounding free in Syracuse, New York?",
+      "answer": "Yes, rockhounding is free on public lands and publicly accessible creek beds within Syracuse. There are no permit fees or collection charges for casual mineral collecting on public property. However, you must always ask permission before entering private land, old quarries, or restricted areas. Many parks allow rockhounding at no cost as long as you follow posted rules."
+    },
+    {
+      "question": "Where exactly should I look for specimens in Syracuse?",
+      "answer": "The best locations are Onondaga Creek and Oswego River beds, where water erosion constantly exposes fresh mineral material. Search along stream banks during spring and fall when water flow is moderate. Old road cuts east of Syracuse and glacial deposits in the town of Geddes south of the city also produce good specimens. Always check access before visiting - many productive locations are on private property."
+    },
+    {
+      "question": "Do I need a permit to rockhound in Syracuse?",
+      "answer": "No permit is required for casual mineral collection on public lands in New York State. However, you must obtain permission from landowners before collecting on private property. Some quarries and restricted areas may have specific rules - always verify access and check for posted restrictions before beginning your search."
+    },
+    {
+      "question": "What is the best season for rockhounding near Syracuse?",
+      "answer": "The best months are April through June and September through November. Spring offers excellent stream flow that exposes fresh material, and fall provides ideal temperatures with lower humidity. Summer in this low-elevation area becomes hot and muggy, making fieldwork uncomfortable. Winter brings snow and ice that limit creek access and increase hazards."
+    },
+    {
+      "question": "What tools and experience level do I need to rockhound in Syracuse?",
+      "answer": "Rockhounding near Syracuse is beginner-friendly and requires minimal tools - a small hammer, chisel, and collection bag are sufficient. Good footwear with grip is essential since creek beds are slippery. No advanced experience is needed to find quartz and calcite in accessible public locations. Families with children ages 6 and up enjoy collecting here, making it an ideal urban rockhounding destination."
+    }
+  ],
+  "meta_title": "Syracuse Rockhounding - Find Quartz & Calcite",
+  "meta_description": "Rockhound quartz, calcite, and feldspar near Syracuse, NY. Free public collecting on creek beds and glacial deposits in New York's low-elevation Onondaga valley.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category - classified as 'other' because location is urban public land, not traditional rockhounding site",
+    "accessibility_notes - inferred from 399 ft elevation and glaciated terrain",
+    "best_season - based on Great Plains/Northeast climate logic",
+    "gem_types - inferred from Onondaga limestone geology and glacial deposits, no specific recent reports provided",
+    "written_directions - constructed from general Syracuse geography; specific current access points should be verified",
+    "hazards - inferred from creek bed environment; wildlife typical for northeastern urban-edge areas"
+  ],
+  "enriched_at": "2026-04-21T18:50:36.924Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:52:27.119Z"
+}

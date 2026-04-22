@@ -1,0 +1,65 @@
+{
+  "slug": "promontory-mountains-ut",
+  "name": "Promontory Mountains",
+  "lat": 41.253909,
+  "lng": -112.491263,
+  "state": "Utah",
+  "state_slug": "utah",
+  "state_code": "UT",
+  "city": "Box Elder County",
+  "city_slug": "box-elder-county",
+  "county": "Box Elder",
+  "county_slug": "box-elder",
+  "geocoded_city": "Box Elder County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-utah.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Promontory%20Mountains%20Utah"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Utah BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Promontory%20Mountains",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Promontory%20Mountains%20Utah"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Utah BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4400,
+      "meters": 1341
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:43:06.349Z"
+  },
+  "scraped_at": "2026-04-21T19:43:06.349Z",
+  "scrape_quality": "partial"
+}

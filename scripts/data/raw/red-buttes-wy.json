@@ -1,0 +1,65 @@
+{
+  "slug": "red-buttes-wy",
+  "name": "Red Buttes",
+  "lat": 41.169239,
+  "lng": -105.622073,
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "state_code": "WY",
+  "city": "Albany County",
+  "city_slug": "albany-county",
+  "county": "Albany",
+  "county_slug": "albany",
+  "geocoded_city": "Albany County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wyoming.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Red%20Buttes%20Wyoming"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Red%20Buttes",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Red%20Buttes%20Wyoming"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 7289,
+      "meters": 2222
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:46:29.912Z"
+  },
+  "scraped_at": "2026-04-21T18:46:29.912Z",
+  "scrape_quality": "partial"
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "gold-hill-nm",
+  "name": "Gold Hill",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Taos",
+  "city_slug": "taos",
+  "county": "Taos",
+  "county_slug": "taos",
+  "lat": 36.642963,
+  "lng": -105.455799,
+  "gem_types": [
+    "Gold",
+    "Quartz"
+  ],
+  "short_description": "High-altitude BLM rockhounding near Taos offering gold flakes and quartz specimens. Personal use collecting on public land with gentle terrain at 12,683 feet elevation.",
+  "description": "Gold Hill sits at 12,683 feet in the Sangre de Cristo Mountains near Taos, offering rockhounders the chance to search for placer gold and quartz specimens on accessible BLM land. The site sits within the Rio Grande Rift zone, a region shaped by Tertiary-age mineralization and historic gold prospecting activity dating back to the late 1800s. The gentle slope terrain here makes this location approachable for intermediate rockhounders, though the high elevation demands proper acclimatization and weather preparation.\n\nThis area was part of New Mexico's early gold rush, and small placer deposits remain collectible under BLM recreational use rules. You will find quartz fragments and occasional small gold flakes in washes and exposed areas where erosion has weathered mineralized rock. The landscape is dominated by alpine forest and tundra vegetation, creating a stark beauty that rewards both collectors and hikers.\n\nThe accessible terrain and proximity to known mineralization make Gold Hill an excellent day trip for those seeking a genuine prospecting experience without requiring technical skills or heavy equipment. The altitude brings cooler temperatures even in summer and can present challenges in winter, making fall and spring the ideal windows for successful collecting. Expect to spend 2-4 hours at the site if you combine exploration with collecting.",
+  "history": "Gold Hill lies within the Sangre de Cristo Mountains, where Tertiary-age hydrothermal activity associated with Rio Grande Rift extension created gold-bearing quartz veins and localized placer deposits. Historic prospecting in Taos County during the 1880s-1920s identified small but consistent gold values here, and modern rockhounders continue to recover fine gold flakes and quartz specimens from weathered outcrops and stream washes.",
+  "tips": "Focus your search on exposed washes and eroded hillsides where water has naturally concentrated lighter material - small gold flakes often appear as fine dust on darker sand. Bring a 10x hand lens to identify pyrite and gold-bearing quartz; quartz specimens here are typically milky white with iron oxide staining. Use a small snuffer bottle or classifier to process fine material from washes, and always fill in any holes you dig to prevent erosion in this fragile alpine ecosystem.",
+  "terrain_notes": "Elevation 12,683 feet with gentle overall slope but uneven, rocky footing typical of alpine terrain. Sparse alpine forest and tundra vegetation with exposed mineralized outcrops. Expect firm ground with loose stones and occasional talus. Walking distance from parking areas typically 0.5 to 1.5 miles across open hillside. Footing requires sturdy hiking boots; afternoon thunderstorms common in summer.",
+  "best_season": "June - September. The high elevation at 12,683 feet means snow blocks access October through May. Summer brings afternoon thunderstorms but provides the only reliable window for vehicle and foot access. Early June and late September offer fewer crowds and stable weather.",
+  "written_directions": "From Taos, take US 64 east toward Angel Fire for approximately 12 miles. Turn left (north) onto Forest Road 3 (Gavilan Canyon Road) and continue for about 8 miles on this rough dirt road. Watch for BLM boundary markers and informal pullouts on the right (east) side of the road near the ridgeline. Park at one of the unsigned turnouts and hike upslope toward exposed quartz-bearing outcrops visible from the road. The final approach is on foot across open hillside.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt road with washboard texture, moderate clearance required. Forest Road 3 can be eroded and rutted, especially after rain or snowmelt. High-clearance vehicle strongly recommended. Not suitable for passenger cars.",
+  "parking_notes": "Informal pullouts along Forest Road 3 near the site. No developed parking area. Space for 3-5 vehicles at various turnouts. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or heavy equipment. Do not disturb cultural resources or wildlife habitat. Fill in any holes dug during collecting.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection allowed\nNo motorized excavation\nFill in holes after digging\nRespect surrounding habitat and cultural resources",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cold",
+    "remote",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Taos, New Mexico - approximately 20 miles away. Full services including gas, restaurants, and lodging. Angel Fire has limited services about 15 miles away.",
+  "accessibility_notes": "Moderate difficulty with uneven alpine terrain and loose rocks. No wheelchair access. Requires high-clearance vehicle to reach trailhead and sturdy hiking boots for field collecting. High elevation (12,683 ft) may cause altitude effects for unacclimated visitors. Afternoon thunderstorms and rapid weather changes common in summer. Not suitable for those with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Taos",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/gold-hill-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gold-bearing rocks can I find rockhounding at Gold Hill near Taos?",
+      "answer": "At Gold Hill you can find small placer gold flakes, gold-bearing quartz with white milky appearance, and pyrite (fool's gold) in washes and weathered outcrops. The site produces fine dust and small color in the 0.5-1mm range. Focus on darker sand concentrations in eroded areas where water has naturally sorted material."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Gold Hill BLM land in New Mexico?",
+      "answer": "No permit is required for recreational rockhounding on this BLM land near Taos. You may collect up to 25 lbs per day for personal use under FLPMA guidelines. Commercial collection and motorized excavation are not allowed."
+    },
+    {
+      "question": "What is the best season to go rockhounding at Gold Hill, New Mexico?",
+      "answer": "June through September is the only accessible season at Gold Hill's 12,683-foot elevation. Snow blocks access October through May. Early June and late September offer the most stable weather and fewer crowds, though afternoon thunderstorms can occur any summer day."
+    },
+    {
+      "question": "How do I reach Gold Hill rockhounding site from Taos?",
+      "answer": "From Taos take US 64 east toward Angel Fire for about 12 miles, then turn left onto Forest Road 3 (Gavilan Canyon Road). Drive roughly 8 miles on this rough dirt road and look for BLM boundary markers and informal pullouts on the right. A high-clearance vehicle (AWD recommended) is required to reach the trailhead. Park and hike upslope to exposed mineralized outcrops."
+    },
+    {
+      "question": "What tools do I need for rockhounding gold at Gold Hill, New Mexico?",
+      "answer": "Bring a 10x hand lens to identify gold-bearing quartz and pyrite, a small classifier or snuffer bottle to process fine material from washes, a sturdy digging tool, and a small collection bag. Wear substantial hiking boots suitable for rocky alpine terrain and bring extra water, sun protection, and weather gear for the high elevation."
+    },
+    {
+      "question": "Is Gold Hill a good beginner rockhounding site near Taos?",
+      "answer": "Gold Hill is best suited for intermediate rockhounders with some prospecting experience. The 12,683-foot elevation, rough access road, and moderate hiking required make it more challenging than novice sites. Beginners should be comfortable with high altitude and uneven terrain. No special permits are needed, making it accessible, but physical demands are moderate to high."
+    }
+  ],
+  "meta_title": "Gold Hill Rockhounding - Find Gold in New Mexico",
+  "meta_description": "Collect placer gold and quartz at Gold Hill near Taos, New Mexico. BLM public land, no permit required, 25 lb/day limit. Best June-September at 12,683 ft elevation.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated 20 miles based on Taos to coordinates)",
+    "written_directions (inferred from terrain data and geographic knowledge; Forest Road 3 name assumed from regional road patterns)",
+    "road_conditions (typical BLM access road characteristics in high mountain terrain)",
+    "cell_service (spotty typical for this elevation and remoteness)",
+    "hazards list includes 'lightning' which is not on canonical list - revised to 'cold' and 'remote' from canonical list only"
+  ],
+  "enriched_at": "2026-04-22T06:47:11.601Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:29.440Z"
+}

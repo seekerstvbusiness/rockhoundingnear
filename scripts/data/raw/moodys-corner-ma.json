@@ -1,0 +1,60 @@
+{
+  "slug": "moodys-corner-ma",
+  "name": "Moody's Corner",
+  "lat": 42.28056,
+  "lng": -72.559174,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "South Hadley",
+  "city_slug": "south-hadley",
+  "county": "Hampshire",
+  "county_slug": "hampshire",
+  "geocoded_city": "South Hadley",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Moody's%20Corner%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Moody's%20Corner",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Moody's%20Corner%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 245,
+      "meters": 75
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:27:06.579Z"
+  },
+  "scraped_at": "2026-04-21T19:27:06.579Z",
+  "scrape_quality": "minimal"
+}

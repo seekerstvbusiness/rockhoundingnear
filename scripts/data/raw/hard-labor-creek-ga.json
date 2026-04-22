@@ -1,0 +1,60 @@
+{
+  "slug": "hard-labor-creek-ga",
+  "name": "Hard Labor Creek",
+  "lat": 33.73736,
+  "lng": -83.663086,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Walton County",
+  "city_slug": "walton-county",
+  "county": "Walton",
+  "county_slug": "walton",
+  "geocoded_city": "Walton County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hard%20Labor%20Creek%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hard%20Labor%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hard%20Labor%20Creek%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 719,
+      "meters": 219
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:16:01.624Z"
+  },
+  "scraped_at": "2026-04-21T19:16:01.624Z",
+  "scrape_quality": "minimal"
+}

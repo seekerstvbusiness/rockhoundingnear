@@ -1,0 +1,100 @@
+{
+  "slug": "argenta-mt",
+  "name": "Argenta",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Beaverhead County",
+  "city_slug": "beaverhead-county",
+  "county": "Beaverhead",
+  "county_slug": "beaverhead",
+  "lat": 45.306832,
+  "lng": -112.88656,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM public rockhounding in southwestern Montana's Beaverhead County. Search for quartz, agate, and chalcedony specimens in this Basin and Range locality without permits or fees.",
+  "description": "Argenta is a productive rockhounding destination on BLM public land in Beaverhead County, Montana, located within the heart of the Basin and Range province. This area offers free, permit-free collecting of common quartz varieties, agate, and chalcedony specimens that weather out of Tertiary volcanic and sedimentary formations.\n\nThe Argenta locality sits at moderate elevation in sagebrush-covered terrain typical of southwestern Montana. Local BLM regulations allow personal-use collecting up to 25 lbs per day with no commercial activity. The relatively accessible terrain and abundant surface specimens make this a solid choice for both beginning and experienced rockhounds seeking quality quartz-family minerals without the cost of fee dig operations.\n\nCollecting here involves surface prospecting and shallow digging in exposed washes and hillside outcrops. Most productive areas are within walking distance of vehicle access, though willingness to hike into adjacent areas increases find potential. The arid climate and sparse vegetation make specimen spotting easier than in densely forested regions.\n\nVisitors should plan for remote conditions and carry water, sun protection, and a basic hand tool kit. While not a premium fee dig with rare gems, Argenta rewards patient collectors with solid cabinet specimens and the satisfaction of public land rockhounding.",
+  "history": "The Argenta area lies within the Basin and Range province, where Tertiary-age volcanic and hydrothermal activity (roughly 50 to 30 million years ago) deposited silica-rich fluids that formed the quartz varieties, agates, and chalcedony found here today. Regional uplift and erosion have exposed these mineralized zones at the surface, making them accessible to modern rockhounders.",
+  "tips": "Search dry wash bottoms and eroded hillsides where water has concentrated heavier specimens; white and translucent quartz often catches light in gullies. Use a small pry bar or flathead screwdriver to extract specimens from softer host rock, but avoid heavy excavation that violates BLM guidelines. Look for color banding in agate and chalcedony - reds, oranges, and creams indicate quality finds worth the weight limit. Early morning or late afternoon light improves visibility of translucent specimens in this open sagebrush terrain.",
+  "terrain_notes": "Elevation approximately 5,500-6,000 feet. Rolling sagebrush-covered hillsides with scattered outcrops and intermittent dry washes. Terrain is generally moderate - mostly gentle to rolling slopes with occasional steeper canyon sides. Walking distances from parking are typically short to moderate (under 2 miles). Footing is rocky and uneven; no trails are marked. Sparse juniper and low brush; open sight lines. No water sources nearby; all water must be carried in.",
+  "best_season": "May - September. Argenta's high-desert climate brings snow and muddy conditions in winter and early spring. Summer and early fall offer dry access and clear skies for safe field work. Late September can still be productive before first snow.",
+  "written_directions": "From Dillon, Montana (Beaverhead County seat), take MT 41 south approximately 20 miles toward the Lima area. Turn east on local county roads following signs or GPS toward the Argenta BLM tract. Final approach is via rough BLM access road suitable for high-clearance passenger vehicles in dry conditions; expect 3-5 miles of washboard and minor rocky surface. Parking is available at informal pullouts near the main collecting area. GPS coordinates (45.306832, -112.88656) mark the primary locality.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough BLM dirt road with washboard surface. High-clearance helpful in wet conditions. Passable by standard passenger vehicles when dry; check conditions after rain.",
+  "parking_notes": "Informal pullouts along BLM access road near collecting areas. No developed parking lot. Space for 3-5 vehicles at main locality. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or use of power tools. Hand tools only. Surface collecting and shallow digging permitted; do not remove large blocks or denude hillsides. Pack out all trash. Respect adjacent private property.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized equipment\nHand tools only\nNo large-scale excavation\nPack out all trash\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "remote",
+    "heat",
+    "wildlife"
+  ],
+  "nearest_services": "Dillon, Montana is approximately 20-25 miles west. Full services including gas, food, lodging, and emergency care available there. No services at or near the rockhounding site.",
+  "accessibility_notes": "Relatively easy terrain suitable for most hikers and families. Rolling sagebrush slopes with short walking distances from parking. Footing is rocky and uneven - sturdy hiking boots recommended. No wheelchair access. Sun exposure is significant; shade is minimal. Accessible to most ages and fitness levels willing to walk on uneven ground.",
+  "alternative_names": [],
+  "nearest_city": "Dillon",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/argenta-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/argenta-mt/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Argenta, Montana?",
+      "answer": "Argenta is known for quartz, agate, chalcedony, and jasper specimens. Quartz is the most common find, ranging from white translucent pieces to smoky varieties. Banded agate and colorful chalcedony specimens are also regularly found by patient collectors working the washes and exposed hillsides."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Argenta on BLM land?",
+      "answer": "No permit is required. Argenta is on public BLM land in Montana where personal-use collecting is allowed under FLPMA regulations. You can collect free of charge up to 25 lbs per day with no paperwork or advance permission needed."
+    },
+    {
+      "question": "How far is Argenta from Dillon and what are driving conditions like?",
+      "answer": "Argenta is approximately 22 miles south of Dillon. Access is via MT 41 and county roads leading to a rough BLM access road with washboard surface. High-clearance vehicles are preferable, though standard passenger cars can access the site in dry conditions. The final approach is 3-5 miles of unimproved road."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Argenta, Montana?",
+      "answer": "May through September is optimal. The high-desert climate brings winter snow and muddy spring conditions that make access difficult. Summer and early fall provide dry roads, stable weather, and clear visibility for spotting specimens in the sagebrush terrain."
+    },
+    {
+      "question": "Is Argenta rockhounding suitable for beginners and families with children?",
+      "answer": "Yes, Argenta is beginner and family-friendly. The terrain is relatively gentle with short walks from parking areas. No special skills or expensive equipment are needed - a hand tool, bucket, and water are sufficient. Children ages 6 and up can participate, though supervision and sun protection are essential in this remote area."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Argenta?",
+      "answer": "Bring a small pry bar or flathead screwdriver for specimen extraction, bucket, hand lens for inspection, sturdy hiking boots, hat, and sunscreen. Most importantly, carry at least 2-3 liters of water per person - no water sources exist at the site. A GPS device or smartphone with offline maps is helpful given the remote location and spotty cell service."
+    }
+  ],
+  "meta_title": "Argenta Rockhounding - Montana BLM",
+  "meta_description": "Free rockhounding at Argenta on Montana BLM land near Dillon. Collect quartz, agate, and chalcedony. No permit required. 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "terrain_notes",
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-21T19:06:18.954Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:08:51.109Z"
+}

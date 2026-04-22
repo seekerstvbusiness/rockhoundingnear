@@ -1,0 +1,60 @@
+{
+  "slug": "whitehouse-oh",
+  "name": "Whitehouse",
+  "lat": 41.512178,
+  "lng": -83.80034,
+  "state": "Ohio",
+  "state_slug": "ohio",
+  "state_code": "OH",
+  "city": "Whitehouse",
+  "city_slug": "whitehouse",
+  "county": "Lucas",
+  "county_slug": "lucas",
+  "geocoded_city": "Whitehouse",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-ohio.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Whitehouse%20Ohio"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Whitehouse",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Whitehouse%20Ohio"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 648,
+      "meters": 197
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:43:47.052Z"
+  },
+  "scraped_at": "2026-04-21T16:43:47.052Z",
+  "scrape_quality": "minimal"
+}

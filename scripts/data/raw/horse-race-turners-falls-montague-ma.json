@@ -1,0 +1,60 @@
+{
+  "slug": "horse-race-turners-falls-montague-ma",
+  "name": "Horse Race, Turner's Falls, Montague",
+  "lat": 42.603001,
+  "lng": -72.509003,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Montague",
+  "city_slug": "montague",
+  "county": "Franklin",
+  "county_slug": "franklin",
+  "geocoded_city": "Montague",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Horse%20Race%2C%20Turner's%20Falls%2C%20Montague%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Horse%20Race%2C%20Turner's%20Falls%2C%20Montague",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Horse%20Race%2C%20Turner's%20Falls%2C%20Montague%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 190,
+      "meters": 58
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:35:33.585Z"
+  },
+  "scraped_at": "2026-04-21T19:35:33.585Z",
+  "scrape_quality": "minimal"
+}

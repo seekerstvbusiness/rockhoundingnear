@@ -1,0 +1,99 @@
+{
+  "slug": "hatch-nm",
+  "name": "Hatch",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Hatch",
+  "city_slug": "hatch",
+  "county": "Doña Ana",
+  "county_slug": "dona-ana",
+  "lat": 32.710816,
+  "lng": -107.107219,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "Public BLM rockhounding near Hatch featuring agate, chalcedony, and quartz in gentle desert terrain. No permit required for personal collecting within daily limits.",
+  "description": "The Hatch area in southern Doña Ana County offers accessible rockhounding on Bureau of Land Management (BLM) public lands at 4,288 feet elevation. This region is known for nodular agate, chalcedony specimens, and colorful quartz varieties scattered across gentle slopes typical of the Chihuahuan Desert transition zone.\n\nThe geology here reflects the Basin and Range province, where Miocene-era volcanic and hydrothermal activity deposited silica-rich minerals that weathered into the agate and chalcedony nodules found today. The landscape is semi-arid with sparse desert scrub, making surface collecting viable year-round with seasonal comfort variations.\n\nThis is an excellent location for beginners and families due to the relaxed BLM regulations, gentle terrain, and no-permit requirement. Collectors can expect to find thumb-sized to fist-sized specimens of banded agate and milky quartz, with occasional jasper pieces. The open desert floor makes spotting colorful rocks relatively easy compared to forested terrain.\n\nBecause this is public BLM land, you have the freedom to explore and collect without advance approval. The 25-pound daily limit per Federal Land Policy and Management Act (FLPMA) is generous enough for most recreational collectors. This location works well for day trips from Las Cruces or El Paso area rockhounders.",
+  "history": "This area sits within the Chihuahuan Desert portion of the Basin and Range province where Miocene volcanic activity and subsequent hydrothermal circulation deposited silica-rich fluids that formed agate nodules and chalcedony within host rocks. Weathering over millions of years has exposed these specimens on the modern surface, making them accessible to surface collectors without excavation.",
+  "tips": "Search along washes and bajadas where erosion concentrates loose nodules; early morning light helps spot the waxy luster of agate against desert soil. Bring a magnet to identify iron-oxide banding in specimens before pocketing. Look for translucent to milky quartz with banding or color zoning, as solid white or gray specimens are common but less collectible.",
+  "terrain_notes": "Gentle desert slopes at 4,288 feet elevation with sparse creosote and yucca vegetation. Walking distance from parking is typically less than 1 mile to productive areas. Footing is generally stable rocky ground, though loose small stones require sturdy hiking boots. Terrain is open and mostly flat with minor elevation changes.",
+  "best_season": "October - April. High desert heat (100+ F) makes collecting uncomfortable May - September. Winter temperatures in this region are mild, rarely freezing, making winter collection viable. Spring (March - April) offers blooming wildflowers and moderate temperatures.",
+  "written_directions": "From Hatch, drive north or west on local BLM access roads in the surrounding area. GPS coordinates 32.710816, -107.107219 mark productive collecting terrain on public BLM land in Doña Ana County. Contact the Las Cruces District BLM office for current access details and specific road conditions. Most routes are accessible via passenger vehicle on maintained county roads, though some secondary access may require high-clearance vehicles.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Maintained county roads lead to collecting areas; some secondary BLM roads may be washboard or rough. High-clearance vehicle recommended for remote access roads, but main approaches passable by passenger cars.",
+  "parking_notes": "BLM land with informal pullouts and open desert parking typical of southern New Mexico public land. No developed parking facilities; park responsibly off-road near productive areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA. No commercial collection. No motorized excavation or heavy equipment. Collect only loose specimens; do not break rock outcrops or use hammers on formations. Pack out all waste. Stay within BLM-designated public land boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo rock hammering on formations\nCollect loose specimens only\nPack out all waste\nRemain on public BLM land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "remote"
+  ],
+  "nearest_services": "Hatch, New Mexico (5 miles) has gas stations, restaurants, and general stores. Las Cruces (35 miles north) offers full services including hospitals and rock shops.",
+  "accessibility_notes": "Relatively flat desert terrain accessible to most hikers and families. Gentle slopes with stable rocky footing require sturdy hiking boots but no technical climbing. No wheelchair accessibility on open BLM land, but parking areas can accommodate mobility devices. Limited shade; bring sun protection.",
+  "alternative_names": [
+    "Doña Ana County BLM collecting area",
+    "Lower Gila Valley rockhounding"
+  ],
+  "nearest_city": "Hatch",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/hatch-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of rocks and gems can I find rockhounding near Hatch, New Mexico?",
+      "answer": "The Hatch area is known for nodular agate, chalcedony, colorful quartz, and jasper specimens. Most finds are thumb-sized to fist-sized surface nodules with banded or translucent qualities. The semi-arid desert terrain makes spotting these silica-rich minerals relatively easy compared to forested regions."
+    },
+    {
+      "question": "Do I need a permit to collect rocks at Hatch BLM land?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Hatch. This is one of the advantages of public BLM collecting - you can explore and collect freely. However, you must follow FLPMA rules: personal use only, maximum 25 pounds per day, no commercial collection, and no motorized excavation."
+    },
+    {
+      "question": "What is the best time of year for rockhounding near Hatch?",
+      "answer": "October through April is ideal for Hatch rockhounding. Temperatures are mild and comfortable for outdoor collecting (50-70 F). Summer months (May - September) bring extreme heat exceeding 100 F, making daytime collecting uncomfortable. Winter freezes are rare in this high desert region, so winter collecting is viable."
+    },
+    {
+      "question": "Is the Hatch rockhounding area family-friendly and suitable for beginners?",
+      "answer": "Yes, the Hatch BLM area is excellent for families and beginners. The terrain is gentle with open desert slopes, no permit requirements, and no fee charges. Specimens are visible on the surface, making finds achievable without technical skills. The 25-pound daily limit is generous for recreational collectors. Consider bringing children aged 6 and older for best experience."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Hatch?",
+      "answer": "Bring sturdy hiking boots for rocky desert terrain, a backpack or collection bag, sunscreen and hat for high desert sun, and plenty of water (at least 2-3 liters). A 10x loupe helps identify banding and translucence in agate specimens. A magnet is useful for detecting iron oxide patterns. Leave heavy hammers at home - only collect loose surface specimens per BLM rules."
+    },
+    {
+      "question": "How far is Hatch rockhounding from Las Cruces or El Paso, and what are the nearest services?",
+      "answer": "Hatch is approximately 5 miles from the town of Hatch, which has gas stations and restaurants. Las Cruces is about 35 miles north with full services including hospitals and rock shops. The area is semi-remote but not far from civilization. Cell service is spotty, so let someone know your collecting plans and bring enough water and supplies."
+    }
+  ],
+  "meta_title": "Hatch NM Rockhounding - Free BLM Agate & Quartz",
+  "meta_description": "Collect agate, chalcedony, and quartz on public BLM land near Hatch, NM. No permit required. Easy terrain, family-friendly, 25 lbs/day limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "road_conditions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T09:50:35.640Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:25.401Z"
+}

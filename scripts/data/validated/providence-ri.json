@@ -1,0 +1,98 @@
+{
+  "slug": "providence-ri",
+  "name": "Providence",
+  "state": "Rhode Island",
+  "state_slug": "rhode-island",
+  "city": "Providence",
+  "city_slug": "providence",
+  "county": "Providence",
+  "county_slug": "providence",
+  "lat": 41.82411,
+  "lng": -71.461634,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Urban rockhounding in Rhode Island's capital along the Providence River. Find quartz, feldspar, and mica in glacial deposits and bedrock outcrops typical of New England's Precambrian geology.",
+  "description": "Providence sits at the head of Narragansett Bay in southeastern New England, positioned within a region shaped by Pleistocene glaciation and underlain by Precambrian metamorphic rocks. The Providence area offers limited but accessible rockhounding opportunities in urban and semi-urban settings, primarily along riverbanks, in glacial till exposures, and scattered bedrock outcrops. The most productive areas tend to be along the Providence River embankments and in areas where glacial deposits have been exposed by erosion or construction. As an urban location, access can be challenging, and much land is privately owned or restricted.\n\nThe geology here reflects New England's complex pre-Cambrian basement - primarily gneiss, schist, and granite that was heavily glaciated during the last ice age. The glaciers left behind a veneer of clay, silt, sand, and gravel containing erratics (transported boulders) and mineral fragments from these bedrock sources. Quartz and feldspar are common in the glacial deposits, while mica flakes can be found in schist exposures.\n\nRockhounding in Providence itself requires permission on private land and awareness of city regulations. The best approach is to focus on river access points, public parks with exposed banks, and any BLM or state-managed parcels nearby. Spring runoff often exposes fresh material along the Providence River.\n\nExpect smaller specimens compared to western collecting sites - typical finds are quartz pebbles 1-3 inches across, feldspar fragments, and mica flakes. The challenge here is more about urban geology awareness than remote wilderness collecting. This location suits collectors interested in glacial mineralogy, New England bedrock geology, and urban rockhounding.",
+  "history": "Providence sits atop Precambrian metamorphic bedrock - primarily gneiss and schist - that was originally formed deep in the Earth during ancient continental collisions over 600 million years ago. During the last glacial maximum roughly 20,000 years ago, thick ice sheets scraped across Rhode Island, pulverizing bedrock and carrying fragments southward, depositing glacial till that now blankets the region.",
+  "tips": "Check the Providence River embankments especially during spring after high water has exposed fresh material in banks and gravel bars. Focus on glacial deposits and till exposures where quartz and feldspar pebbles accumulate naturally. Bring a hand lens to identify feldspar (white to pink, blocky) versus quartz (glassy, harder). Always respect private property and ask permission before collecting; city parks often prohibit collection, so research specific access rules for each area.",
+  "terrain_notes": "Providence is nearly flat at 44 feet elevation with urban and developed terrain. The Providence River provides the most accessible natural areas, though banks are often steep and muddy. Vegetation is typical of southern New England - deciduous and mixed forest where green space exists. Walking from parking is typically short - under half mile - but urban setting means uneven sidewalks and developed land. Footing can be slippery along river banks after rain.",
+  "best_season": "April - October, with May through September offering best access and comfort. Winter months are cold and wet; spring runoff in April-May exposes fresh river-bank material.",
+  "written_directions": "From downtown Providence, head south along South Main Street or east along East Bay Street to access Providence River embankments. The Roger Williams National Memorial area offers some public river access. For glacial deposits, explore Prospect Street heading east toward Slatersville, where glacial till exposures appear in banks and roadcuts. Always verify access on public property before collecting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved city and suburban roads; no high-clearance vehicle needed. River access may involve unpaved parking areas or informal pullouts.",
+  "parking_notes": "Street parking in downtown Providence or public parking areas near parks and riverside access points. No dedicated rockhounding parking area; use public facilities and respect posted regulations.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Most land in Providence is private or city-regulated. Collection is generally prohibited in city parks and nature preserves without explicit permission. Always obtain landowner permission before collecting. Check with the City of Providence Parks and Recreation and Rhode Island Department of Environmental Management for any restrictions on specific public access areas.",
+  "quantity_limits": null,
+  "rules": "No commercial collection. Respect private property - obtain permission before accessing any non-public land. Many parks prohibit removal of natural materials. Check local city ordinances before collecting.",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "cold"
+  ],
+  "nearest_services": "Providence downtown has gas, food, lodging, and water within walking distance. Raynham, Massachusetts is 22 miles away.",
+  "accessibility_notes": "Relatively flat urban and river-adjacent terrain with good accessibility to most areas by vehicle and foot. River banks are steep and can be muddy; sturdy footwear required. Wheelchair access available in downtown parks but not along rough river embankments. No special equipment needed for casual collecting.",
+  "alternative_names": [],
+  "nearest_city": "Providence",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/rhode-island/providence-ri/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/rhode-island/providence-ri/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Providence, Rhode Island?",
+      "answer": "Providence area rockhounding focuses on quartz, feldspar, and mica found in glacial deposits and Precambrian bedrock. Quartz appears as pebbles in river gravels and till, feldspar as white to pink fragments in schist outcrops, and mica as shiny flakes in metamorphic rock exposures. Specimens are typically small (1-3 inches) due to the urban setting and glaciated terrain."
+    },
+    {
+      "question": "Is rockhounding free in Providence, Rhode Island?",
+      "answer": "Yes, rockhounding in Providence is free, but access is limited because most land is privately owned or city-regulated. You must obtain landowner permission before collecting on private property. Public river access points and certain parks may allow collection, but city parks often prohibit removal of natural materials - check with Providence Parks and Recreation before visiting."
+    },
+    {
+      "question": "Do I need a permit to collect rocks and minerals in Providence?",
+      "answer": "No state-level permit is required for rockhounding in Rhode Island, but you must comply with local city ordinances in Providence. Always verify with the City of Providence and the Rhode Island Department of Environmental Management whether the specific area allows collection. Private landowner permission is required for non-public land."
+    },
+    {
+      "question": "When is the best time to go rockhounding in Providence?",
+      "answer": "April through October offers the best rockhounding conditions, with May-September providing comfortable weather and good access. Spring (April-May) is especially productive because river runoff exposes fresh material in banks and gravel bars. Winter is cold and wet, making access difficult."
+    },
+    {
+      "question": "Where exactly should I search for quartz and feldspar in Providence?",
+      "answer": "Focus on Providence River embankments and gravel bars, especially after spring runoff has exposed fresh glacial material. Look for glacial till exposures along banks and in roadcuts. The Roger Williams National Memorial offers some public river access. Bring a hand lens to identify white blocky feldspar versus glassy quartz."
+    },
+    {
+      "question": "Is Providence, Rhode Island a beginner-friendly rockhounding location?",
+      "answer": "Yes, Providence is beginner-friendly because specimens are easy to identify, terrain is flat and accessible, and tools are minimal. However, urban location and private land ownership create access challenges. Beginners should focus on public river access points and verify permission before collecting. Specimens are smaller than western sites but excellent for learning New England glacial mineralogy."
+    }
+  ],
+  "meta_title": "Providence Rockhounding - Find Quartz & Feldspar, RI",
+  "meta_description": "Rockhound for quartz, feldspar, and mica in Providence, Rhode Island. Public river access, free collecting, and beginner-friendly glacial geology.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "parking_notes",
+    "written_directions",
+    "collection_rules"
+  ],
+  "enriched_at": "2026-04-21T16:38:05.619Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:39:23.511Z"
+}

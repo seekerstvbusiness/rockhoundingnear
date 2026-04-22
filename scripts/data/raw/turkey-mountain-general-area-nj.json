@@ -1,0 +1,60 @@
+{
+  "slug": "turkey-mountain-general-area-nj",
+  "name": "Turkey Mountain General Area",
+  "lat": 40.939707,
+  "lng": -74.375567,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Montville Township",
+  "city_slug": "montville-township",
+  "county": "Morris",
+  "county_slug": "morris",
+  "geocoded_city": "Montville Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Turkey%20Mountain%20General%20Area%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Turkey%20Mountain%20General%20Area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Turkey%20Mountain%20General%20Area%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 429,
+      "meters": 131
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:28:43.912Z"
+  },
+  "scraped_at": "2026-04-21T18:28:43.912Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "somerville-nj",
+  "name": "Somerville",
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "city": "Bridgewater Township",
+  "city_slug": "bridgewater-township",
+  "county": "Somerset",
+  "county_slug": "somerset",
+  "lat": 40.584732,
+  "lng": -74.567161,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Explore rockhounding in central New Jersey's glacial terrain near Somerville. Find quartz, feldspar, and mica specimens in glacial deposits and stream channels.",
+  "description": "The Somerville area in Somerset County sits within New Jersey's Piedmont physiographic province, characterized by Precambrian metamorphic bedrock overlain by Pleistocene glacial deposits. This lowland region near the confluence of local waterways offers rockhounders access to glacially-deposited mineral specimens and streambed collecting opportunities. Quartz in various forms, feldspar crystals, and mica sheets can be found in glacial till, stream channels, and disturbed soils throughout the region.\n\nThe terrain here is relatively gentle with numerous stream valleys and natural drainage areas that concentrate heavier minerals and larger specimens. Glacial erratics and outwash deposits from the Last Glacial Maximum (roughly 20,000 years ago) blanket this landscape, bringing minerals from the Canadian Shield and local bedrock sources southward. Rockhounders should focus on stream beds, exposed glacial cuts, and areas where water has sorted and concentrated mineral material.\n\nAccess in this area can be mixed between public parkland, private property, and municipal lands. Always verify current access status and ownership before collecting, as suburban development has consumed many traditional rockhounding sites in Somerset County. When permitted to collect, focus on non-invasive surface gathering rather than excavation to preserve the landscape for future generations.",
+  "history": "The Somerville area's mineral deposits result from the Late Precambrian assembly of Gondwana, which created the metamorphic basement rocks underlying New Jersey, followed by deep burial and regional metamorphism. Overlying these bedrock formations are Pleistocene glacial deposits that were transported southward during the Last Glacial Maximum, bringing fresh mineral specimens from shield rocks to the north and mixing them with locally-derived metamorphic minerals.",
+  "tips": "Focus your search on active stream beds and seasonal waterways in the area, where running water concentrates heavier minerals like mica and feldspar in small concentrations along the channel. Look for white and pink feldspar crystals in glacial till exposed along stream cuts and disturbed banks. Bring a magnet to identify and separate magnetite and other iron-rich minerals from your finds. Early spring after snowmelt and heavy rains increases mineral visibility in streams and exposes fresh material in exposed banks.",
+  "terrain_notes": "Low elevation (181 feet) with gently rolling terrain typical of the New Jersey Piedmont. Vegetation includes mixed deciduous forest and residential landscaping. Stream access generally requires walking less than 1 mile from parking areas. Footing is relatively easy on established paths but stream beds may have slippery rocks and uneven footing. Some areas may be wet or muddy year-round.",
+  "best_season": "March - May, September - November",
+  "written_directions": "From Bridgewater Township center, head north or south along Route 27 (Lincoln Highway) or Route 22 depending on which public land or stream access point you are targeting. The Somerville area is served by Route 206 and local roads connecting to the Raritan River and tributary streams. Contact local municipalities for current public access areas and stream crossing points, as many traditional collecting sites are now on private land or restricted.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved roads and parking areas throughout the developed Somerville area. Access to stream beds may require short walks on unimproved paths or stream banks.",
+  "parking_notes": "Multiple municipal parking areas and roadside pullouts exist near public parks and stream access points. Specific parking locations vary by current access policies. Contact Bridgewater Township or Somerset County Parks for updated information on designated rockhounding areas.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use collection only on public lands and parks where rockhounding is permitted. Always verify current access and collection policies with local municipalities before collecting. No commercial collection. Respect posted signs and private property boundaries. Collect only loose surface specimens; do not excavate, blast, or remove bedrock.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nVerify access and ownership before collecting\nNo commercial collection\nNo excavation or blasting\nCollect only loose surface material\nRespect private property and posted restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Bridgewater Township and Somerville town centers offer gas, food, and water services within 3-5 miles of most stream access points. Multiple grocery stores, restaurants, and gas stations are available throughout the area.",
+  "accessibility_notes": "Easy terrain suitable for families and beginners. Gently rolling landscape with established paths to most stream access points. Most walking distances are less than 1 mile from parking. Stream beds may have slippery rocks and uneven footing in some areas. No significant elevation gain.",
+  "alternative_names": [],
+  "nearest_city": "Bridgewater Township",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-jersey/somerville-nj/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Somerville, New Jersey?",
+      "answer": "The Somerville area is best known for quartz specimens, feldspar crystals, and mica sheets found in glacial deposits and stream beds. These minerals result from glacial transport of Precambrian metamorphic rocks from the north and local bedrock erosion. Stream beds and exposed glacial cuts offer the best chances of finding collectible specimens."
+    },
+    {
+      "question": "Is rockhounding free in Somerville New Jersey?",
+      "answer": "Personal use rockhounding is free on public lands and municipal parks where collection is permitted. However, access is increasingly restricted due to suburban development and private property ownership. Always contact Bridgewater Township or Somerset County Parks to confirm current access status before visiting any specific collecting site."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Somerset County New Jersey?",
+      "answer": "The ideal rockhounding season in Somerville is March through May and September through November. Spring months offer exposed material from winter erosion and higher water flow in streams that concentrates minerals. Fall weather is cooler and more comfortable for extended field time. Summer can be humid and hot, while winter stream access may be difficult."
+    },
+    {
+      "question": "Do you need a permit to collect rocks in Somerville NJ?",
+      "answer": "No permit is required for personal use rockhounding on public lands in the Somerville area, but access policies vary by location. Always verify that collection is allowed at your chosen site by contacting the local municipality or property manager. Private lands require explicit permission from the owner."
+    },
+    {
+      "question": "Where are the best stream beds for rockhounding near Somerville New Jersey?",
+      "answer": "Tributary streams feeding into the Raritan River system throughout Bridgewater Township offer the best rockhounding. Focus your search on active stream channels where water flow concentrates heavier minerals like mica and feldspar. Spring runoff increases mineral visibility and exposes fresh material in banks and stream beds. Always confirm public access before collecting."
+    },
+    {
+      "question": "Is Somerville NJ rockhounding suitable for beginners and families?",
+      "answer": "Yes, the Somerville area is excellent for beginner rockhounders and families. The terrain is gently rolling with easy access to stream beds and glacial deposits. Quartz and feldspar are relatively easy to identify and find. No special equipment or advanced skills are required, making it ideal for children ages 6 and up learning to identify basic minerals."
+    }
+  ],
+  "meta_title": "Somerville Rockhounding - Find Quartz & Feldspar NJ",
+  "meta_description": "Rockhound near Somerville NJ for quartz, feldspar, and mica in glacial deposits and stream beds. Free public access, easy terrain, great for families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "collection_rules",
+    "written_directions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-21T18:43:34.083Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:44:57.183Z"
+}

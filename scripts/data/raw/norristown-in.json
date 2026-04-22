@@ -1,0 +1,60 @@
+{
+  "slug": "norristown-in",
+  "name": "Norristown",
+  "lat": 39.362803,
+  "lng": -85.77399,
+  "state": "Indiana",
+  "state_slug": "indiana",
+  "state_code": "IN",
+  "city": "Shelby County",
+  "city_slug": "shelby-county",
+  "county": "Shelby",
+  "county_slug": "shelby",
+  "geocoded_city": "Norristown",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-indiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Norristown%20Indiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Norristown",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Norristown%20Indiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 734,
+      "meters": 224
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:54:51.480Z"
+  },
+  "scraped_at": "2026-04-21T16:54:51.480Z",
+  "scrape_quality": "minimal"
+}

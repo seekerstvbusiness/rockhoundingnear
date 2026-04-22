@@ -1,0 +1,97 @@
+{
+  "slug": "collins-hill-ct",
+  "name": "Collins Hill",
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "city": "Portland",
+  "city_slug": "portland",
+  "county": "Lower Connecticut River Valley Planning Region",
+  "county_slug": "lower-connecticut-river-valley-planning-region",
+  "lat": 41.588269,
+  "lng": -72.591596,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Small outcrop in central Connecticut offering collectors a chance to find quartz, feldspar, and mica specimens. Located near Portland in the scenic Lower Connecticut River Valley.",
+  "description": "Collins Hill is a modest rockhounding location in the Lower Connecticut River Valley region of Connecticut, known for its exposure of metamorphic rock formations typical of New England's geology. The site provides access to quartz veins, feldspar crystals, and mica flakes embedded in schist and gneiss outcrops. This area benefits from Connecticut's rich geological heritage shaped by the Acadian orogeny, which created the metamorphic basement rocks now exposed across the state. Rockhounders visiting Collins Hill should expect a short walk to the collecting area with typical New England woodlands and rocky terrain. The site is best suited for beginners and intermediate collectors interested in studying mineral specimens in their natural context rather than pursuing large quantities.",
+  "history": "Collins Hill exposes metamorphic rocks formed during the Acadian orogeny approximately 380 million years ago, when continental collision created intense heat and pressure that transformed sedimentary rocks into schist and gneiss. The Lower Connecticut River Valley region has been a focal point for geology study since the 1800s due to its abundant mineral exposures and clear representation of Connecticut's bedrock geology.",
+  "tips": "Search the weathered faces of schist and gneiss outcrops on the hillside for quartz veins and feldspar pockets - these are often concentrated along foliation planes. Use a geology hammer and cold chisel to carefully extract specimens without damaging the outcrop. Look for shiny mica flakes and translucent quartz crystals near the base of exposed ledges where freeze-thaw weathering naturally loosens material.",
+  "terrain_notes": "Collins Hill stands at 347 feet elevation with moderate slope and mixed deciduous forest cover. Rocky outcrops are exposed on the hillside with short walking distance from parking. Footing is uneven with loose rocks and root systems typical of Connecticut woodlands. Sturdy hiking boots recommended.",
+  "best_season": "May - October. Spring through fall offers the best weather and accessibility, with May through June and September through October providing ideal temperatures for field work. Winter snow and frozen ground can make the site difficult to access.",
+  "written_directions": "From Portland, take Route 17 north toward East Berlin. Collins Hill is accessible via local roads in the vicinity of the coordinates provided. Consult GPS or local county maps for precise routing to the site entrance, as the location is in a residential area without formal public access infrastructure.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "hiking",
+  "road_conditions": null,
+  "parking_notes": "Roadside parking near the site; verify access permission before visiting as this is private property.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "This site is on private property. Always obtain permission from the landowner before collecting. Remove only what you will use. Do not disturb the site with power tools or large-scale excavation. Respect property boundaries and leave the site in good condition.",
+  "quantity_limits": null,
+  "rules": "Obtain landowner permission before visiting\nPersonal collection only\nNo commercial use\nNo motorized equipment\nRemove only reasonable quantities\nLeave site undisturbed",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": false,
+  "kid_age_range": "8+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Portland center is approximately 1-2 miles away with gas, food, and water services available.",
+  "accessibility_notes": "Relatively easy terrain with moderate slope and exposed outcrops. Uneven rocky footing requires sturdy boots. Short walking distance from parking to collecting area. Not wheelchair accessible due to natural terrain and private property constraints.",
+  "alternative_names": [],
+  "nearest_city": "Portland",
+  "nearest_city_distance": 1,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/connecticut/collins-hill-ct/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/connecticut/collins-hill-ct/mineral-1-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Collins Hill in Connecticut?",
+      "answer": "Collins Hill offers quartz, feldspar, and mica specimens. You will find quartz veins embedded in schist and gneiss outcrops, translucent quartz crystals, shiny feldspar pockets, and mica flakes along the hillside. These are metamorphic minerals typical of Connecticut's bedrock geology."
+    },
+    {
+      "question": "Is rockhounding at Collins Hill free, and do I need a permit?",
+      "answer": "Collins Hill is on private property, so there is no fee, but you must obtain permission from the landowner before collecting. No permit is required if access is granted by the property owner."
+    },
+    {
+      "question": "What is the best season to go rockhounding near Portland, Connecticut?",
+      "answer": "May through October is ideal for visiting Collins Hill. Spring and early fall provide the most comfortable weather and easiest access to the hillside outcrops. Winter snow and frozen ground can make the site difficult to navigate safely."
+    },
+    {
+      "question": "Is Collins Hill suitable for beginner rockhounders and families?",
+      "answer": "Yes, Collins Hill is beginner-friendly with easy-to-moderate terrain and accessible mineral specimens in exposed outcrops. Children ages 8 and up can safely collect here with supervision, making it a good introduction to New England geology and mineral collecting."
+    },
+    {
+      "question": "What tools do I need to collect quartz and feldspar at Collins Hill?",
+      "answer": "Bring a geology hammer, cold chisel, and small pry bar to extract specimens from the schist and gneiss outcrops. A backpack, magnifying glass, and field notebook are helpful for identifying minerals on site. Sturdy hiking boots are essential for the rocky, uneven terrain."
+    },
+    {
+      "question": "How far is Collins Hill from Portland, and what are parking conditions?",
+      "answer": "Collins Hill is approximately 1-2 miles from Portland center, making it an easy day trip. Roadside parking is available near the site. Cell service is reliable in the area, and Portland offers nearby amenities including gas, food, and water services."
+    }
+  ],
+  "meta_title": "Collins Hill Rockhounding - Portland, Connecticut",
+  "meta_description": "Find quartz, feldspar, and mica at Collins Hill near Portland, CT. Private property site with easy terrain and beginner-friendly mineral collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type - inferred as private based on no public land designation",
+    "parking_notes - specific parking details not confirmed",
+    "written_directions - routing based on nearest town and GPS coordinates; local road access not verified",
+    "collection_rules - standard private property protocol applied; actual landowner rules unknown",
+    "gem_types - based on typical Lower Connecticut River Valley metamorphic minerals; not field-verified at this specific location"
+  ],
+  "enriched_at": "2026-04-21T18:15:16.032Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:17:51.826Z"
+}

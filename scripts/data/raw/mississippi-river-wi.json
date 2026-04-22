@@ -1,0 +1,60 @@
+{
+  "slug": "mississippi-river-wi",
+  "name": "Mississippi River",
+  "lat": 43.018111,
+  "lng": -91.150462,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Town of Bridgeport",
+  "city_slug": "town-of-bridgeport",
+  "county": "Crawford",
+  "county_slug": "crawford",
+  "geocoded_city": "Town of Bridgeport",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mississippi%20River%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mississippi%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mississippi%20River%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 615,
+      "meters": 187
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:16:52.237Z"
+  },
+  "scraped_at": "2026-04-21T18:16:52.237Z",
+  "scrape_quality": "minimal"
+}

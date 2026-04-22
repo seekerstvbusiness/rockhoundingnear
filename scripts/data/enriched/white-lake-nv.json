@@ -1,0 +1,98 @@
+{
+  "slug": "white-lake-nv",
+  "name": "White Lake",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Reno",
+  "city_slug": "reno",
+  "county": "Washoe",
+  "county_slug": "washoe",
+  "lat": 39.647969,
+  "lng": -119.95693,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Obsidian"
+  ],
+  "short_description": "BLM public land near Reno offering agate and chalcedony collecting on gentle slopes. Easy access with no permit required and a 25 lb daily limit.",
+  "description": "White Lake sits on public BLM land in the high desert east of Reno at 5,137 feet elevation. The area features gentle slopes and open terrain typical of the Basin and Range province, making it accessible for rockhounders of all skill levels. This location is popular for surface collecting of agates, chalcedony nodules, and quartz specimens that weather out of the surrounding volcanic and sedimentary formations.\n\nThe geology here reflects the Miocene-era volcanic activity that blanketed the region with rhyolite, basalt, and ash deposits. Silica-rich groundwater percolating through these rocks over millions of years created the nodular agate and chalcedony deposits found at the surface today. Weathering and erosion continually expose new material, making White Lake a reliable spot for consistent finds.\n\nCollecting is straightforward - walk the open slopes and washes, scanning the ground for colorful nodules and translucent pieces. The gentle terrain means you can cover substantial ground without technical hiking. Most finds are small to medium thumb-sized nodules, though larger pieces do appear. The area sees moderate traffic from local rockhounds, so morning visits or off-season trips yield better selection.\n\nThis is an ideal location for beginners and families due to the easy access, no-permit requirement, and forgiving terrain. The open landscape offers good visibility for spotting specimens, and the 25 lb daily limit is generous for a day's recreational collecting.",
+  "history": "The high desert around Reno was shaped by intense Miocene volcanic activity (20-15 million years ago) that deposited thick sequences of rhyolite ash flows and basaltic lava. Subsequent Basin and Range extension and faulting tilted these volcanic strata, exposing them to weathering. Silica-rich fluids migrating through fractures in the volcanic rocks precipitated agate and chalcedony in cavities and along bedding planes, creating the nodule deposits visible at the surface today.",
+  "tips": "Scan the open slopes and wash beds during morning light when shadows highlight weathered nodule surfaces. Focus on areas where erosion has recently exposed fresh material - active washes and base of small outcrops yield the most finds. Bring a small hammer and chisel to extract partially embedded nodules without damaging them; many pieces are locked in host rock. Look for translucent or banded agate pieces showing orange, white, red, or gray coloring, and check under loose rocks where nodules accumulate.",
+  "terrain_notes": "Elevation 5,137 feet with gentle slopes and open sagebrush-covered terrain. Unpaved ranch roads provide access to parking areas within 0.5-1 mile of the best collecting zones. Walking is easy over short to moderate distances on relatively flat ground with scattered rocks underfoot. Footing is generally stable but watch for loose cobbles and minor gullies. No major elevation changes; the gentle slope means no strenuous hiking required.",
+  "best_season": "October - April. The high desert elevation and open terrain make summers hot (85-95 F) with little shade. Fall and winter offer comfortable temperatures (50-70 F) and lower sun exposure. Spring visits (March-April) are also good before heat intensifies. Summer is possible early morning but not recommended for extended collecting.",
+  "written_directions": "From Reno, take Nevada State Route 395 north approximately 8 miles. Turn east onto a signed or unsigned BLM access road (roads vary by current maintenance - ask at Reno BLM office or check current road maps). Continue east 2-3 miles on unpaved road to White Lake area parking pullouts. The exact access road shifts with seasonal closures, so confirm current vehicle access before traveling. GPS coordinates will guide you to the general collecting zone once you reach BLM land.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved ranch/BLM road with possible washboard texture. Passenger vehicles can access during dry conditions; check local BLM office for seasonal road status.",
+  "parking_notes": "Unmarked pullouts along BLM access roads. No developed parking lot. Space for 2-4 vehicles at various informal pullout locations near the collecting area.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect only loose material and surface specimens - do not use power tools or blast. Leave gates as you find them.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation or power tools\nCollect surface material only\nLeave gates as found",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "Reno - 8 miles north. Full services including gas, food, water, and supplies.",
+  "accessibility_notes": "Relatively flat, open terrain accessible to most hikers and families. Gentle slopes with no steep climbs. Unpaved road to parking area suitable for passenger vehicles in dry conditions. Short walking distances to productive collecting areas. No wheelchair access on unpaved roads, but walking once parked is on level ground with minor uneven footing from scattered rocks.",
+  "alternative_names": [],
+  "nearest_city": "Reno",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/white-lake-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/white-lake-nv/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at White Lake near Reno?",
+      "answer": "White Lake is known for agate, chalcedony, quartz, and obsidian specimens. Most finds are thumb-sized nodules showing banding in orange, white, red, and gray. Larger pieces and translucent chalcedony do appear but are less common. The gentle terrain and open slopes make spotting specimens easier than at many Nevada locations."
+    },
+    {
+      "question": "Do I need a permit to rockhound at White Lake, Nevada?",
+      "answer": "No permit is required. White Lake sits on public BLM land where recreational rockhounding is allowed under FLPMA regulations. You can collect up to 25 lbs per day for personal use with no application or fee. Commercial collection and motorized excavation are not permitted."
+    },
+    {
+      "question": "What is the best time of year to visit White Lake for rockhounding?",
+      "answer": "October through April is ideal. The high desert elevation makes summers hot and uncomfortable for collecting. Fall and early spring offer pleasant temperatures (50-70 F) and better visibility. Summer trips are possible but should start at dawn to avoid afternoon heat."
+    },
+    {
+      "question": "Is White Lake rockhounding site beginner-friendly and good for families?",
+      "answer": "Yes, White Lake is one of the best beginner sites near Reno. The gentle slopes require no technical hiking, no permit is needed, and the 25 lb limit is generous. Children as young as 6 can participate safely. The open terrain makes it easy to supervise kids and spot specimens."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at White Lake?",
+      "answer": "Bring a small hammer and chisel to extract partially embedded nodules from host rock. A magnifying lens helps identify quality specimens. Wear sturdy boots (loose rocks are common), bring sun protection and water (no shade available), and a collection bag. Early morning visits mean headlamp or flashlight."
+    },
+    {
+      "question": "How far is White Lake rockhounding site from Reno and what are road conditions?",
+      "answer": "White Lake is 8 miles northeast of Reno via Nevada State Route 395 and BLM access roads. The final 2-3 miles are unpaved ranch road passable by passenger vehicles in dry conditions. Confirm current road status with the Reno BLM office before visiting, as seasonal closures can affect access. Cell service is spotty in the area."
+    }
+  ],
+  "meta_title": "White Lake Rockhounding - Nevada Agate & Chalcedony",
+  "meta_description": "Find agate, chalcedony, and quartz at White Lake BLM land near Reno. No permit, 25 lb daily limit. Easy beginner-friendly rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "road_conditions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T09:27:31.337Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:14.180Z"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "shungnak-ak",
+  "name": "Shungnak",
+  "lat": 66.883509,
+  "lng": -157.102019,
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "state_code": "AK",
+  "city": "Shungnak",
+  "city_slug": "shungnak",
+  "county": "Northwest Arctic Borough",
+  "county_slug": "northwest-arctic-borough",
+  "geocoded_city": "Shungnak",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-alaska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Shungnak%20Alaska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Shungnak",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Shungnak%20Alaska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:23:16.785Z"
+  },
+  "scraped_at": "2026-04-21T18:23:16.785Z",
+  "scrape_quality": "minimal"
+}

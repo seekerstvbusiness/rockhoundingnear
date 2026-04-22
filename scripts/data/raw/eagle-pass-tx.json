@@ -1,0 +1,60 @@
+{
+  "slug": "eagle-pass-tx",
+  "name": "Eagle Pass",
+  "lat": 28.737347,
+  "lng": -100.471205,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Maverick County",
+  "city_slug": "maverick-county",
+  "county": "Maverick",
+  "county_slug": "maverick",
+  "geocoded_city": "Eagle Pass",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Eagle%20Pass%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Eagle%20Pass",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Eagle%20Pass%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 816,
+      "meters": 249
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:49:16.510Z"
+  },
+  "scraped_at": "2026-04-21T18:49:16.511Z",
+  "scrape_quality": "minimal"
+}

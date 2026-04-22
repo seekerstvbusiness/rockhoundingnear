@@ -1,0 +1,100 @@
+{
+  "slug": "abiquiu-lake-nm",
+  "name": "Abiquiu Lake",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Coyote",
+  "city_slug": "coyote",
+  "county": "Rio Arriba",
+  "county_slug": "rio-arriba",
+  "lat": 36.234775,
+  "lng": -106.432072,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Free BLM rockhounding near Abiquiu Lake with agate, chalcedony, and jasper specimens. Moderate terrain at 6,425 feet elevation with scenic high desert backdrop.",
+  "description": "Abiquiu Lake sits in the Rio Arriba County high desert near Coyote, New Mexico, offering public BLM land access for recreational rockhounding. The lake area is surrounded by moderate-slope terrain typical of the Espanola Basin, where volcanic and sedimentary deposits have created excellent conditions for agate and chalcedony formation. Collectors can search wash areas and exposed hillsides near the lake perimeter for colorful nodules and banded specimens without permits or fees - just personal use limits apply.\n\nThe geological setting here reflects Tertiary volcanic activity and subsequent weathering that has exposed silica-rich materials across the landscape. Agate nodules weather out of host rock and concentrate in washes after seasonal runoff, making spring and post-rain periods productive. Jasper and chalcedony fragments appear throughout the upper soil layers on south-facing slopes.\n\nAccess is straightforward on public BLM land, though roads can be rough depending on recent weather. Parking areas exist near the lake proper, with walking distance to productive areas typically 0.5 to 2 miles. The elevation and exposure make this a cooler location than lower New Mexico desert sites, but summer afternoons can still be hot. Winter and early spring (October through April) offer the most comfortable collecting conditions.\n\nThis site works well for beginners and families because the terrain is relatively accessible, specimens are abundant, and no special equipment beyond basic tools is needed. Bring water, sun protection, and sturdy footwear - the ground is rocky and footing is uneven in places. The lake itself provides a scenic backdrop and access to multiple collecting areas within a small radius.",
+  "history": "Abiquiu Lake sits within the Espanola Basin, a major structural depression formed during Tertiary extension in the Rio Grande Rift. Volcanic ash falls and silica-rich groundwater during the Miocene epoch deposited the agate and chalcedony nodules found here today, which weather out of their parent rock as surface lag deposits across the BLM lands surrounding the reservoir.",
+  "tips": "Search washes and drainage bottoms after seasonal rains - water movement concentrates heavier agate nodules in natural low spots. South-facing slopes near exposed volcanic outcrops often yield larger, more colorful specimens; look for banded agate with red, orange, and cream tones. Bring a hand lens to inspect specimens for quality before collecting - pass on chalky, heavily weathered pieces and target translucent material. Early morning light makes spotting the semi-translucent stones much easier against the desert soil.",
+  "terrain_notes": "Elevation 6,425 feet with moderate slopes and scattered piñon-juniper shrubland. Walking distance from parking to productive areas ranges 0.5 to 2 miles. Footing is rocky and uneven with loose volcanic fragments and small stones. No shade in most areas - full sun exposure throughout the day. Washes are seasonal and may contain water after rainfall.",
+  "best_season": "October - April. Higher elevation and exposure make summer afternoons hot; spring offers best combination of mild temperatures and post-rain material concentration in washes. Winter weather can close rough roads temporarily.",
+  "written_directions": "From Coyote, New Mexico, head south on US 285 for approximately 8 miles toward Espanola. Turn west onto Forest Road 151 (near Abiquiu) and follow signs toward Abiquiu Lake Recreation Area for about 12 miles. Continue on main lake access roads to parking areas near the dam or eastern shore. BLM land opens for rockhounding on public areas adjacent to the lake - ask at any public parking area for directions to designated rockhounding zones.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mixture of paved and unpaved roads. Forest Road 151 and some lake access roads are graded dirt, potentially rough after rain or snow. High-clearance vehicle recommended in wet conditions; passenger car acceptable in dry weather.",
+  "parking_notes": "Multiple pullouts and small parking areas near Abiquiu Lake Recreation Area. Main parking lot at dam area has space for 15-20 vehicles. Additional informal pullouts along eastern shore access roads. No facilities at remote pullouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collecting allowed on BLM land only - respect all posted private land boundaries. Pack out all trash. Do not disturb archaeological or cultural sites.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect private land boundaries\nPack out all trash\nDo not disturb archaeological sites",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Coyote, New Mexico (approximately 15 miles north) has limited services. Espanola (approximately 20 miles south) offers gas, food, and water. Bring supplies before leaving main towns.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain with moderate slopes. Rocky, uneven ground throughout - sturdy hiking boots strongly recommended. No wheelchair access to productive collecting areas. Walking distances 0.5 to 2 miles from parking. Short walks suitable for families with children ages 6 and up, though younger children may need assistance on rocky terrain.",
+  "alternative_names": [],
+  "nearest_city": "Coyote",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/abiquiu-lake-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/abiquiu-lake-nm/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/abiquiu-lake-nm/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Abiquiu Lake?",
+      "answer": "The primary specimens at Abiquiu Lake are agate, chalcedony, jasper, and quartz. Agate nodules are the most prized, often banded with red, orange, and cream colors. Chalcedony appears as both nodules and fragments throughout washes and slopes. These form naturally in this area due to ancient Miocene volcanic activity in the Rio Grande Rift."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Abiquiu Lake in New Mexico?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Abiquiu Lake. However, you must follow FLPMA regulations: personal use only, maximum 25 lbs per day, and no commercial collection. Make sure to stay on BLM public land and respect all private property boundaries."
+    },
+    {
+      "question": "What is the best time of year to find agates near Coyote, New Mexico?",
+      "answer": "October through April offers the most comfortable collecting conditions and best results. Spring (March-April) is particularly productive after seasonal rains concentrate agate nodules in washes. Winter weather can make road access difficult, while summer temperatures above 85 degrees F are less comfortable for extended hiking in this high desert location."
+    },
+    {
+      "question": "Is Abiquiu Lake rockhounding suitable for beginners and families with children?",
+      "answer": "Yes, Abiquiu Lake is an excellent beginner site. The terrain is relatively accessible, specimens are abundant and easy to spot, and no special equipment beyond basic hand tools is needed. Kids ages 6 and up can participate, though older children (10+) have an easier time on the rocky terrain. The short walking distances (0.5 to 2 miles) make it family-friendly."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Abiquiu Lake?",
+      "answer": "Bring sturdy hiking boots for rocky, uneven ground, a small hand lens to inspect specimens, a basic rock hammer or chisel, and a collection bag. Essential supplies include at least 2-3 liters of water per person, sunscreen, a hat, and sun-protective clothing - shade is minimal at 6,425 feet elevation. Pack out all trash and bring a GPS or map for navigation on BLM roads."
+    },
+    {
+      "question": "How far is Abiquiu Lake from Coyote, and what are the driving conditions?",
+      "answer": "Abiquiu Lake is approximately 15 miles south of Coyote via US 285 and Forest Road 151, which is a graded dirt road. Driving time is about 45 minutes to an hour depending on conditions. The road is passable in a passenger car during dry weather, but high-clearance or AWD vehicles are safer after rain or snow. Check local road conditions before heading out, especially in winter."
+    }
+  ],
+  "meta_title": "Abiquiu Lake Rockhounding - New Mexico",
+  "meta_description": "Free BLM rockhounding for agate, chalcedony, and jasper near Abiquiu Lake, New Mexico. No permit required, 25 lbs per day limit. Beginner-friendly site near Coyote.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "cell_service - estimated as spotty based on rural BLM location; actual coverage should be verified",
+    "parking_notes - specific lot capacity inferred from typical BLM recreation areas; verify current conditions",
+    "road_conditions - based on typical New Mexico BLM access; current conditions vary seasonally"
+  ],
+  "enriched_at": "2026-04-22T06:46:10.207Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:49:10.707Z"
+}

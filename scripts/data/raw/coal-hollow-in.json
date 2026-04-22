@@ -1,0 +1,60 @@
+{
+  "slug": "coal-hollow-in",
+  "name": "Coal Hollow",
+  "lat": 38.62564,
+  "lng": -86.765392,
+  "state": "Indiana",
+  "state_slug": "indiana",
+  "state_code": "IN",
+  "city": "Martin County",
+  "city_slug": "martin-county",
+  "county": "Martin",
+  "county_slug": "martin",
+  "geocoded_city": "Martin County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-indiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Coal%20Hollow%20Indiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Coal%20Hollow",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Coal%20Hollow%20Indiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 772,
+      "meters": 235
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:56:48.247Z"
+  },
+  "scraped_at": "2026-04-21T16:56:48.247Z",
+  "scrape_quality": "minimal"
+}

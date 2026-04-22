@@ -1,0 +1,60 @@
+{
+  "slug": "gretna-va",
+  "name": "Gretna",
+  "lat": 36.951222,
+  "lng": -79.338833,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Pittsylvania County",
+  "city_slug": "pittsylvania-county",
+  "county": "Pittsylvania",
+  "county_slug": "pittsylvania",
+  "geocoded_city": "Pittsylvania County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Gretna%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Gretna",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Gretna%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 710,
+      "meters": 216
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:07:41.149Z"
+  },
+  "scraped_at": "2026-04-21T19:07:41.149Z",
+  "scrape_quality": "minimal"
+}

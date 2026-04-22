@@ -1,0 +1,96 @@
+{
+  "slug": "gold-mountain-nv",
+  "name": "Gold Mountain",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Esmeralda County Area",
+  "city_slug": "esmeralda-county",
+  "county": "Esmeralda",
+  "county_slug": "esmeralda",
+  "lat": 37.256793,
+  "lng": -117.30441,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "High-elevation BLM rockhounding site in the Esmeralda Range where gold and quartz specimens can be found in moderate terrain. Personal use collecting is allowed without permit.",
+  "description": "Gold Mountain sits at 7,431 feet in the remote Esmeralda County area of Nevada, offering rockhounders access to mineralized terrain characteristic of the state's rich mining heritage. The moderate slopes and exposed geology here reflect the Basin and Range province's mineral diversity, with gold and quartz being the primary targets for collectors.\n\nThis BLM land represents classic high-desert rockhounding terrain where weathered outcrops and wash systems expose quartz veins and gold-bearing material. The elevation keeps temperatures moderate compared to lower Nevada deserts, making shoulder seasons particularly pleasant for extended collecting trips.\n\nVisitors should expect mixed terrain with loose rock, scattered vegetation typical of high-desert habitat, and spectacular views across the range. The moderate slope means reasonable walking but requires sturdy footwear and attention to footing. Collection is straightforward and accessible to experienced rockhounders willing to hike and search exposed washes and hillsides.\n\nThe site's remoteness adds to its appeal for serious collectors seeking less-trafficked ground. BLM regulations are straightforward here: take what you find up to 25 pounds per day for personal use, respect the landscape, and plan for self-sufficiency given the distance from services.",
+  "history": "Gold Mountain sits within the Basin and Range province where Tertiary-age igneous activity and hydrothermal processes created the quartz veins and gold mineralization found throughout this region. The Esmeralda area saw significant prospecting and small-scale mining activity during Nevada's gold rush periods, particularly in the late 1800s and early 1900s, leaving behind the mineralized landscapes modern rockhounders explore today.",
+  "tips": "Search the exposed washes and gullies on the moderate slopes where water erosion has naturally exposed quartz veins and mineralized material - these drainage systems concentrate heavier materials like gold. Bring a hand lens and small vial to inspect specimens in place before committing to collection; look for milky or clear quartz with flecks or small cavities that may contain gold. The high elevation means temperature swings between day and night are significant - bring layers and start your hunt early in the day. A small geologist's pick and flat-bladed chisel work well here for carefully extracting specimens from weathered outcrop without excessive breakage.",
+  "terrain_notes": "Elevation 7,431 feet on moderate slope with high-desert scrub vegetation including sagebrush and scattered conifers. Terrain is rocky with loose material common; footing requires attention but is not technical. Walking distance from parking depends on target areas, typically 0.5 to 2 miles of moderate hiking across sagebrush and rocky ground. Exposures are visible from distance, allowing visual reconnaissance before committing to hike.",
+  "best_season": "June - September. High elevation (7,431 ft) means mornings can be cold even in summer; snow and ice are possible October through May. Peak conditions are July and August when days are warm, nights are cool, and access is easiest.",
+  "written_directions": "From Tonopah, Nevada (approximately 50 miles north), take US 95 north for roughly 35 miles toward the Esmeralda County area. Transition to Nevada State Route 264 heading east or use Forest Service/BLM access roads in the Palmetto-Silverpeak range area. The precise approach requires current maps and may use rough dirt roads suitable for high-clearance or 4x4 vehicles; contact Nevada BLM Tonopah Field Office for current road conditions and specific coordinates for parking and access points. GPS is essential; cellular service is spotty to none in this remote area.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough dirt and rocky roads in the final approach; high-clearance or 4x4 vehicle strongly recommended. Road surfaces vary from packed dirt to loose rock depending on recent maintenance.",
+  "parking_notes": "Informal pullouts and parking areas typical of BLM land; no developed lot. Space is generally available but limited to small groups.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No collecting in closed or sensitive areas. Respect private claims and posted boundaries. Pack out all trash and leave no trace.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect private mining claims\nPack out all trash\nNo collection in closed areas",
+  "beginner_friendly": false,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "remote",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "abandoned_mines"
+  ],
+  "nearest_services": "Tonopah, Nevada - approximately 50 miles northwest - has gas, food, water, and supplies. Plan for self-sufficiency once you leave town.",
+  "accessibility_notes": "Uneven rocky terrain with loose material underfoot. Moderate slope requires steady hiking but is not technical scrambling. No wheelchair access. Sturdy hiking boots with good ankle support essential. High elevation (7,431 ft) may affect those unaccustomed to altitude. Not suitable for visitors with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Tonopah",
+  "nearest_city_distance": 50,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/gold-mountain-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gold specimens can I find at Gold Mountain rockhounding site in Nevada?",
+      "answer": "Gold Mountain on BLM land in Esmeralda County yields small gold flecks and dust in quartz specimens, plus occasional small placer gold in washes. Most collectors find small speckled quartz pieces rather than large gold nuggets. The gold is typically associated with milky quartz veins exposed on moderate slopes and in drainage systems."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Gold Mountain, Nevada on BLM land?",
+      "answer": "No permit is required for personal use rockhounding on this BLM land in Nevada. You can collect up to 25 pounds per day per FLPMA regulations with no application process. Permits are only required for commercial operations, which are not allowed for individuals."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Tonopah at Gold Mountain?",
+      "answer": "June through September is ideal for Gold Mountain rockhounding. The high elevation (7,431 ft) means snow and freezing temperatures occur October through May. July and August offer warm days with cool nights, making extended field trips comfortable. Early morning starts are recommended year-round."
+    },
+    {
+      "question": "Is Gold Mountain rockhounding site near Tonopah suitable for beginners?",
+      "answer": "Gold Mountain is best suited for experienced rockhounders rather than complete beginners. The remote location (50 miles from Tonopah), rough 4x4 road access, high elevation, and moderate hiking terrain require preparation and experience. Beginners should start at more accessible Nevada sites before attempting this remote location."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Gold Mountain, Nevada?",
+      "answer": "Bring a geologist's pick, flat-bladed chisel, hand lens, small collection vials, sturdy hiking boots, layers for temperature swings, GPS unit, and detailed maps. A 4x4 vehicle is essential for road access. Pack plenty of water, sunscreen, and a headlamp since you will be far from services. Cell phones do not work here."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Gold Mountain BLM site near Tonopah?",
+      "answer": "Yes, dogs are allowed on this BLM land for recreational rockhounding. However, the remote location, 50+ mile distance from Tonopah, rough road access, and lack of water sources make it challenging for dogs. Ensure your dog is fit for high-elevation hiking and bring sufficient water for both you and your pet."
+    }
+  ],
+  "meta_title": "Gold Mountain Rockhounding - Nevada BLM",
+  "meta_description": "Find gold, quartz, and feldspar at Gold Mountain on Nevada BLM land near Tonopah. No permit needed, 25 lb daily limit. Remote high-elevation site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "specific_road_names"
+  ],
+  "enriched_at": "2026-04-22T09:50:04.327Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:46.633Z"
+}

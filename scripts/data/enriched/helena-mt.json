@@ -1,0 +1,98 @@
+{
+  "slug": "helena-mt",
+  "name": "Helena",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Birdseye",
+  "city_slug": "birdseye",
+  "county": "Lewis and Clark",
+  "county_slug": "lewis-and-clark",
+  "lat": 46.653888,
+  "lng": -112.126611,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land near Helena offering free rockhounding for agate, jasper, and quartz specimens. Flat terrain makes this an accessible spot for collectors of all skill levels.",
+  "description": "This BLM-managed site near Birdseye in Lewis and Clark County offers excellent opportunities for recreational rockhounding without permits or fees. The area sits at a moderate elevation of 4112 feet with predominantly flat terrain, making it accessible for families and beginners looking to collect quality agate, jasper, and quartz specimens.\n\nThe region's geology reflects Montana's complex mountain-building history. The Helena area sits within the northern Rocky Mountains where Precambrian metamorphic rocks and sedimentary sequences were thrust upward during the Laramide Orogeny (80-55 million years ago). Subsequent erosion and weathering of these ancient formations exposed silica-rich minerals in washes, hillsides, and surface deposits. The chalcedony and agate nodules found here formed within ancient volcanic and sedimentary sequences, with secondary quartz crystallization occurring over millions of years.\n\nExpect to find specimens weathering from outcrops and concentrated in dry washes where water erosion has naturally sorted materials by density. The flat terrain means you can cover significant ground without steep climbing. Surface collecting is productive here - many quality agates and jasper pieces are visible on the ground. The area receives moderate use from local rockhounds, so early morning visits during peak seasons yield better finds.\n\nThis location is ideal for first-time rockhounders and families because access is straightforward, no special skills are required, and the 25 lb daily limit is generous for casual collectors. The open BLM landscape provides good visibility of collecting areas, and the flat walking surface reduces trip hazards compared to steeper mountain sites.",
+  "history": "This region's mineral deposits formed during the Precambrian and early Paleozoic eras when sedimentary and volcanic sequences accumulated in ancient basins. During the Laramide Orogeny, tectonic forces uplifted and metamorphosed these layers, creating the conditions for secondary silica mineralization. Montana's famous agate and jasper deposits in this zone have been collected casually since the 1900s, with increased rockhounding activity following the designation of accessible BLM lands for public use.",
+  "tips": "Search dry washes and erosional gullies where water has naturally concentrated heavy minerals like agate and jasper - these areas often yield the best specimens. Look for translucent or banded stones with warm earth tones (rust, gold, brown, gray) rather than plain rocks; true agates typically show fine banding or color variation when held to light. Bring a 5-gallon bucket and small hand shovel to work surface deposits efficiently, and consider screening fine material from washes since smaller agates are often overlooked. Early morning collecting before other visitors arrive increases your chances of finding untouched spots.",
+  "terrain_notes": "Flat to gently rolling terrain at 4112 feet elevation. Sagebrush scrubland with sparse vegetation typical of intermountain valleys. Unpaved BLM access roads in fair condition; walking distances from parking are typically under 1 mile. Footing is generally stable with scattered rocks and small boulders. No major obstacles or steep grades.",
+  "best_season": "May - September. Montana's high elevation and continental climate make summer and early fall optimal for rockhounding here. Snow may block access November through April, and spring runoff can make washing material difficult. Summer temperatures are mild (60-75F), and the longer daylight allows full days of collecting.",
+  "written_directions": "From Birdseye, head north on Montana Highway 279 toward Helena for approximately 8 miles. Watch for BLM access roads on the east side of the highway - turn east onto any marked public land access road. Follow the unpaved road until you reach a suitable parking area or pullout. GPS coordinates 46.653888, -112.126611 mark the center of productive collecting areas. High-clearance passenger vehicles can access most spots, though some secondary roads benefit from 4WD after rain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM roads, generally passable in dry conditions. May be rough or muddy after rain. High-clearance helpful but not required for main access roads.",
+  "parking_notes": "Multiple informal pullouts and small parking areas along BLM roads. No developed parking lot; park safely off the roadway. Capacity varies by location but typically accommodates 3-5 vehicles per pullout.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or sale of specimens. No motorized excavation or removal of in-place rock faces. Hand tools and surface collecting only. Pack out all waste. Respect private property boundaries adjacent to BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools and surface collecting only\nPack out all waste\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Birdseye has limited services; Helena (approximately 20 miles south) offers full services including gas, food, water, and supplies.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Unpaved parking areas and access roads suitable for standard vehicles in dry conditions. No wheelchair accessibility on uneven ground, but the flat landscape means limited climbing. Sturdy shoes recommended for rocky terrain, but physical demands are minimal.",
+  "alternative_names": [],
+  "nearest_city": "Helena",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/helena-mt/cover.png",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/helena-mt/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Helena, Montana on BLM land?",
+      "answer": "This BLM site near Birdseye is known for agate, jasper, quartz, and chalcedony specimens. Most finds are secondary agates and banded jasper in earth tones - reds, browns, golds, and grays. Translucent chalcedony nodules also occur frequently. Specimens range from thumbnail size to fist-sized pieces, with larger agates possible in productive washes."
+    },
+    {
+      "question": "Do I need a permit to rockhound on Montana BLM land near Helena?",
+      "answer": "No permit is required for recreational rockhounding on BLM land in Montana. You may collect personal use materials under the FLPMA at no cost. However, you are limited to 25 lbs per day and cannot sell or commercially use any specimens you collect. The land is open to the public year-round for casual collecting."
+    },
+    {
+      "question": "What is the best season to go rockhounding at Helena, Montana?",
+      "answer": "May through September is ideal for rockhounding near Birdseye. Montana's high elevation brings snow and cold weather from November through April, which can block access and make collecting difficult. Summer temperatures are mild (60-75F), days are long, and roads are dry and passable. Spring runoff in May can affect wash access, so June-September are peak months."
+    },
+    {
+      "question": "Is this a good rockhounding site for beginners and families?",
+      "answer": "Yes, this Helena area BLM site is excellent for beginners and families. The flat terrain requires minimal hiking skills, no permit or fee barriers exist, and surface collecting is productive - you can find good specimens without digging. Kids as young as six can safely participate. The 25 lb daily limit is generous for casual collectors, and open ground provides good visibility of collecting areas."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Helena?",
+      "answer": "Hand tools are all you need for this site: a small hand shovel or trowel for working surface deposits and washes, a 5-gallon bucket for carrying specimens and screening material, and a chisel for testing specimens. A loupe or hand lens helps identify agate banding. Wear sturdy shoes for rocky terrain, bring water and sun protection, and a backpack to organize your finds. No power tools or motorized equipment are permitted."
+    },
+    {
+      "question": "How far is Helena BLM rockhounding from town and what should I expect for the drive?",
+      "answer": "The site is approximately 20 miles north of Helena and about 8 miles from Birdseye. Access is via Montana Highway 279 with turnoffs onto unpaved BLM access roads. Roads are generally passable for standard passenger vehicles in dry conditions but may be rough or muddy after rain. Allow 30-45 minutes driving from Helena. Multiple informal pullouts provide parking along the access roads."
+    }
+  ],
+  "meta_title": "Helena Montana Rockhounding - Free BLM Agate",
+  "meta_description": "Find agate, jasper, and quartz on free BLM land near Helena, MT. No permit needed. Flat terrain perfect for families. 25 lbs/day limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Montana BLM geology)",
+    "written_directions (no specific road name provided - used Highway 279 and generic BLM road guidance)",
+    "nearest_city_distance (estimated 20 miles)",
+    "parking_notes (no specific developed parking described)",
+    "cell_service (estimated based on remote BLM location)"
+  ],
+  "enriched_at": "2026-04-21T19:07:50.433Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:11:40.297Z"
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "mt-siegel-nv",
+  "name": "Mt. Siegel",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Gardnerville",
+  "city_slug": "gardnerville",
+  "county": "Douglas",
+  "county_slug": "douglas",
+  "lat": 38.884704,
+  "lng": -119.504832,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "High-elevation BLM rockhounding site in the Carson Range with quartz and feldspar specimens. Personal-use collecting allowed year-round with a 25 lb daily limit.",
+  "description": "Mt. Siegel sits at 9,192 feet in Douglas County's Carson Range, offering BLM public land access for recreational rockhounding. The moderate slopes provide exposed mineralized zones where collectors can search for quartz crystals, feldspar, and mica in outcrops and weathered material. This is a high-elevation site typical of the Sierra Nevada foothills, where Mesozoic granitic intrusions created ideal conditions for mineral formation.\n\nThe Carson Range geology reflects a complex history of igneous activity and Basin and Range extension. Granite and granodiorite plutons dominate the subsurface, weathering to expose quartz veins, feldspar phenocrysts, and mica sheets. The moderate slopes mean you will hike a bit to reach productive zones, but the relatively accessible terrain makes this suitable for intermediate rockhounders.\n\nBecause this is BLM land, personal-use collecting is allowed without a permit up to 25 lbs per day. No motorized equipment is permitted, and commercial collection is strictly prohibited. The high elevation means snow and ice can limit access in winter months, so plan your visit during the warmer seasons when trails are clear.\n\nThis site rewards patience and good observation skills. Bring a small geology hammer, chisel, and hand lens to inspect quartz crystals and feldspar compositions. The rocky, weathered terrain around outcrops is where most specimens cluster, so focus your search on exposed ridge areas and loose talus.",
+  "history": "Mt. Siegel sits within the Carson Range, which was shaped by granitic intrusions during the Mesozoic era and subsequent Basin and Range extension during the Cenozoic. These processes exposed massive bodies of granite and granodiorite that weather naturally to release quartz crystals, feldspar, and mica specimens. The region saw minor prospecting activity in the 19th century, though substantial mining operations concentrated elsewhere in the Sierra Nevada.",
+  "tips": "Search weathered granite outcrops on the higher slopes where quartz veins and feldspar phenocrysts are most visible. Use a hand lens to identify clear quartz crystals and pinkish feldspar; mica often appears as flat, shiny sheets in the soil and loose rock. Bring plenty of water at this 9,000+ foot elevation - the thinner air makes hiking more demanding. Start your search early in the day to maximize light and avoid afternoon clouds that often build on high peaks.",
+  "terrain_notes": "Elevation 9,192 ft with moderate slopes and scattered pine and fir forest. Rocky, uneven terrain with loose granite debris and exposed bedrock outcrops. Approximately 0.5 to 2 miles hiking from parking areas depending on where you access the ridge system. Footing is rocky and can be slippery when wet or icy. Sparse vegetation at this elevation.",
+  "best_season": "June - September. Winter snow makes access dangerous and impassable; spring snowmelt creates unstable muddy slopes. Fall is possible but weather deteriorates quickly at elevation.",
+  "written_directions": "From Gardnerville, take Nevada State Route 207 south toward Markleville approximately 8 miles. Look for Forest Service or BLM access roads branching east toward Mt. Siegel. Trailhead parking is typically at pullouts along secondary roads accessing the Carson Range; confirm current access at the Carson City BLM Field Office. A high-clearance vehicle is recommended for rough forest service roads.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Forest Service roads are typically rough, unpaved, and may have washboard surface. High-clearance vehicle recommended. Roads can be muddy or snow-covered outside June-September.",
+  "parking_notes": "Limited pullout parking along forest service roads near trailheads. No developed parking lot. Space for 2-4 vehicles at most access points.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. All BLM regulations apply. Collect only loose material and small samples from exposed areas; do not hammer large outcrops.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nNo hammering large outcrops",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Gardnerville, Nevada approximately 15 miles northwest. Gas, food, and supplies available. Nearest ranger station: Carson City BLM Field Office.",
+  "accessibility_notes": "Moderate difficulty hike on rocky, uneven terrain at high elevation. No wheelchair access. Sturdy hiking boots essential; trekking poles helpful. 0.5-2 mile hike from parking depending on access point. Thin air at 9,000+ feet requires good physical condition. Not suitable for limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Gardnerville",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/mt-siegel-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Mt. Siegel in Nevada?",
+      "answer": "Mt. Siegel's granitic geology yields quartz crystals, feldspar (often pink or white), and mica sheets. The exposed granite outcrops at this high elevation weather naturally, releasing well-formed mineral specimens. Most collectors find quartz and feldspar pieces ranging from small crystals to palm-sized specimens."
+    },
+    {
+      "question": "Do I need a permit to collect at Mt. Siegel BLM land near Gardnerville?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Mt. Siegel. Personal-use collecting is allowed under FLPMA regulations with a 25 lb daily limit per person. Commercial collection is prohibited. Simply practice good leave-no-trace ethics and stay within collection limits."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Mt. Siegel?",
+      "answer": "June through September offers the safest access. Higher elevations (9,192 ft) mean snow, ice, and muddy conditions make the site dangerous or impassable October through May. Fall weather can deteriorate rapidly. Plan weekend trips during summer months for reliable access and pleasant hiking conditions."
+    },
+    {
+      "question": "How difficult is the hike to find quartz at Mt. Siegel Nevada?",
+      "answer": "The site requires 0.5 to 2 miles of hiking on moderate rocky terrain, depending on your chosen access point. It is a moderate difficulty site best suited for hikers age 8 and up with decent fitness. The 9,000+ foot elevation makes the hike more demanding than sea-level rockhounding. Bring plenty of water and allow extra time for acclimatization."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding near Gardnerville at Mt. Siegel?",
+      "answer": "Bring a small geology hammer, chisel, hand lens, and collection bag (aiming to stay under 25 lbs). Essential items include sturdy hiking boots, 3+ liters of water, sun protection, and a map or GPS. A trekking pole helps on rocky slopes. Dress in layers because high-elevation weather changes rapidly."
+    },
+    {
+      "question": "Is Mt. Siegel a good rockhounding site for beginners?",
+      "answer": "Yes, Mt. Siegel is beginner-friendly for rockhounding. Specimens are visible on exposed slopes, and quartz crystals and feldspar are easy to identify. The main challenge is the high-elevation hike rather than the rockhounding itself. Beginners should start in the loose talus around outcrops before attempting to collect directly from bedrock."
+    }
+  ],
+  "meta_title": "Mt. Siegel Rockhounding - Nevada BLM Quartz",
+  "meta_description": "Find quartz, feldspar, and mica at Mt. Siegel on Nevada BLM land near Gardnerville. Personal use, no permit needed, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "parking_notes",
+    "road_conditions",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-22T06:43:58.763Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:49:26.974Z"
+}

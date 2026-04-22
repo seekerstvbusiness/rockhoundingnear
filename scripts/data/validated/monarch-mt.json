@@ -1,0 +1,96 @@
+{
+  "slug": "monarch-mt",
+  "name": "Monarch",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Cascade",
+  "city_slug": "cascade",
+  "county": "Cascade",
+  "county_slug": "cascade",
+  "lat": 47.097266,
+  "lng": -110.816132,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding site near Monarch offering agate, jasper, and quartz collecting on moderate terrain. No permit required, beginner-friendly with scenic mountain backdrop.",
+  "description": "Monarch is a public BLM rockhounding location in the northern Montana foothills, offering accessible collecting opportunities for agate, jasper, and quartz specimens. The site sits at moderate elevation with gently rolling terrain typical of Cascade County's transitional landscape between the Rocky Mountain front and Great Plains. Collectors can work the exposed outcrops and surrounding hillsides year-round, though spring and fall offer the most comfortable conditions. The area is lightly developed and relatively quiet, making it ideal for families and beginners seeking an uncrowded rockhounding experience.\n\nThe geology here reflects Montana's complex mineral heritage. This region sits within the transitional zone where Precambrian metamorphic rocks meet younger Tertiary sedimentary deposits, creating diverse mineral-bearing formations. Silica-rich fluids percolating through these rocks during successive mountain-building events formed the agate nodules and chalcedonic materials found throughout the Monarch area. Jasper deposits occur where iron oxide minerals concentrated in ancient silica-rich environments.\n\nCollecting at Monarch requires respect for BLM regulations. Personal use only is permitted, with a 25-pound daily limit per the Federal Land Policy and Management Act. No permit is required, making this an excellent destination for spontaneous rockhounding trips. The moderate slope and established paths make navigation straightforward for most fitness levels. Parking is available at informal pullouts near the main collecting areas, with easy access to productive ground within short walking distances.\n\nThis location works well for weekday collecting when crowds are minimal. The combination of productive ground, simple regulations, and beginner-friendly terrain makes Monarch a reliable choice for Montana rockhounders seeking quality agate and jasper without the complexity of fee digs or permit requirements.",
+  "history": "This area sits within the northern Montana foothills where Precambrian metamorphic rocks and Tertiary volcanic activity combined to create diverse silica-rich mineral deposits. Agate and jasper formation here resulted from circulating hydrothermal fluids during the Laramide Orogeny (Late Cretaceous to Eocene), when mountain-building forces drove mineralized water through fractured host rocks, slowly precipitating cryptocrystalline silica in nodular and banded forms.",
+  "tips": "Search the exposed hillsides and outcrop areas on the moderate slopes where weathering has exposed fresh agate and jasper specimens; look for chalcedonic bands in weathered rock showing translucent color when held to light. Bring a 5-gallon bucket and canvas collecting bag to stay within the 25-pound daily limit without excessive weight. Focus on areas with visible white or cream-colored chalcedony veins cutting through darker host rock, as these zones typically yield the best quality agate nodules. Use a small chisel or rock hammer to carefully extract nodules from matrix rather than smashing, which preserves specimen quality.",
+  "terrain_notes": "Elevation 4987 feet with moderate slope terrain. Terrain consists of open hillsides with scattered outcrop exposures, low brush, and sparse vegetation typical of Montana's transition zone. Walking distance from parking to productive collecting areas is typically less than 0.5 miles. Footing is rocky but not treacherous; sturdy hiking boots recommended. No water features in immediate vicinity.",
+  "best_season": "May - September",
+  "written_directions": "From Cascade, Montana (nearest town), travel north on Montana Highway 200 approximately 12 miles. Watch for informal BLM pullouts on the east side of the highway in the Monarch area. Park in any established dirt pullout and walk upslope to exposed rock outcrops. The collecting areas are accessed directly from the roadside without established trails; walk northeast toward visible white and cream-colored rock exposures.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Montana Highway 200 is paved. Local pullouts are unpaved dirt/gravel, suitable for passenger vehicles in dry conditions. No high-clearance required.",
+  "parking_notes": "Informal BLM pullouts along MT-200. Limited capacity (2-4 vehicles per pullout). No developed parking lot; arrive early on weekends. Parking is free.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No digging on private land adjacent to BLM parcels. Pack out all trash. Leave no digging scars; use light hand tools only.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation\nNo permit required\nUse hand tools only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Cascade, Montana approximately 12 miles south has gas, food, water, and supplies. Basic services available; plan ahead for refreshments.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Rocky footing but no steep climbs required to reach productive areas. Parking at roadside pullouts with short walks to collecting zones. Sturdy footwear recommended due to exposed rock and sharp edges of specimens and matrix material. Not suitable for wheelchairs or limited mobility due to uneven terrain.",
+  "alternative_names": [],
+  "nearest_city": "Cascade",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/monarch-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/monarch-mt/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/monarch-mt/mineral-2-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of gems can you find rockhounding near Monarch, Montana?",
+      "answer": "At Monarch, you can find agate, jasper, and quartz specimens. The site is particularly known for cream and white-colored agate nodules and banded jasper in the exposed hillside outcrops. These cryptocrystalline silica minerals form in the Precambrian and Tertiary-age rocks throughout the area."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Monarch, Montana?",
+      "answer": "No permit is required at Monarch. It is BLM public land where recreational collecting is allowed under the Federal Land Policy and Management Act. Simply collect up to 25 pounds per day per person without any permit application or fee."
+    },
+    {
+      "question": "What is the best season to go rockhounding for agate at Monarch?",
+      "answer": "May through September is ideal for collecting at Monarch. This period offers comfortable temperatures, dry conditions, and good road access. Spring and early fall are especially pleasant, with fewer crowds and moderate weather perfect for hiking the moderate terrain."
+    },
+    {
+      "question": "Is Monarch Montana rockhounding site beginner-friendly?",
+      "answer": "Yes, Monarch is excellent for beginners. The terrain is easy to moderate with short walks from parking to productive areas. No permit or fee is required, and the site has clear BLM regulations. Agate and jasper are relatively easy to identify once you learn to spot the white and cream-colored chalcedonic bands in the host rock."
+    },
+    {
+      "question": "What tools and equipment do I need to collect agate at Monarch?",
+      "answer": "Bring a small chisel or rock hammer for extracting nodules, a 5-gallon bucket for collecting, and a canvas bag to carry specimens. Sturdy hiking boots are essential due to rocky footing. Bring water, sun protection, and a small backpack. A jeweler's loupe helps identify quality specimens with translucence when held to light."
+    },
+    {
+      "question": "How far is Monarch from Cascade, Montana and what are nearby services?",
+      "answer": "Monarch is approximately 12 miles north of Cascade on Highway 200. Cascade offers gas stations, restaurants, and grocery stores for supplies and refreshments. Plan to fill up on water and provisions in Cascade before driving to the rockhounding site, as services are limited in the immediate Monarch area."
+    }
+  ],
+  "meta_title": "Monarch Rockhounding - Montana",
+  "meta_description": "Find agate, jasper, and quartz at Monarch, Montana BLM land. No permit needed, 25 lb/day limit. Easy access near Cascade.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (agate and jasper are common in Montana BLM areas, but not specifically verified for this exact location)",
+    "nearest_city_distance (estimated from GPS coordinates)",
+    "written_directions (constructed from highway location logic without specific site documentation)"
+  ],
+  "enriched_at": "2026-04-21T19:06:21.620Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:09:19.640Z"
+}

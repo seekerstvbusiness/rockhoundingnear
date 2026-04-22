@@ -1,0 +1,90 @@
+{
+  "slug": "dust-devil-mining-thunderegg-fee-dig",
+  "name": "Dust Devil Mining � Thunderegg Fee Dig",
+  "lat": 42.3381,
+  "lng": -122.8755,
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "state_code": "OR",
+  "city": "Medford",
+  "city_slug": "medford",
+  "county": "Jackson",
+  "county_slug": "jackson",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/oregon/dust-devil-mining-thunderegg-fee-dig"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Dust%20Devil%20Mining%20%EF%BF%BD%20Thunderegg%20Fee%20Dig%20Oregon&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Dust%20Devil%20Mining%20%EF%BF%BD%20Thunderegg%20Fee%20Dig",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Dust%20Devil%20Mining%20%EF%BF%BD%20Thunderegg%20Fee%20Dig%20Oregon"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Oregon BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1345,
+      "meters": 410
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Medford",
+      "distance_mi": 1,
+      "population": 74907
+    },
+    "roads": [
+      {
+        "name": "Elm Street",
+        "ref": null,
+        "type": "secondary",
+        "dist": 1.3
+      },
+      {
+        "name": "Ross Lane North",
+        "ref": null,
+        "type": "secondary",
+        "dist": 1.6
+      },
+      {
+        "name": "West 1st Street",
+        "ref": null,
+        "type": "secondary",
+        "dist": 5.4
+      },
+      {
+        "name": "Bear Creek Drive",
+        "ref": "OR 99",
+        "type": "primary",
+        "dist": 5.4
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T17:29:50.178Z"
+  },
+  "scraped_at": "2026-04-20T17:29:50.178Z",
+  "scrape_quality": "partial"
+}

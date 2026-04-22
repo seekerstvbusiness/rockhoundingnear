@@ -1,0 +1,98 @@
+{
+  "slug": "bismark-mine-mt",
+  "name": "Bismark Mine",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Madison",
+  "city_slug": "madison",
+  "county": "Madison",
+  "county_slug": "madison",
+  "lat": 45.612853,
+  "lng": -112.048973,
+  "gem_types": [
+    "Quartz",
+    "Fluorite",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "BLM rockhounding site in the Madison Range foothills at 7,384 ft elevation. Collect quartz, fluorite, and feldspar specimens from historic mining area with moderate slopes and seasonal access.",
+  "description": "Bismark Mine is a public BLM rockhounding site located in Madison County, Montana, within the scenic Madison Range foothills. At 7,384 feet elevation, this site offers collectors the opportunity to find quartz, fluorite, feldspar, and mica specimens in a mountain environment that rewards both experienced and beginning rockhounds.\n\nThe geology of this area reflects the Archean and Proterozoic basement rocks of southwestern Montana, combined with mineralization from the same processes that created the region's historic mining districts. Quartz veins crosscutting metamorphic host rocks are common, and fluorite often appears in association with feldspar-rich zones. The moderate slopes and exposed outcrops make specimen hunting accessible without requiring extensive scrambling.\n\nThis location sits at the transition between mountain forest and alpine terrain, with ponderosa pine and Douglas fir scattered across the hillsides. The moderate slope and moderate elevation mean access is practical during warmer months, though the site can be snowbound in winter. Collectors can expect to find loose specimens weathering from outcrop as well as material in surrounding scree fields.\n\nThe area has historical significance tied to small-scale prospecting and mining activity common throughout the Madison Range. While the mine itself may be closed or restricted, the surrounding public land offers excellent opportunity for surface collecting of the same mineral species that made the area worth exploring historically.\n\nBest results come from working along the moderate slopes, examining exposed rock faces, and checking scree fields downslope from mineralized zones. The higher elevation means cooler temperatures even in summer, making this an excellent destination during peak heat in lower-elevation rockhounding areas.",
+  "history": "The Bismark Mine area lies within the Madison Range, part of southwestern Montana's mineral-rich Archean basement complex. Historic prospecting and small-scale mining in this region targeted quartz and feldspar deposits associated with metamorphic host rocks, with mineralization processes active during the Proterozoic eon when fluids deposited fluorite and secondary minerals into fracture systems.",
+  "tips": "Search the moderate slopes directly downslope from visible quartz outcrops and mineralized zones - gravity brings fresh specimens down the hillside. Look for fluorite in association with feldspar in light-colored host rock, often visible as purple or green staining. Bring a 10x loupe to identify feldspar twinning and distinguish quality specimens from weathered fragments. Work early in the season (June-July) before afternoon thunderstorms become frequent at this elevation.",
+  "terrain_notes": "Elevation 7,384 feet in montane forest with scattered ponderosa pine and Douglas fir. Moderate slope terrain accessible by hiking, with rocky footing and scattered loose stone. Typical walking distance from parking area to productive collecting zones is 0.5 to 2 miles depending on route. Footing is uneven with exposed bedrock and scree fields. No maintained trails; cross-country hiking required.",
+  "best_season": "June - September. High elevation (7,384 ft) means snow lingers into early June and returns by late September. Summer temperatures are mild, making this site ideal as a break from lower-elevation desert rockhounding heat.",
+  "written_directions": "From Madison, take US Highway 287 south approximately 20 miles toward the Madison Range. Turn east on the Forest Service road toward the Bismark Mine area (signs or local knowledge recommended for final access). The site is accessed via rough BLM land; high-clearance vehicles recommended for final approach roads. GPS navigation to the coordinates is advised given the remote location and lack of maintained signage.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough BLM land access road with potential washboard and high-clearance requirement. Final approach may be impassable in wet conditions or winter.",
+  "parking_notes": "Limited parking at road terminus or pullouts along access road. No developed parking area; expect informal pullout space for 2-4 vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection. No motorized excavation or power tools. Hand tools and specimens collected by surface methods only. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nPack out all trash\nNo collecting from closed mine structures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "remote",
+    "abandoned_mines"
+  ],
+  "nearest_services": "Madison, MT approximately 20 miles south - gas, food, water, and supplies available.",
+  "accessibility_notes": "Uneven rocky terrain with moderate slopes and scattered scree. No wheelchair access. Sturdy hiking boots required; trekking poles recommended for stability on loose stone. Elevation gain/loss of 300-600 feet typical on collecting hikes. Not suitable for visitors with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Madison",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/bismark-mine-mt/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Bismark Mine in Montana?",
+      "answer": "Bismark Mine offers quartz, fluorite, feldspar, and mica specimens. Purple and green fluorite is particularly sought after, often found in association with feldspar-rich host rock. Quartz occurs in veins and as loose specimens weathering from outcrops across the moderate slopes."
+    },
+    {
+      "question": "Is Bismark Mine free to rockhound or do I need a permit?",
+      "answer": "Bismark Mine is located on public BLM land and requires no permit for recreational collecting. There is no fee. You must follow BLM guidelines: personal use only, maximum 25 lbs per day, and no commercial collection."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Bismark Mine, Montana?",
+      "answer": "June through September is ideal. At 7,384 feet elevation, snow persists into early June and returns by late September. Summer temperatures are mild and afternoon thunderstorms are infrequent early in the season (June-July)."
+    },
+    {
+      "question": "How do I get to Bismark Mine and what kind of vehicle do I need?",
+      "answer": "From Madison, take US Highway 287 south about 20 miles, then turn east on Forest Service road toward the mine. High-clearance AWD or 4x4 vehicle is recommended for rough BLM access roads that can be impassable when wet. GPS navigation to coordinates 45.612853, -112.048973 is advised."
+    },
+    {
+      "question": "What tools and equipment should I bring rockhounding at Bismark Mine?",
+      "answer": "Bring hand tools only - chisel, hammer, and small pry bar. A 10x loupe helps identify feldspar and fluorite. Wear sturdy hiking boots for uneven terrain and loose stone. Trekking poles aid stability on moderate slopes. Pack plenty of water; no services on site."
+    },
+    {
+      "question": "Is Bismark Mine a good rockhounding spot for beginners?",
+      "answer": "Yes. Bismark Mine is beginner-friendly with surface collecting from scree fields and weathered outcrops requiring no advanced skills. The moderate slope and accessible terrain make it suitable for families with children ages 8+. Focus on downslope areas where gravity brings fresh specimens from mineralized zones."
+    }
+  ],
+  "meta_title": "Bismark Mine Rockhounding - Montana",
+  "meta_description": "Rockhound quartz, fluorite, and feldspar at Bismark Mine on public BLM land near Madison, MT. No permit required, 25 lb daily limit, free access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Madison Range geology - specific Mindat source unavailable)",
+    "written_directions (no detailed road source provided - general highway knowledge used)",
+    "road_conditions (typical for BLM land at this elevation - not site-specifically documented)",
+    "parking_notes (assumed informal given public BLM status - specific facilities unknown)",
+    "hazards (lightning inferred from 7,384 ft alpine location; abandoned_mines from name reference)"
+  ],
+  "enriched_at": "2026-04-21T19:07:04.382Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:13.286Z"
+}

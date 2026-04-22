@@ -1,0 +1,100 @@
+{
+  "slug": "kingston-id",
+  "name": "Kingston",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Enaville",
+  "city_slug": "enaville",
+  "county": "Shoshone",
+  "county_slug": "shoshone",
+  "lat": 47.556535,
+  "lng": -116.24309,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Gold"
+  ],
+  "short_description": "Historic mining area on BLM land near Enaville offering free public rockhounding for quartz, jasper, and small gold flakes. Steep terrain with productive creek-side collecting.",
+  "description": "Kingston is a scenic rockhounding site located on public BLM land in the Coeur d'Alene mining district of northern Idaho. The area sits at 2,200 feet elevation with steep, rugged terrain that rewards explorers willing to navigate uneven slopes and rocky gullies. This region was historically significant during Idaho's silver and gold rush era, and the geology reflects those mineral-rich formations.\n\nThe site is known for producing milky quartz, chalcedony specimens, and jasper pieces found in stream gravels and exposed rock faces. Small flakes and fine gold can occasionally be panned or found loose in creek beds. The steep slopes and proximity to active drainage systems make this a dynamic collecting environment where new material is constantly exposed by water erosion.\n\nAs BLM public land, Kingston requires no permit and allows personal use collecting up to 25 pounds per day. The rugged terrain and remote setting mean this site is best suited for experienced rockhounders or families with older children who are comfortable hiking on steep, uneven ground. Spring and early summer offer the best conditions, though fall can also be productive after heavy rains expose fresh material in creek washes.\n\nThe Coeur d'Alene region's complex geology, shaped by Precambrian metamorphic rocks and mineralized veins from Mesozoic and Tertiary hydrothermal activity, creates ideal conditions for finding quality quartz and secondary minerals. Collectors should focus on creek benches, exposed outcrops on hillsides, and areas where water has naturally sorted and concentrated heavier minerals and stone.",
+  "history": "Kingston sits within the highly mineralized Coeur d'Alene district, where Precambrian metamorphic basement rocks were intersected by Mesozoic and Tertiary mineral-bearing veins during episodes of regional hydrothermal circulation. The area's steep terrain and active creek systems continuously expose quartz and other silicate minerals that formed in association with Idaho's historic silver and gold mineralization.",
+  "tips": "Focus your search along creek beds and benches where water has concentrated heavier materials - look for white quartz chunks and translucent chalcedony pebbles in recent gravels. Use a classifier or small gold pan to work creek material, as fine gold is occasionally recovered here. On hillsides, examine exposed rock faces and loose scree for intact jasper specimens and larger quartz pieces. Bring sturdy boots with good ankle support since the slope is steep and footing is uneven and potentially loose.",
+  "terrain_notes": "Steep terrain at 2,200 feet elevation with rocky, uneven footing throughout. Heavy vegetation on lower slopes transitions to more open ridges and creek-side areas. Hiking distance varies from parking to productive zones (typically 0.25 to 1 mile depending on where you access the creek). Walking surfaces include loose rock, scree, and uneven ground that requires careful foot placement.",
+  "best_season": "May - September. Late spring and summer provide stable weather and lower water flow in creeks, making collecting safer and more productive. Summer rains can flush new material into creeks.",
+  "written_directions": "From Enaville, head north on Idaho State Route 75 toward the Coeur d'Alene area for approximately 3 miles. Watch for BLM land markers and pullouts near Kingston Creek drainage. Park at designated pullouts along the road - space is limited. From parking, hike downslope toward creek beds and exposed rock faces. GPS coordinates mark the general collecting area; use detailed topographic maps and local knowledge to identify safest approach routes down the steep terrain.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "hiking",
+  "road_conditions": "Idaho State Route 75 is paved. Pullouts are unpaved and may be rough. High-clearance vehicle recommended for rough pullout access.",
+  "parking_notes": "Limited pullout parking along Idaho State Route 75 near Kingston Creek drainage. Space for 2-4 vehicles at most locations. No developed parking facility.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA. No commercial collection. No motorized excavation or heavy equipment. No surface disturbance beyond hand collecting.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo surface disturbance beyond normal rockhounding",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cliffs",
+    "loose_rock",
+    "cold",
+    "flash_floods",
+    "remote",
+    "wildlife"
+  ],
+  "nearest_services": "Enaville, approximately 3 miles south, has limited services. Wallace, Idaho (approximately 15 miles south) has full services including gas, food, lodging, and supply stores.",
+  "accessibility_notes": "Steep, rugged terrain with no wheelchair access. Uneven, loose rocky footing throughout collecting areas. Significant hiking required over uneven slopes. Not suitable for anyone with limited mobility or anyone uncomfortable on steep, unstable ground. Sturdy boots with ankle support and good physical conditioning essential.",
+  "alternative_names": [],
+  "nearest_city": "Enaville",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/kingston-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of rocks and minerals can I find rockhounding near Kingston, Idaho?",
+      "answer": "Kingston is known for producing milky quartz, translucent chalcedony, colorful jasper specimens, and occasional fine gold flakes. Most material is found in creek gravels and loose scree on hillsides. Quartz is the most common find, often appearing as white chunks in creek beds."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Kingston on BLM land in Idaho?",
+      "answer": "No permit is required for recreational rockhounding at Kingston. It is located on public BLM land where personal use collecting is allowed. However, you must follow the 25-pound daily limit and cannot use motorized equipment or sell any material collected."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Kingston, Idaho?",
+      "answer": "May through September is ideal. Late spring and summer offer stable weather and lower creek water levels, making it safer and easier to access stream beds and exposed rock. Summer rains can also flush new material into collecting areas."
+    },
+    {
+      "question": "Is rockhounding at Kingston, Idaho suitable for beginners and families?",
+      "answer": "Kingston is better suited for experienced rockhounders and families with older children (12+). The terrain is steep and rugged with loose, uneven footing. Hiking is challenging, and navigation requires good physical fitness and comfort on unstable ground."
+    },
+    {
+      "question": "How do I find quartz and chalcedony at Kingston rockhounding site?",
+      "answer": "Focus on creek beds and benches where water has concentrated heavier stones - quartz appears as white pebbles and chunks in recent gravels. Check exposed rock faces on hillsides for larger jasper and quartz specimens. Using a classifier or pan can help identify fine material mixed with creek sediment."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Kingston, Idaho?",
+      "answer": "Bring sturdy hiking boots with ankle support, a rock hammer or chisel, hand pick, classifier or small gold pan, and a backpack to carry your 25-pound daily limit. A topographic map and GPS are recommended for navigation on steep terrain. Bring plenty of water, as the area is remote."
+    }
+  ],
+  "meta_title": "Kingston Rockhounding - Idaho BLM Quartz & Gold",
+  "meta_description": "Free rockhounding on Idaho BLM near Enaville. Find quartz, jasper, and gold flakes. Steep terrain, no permit needed. 25 lbs/day limit. May-September best.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from regional geology)",
+    "written_directions (constructed from road name and GPS location)",
+    "hazards (assessed from steep terrain description)",
+    "cell_service (typical for remote northern Idaho)",
+    "nearest_services (estimated based on location near Enaville and Wallace)"
+  ],
+  "enriched_at": "2026-04-22T06:43:21.344Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:22.435Z"
+}

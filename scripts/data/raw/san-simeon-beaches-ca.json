@@ -1,0 +1,65 @@
+{
+  "slug": "san-simeon-beaches-ca",
+  "name": "San Simeon Beaches",
+  "lat": 35.642136,
+  "lng": -121.183315,
+  "state": "California",
+  "state_slug": "california",
+  "state_code": "CA",
+  "city": "San Luis Obispo County",
+  "city_slug": "san-luis-obispo-county",
+  "county": "San Luis Obispo",
+  "county_slug": "san-luis-obispo",
+  "geocoded_city": "San Simeon",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-california.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=San%20Simeon%20Beaches%20California"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=San%20Simeon%20Beaches",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=San%20Simeon%20Beaches%20California"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 12,
+      "meters": 4
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:29:53.894Z"
+  },
+  "scraped_at": "2026-04-21T19:29:53.894Z",
+  "scrape_quality": "partial"
+}

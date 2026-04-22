@@ -1,0 +1,99 @@
+{
+  "slug": "butte-falls-or",
+  "name": "Butte Falls",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Butte Falls",
+  "city_slug": "butte-falls",
+  "county": "Jackson",
+  "county_slug": "jackson",
+  "lat": 42.535961,
+  "lng": -122.554967,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding near Butte Falls featuring agate, jasper, and quartz specimens. Free personal use collecting with gentle terrain and scenic views.",
+  "description": "Butte Falls offers accessible rockhounding on BLM lands in Jackson County, Oregon. This area sits within the Cascade Range foothills where Tertiary and Quaternary volcanic activity deposited silica-rich materials that crystallized into quality agate nodules, banded jasper, and quartz specimens. The elevation of 2463 feet provides moderate climate and the gentle slopes make this an approachable site for rockhounds of varying experience levels.\n\nThe collecting area features scattered surface specimens on slopes and in wash bottoms where erosion continuously exposes new material. Agate nodules here often display banding and chalcedony veins typical of Oregon's volcanic terrains. The landscape transitions between open rocky areas and mixed conifer forest, providing natural shade during warmer months.\n\nThis BLM site operates under standard recreational collecting rules: no permit needed, no fee, but limited to personal use only with a 25-pound daily maximum. The terrain is suitable for families and beginners due to the gentle slopes and proximity to parking. Best hunting occurs in areas where water has recently washed material downslope, concentrating specimens in accessible locations.\n\nAccess is straightforward with passenger vehicles able to reach nearby parking areas. The rockhounding community respects this location, so pack out all waste and collect only what you can realistically carry. Early morning visits often yield the best results as specimen visibility improves with fresh light on the rocky slopes.",
+  "history": "The Butte Falls area lies within Oregon's Cascade volcanic province, where extensive Miocene to Pliocene volcanic eruptions deposited thick sequences of ash, rhyolite, and basalt flows. Subsequent weathering and silica-rich hydrothermal fluids percolating through fractures in these volcanic rocks created the agate nodules and jasper deposits found here today. This geological process, common throughout the eastern Cascade foothills, has made Oregon a premier rockhounding destination for quality chalcedony and agate specimens.",
+  "tips": "Search the gentle slopes and wash bottoms where erosion naturally concentrates specimens - agate nodules often weather out of weathered volcanic rock outcrops. Look for whitish or banded nodules partially exposed in reddish-brown volcanic soil; use a small pry bar or flathead screwdriver to carefully extract specimens without damaging them. Peak specimen hunting occurs after winter rains have washed material downslope - check the same areas in spring for newly exposed material. The 25-pound daily limit means being selective; focus on quality pieces showing clear banding or translucent chalcedony rather than collecting every specimen.",
+  "terrain_notes": "Elevation 2463 feet with gentle slopes throughout the main collecting area. Terrain consists of open rocky hillsides interspersed with scattered conifers and low brush. Walking distances from parking are short to moderate (typically under 1 mile to prime collecting zones). Footing is generally firm but uneven with exposed volcanic rock and scattered loose stones requiring sturdy footwear. No major obstacles or steep terrain make this accessible to most hikers.",
+  "best_season": "April - October, with peak season May - September. The winter months bring heavy rains and muddy conditions to the gentle slopes, making access difficult. Spring (April-May) is excellent after winter has exposed fresh material. Summer heat is moderate at this elevation. Fall (September-October) provides pleasant weather and continues to yield good specimens.",
+  "written_directions": "From Butte Falls, take Oregon Highway 62 north approximately 3 miles. Look for BLM access points and informal pullouts on the east side of the highway near mile marker 15. GPS coordinates (42.535961, -122.554967) mark the primary collecting area. Several rough dirt spurs branch east from Highway 62 leading to staging areas. Standard passenger vehicles can access parking areas, though high-clearance vehicles are recommended for rougher spur roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Highway 62 is paved; access spurs are unpaved, rough but passable for passenger vehicles. Some washboard and ruts possible, especially in wet seasons.",
+  "parking_notes": "Multiple informal pullouts and small parking areas along Highway 62 and access spurs. No developed lot, but adequate space for 3-5 vehicles at typical spots. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA. No commercial collection. No motorized excavation. No permit required. Collect only hand-portable specimens. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day\nNo commercial collection\nNo motorized excavation or heavy equipment\nNo permit required\nPack out all trash and waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Butte Falls (town center) approximately 3 miles south has limited services including a small store. Medford, Oregon (approximately 25 miles south) offers full services including gas, food, lodging, and medical facilities.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers and families. Unpaved road/spur access to parking areas. Sturdy footwear recommended due to loose volcanic rock and uneven footing. No wheelchair accessibility. Short walking distances from parking (typically under 1 mile) to productive collecting zones.",
+  "alternative_names": [],
+  "nearest_city": "Butte Falls",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/butte-falls-or/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/butte-falls-or/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can I find rockhounding near Butte Falls, Oregon?",
+      "answer": "Butte Falls BLM land yields quality banded agate nodules, chalcedony specimens, and colorful jasper typical of the Cascade volcanic province. Most agates here display white to tan banding with some translucent varieties. Jasper specimens often feature red, brown, and yellow coloration from iron-rich volcanic materials."
+    },
+    {
+      "question": "Is there a permit or fee required for rockhounding at Butte Falls on BLM land?",
+      "answer": "No permit is required and there is no fee for recreational rockhounding at Butte Falls. Oregon BLM allows personal use collecting under FLPMA regulations - you simply show up and collect. The only restriction is the 25-pound daily limit and prohibition on commercial use."
+    },
+    {
+      "question": "What is the best time of year to rockhound for quartz and agate near Butte Falls?",
+      "answer": "May through September offers the best rockhounding conditions, with April and October still viable depending on weather. Winter rains make slopes muddy and difficult to access. Spring (April-May) is particularly good because recent rains expose fresh material. Summer heat is moderate at 2463 feet elevation."
+    },
+    {
+      "question": "Is Butte Falls a good rockhounding location for beginners and families?",
+      "answer": "Yes, Butte Falls is ideal for beginners and families. The gentle slopes require no technical climbing, parking is close to collecting areas, and specimens are accessible without heavy equipment. The 25-pound daily limit and abundance of surface material mean even young rockhounders find success quickly."
+    },
+    {
+      "question": "What tools and gear should I bring for rockhounding at Butte Falls, Oregon?",
+      "answer": "Bring a small pry bar or flathead screwdriver to extract specimens from volcanic soil, a 5-gallon bucket or bag for carrying material (remember the 25-pound limit), sturdy hiking boots for loose rocky terrain, water, sunscreen, and a small field guidebook. A metal detector can be useful but is optional for this location."
+    },
+    {
+      "question": "How far is Butte Falls from Medford, and what are nearby rockhounding alternatives?",
+      "answer": "Butte Falls is approximately 25 miles north of Medford, Oregon. This location on Highway 62 makes it convenient for exploring multiple Cascade foothills rockhounding sites. Nearby alternatives include additional BLM lands throughout Jackson County featuring similar agate and jasper deposits."
+    }
+  ],
+  "meta_title": "Butte Falls Rockhounding - Free BLM Agate & Jasper",
+  "meta_description": "Free rockhounding at Butte Falls, Oregon BLM land. Find agate, jasper, and quartz without permits. 25 lb daily limit, easy gentle terrain, family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred as typical Cascade volcanic agate/jasper without specific specimen database",
+    "written_directions - inferred Highway 62 access and approximate mileage without verified address",
+    "cell_service - marked spotty based on rural Oregon elevation typical for region",
+    "nearest_services - Medford distance estimated from county geography",
+    "road_conditions - inferred from typical Oregon BLM access patterns without site-specific survey"
+  ],
+  "enriched_at": "2026-04-22T06:39:32.794Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:40:14.424Z"
+}

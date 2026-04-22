@@ -1,0 +1,97 @@
+{
+  "slug": "frisco-ut",
+  "name": "Frisco",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Beaver",
+  "city_slug": "beaver",
+  "county": "Beaver",
+  "county_slug": "beaver",
+  "lat": 38.44967,
+  "lng": -113.276399,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM public rockhounding site in the mineral-rich Tushar Mountains near Beaver. Free access with 25 lb daily limit, excellent for quartz and jasper collecting.",
+  "description": "Frisco is a historic mining area in the Tushar Mountains of western Utah where rockhounders can collect quartz, chalcedony, jasper, and agate specimens on public BLM land. The site sits at 6,490 feet elevation with moderate slopes through sagebrush and pinyon-juniper terrain typical of the Great Basin province. Access is completely free and requires no permit - just follow the 25 pound per day personal use limit set by the Bureau of Land Management.\n\nThe area was historically prospected during Utah's mining boom in the 1800s. Miocene to Pliocene volcanic and hydrothermal activity in the Tushar Mountains created extensive silica deposits and mineralized zones that continue to produce quality specimens today. Quartz veins, chalcedony nodules, and jasper outcrops are visible along washes and hillsides throughout the collecting area.\n\nGeologically, Frisco sits within the Basin and Range province where extension tectonics created fault-bounded mountain ranges. The Tushar Mountains are primarily composed of Tertiary volcanic rocks - rhyolite, dacite, and andesite - that host numerous mineral deposits. Hydrothermal circulation during and after volcanic activity enriched these rocks with silica, producing the quartz and chalcedony that rockhounders seek.\n\nThe terrain is moderate with good walking access to collecting areas. Washes cutting through the slopes expose fresh material seasonally, and exposed hillsides reveal colorful jasper bands and quartz outcrops. The moderate elevation means weather can change quickly, and afternoon thunderstorms are common in summer months. Fall through spring offers the most stable collecting conditions.\n\nBring hand tools, a backpack, and plenty of water. The sagebrush terrain offers limited shade, so sun protection is essential. This is an excellent location for beginners and families looking for free BLM rockhounding with reasonable access and good gem potential.",
+  "history": "The Tushar Mountains were heavily prospected during Utah's 1800s mining boom, with the Frisco area producing notable silver, lead, and zinc discoveries that drove settlement and development. The Miocene-age silica-rich hydrothermal fluids that created valuable ore deposits also produced extensive quartz, chalcedony, and jasper formations that rockhounders still collect today.",
+  "tips": "Search along washes and arroyo cuts where erosion naturally exposes fresh specimens - look for translucent quartz crystals and banded chalcedony in the loose material and exposed banks. Walk the exposed hillsides facing south and east where weather has weathered away the overlying soil, revealing colorful jasper banding and quartz outcrops. Use a hammer and chisel to extract specimens from matrix, but focus on float material first - the loose pieces already on the ground are easier to collect and often superior quality. Bring at least 2 liters of water per person as shade is scarce in the sagebrush terrain, and start collecting early in the day before afternoon heat peaks.",
+  "terrain_notes": "Moderate slope terrain at 6,490 feet elevation. Sagebrush and pinyon-juniper vegetation provides minimal shade. Walking distance from parking areas varies from 0.5 to 2 miles depending on access point. Footing ranges from stable soil to loose scree on slopes. Washes provide easier walking surfaces but can channel runoff during storms. No maintained trails - cross-country hiking required.",
+  "best_season": "October - April. High elevation and exposed sagebrush terrain make summer afternoons hot (80-90F) with afternoon thunderstorm risk. Winter snowfall can occur above 7,000 feet but Frisco's elevation usually stays snow-free. Spring and fall offer ideal 60-75F temperatures and stable weather patterns for full-day collecting sessions.",
+  "written_directions": "From Beaver, take Highway 153 south approximately 8 miles toward the Tushar Mountains. Turn onto the Forest Service/BLM access road heading east toward the old Frisco mining area. Follow the improved dirt road approximately 3 miles as elevation gains. Look for pull-offs and parking areas near old mining ruins and stream washes. The main collecting area is accessible via several rough dirt spurs branching from the main road - use caution on narrower side roads, especially after rain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt road to main area, rougher spurs may require high-clearance vehicle depending on season and maintenance. Washboard and ruts possible after rain.",
+  "parking_notes": "Multiple small pull-offs and informal parking areas along access roads near mining ruins and washes. No developed lot - park safely off roadway.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Remove only what you can carry. Leave the area as you found it. Respect any posted mining claims - do not collect near active claim markers.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect posted mining claims\nLeave no trace",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Beaver, Utah - 8 miles north. Full services including gas, food, water, and lodging available.",
+  "accessibility_notes": "Relatively easy access overall. Parking areas near washes require minimal walking for initial collecting. Moderate slope terrain with loose scree requires sturdy hiking boots and reasonable fitness. Not wheelchair accessible due to uneven terrain and need for cross-country hiking to productive areas. Families with children 8+ and average fitness can access main collecting zones without difficulty.",
+  "alternative_names": [],
+  "nearest_city": "Beaver",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/frisco-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Frisco, Utah rockhounding site?",
+      "answer": "Frisco is known for quartz crystals, chalcedony, banded jasper, and agate specimens. The area's Miocene hydrothermal systems created extensive silica deposits. Most specimens are small to medium quality, though quality pieces are regularly found by patient collectors searching washes and exposed hillsides."
+    },
+    {
+      "question": "Is rockhounding at Frisco free and do I need a permit?",
+      "answer": "Yes, Frisco is completely free to rockhound on public BLM land with no permit required. You simply follow the 25 pound per day personal use limit and pack out what you collect. This makes it an excellent budget-friendly family rockhounding destination in Utah."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Frisco, Utah?",
+      "answer": "October through April offers the best conditions. Spring and fall provide ideal 60-75F temperatures and stable weather for full-day collecting. Summer afternoons are hot with afternoon thunderstorm risk. Winter snowfall is rare at Frisco's 6,490 foot elevation but can occur on nearby higher peaks."
+    },
+    {
+      "question": "How do I get to Frisco rockhounding area from Beaver?",
+      "answer": "From Beaver, take Highway 153 south about 8 miles toward the Tushar Mountains, then turn east onto Forest Service road toward the old Frisco mining area. Follow the improved dirt road 3 miles upslope with several pull-offs near washes and mining ruins. High-clearance vehicle recommended after rain."
+    },
+    {
+      "question": "Is Frisco rockhounding site good for beginners and families?",
+      "answer": "Yes, Frisco is excellent for beginners and families. The terrain is relatively moderate, parking areas are close to collecting zones, and quality specimens are accessible to new rockhounders. Children ages 6+ can participate, and the free access with no permit requirement makes it stress-free for families."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Frisco?",
+      "answer": "Bring a small hammer and chisel or pick for extracting specimens from matrix, a backpack for carrying specimens, and sturdy hiking boots for the uneven sagebrush terrain. Most importantly, bring at least 2 liters of water per person as shade is scarce at elevation. Sun protection, hat, and sunscreen are essential for the exposed hillsides."
+    }
+  ],
+  "meta_title": "Frisco Rockhounding - Free Utah BLM Quartz & Jasper",
+  "meta_description": "Free rockhounding on BLM land near Beaver, Utah. Find quartz, chalcedony, and jasper with no permit required. 25 lb daily limit, beginner-friendly access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "road_conditions",
+    "parking_notes",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-22T10:17:53.597Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:18:54.613Z"
+}

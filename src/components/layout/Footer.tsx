@@ -66,8 +66,8 @@ export function Footer() {
                 )
               })}
               <li>
-                <Link href="/states" className="text-sm text-ruby-300 hover:text-ruby-200 font-medium transition-colors">
-                  View All States →
+                <Link href="/locations" className="text-sm text-ruby-300 hover:text-ruby-200 font-medium transition-colors">
+                  View All Locations →
                 </Link>
               </li>
             </ul>
@@ -82,8 +82,7 @@ export function Footer() {
               {[
                 { href: '/about', label: 'About Us' },
                 { href: '/contact', label: 'Contact' },
-                { href: '/blog', label: 'Blog & Tips' },
-                { href: '/sitemap', label: 'Sitemap' },
+                { href: '/blog', label: 'Blog' },
                 { href: '/privacy-policy', label: 'Privacy Policy' },
                 { href: '/terms', label: 'Terms of Use' },
               ].map((link) => (

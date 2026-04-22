@@ -1,0 +1,98 @@
+{
+  "slug": "fox-mountain-nc",
+  "name": "Fox Mountain",
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "city": "Statesville",
+  "city_slug": "statesville",
+  "county": "Iredell",
+  "county_slug": "iredell",
+  "lat": 35.99776,
+  "lng": -81.000072,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Fox Mountain in Iredell County offers accessible rockhounding for quartz, feldspar, and mica specimens. This Piedmont location provides good opportunities for collectors of all skill levels.",
+  "description": "Fox Mountain sits in North Carolina's Piedmont region, a geologically rich area known for its metamorphic rock formations. The site offers opportunities to collect quartz, feldspar, and mica specimens that weather out from the surrounding granitic and metamorphic bedrock typical of the Carolina Piedmont.\n\nThe Piedmont's geology stems from the Paleozoic Appalachian orogeny, when continental collision created intense heat and pressure that metamorphosed ancient sediments and igneous rocks. This process produced the feldspar-rich granites and gneisses that dominate Iredell County today. Weathering and erosion have exposed these mineral-rich rocks at or near the surface, making them accessible to rockhounds.\n\nExpect to find loose quartz fragments, feldspar crystals, and mica flakes in weathered soil and along hillsides where rock outcrops are visible. The terrain is typical Piedmont foothills - rolling hills with mixed hardwood forest cover. Collecting here is straightforward for beginners, though you'll need to scan the ground carefully and check along eroded banks.\n\nThis location is best visited during drier months when access is easiest. Bring a digging tool, small hammer, and collecting bag. The site rewards patient searching, particularly around exposed rocky outcrops where fresh material tends to accumulate.",
+  "history": "This area sits within the Carolina Piedmont, formed during the Paleozoic Appalachian orogeny when continental collision created high-grade metamorphic rocks. The granites and gneisses exposed here contain abundant feldspar and quartz crystals that have been weathered and concentrated at the surface over millions of years, making them accessible to modern collectors.",
+  "tips": "Search along hillsides and eroded banks where exposed bedrock shows granite or gneiss - these areas tend to shed the most collectible specimens. Look for quartz veins running through the hillside and check loose soil at their bases for weathered quartz fragments and feldspar pieces. Bring a small pry bar or chisel to carefully extract mica sheets from schist layers, and work during or just after rain when the ground is moist and easier to excavate without damaging specimens.",
+  "terrain_notes": "Rolling Piedmont foothills with elevation around 800-1000 feet. Terrain is hilly with mixed hardwood forest, some exposed rocky outcrops, and weathered soil. Paths are unmaintained but walkable. Footing is moderate - watch for loose rocks and root systems. Collecting areas are within 100-300 yards of parking.",
+  "best_season": "April - June and September - November. Spring and fall offer comfortable temperatures and better visibility through less dense foliage. Summer heat can be significant in the lower Piedmont. Winter rains soften the ground, making excavation easier, but access may be muddy.",
+  "written_directions": "From Statesville, take US 64 east approximately 5 miles toward Iredell County. Look for local roads branching north into the rolling hills near the 35.99776, -81.000072 coordinates. Follow backroads or Forest Service access roads into the foothills. Parking is typically at pullouts along these rural roads. A 4WD vehicle is recommended for rough seasonal access roads, though passenger vehicles can reach nearby public land during dry seasons.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rural unpaved roads, seasonal mud and washboard possible. High clearance helpful but not essential in dry conditions.",
+  "parking_notes": "Informal pullouts along forest access roads. No developed parking lot. Space for 2-4 vehicles typical.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal collection only on public land. Respect private property boundaries. Do not excavate or remove large rocks. Leave the site in good condition. Check with local land management for any seasonal closures or restrictions.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nRespect private property\nNo commercial collection\nNo motorized excavation\nLeave the site clean and undamaged",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "loose_rock"
+  ],
+  "nearest_services": "Statesville, approximately 5 miles west. Gas, food, and supplies available on US 64.",
+  "accessibility_notes": "Relatively easy terrain for most hikers. Rolling hills with unmaintained paths, no wheelchair access. Sturdy footwear recommended. Moderate slopes and occasional loose rocks. Most collecting areas are within short walking distance of parking.",
+  "alternative_names": [],
+  "nearest_city": "Statesville",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/fox-mountain-nc/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/fox-mountain-nc/mineral-1-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find rockhounding at Fox Mountain in Iredell County?",
+      "answer": "Fox Mountain is a good site for collecting quartz, feldspar, and mica specimens. The area's Piedmont granitic bedrock naturally sheds these minerals as it weathers. Quartz appears as white or translucent fragments, feldspar as tan to pink crystals, and mica as reflective sheets in weathered soil and along rocky slopes."
+    },
+    {
+      "question": "Is Fox Mountain rockhounding site free to collect at, or do I need a permit?",
+      "answer": "Fox Mountain is a public rockhounding location with no collection fees or permits required. It is free to visit and collect personal-use specimens. However, always respect private property boundaries and check for any seasonal access restrictions with local land management agencies."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Statesville at Fox Mountain?",
+      "answer": "The best seasons are April through June and September through November. Spring and fall offer comfortable temperatures and better visibility as tree cover is thinner. Summer can be hot and humid in the Piedmont. Winter visits after rain soften the ground for easier digging, but access roads may be muddy."
+    },
+    {
+      "question": "How do I get to Fox Mountain rockhounding site from Statesville?",
+      "answer": "From Statesville, take US 64 east about 5 miles into Iredell County's rolling foothills. Follow rural backroads and forest access roads branching north near the coordinates 35.99776, -81.000072. Park at informal pullouts along these roads and walk uphill to exposed rocky outcrops where specimens are most abundant."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding quartz and mica at Fox Mountain?",
+      "answer": "Bring a small pry bar or chisel to extract specimens from rocky slopes, a 3-4 lb hammer for breaking quartz veins, a collecting bag, gloves, and sturdy hiking boots. A headlamp is useful for examining specimens in rocky outcrops. Bring water and sun protection, as the Piedmont hills offer limited shade in summer."
+    },
+    {
+      "question": "Is Fox Mountain a good rockhounding site for beginners and families with children?",
+      "answer": "Yes, Fox Mountain is beginner and family-friendly. The terrain is easy to moderate, specimens are relatively abundant, and no special skills are required to find quartz and feldspar. The site is suitable for children age 6 and older. Keep an eye out for snakes in warmer months and watch for loose rocks on slopes."
+    }
+  ],
+  "meta_title": "Fox Mountain Rockhounding - Iredell County, NC",
+  "meta_description": "Find quartz, feldspar, and mica at Fox Mountain near Statesville. Free public rockhounding site in the Piedmont. Best April-June and September-November.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "written_directions",
+    "parking_notes",
+    "road_conditions",
+    "collection_rules"
+  ],
+  "enriched_at": "2026-04-22T06:48:01.223Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T06:52:53.478Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "jay-peak-vt",
+  "name": "Jay Peak",
+  "lat": 44.922344,
+  "lng": -72.522631,
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "state_code": "VT",
+  "city": "Westfield",
+  "city_slug": "westfield",
+  "county": "Orleans",
+  "county_slug": "orleans",
+  "geocoded_city": "Westfield",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-vermont.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Jay%20Peak%20Vermont"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Jay%20Peak",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Jay%20Peak%20Vermont"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3502,
+      "meters": 1068
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:05:33.788Z"
+  },
+  "scraped_at": "2026-04-21T17:05:33.788Z",
+  "scrape_quality": "minimal"
+}

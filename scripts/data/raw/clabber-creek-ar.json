@@ -1,0 +1,60 @@
+{
+  "slug": "clabber-creek-ar",
+  "name": "Clabber Creek",
+  "lat": 36.158464,
+  "lng": -92.603158,
+  "state": "Arkansas",
+  "state_slug": "arkansas",
+  "state_code": "AR",
+  "city": "Marion County",
+  "city_slug": "marion-county",
+  "county": "Marion",
+  "county_slug": "marion",
+  "geocoded_city": "Marion County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-arkansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Clabber%20Creek%20Arkansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Clabber%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Clabber%20Creek%20Arkansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 650,
+      "meters": 198
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:12:42.580Z"
+  },
+  "scraped_at": "2026-04-21T17:12:42.580Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "blanco-trading-post-nm",
+  "name": "Blanco Trading Post",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Tsahtah",
+  "city_slug": "tsahtah",
+  "county": "San Juan",
+  "county_slug": "san-juan",
+  "lat": 36.346718,
+  "lng": -107.825295,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM public rockhounding near the San Juan River basin. Search for agate, chalcedony, and quartz specimens in flat high desert terrain at 6,851 ft elevation. No permit required for personal use.",
+  "description": "Blanco Trading Post sits on New Mexico BLM land in the high desert of San Juan County, near the historic trading post settlements of the Four Corners region. This flat terrain at 6,851 feet elevation offers accessible rockhounding for collectors of all skill levels seeking agate, chalcedony, quartz, and jasper specimens. The area benefits from excellent exposure of Tertiary-age volcanic and sedimentary formations that have weathered over millions of years to produce colorful nodules and fragments across the landscape.\n\nThe geology here reflects the Basin and Range province's complex volcanic history. Miocene-age volcanic flows and pyroclastic deposits, combined with silica-rich groundwater circulation, created ideal conditions for agate and chalcedony formation. You will find specimens ranging from small thumb-sized nodules to larger pieces suitable for tumbling or display. The relatively flat, open terrain makes walking and searching straightforward, though elevation and desert exposure require preparation.\n\nThis is a genuine BLM public land site with no fees or permits required for recreational collecting. The 25-pound daily limit per Federal Land Policy and Management Act (FLPMA) applies to all collectors. The landscape is semi-arid desert with sparse vegetation, offering good visibility of material on the ground. Early morning or late afternoon searching provides the best light for spotting colorful specimens.\n\nExpect minimal services at the site itself. The nearest supplies and services are in Shiprock or Tsahtah, both small communities. Plan your trip with adequate water, sun protection, and a vehicle capable of handling unpaved BLM access roads. Cell service may be spotty, so inform someone of your intended location and return time.",
+  "history": "This region sits within the Tertiary volcanic field that characterized the Basin and Range province during the Miocene epoch, roughly 23 to 5 million years ago. Massive silica-rich volcanic eruptions and subsequent hydrothermal circulation through fractures in the surrounding rocks deposited the agate and chalcedony specimens found here today. Local prospecting activity in the Four Corners region has a long history tied to uranium mining in the mid-20th century, though this particular area has been primarily known for casual rockhounding rather than commercial extraction.",
+  "tips": "Search along washes, bajadas, and areas where seasonal runoff has exposed and concentrated lighter-colored specimens. Look for nodules with a waxy luster and translucent edges - these are typically agate or chalcedony and stand out against the darker surrounding soil. Use a 10x hand lens to examine color banding and patterns before pocketing material; many specimens here show beautiful reds, oranges, browns, and creams when fresh. Bring plenty of water in the high desert heat, and collect in early morning to maximize visibility and avoid afternoon heat and glare.",
+  "terrain_notes": "Flat to gently rolling high desert terrain at 6,851 feet elevation. Sparse desert vegetation including sagebrush and rabbitbrush. Ground surface is mostly sandy/gravelly with exposed bedrock outcrops. Walking distance from parking is typically short (under 1 mile for most productive areas). Footing is uneven with scattered rocks and loose material, requiring sturdy boots. No significant elevation changes within the main collecting area.",
+  "best_season": "October - April. High desert elevation and location mean summer temperatures can exceed 90 degrees Fahrenheit in July and August, making midday collecting dangerous. Fall through spring offers comfortable temperatures, lower sun intensity, and clearer visibility of specimens. Winter freezes are rare at this elevation, though nights can be cold.",
+  "written_directions": "From Tsahtah, head northwest on NM 550 for approximately 8 miles toward the trading post area. Watch for unmarked BLM access roads branching west from the highway. Coordinate with the GPS location (36.346718, -107.825295) to identify specific pullouts. The main access is via rough unpaved BLM roads; a high-clearance vehicle (AWD recommended after rain) is advisable. Park in designated pullouts or near established parking areas visible from the road. Avoid trespassing on private land interspersed with BLM sections.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM roads, typically passable by passenger vehicles but high-clearance and AWD recommended, especially after rain. Washboard surface common. May have minor ruts or drainage crossings.",
+  "parking_notes": "Informal pullouts along BLM roads. No developed parking lot. Multiple pullouts available; choose one near productive collecting areas visible from the road. Space for 2-3 vehicles typical per pullout.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection. No motorized excavation or heavy equipment. Pack out all trash. Respect adjacent private property boundaries. Collecting is allowed on open BLM land; stay clear of any posted or fenced areas.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nPack out all trash\nRespect private property boundaries\nStay on or near established roads",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Tsahtah and Shiprock. Tsahtah is approximately 8 miles southeast; Shiprock is approximately 15 miles northeast. Both offer limited gas, food, and supplies. Plan accordingly.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Unpaved BLM road access requires high-clearance or AWD vehicle. Once parked, walking to productive areas is typically short (under 1 mile) over uneven ground. Loose rocks and scattered material underfoot require sturdy boots. Not suitable for wheelchairs or limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Shiprock",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/blanco-trading-post-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/blanco-trading-post-nm/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/blanco-trading-post-nm/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Blanco Trading Post in New Mexico?",
+      "answer": "You can find agate, chalcedony, quartz, and jasper specimens at Blanco Trading Post. Many nodules display beautiful color banding in reds, oranges, browns, and creams. Use a hand lens to inspect specimens before collecting - agate and chalcedony typically have a waxy luster and translucent edges."
+    },
+    {
+      "question": "Is there a permit or fee required for rockhounding at Blanco Trading Post?",
+      "answer": "No permit or fee is required. Blanco Trading Post sits on BLM public land open to recreational rockhounding. You do need to follow the 25-pound daily collection limit per federal law. Personal use only - commercial collecting is not allowed."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Tsahtah and Shiprock?",
+      "answer": "The best season is October through April. High desert summers can exceed 90 degrees and make daytime collecting dangerous. Fall through spring offers comfortable temperatures, lower sun intensity, and clearer visibility of specimens on the ground."
+    },
+    {
+      "question": "How do I get to Blanco Trading Post from Shiprock or Tsahtah?",
+      "answer": "From Tsahtah, take NM 550 northwest for about 8 miles. Watch for unmarked BLM access roads branching west. Use the GPS coordinates (36.346718, -107.825295) to locate the area. You will need a high-clearance vehicle or AWD, especially after rain, to navigate unpaved BLM roads."
+    },
+    {
+      "question": "Is Blanco Trading Post beginner-friendly and suitable for family rockhounding?",
+      "answer": "Yes, Blanco Trading Post is excellent for beginners and families. The terrain is flat and relatively easy to walk. You do not need special equipment or experience to find agate and chalcedony specimens. Kids ages 6 and up can participate, and dogs are welcome on BLM land."
+    },
+    {
+      "question": "What tools and supplies do I need for a rockhounding trip to this San Juan County site?",
+      "answer": "Bring a 10x hand lens to inspect specimens, sturdy boots for uneven terrain, and a backpack or bucket for specimens. Pack 2-3 liters of water per person - the high desert is dry and offers no shade. Sun protection, a hat, and sunscreen are essential. A GPS device or smartphone helps navigate unmarked BLM roads."
+    }
+  ],
+  "meta_title": "Blanco Trading Post Rockhounding - New Mexico",
+  "meta_description": "Find agate, chalcedony, and quartz at Blanco Trading Post on BLM land near Tsahtah, New Mexico. No permit required. Beginner-friendly with flat terrain.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "nearest_city_distance",
+    "written_directions",
+    "parking_notes",
+    "hazards"
+  ],
+  "enriched_at": "2026-04-22T06:46:22.871Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:17.619Z"
+}

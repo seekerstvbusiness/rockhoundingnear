@@ -1,0 +1,100 @@
+{
+  "slug": "tokop-nv",
+  "name": "Tokop",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Esmeralda County Area",
+  "city_slug": "esmeralda-county",
+  "county": "Esmeralda",
+  "county_slug": "esmeralda",
+  "lat": 37.30381,
+  "lng": -117.253405,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Obsidian"
+  ],
+  "short_description": "High-elevation BLM rockhounding site in remote Esmeralda County where collectors find quartz, agate, and chalcedony specimens. Personal-use collecting with no permit required.",
+  "description": "Tokop is a public BLM rockhounding area located at nearly 7,000 feet elevation in the Basin and Range province of Esmeralda County, Nevada. This remote location offers collectors the opportunity to find quartz, agate, chalcedony, and occasional obsidian specimens in a high-desert environment characterized by moderate slopes and scattered rocky outcrops.\n\nThe site sits within Nevada's volcanically active past, where silica-rich hydrothermal fluids percolated through fractured rock during the Tertiary and Quaternary periods. The resulting mineral deposits include translucent to opaque quartz crystals, banded agate nodules, and microcrystalline chalcedony throughout the surrounding hillsides and washes. The elevation provides cooler temperatures and occasional seasonal moisture that can make collecting more comfortable than lower desert sites.\n\nCollectors should expect a true backcountry experience with minimal facilities and significant distance from services. The moderate slope terrain requires steady hiking and careful footing over rocky ground. Most productive collecting occurs by scanning hillsides for weathered specimens and searching dried washes where minerals are naturally exposed by erosion.\n\nAs with all Nevada BLM land, personal use collection is allowed without a permit up to 25 pounds per day per person. The remote setting and relatively untouched geology make Tokop appealing to experienced rockhounders seeking quality specimens in a less-crowded environment. The high elevation means seasonal weather patterns significantly impact accessibility.",
+  "history": "Tokop lies within the Basin and Range physiographic province, where Tertiary volcanic and hydrothermal activity created extensive quartz and silicate deposits throughout this region. The silica-rich fluids that formed the agate nodules and quartz crystals found here today were deposited during periods of crustal extension and magmatism between 20 and 5 million years ago, with ongoing weathering and erosion continuously exposing new material.",
+  "tips": "Focus your search on exposed hillsides and the banks of dry washes where water erosion naturally concentrates and polishes specimens. Use a crack hammer and chisel to carefully free specimens from host rock rather than prying forcefully. Look for milky white to gray quartz with occasional purple or smoky tints, and scan for banded agate nodules that often weather out as rounded stones in wash gravels. Bring plenty of water, a detailed topographic map, and a GPS unit since the remote terrain can be disorienting.",
+  "terrain_notes": "Elevation 6,948 feet with moderate slopes throughout the collecting area. Terrain consists of rocky hillsides with scattered sagebrush and exposed rock outcrops. Walking distance from parking varies from 0.5 to 2 miles depending on where you choose to focus your search. Footing is uneven and rocky with loose stones common. No developed trails; cross-country navigation required. Vegetation sparse typical of high desert.",
+  "best_season": "June - September. The high elevation means winter and early spring bring snow and cold that can block access. Summer provides the most stable weather, though afternoon thunderstorms are possible. Fall offers cooler temperatures and clear skies but shorter daylight hours.",
+  "written_directions": "From Tonopah (approximately 90 miles northwest), take US 95 south toward the Nevada-California border. Tokop is accessed via rough BLM roads in the remote Esmeralda County backcountry. Due to the remote nature of this location and minimal signage, detailed GPS coordinates (37.30381, -117.253405) are essential. High-clearance vehicles strongly recommended; standard passenger cars may have difficulty on the final approach. Consult detailed topographic maps and BLM Nevada maps before attempting to locate this site. Cell service is unreliable, so download offline maps in advance.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough BLM dirt roads with potential washboard, rocks, and ruts. High clearance required. Roads may become impassable during wet conditions.",
+  "parking_notes": "No developed parking area. Park off established tracks at GPS location or nearby pullouts along BLM roads. Limited capacity; expect very few other vehicles.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No collection of specimens in place using power tools (hand tools and simple chisels only). Pack out all waste.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo power tools\nHand tools and chisels only\nPack out all waste",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "remote",
+    "heat",
+    "cold",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Tonopah (approximately 90 miles northwest) has gas, food, and lodging. No services within 50 miles of the actual collecting site.",
+  "accessibility_notes": "Very challenging terrain on moderate slopes with rocky footing and no established trails. Significant hiking and cross-country navigation required. Not suitable for anyone with limited mobility, young children, or those unfamiliar with backcountry travel. Sturdy hiking boots essential. Remote location means rescue response times can be several hours.",
+  "alternative_names": [],
+  "nearest_city": "Tonopah",
+  "nearest_city_distance": 90,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/tokop-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/tokop-nv/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Tokop, Nevada?",
+      "answer": "Tokop is known for quartz specimens, agate nodules, chalcedony, and occasionally obsidian. Quartz is the most common find, ranging from clear to milky white to smoky varieties. Agate nodules often display banding and weather out in washes as rounded stones. Chalcedony appears as microcrystalline specimens in various colors."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Tokop on BLM land?",
+      "answer": "No permit is required for personal-use rockhounding at Tokop. Nevada BLM regulations allow recreational collecting without advance permission, though you must follow the 25 lb per day limit and personal-use-only requirement. Commercial collection is strictly prohibited."
+    },
+    {
+      "question": "What is the best time of year to visit Tokop for rockhounding?",
+      "answer": "June through September is ideal. The high elevation (6,948 feet) means winter brings snow and cold that can block access via rough BLM roads. Summer provides stable weather, though afternoon thunderstorms are possible. Fall offers cooler temperatures but shorter daylight for backcountry navigation."
+    },
+    {
+      "question": "Is Tokop rockhounding site suitable for beginners?",
+      "answer": "No, Tokop is not beginner-friendly. It requires high-clearance vehicles to access via rough BLM roads, backcountry navigation skills using GPS and topographic maps, and the ability to hike moderate slopes on rocky terrain. Cell service is nonexistent. Experienced rockhounders and wilderness travelers are best suited for this location."
+    },
+    {
+      "question": "How far is Tokop from the nearest town with gas and supplies?",
+      "answer": "Tonopah, Nevada is approximately 90 miles northwest of Tokop and offers gas, food, and lodging. There are no services within 50 miles of the actual collecting site, so plan your supplies carefully and bring extra water, a full tank of gas, and emergency supplies."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Tokop?",
+      "answer": "Bring a crack hammer, chisel, and chisels in various sizes for carefully extracting specimens. Essential equipment includes a detailed topographic map, GPS unit, high-clearance vehicle suitable for rough BLM roads, plenty of water, first aid kit, and emergency communication device. Offline maps are critical since cell service is unavailable in this remote location."
+    }
+  ],
+  "meta_title": "Tokop Rockhounding - Nevada BLM Quartz & Agate",
+  "meta_description": "Find quartz, agate, and chalcedony at Tokop, a remote Nevada BLM site. No permit required, 25 lbs per day limit. High elevation, experienced collectors only.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_services",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T09:50:02.410Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:40.159Z"
+}

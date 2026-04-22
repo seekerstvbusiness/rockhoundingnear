@@ -9,7 +9,6 @@ export async function GET() {
   const xml = buildSitemap([
     { loc: SITE_URL,                        lastmod: today, changefreq: 'daily',   priority: 1.0 },
     { loc: `${SITE_URL}/locations`,         lastmod: today, changefreq: 'daily',   priority: 0.9 },
-    { loc: `${SITE_URL}/states`,            lastmod: today, changefreq: 'weekly',  priority: 0.8 },
     { loc: `${SITE_URL}/blog`,              lastmod: today, changefreq: 'weekly',  priority: 0.6 },
     { loc: `${SITE_URL}/about`,             lastmod: today, changefreq: 'monthly', priority: 0.5 },
     { loc: `${SITE_URL}/contact`,           lastmod: today, changefreq: 'monthly', priority: 0.4 },

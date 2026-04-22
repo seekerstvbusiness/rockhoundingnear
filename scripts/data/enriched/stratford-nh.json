@@ -1,0 +1,97 @@
+{
+  "slug": "stratford-nh",
+  "name": "Stratford",
+  "state": "New Hampshire",
+  "state_slug": "new-hampshire",
+  "city": "Stratford",
+  "city_slug": "stratford",
+  "county": "Coös",
+  "county_slug": "co-s",
+  "lat": 44.735938,
+  "lng": -71.441129,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Garnet"
+  ],
+  "short_description": "Rockhounding in the White Mountains foothills near Stratford offers opportunities to find quartz, feldspar, and mica in metamorphic bedrock typical of northern New Hampshire's mineral-rich geology.",
+  "description": "Stratford sits in Coös County in the White Mountains region of northern New Hampshire, an area shaped by ancient Paleozoic mountain-building events and Precambrian metamorphism. The region's bedrock is dominated by metamorphic rocks including schist, gneiss, and quartzite, which host common minerals like quartz, feldspar, and mica. Rockhounders visiting this area can search along stream beds, roadcuts, and gentle slopes for quartz crystals, feldspar specimens, and mica sheets typical of New England's metamorphic terrane.\n\nThe terrain around Stratford features gentle slopes and mixed forests characteristic of the northern New England uplands. Elevations near 1500 feet provide access to productive mineral-collecting areas without extreme elevation gain. Stream valleys and small quarries are historically productive spots for finding quality specimens.\n\nThis location is best suited for rockhounders with at least basic experience in identifying metamorphic minerals and navigating forest terrain. The gentle slope and proximity to town make it accessible for families and casual collectors willing to explore established trails and stream beds. Always check local land ownership before collecting, as some areas may be private property.\n\nSpring through early fall offers the best collecting conditions when water levels are moderate and trails are passable. Winter can present access challenges due to snow and ice at elevation. Bring sturdy hiking boots, a small hammer, and a hand lens for identifying specimens in the field.",
+  "history": "The Stratford area sits within the White Mountains geological province, shaped by Paleozoic-era mountain building (Acadian orogeny around 380 million years ago) that metamorphosed older sedimentary and igneous rocks into the schist, gneiss, and quartzite found today. Historic and ongoing quarrying activity in the region has exposed fresh metamorphic bedrock, making it a productive area for specimen collectors.",
+  "tips": "Search stream beds and small tributaries where water erosion naturally exposes metamorphic bedrock and separates lighter minerals. Look for quartz veins in gneiss and schist outcrops, particularly on hillsides and roadcuts where fresh rock faces have been exposed. Use a small sledge hammer or rock hammer to carefully extract specimens from matrix, and always check color and crystal habit with a hand lens to confirm quartz, feldspar, or mica before collecting.",
+  "terrain_notes": "Gentle rolling terrain at 1518 feet elevation in the foothills north of the White Mountains. Mixed deciduous and conifer forest with multiple stream valleys. Walks to productive areas typically range from 0.5 to 2 miles from parking. Footing is generally stable but can be muddy or rocky after rain. Loose rocks and uneven ground are common near stream beds.",
+  "best_season": "May - October. Late spring through early fall offers stable weather, manageable water levels in streams, and accessible trails. Snow and ice make winter visits challenging, and spring snowmelt can cause high water and muddy conditions in early May.",
+  "written_directions": "From downtown Stratford, take NH Route 16 north toward Groveton for approximately 2-3 miles. Look for roadcuts and stream access points on the east side of Route 16 where the road passes through metamorphic bedrock outcrops. Informal pullouts exist near promising collecting areas. Alternatively, explore secondary roads branching east from Route 16 into the foothills, where stream beds are typically accessible on public or permissive land.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "NH Route 16 is paved and well-maintained. Secondary roads accessing streams may be unpaved gravel or dirt, passable year-round for passenger vehicles except during winter storms or spring thaw.",
+  "parking_notes": "Informal pullouts along roadcuts on NH Route 16. Small parking areas may exist near stream access points on secondary roads. Expect very limited formal parking; plan to park safely off-road and hike short distances to collecting areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Collect only on public land or with explicit permission from private landowners. Do not collect on posted private property. Remove only hand-held specimens using simple hand tools. No motorized excavation. Respect natural areas and stream habitats.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nCollect with hand tools only\nNo motorized equipment\nRespect private property boundaries\nLeave the area as you found it",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Stratford village center (2 miles south) has limited services. Groveton (8 miles north) offers gas, food, and supplies. Littleton (12 miles south) has more comprehensive services including grocery stores and outdoor shops.",
+  "accessibility_notes": "Relatively easy terrain with gentle slopes and short walking distances to collecting areas. Most roadcuts and stream beds are accessible to families and hikers with basic fitness. Trails can be muddy or rocky after rain. No wheelchair-accessible collecting areas; uneven footing is typical.",
+  "alternative_names": [],
+  "nearest_city": "Groveton",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-hampshire/stratford-nh/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Stratford, New Hampshire?",
+      "answer": "The Stratford area is known for quartz, feldspar, mica, and garnet found in metamorphic bedrock. Quartz crystals and veins are the most common finds, along with sheets of muscovite mica and feldspar crystals in schist and gneiss outcrops. Garnets appear as small red crystals in some metamorphic rocks, making this an excellent location for learning to identify New England mineral types."
+    },
+    {
+      "question": "Is rockhounding free at Stratford, New Hampshire, or do I need a permit?",
+      "answer": "Rockhounding is free and does not require a permit for personal use on public land in the Stratford area. Always verify land ownership before collecting, as some areas may be private property. Ask at nearby homes or check with the town if uncertain about access rights."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Stratford?",
+      "answer": "May through October offers the best conditions for rockhounding near Stratford. Spring and early summer provide stable weather and moderate stream water levels ideal for exploring stream beds. Avoid winter months when snow and ice can make access difficult, and be cautious in early May when spring snowmelt raises water levels and muddy conditions prevail."
+    },
+    {
+      "question": "Are there good rockhounding spots for beginners near Stratford, New Hampshire?",
+      "answer": "Yes, Stratford is very beginner-friendly. Roadcuts along NH Route 16 expose metamorphic rocks easily visible from parking areas, and stream beds offer loose specimens without the need for heavy tools. The gentle terrain and short walks to productive areas make this ideal for families and new collectors learning to identify quartz, feldspar, and mica."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding in Stratford?",
+      "answer": "Bring a small rock hammer or geology hammer, a hand lens (10x magnification) for identifying minerals, a small chisel, sturdy hiking boots, and a collection bag. Stream bed collecting requires wading boots or waterproof shoes. A backpack with water and a field guide to New England rocks and minerals will enhance your experience."
+    },
+    {
+      "question": "Can I take my dog rockhounding at Stratford, New Hampshire?",
+      "answer": "Yes, dogs are generally welcome on public lands in the Stratford area. Keep your dog under control near streams and cliffs, and be prepared for muddy or rocky terrain. Bring extra water for your dog and watch for wildlife such as deer and birds in the forested foothills."
+    }
+  ],
+  "meta_title": "Stratford Rockhounding - New Hampshire",
+  "meta_description": "Find quartz, feldspar, and mica rockhounding near Stratford, NH. Free public land access in White Mountains foothills. Best May - October. Family friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "land ownership verification",
+    "specific productive locations"
+  ],
+  "enriched_at": "2026-04-21T17:49:39.784Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:50:50.672Z"
+}

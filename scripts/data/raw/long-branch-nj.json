@@ -1,0 +1,71 @@
+{
+  "slug": "long-branch-nj",
+  "name": "Long Branch",
+  "lat": 40.304727,
+  "lng": -73.977186,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Long Branch",
+  "city_slug": "long-branch",
+  "county": "Monmouth",
+  "county_slug": "monmouth",
+  "geocoded_city": "Long Branch",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Long%20Branch%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Long%20Branch",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Long%20Branch%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 11,
+      "meters": 3
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Troutmans Creek",
+        "type": "stream",
+        "dist": 0.5
+      },
+      {
+        "name": "Troutmans Creek",
+        "type": "stream",
+        "dist": 0.6
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:37:26.823Z"
+  },
+  "scraped_at": "2026-04-21T18:37:26.823Z",
+  "scrape_quality": "minimal"
+}

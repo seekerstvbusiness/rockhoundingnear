@@ -1,0 +1,100 @@
+{
+  "slug": "goldcreek-mt",
+  "name": "Goldcreek",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Jens",
+  "city_slug": "jens",
+  "county": "Powell",
+  "county_slug": "powell",
+  "lat": 46.594542,
+  "lng": -112.943432,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public rockhounding site near Jens offering gold panning and quartz collecting in flat terrain at 4166 ft elevation. No permit required for personal use.",
+  "description": "Goldcreek is a popular BLM rockhounding destination in Powell County, Montana, accessible to rockhounders of all skill levels. The site sits on relatively flat public land where recreational collectors can search for gold and quartz specimens under Montana's personal use collection rules. The area is ideal for both beginners interested in gold panning and experienced rockhounds looking to build quartz and chalcedony specimens.\n\nThe geology here reflects the northern Rocky Mountain province, where Precambrian metamorphic rocks and Tertiary-age quartz veins host alluvial gold deposits. Historical placer mining activity in this region created accessible washes and exposed banks where gold particles concentrate naturally. The flat terrain and proximity to water drainage patterns make this an excellent location for understanding how gold accumulates in stream beds and alluvial fans.\n\nExpect to find small flakes and dust gold in stream gravels and along bank erosion, with occasional small pieces. Quartz specimens are common in scattered outcrops and can range from clear to milky white. Chalcedony nodules appear in some areas and reward careful surface scanning. The open, flat landscape means minimal bushwhacking and straightforward access to productive collecting areas.\n\nMost collectors spend 2-4 hours here and typically recover small quantities of gold along with specimen-quality quartz. The lack of steep terrain makes this suitable for families with older children and anyone seeking a relaxed collecting day on public land without permit complications.",
+  "history": "Goldcreek lies within the Northern Rocky Mountain gold belt, where Tertiary quartz veins and Precambrian metamorphic host rocks generated significant placer deposits. Early 20th-century prospectors worked this drainage system, leaving evidence of small-scale mining that confirms the area's productive gold-bearing potential and established the collection sites still used today.",
+  "tips": "Focus your search along stream banks and in the gravel beds of active or historic water flows - gold concentrates heaviest in outside bends and behind larger rocks. Bring a gold pan or classifier and work the darker, heavier material at the bottom of your sample - black sand (magnetite) is your best indicator that fine gold is present. Look for quartz outcrops on hillsides adjacent to the creek drainage; many quality specimens can be found as float in the soil above these exposures. Early morning trips often yield the best visibility and fewer other collectors in the area.",
+  "terrain_notes": "Elevation 4166 ft with flat to gently rolling terrain. Sparse Montana mountain shrub and grass cover. Well-drained soil and easy walking on mostly open ground. Creek access points range from 0.5 to 1.5 miles from parking areas. Footing is generally stable with occasional rocks underfoot; sturdy footwear recommended but hiking boots not mandatory.",
+  "best_season": "May - October. Early summer through fall provides the best weather for creek work and panning. Winter snow and spring runoff make stream access difficult. July and August are warmest but can see occasional afternoon thunderstorms.",
+  "written_directions": "From Jens, take Montana Highway 200 east approximately 8 miles toward the Goldcreek area. Look for BLM access points marked with standard public land signs on the north side of the highway. Turn onto the marked dirt road leading north toward the creek drainage. Drive approximately 1.5 miles on the dirt road (suitable for passenger vehicles in dry conditions) to the main parking and turnaround area. Park near the creek confluence and walk to productive gravel bars and stream banks.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt road, well-maintained and generally passable year-round in dry season. Some washboard sections. Standard clearance vehicle recommended; high-clearance or 4WD preferred after rain or snow melt.",
+  "parking_notes": "Informal parking area at the end of the access road near creek. Space for 5-8 vehicles. No facilities, no restrooms. Pull completely off the road to allow access for other vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No use of mechanized equipment (dredges, sluices with engines). Hand panning and non-motorized classification equipment only. Respect private property boundaries and posted claims if visible. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or powered equipment\nHand tools and panning only\nPack out all trash\nRespect any posted mining claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "wildlife",
+    "loose_rock"
+  ],
+  "nearest_services": "Jens, Montana approximately 8 miles west. Limited services; plan to bring all water and supplies. Nearest full services (grocery, gas, restaurants) in Lincoln, Montana, approximately 25 miles south.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Unpaved dirt road to parking area suitable for standard vehicles in dry conditions. Stream access requires short walks of 0.5-1.5 miles on gentle terrain with stable footing. No wheelchair access to productive collecting areas. Creek banks may be uneven; sturdy footwear recommended.",
+  "alternative_names": [],
+  "nearest_city": "Jens",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/goldcreek-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/goldcreek-mt/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What kind of gold can I find at Goldcreek near Jens, Montana?",
+      "answer": "Goldcreek is known for fine flakes and dust gold in alluvial stream deposits. Most collectors find small piles of flour gold and occasional fine pieces by panning gravel from stream banks and bars. Historic placer mining in this drainage confirms regular small-scale gold recovery is possible. Bring a classifier and focus on darker heavy materials for best results."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Goldcreek BLM land?",
+      "answer": "No permit is required for personal recreational collecting on this BLM land in Powell County, Montana. You can collect free of charge under Montana's FLPMA personal use rules: maximum 25 lbs per day, non-commercial only, and hand tools only (no motorized equipment like dredges)."
+    },
+    {
+      "question": "What quartz and chalcedony specimens can I find rockhounding near Jens?",
+      "answer": "Goldcreek offers clear to milky white quartz specimens in small outcrops and as float on adjacent hillsides. Chalcedony nodules are also present in some areas. Most specimens are hand-sized pieces ideal for collections. Careful surface scanning along ridges above the creek yields the best quality quartz finds."
+    },
+    {
+      "question": "Is Goldcreek rockhounding site beginner-friendly and family-safe?",
+      "answer": "Yes, Goldcreek is excellent for beginners and families. The flat terrain requires minimal hiking, no special permits, and you can start panning gold immediately with just a pan and water. Kids age 6 and up can participate safely. Bring water, snacks, and sunscreen. No motorized equipment is allowed, keeping the area peaceful and accessible."
+    },
+    {
+      "question": "What is the best time to rockhound for gold at Goldcreek in Montana?",
+      "answer": "May through October offers the best conditions at Goldcreek. Water levels are manageable, weather is mild, and creek access is easiest during these months. July and August are warmest but can bring afternoon thunderstorms. Avoid winter and early spring when snow and runoff make stream panning difficult and roads may be impassable."
+    },
+    {
+      "question": "What tools and equipment do I need for gold panning at Goldcreek?",
+      "answer": "Bring a 12-14 inch gold pan, a classifier or sieve to separate rocks, sturdy footwear for creek banks, and a small vial for storing gold. A small shovel helps dig into banks, and a snuffer bottle collects fine gold. Since Goldcreek allows hand tools only, no dredges or powered equipment are permitted. Always pack out your trash."
+    }
+  ],
+  "meta_title": "Goldcreek Rockhounding - Montana Gold Panning",
+  "meta_description": "Find gold, quartz, and chalcedony at Goldcreek BLM near Jens, Montana. No permit required, 25 lb/day limit. Beginner-friendly rockhounding open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from location name and Montana geology)",
+    "nearest_city_distance (estimated from GPS)",
+    "road_conditions (inferred from BLM public land access patterns)",
+    "parking_notes (typical BLM site infrastructure)",
+    "cell_service (estimated for rural Montana location)",
+    "remoteness_rating (based on distance from town and terrain)"
+  ],
+  "enriched_at": "2026-04-21T19:07:10.656Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:27.541Z"
+}

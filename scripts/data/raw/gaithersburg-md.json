@@ -1,0 +1,60 @@
+{
+  "slug": "gaithersburg-md",
+  "name": "Gaithersburg",
+  "lat": 39.228526,
+  "lng": -77.190296,
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "state_code": "MD",
+  "city": "Montgomery County",
+  "city_slug": "montgomery-county",
+  "county": "Montgomery",
+  "county_slug": "montgomery",
+  "geocoded_city": "Montgomery County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maryland.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Gaithersburg%20Maryland"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Gaithersburg",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Gaithersburg%20Maryland"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 408,
+      "meters": 124
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:37:10.422Z"
+  },
+  "scraped_at": "2026-04-21T17:37:10.422Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "sentinel-rock-and-specimen-rock-co",
+  "name": "Sentinel Rock and Specimen Rock",
+  "state": "Colorado",
+  "state_slug": "colorado",
+  "city": "Colorado Springs",
+  "city_slug": "colorado-springs",
+  "county": "El Paso",
+  "county_slug": "el-paso",
+  "lat": 38.80464,
+  "lng": -104.91777,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Smoky Quartz"
+  ],
+  "short_description": "High elevation BLM rockhounding site near Colorado Springs featuring quartz, feldspar, and mica specimens in steep mountainous terrain. Personal use collecting allowed year-round with 25 lb daily l...",
+  "description": "Sentinel Rock and Specimen Rock are twin named features on BLM public land in the El Paso County region north of Colorado Springs. Located at nearly 9000 feet elevation, this site sits within the Front Range uplift zone where Precambrian granite and metamorphic rocks containing abundant quartz, feldspar, and mica were exposed by tectonic uplift and erosion. The steep terrain and high elevation create a challenging but rewarding collecting environment for specimens interested in studying pegmatite-hosted minerals and quartz varieties.\n\nThe site's namesake rock formations act as natural landmarks and focal points for collectors. The surrounding area exposes weathered granite and gneiss outcrops that frequently yield intact mineral specimens, particularly smoky quartz crystals, feldspar components, and mica flakes from pegmatitic pockets. The rocky slopes and thin soil allow fresh material to remain exposed throughout the year as freeze-thaw weathering continues breaking down the host rock.\n\nThis is a public BLM area with minimal development or restrictions beyond standard personal-use rules. No permit is required, making it accessible to casual rockhounders and experienced collectors alike. The steep, rocky terrain and high elevation demand good physical condition and proper preparation. Summer weather windows and early fall provide the most comfortable collecting conditions.\n\nExpect to spend 2-4 hours searching along the rocky slopes and outcrop edges. The site rewards methodical searching of exposed granite faces and weathered detritus fields downslope from major outcrops. Many collectors find the best specimens by examining areas where water run-off has concentrated lighter material.",
+  "history": "This area lies within the Front Range uplift, part of the Laramide orogeny where Precambrian granite and metamorphic rocks were elevated and exposed during the Cretaceous-Tertiary mountain-building event. The pegmatitic granite bodies that host quartz, feldspar, and mica originated from Late Precambrian magmatic intrusions approximately 1.7-1.8 billion years ago, with mineral concentrations enhanced during regional metamorphism and pegmatite crystallization phases.",
+  "tips": "Focus your search on the weathered granite outcrops and the loose rocky slopes immediately downhill from Sentinel Rock and Specimen Rock formations - this is where freeze-thaw weathering concentrates fresh mineral specimens. Bring a small rock hammer or chisel to carefully extract specimens from pegmatitic pockets without damaging them; smoky quartz crystals are best preserved when removed cleanly from matrix. Look for areas with exposed pink feldspar and glassy quartz faces as these indicate pegmatite zones with higher specimen quality. Check the site after winter freeze-thaw cycles in late March through April when fresh material becomes most accessible.",
+  "terrain_notes": "Steep mountainous terrain at 8991 feet elevation with exposed granite bedrock, loose rock scree, and thin alpine soil. Walking is difficult with uneven footing, rocky slopes, and significant elevation gain from most parking areas. High-altitude thinning vegetation includes scattered pine and low shrubs. Expect 30-45 minutes hiking from nearest parking to productive collecting zones.",
+  "best_season": "June - September",
+  "written_directions": "From Colorado Springs, take US 24 west toward Woodland Park approximately 15 miles. Turn north on County Road 25 (Manitou Park Road) and continue 8-12 miles into higher elevation. GPS coordinates 38.80464, -104.91777 mark the Twin Rocks area; use a high-clearance vehicle to access rough BLM roads approaching the site. Consult current BLM maps as road conditions vary seasonally. Cell service is spotty; download maps before departure.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough BLM dirt roads with high clearance recommended. Seasonal washouts possible. Road quality varies; scout conditions before committing full distance.",
+  "parking_notes": "Limited informal pullouts along BLM access roads. Park well off active roads. Space for 3-5 vehicles maximum. No developed parking area.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or equipment. All collecting must occur on exposed surface material or with hand tools only. Remove no more than can be reasonably carried.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 pound daily limit per person\nNo commercial collection\nNo motorized excavation\nHand tools only\nRemove only surface and naturally exposed material",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Colorado Springs, 15-20 miles south. Full amenities including food, water, fuel, and medical services.",
+  "accessibility_notes": "Steep mountainous terrain with loose rock, exposed outcrops, and significant elevation requiring good physical fitness. Altitude of 9000 feet may affect visitors from lower elevations. No wheelchair access. Sturdy hiking boots with ankle support essential. Not suitable for limited mobility visitors. Route-finding challenges; GPS strongly recommended.",
+  "alternative_names": [
+    "Twin Rocks",
+    "Front Range Pegmatite Zone"
+  ],
+  "nearest_city": "Colorado Springs",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/sentinel-rock-and-specimen-rock-co/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/sentinel-rock-and-specimen-rock-co/mineral-1-feldspar.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find at Sentinel Rock and Specimen Rock near Colorado Springs?",
+      "answer": "You can collect quartz (including smoky quartz varieties), feldspar, mica, and other pegmatite-hosted minerals from the exposed granite outcrops. The Precambrian granite host rock frequently contains small pegmatitic pockets with intact crystal specimens, though most material is granular. Smoky quartz crystals and pink feldspar are the most sought-after finds at this BLM site."
+    },
+    {
+      "question": "Do I need a permit to go rockhounding at Sentinel Rock and Specimen Rock?",
+      "answer": "No permit is required. This is public BLM land in Colorado with recreational personal-use collecting allowed under standard FLPMA rules. You are limited to 25 pounds per day for personal use only. No commercial collection is permitted."
+    },
+    {
+      "question": "What is the best time of year to rockhound Sentinel Rock and Specimen Rock in Colorado?",
+      "answer": "June through September is optimal. The high 9000-foot elevation makes this site snow-covered and inaccessible October through May. Early summer offers good weather, though freeze-thaw cycles in late March and April expose fresh specimens. High altitude weather can change rapidly; bring extra layers and be prepared to leave quickly."
+    },
+    {
+      "question": "How difficult is it to reach Sentinel Rock and Specimen Rock, and is it suitable for beginners?",
+      "answer": "This is a hard-difficulty site requiring good physical fitness, high-clearance or all-wheel-drive vehicle access, and hiking over steep, rocky terrain at high altitude. The site is not beginner-friendly due to elevation, challenging terrain, and limited trail marking. Experienced rockhounders with proper preparation are best suited for this location."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at this Colorado site?",
+      "answer": "Bring a small rock hammer, chisel, hand pick, and sturdy collection bag. Wear hiking boots with ankle support suitable for steep, rocky slopes. Bring water, weather-appropriate layers, sunscreen, and a topographic map or GPS device. The site is remote with spotty cell service; tell someone your plans and download offline maps before departure."
+    },
+    {
+      "question": "Can I bring my dog rockhounding to Sentinel Rock and Specimen Rock?",
+      "answer": "Yes, dogs are allowed on this public BLM land. However, the steep terrain and 9000-foot elevation make it challenging for most dogs. Keep dogs under control and bring adequate water. The rocky, loose terrain presents hazards for paw pads; consider dog boots for extended hiking."
+    }
+  ],
+  "meta_title": "Sentinel Rock Specimen Rock Rockhounding Colorado",
+  "meta_description": "Find quartz, feldspar, and mica at Sentinel Rock near Colorado Springs. BLM public land, no permit needed, 25 lb daily limit. High elevation alpine rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Colorado granite/pegmatite geology without specific site source)",
+    "written_directions (based on general El Paso County geography - specific road names and mile markers should be field-verified)",
+    "parking_notes (estimated based on typical BLM remote site access)",
+    "hazards (rock type and elevation-based inference)",
+    "nearest_services (Colorado Springs distance estimated from GPS coordinates)"
+  ],
+  "enriched_at": "2026-04-21T16:55:35.398Z",
+  "scrape_quality": "rich",
+  "images_processed_at": "2026-04-21T16:56:44.451Z"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "queets-wa",
+  "name": "Queets",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Jefferson County Area",
+  "city_slug": "jefferson-county",
+  "county": "Jefferson",
+  "county_slug": "jefferson",
+  "lat": 47.539912,
+  "lng": -124.35614,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Beach and riverbed rockhounding near the Olympic Peninsula's Queets River. Search tide pools and gravel bars for agate, jasper, and chalcedony in a pristine coastal wilderness setting.",
+  "description": "The Queets area sits along Washington's rugged Olympic Peninsula coastline, where the Queets River meets remote beaches and tide pools rich with agate and jasper specimens. This location offers authentic Pacific Northwest beach rockhounding in one of the state's least developed coastal regions, accessible primarily by hiking or water access from the nearby Quinault Indian Nation lands.\n\nThe geology here reflects the collision of oceanic and continental plates that built the Cascades and Olympic Mountains. Miocene-era volcanic and sedimentary rocks weathered over millions of years have produced abundant agate nodules, banded jasper, and chalcedony specimens now concentrated in beach gravels and river deposits. The Queets River carries material downstream from higher elevations, making the lower reaches and tidal zone prime collecting spots.\n\nRockhounders should expect a true wilderness experience: minimal facilities, no marked trails to specific digging areas, and tide-dependent beach access. The reward is solitude and the chance to collect specimens in their natural marine setting without the crowds found at more developed sites. Spring tides expose the broadest beaches and richest gravel beds.\n\nBest collecting occurs along the river bars and immediate coastline during low tide. Look for banded agate in earth tones, translucent chalcedony, and honey to rust-colored jasper mixed in with black basalt pebbles. The coastal setting means specimens are naturally tumbled and polished by wave action, making even common finds attractive.",
+  "history": "The Queets River valley sits within the Cascade subduction zone geology where Tertiary volcanic rocks and marine sediments were folded and uplifted during the Cascade orogeny. Miocene-age rhyolite and basalt flows, combined with silica-rich hydrothermal circulation, created ideal conditions for agate and chalcedony formation. The Queets drainage basin delivers these minerals to the coast through active fluvial erosion, concentrating them in accessible river bars and beaches.",
+  "tips": "Search the active gravel bars along the Queets River mouth and tidal zones during low tide; specimens are naturally polished here. Look for banded agate and jasper among darker basalt and slate fragments, often concentrated in shallow depressions and behind driftwood. Bring a standard geology hammer and chisel to test specimens in place, but most quality pieces can be hand-picked from loose gravels without tools. Work the beach face and the river channel edges where wave and water action has concentrated lighter minerals.",
+  "terrain_notes": "Elevation 4 feet at the coastal zone. Terrain is rugged coastline with rocky beaches, tide pools, river bars, and abundant driftwood. Access is primarily on foot via hiking trails or river approach. Footing is uneven with loose rocks, smooth water-worn boulders, and soft sand. No maintained parking area or facilities at the Queets itself; nearest parking and water access is at Quinault Lake trailhead area, approximately 7-10 miles southeast. Expect mud, wet conditions, and slippery rocks year-round.",
+  "best_season": "May - September. This is the dry season on the Olympic Peninsula when weather is most stable and tide patterns are most favorable. Summer provides the longest daylight hours and warmest conditions for coastal exploring. Winter and spring bring heavy rain, dangerous surf conditions, and unpredictable tides that limit access.",
+  "written_directions": "From Jefferson (the nearest town with services), drive west on US 101 toward Lake Quinault approximately 20 miles. Access to the Queets River area requires either a long backcountry hike from the Quinault area or water access via kayak or guided river trip. There is no road access directly to the Queets River mouth. Most rockhounders approach via the Quinault Lake trailhead on the east shore; from US 101 near Quinault, follow signs to Quinault Ranger Station and parking areas. From there, hike approximately 7-10 miles northwest overland or by water to reach the Queets River collecting zones. This is a significant expedition requiring map, compass, or GPS navigation.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "hiking",
+  "road_conditions": null,
+  "parking_notes": "No parking at Queets River itself. Nearest designated parking is at Quinault Lake Ranger Station and trailheads on US 101, approximately 7-10 miles away. Lot capacity varies by trailhead; plan to arrive early. High-clearance vehicle recommended for forest service roads to some trailheads.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only on National Forest land. Maximum 25 lbs per day per federal regulations. No commercial collection or selling of specimens. No motorized excavation or mechanized digging. Respect all posted closures and wilderness boundaries. This area overlaps with Quinault Indian Nation territory; verify current access and tribal regulations before visiting.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nRespect wilderness and tribal boundaries\nCheck current access conditions with Olympic National Forest",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "flash_floods",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Jefferson, WA (approximately 25 miles south on US 101) has gas, food, and lodging. Quinault Ranger Station area has limited facilities. No services exist at the Queets River location itself.",
+  "accessibility_notes": "This is an expert-level backcountry site requiring significant hiking (7-10+ miles overland), river navigation skills, or water-based access. Terrain is extremely rough with no maintained trails, loose rocks, cliffs, unstable beach faces, and fast-moving water hazards. Not suitable for limited mobility, inexperienced hikers, or solo travelers without backcountry skills. Tidal knowledge and weather awareness are essential. This is a true wilderness destination requiring self-sufficiency.",
+  "alternative_names": [],
+  "nearest_city": "Jefferson",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/queets-wa/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What agate and jasper specimens can I find rockhounding at Queets, Washington?",
+      "answer": "The Queets River and coastal zone yield banded agate in earth tones (cream, gray, rust), honey to reddish-brown jasper, and translucent chalcedony. Specimens here are naturally polished by river and wave action, making them attractive even without cutting. Most finds are in the 1-3 inch range and concentrated in loose beach gravels and active river bars."
+    },
+    {
+      "question": "Is rockhounding at Queets free, or do I need a permit?",
+      "answer": "Rockhounding at Queets is free and does not require a permit, as the land is managed by the Olympic National Forest. However, you are limited to 25 lbs of personal-use specimens per day. The real cost is access: reaching the Queets requires a 7-10 mile backcountry hike or water-based approach from the nearest trailhead, so plan for significant travel time and physical effort."
+    },
+    {
+      "question": "When is the best time of year to rockhound the Queets River area?",
+      "answer": "May through September offers the most stable weather and favorable tides on the Olympic Peninsula. Summer provides the longest daylight hours and warmest temperatures for coastal exploring. Spring tides expose the broadest beaches and richest gravel beds; check tide tables before planning your trip. Winter brings heavy rain, dangerous surf, and unpredictable conditions that make access risky."
+    },
+    {
+      "question": "How do I reach the Queets River for rockhounding without a vehicle?",
+      "answer": "The Queets River has no direct road access. Most rockhounders hike 7-10 miles northwest from the Quinault Lake Ranger Station area trailheads, accessed via US 101. Alternatively, experienced paddlers can kayak from Quinault Lake. This is a remote wilderness location requiring map, compass, or GPS navigation, backcountry hiking skills, and self-sufficiency."
+    },
+    {
+      "question": "What tools and safety gear do I need for rockhounding at Queets?",
+      "answer": "Bring a geology hammer, chisel, and hand lens to test specimens in place, though many quality pieces can be hand-picked from gravels. Essential safety gear includes a tide table, map, compass or GPS, sturdy waterproof boots, a headlamp, rain jacket, and first-aid kit. Pack more water and food than you think you will need; there are no services within 10+ miles. This is a remote, hazardous coastal environment."
+    },
+    {
+      "question": "Is Queets rockhounding suitable for beginners, or do I need backcountry experience?",
+      "answer": "Queets is an expert-level site requiring significant backcountry hiking skills, tidal knowledge, and wilderness self-sufficiency. The 7-10 mile approach through unmarked terrain, combined with coastal hazards like cliffs, cold water, and flash flood risk, makes this unsuitable for beginners or inexperienced hikers. Start with easier sites like established fee digs or BLM areas closer to roads before attempting the Queets."
+    }
+  ],
+  "meta_title": "Queets Rockhounding - Washington Beach Agate",
+  "meta_description": "Find agate, jasper, and chalcedony at remote Queets River on Washington's Olympic Peninsula. Free public access, 25 lbs daily limit. Expert backcountry hike required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type (inferred as public National Forest)",
+    "primary_category (inferred as national_forest based on Olympic NF)",
+    "written_directions (estimated hiking distances based on typical Quinault trailhead access)",
+    "permit_required (confirmed false for personal use on NF land)",
+    "tribal_access_status (noted overlap with Quinault Nation lands - recommend verification)"
+  ],
+  "enriched_at": "2026-04-21T19:19:26.294Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:20:47.903Z"
+}

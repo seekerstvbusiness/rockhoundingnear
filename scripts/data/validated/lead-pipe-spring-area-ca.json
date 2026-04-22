@@ -1,0 +1,99 @@
+{
+  "slug": "lead-pipe-spring-area-ca",
+  "name": "Lead Pipe Spring Area",
+  "state": "California",
+  "state_slug": "california",
+  "city": "San Bernardino",
+  "city_slug": "san-bernardino",
+  "county": "San Bernardino",
+  "county_slug": "san-bernardino",
+  "lat": 35.466547,
+  "lng": -117.166542,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper"
+  ],
+  "short_description": "BLM public land near San Bernardino offering easy access to quartz and chalcedony specimens on gentle desert terrain. Free personal use rockhounding with no permit required.",
+  "description": "Lead Pipe Spring Area is a public BLM rockhounding site in the Mojave Desert region of San Bernardino County, California, situated at 2,956 feet elevation with gentle slopes ideal for beginning to intermediate collectors. The site provides free access for personal use rockhounding without permits, making it an excellent choice for family outings and those new to the hobby. The area is known for producing quality quartz specimens, chalcedony nodules, agate fragments, and jasper in various colors ranging from white and gray to amber tones.\n\nThe gentle terrain and accessible desert landscape make this location forgiving for collectors of all experience levels. Despite its elevation in the Mojave Desert transition zone, the site remains walkable year-round with proper planning around seasonal temperature extremes. The combination of exposed washes, hillside outcrops, and desert pavement creates multiple microenvironments where specimens accumulate naturally through erosion and weathering.\n\nCollectors should bring adequate water and sun protection, as the desert sun is intense even in cooler months. The site's proximity to San Bernardino means relatively easy access compared to more remote Mojave rockhounding areas. Success here depends more on systematic searching and patience than specialized equipment or skills, making it ideal for families introducing children to rockhounding.\n\nThe exposed geology displays typical Basin and Range formations where Miocene-era silica-rich fluids created abundant quartz and chalcedony deposits throughout the region. Ground-level searching in sandy washes yields smaller specimens, while hillside slopes occasionally expose larger nodules and partially formed geodes.",
+  "history": "This area sits within the eastern Mojave Desert where Miocene volcanic and hydrothermal activity deposited silica-rich fluids that crystallized into the abundant quartz and chalcedony formations found here today. The gentle desert terrain has exposed these minerals through millions of years of erosion and weathering, creating natural collecting grounds accessible to modern rockhounders.",
+  "tips": "Search sandy washes and arroyos where water erosion naturally concentrates specimens - look for white, translucent, or honey-colored quartz chunks and smooth chalcedony nodules. Use a small trowel to carefully extract specimens from sandy banks without disturbing the streambed structure. Scan the desert pavement (the hardpan surface between rocks) where lighter-colored quartz naturally stands out against the darker desert soil. Early morning or late afternoon visits reduce heat exposure while providing better light for spotting semi-transparent specimens.",
+  "terrain_notes": "Elevation 2,956 feet on gentle slopes with sandy desert floor interspersed with rocky outcrops and hardpan. Sparse desert vegetation includes creosote bush and small cacti. Walking distance from parking to prime collecting areas typically 0.5 to 1.5 miles. Footing is relatively stable on hardened desert pavement, though sandy washes require careful stepping. Unpaved road access with rough but passable surface in dry conditions.",
+  "best_season": "October - April. Desert temperatures are extreme from May through September, regularly exceeding 100 degrees Fahrenheit. Winter and early spring offer comfortable collecting conditions with cool mornings and mild afternoons, though occasional cold nights require warm layers.",
+  "written_directions": "From San Bernardino, take CA-58 east toward Barstow for approximately 25 miles. Watch for BLM land markers and desert access roads on the north side of the highway. Lead Pipe Spring Area access is via rough dirt roads branching north from CA-58 near the community of Daggett. Park at designated BLM pullouts where roads end, then proceed on foot into the wash systems and gentle slopes. Exact access roads vary by season and maintenance - local rockhounding guides or the Barstow BLM field office can provide current road conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved dirt road, typically passable for high-clearance vehicles in dry conditions. Rough washboard surface with minor ruts. Not recommended after heavy rain. Passenger cars may struggle with rough sections; SUV or truck recommended for reliability.",
+  "parking_notes": "Informal BLM pullouts along dirt access roads. No developed parking lot. Parking areas vary from small shoulder pullouts to slightly enlarged clearing areas. Capacity typically 2-4 vehicles per pullout. No amenities or facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection or sale of specimens. No motorized excavation or use of powered equipment. Collection limited to hand tools and small implements. Stay within BLM-designated public lands and respect any posted closures or restricted areas.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only, no commercial collection\nMaximum 25 lbs per day per FLPMA\nNo motorized excavation or powered equipment\nHand tools and small implements only\nRespect all posted BLM closures and boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Daggett (approximately 8 miles south) has limited services. Barstow (approximately 35 miles west) offers gas, food, lodging, and supplies. San Bernardino (approximately 50 miles southwest) provides full services.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Unpaved dirt road to parking areas with rough surface. From parking, walking distance to prime collecting areas is 0.5 to 1.5 miles across stable desert pavement and sandy washes. No wheelchair access. Sturdy, closed-toe hiking boots strongly recommended. Terrain generally stable but with loose rocks and occasional sandy patches.",
+  "alternative_names": [],
+  "nearest_city": "Barstow",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/lead-pipe-spring-area-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of rocks and minerals can you find at Lead Pipe Spring Area in California?",
+      "answer": "Lead Pipe Spring Area is known for quartz, chalcedony, agate, and jasper specimens. The most common finds are white to honey-colored translucent quartz chunks and smooth chalcedony nodules ranging from thumbnail to fist size. Agate fragments in various colors and banded jasper also occur here, making it a good multi-specimen site."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Lead Pipe Spring Area near San Bernardino?",
+      "answer": "No permit is required. Lead Pipe Spring Area is on public BLM land where recreational personal use collection is allowed under FLPMA rules. You can collect free of charge, though you are limited to 25 lbs per day and personal use only - no commercial collection."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Lead Pipe Spring Area?",
+      "answer": "October through April is ideal. The Mojave Desert site becomes dangerously hot from May through September, with temperatures regularly exceeding 100 degrees Fahrenheit. Winter and early spring offer comfortable collecting conditions with mild afternoons and cool mornings, though you should bring layers for chilly nights."
+    },
+    {
+      "question": "Is Lead Pipe Spring Area rockhounding site family and beginner friendly?",
+      "answer": "Yes, absolutely. The gentle terrain, easy access, and free no-permit collection make this an excellent choice for families and beginners. Kids ages 6 and up can participate comfortably. The site requires no specialized equipment beyond basic hand tools, and the quartz and chalcedony specimens are easy to spot and extract."
+    },
+    {
+      "question": "What tools and supplies do I need to bring for rockhounding at Lead Pipe Spring Area?",
+      "answer": "Bring a small trowel or digging tool, a collection bag or bucket, water (1-2 gallons minimum), sun protection including hat and sunscreen, and sturdy hiking boots. A small hand lens helps spot translucent quartz specimens. Given the desert heat and remote location, bring extra water and a basic first aid kit, and inform someone of your location."
+    },
+    {
+      "question": "Can I bring my dog rockhounding to Lead Pipe Spring Area in California?",
+      "answer": "Yes, dogs are allowed on public BLM land at Lead Pipe Spring Area. However, bring adequate water for your dog, keep it under control, and be aware of potential hazards including heat, loose rocks, and local wildlife. The desert terrain can be harsh on paws, so consider protective booties for longer hikes."
+    }
+  ],
+  "meta_title": "Lead Pipe Spring Area Rockhounding - California",
+  "meta_description": "Free BLM rockhounding near San Bernardino. Find quartz, chalcedony, agate, and jasper. No permit required, 25 lb limit. Family-friendly desert collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from typical Mojave Desert BLM sites, not explicitly confirmed for this specific location",
+    "written_directions - constructed from general knowledge of CA-58 and Daggett area; exact access roads should be verified with Barstow BLM field office",
+    "parking_notes - typical BLM informal parking; specific pullout locations not confirmed",
+    "cell_service - estimated as spotty based on remote Mojave location near Daggett",
+    "remoteness_rating - estimated at 3 based on proximity to CA-58 and Barstow"
+  ],
+  "enriched_at": "2026-04-21T19:33:12.978Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:36:32.541Z"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "terlingua-tx",
+  "name": "Terlingua",
+  "state": "Texas",
+  "state_slug": "texas",
+  "city": "Terlingua",
+  "city_slug": "terlingua",
+  "county": "Brewster",
+  "county_slug": "brewster",
+  "lat": 29.308855,
+  "lng": -103.62752,
+  "gem_types": [
+    "Calcite",
+    "Fluorite",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "Remote Big Bend location known for fluorite, calcite, and quartz specimens. Historic mining district with collecting opportunities on public and private lands.",
+  "description": "Terlingua is a legendary rockhounding destination in the rugged Big Bend region of Far West Texas, famous historically as a mercury mining district and today as a source for fluorite, calcite, quartz, and jasper specimens. The area sits at 3030 feet elevation on gentle slopes within the Chisos volcanic belt, where Cretaceous limestone and Tertiary rhyolitic intrusions created ideal conditions for mineral deposition.\n\nThe Terlingua HgS mining district was active from the 1890s through mid-20th century, leaving behind historic mines and mineral-rich prospects scattered across the landscape. Today, rockhounders can explore both publicly accessible areas and private claims, finding well-formed fluorite crystals ranging from clear to purple, white and colorless calcite specimens, clear quartz points, and banded jasper on hillsides and in dry washes.\n\nThe terrain here is characteristically high desert - sparse vegetation, rocky outcrops, and exposed geological formations ideal for surface collecting. Many of the best finds come from weathered mineral deposits and old mine tailings visible on gentle slopes. The remoteness of Terlingua actually works in collectors' favor, as the area sees relatively light pressure compared to more accessible Texas rockhounding sites.\n\nBest collecting is in the cooler months when you can spend extended time hiking and exploring. Water and supplies are extremely limited in town, so plan accordingly. The combination of historic mining heritage, accessible geology, and quality specimens makes Terlingua a bucket-list destination for serious rockhounders willing to travel off the beaten path.",
+  "history": "Terlingua developed as one of Texas' most productive mercury mining districts from the 1890s through the 1950s, with operations like the Chisos Mining Company extracting cinnabar (mercury sulfide) from Cretaceous limestone and Tertiary volcanic rocks. The region's mineralization stems from ancient hydrothermal activity where hot, mineral-rich fluids moved through fractures in the Chisos volcanic complex, depositing fluorite, calcite, quartz, and other minerals that are still visible in old mine sites and natural outcrops today.",
+  "tips": "Search the gentle slopes and dry washes where old mine tailings have weathered and spread mineral specimens across the surface - purple fluorite crystals often stand out against the reddish soil. Look for exposed calcite veins in the pale limestone outcrops on hillsides and use a hand lens to spot well-formed crystal faces. Bring plenty of water (at least 3-4 liters per person), a sturdy backpack, a small rock hammer for testing mineral hardness, and a GPS device or offline maps since cell service is unreliable. Wear sturdy boots with good ankle support, as the terrain is rocky and uneven, and start early to avoid the intense afternoon heat.",
+  "terrain_notes": "Elevation 3030 feet with gentle slopes. Sparse high desert vegetation including creosote, lechuguilla, and ocotillo. Rocky, uneven ground scattered with limestone and volcanic rock. Walking distance from parking varies from immediate roadside access to 1-2 miles of hiking on open terrain. Footing is rocky but navigable with care. No shade available. Open, exposed landscape with good visibility.",
+  "best_season": "October - April. The intense Chihuahuan Desert heat makes summer rockhounding dangerous; daytime temperatures regularly exceed 100 degrees Fahrenheit from May through September. Fall and winter offer comfortable collecting conditions, clear skies, and reduced risk of flash flooding in washes.",
+  "written_directions": "From Terlingua town center, travel south on TX-170 (Rio Grande Village Road) for approximately 8-12 miles toward Big Bend National Park. Look for dirt pullouts and rough access roads on both sides of the highway marking old mining areas and mineral prospects. Many collectors access specific sites via marked turnouts or informal parking areas near historical mine sites. A high-clearance vehicle is useful but not always required for roadside collecting. GPS coordinates can guide you to specific mine sites; 29.308855, -103.62752 marks the general Terlingua mining district area.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "awd",
+  "road_conditions": "TX-170 is paved but remote. Rough dirt roads access specific mine sites; high-clearance vehicle recommended. Washboard surfaces common. Some pullouts and informal parking areas marked by cairns or informal signs.",
+  "parking_notes": "Roadside pullouts and informal parking areas scattered along TX-170 near mine sites and mineral prospects. No designated parking lot. Capacity varies; some pullouts accommodate 2-3 vehicles. Park off the road to allow traffic passage.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Respect private claims and posted no-trespassing signs. Do not remove material from active mining operations or marked private property. Leave historic mine structures undisturbed. Maximum reasonable daily take per person. Check with local land managers regarding current access; some areas may be restricted due to national park boundaries or private ownership.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nNo commercial sales of collected material\nRespect all posted private property signs\nDo not disturb historical mine structures\nLeave no trash\nUse low-impact collection methods",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote",
+    "abandoned_mines"
+  ],
+  "nearest_services": "Terlingua town, approximately 8-12 miles north via TX-170. Limited gas, food, and water. Study Camp (at Big Bend National Park) offers additional services 15-20 miles south.",
+  "accessibility_notes": "Moderate difficulty. Rocky, uneven terrain with loose material requires sturdy footwear and careful footing. Gentle slopes are navigable but require sustained walking in exposed desert heat. No wheelchair access. Hiking distances vary from roadside to 1-2 miles from parking. Not suitable for those with limited mobility or heat sensitivity. High altitude (3030 feet) is generally accessible to those without severe respiratory limitations.",
+  "alternative_names": [
+    "Terlingua Mercury Mining District",
+    "Chisos Mining Area"
+  ],
+  "nearest_city": "Terlingua",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/texas/terlingua-tx/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Terlingua, Texas?",
+      "answer": "The primary finds at Terlingua include fluorite crystals (purple, clear, and colorless), calcite specimens, quartz points, and banded jasper. The area's history as a mercury mining district means mineral-rich prospects remain accessible on the surface and in old mine tailings. Specimens range from small crystals suitable for collectors to larger pieces."
+    },
+    {
+      "question": "Is rockhounding in the Terlingua mining district free, or are there fees?",
+      "answer": "Personal rockhounding in the Terlingua area is generally free on publicly accessible lands. However, always check for posted private property signs and respect active mining claims. Some nearby areas may require Big Bend National Park entrance fees if you collect within park boundaries. Contact Brewster County or Big Bend management before your trip to confirm current access."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Terlingua?",
+      "answer": "October through April is ideal for rockhounding at Terlingua. Summer temperatures regularly exceed 100 degrees Fahrenheit, making outdoor collecting dangerous and unpleasant. Fall and winter offer comfortable conditions, clear skies, and lower flash flood risk in dry washes. Plan multi-day trips during cooler months for the best experience."
+    },
+    {
+      "question": "Do you need a permit or special license to rockhound in Terlingua?",
+      "answer": "No permit is required for personal rockhounding on public lands in the Terlingua area. However, you must respect all posted private property and mining claim markers. The area's remote location means you should inform someone of your plans and carry GPS, maps, and adequate water. Always check current land status before collecting."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding near Terlingua?",
+      "answer": "Essential items include: 3-4 liters of water per person, sturdy boots with ankle support, a backpack, a small rock hammer, hand lens for inspecting crystals, GPS device or offline maps (cell service is spotty), sunscreen, a hat, and a headlamp. A high-clearance vehicle helps access remote mine sites. Pack extra water and a first-aid kit given the remote location."
+    },
+    {
+      "question": "Is Terlingua rockhounding suitable for beginners and families with children?",
+      "answer": "Yes, Terlingua is beginner-friendly for families with children ages 12 and up. Many sites require only short walks from roadside pullouts to find specimens. The exposed terrain and surface deposits make specimen hunting straightforward. However, the intense desert heat, remote location, and rocky footing demand careful supervision of children and adequate planning. Older kids enjoy the adventure and geological history."
+    }
+  ],
+  "meta_title": "Terlingua Rockhounding - Find Fluorite & Calcite",
+  "meta_description": "Rockhound fluorite, calcite, and quartz at Terlingua's historic Big Bend mining district. Free public access, moderate hike. Plan October-April trips.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category (other is best fit for historic mining district)",
+    "access_type (public assumed based on standard Big Bend area practices)",
+    "vehicle_required (awd recommended but passenger may work on TX-170)",
+    "family_friendly (true but heat and remoteness require planning)"
+  ],
+  "enriched_at": "2026-04-21T18:51:30.520Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:53:33.895Z"
+}

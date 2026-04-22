@@ -1,0 +1,103 @@
+{
+  "slug": "steamboat-mountain-wy",
+  "name": "Steamboat Mountain",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Sweetwater County Area",
+  "city_slug": "sweetwater-county",
+  "county": "Sweetwater",
+  "county_slug": "sweetwater",
+  "lat": 41.962413,
+  "lng": -108.965663,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near the Green River Basin offering excellent collecting for agate, jasper, and chalcedony specimens. Steep terrain rewards experienced rockhounds with quality finds.",
+  "description": "Steamboat Mountain sits on Wyoming Bureau of Land Management property in the high desert of Sweetwater County, an area renowned for silica-rich mineral deposits. The steep slopes and exposed geological formations make this a moderately challenging but rewarding destination for serious collectors. You will find colorful agate specimens, banded jasper, and chalcedony in and around the washes and hillside outcrops scattered across the property.\n\nThis region was shaped by Eocene and Oligocene volcanic and lacustrine activity that deposited thick layers of silica-bearing sediments. Over millions of years, groundwater carrying dissolved silica infiltrated fractures and cavities in the rock, forming the nodules and banded specimens found here today. The exposed ridges and gullies provide excellent access to these formations without extensive hiking.\n\nBecause the terrain is steep and rocky, wear sturdy boots with ankle support and bring plenty of water. The best specimens are often found in the wash bottoms and along exposed hillsides where erosion has exposed fresh material. Morning light makes spotting translucent or banded pieces much easier against the tan and gray host rock.\n\nThis is public land with minimal restrictions, making it ideal for rockhounders seeking a free, accessible site with genuine collecting potential. The remote location means you may be alone, which adds to the appeal for those seeking solitude in the field. Plan a full day to thoroughly work the area and increase your chances of high-quality finds.",
+  "history": "Steamboat Mountain sits within the Wyoming Basin province, where Eocene to Oligocene volcanic eruptions and lacustrine deposition created thick sequences of tuffaceous sediments and siltstones. Groundwater circulation through these formations over the past 30-50 million years precipitated dissolved silica into fractures and cavities, forming the agate nodules and chalcedony specimens abundant here today. Early 20th-century prospectors and rock collectors recognized the area's potential, and it remains a popular BLM rockhounding destination.",
+  "tips": "Search the bottoms of small washes and gullies where erosion has exposed fresh material and concentrated loose specimens. Use a hand lens to spot the subtle banding and color variations that distinguish quality agate from common chalcedony - look for pieces with clear or honey-colored translucency. Bring a 5-gallon bucket and a medium pry bar to carefully work around exposed nodules in the hillside cuts, but avoid heavy hammering that degrades specimen quality. The steep slopes mean material is constantly weathering out, so revisit productive areas after rain or windstorms.",
+  "terrain_notes": "Steep, rocky slopes with sparse desert shrub vegetation at approximately 7,500 feet elevation. Uneven footing with loose cobbles and angular fragments throughout. Walking distance from parking area varies from 0.25 to 1.5 miles depending on target areas. Terrain is stable but requires careful foot placement. No maintained trails; cross-country hiking through sagebrush and over broken ground. Exposure risk on steeper sections.",
+  "best_season": "April - October. Late spring through early fall offers the most comfortable conditions on this high-elevation site. Winter snow and ice make access difficult and dangerous on steep slopes. Summer temperatures can exceed 85 F in lower sections, so bring extra water and start early. Fall offers ideal conditions with mild temps and lower visitor traffic.",
+  "written_directions": "From Rock Springs, take WY-430 northeast for approximately 18 miles toward Sweetwater County. Continue on local BLM access roads (follow signs or maps from the BLM field office) heading generally east toward the Steamboat Mountain area near the Green River drainage. GPS coordinates 41.962413, -108.965663 will put you at the primary collecting zone. High-clearance vehicle recommended for final approach on rough BLM roads. Confirm current road conditions at the Rock Springs BLM office before traveling.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough BLM dirt roads with washboard and potential high-water crossings. High-clearance or all-wheel-drive vehicle recommended. Final approach may be impassable during wet weather.",
+  "parking_notes": "Informal pullouts and parking areas scattered across the BLM land. No developed parking lot. Space for 3-5 vehicles at typical staging areas. Park well off active roads to avoid blocking access.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or heavy equipment. Collect only loose or easily detachable specimens. Leave the site as you found it. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nCollect only loose or easily detachable material\nPack out all trash\nLeave the site undamaged",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cliffs",
+    "loose_rock",
+    "cold",
+    "heat",
+    "remote",
+    "sharp_material"
+  ],
+  "nearest_services": "Rock Springs, WY (approximately 30 miles west) - full services including gas, food, lodging, and supplies.",
+  "accessibility_notes": "Steep, rocky terrain with uneven footing and loose cobbles throughout. No wheelchair access. Significant elevation gain in places. Sturdy boots with ankle support and good traction essential. Not suitable for limited mobility or young children. Experienced hikers only recommended.",
+  "alternative_names": [],
+  "nearest_city": "Rock Springs",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/steamboat-mountain-wy/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/steamboat-mountain-wy/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/steamboat-mountain-wy/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agate and chalcedony can I find at Steamboat Mountain in Wyoming?",
+      "answer": "Steamboat Mountain is known for colorful banded agate, honey and amber-colored chalcedony, and jasper specimens. Many pieces show translucency when backlit, and you may find specimens with subtle banding or swirling color patterns. The best pieces come from eroded wash bottoms where fresh material is continuously exposed."
+    },
+    {
+      "question": "Is rockhounding at Steamboat Mountain free or do I need a permit?",
+      "answer": "Steamboat Mountain is BLM public land where rockhounding is completely free with no permit required. You can collect up to 25 pounds per day per FLPMA regulations for personal use only. No commercial collection is allowed."
+    },
+    {
+      "question": "How difficult is the terrain at Steamboat Mountain for rockhounding?",
+      "answer": "The terrain is steep with rocky, uneven footing and loose cobbles throughout. This site is best suited for experienced rockhounds with good fitness and hiking ability. Steep slopes and exposed hillsides create risk of falls, so careful foot placement and proper footwear are essential. Not recommended for beginners or families with young children."
+    },
+    {
+      "question": "When is the best time to visit Steamboat Mountain for rockhounding?",
+      "answer": "April through October offers the most comfortable conditions. Late spring and early fall provide ideal temperatures and lower visitor traffic. Summer can exceed 85 F, so start early and bring extra water. Winter snow and ice make the steep slopes dangerous and access difficult."
+    },
+    {
+      "question": "What tools and supplies should I bring to Steamboat Mountain?",
+      "answer": "Wear sturdy boots with ankle support and good traction. Bring a hand lens to spot quality agate, a small pry bar to work loose nodules, a 5-gallon bucket for specimens, and a GPS unit or map. Pack at least 2 liters of water, sun protection, and a first aid kit. High-clearance or all-wheel-drive vehicle is recommended for the rough BLM access roads."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Steamboat Mountain?",
+      "answer": "Yes, dogs are welcome on BLM land at Steamboat Mountain. Keep your dog under control, bring extra water for both you and your dog, and pack out all trash. The rocky terrain and sharp materials can be hard on paw pads, so consider protective booties for extended trips."
+    }
+  ],
+  "meta_title": "Steamboat Mountain Rockhounding - Wyoming",
+  "meta_description": "Free BLM rockhounding for agate, jasper, and chalcedony at Steamboat Mountain near Rock Springs, Wyoming. No permit required. Steep terrain - experienced collectors only.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated from GPS and town location)",
+    "road_conditions (inferred from BLM terrain type)",
+    "parking_notes (typical for BLM informal sites)",
+    "gem_types (common to Wyoming Basin geology)",
+    "hazards (steep terrain mentioned in source)"
+  ],
+  "enriched_at": "2026-04-22T06:40:17.722Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:43:09.821Z"
+}

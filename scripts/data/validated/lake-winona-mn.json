@@ -1,0 +1,101 @@
+{
+  "slug": "lake-winona-mn",
+  "name": "Lake Winona",
+  "state": "Minnesota",
+  "state_slug": "minnesota",
+  "city": "Winona",
+  "city_slug": "winona",
+  "county": "Winona",
+  "county_slug": "winona",
+  "lat": 44.036612,
+  "lng": -91.643389,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate"
+  ],
+  "short_description": "Lake Winona offers rockhounds an accessible public shoreline opportunity to find quartz and chalcedony specimens along the Mississippi River valley. Gentle terrain and nearby town amenities make th...",
+  "description": "Lake Winona is a scenic impoundment of the Mississippi River in southeastern Minnesota, offering rockhounders access to public shoreline where glacial deposits and river action have exposed quartz-rich materials. The site sits within the Driftless Area, a region shaped by ancient glacial activity that left behind diverse sedimentary and crystalline materials in the surrounding bluffs and river valley. The gentle slopes and accessible shoreline make this an ideal location for families and beginners looking to prospect for quartz, chalcedony, and occasional agate fragments without requiring specialized hiking skills or remote backcountry travel.\n\nThe geology of this area reflects the interaction between Mississippi River erosion and Paleozoic bedrock underlying the region. Glacial outwash plains and river gravel bars contain reworked fragments from upstream sources, including quartz cobbles and nodules from regional deposits. Spring and early summer water levels fluctuate, exposing new gravel bars and eroded banks where specimens can be spotted.\n\nWhile Lake Winona itself is a managed water body, rockhounders can access public shoreline areas and adjacent parks to search exposed banks and gravel deposits. The combination of river access, manageable terrain, and proximity to town services makes this a practical field location for Minnesota rockhounds seeking productive afternoon excursions or family outings. Success here requires patience and careful searching along exposed banks rather than large-scale excavation.",
+  "history": "Lake Winona formed when a lock and dam system was constructed on the Mississippi River in the early 20th century, impounding water and creating the modern lake. The surrounding bedrock and glacial deposits date to the Pleistocene ice ages, when continental glaciers shaped the Mississippi River valley and left behind abundant quartz-rich gravel and sediment that the river continues to rework and expose.",
+  "tips": "Search exposed gravel bars and eroded banks along the shoreline, particularly after spring high water has subsided and fresh material is exposed. Look for translucent to milky quartz pieces, banded chalcedony, and small rounded agate nodules mixed with darker river stones. A small jeweler's loupe helps identify chalcedony and agate by their waxy luster and translucency. Bring a bucket or bag and focus effort on areas where lighter-colored stones concentrate in small piles - these are natural sorting zones where smaller specimens accumulate.",
+  "terrain_notes": "Elevation 653 feet with gentle slopes characteristic of the Mississippi River valley. The shoreline features a mix of sandy beaches, gravelly banks, and exposed clay faces. Walking distance from parking areas to productive collecting sites ranges from immediate (lake-adjacent parking) to 0.5 miles along maintained public paths. Footing is generally easy on flat shoreline access areas, though some sections have loose gravel and muddy spots during high water periods. Well-maintained public parks provide established trail networks.",
+  "best_season": "April - October. Spring through early summer (April - June) offers the best collecting as snow melt and high water expose fresh gravel bars and eroded banks. Summer (July - September) provides pleasant weather and stable water levels. Fall (September - October) offers comfortable temperatures and continued access to exposed materials as water levels drop. Winter ice and frozen ground make shoreline access difficult.",
+  "written_directions": "From downtown Winona, take US 61/14 north along the Mississippi River for approximately 2 miles. Look for public access points and boat launches maintained by city parks along the river - the most accessible is near the Winona State University area. Parking is available at public lot pullouts along the river road. From the parking areas, walk directly to the shoreline and exposed gravel banks. No high-clearance vehicle required; standard passenger vehicles can access all public parking areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "state_park",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved roads to public parking areas. Local shoreline access roads are maintained and easily navigable by standard vehicles.",
+  "parking_notes": "Public parking available at designated city parks and boat launch areas along US 61/14. Multiple pullouts and parking lots with capacity for 10-50+ vehicles depending on location. No fees for public shoreline access.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Public shoreline access is permitted for personal rockhounding and mineral collecting. No motorized excavation or large-scale removal. Respect posted park rules and stay out of restricted areas. Do not remove specimens from archaeological sites or areas marked as protected. Always pack out what you pack in. Local city and state park regulations prohibit commercial collection.",
+  "quantity_limits": null,
+  "rules": "Personal collection only\nNo commercial or large-scale removal\nNo motorized excavation\nRespect all posted park signs and restricted areas\nStay on public land and designated access points\nPack out all trash\nDo not trespass on adjacent private property",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "wildlife",
+    "cold"
+  ],
+  "nearest_services": "Winona, 2 miles north. Full services including gas, food, lodging, and medical facilities. Grocery stores, hardware stores, and restaurants throughout downtown Winona.",
+  "accessibility_notes": "Lake Winona shoreline access is highly accessible for most ability levels. Gentle slopes, flat shoreline terrain, and well-maintained public parking areas near the water make this suitable for families and individuals with limited mobility. No significant hiking required - many productive collecting areas are within 50 feet of parking lots. Wheeled walkers and wheelchairs can access paved parking and immediate shoreline areas at designated public parks.",
+  "alternative_names": [
+    "Winona Lake",
+    "Lake Winona Public Shoreline"
+  ],
+  "nearest_city": "Winona",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/minnesota/lake-winona-mn/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/minnesota/lake-winona-mn/mineral-1-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/minnesota/lake-winona-mn/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What quartz specimens can you find at Lake Winona in Minnesota?",
+      "answer": "Lake Winona shoreline yields translucent to milky quartz pieces, banded chalcedony, and occasional agate nodules. Most specimens are rounded cobbles and fragments from glacial deposits ranging from 0.5 to 3 inches. The best specimens are found mixed with darker river stones along exposed gravel bars and eroded banks where natural sorting has occurred."
+    },
+    {
+      "question": "Is Lake Winona free for rockhounding near Winona, Minnesota?",
+      "answer": "Yes, Lake Winona public shoreline access is completely free. There are no permit fees or collection charges for personal rockhounding along designated public access areas maintained by Winona city parks. Parking is free at all public boat launch and park lot pullouts."
+    },
+    {
+      "question": "Can beginners find gemstones at Lake Winona?",
+      "answer": "Absolutely. Lake Winona is ideal for beginners because shoreline access is easy, terrain is flat and gentle, and you can find specimens within minutes of arriving. No specialized tools or skills are required - just search along gravel banks and eroded shorelines. The variety of colors and translucency in chalcedony and agate makes specimens relatively easy to spot."
+    },
+    {
+      "question": "When is the best time to rockhound at Lake Winona in Minnesota?",
+      "answer": "April through October is ideal, with peak conditions from April to June when spring melt exposes fresh gravel bars and eroded banks. Summer offers pleasant weather, and fall provides comfortable temperatures. Avoid winter months when ice and frozen ground make shoreline access difficult and dangerous."
+    },
+    {
+      "question": "Do you need special permits to collect rocks at Lake Winona?",
+      "answer": "No permits are required for personal rockhounding at Lake Winona's public shoreline. Simply park at designated public access areas and search along the water's edge and exposed banks. Respect all posted park signs and stay on public land. Commercial collection is not allowed."
+    },
+    {
+      "question": "What tools do you need for rockhounding the Lake Winona shoreline?",
+      "answer": "A small bucket or bag is essential for carrying specimens. A jeweler's loupe or hand lens helps identify chalcedony and agate by their waxy luster and translucency. A small chisel or flathead screwdriver can help extract specimens from clay banks, but is not necessary for collecting surface materials. Sturdy shoes with good traction on wet gravel are recommended."
+    }
+  ],
+  "meta_title": "Lake Winona Rockhounding - Minnesota",
+  "meta_description": "Find quartz, chalcedony, and agate at Lake Winona near Winona, Minnesota. Free public shoreline access, easy terrain, beginner-friendly rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Driftless Area geology and glacial deposits - no specific source confirmed which exact species are most common here)",
+    "access_type (inferred as public state park based on lake being urban/managed water body with public shoreline - specific land management needs verification)",
+    "parking_notes (inferred from typical city park setup near urban Minnesota lakes - specific lot details need local verification)",
+    "collection_rules (inferred from typical Minnesota state park and public shoreline regulations - specific local ordinances should be confirmed with Winona Parks Dept)"
+  ],
+  "enriched_at": "2026-04-21T18:11:21.556Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:15:11.284Z"
+}

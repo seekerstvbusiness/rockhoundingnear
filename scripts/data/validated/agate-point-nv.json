@@ -1,0 +1,101 @@
+{
+  "slug": "agate-point-nv",
+  "name": "Agate Point",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "McDermitt",
+  "city_slug": "mcdermitt",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "lat": 41.750416,
+  "lng": -118.335737,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Free BLM rockhounding at this high-elevation Nevada site featuring colorful agate, chalcedony, and jasper nodules. No permit required, 25 lbs per day limit.",
+  "description": "Agate Point is a productive free rockhounding destination on Nevada BLM land in the remote Humboldt County region near McDermitt. Located at 6,712 feet elevation on moderate slopes, this site offers excellent opportunities to collect banded agates, chalcedony specimens, and jasper in various colors ranging from white and cream to orange, red, and brown tones.\n\nThe geology here reflects the Basin and Range province's extensive rhyolitic volcanism during the Oligocene to Miocene epochs. Silica-rich fluids percolating through volcanic host rock created the agate nodules and chalcedony deposits found scattered across the surface and weathered into the dry washes. The area's high elevation and semi-arid climate have exposed these mineral-bearing horizons through erosion, making surface collection productive.\n\nThe site is best explored during fall through spring when temperatures are moderate. Rockhounders should focus their efforts along the wash bottoms and hillside outcrops where nodules naturally concentrate. The landscape is typical Great Basin high desert: sagebrush scrub, scattered juniper, and rocky terrain with good visibility. Bring plenty of water, sun protection, and sturdy boots - the ground is uneven and studded with sharp volcanic rocks.\n\nAs BLM land open to public collecting, no permit is needed, but federal regulations limit collection to personal use only, maximum 25 lbs per day. This is an excellent site for beginners and families seeking free rockhounding without bureaucratic restrictions. The moderate slope requires basic hiking ability but is not technically demanding.",
+  "history": "Agate Point sits within the Basin and Range geologic province where Oligocene to Miocene rhyolitic volcanism and associated hydrothermal activity deposited silica-rich solutions that crystallized into agate, chalcedony, and jasper nodules. The region's internal drainage and desert weathering have gradually exposed these mineral formations at the surface, creating the collecting opportunities seen today.",
+  "tips": "Search along dry wash beds and bajada surfaces where agate nodules naturally accumulate after erosion washes them downslope from weathered volcanic outcrops. Look for rounded to oval nodules with a dull, waxy surface in shades of white, tan, orange, and rust red - these contrast well against the darker volcanic host rock. Bring a good UV light to reveal chalcedony's glow and help identify specimens worth collecting. Pack at least 3-4 liters of water per person; this high-elevation site is remote and exposed with no reliable shade.",
+  "terrain_notes": "Elevation 6,712 feet with moderate slopes covered in low sagebrush and scattered juniper. Volcanic rocks and scree make footing uneven; sturdy hiking boots essential. Typical Great Basin landscape: open views, sparse vegetation, dry washes, and rocky hillsides. Walking distances from parking to productive areas range from 0.25 to 1.5 miles depending on where you begin searching.",
+  "best_season": "October - April. High elevation (6,712 ft) means summer temperatures can exceed 85F in the day but cool dramatically at night. Fall and spring offer comfortable daytime temperatures (50-70F) and lower UV exposure. Winter is possible but snow may block access to roads in December-January. Summer heat and intense UV make extended rockhounding uncomfortable.",
+  "written_directions": "From McDermitt, Nevada, head southeast on NV 95 approximately 25 miles toward the Humboldt County area. Turn east on appropriate BLM access road (consult current BLM Nevada map for exact road designation - roads in this region are numbered but frequently change designations). Continue 8-12 miles on rough graded BLM road to reach the Agate Point vicinity. GPS coordinates 41.750416, -118.335737 mark the general area. Look for natural pullouts among the sagebrush where other rockhounders have parked. High-clearance vehicle recommended; check BLM office in Winnemucca for current road conditions before traveling.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough graded BLM road, washboard surface common, high-clearance vehicle recommended. Road condition varies seasonally; impassable during or immediately after winter storms or heavy rain.",
+  "parking_notes": "Informal pullouts and parking areas scattered throughout the site along BLM roads. No improved lot or facilities. Space for 4-6 vehicles at typical pullouts. No designated parking area; stop at any suitable pullout off main road.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No collecting in sensitive archaeological or wildlife areas. All rockhounding must comply with Nevada BLM regulations and general public land rules.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs per day maximum per FLPMA\nNo commercial collection\nNo motorized excavation\nNo removing specimens from archaeological sites\nRespect wildlife and sensitive habitat areas\nPack out all trash\nClose any holes created by digging",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "remote",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "McDermitt, Nevada approximately 25-30 miles west. Limited services including one general store and no gas station; ensure fuel in larger towns. Winnemucca (75 miles south) offers full services: gas, lodging, restaurants, grocery stores.",
+  "accessibility_notes": "Uneven rocky terrain with volcanic scree throughout. Hiking boots with good ankle support required. No wheelchair access. Moderate slope requires sustained walking up and down terrain for 0.5-1.5 mile round trips. Not suitable for limited mobility or young children under 8.",
+  "alternative_names": [],
+  "nearest_city": "McDermitt",
+  "nearest_city_distance": 27,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/agate-point-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/agate-point-nv/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates can I find at Agate Point near McDermitt, Nevada?",
+      "answer": "Agate Point is known for banded agates in white, cream, orange, red, and brown tones, along with chalcedony and jasper specimens. Nodules typically range from 1-4 inches in diameter. Many specimens display visible banding and some show translucency when backlit or checked with a UV light. The high-elevation volcanic environment produces quality collectible-grade material suitable for display or cutting."
+    },
+    {
+      "question": "Is there a fee to rockhound at Agate Point BLM land in Nevada?",
+      "answer": "No fee is required. Agate Point sits on Nevada BLM public land open to free recreational collecting. No permit is needed under federal law. You are limited to personal use only and cannot exceed 25 lbs per day per FLPMA regulations. This makes it an excellent free rockhounding option compared to commercial fee dig sites."
+    },
+    {
+      "question": "What is the best season to visit Agate Point for rockhounding near McDermitt?",
+      "answer": "October through April is ideal. Fall and spring offer comfortable daytime temperatures (50-70F) and lower UV exposure. Summer heat at this 6,712-foot elevation and intense sun make extended rockhounding uncomfortable. Winter is possible but snow may block BLM road access December-January. Avoid summer months when daytime temperatures exceed 85F and heat exhaustion risk is highest."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Agate Point Nevada BLM site?",
+      "answer": "Yes, dogs are allowed on BLM land. Keep your dog under control and bring adequate water for both you and your pet - this is a remote high-elevation site with no water sources. Bring extra water containers, watch for snakes in warmer months, and be prepared for uneven rocky terrain. The open sagebrush landscape offers good visibility, making it safe for supervised dogs."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound at Agate Point?",
+      "answer": "Essential items include sturdy hiking boots, at least 3-4 liters of water per person, sun protection (hat, sunscreen), and a daypack. Bring a UV flashlight to identify chalcedony and help spot specimens. A small chisel or pry bar helps extract nodules from weathered outcrops, though many specimens are found loose on the surface. A collection bag or small pack keeps your 25-lb daily limit organized. A GPS unit or smartphone with offline maps is highly recommended for this remote site."
+    },
+    {
+      "question": "Is Agate Point rockhounding suitable for beginners and families with children?",
+      "answer": "Yes, Agate Point is beginner and family-friendly. No permit or advanced skills are required, and agates are relatively easy to identify and collect. The site is free and open to the public. However, children should be at least 8 years old to handle the moderate terrain and uneven rocky footing. Bring extra water, take frequent breaks in shade, watch for snakes in warmer months, and stay on established paths. The remote location means you must be completely self-sufficient - bring all water, first aid supplies, and navigation tools."
+    }
+  ],
+  "meta_title": "Agate Point Rockhounding - Nevada BLM",
+  "meta_description": "Find agate, chalcedony, and jasper at free Agate Point BLM site near McDermitt, Nevada. No permit required. 25 lbs/day limit. October-April best season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - BLM road numbers require verification from current Nevada BLM maps",
+    "nearest_city_distance - estimated at 27 miles based on GPS coordinates",
+    "road_conditions - based on typical BLM high desert road standards; actual conditions vary seasonally",
+    "parking_notes - based on typical BLM informal parking patterns; no specific parking infrastructure documented",
+    "cell_service - typical for remote Nevada high desert; may be spotty near ridges"
+  ],
+  "enriched_at": "2026-04-22T06:43:39.137Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:46:15.855Z"
+}

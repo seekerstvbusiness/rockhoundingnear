@@ -1,0 +1,60 @@
+{
+  "slug": "kimberly-ranch-ks",
+  "name": "Kimberly Ranch",
+  "lat": 37.586685,
+  "lng": -99.182812,
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "state_code": "KS",
+  "city": "Kiowa Rural Township",
+  "city_slug": "kiowa-rural-township",
+  "county": "Kiowa",
+  "county_slug": "kiowa",
+  "geocoded_city": "Kiowa Rural Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Kimberly%20Ranch%20Kansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Kimberly%20Ranch",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Kimberly%20Ranch%20Kansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2168,
+      "meters": 661
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:40:52.435Z"
+  },
+  "scraped_at": "2026-04-21T17:40:52.435Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "kahoka-mo",
+  "name": "Kahoka",
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "city": "Clark County Area",
+  "city_slug": "clark-county",
+  "county": "Clark",
+  "county_slug": "clark",
+  "lat": 40.450196,
+  "lng": -91.698611,
+  "gem_types": [
+    "Quartz",
+    "Chert",
+    "Calcite",
+    "Jasper"
+  ],
+  "short_description": "Rockhounding in Clark County's flat terrain yields quartz, chert, and calcite specimens. A beginner-friendly location with easy access to geological formations from Missouri's ancient seas.",
+  "description": "Kahoka sits in Clark County in northeastern Missouri, an area shaped by Paleozoic marine deposits and glacial activity. The flat terrain at 551 feet elevation makes this an accessible rockhounding destination for collectors of all skill levels. This region has yielded chert nodules, quartz varieties, and calcite crystals from ancient limestone and dolomite formations that once covered shallow seas during the Ordovician and Silurian periods.\n\nThe geology here reflects Missouri's position in the interior craton during the Paleozoic Era. Chert - a hard, fine-grained silica rock - formed as silica-rich sediments accumulated on ancient seafloors and later hardened into nodules within carbonate rocks. Quartz specimens and calcite crystals are common finds in weathered outcrops and stream beds where erosion has exposed these mineralized zones. The relatively flat terrain means you can cover ground easily without extreme elevation changes.\n\nCollectors typically search along eroded banks, in fields where limestone and dolomite bedrock is exposed, and in areas where glacial deposits have concentrated lighter materials. The light soil and open terrain make spotting specimens straightforward. Spring rains and fall erosion often expose fresh material, making seasonal collection rewarding.\n\nThis location is ideal for beginners and families interested in learning to identify Paleozoic-era minerals. The lack of extreme terrain hazards and the abundance of specimens make it a low-stress introduction to Midwest rockhounding. Bring a basic field kit with magnifying glass and collection bag - you'll likely fill it with quality specimens.",
+  "history": "The Kahoka area sits within the Mississippi River valley region of Missouri, where Ordovician and Silurian marine deposits laid down 450-470 million years ago. These ancient limestone and dolomite formations were later enriched with chert nodules and quartz as silica precipitated during diagenesis, creating the collectible specimens found here today. Quaternary glaciation further exposed these bedrock formations and scattered glacial till across the landscape, concentrating minerals in accessible locations.",
+  "tips": "Search along eroded stream banks and exposed limestone outcrops where weathering has freed chert nodules and quartz crystals from their parent rock - look for darker, glassy nodules contrasting against lighter limestone. Use a 10x magnifying glass to examine specimens for calcite rhombohedrons and quartz terminations before collecting, and bring a small geologist's chisel to carefully extract specimens from soft matrix rather than hammering. Focus collection efforts after spring rains or heavy erosion events when fresh material is exposed. The flat terrain allows wide ground coverage, so systematically walk field edges and gully banks where water has concentrated lighter specimens.",
+  "terrain_notes": "Flat terrain with 551-foot elevation and minimal slope. Open fields with light soil overlying limestone and dolomite bedrock. Short walking distances from parking areas. Footing is generally stable on grassy fields, though muddy conditions possible after rain. No significant elevation gain or loss. Sparse vegetation typical of agricultural areas with scattered outcrops of weathered limestone.",
+  "best_season": "April - June, September - October. Spring and fall offer ideal conditions when soil moisture exposes fresh material and erosion is active, but temperatures remain mild. Summer heat and humidity can make fieldwork uncomfortable. Winter freezing and wet conditions limit access.",
+  "written_directions": "From Kahoka (the nearest town), head north or south along local county roads toward the Clark County rockhounding areas. The Kahoka area sits along the western tributaries of the Mississippi River system. Access unpaved county roads and field roads that lead to limestone outcrops and eroded stream banks. Park at pullouts near exposed limestone formations or with landowner permission on private property adjacent to public roads. GPS coordinates (40.450196, -91.698611) mark a central location for county-level rockhounding; verify exact access before visiting as much land is private.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved county roads and field roads. May be muddy after rain. Passenger vehicle adequate for dry conditions; AWD recommended after wet weather.",
+  "parking_notes": "Informal pullouts along county roads near exposed outcrops. Capacity variable. Much land is private - obtain permission before parking or collecting. No formal parking facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Most land in this area is private. Obtain landowner permission before entering property or collecting specimens. No collection on posted private land without explicit authorization. Respect fences, gates, and 'No Trespassing' signs. Leave gates as you find them. Collect responsibly - take only what you need and leave habitat undisturbed.",
+  "quantity_limits": null,
+  "rules": "Obtain landowner permission before collecting\nNo collection on posted private land\nRespect property boundaries and gates\nLeave no damage to outcrops or terrain\nNo motorized excavation without permission",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Kahoka, MO (town center approximately 2-3 miles from typical collecting areas). Gas, food, and water available in town.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Uneven ground and scattered rocks on outcrops require sturdy footwear. No wheelchair access to field areas. Muddy conditions possible after rain. Short walking distances from parking make this accessible for those with limited mobility who can negotiate uneven ground.",
+  "alternative_names": [],
+  "nearest_city": "Kahoka",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/missouri/kahoka-mo/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/missouri/kahoka-mo/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find rockhounding near Kahoka, Missouri?",
+      "answer": "Near Kahoka you can find chert nodules (dark, glassy specimens), quartz crystals, calcite rhombohedrons, and jasper. These Paleozoic-era minerals form in the ancient limestone and dolomite bedrock. Chert is the most common find and prized for its smooth fracture and variety of colors."
+    },
+    {
+      "question": "Is rockhounding at Kahoka free or do I need to pay a fee?",
+      "answer": "Rockhounding at Kahoka is free, but most land is private property. You must obtain permission from landowners before entering property or collecting specimens. No permit is required, but landowner permission is essential to legal and ethical collecting."
+    },
+    {
+      "question": "What is the best season for rockhounding in Clark County near Kahoka?",
+      "answer": "April through June and September through October are ideal. Spring rains and fall erosion expose fresh material and create stable collecting conditions. Summer heat and humidity can be uncomfortable, while winter brings freezing temperatures and wet terrain that limits access."
+    },
+    {
+      "question": "Is Kahoka rockhounding suitable for beginners and families with children?",
+      "answer": "Yes, absolutely. The flat terrain, easy access, and abundant specimens make Kahoka ideal for beginners and families. Kids as young as 6 can participate safely. The minimal elevation change and open fields mean no strenuous hiking required. Specimens are easy to spot and extract with basic tools."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding near Kahoka?",
+      "answer": "Bring a basic field kit: a 10x magnifying glass for identifying specimens, a small geologist's chisel for extraction, a collection bag, sturdy hiking boots for uneven ground, and a field guide to Paleozoic minerals. A GPS device is helpful for marking productive collecting sites on private land."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Kahoka?",
+      "answer": "Yes, dogs are typically allowed on the open fields and private land in the Kahoka area, but always obtain landowner permission first. Keep your dog under control around cliffs, loose rock outcrops, and areas with sharp chert fragments. Fresh water and shade are important for your dog during spring and fall collecting trips."
+    }
+  ],
+  "meta_title": "Kahoka Rockhounding - Missouri",
+  "meta_description": "Find quartz, chert, and calcite near Kahoka, Missouri. Easy beginner-friendly rockhounding on private land. Get landowner permission to collect.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "collection_rules",
+    "nearest_city_distance",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-21T19:17:47.633Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:20:10.001Z"
+}

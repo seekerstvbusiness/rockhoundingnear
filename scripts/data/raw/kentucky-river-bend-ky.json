@@ -1,0 +1,60 @@
+{
+  "slug": "kentucky-river-bend-ky",
+  "name": "Kentucky River Bend",
+  "lat": 37.847289,
+  "lng": -84.766255,
+  "state": "Kentucky",
+  "state_slug": "kentucky",
+  "state_code": "KY",
+  "city": "Mercer County",
+  "city_slug": "mercer-county",
+  "county": "Mercer",
+  "county_slug": "mercer",
+  "geocoded_city": "Mundys Landing",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kentucky.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Kentucky%20River%20Bend%20Kentucky"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Kentucky%20River%20Bend",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Kentucky%20River%20Bend%20Kentucky"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 506,
+      "meters": 154
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:19:14.555Z"
+  },
+  "scraped_at": "2026-04-21T17:19:14.555Z",
+  "scrape_quality": "minimal"
+}

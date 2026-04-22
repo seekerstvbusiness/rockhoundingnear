@@ -1,0 +1,60 @@
+{
+  "slug": "bonner-springs-ks",
+  "name": "Bonner Springs",
+  "lat": 39.07076,
+  "lng": -94.869953,
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "state_code": "KS",
+  "city": "Bonner Springs",
+  "city_slug": "bonner-springs",
+  "county": "Wyandotte",
+  "county_slug": "wyandotte",
+  "geocoded_city": "Bonner Springs",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bonner%20Springs%20Kansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bonner%20Springs",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bonner%20Springs%20Kansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 911,
+      "meters": 278
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:50:44.650Z"
+  },
+  "scraped_at": "2026-04-21T17:50:44.651Z",
+  "scrape_quality": "minimal"
+}

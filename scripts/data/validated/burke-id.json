@@ -1,0 +1,104 @@
+{
+  "slug": "burke-id",
+  "name": "Burke",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Mace",
+  "city_slug": "mace",
+  "county": "Shoshone",
+  "county_slug": "shoshone",
+  "lat": 47.516724,
+  "lng": -115.824878,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Chalcedony",
+    "Gold"
+  ],
+  "short_description": "Historic mining area in the Coeur d'Alene district with accessible BLM land for collecting quartz, jasper, and small gold specimens. Steep terrain at 3900+ ft elevation.",
+  "description": "Burke is a historic mining town nestled in the rugged Coeur d'Alene Mining District of northern Idaho's Shoshone County. The area sits within BLM-managed public land where recreational rockhounders can search for quartz veins, jasper specimens, and fine gold in streamside deposits. The surrounding steep terrain and dense forest provide excellent geology exposure from past mining activity and natural weathering.\n\nThe geology here reflects classic hard-rock mining conditions. Precambrian quartzite and slate host numerous quartz veins and silica-rich mineralization deposited during Mesozoic hydrothermal activity. Iron and manganese oxides stain the exposed rocks, creating colorful jasper varieties. Small placer gold can be found in creeks and washes where gravity has concentrated heavier minerals over millennia.\n\nThis site is best suited for rockhounders comfortable hiking steep slopes and navigating rough terrain. The forest canopy limits visibility, so systematic searching along creeks and exposed outcrops is more productive than random surface collection. Past mining operations left some cleared areas and old prospect holes that concentrate mineral-rich material.\n\nThe proximity to the historic Bunker Hill Mine and other famous Idaho silver-lead deposits makes Burke an exciting location for collectors interested in mining history and the geological processes that created world-class ore bodies. Even modest specimens collected here connect directly to one of North America's most productive mining districts.",
+  "history": "Burke sits within the Coeur d'Alene Mining District, one of the richest silver-lead-zinc districts in North America. Intense hydrothermal circulation during the Mesozoic era deposited massive quartz veins and mineral-rich fluids that created both the commercial ore bodies and the smaller specimens rockhounders find today. Early 20th-century hard-rock mining in this region exposed quartz and jasper deposits that remain visible and collectible on BLM land.",
+  "tips": "Search along creek beds and wash areas where water has eroded soil and exposed quartz veins and jasper fragments - these drainage systems naturally concentrate heavier specimens. Use a hand lens to identify fine gold flakes in black sand deposits at the inside bends of streams where material settles. Steep hillsides with exposed rock outcrops often show quartz vein edges; work systematically from the ridgeline downslope to avoid missing productive zones. Bring a pry bar or chisel to carefully extract loose quartz specimens from weathered outcrops, but never damage in-place rock.",
+  "terrain_notes": "Elevation 3909 ft in steep mountainous terrain covered primarily with mixed conifer forest. Slopes are pronounced and rocky, with frequent exposed bedrock and mining-related disturbances. Rough footing and scattered loose rock require sturdy boots. Parking areas are limited to informal pullouts along forest roads; most productive collecting requires hiking 0.5 to 2 miles upslope through dense timber and across talus fields.",
+  "best_season": "June - September. High elevation and heavy winter snowfall make this location inaccessible November through May. Summer months provide dry conditions, better visibility through dense forest, and accessible forest roads. Early autumn offers the most comfortable temperatures for steep hiking.",
+  "written_directions": "From Mace, drive east on Forest Road 9 toward Burke (approximately 3 miles). Continue as the road becomes narrower and steeper, following signs toward the historic Burke townsite. Multiple unsigned pullouts exist along the road where you can park and access adjacent BLM land on foot. The main turnoff into developed areas near Burke is marked with a small brown 'Historic Mining Area' sign. Park at any safe pullout and hike upslope or along drainage washes, staying on public BLM land away from any posted private mining claims.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Forest roads are rough, narrow, and steep with significant washboard. High-clearance vehicle strongly recommended. Road may be impassable during snow season. Some sections have loose gravel and sharp rocks that may puncture low-clearance tires.",
+  "parking_notes": "Informal pullouts along Forest Road 9 and side roads. No developed parking area. Capacity typically 2-4 vehicles per pullout. Space is extremely limited; arrive early. No facilities or signage.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or mechanized equipment. Respect all posted mining claims and private property boundaries. Remove only loose material; do not damage or blast in-place rock.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect posted mining claims\nNo damage to in-place rock\nPack out all trash",
+  "beginner_friendly": false,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "abandoned_mines",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Mace (3 miles) - limited services. Kellogg (15 miles) - gas, food, lodging, supplies.",
+  "accessibility_notes": "Steep mountainous terrain unsuitable for most hikers. Rocky, uneven footing requires sturdy boots and good balance. No wheelchair or limited-mobility access. Forest roads require high-clearance vehicles and experienced drivers. Hiking distances of 1-3 miles on steep slopes required to reach productive collecting areas. Not recommended for families with young children or those with mobility limitations.",
+  "alternative_names": [
+    "Burke Mining Area",
+    "Coeur d'Alene District - Burke Section"
+  ],
+  "nearest_city": "Mace",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/burke-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/burke-id/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find rockhounding near Burke, Idaho?",
+      "answer": "The primary specimens at Burke are quartz veins, jasper in various colors, and fine gold. Chalcedony specimens are also common. The area's location in the historic Coeur d'Alene Mining District means you may also find small samples of lead and silver minerals on BLM land, though the best commercial ore bodies are on restricted private claims."
+    },
+    {
+      "question": "Is a permit required for rockhounding on BLM land near Burke, Idaho?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Burke. You can collect for personal use up to 25 lbs per day under FLPMA guidelines. Commercial collection, mechanized excavation, and motorized equipment are prohibited."
+    },
+    {
+      "question": "What is the best season to go rockhounding at Burke, Idaho?",
+      "answer": "June through September is the optimal season. High elevation (3909 ft) and heavy winter snow make this location inaccessible from November through May. Summer months provide dry forest roads, better visibility, and comfortable hiking conditions on steep terrain."
+    },
+    {
+      "question": "Is Burke, Idaho rockhounding suitable for beginners and families?",
+      "answer": "Burke is moderately difficult and not ideal for beginners or young children. The terrain is steep and rocky, requiring good footwear and hiking fitness. Vehicle access requires high-clearance or AWD. However, experienced rockhounders comfortable with backcountry hiking will find excellent quartz and jasper specimens."
+    },
+    {
+      "question": "How do I find gold and quartz specimens when rockhounding at Burke, Idaho?",
+      "answer": "Search creek beds and stream washes where water naturally exposes and concentrates heavier minerals. Fine gold often appears as flakes in black sand at inside bends. For quartz, look for exposed veins on steep hillsides and rock outcrops. Use a hand lens to examine sediment closely and a pry bar to gently extract loose specimens from weathered rock faces."
+    },
+    {
+      "question": "What tools and supplies should I bring rockhounding at Burke, Idaho?",
+      "answer": "Bring sturdy hiking boots, a small pry bar or chisel, a hand lens for examining specimens, a collection bag or bucket, plenty of water, and a map or GPS device. Given the remote location and steep terrain, also pack a headlamp, first aid kit, and emergency supplies. A high-clearance or AWD vehicle is essential for accessing the forest roads."
+    }
+  ],
+  "meta_title": "Burke Rockhounding - Find Quartz & Gold in Idaho",
+  "meta_description": "Rockhound for quartz, jasper, and gold on BLM land near Burke, Idaho. No permit needed. Steep terrain, remote location. Best June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from Coeur d'Alene district geology; specific finds at Burke not confirmed",
+    "hazards - added 'steep terrain with cliffs' based on terrain data showing steep slopes; specific cliff locations not verified",
+    "nearest_city - Mace confirmed as closest; distance estimated at 3 miles",
+    "road_conditions - described based on typical forest road conditions in northern Idaho; specific surface conditions at Burke not independently verified",
+    "cell_service - marked spotty based on remote mountain location; not confirmed by testing"
+  ],
+  "enriched_at": "2026-04-22T06:43:53.179Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:07.490Z"
+}

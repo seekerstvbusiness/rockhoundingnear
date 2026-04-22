@@ -1,0 +1,65 @@
+{
+  "slug": "emerald-creek-id",
+  "name": "Emerald Creek",
+  "lat": 47.06509,
+  "lng": -116.326537,
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "state_code": "ID",
+  "city": "Shoshone County",
+  "city_slug": "shoshone-county",
+  "county": "Shoshone",
+  "county_slug": "shoshone",
+  "geocoded_city": "Emerald Creek",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-idaho.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Emerald%20Creek%20Idaho"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Idaho BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Emerald%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Emerald%20Creek%20Idaho"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Idaho BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2736,
+      "meters": 834
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:24:04.844Z"
+  },
+  "scraped_at": "2026-04-21T19:24:04.845Z",
+  "scrape_quality": "partial"
+}

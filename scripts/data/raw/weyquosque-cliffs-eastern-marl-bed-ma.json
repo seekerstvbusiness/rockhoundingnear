@@ -1,0 +1,57 @@
+{
+  "slug": "weyquosque-cliffs-eastern-marl-bed-ma",
+  "name": "Weyquosque Cliffs (eastern marl bed)",
+  "lat": 41.334721,
+  "lng": -70.736946,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Chilmark",
+  "city_slug": "chilmark",
+  "county": "Dukes",
+  "county_slug": "dukes",
+  "geocoded_city": "Chilmark",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Weyquosque%20Cliffs%20(eastern%20marl%20bed)%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Weyquosque%20Cliffs%20(eastern%20marl%20bed)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Weyquosque%20Cliffs%20(eastern%20marl%20bed)%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:36:46.147Z"
+  },
+  "scraped_at": "2026-04-21T19:36:46.147Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "wahiawa-hi",
+  "name": "Wahiawa",
+  "lat": 21.491725,
+  "lng": -158.020759,
+  "state": "Hawaii",
+  "state_slug": "hawaii",
+  "state_code": "HI",
+  "city": "Waipahu",
+  "city_slug": "waipahu",
+  "county": "Honolulu",
+  "county_slug": "honolulu",
+  "geocoded_city": "Waipahu",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-hawaii.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Wahiawa%20Hawaii"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Wahiawa",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Wahiawa%20Hawaii"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 838,
+      "meters": 255
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Wahiawā",
+      "distance_mi": 1,
+      "population": 1000
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:32:45.364Z"
+  },
+  "scraped_at": "2026-04-21T16:32:45.365Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "monte-cristo-wa",
+  "name": "Monte Cristo",
+  "lat": 47.985855,
+  "lng": -121.393945,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Snohomish County",
+  "city_slug": "snohomish-county",
+  "county": "Snohomish",
+  "county_slug": "snohomish",
+  "geocoded_city": "Snohomish County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Monte%20Cristo%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Monte%20Cristo",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Monte%20Cristo%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2765,
+      "meters": 843
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "Mountain Loop Highway",
+        "ref": "FS 20",
+        "type": "secondary",
+        "dist": 3.7
+      },
+      {
+        "name": "Mountain Loop Highway",
+        "ref": "FS 20",
+        "type": "secondary",
+        "dist": 5.7
+      },
+      {
+        "name": "Mountain Loop Highway",
+        "ref": "FS 20",
+        "type": "secondary",
+        "dist": 7.6
+      },
+      {
+        "name": "Mountain Loop Highway",
+        "ref": "FS 20",
+        "type": "secondary",
+        "dist": 8.6
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:01:12.232Z"
+  },
+  "scraped_at": "2026-04-21T19:01:12.232Z",
+  "scrape_quality": "minimal"
+}

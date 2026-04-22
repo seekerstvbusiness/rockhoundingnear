@@ -1,0 +1,100 @@
+{
+  "slug": "alzada-mt",
+  "name": "Alzada",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Alzada",
+  "city_slug": "alzada",
+  "county": "Carter",
+  "county_slug": "carter",
+  "lat": 45.029327,
+  "lng": -104.406414,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Remote BLM rockhounding site in southeastern Montana offering colorful agates, jasper, and chalcedony specimens on flat, accessible terrain with no permits required.",
+  "description": "Alzada is a remote rockhounding destination located on Bureau of Land Management property in Carter County, Montana's least populated county. The area sits within the northern Great Plains where Tertiary volcanic activity and sedimentary deposition created abundant silica-rich nodules and specimens scattered across semi-arid grassland. The flat terrain makes this site accessible for rockhounders of all skill levels, though the remote location requires planning and self-sufficiency.\n\nThe geology here reflects the uplift and erosion of the Powder River Basin, where ancient volcanic ash beds and sedimentary layers were exposed by millions of years of weathering. This process concentrated silica minerals into agate nodules, jasper chunks, and chalcedony specimens that weather out onto the surface. Collectors frequently find colorful banded agates with cream, tan, and rust tones, along with translucent to opaque jasper in reds, greens, and browns.\n\nBecause this is BLM land, rockhounding requires no permits and follows simple personal-use guidelines. The flat topography and open grassland make site navigation straightforward, though vegetation can obscure specimens during growing season. Most productive collecting happens on exposed ridges, eroded washes, and areas where soil has washed away. The remote setting means you should be entirely self-sufficient: bring plenty of water, fuel up in town, and carry a reliable map or GPS device.\n\nBest results come from patient surface prospecting rather than heavy equipment or digging. Walk slowly across likely terrain, scan the ground for color contrast, and look for the characteristic banded patterns of Montana agates. Early morning or late afternoon light helps spot specimens. The reward for visiting this remote location is access to quality material without crowds and the unique high-plains rockhounding experience.",
+  "history": "This area sits within the Powder River Basin's northeastern extension, where Tertiary volcanic ash beds deposited silica-rich material that crystallized into agate and jasper nodules over millions of years. Extensive erosion during the Quaternary exposed these nodules across the surface, making the Carter County region one of Montana's premier agate-hunting territories despite its remote location.",
+  "tips": "Focus your search on eroded ridgelines and hillside cutbanks where water erosion has exposed nodules in the subsoil; walk slowly and scan the ground for the characteristic banded tan-and-rust-colored patterns of Montana agates. Bring a jeweler's loupe to spot translucent chalcedony and jasper specimens that blend with the surrounding soil. Early morning light is ideal for spotting color contrasts. Carry a 5-gallon bucket and fill only what you can reasonably transport, keeping your daily take under 25 pounds.",
+  "terrain_notes": "Flat to gently rolling sagebrush grassland at approximately 3,600 feet elevation. Open terrain with sparse vegetation allows easy walking, though grass and low brush can obscure surface specimens. No significant elevation gain. Footing is stable across short-grass prairie and eroded patches. Parking is pullout-style on or near BLM access roads. Typical walking distance from parking to productive areas is under 1 mile.",
+  "best_season": "April - June and September - October. Spring offers fresh exposure from winter erosion and cooler temperatures. Late spring vegetation may obscure some specimens. Fall provides excellent conditions with low vegetation and milder weather than summer. Summer heat can exceed 85-90 degrees F with no shade. Winter brings snow and cold that limits access.",
+  "written_directions": "From Alzada (the nearest community), head east on local roads toward the BLM lands in Carter County. The remote location requires a detailed topographic map or GPS coordinates (45.029327, -104.406414). Most access is via rough dirt roads passable to high-clearance vehicles. Allow 30-45 minutes of careful driving from Alzada. Consult current BLM Montana maps for specific road access, as remote backcountry routes may vary seasonally.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough dirt and gravel BLM roads, possible washboard surface. High-clearance vehicle recommended but not required for main access roads. Seasonal mud or snow may limit access in winter and early spring.",
+  "parking_notes": "Pullout-style parking on BLM access roads. No developed parking area or facilities. Space for 2-3 vehicles typical at trailhead areas. No vault toilets or water available.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection permitted. No motorized excavation or heavy equipment allowed. Hand tools only. Pack out all waste. Leave no trace.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use rockhounding only\nMaximum 25 pounds per day\nNo commercial collection\nNo motorized excavation or heavy equipment\nHand tools only\nPack out all waste\nLeave no trace",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "Alzada (gas, limited services) approximately 5-15 miles depending on exact BLM access point. Ekalaka, MT (full services including groceries, gas, restaurants) approximately 35-45 miles south. Plan accordingly and fuel up before heading to remote areas.",
+  "accessibility_notes": "Flat terrain accessible to most fitness levels. Unpaved BLM access roads may present minor navigation challenges but not steep or dangerous. No wheelchair access on dirt roads. Sturdy walking shoes recommended for grassland prospecting. Remote location means no emergency services nearby; hikers should carry communication devices, water, and first aid.",
+  "alternative_names": [],
+  "nearest_city": "Alzada",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/alzada-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/alzada-mt/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/alzada-mt/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can I find rockhounding near Alzada, Montana?",
+      "answer": "Alzada's BLM lands produce high-quality Montana agates with distinctive banded patterns in cream, tan, rust, and brown tones. Collectors also find opaque jasper in reds, greens, and browns, plus translucent chalcedony specimens. The Tertiary volcanic geology of the Powder River Basin created ideal conditions for silica mineral formation. Surface prospecting typically yields specimens ranging from thumbnail-sized to fist-sized pieces."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Alzada, MT?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Alzada under FLPMA (Federal Land Policy and Management Act) regulations. Personal use collection is allowed without advance permission. You must follow the 25-pound daily limit per person and pack out all waste. Commercial collection and motorized excavation are prohibited."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Alzada, Montana?",
+      "answer": "April through June and September through October offer ideal conditions. Spring provides fresh surface exposure from winter erosion and cooler temperatures. Fall features excellent weather with low vegetation that doesn't obscure specimens. Summer heat can exceed 85-90 degrees F with no shade available on the open prairie. Winter brings snow that limits access and cold temperatures."
+    },
+    {
+      "question": "How remote is Alzada, Montana, and what supplies should I bring?",
+      "answer": "Alzada is extremely remote in Carter County with no cell service. The nearest full-service town (Ekalaka) is 35-45 miles south. You must be completely self-sufficient: bring 2-3 gallons of water minimum, fill your gas tank before heading out, carry a detailed map or GPS, and pack a first aid kit. No facilities exist at rockhounding areas. Plan for 1-2 hour drive times from any services."
+    },
+    {
+      "question": "What tools do I need for rockhounding at Alzada, and how much material can I take home?",
+      "answer": "Bring hand tools only: a small hammer, chisel, and collection bag. BLM rules prohibit motorized equipment and heavy excavation. You can collect a maximum of 25 pounds per day per person. A 5-gallon bucket makes a convenient container and helps you monitor weight. Bring a jeweler's loupe to identify chalcedony and jasper specimens that blend with surrounding soil."
+    },
+    {
+      "question": "Is rockhounding near Alzada, Montana suitable for families and beginners?",
+      "answer": "Yes, Alzada's flat terrain and easy surface prospecting make it excellent for families and beginner rockhounders. Children ages 6 and up can participate safely. The open grassland requires no technical climbing or hazardous navigation. The main challenges are the remote location (requiring careful planning and self-sufficiency) and heat in summer months. Beginners should focus on the distinctive banded agate patterns that are easier to spot than other specimens."
+    }
+  ],
+  "meta_title": "Alzada Rockhounding - Find Montana Agate on BLM Land",
+  "meta_description": "Free BLM rockhounding near Alzada, MT for agate, jasper, and chalcedony. No permit needed. Remote site with flat terrain. 25 lb daily limit. Spring-fall best.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from GPS and remote location; specific road names not provided in source)",
+    "parking_notes (inferred from typical BLM access patterns)",
+    "nearest_services (estimated distances from geographic knowledge)",
+    "road_conditions (inferred from typical Carter County BLM access)"
+  ],
+  "enriched_at": "2026-04-21T19:08:20.881Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:12:30.164Z"
+}

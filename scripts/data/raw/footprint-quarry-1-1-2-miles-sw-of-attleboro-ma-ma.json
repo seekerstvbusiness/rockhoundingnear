@@ -1,0 +1,60 @@
+{
+  "slug": "footprint-quarry-1-1-2-miles-sw-of-attleboro-ma-ma",
+  "name": "Footprint quarry 1 1/2 miles SW of Attleboro, MA",
+  "lat": 41.944443,
+  "lng": -71.28611,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Attleboro",
+  "city_slug": "attleboro",
+  "county": "Bristol",
+  "county_slug": "bristol",
+  "geocoded_city": "Attleboro",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Footprint%20quarry%201%201%2F2%20miles%20SW%20of%20Attleboro%2C%20MA%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Footprint%20quarry%201%201%2F2%20miles%20SW%20of%20Attleboro%2C%20MA",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Footprint%20quarry%201%201%2F2%20miles%20SW%20of%20Attleboro%2C%20MA%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 109,
+      "meters": 33
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:24:25.157Z"
+  },
+  "scraped_at": "2026-04-21T19:24:25.157Z",
+  "scrape_quality": "minimal"
+}

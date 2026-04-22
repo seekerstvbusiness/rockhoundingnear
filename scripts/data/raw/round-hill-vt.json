@@ -1,0 +1,60 @@
+{
+  "slug": "round-hill-vt",
+  "name": "Round Hill",
+  "lat": 43.561405,
+  "lng": -72.924091,
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "state_code": "VT",
+  "city": "Shrewsbury",
+  "city_slug": "shrewsbury",
+  "county": "Rutland",
+  "county_slug": "rutland",
+  "geocoded_city": "Shrewsbury",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-vermont.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Round%20Hill%20Vermont"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Round%20Hill",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Round%20Hill%20Vermont"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1454,
+      "meters": 443
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:06:09.347Z"
+  },
+  "scraped_at": "2026-04-21T17:06:09.347Z",
+  "scrape_quality": "minimal"
+}

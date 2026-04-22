@@ -1,0 +1,136 @@
+Fetching existing locations from Supabase...
+Found 11 locations to update
+
+
+[1/11] Goldfield Ghost Town Mineral Area (arizona)
+  scraping + terrain...
+  → scraping: Goldfield Ghost Town Mineral Area (Arizona) [default]
+    analyzing terrain...
+    terrain: 2092ft | city: Apache Junction (5mi) | slope: flat
+  ✓ Goldfield Ghost Town Mineral Area — quality: partial — sources: 1
+  enriching...
+  → enriching: Goldfield Ghost Town Mineral Area (scrape: partial)
+  ✓ Goldfield Ghost Town Mineral Area - 3 gem types - 4 needs_review fields
+  ✓ patched — nearest_city: Apache Junction | directions: yes
+
+[2/11] Dust Devil Mining � Thunderegg Fee Dig (oregon)
+  scraping + terrain...
+  → scraping: Dust Devil Mining � Thunderegg Fee Dig (Oregon) [default]
+    analyzing terrain...
+    terrain: 1345ft | city: Medford (1mi) | slope: flat
+  ✓ Dust Devil Mining � Thunderegg Fee Dig — quality: partial — sources: 1
+  enriching...
+  → enriching: Dust Devil Mining � Thunderegg Fee Dig (scrape: partial)
+  ✓ Dust Devil Mining � Thunderegg Fee Dig - 3 gem types - 6 needs_review fields
+  ✓ patched — nearest_city: Medford | directions: yes
+
+[3/11] Agua Fria River Agate Beds (arizona)
+  scraping + terrain...
+  → scraping: Agua Fria River Agate Beds (Arizona) [default]
+    analyzing terrain...
+    terrain: 2472ft | city: Black Canyon City (6mi) | slope: ?
+  ✓ Agua Fria River Agate Beds — quality: partial — sources: 1
+  enriching...
+  → enriching: Agua Fria River Agate Beds (scrape: partial)
+  ✓ Agua Fria River Agate Beds - 3 gem types - 5 needs_review fields
+  ✓ patched — nearest_city: Black Canyon City | directions: yes
+
+[4/11] Glass Buttes Obsidian Fields (oregon)
+  scraping + terrain...
+  → scraping: Glass Buttes Obsidian Fields (Oregon) [default]
+    analyzing terrain...
+    terrain: 4535ft | city: Bend (68mi) | slope: flat
+  ✓ Glass Buttes Obsidian Fields — quality: partial — sources: 1
+  enriching...
+  → enriching: Glass Buttes Obsidian Fields (scrape: partial)
+  ✓ Glass Buttes Obsidian Fields - 2 gem types - 5 needs_review fields
+  ✓ patched — nearest_city: Bend | directions: yes
+
+[5/11] Richardson's Rock Ranch Thunderegg Dig (oregon)
+  scraping + terrain...
+  → scraping: Richardson's Rock Ranch Thunderegg Dig (Oregon) [default]
+    analyzing terrain...
+    terrain: 2436ft | city: Prineville (45mi) | slope: gentle slope
+  ✓ Richardson's Rock Ranch Thunderegg Dig — quality: partial — sources: 2
+  enriching...
+  → enriching: Richardson's Rock Ranch Thunderegg Dig (scrape: partial)
+  ✗ Claude API error for richardsons-rock-ranch-thunderegg-dig: read ECONNRESET
+  ✗ enriched file not found after enrichment
+
+[6/11] Emerald Hollow Mine (north-carolina)
+  scraping + terrain...
+  → scraping: Emerald Hollow Mine (North Carolina) [default]
+    analyzing terrain...
+    terrain: 1136ft | city: North Wilkesboro (18mi) | slope: gentle slope
+  ✓ Emerald Hollow Mine — quality: minimal — sources: 0
+  enriching...
+  → enriching: Emerald Hollow Mine (scrape: minimal)
+  ✓ Emerald Hollow Mine - 3 gem types - 9 needs_review fields
+  ✓ patched — nearest_city: North Wilkesboro | directions: yes
+
+[7/11] Crater of Diamonds State Park (arkansas)
+  scraping + terrain...
+  → scraping: Crater of Diamonds State Park (Arkansas) [default]
+    analyzing terrain...
+    terrain: 328ft | city: Texarkana (47mi) | slope: flat
+  ✓ Crater of Diamonds State Park — quality: partial — sources: 1
+  enriching...
+  → enriching: Crater of Diamonds State Park (scrape: partial)
+  ✗ JSON parse error for crater-of-diamonds-state-park
+  Raw response: ```json
+{
+  "slug": "crater-of-diamonds-state-park",
+  "name": "Crater of Diamonds State Park",
+  "state": "Arkansas",
+  "state_slug": "arkansas",
+  "city": "Murfreesboro",
+  "city_slug": "murfreesbor
+  ✗ enriched file not found after enrichment
+
+[8/11] Vulture Mine Quartz District (arizona)
+  scraping + terrain...
+  → scraping: Vulture Mine Quartz District (Arizona) [default]
+    analyzing terrain...
+    terrain: 2577ft | city: Sun City West (34mi) | slope: flat
+  ✓ Vulture Mine Quartz District — quality: partial — sources: 1
+  enriching...
+  → enriching: Vulture Mine Quartz District (scrape: partial)
+  ✓ Vulture Mine Quartz District - 2 gem types - 5 needs_review fields
+  ✓ patched — nearest_city: Wickenburg | directions: yes
+
+[9/11] Kofa NWR Gem Collecting (arizona)
+  scraping + terrain...
+  → scraping: Kofa NWR Gem Collecting (Arizona) [default]
+    analyzing terrain...
+    terrain: 3437ft | city: Quartzsite (25mi) | slope: flat
+  ✓ Kofa NWR Gem Collecting — quality: partial — sources: 1
+  enriching...
+  → enriching: Kofa NWR Gem Collecting (scrape: partial)
+  ✓ Kofa NWR Gem Collecting - 4 gem types - 6 needs_review fields
+  ✓ patched — nearest_city: Quartzsite | directions: yes
+
+[10/11] Succor Creek Canyon Thunderegg Site (oregon)
+  scraping + terrain...
+  → scraping: Succor Creek Canyon Thunderegg Site (Oregon) [default]
+    analyzing terrain...
+    terrain: 4240ft | city: Nampa (60mi) | slope: moderate slope
+  ✓ Succor Creek Canyon Thunderegg Site — quality: partial — sources: 2
+  enriching...
+  → enriching: Succor Creek Canyon Thunderegg Site (scrape: partial)
+  ✓ Succor Creek Canyon Thunderegg Site - 2 gem types - 7 needs_review fields
+  ✓ patched — nearest_city: Nampa | directions: yes
+
+[11/11] Yogo Gulch Sapphire Area (montana)
+  scraping + terrain...
+  → scraping: Yogo Gulch Sapphire Area (Montana) [default]
+    analyzing terrain...
+    terrain: 7170ft | city: Stanford (17mi) | slope: steep terrain
+  ✓ Yogo Gulch Sapphire Area — quality: partial — sources: 1
+  enriching...
+  → enriching: Yogo Gulch Sapphire Area (scrape: partial)
+  ✓ Yogo Gulch Sapphire Area - 1 gem types - 3 needs_review fields
+  ✓ patched — nearest_city: Stanford | directions: yes
+
+══════════════════════════════════════════════════
+Done — 9 updated, 2 failed
+All locations patched in Supabase. Review in dashboard before publishing.

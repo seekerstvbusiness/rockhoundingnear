@@ -1,0 +1,60 @@
+{
+  "slug": "melvin-hill-grafton-nh",
+  "name": "Melvin Hill (Grafton)",
+  "lat": 43.558058,
+  "lng": -72.07146,
+  "state": "New Hampshire",
+  "state_slug": "new-hampshire",
+  "state_code": "NH",
+  "city": "Enfield",
+  "city_slug": "enfield",
+  "county": "Grafton",
+  "county_slug": "grafton",
+  "geocoded_city": "Enfield",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-hampshire.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Melvin%20Hill%20(Grafton)%20New%20Hampshire"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Melvin%20Hill%20(Grafton)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Melvin%20Hill%20(Grafton)%20New%20Hampshire"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1371,
+      "meters": 418
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:29:07.253Z"
+  },
+  "scraped_at": "2026-04-21T17:29:07.253Z",
+  "scrape_quality": "minimal"
+}

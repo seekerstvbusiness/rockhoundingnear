@@ -1,0 +1,100 @@
+{
+  "slug": "escalante-ut",
+  "name": "Escalante",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Escalante",
+  "city_slug": "escalante",
+  "county": "Garfield",
+  "county_slug": "garfield",
+  "lat": 37.778191,
+  "lng": -111.574409,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz",
+    "Petrified Wood"
+  ],
+  "short_description": "BLM public land near Escalante offering diverse rockhounding for agate, jasper, and chalcedony in scenic high desert terrain. Free collecting with 25 lb daily limit.",
+  "description": "Escalante sits within Utah's Grand Staircase-Escalante National Monument region on accessible BLM land, making it an excellent destination for rockhounders seeking agate, jasper, and chalcedony specimens. The area's rolling ridges and wash systems expose colorful banded agates and microcrystalline quartz formations that weathered out of Mesozoic-age sedimentary layers. Most productive collecting happens along dry washes and hillside talus slopes where seasonal water movement concentrates heavier mineral fragments.\n\nThe terrain here is characteristic of Utah's High Plateau country - semi-arid shrubland at 5,000-5,500 feet elevation with scattered juniper and pinyon pine. Walking distances from parking are typically short to moderate, making it suitable for families with school-age children. The open nature of BLM land means you can explore multiple drainages and ridgelines in a single trip.\n\nAs a free public collecting area, Escalante attracts both beginners and experienced rockhounders. The 25 lb per day personal use limit keeps this sustainable. Late spring and fall offer the most comfortable collecting conditions, though the high desert climate makes shoulder seasons ideal. Bring plenty of water - the area offers minimal shade and no developed facilities.",
+  "history": "The Escalante area sits within the eastern edge of the High Plateau province, where late Cretaceous and early Tertiary sedimentary sequences were uplifted and exposed by erosion. Miocene volcanic activity and Basin and Range extension created the structural frameworks that hosted late-stage silica-rich groundwater, precipitating the chalcedony and agate nodules now found weathering from hillside outcrops and wash gravels throughout the region.",
+  "tips": "Search dry washes and their banks where seasonal runoff concentrates heavy minerals - look for colorful banded pebbles ranging from tan to rust-red. Use a light hammer and chisel to extract specimens from hillside talus and softer matrix; a 5-gallon bucket works well for transporting your daily limit. The best agates here often have distinctive white or cream banding - scan the ground at eye level while walking washes rather than digging randomly, as most quality material is found loose on the surface after winter frost action.",
+  "terrain_notes": "Rolling high desert terrain at 5,000-5,500 feet elevation with gentle to moderate slopes covered in sagebrush, juniper, and scattered pinyon. Terrain is rocky and uneven with volcanic and sedimentary material exposed throughout. Walking distances from parking typically range from half a mile to 3 miles. Footing is stable on compacted ground but rocky and requires sturdy footwear. No developed trails; navigation is straightforward with good visibility in open country.",
+  "best_season": "April - May and September - October. Daytime temperatures are comfortable (60-75 F), avoiding the intense summer heat above 90 F and rare but damaging afternoon thunderstorms. Winter months can bring snow above 5,500 feet. Spring offers maximum freshly weathered material after freeze-thaw cycles.",
+  "written_directions": "From Escalante town, head north on UT 12 for approximately 8 miles toward Boulder. Look for BLM access roads branching east off the highway in the Coyote Gulch drainage area. Park at designated pullouts near wash entrances. Alternative access: from Escalante, drive east on Burr Trail Road for 5-7 miles and access BLM land via marked side roads. Verify current road conditions before heading out - some spur roads may be rough after heavy rain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "UT 12 is paved and well-maintained. BLM access roads vary from good dirt to washboard; high-clearance passenger vehicles acceptable in dry conditions, but check locally after rain. Some side roads may require high-clearance or light 4WD after wet weather.",
+  "parking_notes": "Informal pullouts and parking areas along UT 12 near wash access points. No developed lot; typically 2-4 vehicle capacity at roadside pullouts. Space is abundant but pack out all trash.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or heavy equipment. Collect only from surface or talus; do not damage rock faces or dig into hillsides. Pack out all trash. Respect any seasonal closures related to wildlife or cultural resources.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo damage to outcrops or cultural sites\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "wildlife",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "Escalante town, approximately 8 miles south. Basic gas, food, and lodging available. No water, restrooms, or supplies at the rockhounding area itself.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers in reasonable fitness. Uneven, rocky ground requires sturdy hiking boots. No wheelchair access to productive collecting areas. Parking pullouts are roadside and easily accessible. Short walks to wash systems and hillsides make this suitable for families and those with limited mobility, though the rocky footing can be challenging.",
+  "alternative_names": [
+    "Coyote Gulch BLM",
+    "Escalante High Plateau"
+  ],
+  "nearest_city": "Escalante",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/escalante-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Escalante, Utah?",
+      "answer": "The Escalante area is known for banded agate, colorful jasper, chalcedony, and quartz specimens. You'll find these primarily as weathered pebbles and nodules in dry washes and along hillside talus slopes. Some pieces display distinctive white or rust-red banding typical of the High Plateau formations."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Escalante?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Escalante. It is free public collecting under the 25 lb per day personal use limit. However, you must follow FLPMA regulations: no commercial collection, no motorized excavation, and all material must be for personal use only."
+    },
+    {
+      "question": "What is the best time of year to rockhound in Escalante?",
+      "answer": "April through May and September through October offer the most comfortable collecting conditions. Daytime temperatures are pleasant (60-75 F), and spring months bring freshly weathered material to the surface from winter freeze-thaw cycles. Avoid summer heat above 90 F and winter snow that can occur above 5,500 feet."
+    },
+    {
+      "question": "Is rockhounding near Escalante beginner-friendly and good for families with kids?",
+      "answer": "Yes, Escalante is excellent for beginners and families. The terrain is relatively accessible with short walks to productive wash areas, and quality specimens are often found loose on the surface rather than requiring heavy digging. Children ages 6 and up can participate comfortably. The open BLM land allows flexibility to explore multiple spots in one trip."
+    },
+    {
+      "question": "What tools and supplies do I need to rockhound in Escalante?",
+      "answer": "Bring a small rock hammer and chisel for extracting specimens from talus, a 5-gallon bucket for transporting your daily limit, sturdy hiking boots for rocky terrain, and at least 2-3 liters of water per person. A backpack, hand lens for examining specimens, and a GPS or phone map app are also recommended. The area has no shade, so sun protection is essential."
+    },
+    {
+      "question": "Can I bring my dog rockhounding on BLM land near Escalante?",
+      "answer": "Yes, dogs are allowed on BLM public land near Escalante. Keep your dog under control, pack out all waste, and be aware of local wildlife including snakes, particularly in warmer months. The open terrain and lack of developed trails mean you have good visibility for monitoring your pet while rockhounding."
+    }
+  ],
+  "meta_title": "Escalante Rockhounding - Find Agate & Jasper, Utah BLM",
+  "meta_description": "Free rockhounding near Escalante, Utah on BLM land. Collect agate, jasper, and chalcedony specimens. No permit needed, 25 lb daily limit. Family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_services_detail",
+    "specific_wash_names",
+    "road_condition_wet_season"
+  ],
+  "enriched_at": "2026-04-22T06:49:40.802Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:56:07.366Z"
+}

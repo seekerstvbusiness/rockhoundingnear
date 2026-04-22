@@ -1,0 +1,60 @@
+{
+  "slug": "norwich-bridge-ma",
+  "name": "Norwich Bridge",
+  "lat": 42.248708,
+  "lng": -72.868074,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Huntington",
+  "city_slug": "huntington",
+  "county": "Hampshire",
+  "county_slug": "hampshire",
+  "geocoded_city": "Huntington",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Norwich%20Bridge%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Norwich%20Bridge",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Norwich%20Bridge%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 404,
+      "meters": 123
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:21:34.385Z"
+  },
+  "scraped_at": "2026-04-21T19:21:34.385Z",
+  "scrape_quality": "minimal"
+}

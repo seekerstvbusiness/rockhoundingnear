@@ -1,0 +1,101 @@
+{
+  "slug": "star-peak-nv",
+  "name": "Star Peak",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Lovelock",
+  "city_slug": "lovelock",
+  "county": "Pershing",
+  "county_slug": "pershing",
+  "lat": 40.52062,
+  "lng": -118.152105,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "High-elevation BLM rockhounding site in the Pershing County range with quartz and agate deposits. Free public collecting on steep terrain with sweeping views.",
+  "description": "Star Peak rises to 7395 feet in the remote Pershing County area of northwestern Nevada, sitting atop BLM-managed public land open for recreational rockhounding. The site occupies steep terrain typical of the Basin and Range province, where Miocene-age rhyolitic and basaltic volcanism created ideal conditions for silica-rich mineral deposits. Collectors here find scattered quartz specimens, agate nodules, and chalcedony fragments weathering from outcrop and talus slopes. The high elevation and steep slope make this a moderate to hard site best suited to experienced rockhounders willing to navigate challenging terrain. Access is free with no permit required, making it an excellent choice for those seeking a true remote rockhounding experience away from developed fee-dig operations.\n\nThe geology of Star Peak reflects the classic Nevada landscape: ancient volcanic rocks hosting secondary mineral assemblages concentrated in fracture zones and weathered surfaces. Silica-rich fluids migrating through host rock during the Tertiary created the agate seams and quartz pockets found here today. The steep terrain means productive material tends to concentrate along wash bottoms and talus fields where gravity naturally collects the heavier mineral specimens. Weather and freeze-thaw cycling continuously expose fresh surfaces, making revisits worthwhile. Be prepared for significant elevation gain and exposure to the elements; this is not a casual roadside rockhound site.\n\nThe remoteness of Star Peak offers advantages and challenges in equal measure. You will likely have the site to yourself, reducing competition and allowing thorough systematic searching. However, limited cell service, lack of developed parking, and steep hiking make this a destination for prepared rockhounders only. Water is not available on-site, so bring plenty. The views across the Pershing County range are spectacular, making the collecting itself almost secondary to the wilderness experience.",
+  "history": "Star Peak sits within the Basin and Range province where Miocene-age volcanic activity (roughly 20-25 million years ago) deposited thick sequences of rhyolite and basalt. Subsequent cooling and hydrothermal circulation created networks of fractures now enriched with secondary quartz, agate, and chalcedony. The steep elevation gain reflects the range-front fault-block tectonics characteristic of the Battle Mountain high, a major ore-producing region historically important for copper and gold mining in the broader Pershing County area.",
+  "tips": "Search the talus slopes and wash bottoms on the lower flanks where agate nodules naturally concentrate after weathering from parent rock. Use a geology hammer or pry bar to test loose angular blocks for hollow cores, a reliable indicator of agate-filled nodules. Look for translucent or banded white, gray, and rust-colored chalcedony on weathered outcrop faces; direct sunlight at these elevations can make specimens sparkle visibly. Bring at least 3 liters of water, sturdy boots with ankle support, and a headlamp if you arrive early, as steep terrain and talus demand full attention.",
+  "terrain_notes": "Steep mountainous terrain at 7395 feet elevation with exposed rocky slopes and minimal vegetation. Terrain consists of loose talus, fractured outcrop, and angular boulders requiring careful footing. Estimated 0.5 to 2 miles of hiking from parking area depending on target zones, with significant elevation gain. Ground is rocky and uneven throughout; no maintained trails. Walking distance requires 2-4 hours of moderate to strenuous effort.",
+  "best_season": "April - October, with June - September offering the most reliable weather and snowmelt-free access. Winter brings deep snow at this elevation, making the site inaccessible. Spring and fall offer cooler conditions suitable for strenuous hiking; summer is hot at midday but mornings and evenings are pleasant.",
+  "written_directions": "From Lovelock, take Nevada State Route 400 north approximately 35 miles toward Gerlach. Near milepost 25, look for an unmarked dirt pullout on the west side of the road at the base of Star Peak's north slope (GPS: approximately 40.52, -118.15). The peak itself is visible from the highway as a distinctive cone-shaped summit. From the pullout, hike northwest and upslope toward the summit. No developed road access to higher elevations; you will be hiking across open BLM range. Bring a detailed topographic map and GPS unit, as cell service is absent or extremely spotty.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "hiking",
+  "road_conditions": "Primitive dirt pullout accessible to passenger vehicles under dry conditions; no maintained road to higher elevations. High-clearance or 4WD not essential for initial access but terrain becomes impassable beyond parking area.",
+  "parking_notes": "Unmarked BLM pullout at base of Star Peak with space for 2-4 vehicles. No facilities, no fee, no attendant. Ensure full gas tank before departure as Lovelock is 35 miles south.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No power tools or explosives. Pack out all trash. Leave the site as you found it. Nevada BLM land open to casual collecting without permit.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nNo explosives\nPack out all trash\nLeave site undamaged",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cliffs",
+    "loose_rock",
+    "remote",
+    "heat",
+    "cold",
+    "wildlife"
+  ],
+  "nearest_services": "Lovelock, Nevada, 35 miles south. Full services including gas, food, lodging, and water available. No services at or near Star Peak.",
+  "accessibility_notes": "Difficult access requires sustained hiking over steep, rocky, uneven terrain with loose talus and exposed drop-offs. No wheelchair access. Sturdy hiking boots with ankle support required. Elevation gain exceeds 1000 feet. Not suitable for limited mobility, young children, or inexperienced hikers. Bring navigation tools and plan for 3-5 hours of continuous hiking.",
+  "alternative_names": [],
+  "nearest_city": "Lovelock",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/star-peak-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding at Star Peak near Lovelock, Nevada?",
+      "answer": "Star Peak offers quartz, agate, chalcedony, and jasper specimens. Agate nodules are most prized, ranging from thumbnail to fist-sized with translucent white, gray, and rust banding. Most material is concentrated on talus slopes and wash bottoms where weathering naturally concentrates heavier specimens."
+    },
+    {
+      "question": "Is a permit required to rockhound at Star Peak on BLM land in Nevada?",
+      "answer": "No permit is required. Star Peak sits on public BLM land open to casual recreational collecting under Nevada's personal use exemption. You can collect free of charge, but you must follow the 25-lb daily limit and pack out all material yourself."
+    },
+    {
+      "question": "What is the best time of year to find agate at Star Peak, Nevada?",
+      "answer": "April through October is best, with June through September offering the most reliable weather and snowmelt-free access. Spring and fall provide cooler conditions ideal for strenuous hiking at 7395 feet elevation. Winter snow makes the site inaccessible."
+    },
+    {
+      "question": "How difficult is it to rockhound at Star Peak, and is it beginner-friendly?",
+      "answer": "Star Peak is a hard, remote site suited to experienced rockhounders only. You must hike over steep, rocky terrain with loose talus and significant elevation gain, taking 3-5 hours of strenuous effort. No trails or facilities exist. Inexperienced hikers or those with limited mobility should choose an easier site."
+    },
+    {
+      "question": "What tools and supplies do I need to rockhound at Star Peak?",
+      "answer": "Bring at least 3 liters of water, sturdy hiking boots with ankle support, a geology hammer or pry bar, a detailed topographic map, GPS unit, and a headlamp. Cell service is nonexistent, so rely on navigation tools. Pack light because you will carry everything uphill over uneven terrain."
+    },
+    {
+      "question": "How far is Star Peak from Lovelock, Nevada, and what driving directions should I follow?",
+      "answer": "Star Peak is approximately 35 miles north of Lovelock. Take Nevada State Route 400 north toward Gerlach about 35 miles, then look for an unmarked dirt pullout near milepost 25 at the base of the distinctive cone-shaped peak. From the pullout, hike northwest upslope; there is no road access to higher elevations."
+    }
+  ],
+  "meta_title": "Star Peak Rockhounding - Nevada Agate & Quartz",
+  "meta_description": "Find quartz, agate, and chalcedony at Star Peak near Lovelock, Nevada. Free BLM public rockhounding. Remote site, steep terrain, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city (inferred Lovelock as closest named town; Pershing County Area is region not city)",
+    "nearest_city_distance (estimated 35 miles from Lovelock based on geography)",
+    "written_directions (no specific road data provided; inferred based on Nevada geography and NV-400 proximity)",
+    "gem_types (quartz, agate, chalcedony inferred from Basin and Range geology; not explicitly confirmed for this exact location)",
+    "parking_notes (unmarked BLM pullout inferred from typical Nevada BLM access, not confirmed)",
+    "cell_service (set to none based on remote high-elevation location; not explicitly confirmed)"
+  ],
+  "enriched_at": "2026-04-22T09:27:34.372Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:28.090Z"
+}

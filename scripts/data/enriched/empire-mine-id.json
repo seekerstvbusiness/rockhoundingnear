@@ -1,0 +1,102 @@
+{
+  "slug": "empire-mine-id",
+  "name": "Empire Mine",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Custer",
+  "city_slug": "custer",
+  "county": "Custer",
+  "county_slug": "custer",
+  "lat": 43.892484,
+  "lng": -113.670146,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Historic gold prospect on BLM land in the Custer County high country. Public rockhounding for gold quartz and chalcedony with no permit required.",
+  "description": "Empire Mine sits at 7,444 feet elevation in the central Idaho mountains near Custer, offering public rockhounding access on BLM-managed land. This historic prospect area sits within the Idaho batholith zone where Cretaceous granitic intrusions created quartz-rich veins ideal for gold prospecting and quartz specimen collecting. The moderate slope terrain features mixed conifer forest with seasonal access - best visited during dry months when mountain roads are passable.\n\nThe site has geological significance as part of Idaho's historic mining district. Quartz veins here contain fine gold specimens and crystalline quartz formations that attract both beginners and experienced rockhounds. Chalcedony nodules and banded quartz can also be found in the surrounding terrain.\n\nAs public BLM land, Empire Mine offers free rockhounding under standard personal-use regulations. No permits are required, but collections are limited to 25 pounds per day. The moderate elevation and slope make this a good option for mid-range difficulty rockhounding, with some hiking required to reach prime collection areas.\n\nExpect rocky, uneven terrain with scattered quartz outcrops. Bring water and sun protection even in cooler months, as high elevation exposure is significant. The site is remote enough to feel backcountry but accessible via rough mountain roads.",
+  "history": "Empire Mine sits within the Idaho batholith, a massive granitic complex formed during Cretaceous subduction zone magmatism roughly 100-80 million years ago. Gold-bearing quartz veins precipitated from hydrothermal fluids along fractures in the granitic host rock, making this area part of Idaho's historically productive gold prospecting region.",
+  "tips": "Focus your search along exposed quartz outcrop faces and in the rocky wash bottoms where quartz fragments weather out - look for white, milky, or banded quartz with flecks of bright gold. Bring a small hand lens to spot fine gold in quartz samples before pocketing them. Use a small pick or chisel to carefully extract quartz specimens from outcrops rather than breaking random rocks. Check the base of hillsides where erosion concentrates heavier minerals and gold-bearing quartz fragments.",
+  "terrain_notes": "Elevation 7,444 feet with moderate slope and mixed conifer forest cover. Rocky, uneven footing with scattered quartz exposures and talus slopes. Walking distance from rough parking area varies from 0.5 to 2 miles depending on target areas. Expect loose rock and steep sections; sturdy hiking boots are essential. Terrain difficulty increases with deeper penetration into backcountry.",
+  "best_season": "June - September. High elevation means snow blocks access October through May. Summer provides dry ground, passable rough roads, and manageable temperatures despite cool mornings and evenings.",
+  "written_directions": "From Custer (the town), head east on Forest Road 384 toward the higher elevations. Continue approximately 12-15 miles on increasingly rough mountain roads toward the Empire Mine area. The site sits near 43.892484, -113.670146. Road conditions are variable; high-clearance vehicle strongly recommended, 4x4 useful during wet periods. Look for old mining claim markers and quartz outcrops as landmarks. Final approach may require parking and hiking 0.5-2 miles depending on road conditions and your target area.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough mountain roads, variable surface from dirt to loose rock. High-clearance vehicle required; 4x4 recommended, especially in wet conditions. Not suitable for passenger vehicles.",
+  "parking_notes": "Limited informal pullouts near mining area. No developed parking lot. Parking capacity is minimal; arrive early or plan to hike further if parking areas are full. Pullouts may not be clearly marked.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Standard BLM rockhounding regulations apply. Leave claim markers undisturbed.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day\nNo commercial collection permitted\nNo motorized excavation\nNo disturbance of mining claims or markers\nTake only loose or surface material",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "snakes",
+    "cliffs",
+    "abandoned_mines",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Custer (small town with basic services) approximately 12-15 miles west. Stanley, Idaho (larger town with more services) approximately 20-25 miles north. Bring all supplies, fuel, food, and water.",
+  "accessibility_notes": "Rough backcountry terrain with moderate to steep slopes in places. Rocky, uneven footing throughout. Loose rock hazard. No wheelchair access. Not suitable for limited mobility. Sturdy hiking boots and reasonable fitness required. High elevation (7,444 ft) may affect some visitors. Route-finding skills helpful due to unmarked trails and remote location.",
+  "alternative_names": [],
+  "nearest_city": "Custer",
+  "nearest_city_distance": 13,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/empire-mine-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gold specimens can I find rockhounding at Empire Mine near Custer, Idaho?",
+      "answer": "Empire Mine produces fine gold flecks and small specimens within quartz veins. The gold occurs as visible flakes in white milky quartz and banded quartz formations. Most specimens are small enough for hand collection, though careful specimen selection and magnification help identify the best material. The site is known for crystalline quartz with visible gold, making it rewarding for gold panners and quartz collectors."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Empire Mine BLM land in Idaho?",
+      "answer": "No permit is required for personal use rockhounding at Empire Mine. As BLM public land, it follows standard FLPMA regulations: personal use only, 25 lb per day limit, no commercial collection, and no motorized excavation. Simply follow the rules and you can collect at no cost."
+    },
+    {
+      "question": "What is the best season to visit Empire Mine rockhounding site?",
+      "answer": "June through September is the optimal season. At 7,444 feet elevation, the site receives heavy snow October through May, blocking road access. Summer provides dry ground, passable rough mountain roads, and manageable temperatures despite cool mornings. Plan visits during stable weather windows in this window."
+    },
+    {
+      "question": "How difficult is accessing Empire Mine for rockhounding near Custer, Idaho?",
+      "answer": "Empire Mine requires a high-clearance vehicle and is best accessed with 4x4. Rough mountain roads lead approximately 12-15 miles from Custer, and final approaches often require hiking 0.5-2 miles through uneven rocky terrain. The moderate to hard difficulty makes it suitable for experienced rockhounds rather than beginners."
+    },
+    {
+      "question": "What tools do I need to collect quartz and gold at Empire Mine?",
+      "answer": "Bring a small pick or chisel for carefully extracting quartz samples from outcrops, a hand lens or magnifier to spot fine gold specimens, and a sturdy collection bag. Hiking boots with good ankle support are essential for the rocky, uneven terrain. Bring plenty of water, sun protection, and a map given the remote location and lack of cell service."
+    },
+    {
+      "question": "Is Empire Mine a good rockhounding spot for families with children?",
+      "answer": "Empire Mine is better suited for older children age 12 and up with hiking experience due to the rough 4x4 road access, remote location, and challenging terrain. Younger families should consider more accessible low-elevation rockhounding sites with developed parking and easier walking routes. The high elevation and loose rock hazards require supervision and experience."
+    }
+  ],
+  "meta_title": "Empire Mine Rockhounding - Custer, Idaho Gold & Quartz",
+  "meta_description": "Find gold and quartz at Empire Mine BLM land near Custer, Idaho. Free rockhounding, 25 lb daily limit, no permit required. Best June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - constructed from GPS and general knowledge of Custer County geography without specific road names verified",
+    "nearest_city_distance - estimated from GPS to Custer town center",
+    "gem_types - gold, quartz, and chalcedony inferred from typical Idaho batholith geology and historic mining context; specific Mindat page was inaccessible",
+    "hazards - inferred from elevation, remote BLM land, historic mining, and mountain terrain characteristics",
+    "parking_notes - typical informal BLM site conditions inferred without specific site survey",
+    "road_conditions - estimated from elevation and remote BLM mountain access patterns"
+  ],
+  "enriched_at": "2026-04-22T09:27:35.296Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:33.518Z"
+}

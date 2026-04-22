@@ -1,0 +1,62 @@
+{
+  "slug": "siskiwit-lake-south-side-mi",
+  "name": "Siskiwit Lake (South Side)",
+  "lat": 47.988714,
+  "lng": -88.807382,
+  "state": "Michigan",
+  "state_slug": "michigan",
+  "state_code": "MI",
+  "city": "Eagle Harbor Township",
+  "city_slug": "eagle-harbor-township",
+  "county": "Keweenaw",
+  "county_slug": "keweenaw",
+  "geocoded_city": "Eagle Harbor Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-michigan.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Siskiwit%20Lake%20(South%20Side)%20Michigan"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": true,
+      "url": "https://rockhoundingmap.com/?s=Siskiwit%20Lake%20(South%20Side)",
+      "description_snippet": "Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Siskiwit%20Lake%20(South%20Side)%20Michigan"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[rockhounding_map] Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy"
+    ],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 657,
+      "meters": 200
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:42:15.759Z"
+  },
+  "scraped_at": "2026-04-21T16:42:15.759Z",
+  "scrape_quality": "partial"
+}

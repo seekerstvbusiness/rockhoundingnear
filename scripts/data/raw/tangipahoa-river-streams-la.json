@@ -1,0 +1,60 @@
+{
+  "slug": "tangipahoa-river-streams-la",
+  "name": "Tangipahoa River & Streams",
+  "lat": 30.724869,
+  "lng": -90.485298,
+  "state": "Louisiana",
+  "state_slug": "louisiana",
+  "state_code": "LA",
+  "city": "Tangipahoa Parish",
+  "city_slug": "tangipahoa-parish",
+  "county": "Tangipahoa",
+  "county_slug": "tangipahoa",
+  "geocoded_city": "Tangipahoa Parish",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-louisiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Tangipahoa%20River%20%26%20Streams%20Louisiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Tangipahoa%20River%20%26%20Streams",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Tangipahoa%20River%20%26%20Streams%20Louisiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 92,
+      "meters": 28
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:39:45.460Z"
+  },
+  "scraped_at": "2026-04-21T16:39:45.461Z",
+  "scrape_quality": "minimal"
+}

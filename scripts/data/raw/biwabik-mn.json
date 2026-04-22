@@ -1,0 +1,60 @@
+{
+  "slug": "biwabik-mn",
+  "name": "Biwabik",
+  "lat": 47.529383,
+  "lng": -92.366203,
+  "state": "Minnesota",
+  "state_slug": "minnesota",
+  "state_code": "MN",
+  "city": "Biwabik",
+  "city_slug": "biwabik",
+  "county": "Saint Louis",
+  "county_slug": "saint-louis",
+  "geocoded_city": "Biwabik",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-minnesota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Biwabik%20Minnesota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Biwabik",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Biwabik%20Minnesota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1375,
+      "meters": 419
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:03:12.051Z"
+  },
+  "scraped_at": "2026-04-21T18:03:12.051Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "mt-gilboa-nj",
+  "name": "Mt. Gilboa",
+  "lat": 40.389782,
+  "lng": -74.956193,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Delaware Township",
+  "city_slug": "delaware-township",
+  "county": "Hunterdon",
+  "county_slug": "hunterdon",
+  "geocoded_city": "Delaware Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mt.%20Gilboa%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mt.%20Gilboa",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mt.%20Gilboa%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 200,
+      "meters": 61
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:37:21.306Z"
+  },
+  "scraped_at": "2026-04-21T18:37:21.306Z",
+  "scrape_quality": "minimal"
+}

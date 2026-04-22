@@ -1,0 +1,98 @@
+{
+  "slug": "gravelly-range-mt",
+  "name": "Gravelly Range",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Madison County Area",
+  "city_slug": "madison-county",
+  "county": "Madison",
+  "county_slug": "madison",
+  "lat": 45.091683,
+  "lng": -111.856726,
+  "gem_types": [
+    "Quartz",
+    "Garnet",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "High-elevation rockhounding on public BLM land in the Gravelly Range. Search for quartz, garnet, and feldspar in gentle alpine terrain with no permits required.",
+  "description": "The Gravelly Range near Madison County offers accessible rockhounding on Bureau of Land Management (BLM) public land at 8,274 feet elevation. This location sits within Montana's broad mountain valleys where Precambrian metamorphic and granitic bedrock creates ideal conditions for collectors seeking quartz, garnet, feldspar, and mica specimens. The gentle slopes and open terrain make this site appealing to both beginners and experienced rockhounders looking to combine Alpine scenery with productive collecting.\n\nGeologically, the Gravelly Range is part of the Montana metamorphic core complex, where ancient granitic intrusions and metamorphosed sedimentary rocks have been exposed by millions of years of erosion. The granitic compositions of these mountains naturally host quartz crystals, garnet clusters, and feldspar crystals throughout the range. Seasonal snowmelt and freeze-thaw weathering break down rock outcrops and hillsides, exposing fresh mineral specimens each year.\n\nCollectors should focus on exposed granite outcrops, along seasonal drainages, and the edges of old talus slopes where gravity and water have concentrated heavier mineral specimens. The gentle slope terrain allows comfortable walking and exploration across wider areas than steeper mountain zones. This is excellent terrain for field geology study, where you can observe granite weathering in real time and understand how mineral crystals form in cooling magma.\n\nExpect cooler temperatures even in summer due to the high elevation, and prepare for rapid weather changes typical of alpine zones. The remoteness of the location and lack of developed infrastructure mean you should bring all supplies, water, and safety gear. The uncrowded nature of this BLM land means productive collecting without the pressure of commercial operations.",
+  "history": "The Gravelly Range formed during the Laramide Orogeny (80-55 million years ago) when tectonic compression uplifted Precambrian granite and metamorphic basement rocks to create this high mountain range. The exposed granitic plutons that form much of the range cooled slowly underground 70-80 million years ago, allowing well-developed quartz and feldspar crystals to crystallize - the same crystals rockhounders find today in weathered outcrops and talus deposits.",
+  "tips": "Search the edges of granite outcrops where weathering has begun to expose fresh quartz crystals and feldspar - these sites typically produce better specimens than heavily weathered surfaces. Garnet specimens are often found in the fine-grained metamorphic rocks on the range flanks; look along seasonal drainage bottoms where heavier minerals have concentrated. Bring a small pickaxe or pry bar to carefully extract specimens from deteriorating granite, and always collect only loose material or material that separates easily - do not hammer on solid bedrock. Early morning collecting in summer provides the best temperatures and clearest visibility of mineral sparkle in the Alpine granite.",
+  "terrain_notes": "The site sits at 8,274 feet elevation on gentle slopes characteristic of the upper Gravelly Range foothills. Terrain is predominantly open alpine meadow with scattered granite outcrops and talus fields. Walking is generally easy on short grass and lichen-covered rocks, though footing can be uneven due to scattered boulders and frost heave. No maintained trails exist; expect cross-country hiking through open terrain. Access roads are unpaved and may have washboard surface in summer months.",
+  "best_season": "June - September. Higher elevation (over 8,000 feet) means heavy snow from October through May blocks access and makes collecting impossible. Summer months provide snow-free terrain, moderate temperatures, and stable weather windows for extended field work.",
+  "written_directions": "From Madison, Montana, drive south on Montana State Highway 287 for approximately 22 miles toward West Yellowstone. Turn east onto Forest Road 1008 (or local BLM access road toward the Gravelly Range foothills - confirm current road numbers with Madison County BLM office). Continue east for 8-12 miles on unpaved road to reach the Gravelly Range slopes at higher elevation. Park in any turnout or wide area along the road. GPS coordinates 45.091683, -111.856726 mark the general collecting zone. Road conditions vary seasonally; contact BLM for current access status before traveling.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM roads with washboard surface. High clearance recommended. May be impassable or difficult in wet conditions or early summer snowmelt. Current conditions should be verified with Madison County BLM office before travel.",
+  "parking_notes": "Informal pullouts and wide areas along access road serve as parking. No developed parking lot exists. Park off the road to allow passage of other vehicles. Space for 4-6 vehicles at typical pull-off areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or heavy equipment. Collect only loose material or specimens that separate naturally from rock faces. Do not hammer on solid bedrock or destroy geological features. Pack out all waste.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nCollect only loose material\nNo damage to solid bedrock or geological features\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "remote",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Madison, Montana, approximately 25 miles west. Offers gas, food, lodging, and supplies. West Yellowstone, approximately 30 miles south, also provides full services.",
+  "accessibility_notes": "Moderate terrain with uneven footing due to scattered boulders, talus, and frost heave across alpine meadows. Gentle slopes make walking manageable for most hikers with moderate fitness. No wheelchair access or maintained trails. Sturdy hiking boots strongly recommended due to rocky terrain and potential for ankle-twisting uneven ground. The 8,274 ft elevation may cause mild altitude effects for visitors from lower elevations. No facilities at the site.",
+  "alternative_names": [],
+  "nearest_city": "Madison",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/gravelly-range-mt/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Gravelly Range near Madison County, Montana?",
+      "answer": "The Gravelly Range is known for quartz crystals, garnets, feldspar, and mica specimens. Collectors typically find the best quartz specimens near exposed granite outcrops, while garnets concentrate in metamorphic rocks along drainage bottoms. Feldspar crystals are abundant throughout the granitic bedrock and often visible in broken rock faces."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Gravelly Range BLM land?",
+      "answer": "No permit is required for recreational rockhounding on this BLM land. You can collect under the FLPMA personal use exemption, which allows up to 25 lbs per day at no cost. However, you must follow all collection rules including no motorized excavation and no damage to bedrock or geological features."
+    },
+    {
+      "question": "What is the best season for rockhounding at Gravelly Range in Montana?",
+      "answer": "June through September is the optimal collecting season at this 8,274 foot elevation location. Heavy snow blocks access from October through May. Summer months provide snow-free terrain, moderate temperatures, and stable weather windows for field work, though afternoon thunderstorms are possible in July and August."
+    },
+    {
+      "question": "How difficult is the terrain for rockhounding at Gravelly Range?",
+      "answer": "The Gravelly Range offers moderate difficulty terrain with gentle slopes and open alpine meadow. Walking is generally easy on short grass, but uneven footing from scattered boulders and frost heave requires sturdy boots and moderate fitness. No maintained trails exist, so expect cross-country hiking through open terrain. The high elevation (8,274 feet) may affect visitors from lower areas."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Gravelly Range near Madison?",
+      "answer": "Bring a small pickaxe or pry bar to extract specimens from deteriorating granite, a collection bag, water (at least 2-3 liters), sun protection, and a map. Due to the remote location and lack of facilities, also carry emergency supplies, a first aid kit, and communication device. Sturdy hiking boots are essential on the rocky, uneven terrain. Always bring all needed supplies from town."
+    },
+    {
+      "question": "Is Gravelly Range rockhounding suitable for beginners and families?",
+      "answer": "Yes, Gravelly Range is beginner-friendly with accessible terrain, no permits required, and abundant visible minerals in granite outcrops. The open alpine landscape makes orientation easy, and the gentle slopes accommodate families with children age 8 and up. Start by searching granite outcrops where quartz and feldspar sparkle in sunlight - these are easy to spot and collect as loose pieces."
+    }
+  ],
+  "meta_title": "Gravelly Range Rockhounding - Montana BLM",
+  "meta_description": "Find quartz, garnet, and feldspar at Gravelly Range, Montana on public BLM land. No permit needed, 25 lb daily limit. Alpine collecting June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from granitic geology and metamorphic bedrock of Gravelly Range; specific local collecting data not sourced",
+    "cell_service - estimated as spotty based on remote mountain location; not verified",
+    "nearest_city_distance - estimated as 25 miles from Madison based on GPS coordinates and road network knowledge",
+    "road_conditions - described based on typical Montana BLM access road conditions; specific road number and current status should be verified with Madison County BLM",
+    "hazards - cold and weather included due to 8,274 ft elevation and alpine exposure; wildlife typical for Montana mountains"
+  ],
+  "enriched_at": "2026-04-21T19:07:30.585Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:40.933Z"
+}

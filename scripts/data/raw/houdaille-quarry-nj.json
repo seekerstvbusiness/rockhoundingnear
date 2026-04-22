@@ -1,0 +1,60 @@
+{
+  "slug": "houdaille-quarry-nj",
+  "name": "Houdaille Quarry",
+  "lat": 40.710012,
+  "lng": -74.334787,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Springfield",
+  "city_slug": "springfield",
+  "county": "Union",
+  "county_slug": "union",
+  "geocoded_city": "Springfield",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Houdaille%20Quarry%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Houdaille%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Houdaille%20Quarry%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 267,
+      "meters": 81
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:26:47.418Z"
+  },
+  "scraped_at": "2026-04-21T18:26:47.418Z",
+  "scrape_quality": "minimal"
+}

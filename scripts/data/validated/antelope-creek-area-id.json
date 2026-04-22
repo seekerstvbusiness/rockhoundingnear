@@ -1,0 +1,101 @@
+{
+  "slug": "antelope-creek-area-id",
+  "name": "Antelope Creek area",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Butte County Area",
+  "city_slug": "butte-county",
+  "county": "Butte",
+  "county_slug": "butte",
+  "lat": 43.69991,
+  "lng": -113.569408,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM rockhounding site in central Idaho's mountains featuring quartz and agate specimens. Free public land collection with 25 lb daily limit.",
+  "description": "Antelope Creek area sits within central Idaho's high desert geology, where Tertiary volcanic activity and hydrothermal alteration created abundant quartz-rich formations. This BLM land provides excellent opportunities for recreational rockhounders seeking quality specimens without fees or permits. The gentle slopes and moderate elevation make exploration manageable for most collectors, though the remote location requires preparation and self-reliance.\n\nThe geological setting here reflects Idaho's Basin and Range province characteristics, where Miocene-age volcanic deposits contain pockets of crystalline quartz, banded agate, and chalcedony-rich material. Erosion over millennia has exposed these formations along creek drainages and hillsides, creating accessible collecting areas. Specimens here typically show good color variation and banding patterns typical of high-elevation agate deposits.\n\nExpect rugged but navigable terrain with scattered outcrops and erosional gullies revealing fresh material. The creek drainage system provides natural pathways for exploration, and the gentle overall slope reduces scrambling difficulty. Success depends on thorough searching of exposed banks and hillside faces where weathering has loosened specimens.\n\nAs public BLM land, this area follows standard personal-use collection rules: no fees, no permits, and a 25 lb daily limit per person. The remote setting means no services nearby, so bring all water, supplies, and first aid. Cell service is unreliable at this elevation and location, making a GPS unit and map essential safety items.",
+  "history": "The Antelope Creek area lies within Idaho's Snake River Plain and high desert transition zone, where Tertiary-age volcanic episodes between 50 and 5 million years ago deposited silica-rich volcanic rocks and ash flows. Subsequent hydrothermal alteration along fracture zones enriched these rocks with quartz, agate, and chalcedony - minerals that concentrate during the cooling of hot, mineral-saturated groundwater. The gentle slopes and creek erosion continuously expose fresh material from these ancient thermal systems.",
+  "tips": "Search the banks and terraces along Antelope Creek itself, where water erosion exposes cross-sections of agate-bearing formations - look for banded or multicolored pieces weathering free from clay-rich matrix. Focus on south-facing slopes where sun exposure enhances weathering; specimens often appear as rounded nodules or fragments in erosional gullies and washes. Bring a small crack hammer or pry bar to carefully extract specimens from softer host rock, and use a 5-gallon bucket to test weight as you collect to avoid exceeding the 25 lb daily limit. Early morning collecting before afternoon thunderstorm season (common June-August) is safer and provides better visibility of color in fresh material.",
+  "terrain_notes": "Elevation 6033 feet with gentle overall slope, reducing scrambling difficulty compared to steeper mountain terrain. Terrain consists of exposed volcanic bedrock, scattered sage vegetation, and eroded gullies - footing is generally stable but loose scree and sharp volcanic material require sturdy boots. Walking distances from parking to productive areas typically range from 0.5 to 2 miles depending on creek access points. No formal trails; navigation relies on terrain reading and GPS.",
+  "best_season": "June - September. Higher elevation (6000+ ft) means heavy snow blocks access October-May. Summer months provide clear, dry conditions ideal for hiking and specimen visibility. July-August afternoons bring afternoon thunderstorms, so plan early starts. Late June and early September offer fewer crowds and slightly cooler temperatures.",
+  "written_directions": "From Arco, Idaho (nearest major town, approximately 50 miles south), take US 93 north toward Stanley. Continue past Challis approximately 30 miles north on US 93. Turn east onto Forest Road 447 (or alternate BLM access roads in Butte County area) toward Antelope Creek drainage. Follow rough dirt roads for approximately 10-15 miles east, navigating through high desert terrain. GPS coordinates 43.69991, -113.569408 mark the general area; use topographic map and GPS unit as roads are primitive and not always well marked. High-clearance vehicle recommended for final approach.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough unimproved dirt roads with possible washboard surfaces. High-clearance vehicle recommended. Final miles may have loose rock and ruts. Road quality varies seasonally; summer best for access.",
+  "parking_notes": "Informal pullouts or parking areas along forest roads. No developed parking lot. Space limited; expect to park at roadside clearing near creek access points. Plan to walk from parking to collecting areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection. No motorized excavation. Collect only loose specimens or those easily removed by hand tools. Do not blast, dynamite, or use heavy equipment. Pack out all trash. Respect natural features and do not deface rock outcrops. BLM land regulations supersede any local restrictions.",
+  "quantity_limits": "25 lbs per day per person",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo blasting or heavy equipment\nPack out all trash\nCollect only loose material or easily hand-extracted specimens\nRespect natural features - do not deface outcrops",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "wildlife",
+    "remote",
+    "cold",
+    "heat",
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Arco, Idaho approximately 50 miles south - gas, food, and lodging available. Challis, Idaho approximately 30 miles south - smaller services. No facilities near the collecting site itself.",
+  "accessibility_notes": "Uneven volcanic terrain with loose rock and scattered sharp material require sturdy hiking boots. Gentle slopes reduce scrambling difficulty compared to steeper sites, but footing is uneven throughout creek drainages and hillsides. No wheelchair access. Walking distances 0.5-2 miles from parking to productive areas. Not suitable for those with limited mobility or balance issues.",
+  "alternative_names": [],
+  "nearest_city": "Arco",
+  "nearest_city_distance": 50,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/antelope-creek-area-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/antelope-creek-area-id/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding at Antelope Creek area in Idaho?",
+      "answer": "Antelope Creek produces quality quartz, agate, chalcedony, and jasper specimens. The agate here displays excellent banding and color variation due to Tertiary volcanic hydrothermal alteration. Most specimens are found as loose nodules or fragments in creek erosion zones and hillside gullies."
+    },
+    {
+      "question": "Is there a permit or fee required to rockhound at Antelope Creek, Idaho?",
+      "answer": "No permit or fee is required - Antelope Creek area is BLM public land open for free recreational collection. You must follow personal-use rules: 25 lbs maximum per day per person, no commercial collection, and no motorized excavation."
+    },
+    {
+      "question": "How far is Antelope Creek area from civilization and where can I get supplies?",
+      "answer": "Antelope Creek is very remote, approximately 50 miles from Arco and 30 miles north of Challis, Idaho. There are no facilities at the site - bring all water, food, and supplies from Arco or Challis before heading out. Cell service is spotty, so carry a GPS unit and paper map."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Antelope Creek, Idaho?",
+      "answer": "June through September is ideal. The high elevation (6033 ft) receives heavy snow October-May, blocking vehicle access. Summer provides clear, dry conditions, though late afternoon thunderstorms are common July-August. Plan early starts to avoid storms."
+    },
+    {
+      "question": "Is Antelope Creek area suitable for beginner rockhounders and families with children?",
+      "answer": "Yes, Antelope Creek is beginner-friendly. The gentle slopes and accessible geology make it good for kids ages 8 and up. The main challenge is the remote location and rough road access, which requires a high-clearance vehicle and self-reliance. Families should bring plenty of water, first aid supplies, and a GPS unit."
+    },
+    {
+      "question": "What tools and equipment do I need to collect at Antelope Creek, Idaho?",
+      "answer": "Bring a small crack hammer or pry bar for extracting specimens, sturdy hiking boots rated for rocky terrain, a 5-gallon bucket to track weight (25 lb limit), water, map, GPS unit, and first aid kit. The remote location means bringing all your own supplies. Sharp volcanic rock makes gloves recommended. A backpack helps carry specimens and water."
+    }
+  ],
+  "meta_title": "Antelope Creek Rockhounding - Idaho BLM",
+  "meta_description": "Free BLM rockhounding near Arco, Idaho. Find quartz, agate, and chalcedony. No permit needed. 25 lb daily limit. Remote high-desert site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T09:50:06.606Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:38.408Z"
+}

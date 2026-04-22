@@ -1,0 +1,99 @@
+{
+  "slug": "carson-city-nv",
+  "name": "Carson City",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Carson City",
+  "city_slug": "carson-city",
+  "county": "Carson City",
+  "county_slug": "carson-city",
+  "lat": 39.117446,
+  "lng": -119.674696,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Chalcedony",
+    "Obsidian"
+  ],
+  "short_description": "BLM public land near Nevada's capital city offers accessible rockhounding for quartz, jasper, and chalcedony with no permits required. Moderate elevation terrain yields quality specimens year-round.",
+  "description": "Carson City BLM lands provide excellent opportunities for recreational rockhounding just outside Nevada's capital. This high desert location sits at nearly 6000 feet elevation, offering cooler temperatures than lower desert regions while maintaining good collecting conditions. The area's volcanic and alluvial geology produces abundant quartz varieties, jasper specimens, and chalcedony formations that appeal to both beginners and experienced rockhounds.\n\nThe location benefits from the Carson Range's geological complexity, where Miocene-era volcanic activity and basin-and-range extension created favorable conditions for silica-rich mineral deposition. Weathering and erosion have exposed quality specimens across BLM-managed washes and hillsides accessible within reasonable hiking distances from parking areas.\n\nCollecting here requires no permit and follows standard BLM personal-use guidelines: maximum 25 pounds per day, no commercial operations, and no motorized excavation. This makes Carson City an ideal location for casual family outings, weekend rockhounding trips, and specimen-building without the fees associated with commercial dig sites.\n\nThe moderate slopes and stable terrain make this suitable for families with children and those new to rockhounding. Specimens range from small handheld pieces to larger chunks suitable for lapidary work. The proximity to town means you can combine rockhounding with supplies, meals, and restocking without extensive travel.",
+  "history": "This area sits within the Carson Range, formed by Miocene-era volcanic activity and basin-and-range extension that created favorable hydrothermal conditions for silica mineral deposition. Early Nevada settlers and miners recognized the region's mineral potential, and while large-scale mining operations focused on precious metals and ore deposits elsewhere in Nevada, the accessible quartz and chalcedony deposits here have attracted recreational rockhounders for decades.",
+  "tips": "Search washes and stream beds where water erosion has exposed fresh material and concentrated heavier specimens. Focus on hillsides with exposed volcanic rock outcrops where jasper and chalcedony weather out naturally. Bring a jeweler's loupe to inspect specimens for color quality and clarity before collecting. Use a small hammer and chisel for extracting pieces from outcrop; look for specimens with translucent windows or banding patterns that indicate higher quality.",
+  "terrain_notes": "Moderate slopes with high desert scrub vegetation typical of 6000-foot Nevada elevations. Terrain is rocky but generally stable underfoot with some loose talus. Walking distances from parking vary from less than a mile to several miles into BLM land. Footing requires sturdy hiking boots due to volcanic rock fragments and sharp edges. Exposed hillsides and washes offer the best collecting zones. No developed trails; cross-country hiking required to reach productive areas.",
+  "best_season": "October - April. Late fall through early spring provides cooler temperatures ideal for extended rockhounding sessions at nearly 6000 feet elevation. Winter snowfall is light but possible; check road conditions before heading out. Summer afternoons can exceed 85 degrees Fahrenheit, making midday collecting uncomfortable. Spring (March-April) offers warming weather and good access conditions.",
+  "written_directions": "From downtown Carson City, head east on US 50 (US Highway 50) toward South Lake Tahoe for approximately 3-4 miles. Look for BLM access points and pullouts on the north side of the highway near the Carson Range foothills. Popular collecting areas lie along secondary roads branching north from US 50 toward the range. Consult current BLM maps available at the Carson City BLM Field Office (1300 North Roop Street, Carson City, NV 89706) for specific access point details and seasonal closures.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US Highway 50 is paved and well-maintained year-round. Access roads to BLM land vary from paved to dirt; most require standard passenger vehicle with good ground clearance. Some secondary roads may have washboard or ruts after heavy rain. Check conditions before traveling in winter or immediately after storms.",
+  "parking_notes": "Multiple pullouts and informal parking areas along US 50 and access roads. No developed parking facilities; most are simple gravel or dirt pullouts with capacity for 3-8 vehicles. Arrive early on weekends to secure a spot.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection or resale. No motorized excavation or mechanical removal. All collecting must be non-destructive to landscape and habitat. Check with Carson City BLM Field Office for any seasonal closures or area-specific restrictions before visiting.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNon-destructive collecting methods only\nCheck for seasonal closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Carson City has full services including gas stations, grocery stores, restaurants, and equipment shops within 3-5 miles of BLM access points. The city center is approximately 4-6 miles from most productive collecting areas.",
+  "accessibility_notes": "Relatively flat to moderately sloping terrain accessible to most hikers with reasonable fitness. Unpaved access roads to parking pullouts are passable by standard vehicles. Hiking distances to productive areas range from under a mile to 2-3 miles. Footing is rocky with volcanic stone fragments; sturdy hiking boots essential. Not suitable for wheelchair access due to terrain and parking conditions. No formal trails; cross-country hiking required.",
+  "alternative_names": [
+    "Carson Range BLM",
+    "Carson City BLM Land"
+  ],
+  "nearest_city": "Carson City",
+  "nearest_city_distance": 4,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/carson-city-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Carson City, Nevada?",
+      "answer": "The Carson City BLM area is known for quartz varieties, jasper, chalcedony, and obsidian. You may encounter clear quartz, milky quartz, and colored jasper specimens, particularly in washes and volcanic outcrops. Many specimens are suitable for collectors or lapidary work."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Carson City?",
+      "answer": "No permit is required for recreational rockhounding on Carson City BLM lands. You can collect free of charge following standard personal-use guidelines: maximum 25 pounds per day and no commercial activity. Simply visit the Carson City BLM Field Office at 1300 North Roop Street for current area maps and any seasonal restrictions."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Carson City, Nevada?",
+      "answer": "October through April is ideal for Carson City rockhounding. The high elevation (nearly 6000 feet) keeps temperatures moderate in fall and spring, and winter weather is generally mild. Summer afternoons exceed 85 degrees, making extended collecting uncomfortable. March through April offers warming weather with excellent access conditions."
+    },
+    {
+      "question": "Is rockhounding near Carson City family-friendly for kids and beginners?",
+      "answer": "Yes, Carson City BLM land is excellent for families and beginners. The moderate terrain requires only basic hiking, access is close to town, and no permits or fees are needed. Kids as young as 6 can enjoy collecting with proper supervision. The abundance of accessible specimens and short walking distances make it ideal for introducing children to rockhounding."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Carson City?",
+      "answer": "A jeweler's loupe, small hammer, and chisel are essential for inspecting and extracting specimens. Bring sturdy hiking boots for rocky terrain, a day pack with water, sun protection, and a collection bag. A geological hammer (3-5 lbs) works better than household tools. Don't exceed 25 pounds in collected material per day."
+    },
+    {
+      "question": "How far is Carson City rockhounding from Las Vegas, and can I find quality specimens?",
+      "answer": "Carson City is approximately 110 miles northwest of Las Vegas, about a 2-hour drive via US 395 and US 50. Quality quartz, jasper, and chalcedony specimens are consistently found here. The area offers better accessibility and cooler temperatures than lower desert sites around Las Vegas, making it a preferred weekend destination for northern Nevada rockhounders."
+    }
+  ],
+  "meta_title": "Carson City Rockhounding - BLM Quartz & Jasper",
+  "meta_description": "Free rockhounding near Carson City, Nevada. Find quartz, jasper, and chalcedony on BLM land. No permit required, family-friendly, open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "county",
+    "specific_access_roads",
+    "parking_capacity",
+    "road_conditions_detail"
+  ],
+  "enriched_at": "2026-04-22T09:27:30.249Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:28:33.862Z"
+}

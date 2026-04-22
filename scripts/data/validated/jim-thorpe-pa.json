@@ -1,0 +1,99 @@
+{
+  "slug": "jim-thorpe-pa",
+  "name": "Jim Thorpe",
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "city": "Nesquehoning",
+  "city_slug": "nesquehoning",
+  "county": "Carbon",
+  "county_slug": "carbon",
+  "lat": 40.872908,
+  "lng": -75.768816,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Feldspar"
+  ],
+  "short_description": "Historic mining town in the Lehigh Valley with access to anthracite-era tailings and stream beds producing quartz, jasper, and feldspar specimens. Gentle terrain makes this beginner-friendly.",
+  "description": "Jim Thorpe, named after the legendary Olympian who is buried here, sits in Pennsylvania's anthracite coal region where extensive mining reshaped both the landscape and mineral exposure. The surrounding Carbon County area features Paleozoic sedimentary and metamorphic rocks tilted by the Appalachian orogeny, creating accessible outcrops and stream deposits along the Lehigh River system. Rockhounds visit the Jim Thorpe area to collect from old mining tailings, stream washes, and naturally exposed ridges where quartz veins, jasper specimens, and feldspar crystals emerge from weathered rock. The gentle slopes and relatively low elevation make this an ideal destination for families and beginning collectors who want to explore Appalachian geology without extreme terrain challenges. The historic charm of the town and proximity to hiking trails add appeal beyond just the rockhounding experience.\n\nThe local geology reflects the Appalachian fold-and-thrust belt where Ordovician through Carboniferous rocks were compressed and metamorphosed. Quartz veins are abundant here due to silica precipitation in fracture zones during regional metamorphism. Jasper occurs as replacement deposits and in ironstone layers, while feldspar is common in the metamorphic gneisses and schists that underlie the region. Stream action along the Lehigh River and smaller tributaries has sorted and polished specimens over millennia, making them easier to spot.\n\nBest collecting occurs in dry to moderate water conditions when stream beds are accessible but not flooded. Spring and fall offer ideal weather for outdoor searching. The area has both public access points along certain stream sections and private property, so research access carefully before visiting. Many rockhounders combine a trip here with visiting the town's museums and historic sites, making it a full day outing.",
+  "history": "This region experienced intense anthracite coal mining from the 1820s through the 1950s, which exposed fresh rock faces and created massive tailings piles that have weathered over decades to reveal mineral specimens. The underlying geology consists of Appalachian metamorphic rocks formed during the Paleozoic orogeny when African and North American plate collision compressed marine sediments and volcanic rocks into gneiss, schist, and quartzite, creating the quartz veins and feldspar-rich zones that rockhounders seek today.",
+  "tips": "Search along the Lehigh River banks and tributary washes during low water conditions - these areas concentrate heavier quartz and jasper specimens. Use a crack-and-chisel or pry bar to carefully extract specimens from in-situ outcrops rather than just collecting tumbled rocks from the stream bed. Look for cream to tan colored jasper with iron oxide banding, clear to milky quartz points, and orthoclase feldspar with visible striations in the weathered gray-green metamorphic rocks. Bring a hand lens to identify feldspar feldspars versus common quartz, as the region's rocks are mineral-rich but distinguishing features matter for quality specimens.",
+  "terrain_notes": "Elevation around 587 feet with gentle slopes throughout the collecting areas. Mixed deciduous forest with scattered exposed rock outcrops and stream access. Walking distance from parking areas typically 100-500 feet to productive collecting spots. Footing is variable - some areas have packed earth trails, others feature rocky stream beds requiring sturdy footwear. No wheelchair accessible collecting areas, though viewing areas exist near town.",
+  "best_season": "April - June and September - November. Spring and fall weather is mild for outdoor work, and moderate rainfall ensures stream beds are accessible without being dangerously flooded. Summer heat and humidity can be uncomfortable at lower elevation. Winter snow and ice can make stream access hazardous, though occasional winter collecting is possible during dry spells.",
+  "written_directions": "From Nesquehoning, take PA-209 south toward Jim Thorpe for approximately 2 miles. Enter the town center and look for public parking near the Lehigh River overlook or municipal lots. For stream access, continue on local roads following the Lehigh River; River Road runs parallel to productive collecting sections. Parking pullouts exist near bridge crossings. Always verify current access permissions with local authorities or private landowners before collecting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "state_park",
+  "vehicle_required": "passenger",
+  "road_conditions": "PA-209 is a well-maintained state route. Local roads to river access are paved or packed gravel. No high clearance needed for standard vehicles.",
+  "parking_notes": "Municipal parking available in Jim Thorpe town center near the river. Pullouts along River Road near bridge crossings. Limited parking at some trailhead access points. Arrive early on weekends.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collection is permitted on publicly accessible stream beds and designated rockhounding areas in Jim Thorpe. Do not collect on private property without permission. Do not remove specimens from protected historic areas or the boundaries of state parks without authorization. Respect posted no-collection zones and existing mining heritage sites. Keep noise levels low and do not damage surrounding vegetation or established trails.",
+  "quantity_limits": null,
+  "rules": "Collect from public areas only\nNo commercial or bulk collection\nNo powered equipment or excavation\nRespect private property boundaries\nDo not damage historic structures or marked sites\nFollow Leave No Trace principles",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "cold",
+    "flash_floods"
+  ],
+  "nearest_services": "Nesquehoning, 2 miles north - groceries, gas, restaurants. Jim Thorpe town center - dining and lodging. Allentown regional hospital, 15 miles south.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes suitable for most fitness levels. Stream bed access requires walking over uneven rocky footing and navigating wet surfaces. No wheelchair-accessible collecting areas, but overlook viewing points near parking are accessible. Sturdy waterproof boots recommended. Stream crossings may be necessary depending on route chosen.",
+  "alternative_names": [],
+  "nearest_city": "Nesquehoning",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/pennsylvania/jim-thorpe-pa/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/pennsylvania/jim-thorpe-pa/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Jim Thorpe, Pennsylvania?",
+      "answer": "The Jim Thorpe area yields quartz crystals, jasper with iron oxide banding, and feldspar specimens from the region's metamorphic bedrock and stream deposits. The Appalachian geology here exposes abundant silica-rich minerals in accessible stream beds and along gentle hillsides, making quality finds achievable for beginners."
+    },
+    {
+      "question": "Is rockhounding free at Jim Thorpe, Pennsylvania?",
+      "answer": "Yes, rockhounding at Jim Thorpe is free. There are no fees for collecting along public stream beds and designated accessible areas. Always verify current access by contacting local authorities or visiting the Jim Thorpe visitor center before heading out, as some sections may be privately owned."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Jim Thorpe?",
+      "answer": "The best rockhounding season at Jim Thorpe is April through June and September through November. Spring and fall offer mild weather, moderate stream flows that keep beds accessible, and comfortable temperatures for outdoor collecting. Summer can be hot and humid at this lower elevation, while winter snow and flooding make access difficult."
+    },
+    {
+      "question": "Do I need a permit to collect rocks and minerals at Jim Thorpe, Pennsylvania?",
+      "answer": "No permit is required for casual rockhounding at Jim Thorpe. However, always confirm that you are collecting from public-access areas or with explicit permission from private landowners. Avoid posted no-collection zones and respect the boundaries of historic mining sites and state park lands."
+    },
+    {
+      "question": "Is Jim Thorpe rockhounding beginner-friendly?",
+      "answer": "Yes, Jim Thorpe is excellent for beginning rockhounders. The terrain features gentle slopes, accessible stream beds with clear water, and abundant specimens visible on the surface. Specimens like quartz and jasper are easy to identify, and the mild elevation makes the outing comfortable for families and inexperienced collectors."
+    },
+    {
+      "question": "What tools should I bring for rockhounding at Jim Thorpe?",
+      "answer": "Bring a hand lens or small magnifying glass to distinguish feldspar from quartz, a small crack-and-chisel or pry bar for extracting in-situ specimens, sturdy waterproof boots for stream bed walking, and a small collection bag. A basic geology field guide to Pennsylvania minerals will help identify species and improve your knowledge of the local metamorphic rock formations."
+    }
+  ],
+  "meta_title": "Jim Thorpe Rockhounding - Pennsylvania",
+  "meta_description": "Find quartz, jasper, and feldspar at Jim Thorpe, PA. Free public rockhounding on gentle terrain near the Lehigh River. Beginner-friendly collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "collection_rules",
+    "permit_required",
+    "fee_amount"
+  ],
+  "enriched_at": "2026-04-21T19:00:38.865Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:02:56.785Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "republican-river-ne",
+  "name": "Republican River",
+  "lat": 40.187797,
+  "lng": -100.577054,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Red Willow County",
+  "city_slug": "red-willow-county",
+  "county": "Red Willow",
+  "county_slug": "red-willow",
+  "geocoded_city": "Red Willow County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Republican%20River%20Nebraska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Republican%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Republican%20River%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2447,
+      "meters": 746
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:01:18.519Z"
+  },
+  "scraped_at": "2026-04-21T17:01:18.519Z",
+  "scrape_quality": "minimal"
+}

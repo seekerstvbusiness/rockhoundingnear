@@ -1,0 +1,90 @@
+{
+  "slug": "area-around-diamond-point-lookout-az",
+  "name": "Area around Diamond Point Lookout",
+  "lat": 34.286385,
+  "lng": -111.193486,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/area-around-diamond-point-lookout"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Area%20around%20Diamond%20Point%20Lookout%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Area%20around%20Diamond%20Point%20Lookout",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Area%20around%20Diamond%20Point%20Lookout%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 6047,
+      "meters": 1843
+    },
+    "slope": "steep terrain",
+    "nearest_city": {
+      "name": "Fountain Hills",
+      "distance_mi": 55,
+      "population": 23435
+    },
+    "roads": [
+      {
+        "name": "Payson-Show Low Highway",
+        "ref": "AZ 260",
+        "type": "trunk",
+        "dist": 3.8
+      },
+      {
+        "name": "Payson-Show Low Highway",
+        "ref": "AZ 260",
+        "type": "trunk",
+        "dist": 4
+      },
+      {
+        "name": "North Beeline Highway",
+        "ref": "AZ 87;AZ 260",
+        "type": "primary",
+        "dist": 7.5
+      },
+      {
+        "name": "North Beeline Highway",
+        "ref": "AZ 87;AZ 260",
+        "type": "primary",
+        "dist": 8
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T17:13:19.995Z"
+  },
+  "scraped_at": "2026-04-20T17:13:19.995Z",
+  "scrape_quality": "partial"
+}

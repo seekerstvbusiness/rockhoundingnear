@@ -1,0 +1,60 @@
+{
+  "slug": "mount-jasper-nh",
+  "name": "Mount Jasper",
+  "lat": 44.485176,
+  "lng": -71.193363,
+  "state": "New Hampshire",
+  "state_slug": "new-hampshire",
+  "state_code": "NH",
+  "city": "Berlin",
+  "city_slug": "berlin",
+  "county": "Coös",
+  "county_slug": "co-s",
+  "geocoded_city": "Berlin",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-hampshire.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mount%20Jasper%20New%20Hampshire"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mount%20Jasper",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mount%20Jasper%20New%20Hampshire"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1269,
+      "meters": 387
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:25:13.503Z"
+  },
+  "scraped_at": "2026-04-21T17:25:13.503Z",
+  "scrape_quality": "minimal"
+}

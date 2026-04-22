@@ -1,0 +1,60 @@
+{
+  "slug": "warm-springs-ga",
+  "name": "Warm Springs",
+  "lat": 32.88667,
+  "lng": -84.661525,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Meriwether County",
+  "city_slug": "meriwether-county",
+  "county": "Meriwether",
+  "county_slug": "meriwether",
+  "geocoded_city": "Meriwether County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Warm%20Springs%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Warm%20Springs",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Warm%20Springs%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 831,
+      "meters": 253
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:10:58.529Z"
+  },
+  "scraped_at": "2026-04-21T19:10:58.530Z",
+  "scrape_quality": "minimal"
+}

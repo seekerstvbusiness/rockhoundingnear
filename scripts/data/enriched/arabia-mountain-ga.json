@@ -1,0 +1,98 @@
+{
+  "slug": "arabia-mountain-ga",
+  "name": "Arabia Mountain",
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "city": "Stonecrest",
+  "city_slug": "stonecrest",
+  "county": "DeKalb",
+  "county_slug": "dekalb",
+  "lat": 33.686507,
+  "lng": -84.109927,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Public rockhounding at Arabia Mountain Regional Park near Atlanta. Search for quartz, feldspar, and mica on exposed granite outcrops and hiking trails.",
+  "description": "Arabia Mountain is a 888-acre park featuring one of the largest exposed granite domes in the southeastern United States. The mountain rises 934 feet and offers excellent rockhounding opportunities on public trails where visitors can examine and collect small mineral specimens from natural rock exposures.\n\nThe site is part of the Arabia Mountain National Heritage Area, featuring distinctive pink granite with visible feldspar crystals and quartz inclusions. The flat to gently rolling terrain makes the park accessible for families and beginners. Multiple trails wind around the granite outcrops, providing excellent views and numerous spots to examine mineral compositions.\n\nGeologically, Arabia Mountain is a Precambrian granite batholith exposed by millions of years of erosion. The pink color comes from orthoclase feldspar, while quartz and mica are visible throughout the outcrop. The weathered granite surface shows natural breakdown patterns ideal for observing crystalline minerals without intensive digging.\n\nRockhounding here focuses on observation and collecting small loose material and mineral fragments rather than active extraction. The park's preservation status means heavy tools and aggressive collection are prohibited. Visitors enjoy learning to identify minerals in situ on one of Georgia's most geologically significant features.\n\nBest results come in spring and fall when weather is mild and the trails are most comfortable for extended exploring. The site welcomes both casual visitors and serious rockhounders interested in Georgia's Piedmont geology.",
+  "history": "Arabia Mountain is a 300-million-year-old Precambrian granite batholith formed during the Alleghenian orogeny when Africa collided with North America. The mountain's pink granite dome has been exposed through millions of years of erosion, creating one of the Southeast's most prominent granite outcrops and an important site for understanding Piedmont geology.",
+  "tips": "Walk the main summit trail to view the largest exposed granite face where feldspar crystals are most visible. Look for loose quartz pebbles and mica flakes along the trail bed and weathered granite surface rather than attempting to extract from solid rock. Bring a hand lens or magnifying glass to identify feldspar (pink), quartz (clear to white), and mica (reflective sheets) on weathered granite faces. Early morning light on the eastern exposures best reveals crystal structure and mineral composition.",
+  "terrain_notes": "Elevation 934 feet with mostly flat to gentle slopes. Exposed granite dome with minimal vegetation on upper sections. Well-maintained hiking trails wind around the mountain. Granite outcrops create uneven rocky footing in many areas. Parking area to main trail entrance is approximately 0.3 miles on paved pathway. Sturdy footwear recommended due to rocky terrain.",
+  "best_season": "March - May, September - November. Spring and fall offer comfortable temperatures for exploring granite trails. Summer heat can make extended rockhounding uncomfortable. Winter is possible but occasional ice on rock surfaces creates slipping hazard.",
+  "written_directions": "From Stonecrest, take I-285 east toward Conyers. Exit onto Klondike Road heading southeast for approximately 4 miles. Turn left onto Mountain Road and continue for 1.5 miles to the Arabia Mountain Regional Park entrance. Follow park signs to main parking area near the visitor center.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "state_park",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved roads to park entrance. Well-maintained park roads. Standard passenger vehicle access throughout.",
+  "parking_notes": "Large paved parking lot at main entrance with restroom facilities. Adequate capacity for weekend visitors. Multiple smaller parking areas along the perimeter provide alternative access points.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Park rules prohibit removal of materials from solid rock or use of tools to excavate. Collection limited to loose rock fragments and mineral pieces naturally separated from the granite. No commercial collection. Personal use only. Keep disturbance to trails and designated areas minimal.",
+  "quantity_limits": null,
+  "rules": "No commercial collection\nPersonal use only\nNo tools or heavy equipment\nNo extraction from solid rock\nStay on designated trails\nRemove only naturally loose material",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Stonecrest, approximately 3 miles. Gas, restaurants, and grocery stores available. Visitor center at park entrance has water and restrooms.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Well-maintained paved and gravel trails. Uneven rocky surface on granite outcrops requires sturdy footwear. No wheelchair access to upper mountain areas, but lower trail sections and visitor center are accessible. Short walks from parking to main granite exposures.",
+  "alternative_names": [
+    "Arabia Mountain Regional Park",
+    "Arabia Mountain National Heritage Area"
+  ],
+  "nearest_city": "Stonecrest",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/georgia/arabia-mountain-ga/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What minerals can you find rockhounding at Arabia Mountain in Georgia?",
+      "answer": "Arabia Mountain features pink granite with visible orthoclase feldspar crystals, quartz in white and clear forms, and mica sheets. Visitors typically find small loose mineral fragments and pebbles rather than large specimens. The granite outcrops display these minerals clearly, making the site excellent for mineral identification and learning about Piedmont geology."
+    },
+    {
+      "question": "Is there a fee to rockhound at Arabia Mountain Regional Park?",
+      "answer": "No entrance fee applies to Arabia Mountain Regional Park. The site is open to the public for free rockhounding and hiking. However, park rules prohibit removal of material from solid rock and limit collection to naturally loose mineral fragments."
+    },
+    {
+      "question": "What tools do you need for rockhounding at Arabia Mountain Georgia?",
+      "answer": "Heavy tools and excavation equipment are not permitted at Arabia Mountain. Bring a hand lens or magnifying glass to identify minerals on exposed granite surfaces. A small backpack for collecting loose pieces and comfortable hiking shoes are sufficient. Photography equipment works well for documenting mineral specimens in place."
+    },
+    {
+      "question": "Is Arabia Mountain rockhounding site beginner friendly?",
+      "answer": "Yes, Arabia Mountain is ideal for beginners. The easy terrain, free access, and well-maintained trails make it perfect for learning mineral identification. The exposed granite clearly displays feldspar, quartz, and mica without requiring advanced rockhounding skills. Families with children ages 6 and up enjoy exploring the site."
+    },
+    {
+      "question": "When is the best time to rockhound at Arabia Mountain near Atlanta?",
+      "answer": "March through May and September through November offer ideal conditions. Spring and fall temperatures make extended exploration comfortable. Summer heat can be intense on exposed granite, while winter occasionally creates slipping hazards on rock surfaces from ice."
+    },
+    {
+      "question": "How do you get to Arabia Mountain rockhounding from Stonecrest Georgia?",
+      "answer": "From Stonecrest, take I-285 east toward Conyers and exit on Klondike Road heading southeast about 4 miles. Turn left on Mountain Road for 1.5 miles to Arabia Mountain Regional Park entrance. The main parking area is near the visitor center with paved access and restroom facilities."
+    }
+  ],
+  "meta_title": "Arabia Mountain Rockhounding - Georgia",
+  "meta_description": "Find quartz, feldspar, and mica at Arabia Mountain Regional Park near Atlanta. Free public rockhounding on granite trails. Beginner friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "collection_rules",
+    "quantity_limits",
+    "fee_amount"
+  ],
+  "enriched_at": "2026-04-21T19:18:19.950Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:20:45.787Z"
+}

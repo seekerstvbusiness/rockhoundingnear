@@ -1,0 +1,102 @@
+{
+  "slug": "black-hills-national-forest-wy",
+  "name": "Black Hills National Forest",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Crook",
+  "city_slug": "crook",
+  "county": "Crook",
+  "county_slug": "crook",
+  "lat": 44.364122,
+  "lng": -104.065512,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM-managed public land in northeastern Wyoming offering agate, jasper, and chalcedony collecting on gentle slopes. Personal use rockhounding with no permit required.",
+  "description": "Black Hills National Forest in Crook County offers accessible rockhounding opportunities on public BLM land at 5911 feet elevation. The rolling, gentle terrain makes this location suitable for rockhounders of varying experience levels seeking quality agate, jasper, and chalcedony specimens. The Black Hills region is geologically rich, with Precambrian granite and metamorphic rocks forming the foundation, overlain by Paleozoic sedimentary layers that host silica-rich minerals.\n\nThis area benefits from the region's long history of mineral exploration and discovery. The Black Hills themselves represent one of the most mineralogically diverse regions in the Rocky Mountain system, created by ancient Precambrian mountain-building events followed by erosion that exposed mineral-rich formations. Agate nodules and jasper deposits are found throughout weathered outcrops and alluvial washes in the area.\n\nThe gentle slopes and moderate elevation make this a practical choice for day trips from nearby towns. You will find specimens scattered across exposed hillsides and in seasonal drainage areas where erosion naturally concentrates materials. The terrain is walkable without requiring technical climbing or scrambling, making it family-friendly for experienced rockhounders willing to hike and search methodically.\n\nWyoming BLM regulations allow personal use collection only, with a 25-pound daily limit and no commercial activity. No permit is required for recreational rockhounding, making this an excellent low-barrier entry point for exploring the Black Hills mineral belt.",
+  "history": "The Black Hills represent a Precambrian uplift of granite and metamorphic rocks, later overlain by Paleozoic sedimentary strata. Miocene-age weathering and erosion exposed silica-rich formations, concentrating agate, jasper, and chalcedony into the nodules and seams rockhounders find today. The region has a long prospecting history dating to the gold rushes of the 1800s, and collectors have worked these public lands for over a century.",
+  "tips": "Search weathered outcrops and exposed hillsides on the south and west-facing slopes where erosion naturally exposes specimens. Look for nodular agate and jasper showing translucent banding or color variation - common finds range from 1 to 4 inches. Bring a good-quality rock chisel and small pry bar to extract specimens cleanly from matrix without damage. Early morning light on hillsides helps spot the waxy luster of agate and chalcedony against darker host rock.",
+  "terrain_notes": "Elevation 5911 feet with gentle rolling slopes and scattered outcropping. Terrain is mostly open with sparse coniferous vegetation (ponderosa pine, Douglas fir). Walking distance from parking typically 100 yards to 1 mile depending on area. Footing is moderate - rocky and uneven in places but not steep. Scattered loose rock and small talus are common. No wheelchair access; sturdy hiking boots recommended.",
+  "best_season": "May - September. Snow typically clears by May, and the area is accessible through early fall. July and August afternoons can be warm at this elevation, so early morning collecting is recommended. Fall (September) offers excellent conditions with fewer visitors.",
+  "written_directions": "From Crook, Wyoming, drive north on US Highway 14 approximately 12 miles toward Sundance. Look for BLM access points and pullouts along the highway on the east side of the road near mile marker 89-91. Turn onto marked BLM access roads or park at designated pullouts. Some secondary dirt roads branch off US 14 leading into prime collecting areas; ensure you stay on open public land and respect any private property boundaries clearly marked.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US Highway 14 is paved and well-maintained. Secondary BLM access roads are unpaved, typically in fair condition. High-clearance vehicles recommended for some side roads, but most rockhounding can be accessed from highway pullouts with a passenger vehicle.",
+  "parking_notes": "Multiple informal pullouts and small parking areas along US 14 and adjacent BLM roads. No developed lot; parking is dispersed pullouts with capacity for 2-4 vehicles at most locations.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection allowed. No motorized excavation or destructive mining methods. Collect only on public BLM land - respect private property boundaries. Pack out all waste material.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo destructive mining methods\nRespect private property boundaries\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "wildlife",
+    "loose_rock",
+    "sharp_material",
+    "cold"
+  ],
+  "nearest_services": "Crook, Wyoming (gas, food, supplies) approximately 12 miles south. Sundance, Wyoming (larger town with restaurants and services) approximately 18 miles north.",
+  "accessibility_notes": "Relatively gentle rolling terrain accessible to most hikers with moderate fitness. Unpaved BLM roads to some access points require standard vehicle clearance. Uneven rocky slopes with loose material - sturdy footwear essential. No wheelchair access. Typical walking distances from parking are manageable for able-bodied rockhounders.",
+  "alternative_names": [
+    "Black Hills BLM",
+    "Black Hills Rockhounding Area"
+  ],
+  "nearest_city": "Crook",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/black-hills-national-forest-wy/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding in the Black Hills of Wyoming?",
+      "answer": "The Black Hills National Forest area near Crook, Wyoming is known for agate, jasper, chalcedony, and quartz. Agate nodules with translucent banding are the most prized finds, ranging from 1 to 4 inches. Jasper specimens often display rich reds, browns, and earth tones. Most finds come from weathered hillside outcrops and alluvial washes."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Crook, Wyoming?",
+      "answer": "No permit is required for personal use rockhounding on Wyoming BLM land. You can collect for free as long as you stay within the 25-pound daily limit and only for personal use - not commercial purposes. Just be sure to collect only on public BLM land and avoid private property."
+    },
+    {
+      "question": "When is the best time to go rockhounding in Black Hills National Forest?",
+      "answer": "May through September offers the best conditions. Snow typically clears by May and the area remains accessible through fall. July and August can be warm at 5911 feet elevation, so early morning collecting is ideal. September provides excellent conditions with fewer crowds and cooler temperatures."
+    },
+    {
+      "question": "How difficult is rockhounding at Black Hills National Forest near Crook?",
+      "answer": "This is an easy to moderate location suitable for families and beginners. The terrain features gentle rolling slopes rather than steep climbs or technical scrambling. Walking distances from parking are typically 100 yards to 1 mile, and footing is uneven but manageable with good hiking boots. Kids ages 8 and up can participate."
+    },
+    {
+      "question": "What tools should I bring for rockhounding at Black Hills in Wyoming?",
+      "answer": "A quality rock chisel and small pry bar are essential for extracting specimens cleanly from the matrix without damage. Bring a 5-gallon bucket or collection bag to carry specimens (remember the 25 lb daily limit), sturdy hiking boots, a water bottle, sunscreen, and a backpack. A hand lens helps identify banding patterns in agate before digging."
+    },
+    {
+      "question": "Is Black Hills National Forest near Crook beginner-friendly for rockhounding?",
+      "answer": "Yes, this location is very beginner-friendly. There are no permit requirements, no fees, and no complex regulations - just the basic 25 lb daily limit. The gentle terrain and visible specimens on exposed hillsides make it easy for new rockhounders to learn. Experienced collectors can also find quality material, and dogs are welcome on BLM land."
+    }
+  ],
+  "meta_title": "Black Hills National Forest Rockhounding - Wyoming",
+  "meta_description": "Find agate, jasper, and chalcedony on free BLM land near Crook, WY. No permit required, 25 lb daily limit. Easy terrain at 5911 ft elevation.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from regional geology; no specific source for this exact location provided",
+    "written_directions - specific pullout locations along US 14 estimated from GPS coordinates; ground verification recommended",
+    "hazards - wildlife and cold inferred from Crook County, WY climate and terrain; snakes present but no documentation of species or frequency at this specific elevation",
+    "primary_category - stated as 'public_blm' in source hint but labeled 'National Forest' in name; treated as public BLM based on source content",
+    "nearest_city - Crook identified as nearest town; Sundance is larger alternative 18 miles north"
+  ],
+  "enriched_at": "2026-04-21T18:53:36.701Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:54:05.472Z"
+}

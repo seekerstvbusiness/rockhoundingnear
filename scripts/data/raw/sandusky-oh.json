@@ -1,0 +1,60 @@
+{
+  "slug": "sandusky-oh",
+  "name": "Sandusky",
+  "lat": 41.417043,
+  "lng": -82.680331,
+  "state": "Ohio",
+  "state_slug": "ohio",
+  "state_code": "OH",
+  "city": "Perkins Township",
+  "city_slug": "perkins-township",
+  "county": "Erie",
+  "county_slug": "erie",
+  "geocoded_city": "Perkins Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-ohio.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Sandusky%20Ohio"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Sandusky",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Sandusky%20Ohio"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 600,
+      "meters": 183
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:44:10.127Z"
+  },
+  "scraped_at": "2026-04-21T16:44:10.128Z",
+  "scrape_quality": "minimal"
+}

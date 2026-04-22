@@ -1,0 +1,98 @@
+{
+  "slug": "hillsboro-nm",
+  "name": "Hillsboro",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Sierra County",
+  "city_slug": "sierra-county",
+  "county": "Sierra",
+  "county_slug": "sierra",
+  "lat": 32.915642,
+  "lng": -107.605779,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Rockhound the scenic Black Range foothills near Hillsboro for colorful agate, jasper, and quartz specimens on BLM public land with no permit required.",
+  "description": "Hillsboro sits in the heart of New Mexico's historic mining country, surrounded by the Black Range and the Gila National Forest. This BLM public land rockhounding area offers excellent opportunities to find banded agate, colorful jasper, and clear quartz in washes and hillside outcrops. The terrain is semi-arid high desert with scattered piñon and juniper, ranging from 5,500 to 7,000 feet in elevation. Unlike fee dig sites, you collect on your own terms here - no commercial operations, no crowds, just open country and genuine geological formations. Rockhounders appreciate Hillsboro for its combination of productive collecting, low access hassle, and connection to the region's rich mining heritage dating back to the 1880s silver boom.\n\nThe geology here reflects the Basin and Range province, where Tertiary volcanic activity and subsequent hydrothermal processes deposited silica-rich fluids in fractures and cavities. These fluids crystallized into the agate nodules and jasper formations you find today, often concentrated in ancient wash systems and weathered volcanic outcrops. The Black Range itself is composed of Proterozoic metamorphic rock overlain with Paleozoic sediments and younger volcanic material, creating diverse collecting zones at different elevations.\n\nAccess is straightforward from Highway 15, with multiple pullouts and informal parking areas along and near the highway. Most productive collecting happens within walking distance of the road, though adventurous rockhounders can venture into the nearby foothills for less-worked material. The area is not heavily trafficked by rockhounders, so you often have space to explore and search thoroughly. Always pack water, wear sturdy boots, and watch for loose rocks and uneven terrain.",
+  "history": "The Hillsboro area sits within the mineral-rich Black Range, where Tertiary volcanic activity and subsequent hydrothermal alteration created abundant silica deposits in the form of agate, chalcedony, and jasper. This region was heavily prospected during New Mexico's silver mining boom of the 1880s-1890s, and the same geological forces that created valuable ore deposits also produced the colorful specimens rockhounders seek today.",
+  "tips": "Search the dry washes and arroyos first, where water erosion has exposed and concentrated specimens over thousands of years - look for banded agate in reds, browns, and whites. Hike the exposed volcanic hillsides above the washes where weathering has released nodules from the host rock; use a rock hammer or chisel to carefully extract specimens from loose material. Early morning collecting in spring and fall is most productive, as afternoon heat can be intense; bring at least 2 liters of water per person.",
+  "terrain_notes": "Semi-arid high desert terrain at 5,500-7,000 feet elevation with scattered piñon and juniper vegetation. Terrain is moderately uneven with rocky outcrops, loose boulders, and erosional washes. Walking surfaces range from packed dirt to loose scree. Most accessible collecting areas are within 1-2 miles of parking pullouts along Highway 15. Steep hillsides require moderate scrambling; footing can be unstable in loose material.",
+  "best_season": "October - April. New Mexico's high desert climate brings extreme heat (90-100F+) in summer months and occasional afternoon thunderstorms. Fall through spring offers comfortable collecting temperatures (50-70F daytime) with low precipitation and minimal hazard from flash flooding. Winter can bring snow at higher elevations, but most BLM land here remains accessible.",
+  "written_directions": "From Truth or Consequences, take Highway 15 north toward Silver City for approximately 35 miles. The town of Hillsboro will appear on your right; Highway 15 runs directly through the area. Productive rockhounding zones are scattered along Highway 15 and adjacent BLM land north and south of Hillsboro. Look for informal pullouts on both sides of the highway - parking is available near mile markers indicating the Black Range. No specific gate or trailhead required; you can park and walk directly onto adjacent BLM land. Be respectful of private property boundaries.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Highway 15 is paved. Secondary roads and access routes are unpaved, washboard dirt roads passable by passenger vehicle in dry conditions. High clearance recommended after rain.",
+  "parking_notes": "Multiple informal pullouts along Highway 15 near Hillsboro. No designated parking lot; park on dirt shoulders or small clearings adjacent to the highway. Capacity is unlimited but highly informal - 2-4 vehicles can fit at most pullouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or power tools. Remove specimens only; do not damage surrounding rock or vegetation.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nDo not damage surrounding rock or vegetation",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Truth or Consequences (Silver City area), approximately 35 miles south via Highway 15. Gas, food, water, and lodging available there. No services in Hillsboro itself.",
+  "accessibility_notes": "Terrain is moderately uneven with scattered rocks and loose material. Not wheelchair accessible. Sturdy hiking boots required due to loose footing. Most collecting areas involve short 0.5-2 mile walks on uneven ground. Steep hillside access requires moderate scrambling ability. Not recommended for those with limited mobility or knee/ankle issues.",
+  "alternative_names": [],
+  "nearest_city": "Truth or Consequences",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/hillsboro-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Hillsboro, New Mexico?",
+      "answer": "The primary specimens found near Hillsboro are banded agate, colorful jasper, clear quartz, and chalcedony. Agate is the most common find, appearing in reds, browns, whites, and banded patterns. Jasper specimens range from solid colors to spotted varieties. These form from Tertiary hydrothermal deposits in the Black Range volcanic field and concentrate in dry washes and weathered hillsides."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Hillsboro?",
+      "answer": "No permit is required for recreational rockhounding on BLM public land near Hillsboro. Personal use collection is allowed under the Federal Land Policy and Management Act (FLPMA). However, you must follow the 25-pound per day limit and cannot engage in commercial collection or motorized excavation."
+    },
+    {
+      "question": "How do I find agate in the Hillsboro rockhounding area?",
+      "answer": "Search dry washes and arroyos first - water erosion has exposed and concentrated agate specimens over time. Look for the characteristic banded patterns in red, brown, and white. Also check exposed volcanic hillsides above washes where weathering has released nodules from the host rock. Early morning collecting in spring or fall is most productive. Use a rock hammer to carefully extract specimens from loose material, but respect the 25-pound daily limit."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Hillsboro?",
+      "answer": "October through April is ideal. Summer temperatures often exceed 90-100F and afternoon thunderstorms create flash flood hazards in arroyos. Fall through spring offers comfortable 50-70F daytime temperatures, minimal precipitation, and lower risk of sudden weather. Winter collecting is possible but snow may appear at higher elevations above 6,500 feet."
+    },
+    {
+      "question": "Is Hillsboro rockhounding good for beginners and families with kids?",
+      "answer": "Yes, Hillsboro is beginner and family-friendly. Access is easy - park along Highway 15 and walk onto adjacent BLM land with no gates or permits. Specimens are relatively common in accessible locations near parking pullouts. Most collecting involves short 0.5-2 mile walks on uneven terrain. Children ages 6 and up can participate, though sturdy boots and supervision are necessary. The area is not heavily trafficked, so families have space to explore."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding near Hillsboro?",
+      "answer": "Bring a small rock hammer or chisel for extracting specimens, a collection bag or bucket (25-pound capacity), sturdy hiking boots for uneven terrain, sunscreen, and most importantly, at least 2 liters of water per person - the high desert sun and elevation create dehydration risk. A field guide to New Mexico minerals is helpful for identification. Wear a hat and long sleeves for sun protection. A GPS device is optional but useful for marking productive areas and navigation."
+    }
+  ],
+  "meta_title": "Hillsboro Rockhounding - New Mexico Agate & Jasper",
+  "meta_description": "Hunt agate, jasper, and quartz on public BLM land near Hillsboro, NM. No permit required, 25 lb daily limit. Scenic Black Range foothills.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from GPS and state geography - no specific source for exact pullout locations)",
+    "terrain_notes (elevation range inferred from USGS data and regional knowledge)",
+    "cell_service (spotty - typical for remote NM high desert)",
+    "remoteness_rating (rated 3/5 based on proximity to Highway 15 and Hillsboro access)"
+  ],
+  "enriched_at": "2026-04-22T09:28:34.693Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:08.647Z"
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "bruneau-canyon-id",
+  "name": "Bruneau Canyon",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Owyhee County Area",
+  "city_slug": "owyhee-county",
+  "county": "Owyhee",
+  "county_slug": "owyhee",
+  "lat": 42.776823,
+  "lng": -115.717282,
+  "gem_types": [
+    "Jasper",
+    "Agate",
+    "Chalcedony",
+    "Obsidian"
+  ],
+  "short_description": "BLM public land in remote Owyhee County offering free rockhounding for jasper, agate, and chalcedony. Scenic canyon setting with minimal crowds and year-round access.",
+  "description": "Bruneau Canyon is a hidden gem in southwestern Idaho's Owyhee County, situated on public BLM land that welcomes recreational rockhounders. This remote location offers excellent opportunities to collect colorful jasper, agate nodules, and chalcedony specimens without crowds or fees. The canyon's geological setting has produced quality specimens for decades, with many rockhounders returning year after year to work the washes and hillsides.\n\nThe area is characterized by relatively flat terrain near the creek bed, making it accessible for rockhounds of varying skill levels. The Bruneau River and its tributary canyons have carved through layers of volcanic and sedimentary rock, creating natural collecting zones where specimens naturally accumulate in washes and eroded banks. The surrounding landscape features sagebrush vegetation and exposed rock faces typical of the Basin and Range physiographic province.\n\nBecause this location is remote and receives modest visitor traffic, collectors often find nice specimens without intense competition. The flat canyon floor allows comfortable walking and searching, though the surrounding terrain can be rough in places. Most productive collecting occurs in the main canyon wash where water erosion naturally concentrates heavier stones and minerals.\n\nThis is ideal for family trips, beginners, and experienced rockhounders alike. The public land designation means no permit, no fee, and no commercial restrictions - just personal use within the 25 pound daily limit. Bring plenty of water, sun protection, and sturdy shoes designed for rocky terrain.",
+  "history": "Bruneau Canyon sits within the Basin and Range province of southwestern Idaho, where Miocene-era volcanic activity and subsequent erosion created the rock formations visible today. The canyon's colorful jaspers and agates formed from silica-rich fluids deposited in ancient volcanic rocks and sedimentary layers, with the Bruneau River continuously exposing fresh material through natural erosion processes.",
+  "tips": "Search the main canyon wash first, especially in gravel bars and along the base of cutbanks where heavier stones collect after water flow. Look for jasper with distinctive banding patterns and agate with translucent or milky appearance - specimens often have a waxy luster when wet. Bring a small hammer or rock pick to test material and extract specimens from the softer matrix, and use a classifier or sieve to process gravels more efficiently. The best finds typically occur near water-worn rocks and ancient terraces where multiple erosion cycles have concentrated specimens.",
+  "terrain_notes": "Elevation 2,604 feet with predominantly flat terrain along the canyon floor. Terrain transitions from flat washes to rockier hillsides with loose volcanic material. Vegetation is sparse to moderate sagebrush scrub typical of high desert. Walking is relatively easy along the main wash, but surrounding terrain is uneven with scattered rocks requiring sturdy footwear. No maintained trails; rockhounds typically follow the creek bed and work canyon walls. Estimated walking distance from parking to productive areas ranges from immediate (creek adjacent to parking) to 1-2 miles into the canyon.",
+  "best_season": "October - April for the most comfortable collecting conditions with cooler temperatures and lower afternoon sun exposure. Summer months (May-September) are possible but intense heat and sun exposure require extra water and sun protection. Water availability in the creek is most reliable in spring and early summer; late summer and fall may have reduced or seasonal flow.",
+  "written_directions": "From Jordan Valley, Oregon (approximately 45 miles northwest), take Idaho State Highway 78 east toward the Owyhee area. Continue on local county roads following signs toward Bruneau Canyon and the Bruneau River access points. GPS coordinates 42.776823, -115.717282 mark the canyon location in Owyhee County. Road access varies by specific access point; high-clearance vehicles are recommended for the final approach on BLM access roads. Most direct access is via Bruneau area roads from the north, approximately 30-40 miles of driving from Murphy or Riddle, Idaho. Confirm current road conditions with the Owyhee County Field Office (Boise District BLM) before traveling, as seasonal closures and road conditions vary.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Final approach on BLM roads may be rough or washboard; high-clearance recommended. Check with local BLM office for seasonal conditions.",
+  "parking_notes": "Informal pullouts along BLM access roads near canyon entrance. No developed parking lot; rockhounds park along road shoulders or in small cleared areas. Capacity is limited and site is remote, so expect solitude rather than facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No permanent structures or marks left on BLM land. Pack out all waste. Respect active mining claims if posted.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lb daily limit per FLPMA\nNo commercial collection allowed\nNo motorized excavation or heavy equipment\nNo permanent markings or structures\nPack out all trash\nRespect posted mining claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Murphy, Idaho (approximately 35 miles northeast) has limited services including fuel and food. Jordan Valley, Oregon (approximately 45 miles northwest) offers more complete services. Plan to be self-sufficient with water, food, and fuel.",
+  "accessibility_notes": "Relatively flat terrain along the canyon floor is accessible to most hikers and rockhounds of varying mobility. Uneven rocky terrain in surrounding hillsides requires sturdy footwear and careful footing. No wheelchair access. The main canyon wash is walkable but rocky in places. Loose volcanic material and sharp stone fragments are common, making careful step placement necessary.",
+  "alternative_names": [
+    "Bruneau River Canyon",
+    "Bruneau Jasper Area"
+  ],
+  "nearest_city": "Murphy",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/bruneau-canyon-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/bruneau-canyon-id/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Bruneau Canyon, Idaho?",
+      "answer": "Bruneau Canyon is known for colorful jasper specimens, agate nodules, chalcedony, and obsidian pieces. Jasper is the most abundant, with distinctive banding and color variations. Agate typically appears as nodules with milky or translucent qualities. Most collectors find specimens in the canyon wash and along eroded banks."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Bruneau Canyon?",
+      "answer": "No permit is required. Bruneau Canyon sits on public BLM land where recreational rockhounding is allowed for personal use under BLM regulations. You do not need to pay any fee or apply for permission, but you must follow the 25 lb per day limit."
+    },
+    {
+      "question": "How far is Bruneau Canyon from the nearest town with services?",
+      "answer": "Murphy, Idaho is approximately 35 miles northeast of Bruneau Canyon and offers limited fuel and food services. Jordan Valley, Oregon is about 45 miles northwest with more complete amenities. Plan ahead and bring water, food, and full gas tank since services are sparse in this remote area."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Bruneau Canyon?",
+      "answer": "October through April offers the most comfortable collecting conditions with cooler temperatures and lower sun exposure. Summer months are possible but require extra water and sun protection due to desert heat. Spring may offer better water flow in the canyon wash for more natural specimen concentration."
+    },
+    {
+      "question": "Is Bruneau Canyon a good rockhounding spot for beginners?",
+      "answer": "Yes, Bruneau Canyon is beginner-friendly. The flat canyon floor terrain is accessible, specimens are visible in washes without specialized techniques, and there are no permits or fees to complicate access. Families with children ages 6 and up can enjoy collecting here with basic tools like a rock hammer and collection bag."
+    },
+    {
+      "question": "What tools and equipment should I bring for rockhounding at Bruneau Canyon?",
+      "answer": "Bring a small rock hammer or pick to test and extract specimens, a collection bag rated for 25+ lbs, sturdy hiking boots with ankle support for rocky terrain, plenty of water (at least 3 liters), sun protection, and a classifier or sieve to process gravels. A GPS unit is helpful given the remote location. Test material before collection to avoid exceeding your daily limit."
+    }
+  ],
+  "meta_title": "Bruneau Canyon Rockhounding - Idaho",
+  "meta_description": "Free rockhounding for jasper, agate, and chalcedony on Idaho BLM land. No permit needed. Remote Owyhee County canyon with easy terrain for all skill levels.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T09:27:13.484Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:28:23.916Z"
+}

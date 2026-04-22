@@ -1,0 +1,60 @@
+{
+  "slug": "kidds-store-va",
+  "name": "Kidd's Store",
+  "lat": 37.809677,
+  "lng": -78.364101,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Fluvanna County",
+  "city_slug": "fluvanna-county",
+  "county": "Fluvanna",
+  "county_slug": "fluvanna",
+  "geocoded_city": "Antioch",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Kidd's%20Store%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Kidd's%20Store",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Kidd's%20Store%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 460,
+      "meters": 140
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:09:40.418Z"
+  },
+  "scraped_at": "2026-04-21T19:09:40.418Z",
+  "scrape_quality": "minimal"
+}

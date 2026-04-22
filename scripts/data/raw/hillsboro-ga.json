@@ -1,0 +1,60 @@
+{
+  "slug": "hillsboro-ga",
+  "name": "Hillsboro",
+  "lat": 33.179567,
+  "lng": -83.640897,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Jasper County",
+  "city_slug": "jasper-county",
+  "county": "Jasper",
+  "county_slug": "jasper",
+  "geocoded_city": "Hillsboro",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hillsboro%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hillsboro",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hillsboro%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 648,
+      "meters": 198
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:09:27.827Z"
+  },
+  "scraped_at": "2026-04-21T19:09:27.827Z",
+  "scrape_quality": "minimal"
+}

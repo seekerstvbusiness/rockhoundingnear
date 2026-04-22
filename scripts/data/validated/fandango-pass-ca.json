@@ -1,0 +1,98 @@
+{
+  "slug": "fandango-pass-ca",
+  "name": "Fandango Pass",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Alturas",
+  "city_slug": "alturas",
+  "county": "Modoc",
+  "county_slug": "modoc",
+  "lat": 41.802066,
+  "lng": -120.206778,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Obsidian",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding site in remote northeastern California known for agate and chalcedony specimens. High desert location at 6140 feet elevation ideal for summer collecting.",
+  "description": "Fandango Pass is a public BLM rockhounding area in Modoc County's high desert region, accessible to recreational collectors seeking agate and chalcedony specimens. The site sits at 6140 feet elevation along moderate slopes typical of the Basin and Range geological province that dominates northeastern California. This remote location offers solitude and uncrowded collecting opportunities for rockhounds willing to travel to this less-visited region.\n\nThe area is characterized by sagebrush-covered hills with exposed volcanic and sedimentary formations. Collectors typically find translucent to opaque agate nodules weathering out of hillsides and wash beds, along with fine-quality chalcedony fragments. The volcanic history of the region has created ideal conditions for silica mineral concentration over millions of years.\n\nBest collecting happens on the moderate slopes where erosion naturally exposes specimens. Look for white, tan, and rust-colored agate in the loose material and exposed outcrops. The terrain requires careful footing but rewards patient searchers with solid finds. This is a true backcountry collecting experience suited to rockhounders comfortable with remote desert conditions.\n\nPersonal use collection is free on BLM land with a 25-pound daily limit. The isolation and high elevation make this site best visited during summer and early fall when weather is stable. Bring plenty of water, reliable navigation tools, and plan for a full day of collecting if making the drive from town.",
+  "history": "Fandango Pass lies within the Modoc Plateau, a volcanic upland formed by extensive basaltic eruptions during the Neogene period (roughly 25 to 2 million years ago). Silica-rich groundwaters percolated through fractured volcanic rock and sedimentary layers, depositing microcrystalline quartz as agate and chalcedony nodules over geological time. The region was periodically prospected during Nevada and California's mining booms, though never developed commercially due to the remoteness and small specimen sizes.",
+  "tips": "Focus your search on the wash bottoms and eroded hillside slopes where gravity has naturally concentrated lighter specimens - this is where weathered agate nodules accumulate. Bring a small hand lens to examine specimens in place; true agate will show banded patterns or translucency when backlit, distinguishing quality pieces from common chalcedony. Look for white, tan, and reddish-brown colors in the 2-4 inch range; specimens here tend to be smaller but well-formed. The loose volcanic talus on steeper slopes often yields the best finds if you're willing to scramble carefully.",
+  "terrain_notes": "Moderate slopes at 6140 feet elevation with scattered sagebrush and sparse juniper. Terrain is primarily exposed volcanic rock, loose talus, and shallow washes. Footing is uneven and rocky, requiring sturdy boots and careful step placement. Walking distances from parking range from a quarter-mile to 2 miles depending on chosen collecting area. No established trails; cross-country navigation required.",
+  "best_season": "June - September. High elevation keeps the area snowbound November through May. Summer provides stable weather, accessible terrain, and comfortable collecting conditions. Late August through September offers cooler temperatures and fewer visitors.",
+  "written_directions": "From Alturas, take CA-299 east approximately 35 miles toward the Nevada border. Continue past the Modoc National Forest boundary into open BLM country. Watch for the Fandango Pass road markers (county road, rough surface). Turn north and follow the rough dirt road for approximately 8-12 miles, using GPS coordinates 41.802066, -120.206778 to locate the main collecting area. High-clearance or 4WD vehicle recommended, especially after rain. No established parking area; find pullouts near promising outcrops.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough unimproved BLM dirt road. High-clearance or 4WD required. Washboard surface, occasional rocks, impassable after heavy rain. 8-12 miles from nearest highway.",
+  "parking_notes": "No developed parking area. Multiple informal pullouts along the road adjacent to promising outcrops. Space for 2-4 vehicles per pullout. No facilities, no water.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or mechanized tools. No collection of specimens larger than portable hand-collection size. Respect existing claims and leave no trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo mechanized tools\nLeave no trash\nRespect closed areas and existing claims",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cold",
+    "remote",
+    "loose_rock",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Alturas, California, approximately 45 miles southwest. Full services including gas, food, lodging, and water. Next nearest services would be Susanville (70+ miles) or Nevada border communities.",
+  "accessibility_notes": "Rough backcountry terrain with uneven rocky footing and moderate slopes. No wheelchair access. Not suitable for limited mobility. Requires scrambling over loose talus in some areas. High elevation (6140 feet) may affect those sensitive to altitude. Remote location means no cell service and significant distance from emergency services. Sturdy hiking boots mandatory.",
+  "alternative_names": [],
+  "nearest_city": "Alturas",
+  "nearest_city_distance": 45,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/fandango-pass-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates can I find at Fandango Pass, California?",
+      "answer": "Fandango Pass is known for translucent to opaque agate nodules in white, tan, and rust colors, typically ranging from 2-4 inches. You will also find fine chalcedony fragments scattered on the slopes. The volcanic geology of the Modoc Plateau creates ideal conditions for these microcrystalline quartz minerals. Most specimens here are smaller than what you'd find at commercial fee digs, but they are free to collect under BLM rules."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Fandango Pass BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Fandango Pass. This is public BLM land open to personal use collection without advance authorization. However, you must follow the 25-pound daily limit per FLPMA regulations, collect only for personal use (no commercial sales), and use only hand tools. Always check current BLM.gov notices for any temporary closures."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Fandango Pass near Alturas?",
+      "answer": "The best season is June through September. The high elevation of 6140 feet keeps the area snowbound from November through May. Late August and September offer cooler temperatures and fewer visitors while maintaining stable weather for safe collecting. Winter conditions make the rough BLM road impassable, and spring snowmelt can wash out the dirt access road."
+    },
+    {
+      "question": "What vehicle and tools do I need for Fandango Pass rockhounding?",
+      "answer": "A high-clearance or 4WD vehicle is recommended due to the rough, unimproved BLM dirt road (8-12 miles from highway). You will need a good hand lens to identify quality agate in the field, sturdy hiking boots for loose talus, a small pick and chisel for hand collection, and GPS or maps since there are no marked trails. Bring abundant water, sunscreen, and a first aid kit given the remote location and no cell service."
+    },
+    {
+      "question": "Is Fandango Pass rockhounding suitable for beginners and families?",
+      "answer": "Fandango Pass is better suited for experienced rockhounders comfortable with remote backcountry conditions. The moderate-to-rough terrain, 4WD road access, lack of cell service, and high elevation (6140 feet) make it challenging for families with young children. Beginners should gain experience at easier fee dig sites before attempting this remote BLM location. Kids aged 12 and up with hiking experience can participate if accompanied by experienced adults."
+    },
+    {
+      "question": "How far is Fandango Pass from Alturas, and what should I bring?",
+      "answer": "Fandango Pass is approximately 45 miles northeast of Alturas, California, a 1.5 to 2-hour drive on CA-299 followed by a rough dirt road requiring 4WD. Bring several gallons of water, a full tank of gas, food, a map and GPS (cell service is nonexistent), a headlamp, basic tools for hand collection, and a first aid kit. Plan a full day trip and return to Alturas before dark, as the remote location offers no emergency services nearby."
+    }
+  ],
+  "meta_title": "Fandango Pass Rockhounding - California Agate",
+  "meta_description": "Free BLM rockhounding near Alturas. Find agate and chalcedony at Fandango Pass in remote Modoc County. 25 lb/day limit, 4WD required, June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Modoc geology - verify with local reports)",
+    "road_conditions (estimated from BLM road classifications)",
+    "nearest_city_distance (estimated from GPS and road routing)",
+    "vehicle_required (inferred from rough BLM road terrain)"
+  ],
+  "enriched_at": "2026-04-21T19:31:46.976Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:34:24.668Z"
+}

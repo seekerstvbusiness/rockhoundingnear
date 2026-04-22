@@ -1,0 +1,57 @@
+{
+  "slug": "w-side-of-glass-mountains-tx",
+  "name": "W side of Glass Mountains",
+  "lat": 30.370427,
+  "lng": -103.400201,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Brewster County",
+  "city_slug": "brewster-county",
+  "county": "Brewster",
+  "county_slug": "brewster",
+  "geocoded_city": "Brewster County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=W%20side%20of%20Glass%20Mountains%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=W%20side%20of%20Glass%20Mountains",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=W%20side%20of%20Glass%20Mountains%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:35:18.722Z"
+  },
+  "scraped_at": "2026-04-21T18:35:18.723Z",
+  "scrape_quality": "minimal"
+}

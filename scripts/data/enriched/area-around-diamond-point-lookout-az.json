@@ -1,0 +1,106 @@
+{
+  "slug": "area-around-diamond-point-lookout-az",
+  "name": "Area around Diamond Point Lookout",
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "city": "Fountain Hills",
+  "city_slug": "fountain-hills",
+  "county": "Gila",
+  "county_slug": "gila",
+  "lat": 34.286385,
+  "lng": -111.193486,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "High-elevation BLM rockhounding near Payson with quartz, agate, and jasper deposits. Scenic terrain at 6,047 feet elevation with excellent seasonal collecting.",
+  "description": "The area around Diamond Point Lookout sits in the transition zone between the Arizona Basin and Range and the Colorado Plateau, making it a geologically diverse rockhounding destination. This BLM public land site offers rockhounders the opportunity to search for quality quartz specimens, agates, and jasper formations at an elevation of over 6,000 feet, which means cooler temperatures and extended collecting seasons compared to lower desert regions.\n\nThe terrain here is characterized by steep slopes with scattered pine and juniper vegetation typical of Arizona's mid-elevation transition forest. Diamond Point Lookout itself serves as a landmark, and the surrounding BLM lands contain mineralized outcrops and weathered slopes where silica-rich specimens naturally accumulate. Rockhounders should expect to do some hiking on uneven, rocky terrain with significant elevation changes.\n\nThis location is less crowded than many Arizona rockhounding destinations, making it ideal for those seeking a more solitary collecting experience. The higher elevation provides relief from the intense desert heat found at lower-elevation Arizona sites, though it also means winter snows and cold temperatures limit the best collecting season to late spring through early fall.\n\nThe area sits roughly 55 miles northeast of Fountain Hills, placing it in a relatively remote but accessible part of Gila County. Personal use rockhounding is allowed on BLM land without permits, making this an excellent destination for serious collectors and families exploring Arizona's mineral wealth.",
+  "history": "Diamond Point Lookout and the surrounding Gila County highlands were formed during the complex tectonics of the Basin and Range extension and subsequent uplift that created Arizona's modern landscape. The quartz, agate, and chalcedony deposits found here result from ancient hydrothermal activity associated with volcanic and sedimentary sequences that were mineralized during the Tertiary era. Historic mining activity in surrounding Gila County has documented significant mineral potential in this region, though the immediate area around Diamond Point is primarily known for recreational rockhounding rather than commercial extraction.",
+  "tips": "Search the rocky slopes and washes below mineralized outcrops, where weathering has naturally exposed and concentrated quartz and agate specimens. Bring a rock hammer and chisel to extract specimens from outcropping formations, and examine the exposed rock faces after seasonal runoff has cleared debris. Look for white to milky quartz with hints of color banding or translucency, and search carefully along the edges of washes where water action has polished and exposed the best specimens. Early morning light makes spotting translucent agates and chalcedony easier, as the higher elevation's clear skies are ideal for visual prospecting.",
+  "terrain_notes": "Steep, rocky terrain at 6,047 feet elevation with scattered ponderosa pine and juniper forest cover. Footing is uneven with loose rock and irregular ground surfaces. Hiking from parking areas can involve 0.5 to 2+ miles of elevation gain, with slopes reaching 15-25 degrees in places. No maintained trails in immediate collecting areas; cross-country hiking is required. Vegetation is sparse in some areas, denser in shaded pockets. Expect muddy or snow-covered conditions in winter months.",
+  "best_season": "May - October",
+  "written_directions": "From Fountain Hills, take AZ 260 (Payson-Show Low Highway) northeast for approximately 50 miles toward Payson. The highway gains elevation steadily as you approach the Diamond Point area. Look for BLM parking areas or pullouts near Diamond Point Lookout, approximately 3-4 miles north of where AZ 260 reaches its highest point in this region. Access is primarily via foot from Highway 260 or marked BLM access points. A GPS unit is highly recommended for locating specific parking areas, as signage is minimal. High-clearance vehicles are recommended for any rough spur roads leading to trailheads.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "AZ 260 is a well-maintained paved state highway. Access to specific BLM parking and trailheads may involve unpaved BLM roads that are washboard and rough, especially in wet weather. High-clearance or all-wheel-drive vehicles recommended.",
+  "parking_notes": "Informal BLM parking areas and pullouts near Diamond Point Lookout. Limited amenities; capacity varies by location. Some areas may require parking on roadside near trailheads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation. Specimens must be hand-tools only. Stay on BLM land and respect any posted closures or restrictions. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nRespect posted closures\nPack out all trash",
+  "beginner_friendly": false,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "snakes",
+    "cliffs",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Payson, approximately 25 miles south, has gas, food, lodging, and supplies. Fountain Hills, 55 miles south, also offers full services.",
+  "accessibility_notes": "Steep, rocky terrain with no wheelchair access and no maintained paths. Uneven footing and loose rock throughout. Significant elevation gain and hiking distance required. Sturdy boots with good grip and traction essential. Not suitable for limited mobility or those with difficulty on uneven ground. Hiking poles recommended to manage steep slopes.",
+  "alternative_names": [
+    "Diamond Point area",
+    "Gila County high elevation rockhounding"
+  ],
+  "nearest_city": "Fountain Hills",
+  "nearest_city_distance": 55,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-around-diamond-point-lookout-az/mineral-1-agate.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-around-diamond-point-lookout-az/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Diamond Point Lookout in Arizona?",
+      "answer": "The primary specimens found here are quartz, agate, jasper, and chalcedony. The high elevation and mineralized bedrock create excellent conditions for quality quartz specimens with color variations. Agates and chalcedony specimens with banding and translucency are common finds, especially in weathered slopes and wash areas."
+    },
+    {
+      "question": "Do I need a permit to collect at Diamond Point Lookout, Arizona?",
+      "answer": "No permit is required for personal use rockhounding on BLM land around Diamond Point Lookout. You simply need to follow FLPMA regulations: collect for personal use only, limit your collection to 25 lbs per day, and use hand tools only. Commercial collection is not allowed."
+    },
+    {
+      "question": "What is the best time of year for rockhounding near Fountain Hills at this elevation?",
+      "answer": "May through October is the ideal collecting season. The higher elevation (6,047 feet) means cooler temperatures than lower Arizona locations, and this period avoids winter snow and cold that can make access difficult from November through April."
+    },
+    {
+      "question": "How difficult is rockhounding at Diamond Point Lookout for beginners?",
+      "answer": "This location is moderate to challenging for beginners due to steep, rocky terrain requiring significant hiking with elevation gain and uneven footing. Experienced rockhounders or families with older children (12+) will find the site more enjoyable. Beginners should bring hiking poles and sturdy boots, and start with shorter exploration hikes."
+    },
+    {
+      "question": "What tools do I need for collecting agate and quartz at Diamond Point Lookout?",
+      "answer": "A rock hammer and chisel are essential for extracting specimens from outcrops. Bring a backpack to carry your 25-lb daily limit, hiking boots for steep terrain, and a hand lens to identify translucent specimens. A GPS unit helps locate parking areas, and a camera is useful for noting promising locations for future visits."
+    },
+    {
+      "question": "Can I take my dog rockhounding at Diamond Point Lookout BLM land?",
+      "answer": "Yes, dogs are allowed on BLM public land at Diamond Point Lookout. The steep terrain and moderate difficulty make it suitable for active, fit dogs that can handle rocky slopes. Bring plenty of water for your dog, as the high elevation and exposed terrain offer limited shade and water sources."
+    }
+  ],
+  "meta_title": "Diamond Point Lookout Rockhounding - Arizona",
+  "meta_description": "Find quartz, agate, and jasper at Diamond Point Lookout near Fountain Hills. BLM public land rockhounding at 6,047 ft elevation. No permit needed.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated at 55 miles based on terrain data)",
+    "gem_types (inferred from high-elevation Arizona geology; not explicitly confirmed for this specific area)",
+    "remoteness_rating (estimated based on distance from Fountain Hills and terrain accessibility)",
+    "specific parking location details (terrain data provided highway info but no exact parking coordinates)",
+    "cell_service (estimated as spotty based on remote elevation and distance from towers)"
+  ],
+  "enriched_at": "2026-04-21T15:39:21.459Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T15:56:35.758Z"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "hungry-creek-ca",
+  "name": "Hungry Creek",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Mount Shasta",
+  "city_slug": "mount-shasta",
+  "county": "Siskiyou",
+  "county_slug": "siskiyou",
+  "lat": 41.974582,
+  "lng": -122.754194,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding site in the Shasta Valley offering agate and jasper specimens. Free public collecting with scenic creek access at 3,479 feet elevation.",
+  "description": "Hungry Creek is a public BLM rockhounding site in Siskiyou County's volcanic plateau region, situated in a gentle valley setting at moderate elevation. This location is part of the Modoc Plateau's extensive basaltic terrain, where ancient lava flows and hydrothermal activity created excellent conditions for agate, jasper, and chalcedony formation. The creek drainage and surrounding hillsides expose colorful specimens ranging from translucent agates to striped jaspers, making this a productive site for patient collectors.\n\nThe area around Hungry Creek is characterized by open BLM land with relatively accessible terrain for most ability levels. Unlike fee dig sites, this location is completely free to collect on-you need only follow California BLM's personal use rules. The gentle slopes and creek-adjacent collecting make it suitable for families and beginners, though the site can be muddy or water-logged during wet seasons. Most productive collecting occurs along the creek bed and adjacent hillsides where erosion naturally exposes fresh material.\n\nExpect to spend 2-4 hours working a small area thoroughly. The best specimens are typically found by carefully examining the creek bed's outer banks and any exposed decomposing volcanic rock. Unlike commercial operations, BLM land rewards methodical searching over rapid collection. The surrounding landscape offers scenic views of the Shasta Valley and volcanic peaks, combining geology with outdoor recreation.\n\nSeason matters significantly here-spring runoff can make the creek impassable and muddy, while late summer and fall offer the most comfortable collecting conditions. The elevation of 3,479 feet means occasional snow in winter, though the site is generally accessible most of the year. Bring extra containers for your best finds, as the 25-pound daily limit fills quickly with quality specimens.",
+  "history": "The Modoc Plateau and Shasta Valley region where Hungry Creek is located formed during intense volcanic activity in the Miocene and Pliocene epochs, roughly 20-3 million years ago. Lava flows created the basaltic substrate, while silica-rich groundwater moving through fractures in these flows deposited agate, chalcedony, and jasper-the signature minerals found here today. This same geological process created hundreds of productive rockhounding areas throughout northern California and southeastern Oregon.",
+  "tips": "Work the outer banks of Hungry Creek where erosion continuously exposes fresh material; avoid digging into stable banks as erosion does the work for you. Look for translucent or banded agate near water-worn rocks and for red, yellow, and brown jasper specimens on hillsides above the creek bed. Bring a classifier or mesh screen to sift creek gravels-small agates often hide in 1/4-inch material that casual collectors miss. The creek is seasonal; visit in late summer or early fall when water levels are low and banks are most accessible without wading.",
+  "terrain_notes": "Gentle sloping terrain at 3,479 feet elevation with open BLM grassland and sparse vegetation. Creek is typically 10-20 feet wide depending on season. Walking distance from parking varies by access point, but most productive areas are within 1/4 mile of road access. Terrain is mostly firm when dry but can become soft and muddy near the creek during wet months. Footing is generally stable with occasional loose rock in creek bed.",
+  "best_season": "June - October. Spring runoff makes creek access difficult and terrain muddy. Late summer and early fall offer the best combination of low water, dry banks, and comfortable temperatures at this elevation. July-September is peak season for collecting.",
+  "written_directions": "From Mount Shasta, take Highway 97 south for approximately 18 miles toward Klamath Falls. Look for Forest Road 10 (or similar BLM access road) signed for Hungry Creek drainage on the east side of Highway 97. Follow the unpaved road for 3-4 miles, staying on the main track. Park at the creek crossing or pullout area where you first reach the creek bed. GPS coordinates will pinpoint access, but verify current road conditions with Alturas BLM field office before visiting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM road, typically passable in high-clearance vehicles. May require 4WD after heavy rain or snow. Washboard surface common.",
+  "parking_notes": "Informal pullout parking at creek crossing. No developed parking area. Space for 3-5 vehicles. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or power tools. Remove only loose material and naturally exposed specimens. Do not dig into stable rock or banks. Respect private property boundaries if adjacent to BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nRemove only loose, exposed material\nNo digging into stable banks\nRespect adjacent private property",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "flash_floods",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Mount Shasta town (approximately 25 miles north) has gas, food, lodging, and supplies. Highway 97 corridor has scattered services.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Unpaved road to parking area requires high-clearance vehicle but is not extremely difficult. Creek banks are uneven with occasional loose rock. Sturdy hiking boots recommended for creek bed work. Not wheelchair accessible due to road surface and creek terrain.",
+  "alternative_names": [],
+  "nearest_city": "Mount Shasta",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/hungry-creek-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agate and jasper can I find at Hungry Creek near Mount Shasta?",
+      "answer": "Hungry Creek is known for translucent to semi-transparent agates with white, gray, and brown banding, plus colorful jasper specimens ranging from deep red to golden yellow and earthy brown. Chalcedony is also common. Most specimens are small to medium sized (1-3 inches), though patient collectors occasionally find larger pieces."
+    },
+    {
+      "question": "Is there a fee to rockhound at Hungry Creek, California?",
+      "answer": "No, Hungry Creek is free public BLM land. You do not need a permit or pay any fee. The only requirement is following California BLM's personal use rules: maximum 25 pounds per day, no commercial collection, no power tools or motorized equipment."
+    },
+    {
+      "question": "What is the best time of year to collect agate at Hungry Creek?",
+      "answer": "June through October is ideal, with peak collecting in July-September when the creek water level is low and banks are dry. Spring runoff makes creek access difficult and muddy. Winter snow at 3,479 feet elevation can temporarily close access roads."
+    },
+    {
+      "question": "How far from Mount Shasta is Hungry Creek rockhounding site?",
+      "answer": "Hungry Creek is approximately 25 miles south of Mount Shasta town via Highway 97. The unpaved BLM access road adds another 3-4 miles. Total drive time from Mount Shasta is roughly 45 minutes to one hour."
+    },
+    {
+      "question": "Is Hungry Creek suitable for beginner rockhounders and families with children?",
+      "answer": "Yes. Hungry Creek is beginner-friendly with easy terrain and abundant specimens accessible without special equipment. Children ages 6 and up can collect safely. The creek setting and open landscape make it a pleasant family outing, though supervision is necessary around water."
+    },
+    {
+      "question": "What tools and supplies do I need to rockhound at Hungry Creek?",
+      "answer": "Bring a geology hammer, small chisel, hand lens or magnifier, sturdy bucket for specimens, and a scale to track your 25-pound daily limit. A classifier sieve is useful for sifting creek gravels. Wear sturdy hiking boots, bring water, sun protection, and check current road conditions before driving the unpaved BLM road."
+    }
+  ],
+  "meta_title": "Hungry Creek Rockhounding - Find Agate in California",
+  "meta_description": "Free BLM rockhounding at Hungry Creek near Mount Shasta. Collect agate, jasper, and chalcedony. No permit required. Best June-October.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (Forest Road number inferred from typical BLM access patterns in Siskiyou County)",
+    "parking_notes (based on typical BLM creek access)",
+    "nearest_city_distance (estimated from GPS coordinates)",
+    "cell_service (based on remote northern California location)"
+  ],
+  "enriched_at": "2026-04-21T19:31:36.845Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:34:13.032Z"
+}

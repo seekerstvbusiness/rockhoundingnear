@@ -1,0 +1,60 @@
+{
+  "slug": "el-reno-ok",
+  "name": "El Reno",
+  "lat": 35.557422,
+  "lng": -97.945219,
+  "state": "Oklahoma",
+  "state_slug": "oklahoma",
+  "state_code": "OK",
+  "city": "El Reno",
+  "city_slug": "el-reno",
+  "county": "Canadian",
+  "county_slug": "canadian",
+  "geocoded_city": "El Reno",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oklahoma.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=El%20Reno%20Oklahoma"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=El%20Reno",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=El%20Reno%20Oklahoma"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1295,
+      "meters": 395
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:06:09.072Z"
+  },
+  "scraped_at": "2026-04-21T17:06:09.072Z",
+  "scrape_quality": "minimal"
+}

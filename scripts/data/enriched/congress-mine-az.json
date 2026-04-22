@@ -1,0 +1,97 @@
+{
+  "slug": "congress-mine-az",
+  "name": "Congress Mine",
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "city": "Wickenburg",
+  "city_slug": "wickenburg",
+  "county": "Yavapai",
+  "county_slug": "yavapai",
+  "lat": 34.19919,
+  "lng": -112.853469,
+  "gem_types": [
+    "Gold",
+    "Silver",
+    "Quartz",
+    "Tourmaline"
+  ],
+  "short_description": "Historic Congress Mine on BLM land near Wickenburg offers rockhounds a chance to find gold, silver, and quartz specimens in a working mining area with minimal fees and flat desert terrain.",
+  "description": "Congress Mine sits on public BLM land in central Arizona's Yavapai County, approximately 3 miles south of the Wickenburg-Prescott Highway (AZ 89). This historic mining district was active from the 1870s onward, producing significant quantities of gold and silver. Today, rockhounds can explore the mineralized quartz veins and tailings that characterize this region, searching for small gold flakes, crystalline quartz, and occasional tourmaline specimens.\n\nThe site is situated at 3,283 feet elevation on relatively flat to gently rolling desert terrain typical of the Sonoran Desert's transition zone. The geology reflects the region's Basin and Range extension and associated epithermal mineralization - silica-rich hydrothermal fluids deposited quartz veins and precious metal mineralization during Miocene-era tectonic activity, roughly 20-30 million years ago. The Congress district remains one of Arizona's more accessible historic mining areas for public recreational collecting.\n\nAs BLM land, Congress Mine requires no permit for personal use collecting and allows up to 25 pounds per day under FLPMA regulations. The surrounding area is lightly traveled, making it ideal for those seeking a quieter rockhounding experience away from crowded fee dig operations. Vehicle access is straightforward via unpaved roads suitable for passenger vehicles in dry conditions, though high-clearance vehicles are recommended after rain.\n\nExpect scattered quartz outcrops, mineralized hillsides, and old mining tailings across the surrounding landscape. The open terrain offers good visibility for spotting specimens. Bring plenty of water, as shade is limited and summer heat can be intense. Early morning or late afternoon collecting is recommended during warmer months.",
+  "history": "Congress Mine was established in the 1870s as a commercial gold and silver operation, contributing to Arizona's territorial mining boom. The epithermal quartz veins hosting the mineralization formed during Miocene-age hydrothermal activity when tectonic extension created pathways for hot, mineral-rich fluids to deposit precious metals and silica in the upper crust.",
+  "tips": "Search the hillsides and wash banks for exposed quartz veins with visible gold flakes or silvery mineral inclusions - these outcrops stand out as white or cream-colored bands against the reddish desert soil. Use a hand lens to inspect quartz specimens for tourmaline striations and metallic luster. Early morning is best - you'll avoid afternoon heat and have better lighting to spot the pale quartz exposures. Bring a small pry bar and chisel to carefully extract loose specimens from weathered outcrops; never hammer against solid rock faces as this damages the site and is unsafe.",
+  "terrain_notes": "Flat to gently rolling desert at 3,283 feet elevation. Terrain is mostly open with scattered low scrub vegetation (creosote bush, palo verde). Walking surface varies from hardpan to loose rocky soil. Footing is generally stable but watch for loose rocks underfoot. Parking to productive areas is typically a short walk of 0.5 to 2 miles over relatively even ground. No significant elevation gain.",
+  "best_season": "October - April. Arizona's low-elevation desert mining areas are brutally hot in summer (May-September, regularly exceeding 95-105 degrees Fahrenheit). Fall through spring offer comfortable 60-75 degree conditions, low precipitation risk, and the best ground visibility when vegetation is dormant.",
+  "written_directions": "From Wickenburg, take Arizona Highway 89 north (Wickenburg-Prescott Highway) for approximately 3.1 miles. Look for marked BLM access roads or mining claim markers on the west side of the highway. Parking areas are typically at unsigned pullouts near the base of mineralized hillsides. A GPS unit or printed BLM map is helpful for locating the main collecting zones. High-clearance or 4WD vehicles are recommended after rain when dirt roads may be soft.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM roads, typically passable for passenger cars in dry conditions. May become rutted or soft after rain; high-clearance or 4WD recommended after precipitation. Moderate washboard texture on main access roads.",
+  "parking_notes": "Informal pullouts and parking areas at BLM access points near the mining district. No developed parking lot. Limited capacity (2-5 vehicles per pullout). Parking is available year-round, no fees charged.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Respect active mining claims and stay clear of machinery or fenced areas. Pack out all trash. Collecting from marked claim boundaries is prohibited.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\n25 lbs per day maximum per FLPMA\nNo motorized excavation equipment\nNo collecting from posted or fenced mining claims\nPack out all trash\nRespect the site for future rockhounders",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "sharp_material",
+    "loose_rock",
+    "abandoned_mines"
+  ],
+  "nearest_services": "Wickenburg, 3 miles north via AZ 89. Full services including gas, restaurants, lodging, and water. Prescott, 30 miles north, offers additional services and supplies.",
+  "accessibility_notes": "Relatively flat, open terrain accessible to most hikers and families. Parking to collecting areas involves short walks (0.5-2 miles) over stable, even ground with minimal elevation change. No wheelchair accessibility. Sturdy footwear and sun protection recommended. Not suitable for those with limited mobility due to uneven rocky footing in some areas.",
+  "alternative_names": [],
+  "nearest_city": "Wickenburg",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/congress-mine-az/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What can I find rockhounding at Congress Mine near Wickenburg?",
+      "answer": "Congress Mine is known for gold flakes, silver specimens, crystalline quartz veins, and tourmaline crystals. The mineralization is concentrated in white quartz outcrops scattered across the hillsides and accessible wash banks. Gold is typically found as small flakes within quartz rather than nuggets, making a hand lens essential for detailed inspection."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Congress Mine in Arizona?",
+      "answer": "No permit is required for personal use collecting on BLM land at Congress Mine. You must stay within the 25 lb per day limit, avoid commercial collection, and respect any posted mining claims. Always check the BLM Hassayampa Field Office website or stop by their office in Wickenburg for current regulations and claim boundaries."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Wickenburg at Congress Mine?",
+      "answer": "October through April is ideal. Arizona's low-elevation desert areas like Congress Mine are extremely hot May through September (often exceeding 100 degrees). Fall and winter offer comfortable temperatures (60-75 degrees), better visibility of light-colored quartz specimens against the red soil, and minimal precipitation that could affect road access."
+    },
+    {
+      "question": "How difficult is it to reach Congress Mine from Wickenburg, and what vehicle do I need?",
+      "answer": "Congress Mine is only 3 miles from Wickenburg via Arizona Highway 89. A standard passenger vehicle can reach the main collecting areas in dry conditions, though high-clearance or 4WD vehicles are recommended after rain when BLM roads may be rutted. The drive takes about 10 minutes from town."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding gold and quartz at Congress Mine?",
+      "answer": "Bring a hand lens or small magnifying glass to spot gold flakes in quartz, a small pry bar and chisel for extracting loose specimens, a sturdy backpack, plenty of water (at least 2-3 liters), sun protection, and a GPS unit or printed BLM map. A 5-gallon bucket is useful for transporting your 25 lb daily limit. Never bring heavy hammers or power tools - hand tools only."
+    },
+    {
+      "question": "Is Congress Mine beginner-friendly, and can I bring my family and dogs?",
+      "answer": "Yes, Congress Mine is excellent for beginners and families. The terrain is flat and relatively open, requiring only short walks from parking areas. Children ages 6 and up can safely explore with supervision. Dogs are welcome on BLM land. The main hazards are heat and loose rocks underfoot - bring adequate water and sturdy footwear. Summer heat makes spring, fall, and winter family trips most comfortable."
+    }
+  ],
+  "meta_title": "Congress Mine Rockhounding - Wickenburg Arizona",
+  "meta_description": "Find gold, silver, and quartz at Congress Mine near Wickenburg, AZ on BLM land. No permit required, 25 lb daily limit, beginner-friendly flat terrain.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "history_formation_details",
+    "current_claim_status"
+  ],
+  "enriched_at": "2026-04-21T15:37:05.404Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T15:54:28.794Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "smoke-creek-desert-nv",
+  "name": "Smoke Creek Desert",
+  "lat": 40.717206,
+  "lng": -119.484798,
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "state_code": "NV",
+  "city": "Washoe County",
+  "city_slug": "washoe-county",
+  "county": "Washoe",
+  "county_slug": "washoe",
+  "geocoded_city": "Deep Hole",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nevada.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Smoke%20Creek%20Desert%20Nevada"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Nevada BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Smoke%20Creek%20Desert",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Smoke%20Creek%20Desert%20Nevada"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Nevada BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3918,
+      "meters": 1194
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:38:03.903Z"
+  },
+  "scraped_at": "2026-04-21T19:38:03.903Z",
+  "scrape_quality": "partial"
+}

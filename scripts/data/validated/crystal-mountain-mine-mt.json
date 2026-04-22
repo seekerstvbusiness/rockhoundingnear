@@ -1,0 +1,97 @@
+{
+  "slug": "crystal-mountain-mine-mt",
+  "name": "Crystal Mountain Mine",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Hamilton",
+  "city_slug": "hamilton",
+  "county": "Ravalli",
+  "county_slug": "ravalli",
+  "lat": 46.006579,
+  "lng": -113.888129,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "BLM public land rockhounding site in the Bitterroot Valley. Find quartz, feldspar, and mica specimens on gentle mountain slopes at 6700 feet elevation.",
+  "description": "Crystal Mountain Mine is a public BLM rockhounding site located in Ravalli County's scenic Bitterroot Valley region near Hamilton, Montana. The site sits at 6700 feet elevation on gentle slopes that provide comfortable access for rockhounders of varying abilities. The terrain combines exposed mineral-rich outcrops with open hillsides covered in sparse vegetation typical of Montana's intermountain zone.\n\nThis location is part of the Northern Rocky Mountains batholith zone, where Precambrian metamorphic rocks and granitic intrusions have created ideal conditions for quartz, feldspar, and mica mineralization. The exposed crystal-bearing formations in this area reflect the region's complex geological history spanning hundreds of millions of years of uplift, erosion, and hydrothermal alteration.\n\nVisitors can expect moderate walking distances across open hillside terrain to reach productive collecting areas. The gentle slope makes this site accessible to families and less experienced rockhounders, though sturdy footwear is still essential. Quartz specimens range from small crystals to larger display pieces, while feldspar and mica are commonly found in weathered granitic material.\n\nAs BLM public land, Crystal Mountain Mine operates under standard recreational use regulations with no fees or permits required. The surrounding Bitterroot Valley offers beautiful mountain vistas and access to additional public lands for extended rockhounding trips.",
+  "history": "Crystal Mountain sits within the Northern Rocky Mountains batholith, a massive granitic intrusion formed during the Cretaceous period roughly 80-100 million years ago. Subsequent uplift, erosion, and hydrothermal activity has exposed the quartz, feldspar, and mica-rich granitic host rock that attracts rockhounders to this location today.",
+  "tips": "Search the hillside outcrops and weathered granitic exposures where quartz crystals are most commonly visible in white or clear forms - avoid digging below the surface and work only loose material. Bring a small pry bar or rock hammer to gently separate specimens from decomposing granite without damaging crystals. Early morning visits in fall or spring offer the best visibility of specimens due to lower angle sunlight hitting the pale quartz and feldspar, and temperatures that allow comfortable hiking across the open slopes.",
+  "terrain_notes": "Elevation 6700 feet with gentle slope suitable for hiking. Open hillside terrain with sparse grassland and scattered low vegetation typical of montane zone. Unpaved/rough dirt road access to parking area. Walking distance to productive areas is approximately 0.5 to 1.5 miles depending on target locations. Rocky footing with stable ground, some loose talus and weathered granite debris.",
+  "best_season": "June - September. High elevation (6700 ft) creates short collecting season. July and August offer peak temperatures and dry conditions. June and early September provide cooler temperatures and fewer crowds. Spring runoff and winter snowpack make earlier months inaccessible.",
+  "written_directions": "From Hamilton, take MT 93 north approximately 8 miles. Turn east onto a marked BLM access road (Forest Service Road or similar designation - confirm current road status with Hamilton BLM office). Continue approximately 5-7 miles on rough dirt road with possible high clearance requirements. Look for BLM rockhounding signs or established pullout areas. Parking is available at informal turnouts near productive collecting zones.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough dirt road with possible ruts and washboard texture. High-clearance passenger vehicle recommended; 4WD not typically required in dry season but may be needed after rain or snow melt. Road may be impassable during winter months.",
+  "parking_notes": "Informal dirt pullouts near collecting areas. No developed parking lot. Space for 5-10 vehicles at various turnout locations along access road.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or power tools. Collect only loose material and weathered specimens; do not hammer or blast rock faces. Pack out all waste and leave no trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation or power tools\nNo hammering rock faces or blasting\nCollect loose material only\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Hamilton, MT approximately 10-12 miles west. Full services including gas, food, water, and supplies available.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers with moderate fitness. Unpaved rough dirt road to parking area may require high-clearance vehicle. Walking distances of 0.5-1.5 miles across open slopes with stable ground. No wheelchair accessibility due to road conditions and hillside terrain. Sturdy hiking boots recommended due to loose talus and rocky footing.",
+  "alternative_names": [],
+  "nearest_city": "Hamilton",
+  "nearest_city_distance": 11,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/crystal-mountain-mine-mt/cover.png",
+  "images": [],
+  "faq": [
+    {
+      "question": "What minerals can you find at Crystal Mountain Mine in Montana?",
+      "answer": "Crystal Mountain Mine is known for quartz, feldspar, and mica specimens. Quartz crystals are the primary find, ranging from small cabinet pieces to larger display specimens. Feldspar and mica are commonly found within the granitic host rock and weathered material across the hillsides. The site is particularly good for collectors seeking representative mineral samples from Northern Rocky Mountain granite."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Crystal Mountain Mine near Hamilton?",
+      "answer": "No permit is required. Crystal Mountain Mine is located on BLM public land and operates under recreational use regulations. You can collect for personal use with no advance permission needed. However, you must follow standard BLM rules: personal use only, maximum 25 lbs per day, no commercial collection, and no motorized excavation."
+    },
+    {
+      "question": "What is the best time to visit Crystal Mountain Mine for rockhounding in Montana?",
+      "answer": "June through September is the optimal collecting season. July and August provide peak conditions with warm temperatures and dry ground. The site sits at 6700 feet elevation where winter snow makes it inaccessible from November through May. Spring runoff in June can create muddy conditions, so late June through August offers the most reliable access and comfortable hiking."
+    },
+    {
+      "question": "Is Crystal Mountain Mine suitable for beginners and families with children?",
+      "answer": "Yes, Crystal Mountain Mine is beginner and family-friendly. The gentle slopes and easy terrain make it accessible to rockhounders of all experience levels. Children ages 6 and up can participate comfortably. The site requires no special equipment beyond a basic rockhounding hammer or pry bar, and loose specimens are readily available without advanced prospecting skills."
+    },
+    {
+      "question": "How far is Crystal Mountain Mine from Hamilton, Montana, and what are road conditions like?",
+      "answer": "Crystal Mountain Mine is approximately 10-12 miles northeast of Hamilton via MT 93 and a rough dirt BLM access road. The final 5-7 miles are on rough dirt road with possible washboard texture and ruts. A high-clearance passenger vehicle is recommended, though 4WD is typically not required in dry conditions. The road may become impassable during wet weather or winter months."
+    },
+    {
+      "question": "Can you bring your dog rockhounding at Crystal Mountain Mine?",
+      "answer": "Yes, Crystal Mountain Mine is dog-friendly. The open BLM land welcomes well-behaved pets. However, be prepared for the terrain and elevation - bring adequate water for your dog, especially during summer collecting. The 6700-foot elevation and exposed hillside terrain mean less shade, so early morning visits are recommended for your dog's comfort."
+    }
+  ],
+  "meta_title": "Crystal Mountain Mine Rockhounding - Montana",
+  "meta_description": "Find quartz, feldspar & mica at Crystal Mountain Mine near Hamilton, MT. BLM public land, no permit needed. Beginner-friendly collecting June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "parking_notes",
+    "nearest_city_distance",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-21T19:07:12.121Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:31.200Z"
+}

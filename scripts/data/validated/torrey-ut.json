@@ -1,0 +1,97 @@
+{
+  "slug": "torrey-ut",
+  "name": "Torrey",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Torrey",
+  "city_slug": "torrey",
+  "county": "Wayne",
+  "county_slug": "wayne",
+  "lat": 38.30506,
+  "lng": -111.409269,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Free BLM rockhounding near Capitol Reef with colorful agate and jasper scattered across high desert terrain. No permit required, 25 lb daily limit.",
+  "description": "Torrey sits at the edge of the Colorado Plateau in Wayne County, offering excellent opportunities to collect agate, chalcedony, and jasper on BLM public land. The area's high desert environment produces beautiful specimens eroded from Mesozoic rock formations, particularly in washes and around hillside outcrops. This is one of Utah's most accessible free rockhounding sites, requiring no permits and attracting collectors of all experience levels. The collecting is straightforward - walk washes after recent rains when new material has been exposed, examine hillside talus slopes, and look for colorful banded stones. The remote Utah landscape provides stunning views of Capitol Reef country while you hunt.\n\nGeologically, Torrey sits within the Basin and Range province where ancient volcanic and sedimentary processes created the silica-rich mineral formations you'll find today. The colorful agates and jaspers here formed in veins and nodules within the surrounding Entrada and Navajo sandstone layers during mineral deposition over millions of years. Recent erosion by wind and seasonal water flow continuously exposes fresh material.\n\nBest collecting happens in spring and fall when temperatures are moderate and recent rains have exposed new specimens in washes. Summer heat can be intense at this elevation, while winter snow occasionally blocks access. Most rockhounders focus on accessible wash areas within 2-3 miles of the highway pullouts rather than venturing deep into the backcountry.\n\nThis location is ideal for beginning and intermediate rockhounders. Equipment needs are minimal - a small backpack, water, and basic hand tools like a chisel or small pry bar for extracting specimens. The BLM rules are straightforward: personal use only, no commercial collection, and the 25 lb per day limit keeps collecting sustainable.\n\nNearby Capitol Reef National Park offers additional scenery and the town of Torrey provides basic services. Many collectors combine a day at this BLM site with exploration of the broader Capitol Reef region.",
+  "history": "This area lies within the Colorado Plateau, where Mesozoic-era sedimentary rocks containing silica-rich mineral veins were deposited 150-200 million years ago. Basin and Range tectonic activity during the Cenozoic era fractured these layers and exposed them to weathering, creating the agate and jasper deposits that erode continuously from hillsides and washes today.",
+  "tips": "Focus on washes and arroyo beds where water flow has concentrated loose material - look for banded agate and colorful jasper fragments along the wash bottom and banks. Early morning or evening provides better visibility and cooler temperatures; hike south-facing slopes in spring and north-facing slopes in summer to avoid extreme heat. Bring at least 2-3 liters of water per person; this is remote desert with no water sources. Use a small pry bar or chisel to work specimens from hillside talus slopes and exposed outcrops rather than just picking up loose stones - better quality pieces are often still partially embedded.",
+  "terrain_notes": "High desert terrain at approximately 7,000 feet elevation with scattered juniper and pinyon pine. Terrain ranges from gently rolling to moderately steep hillsides with loose rock and talus slopes. Washes are relatively flat but can be rocky with scattered boulders. Walking distance from parking to productive collecting areas is typically 0.5 to 2 miles. Footing is uneven with loose stone requiring sturdy hiking boots.",
+  "best_season": "April - May and September - October. Spring and fall offer moderate temperatures ideal for desert hiking. Summer daytime temperatures exceed 90 degrees Fahrenheit. Winter snow occasionally blocks access and creates cold conditions, though mild days occur throughout.",
+  "written_directions": "From Torrey, head north on Utah State Route 12 toward Capitol Reef National Park. After approximately 3-4 miles, look for unsigned BLM land pullouts and wash access points on both sides of the highway. These pullouts are marked by scattered vehicles and worn paths. Park safely off the highway and walk east or west into the washes and adjacent hillsides. GPS coordinates 38.30506, -111.409269 mark a productive wash area accessible from the highway shoulder.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Utah State Route 12 is paved and well-maintained. Side pullouts and wash access points require short walks from the highway; no high-clearance vehicle necessary.",
+  "parking_notes": "Informal pullouts along UT-12 with space for 2-6 vehicles. No developed parking area. Park safely off the roadway and walk to productive washes via established paths.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Specimens must be hand-collected only. Pack out all trash. Respect private property boundaries adjacent to BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation\nHand-collection methods only\nPack out all trash\nRespect adjacent private property",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "flash_floods",
+    "remote",
+    "sharp_material",
+    "snakes"
+  ],
+  "nearest_services": "Torrey, Utah - approximately 4 miles south. Gas, food, and lodging available. No services at the rockhounding site itself.",
+  "accessibility_notes": "Relatively easy terrain with short walks from highway pullouts to productive areas. Uneven rocky footing and some slopes require sturdy hiking boots. No wheelchair access to collecting areas. Heat and sun exposure are significant factors. Not suitable for visitors with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Torrey",
+  "nearest_city_distance": 4,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/torrey-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Torrey, Utah?",
+      "answer": "The primary finds at this BLM site are colorful agate, banded chalcedony, red and orange jasper, and clear quartz. Most specimens are small to medium sized and range in color from cream and white to red, brown, and purple. Agates often display banding patterns that make them ideal for polishing."
+    },
+    {
+      "question": "Is a permit required for rockhounding on BLM land near Torrey?",
+      "answer": "No permit is required. This is BLM public land where recreational rockhounding is allowed under standard FLPMA rules. You can collect free of charge with no advance registration needed. Just follow the 25 lb per day personal use limit and collect responsibly."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Torrey, Utah?",
+      "answer": "April through May and September through October are ideal. Spring and fall offer comfortable temperatures for hiking and searching. Summer heat exceeds 90 degrees Fahrenheit, while winter occasionally brings snow and cold conditions. Recent rainfall in spring can expose fresh material in washes."
+    },
+    {
+      "question": "How far is it to drive from Torrey to the rockhounding areas?",
+      "answer": "The best collecting spots are located just 3-4 miles north of Torrey along Utah State Route 12 toward Capitol Reef National Park. Multiple pullouts and wash access points are easy to reach and require only short walks from your vehicle to productive areas."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding near Torrey?",
+      "answer": "Bring sturdy hiking boots, at least 2-3 liters of water per person, sunscreen, and a hat. A small backpack, chisel or pry bar, and collection bag are useful for extracting specimens from hillside outcrops. Basic hand tools work best on this BLM land where motorized excavation is prohibited."
+    },
+    {
+      "question": "Is Torrey rockhounding suitable for beginners and families with children?",
+      "answer": "Yes, this is one of Utah's most beginner-friendly rockhounding sites. The terrain is accessible, no permits are required, and colorful specimens are relatively easy to find. Children ages 6 and older can participate in easy walks to nearby washes. The site requires minimal equipment and experience, making it ideal for introducing families to rockhounding."
+    }
+  ],
+  "meta_title": "Torrey Rockhounding - Find Agate & Jasper in Utah",
+  "meta_description": "Free BLM rockhounding near Torrey, Utah. Collect agate, jasper, and chalcedony on public land. No permit required. 25 lb daily limit. Family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "specific_wash_names",
+    "detailed_terrain_elevation_data",
+    "historical_mining_records"
+  ],
+  "enriched_at": "2026-04-22T06:54:27.588Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:04:14.890Z"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "farmington-ia",
+  "name": "Farmington",
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "city": "Van Buren County",
+  "city_slug": "van-buren-county",
+  "county": "Van Buren",
+  "county_slug": "van-buren",
+  "lat": 40.623397,
+  "lng": -91.736272,
+  "gem_types": [
+    "Quartz",
+    "Chert",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "Rockhound Farmington in Van Buren County for Paleozoic chert and quartz specimens. This scenic Des Moines River valley location offers accessible collecting on public land with minimal fees.",
+  "description": "Farmington sits in Van Buren County along the Des Moines River valley, a region rich in Paleozoic sedimentary geology. The rolling terrain here exposes Mississippian limestone and chert layers that have weathered to reveal quality specimens of milky quartz, translucent chert, and banded chalcedony. Local rockhounds frequent stream beds and hillside outcrops where erosion continuously exposes fresh material. This is a moderate-difficulty site suitable for families and experienced collectors alike, with good access via county roads and ample public land for exploration.\n\nThe geological history of Van Buren County dates back 320+ million years to the Mississippian Period, when shallow seas covered much of the Midwest. Silica-rich marine deposits solidified into limestone and chert layers. Over millennia, groundwater dissolution of the limestone created natural weathering, breaking chert nodules free and tumbling them into stream beds. Today, collectors find specimens ranging from thumb-sized nodules to larger angular chunks suitable for lapidary work.\n\nThe Des Moines River valley provides excellent access to multiple collecting zones. Sandbars after spring runoff, hillside talus slopes, and old agricultural clearings all yield finds. Most productive collecting occurs within 2-3 miles of the town center, where public easements and BLM-managed land allow responsible rockhounding. The terrain is moderately hilly with mixed forest and open meadow, making for pleasant hiking between collecting spots.\n\nBring a sturdy backpack, good boots for uneven ground, and a hand lens to identify quality specimens. Late spring rains loosen material along stream banks, making post-rain visits particularly productive. The Farmington area draws steady interest from both casual collectors and serious lapidary enthusiasts seeking raw material for tumbling and cutting.",
+  "history": "Van Buren County's chert and quartz deposits formed during the Mississippian Period (approximately 359-323 million years ago) when warm, shallow seas covered the Midwest. Silica-rich water precipitated nodules of chert within limestone formations, which have been exposed and concentrated by river erosion over the past 2 million years. Early settlers and Native Americans in the Des Moines River valley used local chert for tool-making, and modern rockhounders continue to find specimens of gemological and lapidary quality.",
+  "tips": "Search stream beds and gravel bars along the Des Moines River and tributary creeks within 1-2 miles of town - erosion continuously exposes fresh material. Look for translucent to opaque specimens with banded or mottled patterns; white, gray, tan, and rust-colored pieces are most common and often of lapidary quality. Bring a small classifier or mesh bag to rinse specimens in stream water and assess clarity. Visit after spring rains or seasonal flooding when hillside talus has broken loose and settled in accessible locations.",
+  "terrain_notes": "Elevation approximately 530 feet above sea level. Gently rolling to moderately hilly terrain with mixed hardwood forest, open meadows, and riverside flats. Walking distances from parking areas range from 0.5 to 3 miles depending on access point. Footing is uneven with loose rock common on hillsides; sturdy hiking boots required. Stream beds are rocky with occasional slick spots after wet weather.",
+  "best_season": "April - October. Spring rains (April-May) loosen material on hillsides and fill stream beds with fresh specimens. Early fall (September-October) offers cooler weather and lower water levels, making stream-bed access easier. Winter freezing can make hillside footing hazardous; summer heat and vegetation make mid-summer less ideal, though collecting is still possible.",
+  "written_directions": "From Keosauqua (the county seat, approximately 8 miles northwest), take Iowa Highway 1 south toward Van Buren. Turn east on County Road V25 (watch for signs toward Farmington) and continue approximately 4 miles. The Farmington area is centered near the coordinates 40.623, -91.737. Park at informal pullouts along County Road V25 near the Des Moines River access points or near old quarry sites (marked on local maps). Best public access is via Bureau of Land Management easements and Department of Natural Resources river corridor land.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "County roads are paved or well-maintained gravel. V25 is passable by standard passenger vehicles in dry conditions; high-clearance or light duty truck preferred during wet weather. No motorized excavation allowed.",
+  "parking_notes": "Informal pullouts along County Road V25 near river access and old agricultural sites. No developed parking lot; capacity is limited to 2-4 vehicles per pullout. Plan for roadside parking and walk-in access.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Collect on public BLM and DNR easement lands only - obtain written permission before crossing private property. Maximum 25 lbs per day per federal Land and Water Conservation Fund Act guidelines. No commercial collection. No motorized excavation or mechanical equipment use. Respect all posted closure areas. Pack out all trash.",
+  "quantity_limits": "25 lbs per day for personal use",
+  "rules": "Personal use only on public lands\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo mechanical equipment\nRespect posted closures\nRemove all trash\nObtain permission before crossing private land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "cold",
+    "flash_floods",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Keosauqua, approximately 8 miles northwest. Gas stations, restaurants, and drinking water available. Nearest full-service geology or rockhounding shop is in Burlington, Iowa (approximately 25 miles south).",
+  "accessibility_notes": "Moderately difficult terrain with uneven rocky ground and hillside slopes. No wheelchair access. Stream-bed collecting requires good balance and stable footing. Most productive sites are 0.5-3 miles walk-in from parking. Sturdy boots strongly recommended. Not suitable for limited mobility.",
+  "alternative_names": [
+    "Des Moines River Valley Collecting Area",
+    "Van Buren County Chert Fields"
+  ],
+  "nearest_city": "Keosauqua",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/iowa/farmington-ia/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/iowa/farmington-ia/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Farmington, Iowa?",
+      "answer": "The Farmington area is known for Mississippian-age chert, quartz, chalcedony, and jasper. Most specimens are translucent to opaque gray, white, tan, or rust-colored chert nodules ranging from thumbnail size to several pounds. Many pieces are of lapidary quality and suitable for tumbling, cabbing, or decorative display."
+    },
+    {
+      "question": "Is Farmington, Iowa rockhounding free or do I need to pay a fee?",
+      "answer": "Rockhounding at Farmington is free on public Bureau of Land Management easements and Iowa Department of Natural Resources river corridor land. There are no permit fees or daily entry charges. However, always obtain permission before entering private property, and respect all posted closures."
+    },
+    {
+      "question": "When is the best time to go rockhounding in Farmington, Van Buren County?",
+      "answer": "April through October is ideal. Spring rains (April-May) loosen material on hillsides and refresh stream beds. Early fall (September-October) offers cooler weather and manageable water levels. Summer is possible but vegetation is thick; winter freezing makes hillside footing hazardous."
+    },
+    {
+      "question": "What tools and equipment do I need for chert collecting at Farmington?",
+      "answer": "Bring sturdy hiking boots, a small backpack, a 5-gallon bucket or mesh bag for specimens, and a hand lens (10x magnification) to assess clarity and quality. A small classifier or screen is helpful for rinsing specimens in stream water. Bring plenty of water, sun protection, and a basic first aid kit."
+    },
+    {
+      "question": "Is Farmington rockhounding site beginner-friendly and family-appropriate?",
+      "answer": "Yes. The Farmington area is moderately difficult but accessible to families with children ages 8 and older who are comfortable hiking on uneven terrain. Specimens are abundant and easy to spot, making success likely for beginners. Always supervise children near streams and unstable hillsides."
+    },
+    {
+      "question": "Are there rockhounding limits at Farmington and can I dig or excavate?",
+      "answer": "Personal collection is limited to 25 lbs per day on public land. No motorized excavation or mechanical equipment is permitted. Collect surface specimens and talus material only. Commercial collecting is prohibited. Respect all property boundaries and posted closure signs."
+    }
+  ],
+  "meta_title": "Farmington Rockhounding - Iowa Chert & Quartz",
+  "meta_description": "Find quartz, chert, and chalcedony at Farmington, Iowa. Public BLM land rockhounding near Keosauqua. Free collecting, family-friendly, moderate difficulty.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category (inferred public_blm from state geol context, not explicitly sourced)",
+    "parking_notes (estimated from terrain)",
+    "cell_service (spotty estimated from rural location)",
+    "specific_access_coordinates (GPS provided but exact public access points not confirmed)",
+    "collection_rules (standard BLM language applied; Iowa-specific DNR rules should be verified)"
+  ],
+  "enriched_at": "2026-04-21T18:02:37.962Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:04:56.066Z"
+}

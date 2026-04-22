@@ -1,0 +1,100 @@
+{
+  "slug": "unaka-nc",
+  "name": "Unaka",
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "city": "Cherokee",
+  "city_slug": "cherokee",
+  "county": "Cherokee",
+  "county_slug": "cherokee",
+  "lat": 35.183948,
+  "lng": -84.154065,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Garnet"
+  ],
+  "short_description": "Rockhound the gentle slopes of Unaka in Cherokee County for quartz, feldspar, and mica. This accessible site in the Blue Ridge foothills offers good collecting on public land with minimal elevation...",
+  "description": "Unaka sits at 1513 feet in the western North Carolina Blue Ridge foothills, an ideal elevation zone for rockhounding during spring and fall. The area's gentle slopes and accessible terrain make it suitable for beginners and families looking for quality mineral specimens without strenuous hiking. The Unaka region benefits from the intense metamorphic activity that shaped the Southern Appalachians, creating abundant quartz veins, feldspar deposits, and mica schists throughout the local bedrock.\n\nThe geology here reflects Precambrian to Paleozoic metamorphic processes that transformed sedimentary rocks into schist, gneiss, and slate. Quartz is the most common find, appearing both as glassy crystals in weathered outcrops and as rounded pebbles in small stream washes. Feldspar crystals, particularly pink orthoclase, can be found in pegmatitic zones where late-stage mineral crystallization created larger crystal formations. Mica flakes are abundant in the local schist layers and make excellent specimens for beginner collectors.\n\nExpect gentle rolling terrain with mixed deciduous and evergreen forest coverage typical of the Appalachian foothills. The area supports small creeks and seasonal washes that expose fresh mineral material after heavy rains. Collection is straightforward - focus on exposed outcrops, streambed gravels, and small talus slopes where weathering has freed specimens. The combination of accessibility, productivity, and scenic mountain views makes Unaka a solid choice for a rockhounding day trip.",
+  "history": "The Unaka area sits within the heavily metamorphosed core of the Southern Appalachian Mountains, where intense pressure and heat during the Alleghenian orogeny (approximately 320-300 million years ago) transformed vast sequences of sedimentary rocks into the metamorphic complexes visible today. Quartz veining and pegmatite intrusions in this region are direct products of fluids released during metamorphism, which concentrated silica and feldspar into exploitable mineral zones that rockhounders still find productive.",
+  "tips": "Search small creek washes and exposed streambed gravels where water action has concentrated heavier minerals and freed specimens from the surrounding matrix - quartz crystals and feldspar chunks are easiest to spot here. Use a geology hammer or small pry bar to carefully work loose specimens from weathered outcrops rather than striking the rock face directly, which damages both the site and potential finds. Look for pegmatitic zones (light-colored areas with larger crystals) along hillsides and ridge faces; these often contain exceptional feldspar specimens up to several inches across. Bring a small hand lens to identify the distinction between quartz (glassy, conchoidal fracture) and feldspar (more angular cleavage planes) - this skill dramatically improves your collecting success rate.",
+  "terrain_notes": "Elevation 1513 feet with gentle slopes suitable for hikers of varying ability. Typical Appalachian foothills vegetation includes mixed hardwoods and conifers. Walking distances from parking to productive areas typically range from 50 feet to half a mile. Footing is generally stable with some loose leaf litter and weathered rock fragments; sturdy shoes recommended but not essential for most areas.",
+  "best_season": "March - May, September - November. Fall and spring offer comfortable temperatures, lower humidity, and better visibility after summer vegetation dies back. Stream washes are most productive after spring rains or autumn storms refresh mineral exposure.",
+  "written_directions": "From Cherokee, take US 441 north toward the Unaka area approximately 8-10 miles. Look for small pullouts along the highway where creek washes and roadcuts expose metamorphic bedrock. The GPS coordinates 35.183948, -84.154065 mark a productive area accessible from secondary roads in the immediate region. Local roads are paved but narrow; passenger vehicles are suitable. Ask locally for current access points as conditions and landowner permissions can vary.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway and secondary roads. Narrow mountain roads, generally well-maintained. Passenger vehicle suitable for accessing main pulling areas.",
+  "parking_notes": "Small informal pullouts along US 441 and side roads. Limited capacity (2-4 vehicles). No developed parking facility; pull well off the roadway.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Respect private property boundaries. Do not collect on marked private land. Do not remove specimens from roadcut faces where unstable rock poses hazard. Pack out all trash. Leave the site in better condition than you found it. No motorized excavation.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nRespect private property and posted signs\nDo not excavate or hammer roadcut faces\nPack out all trash\nLeave the area undamaged",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cliffs",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Cherokee, approximately 8-10 miles south. Full services available including gas, food, and lodging.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Paved road access with informal pullouts. Short walking distances to productive areas. Uneven rocky terrain common at collection sites; sturdy footwear recommended. No wheelchair access to primary collecting areas; creek washes and hillsides require navigation of natural obstacles.",
+  "alternative_names": [],
+  "nearest_city": "Cherokee",
+  "nearest_city_distance": 9,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/unaka-nc/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/unaka-nc/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can you find rockhounding at Unaka in North Carolina?",
+      "answer": "Unaka is best known for quartz crystals, feldspar specimens (especially pink orthoclase), mica flakes, and garnet. Quartz is the most abundant find and ranges from small glassy crystals to larger chunks. Feldspar is particularly rewarding in pegmatitic zones where crystals can reach several inches across. The metamorphic geology of the Appalachian foothills makes this an excellent destination for building a quality mineral collection."
+    },
+    {
+      "question": "Is rockhounding at Unaka free, or do I need a permit?",
+      "answer": "Rockhounding at Unaka is completely free with no permit required for personal use collection on public land. This is an outstanding advantage for budget-conscious rockhounders. Always respect private property boundaries marked on the land, and stay within public-access areas. Check locally before visiting to confirm current access conditions."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Cherokee, North Carolina?",
+      "answer": "The best seasons at Unaka are March through May and September through November. Fall offers cooler temperatures and clearer skies as vegetation dies back, improving visibility of mineral specimens. Spring brings refreshing rains that expose new material in creek washes. Summer heat and humidity make collecting uncomfortable, while winter can bring icy conditions on hillsides."
+    },
+    {
+      "question": "Is Unaka rockhounding site beginner-friendly and safe for families?",
+      "answer": "Yes, Unaka is excellent for beginners and families. The gentle slopes, accessible parking, and short walks to productive areas make it ideal for collectors of all ages. Children ages 6 and up can participate successfully. Use caution around loose rock and creek washes, and always supervise young collectors. The open terrain and moderate elevation gain prevent overexertion."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Unaka?",
+      "answer": "Pack a small geology hammer or pry bar, hand lens for specimen identification, sturdy hiking boots, water bottle, and a collection bag. A backpack helps distribute weight comfortably. Bring a field guide to Appalachian minerals to help identify your finds. Gloves protect your hands when handling sharp quartz edges and weathered rock fragments common at this site."
+    },
+    {
+      "question": "How far is Unaka from town, and what are directions from Cherokee?",
+      "answer": "Unaka is approximately 9-10 miles north of Cherokee via US 441. Drive north on US 441 and watch for pullouts where creek washes and roadcuts expose metamorphic bedrock. The coordinates 35.183948, -84.154065 mark a productive collecting area. Passenger vehicles access the site easily. Cherokee offers full services including gas, food, and lodging just minutes away."
+    }
+  ],
+  "meta_title": "Unaka Rockhounding - Cherokee County NC",
+  "meta_description": "Find quartz, feldspar, and mica at Unaka near Cherokee, NC. Free public rockhounding on gentle Appalachian foothills terrain. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "collection_rules",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T09:50:20.699Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T09:51:28.306Z"
+}

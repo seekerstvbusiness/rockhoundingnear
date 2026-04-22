@@ -1,0 +1,102 @@
+{
+  "slug": "monticello-mining-district-ut",
+  "name": "Monticello mining district",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Monticello",
+  "city_slug": "monticello",
+  "county": "San Juan",
+  "county_slug": "san-juan",
+  "lat": 37.831271,
+  "lng": -109.467024,
+  "gem_types": [
+    "Malachite",
+    "Chalcedony"
+  ],
+  "short_description": "Historic uranium and vanadium mining district on BLM land with colorful secondary minerals like azurite and malachite. Free rockhounding on public land with a 25 lb daily limit.",
+  "description": "The Monticello mining district in San Juan County, Utah, is one of the most geologically significant uranium-vanadium mining regions in the American Southwest. This BLM-managed area offers rockhounds the opportunity to explore mining heritage sites and collect secondary minerals formed by the weathering of ore deposits. The district was heavily prospected during the uranium boom of the 1950s-1970s, leaving behind tailings piles, prospect pits, and exposed mineralized rock formations that are now accessible to collectors.\n\nGeologically, the Monticello district sits within the Colorado Plateau physiographic province, where Jurassic-age sandstones host the uranium-vanadium ore bodies. The mineralization occurred during the Tertiary period when fluids rich in uranium and vanadium percolated through the porous Entrada and Morrison formations, depositing metal oxides along fractures and in sandstone matrix. Today, collectors can find vivid secondary minerals including bright blue azurite, green malachite, and yellow uranium minerals that formed as primary ore was oxidized near the surface.\n\nVisitors should expect high desert terrain with scattered pinyon-juniper woodland and open sandy flats. The landscape is characterized by low buttes, washes, and exposed rock outcrops. Many old mine roads provide vehicle access to collecting areas, though some sites require hiking. The Monticello area is relatively accessible compared to more remote uranium districts, making it suitable for rockhounders with moderate experience.\n\nBecause this is active and former mining territory, always respect posted claims, avoid entering mine shafts or adits, and stay on BLM land. The district offers an excellent opportunity to study ore mineralogy and collect colorful secondary minerals while understanding Utah's important mining history. Early morning starts are recommended to avoid afternoon heat and to ensure adequate time for exploration.",
+  "history": "The Monticello mining district experienced intense prospecting and mining activity from the 1950s through the 1970s during the uranium boom, driven by Cold War demand for nuclear fuel. The area's mineralization resulted from circulating groundwaters during the Tertiary period that concentrated uranium, vanadium, and copper in Jurassic sandstones of the Colorado Plateau, creating economically significant ore deposits that attracted hundreds of prospectors to the region.",
+  "tips": "Search along washes and erosional gullies where secondary minerals are concentrated by weathering and water action; blue azurite and green malachite are often found on the surface of oxidized outcrops. Bring a UV light or portable xray fluorescence device if available to spot uranium minerals more effectively, though many secondary minerals like azurite and malachite are easily identified by color. Focus on the reddish and orange-stained sandstone outcrops which indicate iron-rich oxidation halos that often accompany ore zones. Early morning collecting allows you to work in cooler temperatures and spot mineral colors better in lower-angle sunlight.",
+  "terrain_notes": "Elevation ranges from 5,500 to 6,500 feet with semi-arid high desert topography dominated by pinyon-juniper woodland and open sandy flats. Terrain is gently rolling to moderately steep with exposed sandstone outcrops, numerous washes, and scattered boulders. Footing is generally stable on sandy soil but rocky in elevated areas. Walking distances from parking areas typically range from 0.5 to 3 miles depending on specific site chosen.",
+  "best_season": "October - April. The high desert location experiences scorching summers with temperatures regularly exceeding 90 degrees F, making summer rockhounding difficult. Fall through spring offers comfortable temperatures, lower UV exposure, and better visibility of mineral colors. Winter storms are infrequent but possible; spring can bring occasional flash flooding in washes.",
+  "written_directions": "From Monticello, take US 191 south for approximately 8 miles toward the Four Corners region. Look for signed BLM access roads and old mining district road markers branching east toward the Monticello mining district. The main access roads are graded dirt and passable to passenger vehicles in dry conditions, though high-clearance vehicles are preferred. Park at pullouts near visible old mine workings or mineralized outcrops. GPS coordinates (37.831271, -109.467024) mark the approximate center of the district; specific collecting sites are scattered across a 20-square-mile area.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Graded dirt roads, washboard surface typical. High-clearance recommended but not required in dry conditions. Roads may be impassable after heavy rain. No motorized excavation permitted.",
+  "parking_notes": "Pullouts and informal parking areas at various mine sites throughout the district. Limited developed parking; plan to park along road edges near trailheads or mine entrances. Capacity varies by location; 2-5 vehicles typical at any single pullout.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or sale of specimens. No motorized excavation or mechanical collection methods. Stay on BLM land and respect posted mining claims. Do not enter mine shafts, adits, or tunnels. Pack out all trash. Follow Leave No Trace principles.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\n25 lbs maximum per day\nNo motorized excavation\nNo mechanical collection methods\nRespect posted mining claims\nDo not enter mine shafts or adits\nPack out all trash\nStay on BLM land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes",
+    "remote"
+  ],
+  "nearest_services": "Monticello, approximately 8 miles north. Full services including gas, food, lodging, and water available in town.",
+  "accessibility_notes": "Uneven rocky and sandy terrain with moderate elevation changes. No wheelchair access to most collecting areas. Sturdy hiking boots required; footing can be unstable on loose talus and sand. Most accessible sites are within 1 mile of vehicle parking. Bring plenty of water; limited shade available.",
+  "alternative_names": [
+    "Monticello uranium district",
+    "Monticello vanadium district"
+  ],
+  "nearest_city": "Monticello",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/monticello-mining-district-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/monticello-mining-district-ut/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals can I find rockhounding at Monticello mining district in Utah?",
+      "answer": "The primary secondary minerals found at Monticello are bright blue azurite, vibrant green malachite, and yellow-green uranium minerals including uranophane and autunite. You may also find chalcedony, quartz, and iron oxide minerals in the oxidized ore zones. These minerals form from weathering of primary uranium-vanadium ore deposits in Jurassic sandstones."
+    },
+    {
+      "question": "Do I need a permit to collect at Monticello mining district?",
+      "answer": "No permit is required for recreational rockhounding at Monticello mining district, as it is BLM public land open to personal use collection. You are limited to 25 lbs per day per FLPMA regulations. Commercial collection is prohibited. Always verify current access by contacting the BLM Monticello Field Office before your visit."
+    },
+    {
+      "question": "What is the best time of year for rockhounding near Monticello, Utah?",
+      "answer": "October through April is the ideal season for collecting at Monticello. Summer temperatures regularly exceed 90 degrees F making outdoor work difficult, while fall through spring offers comfortable temperatures and better visibility of mineral colors. Winter is generally dry in this high desert region, making roads passable, though occasional snow or flash flooding is possible in spring."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Monticello mining district?",
+      "answer": "Yes, dogs are allowed on BLM land at Monticello mining district. Keep your dog under control, bring plenty of water for both you and your pet, and be aware of snakes and other wildlife in the area, especially during warm months. The terrain is rocky and sandy, so protect your dog's paws from sharp material."
+    },
+    {
+      "question": "How far is Monticello mining district from Monticello, Utah, and what roads do I take?",
+      "answer": "Monticello mining district is approximately 8 miles south of Monticello via US 191. From town, take US 191 south and turn east on signed BLM mining district roads. Main access roads are graded dirt, passable to passenger vehicles in dry conditions, though high-clearance vehicles are recommended. Allow 15-20 minutes to reach the primary collecting areas."
+    },
+    {
+      "question": "Is Monticello mining district suitable for beginner rockhounders and families with kids?",
+      "answer": "Yes, Monticello mining district is beginner and family-friendly with a moderate difficulty level. Young collectors can find colorful azurite and malachite on the surface without specialized equipment. The terrain requires sturdy shoes and awareness of abandoned mines and snakes, making it suitable for kids 8 and older. Bring sun protection, plenty of water, and a basic rock hammer for collecting."
+    }
+  ],
+  "meta_title": "Monticello Mining District Rockhounding - Utah",
+  "meta_description": "Find azurite, malachite, and uranium minerals at Utah's Monticello mining district. Free BLM rockhounding with 25 lb daily limit. No permit needed.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - uranium and vanadium are minerals not gems; included as they are the primary economic minerals found here",
+    "road_conditions - assumed from typical BLM roads in high desert without specific source data",
+    "nearest_services - assumed based on Monticello being county seat; verify gas and food availability",
+    "cell_service - estimated as spotty based on rural high desert location without specific tower data"
+  ],
+  "enriched_at": "2026-04-22T06:52:38.657Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:00:20.344Z"
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "area-around-hotel-az",
+  "name": "Area around Hotel, Black Canyon City",
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "city": "Black Canyon City",
+  "city_slug": "black-canyon-city",
+  "county": "Yavapai",
+  "county_slug": "yavapai",
+  "lat": 33.981524,
+  "lng": -112.362439,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land near Black Canyon City offering easy rockhounding for agate, jasper, and quartz in gentle desert terrain. No permit required, personal use collecting only.",
+  "description": "This BLM-managed area around Black Canyon City offers accessible rockhounding in the Sonoran Desert foothills of Yavapai County. The site sits at 1,963 feet elevation with gentle slopes ideal for beginners and families exploring the productive agate and jasper formations common to this region. The area's proximity to Bitter Creek and Castle Creek provides natural collecting zones where water erosion has exposed gemstone-bearing gravels and washes.\n\nThe geology here reflects the Basin and Range province characteristic of central Arizona, where Tertiary-age volcanic and sedimentary rocks contain silica-rich mineral deposits. Agate nodules and chalcedony specimens form in vesicles and fractures within the volcanic rocks, while jasper occurs in oxidized zones. The gentle slopes and accessible washes make this an ideal location for beginners learning to identify and collect Arizona's signature gemstones.\n\nExpect a mix of desert scrub vegetation, creosote bush, and scattered boulders. The terrain is relatively open with good visibility for spotting specimens on the surface or in dried wash beds. Early morning or late afternoon provides the best lighting for spotting the subtle color variations that identify quality agate and jasper.\n\nThis location is perfect for a half-day outing from Phoenix or Flag. The absence of permit requirements and reasonable 25-pound daily limit make it ideal for casual collectors testing equipment and techniques before venturing to remote sites. Bring plenty of water, as services are minimal in this semi-remote area.",
+  "history": "This region lies within the Basin and Range province where Tertiary volcanic activity and subsequent erosion created extensive silica deposits. Agate and jasper nodules formed in cooling volcanic rocks and were later exposed by millions of years of desert erosion, concentrating specimens in accessible washes and bajadas throughout Yavapai County.",
+  "tips": "Search the washes and bajadas around Bitter Creek and Castle Creek where water erosion concentrates heavier agate and jasper specimens. Look for small rounded nodules with banded colors - reds, browns, and creams are common here. Bring a 5-gallon bucket and hand tools like a geology pick to test specimens; many agates are partially buried in gravelly soil. The early morning light reveals the translucent qualities of chalcedony better than midday sun.",
+  "terrain_notes": "Gentle slope terrain at 1,963 feet elevation with scattered desert scrub, creosote bush, and boulders. Walking distance from parking is typically less than one mile to productive areas. Ground footing is uneven with loose rocks and gravelly soil; sturdy hiking boots recommended. Washes provide easier walking surfaces but watch for flash flood potential after monsoons.",
+  "best_season": "October - April. Late fall through early spring offers comfortable temperatures (60-75 degrees F) ideal for extended outdoor collecting. Avoid June through September when desert heat exceeds 100 degrees F and afternoon monsoon storms create flash flood hazards in washes.",
+  "written_directions": "From Black Canyon City town center, take I-17 northbound for approximately 2 miles. Exit toward the frontage road or local access roads paralleling the interstate. Look for BLM-accessible pullouts and washes near the highway. Alternatively, take local roads east or northeast from Black Canyon City town toward the nearby washes and bajadas. GPS coordinates 33.981524, -112.362439 point to productive areas near Bitter Creek drainage, approximately 1-2 miles northeast of town. High-clearance passenger vehicles can access most areas; some wash routes may require 4WD after rain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved access via I-17 frontage roads to area; unpaved dirt roads and washes vary from packed dirt to sandy/gravelly surfaces. Some washboard effect on older dirt roads. Passenger vehicles suitable for main collecting areas; high clearance helpful.",
+  "parking_notes": "Informal pullouts along dirt roads and wash access points. No developed parking area. Space for 3-5 vehicles at typical spots. Arrive early on weekends as informal sites can fill.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection or resale. No motorized excavation equipment. No explosives. Collect only from the surface or hand tools - no mechanical digging. Leave no trash. Respect private property boundaries adjacent to BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo explosives\nPack out all trash\nRespect adjacent private property",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Black Canyon City, 1-2 miles away. Limited services including a gas station and small store. Full services (grocery, restaurants, lodging) in Cordes Junction, 8 miles north on I-17, or returning south to Phoenix area suburbs.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Unpaved dirt roads and washes with uneven, rocky footing. No wheelchair access to active collecting areas. Sturdy footwear required. Water crossings in wash areas may be present after monsoons. Overall moderate physical exertion for walking and bending to collect specimens.",
+  "alternative_names": [
+    "Black Canyon City Rockhounding Area",
+    "Bitter Creek Basin",
+    "Yavapai County BLM Collecting"
+  ],
+  "nearest_city": "Black Canyon City",
+  "nearest_city_distance": 1,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-around-hotel-az/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-around-hotel-az/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Black Canyon City on BLM land?",
+      "answer": "This BLM area is known for agate, jasper, quartz, and chalcedony specimens. Agates often display banded patterns in reds, browns, creams, and whites. Jasper is typically solid-colored and more opaque. Both are found as small nodules in desert washes and bajadas. Success depends on exploring multiple washes and thoroughly scanning the ground, especially after recent erosion events."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Black Canyon City Arizona?",
+      "answer": "No permit is required for recreational collecting on BLM land near Black Canyon City. However, you must follow the 25-pound per-day personal use limit and cannot engage in commercial collection. Always verify current regulations with the local BLM office before your trip, as rules can change."
+    },
+    {
+      "question": "Is rockhounding near Black Canyon City good for beginners and families?",
+      "answer": "Yes, this location is excellent for beginners and families. The gentle slopes and easy access from I-17 make it ideal for first-time rockhounders. Children ages 6 and up can participate safely with supervision. The nearby washes provide natural collecting zones with good surface specimens, and no permit requirements mean quick setup and collecting."
+    },
+    {
+      "question": "What is the best season to rockhound at Black Canyon City Arizona?",
+      "answer": "October through April is ideal for rockhounding near Black Canyon City. Daytime temperatures range from 60-75 degrees F, providing comfortable conditions for outdoor collecting. Avoid June through September when desert heat exceeds 100 degrees F and afternoon monsoon storms create flash flood hazards in washes."
+    },
+    {
+      "question": "What tools do I need to find agate and jasper at Black Canyon City?",
+      "answer": "Bring a 5-gallon bucket for specimens, a geology pick or small pry bar to test partially buried nodules, and sturdy hiking boots for uneven terrain. A hand lens (10x magnification) helps identify chalcedony, and a UV light reveals fluorescent properties in some specimens. Work gloves protect hands when handling sharp edges on broken rocks."
+    },
+    {
+      "question": "How far is Black Canyon City rockhounding from Phoenix Arizona?",
+      "answer": "Black Canyon City is approximately 50 miles north of Phoenix via I-17, about one hour drive time. This makes it an excellent half-day or full-day rockhounding trip from the Phoenix metro area. Nearby services include a gas station and small store in Black Canyon City, with full amenities in Cordes Junction 8 miles north."
+    }
+  ],
+  "meta_title": "Find Agate & Jasper near Black Canyon City, Arizona",
+  "meta_description": "Rockhound BLM public land near Black Canyon City for agate, jasper, and quartz. No permit, 25 lb/day limit. Easy desert terrain great for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from terrain data and general area geography; specific road names not provided in source",
+    "nearest_city_distance - estimated at 1-2 miles based on GPS coordinates and town location",
+    "parking_notes - inferred from typical BLM access patterns; specific facility data not provided",
+    "cell_service - marked spotty based on rural Arizona location near I-17 corridor",
+    "hazards - inferred from Arizona desert conditions and wash terrain; specific incident data not available"
+  ],
+  "enriched_at": "2026-04-21T15:31:21.907Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T15:55:46.045Z"
+}

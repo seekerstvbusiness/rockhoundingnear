@@ -1,0 +1,96 @@
+{
+  "slug": "florence-ks",
+  "name": "Florence",
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "city": "Marion",
+  "city_slug": "marion",
+  "county": "Marion",
+  "county_slug": "marion",
+  "lat": 38.242986,
+  "lng": -96.902809,
+  "gem_types": [
+    "Chalcedony",
+    "Chert",
+    "Quartz",
+    "Agate"
+  ],
+  "short_description": "Historic rockhounding location in Marion County offering chalcedony, chert, and quartz specimens. Flat terrain with easy public access near the town of Florence.",
+  "description": "Florence lies in the Flint Hills region of Marion County, Kansas, an area known for its exposed limestone and chert deposits from the Permian era. The flat prairie landscape around Florence reveals excellent opportunities for collecting chalcedony nodules, chert fragments, and translucent quartz specimens weathered from the surrounding limestone formations. The area's geological history includes shallow marine deposits that created conditions favorable for silica-rich mineral formation. Rockhounders will find material scattered across accessible public land and along county roads where erosion has exposed fresh specimens. The terrain is relatively straightforward with good walking conditions on mostly level ground, making this an ideal location for beginners and families.",
+  "history": "The Flint Hills region where Florence is located was shaped during the Permian Period (approximately 290-250 million years ago) when shallow seas covered Kansas, depositing limestone, shale, and chert-bearing sediments. These marine deposits underwent diagenesis and weathering over millions of years, creating the nodular chert and chalcedony formations found here today. Early settlers and native peoples recognized the value of local chert for tool-making, and the area has been a source of quality specimens for over a century.",
+  "tips": "Search along eroded creek beds and washouts where limestone naturally breaks down and exposes chert nodules in cream, tan, and brown colors. Look for translucent to opaque specimens with smooth cortex (weathered outer layer) indicating natural weathering. Bring a small rock hammer to test material - quality chert produces a clear ringing sound when struck. Early morning visits after rainfall often reveal freshly exposed specimens.",
+  "terrain_notes": "Flat prairie terrain at 1235 feet elevation with minimal slope. Vegetation consists of native grasses and scattered brush typical of the Flint Hills. Walking distance from parking is typically less than half a mile to productive collecting areas. Footing is generally good with firm ground, though muddy conditions may develop after rain.",
+  "best_season": "April - June and September - October. Spring brings moderate temperatures and increased water flow that exposes fresh material. Fall offers comfortable weather and dry conditions ideal for extended rockhounding days.",
+  "written_directions": "From Marion (approximately 8 miles northeast), take US 56 east toward Florence. Continue on US 56 for about 7 miles. Look for pullouts near road cuts and eroded limestone exposures on both sides of the highway. Alternative access: from Florence proper, explore county roads around the town perimeter where limestone formations are visible and public land is accessible. Ask locally for current access points.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 56 is paved and well-maintained. County road pullouts are unpaved but passable for standard vehicles in dry conditions.",
+  "parking_notes": "Informal pullouts along US 56 and county roads. No developed parking facilities. Space available for 2-4 vehicles at most pullouts.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Collect on public land and where you have permission from private landowners. Respect property boundaries and obtain permission before crossing private land. No motorized excavation. Refill any holes to prevent erosion and hazards.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nRespect private property boundaries\nObtain landowner permission if collecting off public roadside\nNo motorized equipment\nFill holes after digging",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Marion, Kansas (approximately 8 miles southwest) has gas, restaurants, and general supplies. Florence has minimal services.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Unpaved parking areas and no formal trails, but walking distances are short. Sturdy shoes recommended for rocky ground. No wheelchair accessibility at informal pullouts.",
+  "alternative_names": [],
+  "nearest_city": "Marion",
+  "nearest_city_distance": 8,
+  "cover_photo": null,
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Florence, Kansas?",
+      "answer": "The primary finds around Florence are chalcedony nodules, chert fragments in cream and tan colors, and quartz specimens. These materials weather out of Permian-era limestone formations that blanket Marion County. Quality specimens are common along road cuts and eroded creek areas."
+    },
+    {
+      "question": "Is rockhounding near Florence, Kansas free or do you need a permit?",
+      "answer": "Rockhounding near Florence is free and does not require a permit. You can collect on public land and roadside pullouts along US 56. Always obtain permission from private landowners before crossing their property."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Florence, Kansas?",
+      "answer": "April through June and September through October are ideal. Spring brings water flow that exposes fresh material, while fall offers comfortable temperatures. Summer heat can be intense, and winter weather may limit access."
+    },
+    {
+      "question": "Is Florence, Kansas rockhounding good for beginners and families?",
+      "answer": "Yes, Florence is excellent for beginners and families. The terrain is flat and easy to walk, material is abundant and easy to spot, and no special skills or permits are required. Children as young as 6 can participate safely."
+    },
+    {
+      "question": "What tools do you need for rockhounding at Florence, Kansas?",
+      "answer": "A small rock hammer or chisel is helpful for testing material and extracting nodules from limestone. Bring a collection bag, sturdy shoes, sunscreen, and water. A hand lens helps identify color patterns and translucency in specimens."
+    },
+    {
+      "question": "How far is Florence, Kansas from Marion and what are road conditions like?",
+      "answer": "Florence is approximately 8 miles northeast of Marion via US 56, which is paved and well-maintained. County road pullouts are unpaved but passable for standard vehicles in dry conditions. Most collecting areas are within walking distance of roadside parking."
+    }
+  ],
+  "meta_title": "Florence Rockhounding - Kansas Chert & Chalcedony",
+  "meta_description": "Find chalcedony, chert, and quartz near Florence, Kansas. Free public rockhounding in the Flint Hills. Easy access, perfect for families and beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "permit_required",
+    "collection_rules",
+    "nearest_services"
+  ],
+  "enriched_at": "2026-04-21T19:25:47.774Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:27:11.612Z"
+}

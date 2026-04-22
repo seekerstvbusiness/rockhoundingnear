@@ -1,0 +1,60 @@
+{
+  "slug": "guttenburg-ia",
+  "name": "Guttenburg",
+  "lat": 42.772285,
+  "lng": -91.094046,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Guttenberg",
+  "city_slug": "guttenberg",
+  "county": "Clayton",
+  "county_slug": "clayton",
+  "geocoded_city": "Guttenberg",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Guttenburg%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Guttenburg",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Guttenburg%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 613,
+      "meters": 187
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:53:47.379Z"
+  },
+  "scraped_at": "2026-04-21T17:53:47.379Z",
+  "scrape_quality": "minimal"
+}

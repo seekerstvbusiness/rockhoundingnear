@@ -1,0 +1,61 @@
+{
+  "slug": "soldier-summit-ut",
+  "name": "Soldier Summit",
+  "lat": 39.928496,
+  "lng": -111.078598,
+  "state": "Utah",
+  "state_slug": "utah",
+  "state_code": "UT",
+  "city": "Wasatch County",
+  "city_slug": "wasatch-county",
+  "county": "Wasatch",
+  "county_slug": "wasatch",
+  "geocoded_city": "Wasatch County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-utah.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Soldier%20Summit%20Utah"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Utah BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Soldier%20Summit"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Soldier%20Summit%20Utah"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Utah BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:38:37.960Z"
+  },
+  "scraped_at": "2026-04-22T02:38:37.960Z",
+  "scrape_quality": "partial"
+}

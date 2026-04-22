@@ -1,0 +1,98 @@
+{
+  "slug": "ancho-nm",
+  "name": "Ancho",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Lincoln County",
+  "city_slug": "lincoln-county",
+  "county": "Lincoln",
+  "county_slug": "lincoln",
+  "lat": 33.937489,
+  "lng": -105.73051,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Public BLM rockhounding near Lincoln County featuring agate, jasper, and chalcedony in the high desert. No permit required, 25 lb daily limit.",
+  "description": "Ancho is a remote BLM rockhounding area in south-central New Mexico's Lincoln County, located in the transition zone between the Sacramento Mountains and the Tularosa Basin. This high desert site offers good opportunities for collectors seeking agate, jasper, and chalcedony specimens without needing permits or fees. The area benefits from excellent visibility and accessible collecting on public land managed by the BLM's Roswell Field Office. Rockhounders typically find scattered nodules and fragments in washes, along hillsides, and in areas disturbed by natural erosion or past prospecting activity.\n\nThe geological setting here reflects millions of years of volcanic and sedimentary activity. During the Miocene epoch, volcanic activity deposited silica-rich materials and hydrothermal fluids that migrated through fractured rocks, creating the nodular agate and chalcedony deposits found throughout the region today. Erosion over time has exposed these mineralized zones, concentrating specimens in washes and at the surface where rockhounders can locate them without digging.\n\nThe terrain is typical of the New Mexico high desert - sparse desert vegetation with desert scrub, yucca, and scattered juniper. Elevation ranges from 5,000 to 5,500 feet, creating moderate temperatures even in summer compared to lower desert areas. The open landscape makes route finding straightforward, though distances can be deceiving in the clear air. Most productive collecting areas are within a 1-2 mile walk from parking areas along access roads.\n\nThis is a beginner to intermediate rockhounding destination. The specimens here are often smaller to medium-sized nodules and fragments rather than large museum-quality pieces, but they are consistent, colorful, and excellent for learning identification skills and building a collection. The public land access and lack of crowds make it ideal for those seeking authentic rockhounding without the commercial fee-dig experience.",
+  "history": "This area sits within the Basin and Range geologic province where Miocene volcanic activity and associated hydrothermal circulation deposited silica-rich fluids along fracture systems in older Paleozoic and Mesozoic host rocks. These fluids precipitated agate, chalcedony, and jasper over millions of years, creating the nodular deposits visible today. The region has a long history of mineral prospecting and mining for metallic ores, though the agate and jasper deposits have been primarily of interest to rockhounders and artisans rather than commercial mining operations.",
+  "tips": "Search carefully in dry washes and arroyos where water erosion has exposed fresh material from the banks and wash floors - this is where the best colored nodules concentrate. Look for white or cream-colored weathered nodules half-buried in sandy soil; the polished interiors often reveal vibrant reds, oranges, and browns in the agate and jasper. Bring a small crack hammer and chisel to carefully extract specimens from matrix, and test hardness (7-7.5 on Mohs scale) to distinguish true chalcedony and agate from softer calcite. Early morning collecting in fall or spring is most productive - the cooler temperatures allow longer search sessions, and the lower angle of sunlight makes color variations in specimens more visible.",
+  "terrain_notes": "High desert terrain at 5,000-5,500 feet elevation with gentle to moderate slopes. Sparse vegetation includes desert scrub, yucca, and scattered juniper. Most areas have relatively firm, rocky footing with some loose gravel and small rocks. Unpaved BLM roads provide basic access, becoming rougher the further from main roads. Walking distances from parking areas to productive collecting zones typically range 0.5-2 miles over open terrain with no trails - navigation is straightforward due to sparse vegetation and good visibility.",
+  "best_season": "October - April. The high desert climate at this elevation makes summer temperatures hot (80-95 degrees F) with afternoon thunderstorms possible. Fall through spring offers comfortable 50-70 degree F temperatures, clear skies, and excellent visibility for spotting specimens. Winter can bring occasional snow at this elevation but rarely prevents access.",
+  "written_directions": "From Carrizozo (approximately 20 miles west), take US 54 south toward Alamogordo. Near mile marker 78, turn east onto a signed BLM access road leading toward Ancho. Follow this rough unpaved road approximately 8-10 miles, bearing northeast. The road may require high-clearance vehicle after recent weather. Ancho site proper is accessed by continuing on rough BLM roads and parking pullouts in the open desert. Parking areas are unsigned but obvious as pull-outs along the main BLM access corridor. GPS coordinates 33.937489, -105.73051 mark the general collecting area.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM roads, rough and rocky with washboard texture. High-clearance vehicle recommended, AWD beneficial after rain. Passenger cars should not attempt these roads.",
+  "parking_notes": "Unsigned pullouts and parking areas along BLM access roads. Multiple locations available; park in cleared areas off the road. No facilities, pit toilets, or amenities. Parking is informal but ample - few other users visit this remote location.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or mechanized collection equipment. Hand tools (hammer, chisel, pick) only. Remove no live plants or wildlife. Pack out all trash. Respect natural resource and leave the area as you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\nMaximum 25 pounds per day per FLPMA\nHand tools only - no motorized equipment\nNo damage to vegetation or wildlife\nLeave the site clean - pack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "cold",
+    "snakes",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "Carrizozo, approximately 20-25 miles west, has gas, food, and water. Lincoln, approximately 15 miles northeast, is a small historic town with limited services. Alamogordo, 45 miles south, is the nearest full-service city.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing and scattered loose rocks. No wheelchair access. Unpaved road to site requires high-clearance vehicle. Walking distances of 0.5-2 miles over open terrain with no trails or marked routes. Sturdy, closed-toe hiking boots essential. The high desert elevation (5,000-5,500 ft) may cause minor altitude effects for visitors from sea level, though not as severe as higher mountain sites.",
+  "alternative_names": [],
+  "nearest_city": "Carrizozo",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/ancho-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of gemstones can I find rockhounding at Ancho, New Mexico?",
+      "answer": "Ancho is known for agate, jasper, chalcedony, and quartz specimens. The agate typically displays reds, oranges, browns, and creams in banded or nodular forms. Jasper occurs in various colors from red to brown. These specimens are usually found as weathered nodules and fragments in washes and sandy areas, ranging from small pieces to specimens a few inches across."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Ancho BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Ancho. It is open BLM public land managed under FLPMA recreational use guidelines. You simply need to follow the 25 lb per day collection limit and hand-tool-only restriction. There is no fee and no advance permission needed - just show up and collect."
+    },
+    {
+      "question": "What is the best season to find agates and jasper near Lincoln County?",
+      "answer": "October through April is ideal. The high desert location experiences hot summers (80-95 degrees F) with occasional monsoon storms, making fall and spring the most comfortable and productive seasons. Winter can bring snow but rarely prevents access. The cooler months also allow longer collecting sessions without heat fatigue, and the lower sun angle in fall/spring reveals color details in specimens better."
+    },
+    {
+      "question": "Is Ancho rockhounding site family-friendly and suitable for beginners?",
+      "answer": "Yes, Ancho is beginner and family-friendly. No permits, fees, or specialized equipment are needed - hand tools and a basic rock hammer are sufficient. The open terrain makes navigation straightforward, and agate and jasper specimens are relatively easy to identify. Children ages 8 and up can enjoy the search, though adults should supervise younger kids in this remote area. The main challenge is the rough access road requiring high-clearance vehicle."
+    },
+    {
+      "question": "How far is Ancho from Carrizozo and what kind of vehicle do I need?",
+      "answer": "Ancho is approximately 22 miles from Carrizozo, about 30-40 minutes drive time. A high-clearance or AWD vehicle is essential - the BLM access roads are unpaved, rocky, and rough with washboard texture. Regular passenger cars should not attempt these roads, especially after rain. Once parked at pullouts, collecting areas are walkable - typically 0.5-2 miles across open desert terrain."
+    },
+    {
+      "question": "How much agate and jasper can I legally collect per day at Ancho?",
+      "answer": "BLM personal use rockhounding is limited to 25 pounds per day per FLPMA regulations. This is measured at the end of your collecting day. This limit applies to the total weight of all specimens collected - agate, jasper, quartz, and chalcedony combined. The restriction ensures sustainable recreational use and prevents commercial-scale collection. Be sure to stay within this weight before leaving the site."
+    }
+  ],
+  "meta_title": "Ancho Rockhounding - Find Agate & Jasper in New Mexico",
+  "meta_description": "Free rockhounding on BLM land near Carrizozo. Collect agate, jasper, and chalcedony. No permit, 25 lb/day limit. High desert site, fall-spring best.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance - estimated from GPS coordinates",
+    "written_directions - constructed from terrain data and geographic knowledge",
+    "road_conditions - inferred from typical BLM roads in this region",
+    "cell_service - typical for remote Lincoln County BLM area"
+  ],
+  "enriched_at": "2026-04-22T10:17:51.176Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:18:46.935Z"
+}

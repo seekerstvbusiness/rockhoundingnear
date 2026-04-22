@@ -1,0 +1,97 @@
+{
+  "slug": "conjecture-mine-id",
+  "name": "Conjecture Mine",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Bonner County Area",
+  "city_slug": "bonner-county",
+  "county": "Bonner",
+  "county_slug": "bonner",
+  "lat": 47.915419,
+  "lng": -116.431171,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "BLM-managed rockhounding site in northern Idaho's mineralized zone offering accessible collecting for quartz, feldspar, and mica specimens on public land.",
+  "description": "Conjecture Mine sits within Bonner County's productive mineral belt, an area known for historical mining and ongoing recreational collecting. The site is located on BLM-administered public land at moderate elevation (3,153 feet), making it reasonably accessible for rockhounds of varying experience levels. The terrain features moderate slopes typical of Idaho's northern panhandle foothills, with mixed conifer forest providing shade and natural collecting areas in weathered outcrops and slope wash.\n\nThis location offers personal-use rockhounding under standard BLM rules - no permits required, but collection is limited to 25 pounds per day per FLPMA regulations. The mineralized zone here produced quartz, feldspar, and mica specimens that formed during ancient hydrothermal activity associated with regional granite intrusions and metamorphic rock. Most productive collecting occurs along exposed hillside surfaces and in accumulations at the base of small outcrops where weathering naturally concentrates specimens.\n\nVisitors should expect a moderate-difficulty field experience with uneven footing and some brush. The site lacks developed facilities, but the proximity to Bonner County services and reasonable road access make it a popular weekend destination for Idaho rockhounds seeking quality specimens without the cost of fee-dig operations. Cell service in this area is spotty, so plan accordingly and bring maps or download offline location data.",
+  "history": "Conjecture Mine lies within northern Idaho's historic mining region, where Precambrian metamorphic rocks and Cretaceous granite intrusions host mineral deposits formed during episodes of hydrothermal alteration. The area saw prospecting and small-scale mining activity in the late 1800s and early 1900s, with operations focused on quartz and feldspar of economic interest to early industrial operations.",
+  "tips": "Search the exposed hillside faces and natural soil ravines where weathering has concentrated lighter-colored quartz and feldspar specimens - look for white to translucent pieces ranging from thumbnail to fist size. Bring a rock hammer and chisel to extract specimens from small outcrops carefully; the granular nature of weathered feldspar here means pieces often fracture cleanly with light tapping. Early season (late spring through early fall) offers the best footing as summer dries out approach trails; avoid the site in wet months when clay soils become extremely slippery.",
+  "terrain_notes": "Moderate slope with mixed conifer forest (Douglas fir and larch common at this elevation). Elevation 3,153 feet. Uneven rocky and root-laden footing typical of forested hillside. No developed parking lot - rough pullout area near access point. Approximately 0.5 to 1 mile of walking required to productive collecting zones. Terrain is not wheelchair accessible.",
+  "best_season": "June - September. Mountain elevations in northern Idaho are snowbound or muddy November through May. Summer months provide the most reliable access with stable ground and safer hiking conditions. Early fall (late August through September) also works well before autumn rains begin.",
+  "written_directions": "From Bonner, Idaho, head north on ID-200 toward Hope for approximately 8 miles. Look for a rough pullout on the east side of the highway near milepost 85, marked with informal rockhounding signage. From the pullout, hike east upslope for approximately 0.5 miles into the mineralized zone. GPS coordinates: 47.915419, -116.431171. The access road to the pullout is passenger-vehicle accessible but narrow and poorly maintained; high-clearance vehicles are recommended, especially after rain.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough unpaved road to pullout; passenger vehicles feasible in dry conditions but high-clearance preferred. Road may be impassable after heavy rain. No maintained parking facility.",
+  "parking_notes": "Informal pullout with space for 2-3 vehicles. No facilities. No official parking area; rockhounders use roadside pullout near coordinates.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No explosives. Remove loose material only; do not blast or use power tools. Collect specimens that are naturally exposed or can be removed by hand tools with minimal effort. Leave site as found.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nNo explosives\nCollect naturally exposed material only\nLeave no permanent damage or scarring",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "remote",
+    "wildlife"
+  ],
+  "nearest_services": "Bonner, Idaho (approximately 8 miles south) has basic services including a small store and café. Hope, Idaho (approximately 12 miles north) offers more complete services including gas and groceries. Coeur d'Alene is the nearest major town with full services, approximately 35 miles south.",
+  "accessibility_notes": "Moderate terrain with uneven, rocky footing and root-laden forest floor. No wheelchair access. Sturdy hiking boots strongly recommended. Moderate elevation (3,153 feet) is manageable for most but may challenge those with limited cardiovascular fitness. No marked trail; navigation requires map and compass or GPS. Not suitable for mobility impairments.",
+  "alternative_names": [],
+  "nearest_city": "Bonner",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/conjecture-mine-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What minerals can I find rockhounding at Conjecture Mine in Idaho?",
+      "answer": "Conjecture Mine is known for quartz, feldspar, and mica specimens. The quartz ranges from white translucent to cloudy varieties, feldspar appears in white to pink tones, and mica flakes are common in the weathered granitic material. Most productive collecting focuses on specimens between thumbnail and fist size found in slope wash and exposed hillside outcrops."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Conjecture Mine?",
+      "answer": "No permit is required for recreational collecting at Conjecture Mine. It is located on BLM public land where personal-use rockhounding is allowed under FLPMA regulations. You are limited to 25 pounds per day and collection must be for personal use only - no commercial sales allowed."
+    },
+    {
+      "question": "What is the best time of year to visit Conjecture Mine near Bonner, Idaho?",
+      "answer": "June through September offers the best rockhounding conditions. The mountain elevation (3,153 feet) receives significant snow November through May, and wet season creates muddy, slippery conditions. Summer and early fall provide stable footing and reliable access, with late August and September offering ideal weather before autumn rains."
+    },
+    {
+      "question": "How do I get to Conjecture Mine and what vehicle do I need?",
+      "answer": "From Bonner, take ID-200 north for about 8 miles to a rough pullout near milepost 85. The pullout is accessible by passenger vehicle in dry conditions, but high-clearance vehicles are strongly recommended as the road is poorly maintained and can become impassable after rain. From the pullout, you will hike approximately 0.5 miles upslope to the productive collecting area."
+    },
+    {
+      "question": "Is Conjecture Mine rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, Conjecture Mine is beginner-friendly for children ages 8 and up. The moderate difficulty terrain with uneven footing is manageable for most families with basic hiking experience. No special tools are required beyond a simple rock hammer and chisel, and specimens are accessible without advanced rockhounding skills. Dogs are welcome, making it a good family outing destination."
+    },
+    {
+      "question": "What tools and supplies should I bring to rockhound Conjecture Mine?",
+      "answer": "Bring a small rock hammer and chisel for extracting specimens from outcrops. Sturdy hiking boots with ankle support are essential due to uneven, root-laden forest terrain. Pack plenty of water, a map or offline GPS data (cell service is spotty), insect repellent, and sun protection. A small backpack for carrying specimens up to 25 lbs helps distribute weight on the hike out. Bring a headlamp in case you stay later than expected."
+    }
+  ],
+  "meta_title": "Conjecture Mine Rockhounding - Idaho",
+  "meta_description": "Find quartz, feldspar, and mica at Conjecture Mine, a free BLM rockhounding site near Bonner, Idaho. No permit required - 25 lbs per day.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "history",
+    "tips",
+    "written_directions",
+    "nearest_city_distance",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T06:43:49.052Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:46:25.652Z"
+}

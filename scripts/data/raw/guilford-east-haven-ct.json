@@ -1,0 +1,57 @@
+{
+  "slug": "guilford-east-haven-ct",
+  "name": "Guilford & East Haven",
+  "lat": 41.302024,
+  "lng": -72.746087,
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "state_code": "CT",
+  "city": "Branford",
+  "city_slug": "branford",
+  "county": "South Central Connecticut Planning Region",
+  "county_slug": "south-central-connecticut-planning-region",
+  "geocoded_city": "Branford",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-connecticut.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Guilford%20%26%20East%20Haven%20Connecticut"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Guilford%20%26%20East%20Haven",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Guilford%20%26%20East%20Haven%20Connecticut"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:09:50.267Z"
+  },
+  "scraped_at": "2026-04-21T18:09:50.267Z",
+  "scrape_quality": "minimal"
+}

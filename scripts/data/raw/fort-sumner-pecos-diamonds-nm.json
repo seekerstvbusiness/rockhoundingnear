@@ -1,0 +1,61 @@
+{
+  "slug": "fort-sumner-pecos-diamonds-nm",
+  "name": "Fort Sumner (Pecos diamonds)",
+  "lat": 34.473147,
+  "lng": -104.723007,
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "state_code": "NM",
+  "city": "De Baca County",
+  "city_slug": "de-baca-county",
+  "county": "De Baca",
+  "county_slug": "de-baca",
+  "geocoded_city": "De Baca County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-mexico.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Fort%20Sumner%20(Pecos%20diamonds)%20New%20Mexico"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "New Mexico BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Fort%20Sumner%20(Pecos%20diamonds)"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Fort%20Sumner%20(Pecos%20diamonds)%20New%20Mexico"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] New Mexico BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:26:57.963Z"
+  },
+  "scraped_at": "2026-04-22T02:26:57.963Z",
+  "scrape_quality": "partial"
+}

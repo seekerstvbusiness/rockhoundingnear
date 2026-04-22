@@ -1,0 +1,92 @@
+{
+  "slug": "mapleton-pa",
+  "name": "Mapleton",
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "city": "Union Township",
+  "city_slug": "union-township",
+  "county": "Huntingdon",
+  "county_slug": "huntingdon",
+  "lat": 40.379604,
+  "lng": -77.950654,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Rockhound this Appalachian foothill location for quartz, feldspar, and mica specimens. Flat terrain makes it accessible for collectors of all levels.",
+  "description": "Mapleton sits within the Ridge and Valley physiographic province of the Appalachian Mountains, a region shaped by intense folding and metamorphism during the Paleozoic Era. The area's relatively flat elevation of 892 feet makes it an accessible rockhounding destination compared to higher mountain terrains. Collectors here can find quartz varieties, feldspar crystals, and mica flakes in outcrops, stream beds, and weathered rock exposures that dot the landscape.\n\nThe geology of Huntingdon County reflects the Cambrian through Ordovician sedimentary and metamorphic rocks that underlie much of central Pennsylvania. Quartz-rich quartzites and feldspathic metamorphic rocks are common in this region, formed during the mountain-building episodes that created the Appalachians. The weathering and erosion of these bedrock formations over millions of years has exposed mineral-bearing specimens at or near the surface.\n\nBecause this location lacks specific documented access information, we recommend contacting local property owners or the Huntingdon County Conservation District to confirm access and collecting permission before your visit. The flat terrain and proximity to Union Township make this a convenient spot for day trips. Pack hand tools suitable for small-scale collecting, and inspect road conditions before heading out.\n\nThis area is best visited during moderate weather months when ground conditions are stable and visibility is good. Spring and fall offer the most comfortable collecting conditions in central Pennsylvania.",
+  "history": "Mapleton's geology reflects the Appalachian orogeny, when tectonic plate collisions during the Paleozoic Era metamorphosed and folded sedimentary rocks into the ridges and valleys visible today. The quartz and feldspar-bearing metamorphic rocks exposed here are remnants of those ancient mountain-building episodes that shaped central Pennsylvania's bedrock.",
+  "tips": "Search along stream beds and eroded hillsides where weathering has exposed fresh mineral faces; quartz and feldspar crystals often weather free from host rock in these areas. Bring a geology pick and hand lens to identify specimens in the field. Look for white to translucent quartz and cream-colored feldspar in pegmatitic pods where crystals grow larger. Mica flakes can be found as thin sheets in finely layered metamorphic rocks.",
+  "terrain_notes": "Flat terrain at 892 feet elevation with minimal slope makes walking and collecting relatively easy. Expect mixed woodland and open areas typical of rural central Pennsylvania. Terrain is generally stable underfoot but may be muddy or slippery after rain. Walking distance from parking to collection areas is typically short.",
+  "best_season": "April - May, September - October",
+  "written_directions": "From the center of Union Township, take Mapleton Drive east toward Mapleton. Continue through the area looking for accessible road shoulders, stream pullouts, or documented public access points. GPS coordinates 40.379604, -77.950654 mark the general location. Always confirm access with local property owners or land managers before collecting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved and unpaved roads serve the area. Local roads are generally passable in passenger vehicles.",
+  "parking_notes": "Parking depends on access arrangement with property owners. Look for informal pullouts along local roads where safe.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Private land - permission required from landowner before collecting. No commercial collection permitted.",
+  "quantity_limits": null,
+  "rules": "Permission required from landowner\nNo commercial collection\nSmall-scale personal use only\nRespect property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [],
+  "nearest_services": "Union Township and Huntingdon, approximately 3-5 miles for gas, food, and supplies",
+  "accessibility_notes": "Flat terrain at low elevation makes this site accessible to most rockhounders. Unpaved areas may be soft after rain. Suitable for families and beginners with basic footwear.",
+  "alternative_names": [],
+  "nearest_city": "Huntingdon",
+  "nearest_city_distance": 4,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/pennsylvania/mapleton-pa/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find rockhounding at Mapleton, Pennsylvania?",
+      "answer": "Mapleton is known for quartz specimens, feldspar crystals, and mica flakes found in metamorphic rocks common to the Appalachian region. The area's weathered outcrops expose these minerals naturally, making them accessible for small-scale collectors."
+    },
+    {
+      "question": "Is rockhounding at Mapleton free or do I need to pay a fee?",
+      "answer": "Mapleton is private land, so there is no fee. However, you must obtain permission from the property owner before collecting. Contact local landowners or the Huntingdon County Conservation District to arrange access."
+    },
+    {
+      "question": "Do I need a permit to collect rocks and minerals at Mapleton?",
+      "answer": "No permit is required, but you do need written permission from the landowner since this is private property. Always confirm access and collecting boundaries before your visit."
+    },
+    {
+      "question": "When is the best time of year to go rockhounding near Mapleton?",
+      "answer": "Spring (April-May) and fall (September-October) offer the most comfortable collecting conditions in central Pennsylvania. These seasons provide stable ground conditions and pleasant weather for fieldwork."
+    },
+    {
+      "question": "Is Mapleton rockhounding suitable for beginners and families?",
+      "answer": "Yes, Mapleton's flat terrain and accessible geology make it ideal for beginners and families. The low elevation and gentle slopes require minimal hiking, and quartz and feldspar are relatively easy to identify in the field."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Mapleton?",
+      "answer": "Bring a geology pick or small hammer, hand lens for field identification, collecting bag, and sturdy hiking boots suitable for mixed terrain. A field guide to Pennsylvania rocks and minerals will help you identify specimens correctly."
+    }
+  ],
+  "meta_title": "Mapleton Rockhounding - Pennsylvania Quartz & Feldspar",
+  "meta_description": "Find quartz, feldspar, and mica at Mapleton, PA. Easy private land rockhounding in Huntingdon County with flat terrain ideal for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "collection_rules",
+    "written_directions",
+    "gem_types"
+  ],
+  "enriched_at": "2026-04-21T19:00:55.639Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:03:31.311Z"
+}

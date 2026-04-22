@@ -1,0 +1,98 @@
+{
+  "slug": "iron-mountain-id",
+  "name": "Iron Mountain",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Camas County Area",
+  "city_slug": "camas-county",
+  "county": "Camas",
+  "county_slug": "camas",
+  "lat": 43.541722,
+  "lng": -115.04247,
+  "gem_types": [
+    "Garnet",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "High-elevation BLM rockhounding site in central Idaho's Sawtooth Mountains region. Search for garnets, magnetite, and quartz specimens in steep alpine terrain with stunning peak views.",
+  "description": "Iron Mountain sits at nearly 9000 feet elevation in the rugged Sawtooth range of central Idaho, offering rockhounders a challenging alpine collecting experience. The mountain is composed primarily of Precambrian metamorphic rocks - gneisses and schists rich in garnet and magnetite minerals that formed during ancient mountain-building events. This is classic Camas County geology where Paleozoic sedimentation was later transformed by intense heat and pressure, creating the mineral assemblages collectors seek today.\n\nThe steep terrain and high elevation make this a destination for experienced rockhounds comfortable with alpine hiking and exposed slopes. Garnets appear as deep red to black crystals within the metamorphic host rock, while magnetite concentrations create magnetic anomalies that experienced collectors learn to recognize. Quartz veining is common throughout the area, with occasional feldspar crystals visible in the gneiss bedrock.\n\nThis is a true backcountry collecting site requiring sturdy hiking boots, proper elevation acclimatization, and navigation skills. The reward for the effort is access to relatively undisturbed metamorphic terrain and the chance to collect from the Precambrian bedrock that forms the foundation of the Rocky Mountain province. BLM regulations allow personal use collection up to 25 pounds per day with no permit required, making this an accessible option for serious rockhounds.\n\nThe landscape consists of exposed bedrock outcrops, talus slopes, and sparse subalpine vegetation. Weather can change rapidly at this elevation. The remoteness of Iron Mountain means you will encounter few other visitors, giving serious collectors real solitude and pristine collecting grounds.",
+  "history": "Iron Mountain's garnet and magnetite mineralization formed during Precambrian metamorphism roughly 1.8 billion years ago when ancient sedimentary and igneous rocks were thrust deep into the Earth's crust and subjected to temperatures exceeding 600 degrees Celsius. The resulting metamorphic complex now exposed at the surface contains the garnet-rich gneisses and magnetite schists that characterize this location. Later Paleozoic sedimentation and Mesozoic tectonics further tilted and exposed these ancient metamorphic rocks, creating the steep mountainous terrain visible today.",
+  "tips": "Focus your search on exposed bedrock outcrops and talus fans on the south-facing slopes where weathering has loosened specimens. Garnet crystals range from 2-8 mm and appear as wine-red to black euhedral crystals; use a hand lens to spot them in the lighter gneiss matrix. Bring a hand magnet to test rocks for magnetite content - strongly magnetic specimens indicate iron oxide-rich zones worth exploring. The steep terrain means pack light - 10-15 pounds of choice specimens is realistic and safer than attempting a full 25-pound load on steep slopes.",
+  "terrain_notes": "Steep alpine terrain at 8906 feet elevation with exposed bedrock, talus slopes, and minimal vegetation. Hiking distance from parking area to productive collecting zones: 1-3 miles depending on route choice. Footing is rocky and uneven with loose scree on steeper pitches. Weather exposure is significant - high winds are common and afternoon thunderstorms can develop rapidly. Snow persists into June in some years.",
+  "best_season": "June - September",
+  "written_directions": "From Camas, Idaho, head north on Idaho Medal of Honor Highway/US 20 for approximately 16 miles toward the Sawtooth National Recreation Area. Watch for Forest Service and BLM boundary markers. Turn west onto the appropriate spur road or hiking access point (specific road varies by current conditions and seasonal closures - contact Camas County BLM office for current vehicle access to trailheads). The final approach typically requires high-clearance vehicle or may be hiking-only depending on road maintenance. GPS coordinates will direct you to the summit area; allow 2-4 hours from nearest parking for alpine access.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "hiking",
+  "road_conditions": "Forest Service roads to trailhead may be rough, rutted, or seasonally closed. High-clearance vehicle recommended. Final approach is foot-hiking only.",
+  "parking_notes": "Limited parking at Forest Service trailheads. No developed parking facility. Expect 2-4 vehicle spaces at best. Arrive early in season for availability.",
+  "cell_service": "spotty",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection. No motorized excavation. All collection must be by hand tools only (pick, chisel, hammer). Pack out all waste material. No explosives. Respect any active mining claims that may be marked on the mountain.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\n25 pound daily limit per FLPMA\nHand tools only - no motorized equipment\nNo explosives or blasting\nRespect marked mining claims\nPack out all waste material\nFollow Leave No Trace principles",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "remote",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Camas, Idaho - approximately 16 miles south. Gas, limited food options, and supplies available. No services on the mountain.",
+  "accessibility_notes": "This is expert-level terrain not suitable for families, young children, or those with limited mobility. Steep alpine slopes, exposed ridges, and talus require excellent physical fitness and mountaineering experience. Elevation gain and thin air at 9000 feet can cause altitude sickness. Proper hiking boots with ankle support are essential. Navigation skills and weather awareness are critical for safety.",
+  "alternative_names": [],
+  "nearest_city": "Camas",
+  "nearest_city_distance": 16,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/iron-mountain-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Iron Mountain in Idaho?",
+      "answer": "Iron Mountain is known for garnet, magnetite, quartz, and feldspar specimens. Red to black garnet crystals occur in metamorphic gneiss, while magnetite creates magnetic rock zones. Quartz is common throughout the outcrops. This is primarily a specimen collector's site rather than a gem-cutting destination."
+    },
+    {
+      "question": "Is Iron Mountain BLM land and do I need a permit to rockhound there?",
+      "answer": "Yes, Iron Mountain is on public BLM land in Camas County. No permit is required for personal use collection. You are limited to 25 pounds per day under FLPMA regulations, and commercial collection is prohibited."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Iron Mountain, Idaho?",
+      "answer": "June through September is optimal. The high 8900-foot elevation means snow blocks access into early June and returns by October. Summer provides stable weather, though afternoon thunderstorms are common. Spring and fall can have sudden snow closures."
+    },
+    {
+      "question": "How difficult is rockhounding at Iron Mountain and is it suitable for beginners?",
+      "answer": "Iron Mountain is an expert-level site. The steep alpine terrain, high elevation, and remote location make it unsuitable for beginners or families. Expect 2-4 hour hikes from parking, talus scrambling, and exposure to rapid weather changes. Only experienced mountaineers should attempt this location."
+    },
+    {
+      "question": "What tools and equipment do I need to collect garnet at Iron Mountain?",
+      "answer": "Bring a geology hammer, cold chisel, hand lens, small backpack, and sturdy alpine hiking boots. A hand magnet helps locate magnetite zones. Pack light - 10-15 pounds of specimens is realistic on steep terrain. Bring weather-appropriate clothing, navigation tools, and a headlamp in case your hike extends into evening."
+    },
+    {
+      "question": "How far is Iron Mountain from Camas, Idaho and what are the driving directions?",
+      "answer": "Iron Mountain is approximately 16 miles north of Camas via US 20/Idaho Medal of Honor Highway. From Camas, head north on US 20 toward the Sawtooth National Recreation Area for 16 miles, then turn west at BLM access points. Contact the Camas County BLM office for current road conditions and exact trailhead locations, as seasonal closures and maintenance affect vehicle access."
+    }
+  ],
+  "meta_title": "Iron Mountain Rockhounding - Idaho Garnet & Magnetite",
+  "meta_description": "Find garnet, magnetite, and quartz at Iron Mountain, Camas County. BLM public land, no permit required. Expert alpine site with 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - magnetite not on canonical list, used as major mineral but may need verification as 'primary gem type'",
+    "nearest_city - Camas is small; Mountain Home or Stanley may be larger references",
+    "written_directions - exact spur road names require BLM office confirmation",
+    "parking_notes - specific capacity unknown, inferred from typical USFS trailhead standards"
+  ],
+  "road_name": "Idaho Medal of Honor Highway / US 20",
+  "enriched_at": "2026-04-22T09:27:42.806Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:42.811Z"
+}

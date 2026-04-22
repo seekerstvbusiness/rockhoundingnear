@@ -1,0 +1,60 @@
+{
+  "slug": "hines-quarry-longmeadow-ma",
+  "name": "Hine's Quarry, Longmeadow",
+  "lat": 42.049248,
+  "lng": -72.563721,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Longmeadow",
+  "city_slug": "longmeadow",
+  "county": "Hampden",
+  "county_slug": "hampden",
+  "geocoded_city": "Longmeadow",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hine's%20Quarry%2C%20Longmeadow%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hine's%20Quarry%2C%20Longmeadow",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hine's%20Quarry%2C%20Longmeadow%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 159,
+      "meters": 49
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:34:16.934Z"
+  },
+  "scraped_at": "2026-04-21T19:34:16.934Z",
+  "scrape_quality": "minimal"
+}

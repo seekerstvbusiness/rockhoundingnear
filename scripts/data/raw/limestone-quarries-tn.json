@@ -1,0 +1,60 @@
+{
+  "slug": "limestone-quarries-tn",
+  "name": "Limestone quarries",
+  "lat": 36.26052,
+  "lng": -82.320533,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Carter County",
+  "city_slug": "carter-county",
+  "county": "Carter",
+  "county_slug": "carter",
+  "geocoded_city": "Unicoi",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Limestone%20quarries%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Limestone%20quarries",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Limestone%20quarries%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1672,
+      "meters": 510
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:34:56.350Z"
+  },
+  "scraped_at": "2026-04-21T18:34:56.350Z",
+  "scrape_quality": "minimal"
+}

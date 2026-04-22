@@ -1,0 +1,60 @@
+{
+  "slug": "richard-graham-clay-pit-ma",
+  "name": "Richard Graham clay pit",
+  "lat": 42.466763,
+  "lng": -70.949493,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Lynn",
+  "city_slug": "lynn",
+  "county": "Essex",
+  "county_slug": "essex",
+  "geocoded_city": "Lynn",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Richard%20Graham%20clay%20pit%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Richard%20Graham%20clay%20pit",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Richard%20Graham%20clay%20pit%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 36,
+      "meters": 11
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:38:18.426Z"
+  },
+  "scraped_at": "2026-04-21T19:38:18.426Z",
+  "scrape_quality": "minimal"
+}

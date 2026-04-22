@@ -1,0 +1,64 @@
+{
+  "slug": "deauville-beach-de",
+  "name": "Deauville Beach",
+  "lat": 38.722883,
+  "lng": -75.076413,
+  "state": "Delaware",
+  "state_slug": "delaware",
+  "state_code": "DE",
+  "city": "Rehoboth Beach",
+  "city_slug": "rehoboth-beach",
+  "county": "Sussex",
+  "county_slug": "sussex",
+  "geocoded_city": "Rehoboth Beach",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-delaware.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Deauville%20Beach%20Delaware"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Deauville%20Beach",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Deauville%20Beach%20Delaware"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1,
+      "meters": 0
+    },
+    "slope": null,
+    "nearest_city": {
+      "name": "Georgetown",
+      "distance_mi": 17,
+      "population": 4927
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:34:13.035Z"
+  },
+  "scraped_at": "2026-04-21T16:34:13.035Z",
+  "scrape_quality": "minimal"
+}

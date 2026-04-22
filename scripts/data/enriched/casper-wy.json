@@ -1,0 +1,100 @@
+{
+  "slug": "casper-wy",
+  "name": "Casper",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Casper",
+  "city_slug": "casper",
+  "county": "Natrona",
+  "county_slug": "natrona",
+  "lat": 42.714052,
+  "lng": -106.255972,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land near Casper offering free rockhounding for agate, jasper, and quartz specimens. No permit required; collect up to 25 lbs daily for personal use.",
+  "description": "The Casper area sits within Wyoming's high desert plateau at 5,100 feet elevation, where Eocene-era volcanic activity and sedimentary deposits created abundant nodules and banded specimens. This BLM-managed land is accessible year-round and welcomes recreational collectors seeking quality agate, jasper, and chalcedony without fees or advance permits. The terrain is relatively open sagebrush with scattered outcrops, making it suitable for rockhounders of all experience levels.\n\nGeologically, this region experienced significant volcanic and silica-rich hydrothermal activity during the Eocene epoch (56-34 million years ago). Groundwater carrying dissolved silica percolated through ash beds and sediments, gradually depositing mineral-rich layers that formed the colorful nodules and banded stones found here today. The high desert climate has left these specimens exposed on surface washes and hillsides where they are easily spotted.\n\nVisitors should expect open sagebrush country with scattered rock outcrops and intermittent drainage washes. The collecting is straightforward: search exposed ground, hillsides, and wash banks for colorful nodules and fragments. Most finds range from palm-sized pieces to larger chunks suitable for cutting or polishing. The area receives moderate foot traffic but remains uncrowded for most of the year.\n\nThis is an ideal location for families, beginners, and serious collectors alike. The landscape is exposed and easy to scan visually, and the lack of dense vegetation makes spot-and-pick hunting productive. Bring water, wear sun protection, and respect the 25-lb daily limit to ensure the resource remains available for future visitors.",
+  "history": "The Casper area's silica-rich minerals formed during the Eocene epoch when volcanic activity and hydrothermal circulation deposited chalcedony, agate, and jasper throughout the region's sedimentary formations. These same deposits attracted early prospectors in the late 1800s, and the exposed specimens remain abundant on BLM land today due to erosion and weathering exposing fresh material.",
+  "tips": "Focus your search on intermittent washes and drainage areas where erosion naturally concentrates lighter nodules. Use a small hammer or rock pick to extract specimens cleanly from soft matrix, and look for color banding or translucency in agate - pieces with red, white, or gray bands are most desirable. Early morning or late afternoon light makes banded specimens easier to spot. Bring a large collection bag since good material is often abundant here; pace yourself to avoid exceeding the 25-lb daily limit.",
+  "terrain_notes": "Open sagebrush desert at 5,100 feet elevation with scattered volcanic rock outcrops and intermittent wash systems. Terrain is gently rolling to slightly broken, with good visibility across most areas. Walking distances from parking are typically 0.25 to 1.5 miles. Footing is uneven but not technical - sturdy hiking boots recommended. No shade available; full sun exposure.",
+  "best_season": "April - October. The months of May through September offer warm days ideal for extended collecting, while April and October provide comfortable temperatures without excessive heat. Winter (November - March) is possible but high desert cold and occasional snow can make access difficult. Summer heat (July - August) is manageable at this elevation but bring extra water.",
+  "written_directions": "From Casper, take US-26 west toward Rawlins for approximately 25 miles. Look for scattered BLM access points and pullouts along the highway corridor or side roads. Popular collecting areas lie within 1-3 miles of the main highway on BLM land accessible via short dirt roads. Consult a BLM map or contact the Casper Field Office (1-307-261-6400) for specific site recommendations and current access information.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US-26 is paved. Side roads and pullouts may be dirt or gravel, generally passable in passenger vehicles during dry weather. High-clearance or 4WD helpful for reaching remote BLM sections after rain.",
+  "parking_notes": "Scattered pullouts and informal parking areas along US-26 and BLM access roads. No developed lot. Space for 2-5 vehicles at most pullouts. Arrive early during weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No heavy equipment. Specimens must be collected by hand or simple tools. Pack out all trash. Respect wildlife and vegetation. Do not trespass on adjacent private land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lb daily limit per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nHand tools and simple hammers only\nPack out all trash\nRespect adjacent private property",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Casper, WY (approximately 25 miles east) has full services including gas, groceries, water, and restaurants. Interior, WY (approximately 15 miles west) offers basic gas and supplies.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain with good visibility. Uneven rocky ground requires sturdy footwear but no technical scrambling. Walking distances of 0.25 - 1.5 miles from parking are typical. No wheelchair access on rough BLM terrain. Most sites are accessible to hikers of moderate fitness.",
+  "alternative_names": [
+    "Natrona County BLM",
+    "Casper BLM Rockhounding"
+  ],
+  "nearest_city": "Casper",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/casper-wy/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Casper, Wyoming?",
+      "answer": "The Casper area BLM land yields abundant agate, jasper, chalcedony, and quartz. Many specimens feature attractive banding in reds, whites, grays, and earth tones. Pieces range from small fragments suitable for tumbling to larger nodules perfect for cutting and display."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Casper?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Casper. Personal use collection is allowed under FLPMA guidelines. You must follow the 25-lb daily limit and use only hand tools or simple hammers. Contact the Casper BLM Field Office at 1-307-261-6400 for current access details."
+    },
+    {
+      "question": "Is rockhounding near Casper, WY suitable for beginners and families?",
+      "answer": "Yes, this is an excellent beginner and family location. The open sagebrush terrain makes it easy to spot colorful nodules visually. No technical climbing or special equipment is required. Children ages 6+ can participate safely with supervision. The lack of heavy vegetation and flat to gently rolling terrain makes the area very accessible."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Casper, Wyoming?",
+      "answer": "April through October is ideal, with May through September offering the most comfortable temperatures. At 5,100 feet elevation, summers are warm but not extreme. Fall and spring provide pleasant conditions for full-day collecting. Winter is possible but cold and occasional snow can make access challenging."
+    },
+    {
+      "question": "How far is Casper BLM rockhounding from town and what should I bring?",
+      "answer": "Popular collecting areas are 25 miles west of Casper off US-26. Bring plenty of water, sun protection (hat and sunscreen), sturdy hiking boots, a small hammer or rock pick, collection bags, and a backpack. There is no shade in the open desert, so plan for sun exposure and bring enough water for your entire trip."
+    },
+    {
+      "question": "Can I dig and use tools to collect agate and jasper near Casper?",
+      "answer": "You may use hand tools and simple hammers to extract specimens from soft matrix and to break nodules already on the surface. Motorized excavation and heavy equipment are not permitted. All collecting must be casual personal-use level. Specimens must be collected entirely by hand labor or basic hand tools."
+    }
+  ],
+  "meta_title": "Casper Rockhounding - Free BLM Agate & Jasper",
+  "meta_description": "Find agate, jasper, and chalcedony on free BLM land near Casper, WY. No permit required. Collect 25 lbs daily. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from general Casper BLM access patterns; specific popular sites should be confirmed with Casper Field Office)",
+    "parking_notes (typical for BLM area; specific pullouts vary)",
+    "cell_service (spotty typical for high desert; varies by provider)",
+    "road_conditions (inferred from typical BLM access; check current conditions before trip)"
+  ],
+  "enriched_at": "2026-04-21T18:53:37.132Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:54:19.381Z"
+}

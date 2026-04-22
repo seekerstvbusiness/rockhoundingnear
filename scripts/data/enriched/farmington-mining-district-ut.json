@@ -1,0 +1,104 @@
+{
+  "slug": "farmington-mining-district-ut",
+  "name": "Farmington mining district",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Farmington",
+  "city_slug": "farmington",
+  "county": "Davis",
+  "county_slug": "davis",
+  "lat": 40.984976,
+  "lng": -111.872463,
+  "gem_types": [
+    "Quartz",
+    "Calcite",
+    "Fluorite",
+    "Beryl"
+  ],
+  "short_description": "BLM public land rockhounding site in northern Utah offering quartz, calcite, and fluorite specimens. No permit required - personal use collecting only.",
+  "description": "The Farmington mining district is a historic prospecting area located on Bureau of Land Management (BLM) public land in Davis County, Utah. This site offers accessible rockhounding for collectors seeking quartz, calcite, fluorite, and beryl specimens without the need for permits or fees. The area has a long history of small-scale mining and prospecting dating back over a century, making it a popular destination for both experienced rockhounds and beginners interested in Utah's mineral diversity.\n\nThe site sits within the Wasatch Range foothills, where Precambrian and Paleozoic metamorphic and sedimentary rocks host hydrothermal mineral deposits. Quartz veins, calcite-filled fractures, and secondary fluorite deposits are common throughout the district. The mineralization was created by hydrothermal fluids moving through fractured bedrock during the Laramide orogeny (mountain-building episode) roughly 70-50 million years ago.\n\nRockhounding here involves exploring hillsides, washes, and exposed rock faces near the historic mining areas. The terrain is moderately rugged with good visibility of mineral exposures. You can collect loose specimens from the surface and broken rock without disturbing active deposits. The area remains undeveloped and retains its natural character, offering a genuine prospecting experience typical of Utah's interior valleys.\n\nThis location is ideal for collectors who want to experience BLM rockhounding regulations in a legitimate historical mining area. The proximity to Farmington (about 10 miles north) makes it convenient for a half-day or full-day outing. Spring and fall offer the most comfortable collecting conditions in this transition zone between the Wasatch Mountains and the Utah Valley.",
+  "history": "The Farmington mining district was active during the late 1800s and early 1900s as miners prospected for silver, copper, and other metals associated with Laramide-era hydrothermal systems. While major commercial mining never developed, the district's geology reflects significant mineralization from ascending hydrothermal fluids that deposited quartz, calcite, fluorite, and accessory minerals in fracture systems within metamorphic host rocks. This same process created the excellent secondary mineral specimens rockhounds find today.",
+  "tips": "Focus your search on quartz veins outcropping on hillside faces and in washes where weathering has exposed fresh material. Bring a small hammer and chisel to carefully separate specimens from host rock, and a 10x hand lens to identify fluorite's distinctive cubic crystal forms and color banding in quartz. Look for color variations in quartz - purple-tinted amethyst, smoky varieties, and clear specimens all occur here. The best specimens are found at the base of exposed veins where gravity and weathering have concentrated loose crystals.",
+  "terrain_notes": "Rolling foothills with scattered sagebrush and juniper. Elevations around 5,200 feet. Exposed bedrock and talus slopes with uneven, rocky ground throughout the collecting area. Walking distances from parking vary from 0.25 to 2 miles depending on which vein system you target. Footing is rocky and requires sturdy boots. Some steep sections along hillsides but no exposed cliff hazards. Sparse vegetation provides minimal shade.",
+  "best_season": "April - June and September - November. Spring and fall avoid the heat of summer and the occasional winter snow that can accumulate in the foothills. Temperatures are mild and collecting is comfortable. Summer afternoon thunderstorms are possible but infrequent at this elevation.",
+  "written_directions": "From Farmington, take Main Street north toward the mountains for approximately 1.5 miles. Turn east onto East Canyon Road (also signed as Recreation Road). Follow this road for approximately 4 miles as it climbs into the foothills. Look for rough dirt pullouts and parking areas on both sides of the road near old mine workings and exposed rock faces. The most productive areas are marked by historic rock piles and weathered mining debris. A high-clearance vehicle is recommended but not required for the main road sections.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Dirt road with washboard texture. Some sections are rough and rutted but passable to standard vehicles with good clearance. Avoid during or immediately after rain when clay sections become slippery.",
+  "parking_notes": "Informal pullouts along East Canyon Road near mining sites. No developed parking lot. Multiple small parking areas (2-4 vehicles each) scattered along the route.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection allowed. No motorized excavation or power tools. Collecting limited to loose surface specimens and broken material - do not blast, drill, or significantly alter rock faces. Leave all mine structures and historical artifacts undisturbed.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection or resale\nNo motorized excavation or power tools permitted\nNo blasting or drilling\nLeave mine structures and historical artifacts undisturbed\nCollect only loose specimens and broken material",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "sharp_material",
+    "abandoned_mines",
+    "heat"
+  ],
+  "nearest_services": "Farmington has basic services (gas, food, water) approximately 10 miles south. Layton and Kaysville (larger towns) are 10-15 miles away with full services.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing throughout. No wheelchair access to collecting areas. Steep hillsides in some sections but trails are well-established from historical use. Most collectors park near productive areas and walk less than 1 mile to best collecting spots. Sturdy hiking boots with good ankle support strongly recommended.",
+  "alternative_names": [
+    "Farmington Ridge",
+    "East Canyon mining area"
+  ],
+  "nearest_city": "Farmington",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/farmington-mining-district-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/farmington-mining-district-ut/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/farmington-mining-district-ut/mineral-2-calcite.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Farmington mining district in Utah?",
+      "answer": "The primary specimens at Farmington mining district are quartz (including smoky and clear varieties), calcite, fluorite, and beryl. The best finds are quartz veins with visible crystals and cubic fluorite specimens in various colors. Most collectors find loose specimens and small crystal clusters on the surface without extensive digging."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Farmington mining district?",
+      "answer": "No permit is required. This BLM public land allows personal use rockhounding under standard FLPMA regulations. You can collect free of charge up to 25 pounds per day without any paperwork or advance registration."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Farmington, Utah?",
+      "answer": "April through June and September through November are ideal. These months offer comfortable temperatures for hiking and collecting in the foothills. Summer can be hot and thunderstorms occur, while winter snow occasionally blocks access to the higher sections."
+    },
+    {
+      "question": "What tools do you need to collect quartz and fluorite at Farmington mining district?",
+      "answer": "A small hammer and chisel work well for separating specimens from host rock. Bring a 10x hand lens to identify fluorite's cubic crystal forms and examine quartz detail. Heavy-duty gloves protect against sharp edges, and sturdy boots with good ankle support are essential for uneven rocky terrain."
+    },
+    {
+      "question": "Is Farmington mining district rockhounding site beginner-friendly?",
+      "answer": "Yes, this is a great site for beginners. Loose specimens are abundant on the surface, so you can collect without advanced prospecting skills. The moderate terrain is accessible for families with children 8 and older. Clear historical rock piles mark productive areas, making it easy to find good collecting spots."
+    },
+    {
+      "question": "How far is Farmington mining district from Farmington town, and what are road conditions?",
+      "answer": "The site is approximately 10 miles north of Farmington via East Canyon Road. The dirt road is rough with washboard texture but passable in high-clearance vehicles. Roads are best avoided immediately after rain. Standard passenger cars may have clearance issues on rougher sections - an all-wheel-drive vehicle is recommended."
+    }
+  ],
+  "meta_title": "Farmington Mining District Rockhounding - Utah",
+  "meta_description": "Find quartz, fluorite, and calcite at Farmington mining district in Utah. Free BLM rockhounding, no permit required. Perfect for beginners and families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city",
+    "nearest_city_distance",
+    "written_directions",
+    "gem_types",
+    "hazards"
+  ],
+  "enriched_at": "2026-04-22T10:18:19.298Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:20:10.082Z"
+}

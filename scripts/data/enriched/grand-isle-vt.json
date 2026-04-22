@@ -1,0 +1,102 @@
+{
+  "slug": "grand-isle-vt",
+  "name": "Grand Isle",
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "city": "South Hero",
+  "city_slug": "south-hero",
+  "county": "Grand Isle",
+  "county_slug": "grand-isle",
+  "lat": 44.632199,
+  "lng": -73.270397,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Rockhound the shores and beaches of Lake Champlain in northwestern Vermont. Find quartz, feldspar, and mica specimens in glacial deposits along this scenic waterfront location.",
+  "description": "Grand Isle sits along the eastern shore of Lake Champlain in northwestern Vermont, offering excellent rockhounding opportunities on public beaches and shorelines. The area benefits from glacial activity that transported and deposited mineral-rich materials from the Green Mountains and surrounding regions over thousands of years. Rockhounders can search beach areas, along the shoreline, and in accessible glacial till deposits for quartz crystals, feldspar fragments, and mica flakes. The gentle terrain and accessible waterfront make this an ideal destination for families and beginners looking to explore Vermont's geological heritage without requiring extensive hiking or specialized equipment.\n\nThe geology of Grand Isle reflects its position within the Champlain Valley, a rift structure that formed during the Precambrian and Paleozoic eras. Glacial activity during the Pleistocene epoch scraped and transported bedrock from higher elevations, depositing it as till and outwash material along Lake Champlain's shoreline. These glacial deposits contain fragments of local metamorphic rocks including schist, gneiss, and quartzite, providing consistent opportunities to find quality mineral specimens.\n\nVisitors should expect to spend 2-4 hours searching beach areas near South Hero village. The gentle slope and sandy-to-pebbly beach composition make walking comfortable, though sturdy footwear is recommended to avoid sharp rock edges. Early morning visits often yield better results as wave action overnight exposes fresh material.",
+  "history": "Grand Isle's mineral deposits are the direct result of Pleistocene glaciation, when continental ice sheets advanced south from Canada and scraped the underlying metamorphic bedrock. As the glaciers retreated approximately 11,000 years ago, they left behind vast quantities of glacial till and outwash deposits along Lake Champlain, concentrating minerals and rock fragments in accessible shoreline zones.",
+  "tips": "Search along the active waterline and recently exposed beach areas where wave action has cleared overlying sediment. Look for quartz specimens ranging from milky white to clear, feldspar showing pink or white coloration, and mica flakes that catch light. Bring a small hand rake or comb to sift through sandy deposits efficiently, and a magnifying glass to identify feldspar and mica in mixed samples. Time your visit after heavy rains or high water events when fresh material is exposed along the shoreline.",
+  "terrain_notes": "Elevation 103 feet. Gentle sloping terrain typical of Lake Champlain shoreline. Mixed sandy and pebbly beach composition with exposed glacial till in cutbanks. Walking distance from parking typically 5-15 minutes to productive areas. Footing is moderately uneven due to rounded stones and pebbles, but not hazardous.",
+  "best_season": "May - October. Spring through fall offers the warmest conditions, lowest lake levels, and most accessible beach areas. Summer (June-August) sees the most visitors; shoulder seasons (May, September-October) provide quieter rockhounding with stable weather.",
+  "written_directions": "From South Hero village center, head north on VT Route 2 toward Isle La Motte. Travel approximately 2 miles north and look for public beach access points and shoreline pullouts on the east side of the highway overlooking Lake Champlain. Parking is available at designated roadside areas and small public access points. GPS coordinates (44.632199, -73.270397) mark a central access point near the shoreline.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "VT Route 2 is paved year-round. Pullouts and access roads are gravel or unpaved but passable by standard vehicles.",
+  "parking_notes": "Multiple informal pullouts and small parking areas along VT Route 2 shoreline. Limited formal parking; expect 3-8 space capacity at individual access points. Parking is free.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Public access to Lake Champlain shoreline is generally permitted for personal rockhounding. Collect only loose material and specimens at or near the surface. Do not hammer bedrock outcrops or remove specimens from institutional property. Respect private property boundaries where indicated. Check with South Hero town office for any current shoreline access restrictions.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nNo commercial collection\nDo not hammer or break bedrock\nRespect private property boundaries\nFollow posted access restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "sharp_material"
+  ],
+  "nearest_services": "South Hero village (2 miles south) has limited services. Isle La Motte (3 miles north) and Burton (5 miles south) offer gas, food, and supplies. Closest full-service town is North Hero (8 miles).",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers and families. Beach and shoreline composition is sandy-to-pebbly with uneven footing. No wheelchair access to beach itself, but parking areas are accessible. Sturdy footwear recommended to avoid sharp rock edges. Limited shade available.",
+  "alternative_names": [
+    "Lake Champlain Shoreline",
+    "South Hero Beach"
+  ],
+  "nearest_city": "South Hero",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/vermont/grand-isle-vt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/vermont/grand-isle-vt/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/vermont/grand-isle-vt/mineral-2-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near South Hero on Lake Champlain?",
+      "answer": "You can find quartz crystals (clear to milky white), feldspar fragments (pink and white varieties), and mica flakes in the glacial deposits along Grand Isle's shoreline. These minerals are abundant in the glacial till left behind by Pleistocene ice sheets that scraped the surrounding metamorphic bedrock."
+    },
+    {
+      "question": "Is rockhounding free at Grand Isle, Vermont, or do I need a permit?",
+      "answer": "Rockhounding is free at Grand Isle with no permit required. Public access to Lake Champlain's shoreline allows personal collection of loose specimens and surface material. However, always verify current access conditions with South Hero town office and respect any posted private property boundaries."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Grand Isle near South Hero?",
+      "answer": "May through October is ideal, with summer (June-August) being warmest but most crowded, and shoulder seasons (May and September-October) offering quieter rockhounding with stable weather. Beach access is most consistent during these months as water levels are lower and wave action exposes fresh glacial material."
+    },
+    {
+      "question": "How do I find quartz and feldspar specimens along Lake Champlain at Grand Isle?",
+      "answer": "Search the active waterline and recently exposed beach areas where waves have cleared overlying sediment. Use a small hand rake or comb to sift through sandy deposits and glacial till cutbanks. Look for quartz showing translucency and feldspar with pink or white coloration. Visit after heavy rains when fresh material is exposed."
+    },
+    {
+      "question": "Is Grand Isle a good rockhounding location for beginners and families with children?",
+      "answer": "Yes, Grand Isle is excellent for beginners and families. The terrain is easy and accessible with gentle slopes, no hiking required, and close proximity to parking. The beach environment is safe for children ages 6 and up, and the abundance of colorful mineral specimens makes it engaging for all skill levels."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound at Grand Isle, Vermont?",
+      "answer": "Bring a small hand rake or comb for sifting sand and gravel, a magnifying glass to identify feldspar and mica details, and a collection bag for specimens. Sturdy footwear is essential due to sharp rock edges on the beach. A field guide to Vermont minerals and a small chis can help, though heavy excavation tools are not needed or appropriate here."
+    }
+  ],
+  "meta_title": "Grand Isle Rockhounding - Vermont Lake Champlain",
+  "meta_description": "Find quartz, feldspar, and mica along Lake Champlain's shoreline near South Hero. Free public rockhounding on glacial deposits. Perfect for families and beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "collection_rules",
+    "permit_required",
+    "commercial_use_allowed"
+  ],
+  "enriched_at": "2026-04-21T17:08:07.506Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:09:49.847Z"
+}

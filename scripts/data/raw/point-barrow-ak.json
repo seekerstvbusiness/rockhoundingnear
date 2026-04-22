@@ -1,0 +1,62 @@
+{
+  "slug": "point-barrow-ak",
+  "name": "Point Barrow",
+  "lat": 71.375652,
+  "lng": -156.485461,
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "state_code": "AK",
+  "city": "North Slope Borough",
+  "city_slug": "north-slope-borough",
+  "county": "North Slope Borough",
+  "county_slug": "north-slope-borough",
+  "geocoded_city": "North Slope Borough",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-alaska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Point%20Barrow%20Alaska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Point%20Barrow",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Point%20Barrow%20Alaska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": [
+      {
+        "name": "National Petroleum Reserve–Alaska",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-21T18:23:14.519Z"
+  },
+  "scraped_at": "2026-04-21T18:23:14.519Z",
+  "scrape_quality": "minimal"
+}

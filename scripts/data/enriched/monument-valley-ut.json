@@ -1,0 +1,100 @@
+{
+  "slug": "monument-valley-ut",
+  "name": "Monument Valley",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Mexican Hat",
+  "city_slug": "mexican-hat",
+  "county": "San Juan",
+  "county_slug": "san-juan",
+  "lat": 37.248239,
+  "lng": -110.445695,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "Collect agate and jasper across vast BLM land near iconic Monument Valley. Personal use rockhounding with 25 lb daily limit in scenic high desert terrain.",
+  "description": "Monument Valley straddles the Utah-Arizona border in San Juan County and offers rockhounders access to expansive Bureau of Land Management (BLM) holdings with excellent agate and chalcedony deposits. The area sits within the Basin and Range province where Miocene volcanic activity and subsequent weathering concentrated silica-rich minerals in the alluvial fans and wash systems throughout the region. The landscape is defined by towering red rock buttes, deep canyons, and open desert washes that make productive collecting areas accessible from unpaved roads.\n\nThe geology here favors agate and jasper formation in the gravels and weathered volcanic deposits. Collectors frequently find banded agates, red and brown jasper pieces, and translucent chalcedony nodules in wash bottoms and along eroded hillsides. The high desert setting means mineralized material is often exposed by seasonal erosion and wind action, making surface collection straightforward for patient rockhounders.\n\nVisitors should expect remote, high-elevation terrain with minimal services nearby. Cell service is spotty, and weather can change rapidly. The lack of crowds and infrastructure is part of Monument Valley's appeal - you will have vast stretches of BLM land largely to yourself. Spring and fall offer the most comfortable collecting conditions, though the area is accessible year-round with proper preparation.\n\nMonument Valley's iconic scenery and solitude make it a destination for rockhounders seeking both geological reward and landscape experience. The combination of productive collecting and dramatic natural beauty draws enthusiasts willing to travel to this remote corner of the Colorado Plateau.",
+  "history": "Monument Valley lies within the Monument Upwarp, part of the Colorado Plateau uplift that began in the Laramide Orogeny. Miocene and Pliocene volcanic and pyroclastic activity deposited silica-rich material across the region, which was then weathered and concentrated in alluvial fans and wash systems. The Ancestral Puebloans and Navajo peoples have inhabited this landscape for centuries, and modern rockhounding takes place on BLM land that remains largely undeveloped.",
+  "tips": "Search the bottoms of desert washes after spring runoff - water erosion exposes fresh agate and jasper material. Look for banded patterns and translucent edges on rocks; Monument Valley agates often show red, brown, and cream striping. Bring a UV flashlight to check for fluorescent chalcedony in the gravels. Wear sturdy boots with ankle support, as loose rocks and sharp volcanic fragments are common.",
+  "terrain_notes": "High desert plateau terrain at approximately 5,000-5,500 feet elevation. Terrain is open and relatively flat in wash bottoms, with steeper slopes on hillsides. Scattered juniper and pinyon pine provide minimal shade. Walking distances from parking areas typically range from 0.5 to 3 miles across sandy washes and rocky ground. Footing is uneven with loose cobbles and sharp volcanic fragments.",
+  "best_season": "October - April. Winter can bring snow at higher elevations, but spring (March-April) and fall (September-October) offer ideal conditions with mild temps, low humidity, and reduced heat stress. Summer heat exceeds 85-90F and sunburn risk is high. Early morning collecting is advised year-round.",
+  "written_directions": "From Mexican Hat, take US 163 south toward Arizona for approximately 20 miles. Look for unsigned BLM pullouts and access roads branching east and west from US 163 near the Monument Valley Navajo Tribal Park boundary. Alternatively, from Monticello, take US 191 south for about 55 miles to US 163, then south another 20 miles. BLM land is adjacent to the park; park only at designated pullouts and avoid private Navajo Nation land clearly marked with no trespassing signs.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "US 163 is paved. BLM access roads are unpaved, sandy, and may be rough after rain. High-clearance vehicle recommended but not always required. Some roads require 4x4 after wet weather.",
+  "parking_notes": "Informal pullouts along US 163 and BLM access roads. No developed parking areas. Space is limited at popular spots; arrive early. Pull completely off the road to avoid blocking traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. Stay on BLM land and avoid marked private property and Navajo Nation land. No collection from the Monument Valley Navajo Tribal Park itself.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nStay on BLM land only\nAvoid Navajo Nation and private property\nNo collection in tribal park",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Mexican Hat, approximately 20 miles north on US 163, has limited gas and food options. Monticello, approximately 75 miles north, offers more services. Bring plenty of water.",
+  "accessibility_notes": "Uneven rocky terrain with loose volcanic fragments and cobbles. No wheelchair access. Hiking requires moderate stamina for 1-3 mile walks in open desert. Sturdy hiking boots with ankle support recommended. Limited shade; sun exposure is significant. Not suitable for people with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Mexican Hat",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/monument-valley-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/monument-valley-ut/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/monument-valley-ut/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/monument-valley-ut/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding in Monument Valley Utah?",
+      "answer": "Monument Valley BLM land is known for agate, jasper, and chalcedony. You'll find banded red and brown agates, translucent chalcedony nodules, and colorful jasper pieces in the wash bottoms and eroded hillsides. These materials are concentrated in the alluvial fans and gravels throughout the high desert terrain."
+    },
+    {
+      "question": "Do I need a permit to rockhound on Monument Valley BLM land?",
+      "answer": "No permit is required for personal use rockhounding on BLM land near Monument Valley. You can collect up to 25 lbs per day per FLPMA regulations at no cost. However, avoid the Monument Valley Navajo Tribal Park itself and respect marked private and tribal land boundaries."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Mexican Hat Utah?",
+      "answer": "October through April offers the most comfortable collecting conditions, with mild temperatures and lower heat stress. March through April and September through October are ideal. Summer temperatures exceed 85-90F with high sunburn risk, while winter can bring snow at elevation."
+    },
+    {
+      "question": "How far from Mexican Hat is Monument Valley rockhounding?",
+      "answer": "Monument Valley BLM collecting areas are approximately 20 miles south of Mexican Hat via US 163. From Monticello, it's about 75 miles via US 191 and US 163. Informal pullouts line US 163 where you can access BLM land for collecting."
+    },
+    {
+      "question": "Is Monument Valley good for beginner rockhounders?",
+      "answer": "Yes, Monument Valley is suitable for beginners willing to handle moderate hiking in remote terrain. Surface collecting is straightforward - agates and jasper are found in washes without specialized tools required. However, the remote location and lack of services means you must be self-sufficient and bring water."
+    },
+    {
+      "question": "What tools and preparation do I need for rockhounding Monument Valley?",
+      "answer": "Bring sturdy hiking boots, at least 3-4 liters of water, sun protection, a 5-gallon bucket or collection bag, and a UV flashlight to spot fluorescent chalcedony. A small rock hammer is helpful but not essential for surface collecting. High-clearance vehicle is recommended for BLM access roads, especially after rain."
+    }
+  ],
+  "meta_title": "Monument Valley Rockhounding - Utah",
+  "meta_description": "Collect agate, jasper, and chalcedony on BLM land near Monument Valley, Utah. No permit needed, 25 lb daily limit. Public access with scenic high desert terrain.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - based on geographic knowledge of US 163 and BLM access patterns in San Juan County; no specific source for exact pullout locations provided",
+    "geology_notes - formation details inferred from Colorado Plateau geology and Basin and Range province characteristics; no site-specific geological survey consulted",
+    "gem_types - agate and jasper are typical of this region's alluvial deposits; no site-specific collector reports available to confirm exact composition"
+  ],
+  "enriched_at": "2026-04-22T06:52:37.908Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:00:24.827Z"
+}

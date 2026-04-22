@@ -1,0 +1,61 @@
+{
+  "slug": "shadwell-va",
+  "name": "Shadwell",
+  "lat": 38.010982,
+  "lng": -78.407938,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Albemarle County",
+  "city_slug": "albemarle-county",
+  "county": "Albemarle",
+  "county_slug": "albemarle",
+  "geocoded_city": "Milton",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Shadwell%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Shadwell",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Shadwell%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "gentle slope",
+    "nearest_city": {
+      "name": "Harrisonburg",
+      "distance_mi": 39,
+      "population": 54215
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:04:25.504Z"
+  },
+  "scraped_at": "2026-04-21T19:04:25.504Z",
+  "scrape_quality": "minimal"
+}

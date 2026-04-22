@@ -1,0 +1,60 @@
+{
+  "slug": "east-fletcher-vt",
+  "name": "East Fletcher",
+  "lat": 44.720312,
+  "lng": -72.830786,
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "state_code": "VT",
+  "city": "Fletcher",
+  "city_slug": "fletcher",
+  "county": "Franklin",
+  "county_slug": "franklin",
+  "geocoded_city": "Fletcher",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-vermont.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=East%20Fletcher%20Vermont"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=East%20Fletcher",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=East%20Fletcher%20Vermont"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 436,
+      "meters": 133
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:01:46.704Z"
+  },
+  "scraped_at": "2026-04-21T17:01:46.704Z",
+  "scrape_quality": "minimal"
+}

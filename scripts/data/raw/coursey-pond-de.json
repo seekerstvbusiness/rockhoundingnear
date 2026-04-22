@@ -1,0 +1,60 @@
+{
+  "slug": "coursey-pond-de",
+  "name": "Coursey Pond",
+  "lat": 38.989499,
+  "lng": -75.51738,
+  "state": "Delaware",
+  "state_slug": "delaware",
+  "state_code": "DE",
+  "city": "Kent County",
+  "city_slug": "kent-county",
+  "county": "Kent",
+  "county_slug": "kent",
+  "geocoded_city": "Kent County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-delaware.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Coursey%20Pond%20Delaware"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Coursey%20Pond",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Coursey%20Pond%20Delaware"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 16,
+      "meters": 5
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:33:59.770Z"
+  },
+  "scraped_at": "2026-04-21T16:33:59.770Z",
+  "scrape_quality": "minimal"
+}

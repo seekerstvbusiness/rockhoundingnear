@@ -1,0 +1,60 @@
+{
+  "slug": "newport-wa",
+  "name": "Newport",
+  "lat": 48.196447,
+  "lng": -117.061826,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Pend Oreille County",
+  "city_slug": "pend-oreille-county",
+  "county": "Pend Oreille",
+  "county_slug": "pend-oreille",
+  "geocoded_city": "Pend Oreille County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Newport%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Newport",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Newport%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2316,
+      "meters": 706
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:09:57.484Z"
+  },
+  "scraped_at": "2026-04-21T19:09:57.484Z",
+  "scrape_quality": "minimal"
+}

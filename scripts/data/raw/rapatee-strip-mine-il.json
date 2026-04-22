@@ -1,0 +1,63 @@
+{
+  "slug": "rapatee-strip-mine-il",
+  "name": "Rapatee Strip Mine",
+  "lat": 40.708663,
+  "lng": -90.152367,
+  "state": "Illinois",
+  "state_slug": "illinois",
+  "state_code": "IL",
+  "city": "Fulton County",
+  "city_slug": "fulton-county",
+  "county": "Fulton",
+  "county_slug": "fulton",
+  "geocoded_city": "Middlegrove",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-illinois.html"
+    },
+    "mindat": {
+      "found": true,
+      "url": "https://www.mindat.org/search.php?q=Rapatee%20Strip%20Mine%20Illinois",
+      "description_snippet": "Search Error --> Log In Register Language: English 中文 About Support Us Photos Discussions Search Learn More Quick Links : The Mindat Manual The Rock H. Currier Digital Library Mindat Newsletter [Free Download] Home Page About Mindat The Mindat Manual History of Mindat Copyright Status Who We Are Contact Us Advertise on Mindat Donate to Mindat Corporate Sponsorship Sponsor a Page Sponsored Pages Mindat Advertisers Advertise on Mindat Learning Center What is a mineral? The most common minerals on earth Information for Educators Mindat Articles The Elements The Rock H. Currier Digital Library Geologic Time Minerals by Properties Minerals by Chemistry Advanced Locality Search Random Mineral Random Locality Search by minID Localities Near Me Search Articles Search Glossary More Search Options Search For: - Any - Mineral / Rock / Gem Locality Minerals in Region Photo Glossary Discussions Articles Site Search Mineral Name: Locality Name: Keyword(s): &nbsp; The Mindat Manual Add a New Photo Rate Photos Locality Edit Report Coordinate Completion Report Add Glossary Item Mining Companies Statistics Users Mineral Museums Clubs & Organizations Mineral Shows & Events The Mindat Directory Device Settings The Mineral Quiz Time Machine Photo Search Photo Galleries Search by Color New Photos Today New Photos Yesterday Members' Photo Galleries Past Photo of the Day Gallery Photography Search Error Nothing selected &nbsp; and/or &nbsp; Mindat.org® is an outreach project of the Hudson Institute "
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Rapatee%20Strip%20Mine",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Rapatee%20Strip%20Mine%20Illinois"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[mindat] Search Error --> Log In Register Language: English 中文 About Support Us Photos Discussions Search Learn More Quick Links : The Mindat Manual The Rock H. Currier Digital Library Mindat Newsletter [Free Download] Home Page About Mindat The Mindat Manual History of Mindat Copyright Status Who We Are Contact Us Advertise on Mindat Donate to Mindat Corporate Sponsorship Sponsor a Page Sponsored Pages Mindat Advertisers Advertise on Mindat Learning Center What is a mineral? The most common minerals on earth Information for Educators Mindat Articles The Elements The Rock H. Currier Digital Library Geologic Time Minerals by Properties Minerals by Chemistry Advanced Locality Search Random Mineral Random Locality Search by minID Localities Near Me Search Articles Search Glossary More Search Options Search For: - Any - Mineral / Rock / Gem Locality Minerals in Region Photo Glossary Discussions Articles Site Search Mineral Name: Locality Name: Keyword(s): &nbsp; The Mindat Manual Add a New Photo Rate Photos Locality Edit Report Coordinate Completion Report Add Glossary Item Mining Companies Statistics Users Mineral Museums Clubs & Organizations Mineral Shows & Events The Mindat Directory Device Settings The Mineral Quiz Time Machine Photo Search Photo Galleries Search by Color New Photos Today New Photos Yesterday Members' Photo Galleries Past Photo of the Day Gallery Photography Search Error Nothing selected &nbsp; and/or &nbsp; Mindat.org® is an outreach project of the Hudson Institute "
+    ],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 656,
+      "meters": 200
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:52:49.200Z"
+  },
+  "scraped_at": "2026-04-21T16:52:49.200Z",
+  "scrape_quality": "partial"
+}

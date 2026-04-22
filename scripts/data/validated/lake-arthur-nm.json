@@ -1,0 +1,100 @@
+{
+  "slug": "lake-arthur-nm",
+  "name": "Lake Arthur",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Artesia",
+  "city_slug": "artesia",
+  "county": "Chaves",
+  "county_slug": "chaves",
+  "lat": 32.974388,
+  "lng": -104.091272,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM land near Lake Arthur offers free rockhounding for agate, chalcedony, and jasper specimens. Scenic desert terrain with abundant surface collecting opportunities.",
+  "description": "Lake Arthur sits within Chaves County on BLM-managed public land in the northern Chihuahuan Desert. This area provides excellent free rockhounding access for collectors seeking agate nodules, chalcedony specimens, and jasper fragments scattered across the desert floor. The terrain features open scrubland with scattered rocky outcrops and washes that naturally expose gemstone material after seasonal rains and erosion.\n\nThe geology of this region reflects Basin and Range tectonics combined with Cenozoic volcanic activity. Ancient rhyolitic volcanism and hydrothermal processes deposited silica-rich fluids throughout this landscape, creating the agate nodules and chalcedony formations found here today. The surrounding Pecos River valley geology contributes additional quartz-based minerals that concentrate along dry washes and bajadas.\n\nThis location is ideal for beginners and family collectors. The open access, no permit requirement, and relatively dense concentration of surface specimens make it perfect for learning rockhounding basics. Collectors typically find small to medium-sized agates with banded patterns, milky quartz pieces, and occasional jasper chunks without needing tools or excavation.\n\nThe area experiences intense summer heat and open sun exposure with minimal shade. Spring and fall offer the most comfortable collecting conditions. Bring plenty of water, sunscreen, and wear sturdy boots for navigating rocky terrain. The surrounding landscape is relatively flat to gently rolling, making it accessible to most fitness levels.",
+  "history": "This region experienced significant Basin and Range extension during the Cenozoic era, creating conditions for silica-rich hot spring systems. Miocene-age volcanic activity in the Rio Grande Rift province deposited rhyolitic material and hosted hydrothermal circulation that concentrated silica into agate nodules and chalcedony masses now exposed at the surface.",
+  "tips": "Search along dry washes and bajada slopes where seasonal water flow exposes fresh material and concentrates heavier specimens. Agate nodules often weather out as rounded, water-smoothed pieces near historic stream channels. Look for specimens with visible banding patterns or translucent chalcedony fragments catching sunlight. Early morning or late afternoon light reveals gemstone specimens more easily than midday harsh sun.",
+  "terrain_notes": "Open desert scrubland at approximately 3,300 feet elevation. Terrain is gently rolling to nearly flat with scattered rocky outcrops and dry washes. Vegetation includes creosote bush, yucca, and sparse grasses. Walking distance from parking is highly variable depending on where you focus effort, but productive areas are typically within 0.5 to 2 miles. Footing is uneven with scattered loose rocks and caliche - sturdy boots essential.",
+  "best_season": "October - April. Summer temperatures exceed 95 degrees F with intense UV exposure. Late fall through early spring provides comfortable daytime temperatures (50-70 degrees F), minimal rainfall that could trigger flash floods, and best visibility for spotting specimens.",
+  "written_directions": "From Artesia, take US 285 north approximately 12 miles. Turn east on County Road 14 (watch for BLM access signs) and follow for approximately 3-4 miles. Look for informal pullouts and BLM boundary markers near the Lake Arthur area. GPS coordinates will be more reliable than road signs in this remote section.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "County roads are unpaved but generally passable in dry weather. Some washboard surface sections. High-clearance vehicles recommended but not required in normal conditions. Avoid during or immediately after rain.",
+  "parking_notes": "Informal pullouts along BLM land boundaries. No developed parking facilities. Space for 2-4 vehicles at each location. Park well off active roads and respect private property boundaries.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or heavy equipment. Pack out all trash. Respect BLM boundary markers and avoid adjacent private land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nPack out all trash\nRespect BLM boundaries and private property\nNo fires or camping equipment",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Artesia, approximately 12 miles south, has gas stations, restaurants, and a grocery store. Roswell, approximately 25 miles north, offers additional services.",
+  "accessibility_notes": "Relatively easy terrain with gently rolling landscape and scattered loose rocks. No wheelchair access to collecting areas. Uneven footing and open sun exposure require sturdy boots and fitness for walking 1-2 miles. Limited or no shade available. Most collectors walk 0.5-2 miles from parking.",
+  "alternative_names": [
+    "Lake Arthur BLM"
+  ],
+  "nearest_city": "Artesia",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/lake-arthur-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Lake Arthur near Artesia?",
+      "answer": "Lake Arthur offers excellent surface collecting for agate, chalcedony, quartz, and jasper specimens. Agate nodules with banding patterns are the most sought-after find, commonly discovered as water-smoothed pieces along dry washes. Chalcedony and quartz fragments scatter across the bajada slopes, making this an ideal location for beginners building a collection."
+    },
+    {
+      "question": "Is Lake Arthur free to rockhound and do I need a permit?",
+      "answer": "Yes, Lake Arthur sits on BLM public land with free access for recreational rockhounding. No permit is required. You are limited to 25 lbs of material per day under FLPMA regulations, and all collection must be for personal use only - commercial collection is prohibited."
+    },
+    {
+      "question": "What is the best season for rockhounding near Lake Arthur, New Mexico?",
+      "answer": "October through April provides the most comfortable collecting conditions. Summer temperatures exceed 95 degrees F with intense sun exposure, making field time difficult. Fall and spring offer pleasant 50-70 degree daytime temperatures, better visibility for spotting specimens, and lower risk of flash floods in seasonal washes."
+    },
+    {
+      "question": "How difficult is rockhounding at Lake Arthur for beginners?",
+      "answer": "Lake Arthur is excellent for beginners. The terrain is mostly flat with gently rolling slopes, surface specimens are abundant and easy to spot, and no digging or special tools are required. You can collect quality agates and chalcedony by walking along washes and bajadas. The open BLM access means no complicated permits or fees."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Lake Arthur?",
+      "answer": "Bring sturdy hiking boots for rocky, uneven terrain. A small backpack helps carry specimens (remember the 25 lb daily limit). Pack 2-3 liters of water per person - the open desert offers no shade. Sunscreen, a hat, and light jacket for early morning/late afternoon collecting are essential. A loupe or magnifier helps identify banding patterns in agate specimens."
+    },
+    {
+      "question": "Are dogs allowed and is Lake Arthur family-friendly for rockhounding?",
+      "answer": "Yes, dogs are welcome on BLM land at Lake Arthur. This is a very family-friendly location with easy terrain suitable for children ages 6 and up. The free access, abundant surface specimens, and minimal hiking required make it perfect for introducing kids to rockhounding. Bring plenty of water and plan collecting during cooler morning or late afternoon hours in warm months."
+    }
+  ],
+  "meta_title": "Lake Arthur Rockhounding - Find Agate & Chalcedony, NM",
+  "meta_description": "Free BLM rockhounding near Artesia for agate, chalcedony, and quartz. No permit required. Open desert terrain, beginner-friendly, year-round access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "cell_service",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T09:28:39.346Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:35.357Z"
+}

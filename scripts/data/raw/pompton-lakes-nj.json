@@ -1,0 +1,60 @@
+{
+  "slug": "pompton-lakes-nj",
+  "name": "Pompton Lakes",
+  "lat": 41.005397,
+  "lng": -74.307109,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Bloomingdale",
+  "city_slug": "bloomingdale",
+  "county": "Passaic",
+  "county_slug": "passaic",
+  "geocoded_city": "Bloomingdale",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pompton%20Lakes%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pompton%20Lakes",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pompton%20Lakes%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 480,
+      "meters": 146
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:30:37.607Z"
+  },
+  "scraped_at": "2026-04-21T18:30:37.607Z",
+  "scrape_quality": "minimal"
+}

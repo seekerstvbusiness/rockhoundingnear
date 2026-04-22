@@ -1,0 +1,97 @@
+{
+  "slug": "archangel-creek-ak",
+  "name": "Archangel Creek",
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "city": "Matanuska-Susitna Borough",
+  "city_slug": "matanuska-susitna-borough",
+  "county": "Matanuska-Susitna Borough",
+  "county_slug": "matanuska-susitna-borough",
+  "lat": 61.818261,
+  "lng": -149.241862,
+  "gem_types": [
+    "Gold",
+    "Garnet",
+    "Quartz"
+  ],
+  "short_description": "Alpine creek valley in the Chugach Mountains known for fine gold panning and quartz-rich gravels. Scenic high-elevation setting with access to glacial deposits.",
+  "description": "Archangel Creek sits at 3,079 feet elevation in the rugged Chugach Mountain range north of Anchorage, draining glacial valleys that have concentrated precious metals and minerals for millennia. This gentle-sloped creek system receives seasonal runoff from snow melt and glacial activity, creating ideal conditions for gold panning in cleaned gravel bars and stream deposits. The surrounding terrain features alpine tundra and exposed quartz-rich outcrops typical of the Chugach batholith, a granitic mountain range formed during Mesozoic plutonic intrusions.\n\nRockhounders visit Archangel Creek primarily for fine to flake gold in stream gravels and for garnets found in weathered granite and metamorphic host rocks. The creek valley itself offers relatively gentle walking despite high elevation, with established trails and clear water access making it accessible for experienced hikers in good weather. Seasonal conditions matter significantly - summer provides the only practical window for access, as snow and ice block the area from October through May.\n\nThe gentle slope and creek-side collecting mean you can work gravel bars and cutbanks with basic panning equipment. Garnets often appear as small reddish crystals in quartz-rich rubble and tailings. The remote location requires self-sufficiency and respect for weather patterns that can change rapidly in alpine terrain.",
+  "history": "Archangel Creek drains the Chugach batholith, a granitic mountain complex that formed approximately 60 million years ago during Paleocene magmatic activity in south-central Alaska. Glaciation during the Pleistocene carved the valleys and concentrated heavy minerals including gold and garnet in stream gravels, creating the productive deposits rockhounders find today. Regional prospecting history in the Chugach Mountains dates back to the early 20th century, though this creek remains relatively undocumented in formal mining records compared to other Alaska locations.",
+  "tips": "Focus your panning effort on inside bends of the creek where water slows and deposits heavier materials like gold - the gentle slope creates natural settlement zones. Bring a sturdy gold pan (12-14 inches), snuffer bottle, and small vial for fine gold recovery; the glacial gravels here contain mostly flour and fine gold rather than flakes. Look for garnets in quartz-rich rubble along the streambed and in exposed granite talus slopes above the creek - they appear as small dark red to brown crystals, often in concentrations. Work the area in mid to late summer (July-August) when snow melt is complete but before fall storms arrive; early season high water makes panning ineffective.",
+  "terrain_notes": "Gentle slope elevation of 3,079 feet with exposed granite outcrops, alpine tundra vegetation, and clear creek access. Walking distance from established trailhead parking is roughly 1-2 miles depending on access point. Footing can be rocky and uneven with scree and loose granite fragments common; moss and lichen-covered rocks may be slippery when wet. No developed trails beyond initial approach; route-finding required to reach productive creek sections.",
+  "best_season": "July - August. High elevation and heavy winter snow cover make this location inaccessible from September through June. Summer window is short but provides stable weather, complete snow melt, and creek accessibility. Late July and early August offer ideal conditions before fall storms develop.",
+  "written_directions": "From Palmer, take Glenn Highway north toward Sutton. Access to Archangel Creek trailhead varies; typical approach follows Forest Service roads branching east from Glenn Highway near the Matanuska Glacier area, approximately 25-30 miles from Palmer. High-clearance or 4WD vehicle strongly recommended for rough forest service roads. Consult current Chugach National Forest maps and local ranger stations for exact trailhead access, as road conditions and access may change seasonally. GPS coordinates provided should be verified against current Forest Service trail maps before attempting access.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough forest service roads with washboard, ruts, and potential mud. High-clearance 4WD vehicle required. Roads may be impassable during wet seasons and are seasonal.",
+  "parking_notes": "Limited parking at trailhead area; typically a small pullout or clearing. No developed lot. Capacity for approximately 3-5 vehicles. Arrive early in the day.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use rockhounding allowed on Chugach National Forest lands. Maximum 25 lbs of collected material per day. No commercial collection. No motorized excavation or mechanized equipment. Pack out all waste. Report any abandoned mines to ranger station. Follow Leave No Trace principles.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only. No commercial collection. Maximum 25 lbs per day. No motorized or mechanized excavation. Pack out all waste. No open fires. Follow Forest Service regulations and Leave No Trace principles.",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Palmer, approximately 25-30 miles south via Glenn Highway. Full services including gas, food, lodging, and supplies.",
+  "accessibility_notes": "Rough alpine backcountry terrain at high elevation. Uneven rocky footing with loose scree and granite fragments. Steep sections possible depending on route taken. Exposed alpine environment with rapid weather changes. Not suitable for limited mobility. Requires strong hiking fitness and mountaineering experience. River crossing possible depending on water level. Suitable only for experienced backcountry rockhounders.",
+  "alternative_names": [],
+  "nearest_city": "Palmer",
+  "nearest_city_distance": 28,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/alaska/archangel-creek-ak/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kind of gold can I find panning at Archangel Creek in Alaska?",
+      "answer": "Archangel Creek produces primarily fine to flour gold from glacial stream gravels. Fine flakes and occasional small fragments appear in quartz-rich deposits along the creek bed and inside bends where heavier materials settle. Expect to recover small quantities with patience and proper panning technique; this is an active creek system with ongoing glacial recharge."
+    },
+    {
+      "question": "Is Archangel Creek rockhounding site accessible year-round in Alaska?",
+      "answer": "No. High elevation (3,079 feet) and heavy winter snow make Archangel Creek inaccessible from September through June. The practical collecting window is mid-July through August only, after snow melt and before fall storms. Check with Chugach National Forest for current conditions before attempting access."
+    },
+    {
+      "question": "Do I need a permit to rockhound and pan for gold at Archangel Creek?",
+      "answer": "No permit is required for personal use rockhounding on Chugach National Forest land. However, you must follow Forest Service regulations: keep collection to 25 lbs per day maximum, avoid motorized excavation, pack out all waste, and report any abandoned mines. Commercial collection is not allowed."
+    },
+    {
+      "question": "What tools and equipment do I need for panning gold at Archangel Creek?",
+      "answer": "Bring a 12-14 inch gold pan, snuffer bottle for fine gold recovery, small vial, and waterproof container. Sturdy hiking boots with good ankle support are essential for uneven rocky terrain. Pack rain gear, warm layers, water, and high-calorie snacks. A headlamp and first aid kit are vital given the remote location and lack of cell service."
+    },
+    {
+      "question": "Is Archangel Creek good for beginner rockhounders?",
+      "answer": "No. Archangel Creek requires strong hiking fitness, mountaineering experience, and backcountry skills. Access involves rough 4WD forest roads and alpine terrain at 3,079 feet elevation with no cell service and rapid weather changes. This site is suitable only for experienced rockhounders. Beginners should try more accessible Alaska rockhounding locations near Anchorage or Palmer first."
+    },
+    {
+      "question": "Where are garnets found at Archangel Creek and what do they look like?",
+      "answer": "Garnets at Archangel Creek appear as small dark red to brown crystals in quartz-rich rubble along the creek bed and in exposed granite talus slopes above the stream. Look for them concentrated in gravel bars where heavier minerals accumulate. They typically range from sand-grain to small pebble size and often cluster in weathered granite fragments and metamorphic host rock material."
+    }
+  ],
+  "meta_title": "Archangel Creek Rockhounding - Alaska Gold & Garnet",
+  "meta_description": "Pan for fine gold and find garnets at Archangel Creek in Alaska's Chugach Mountains. High-elevation alpine rockhounding July-August. 4WD access required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type and primary_category (inferred from location being in Chugach National Forest; confirm current land status)",
+    "written_directions (no specific roads named in terrain data; directions inferred from general geography and should be verified with current Forest Service maps)",
+    "parking_notes (typical for remote trailheads; confirm current facilities)",
+    "nearest_services distance (estimated from general Palmer-Matanuska geography)"
+  ],
+  "enriched_at": "2026-04-21T18:30:47.651Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:33:44.372Z"
+}

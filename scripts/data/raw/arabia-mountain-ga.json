@@ -1,0 +1,60 @@
+{
+  "slug": "arabia-mountain-ga",
+  "name": "Arabia Mountain",
+  "lat": 33.686507,
+  "lng": -84.109927,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Stonecrest",
+  "city_slug": "stonecrest",
+  "county": "DeKalb",
+  "county_slug": "dekalb",
+  "geocoded_city": "Stonecrest",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Arabia%20Mountain%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Arabia%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Arabia%20Mountain%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 934,
+      "meters": 285
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:00:00.144Z"
+  },
+  "scraped_at": "2026-04-21T19:00:00.144Z",
+  "scrape_quality": "minimal"
+}

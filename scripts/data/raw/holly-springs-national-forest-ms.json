@@ -1,0 +1,60 @@
+{
+  "slug": "holly-springs-national-forest-ms",
+  "name": "Holly Springs National Forest",
+  "lat": 34.707953,
+  "lng": -89.329951,
+  "state": "Mississippi",
+  "state_slug": "mississippi",
+  "state_code": "MS",
+  "city": "Marshall County",
+  "city_slug": "marshall-county",
+  "county": "Marshall",
+  "county_slug": "marshall",
+  "geocoded_city": "Marshall County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-mississippi.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Holly%20Springs%20National%20Forest%20Mississippi"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Holly%20Springs%20National%20Forest",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Holly%20Springs%20National%20Forest%20Mississippi"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 335,
+      "meters": 102
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:32:59.468Z"
+  },
+  "scraped_at": "2026-04-21T16:32:59.468Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "birch-creek-ut",
+  "name": "Birch Creek",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Box Elder County",
+  "city_slug": "box-elder-county",
+  "county": "Box Elder",
+  "county_slug": "box-elder",
+  "lat": 41.691477,
+  "lng": -113.685349,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM public land in northern Utah offering free rockhounding for quartz, agate, and chalcedony specimens. Flat, accessible terrain at 5900 feet elevation with a 25 lb daily collection limit.",
+  "description": "Birch Creek is a public BLM rockhounding site in Box Elder County, northern Utah, offering free access for recreational mineral collectors. The area sits at 5902 feet elevation with relatively flat terrain, making it accessible for rockhounds of varying experience levels. This location is part of the Great Basin physiographic province, where Basin and Range extension during the Tertiary period created favorable conditions for silica-rich mineral deposition. The creeks and washes in this region expose secondary silica minerals including quartz, agate, chalcedony, and jasper formed from ancient volcanic and hydrothermal activity.\n\nThe Birch Creek area is known for nodules and fragments of quality quartz and agate found in creek beds and surrounding gravels. Collectors often find colorful banded agate specimens and translucent quartz crystals weathered from parent rock formations. The flat topography and accessible drainage patterns make material relatively easy to locate compared to steep mountainous sites. Water flow during spring runoff continuously exposes fresh material, making seasonal visits productive.\n\nAs BLM land, Birch Creek operates under standard recreational use guidelines with no permits required. The 25 lb per day personal use limit encourages responsible collecting while allowing meaningful specimen acquisition. The site is best visited during shoulder seasons when weather is moderate and creek flows expose fresh material without the heat of summer or snow of winter.",
+  "history": "This region of Box Elder County lies within the Basin and Range province where Tertiary-age volcanic and hydrothermal activity deposited silica-rich fluids in fractures and open spaces. These fluids cooled and crystallized over millions of years to form the quartz, agate, and chalcedony specimens found in creeks and washes today. The flat basin topography here contrasts with surrounding ranges and has allowed easier erosion and exposure of these collectible minerals.",
+  "tips": "Search the main creek bed and tributary washes for agate nodules and quartz fragments concentrated by water flow and gravity - these high-traffic areas yield the best specimens. Use a small chisel or pry bar to carefully extract nodules from consolidated gravel deposits rather than heavy hammering, which can damage specimens and destabilize banks. Look for translucent or banded pieces showing distinct layering in reds, whites, and earth tones; fresh material often has a dull surface until polished. Visit after spring runoff or heavy rain when new material is exposed and creek flows are moderate.",
+  "terrain_notes": "Elevation 5902 feet. Flat to gently rolling terrain with easy walking. Open sagebrush scrub vegetation typical of the Great Basin. Birch Creek runs through the area with gravelly banks and accessible washes. Dirt roads lead to multiple pullout areas within 0.25 to 1 mile of the main creek access points. Footing is stable on established paths but can be rocky in active creek beds.",
+  "best_season": "April - June, September - October. Spring (April-June) offers moderate temperatures and creek flows that expose fresh material. Fall (September-October) provides cooler weather and lower fire danger. Summer heat (July-August) can be intense at this elevation. Winter snow can limit access to higher elevations in the range.",
+  "written_directions": "From Brigham City (approximately 20 miles south), take US 89 north toward Idaho. Turn east on local roads toward the Birch Creek drainage in Box Elder County. Specific access roads vary depending on which section of BLM land you target, but the general area is accessible via dirt roads branching east from US 89 north of Brigham City near the Idaho state line. Contact the Bear River Resource Area of Utah BLM for current road conditions and specific access points, as seasonal closures and road maintenance can affect access.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and gravel roads, generally well-maintained but subject to seasonal washout. High-clearance vehicle recommended after heavy rain; passenger cars can usually access main creek areas during dry periods.",
+  "parking_notes": "Informal pullouts along access roads near creek drainage. No developed parking lot. Space for 2-4 vehicles at most pullout areas. Arrive early during peak seasons to secure parking.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation. Pack out all trash. Leave no trace rockhounding practices required.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nPack out all trash\nLeave no trace practices required",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "remote"
+  ],
+  "nearest_services": "Brigham City, Utah approximately 20 miles south. Full services including gas, food, lodging, and supplies.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Informal dirt road access to creek areas. Stable footing along established paths. Creek bed walking involves rocky footing and minor stream crossings. No wheelchair access to active collecting areas. Sturdy footwear with good grip recommended for creek bed work.",
+  "alternative_names": [],
+  "nearest_city": "Brigham City",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/birch-creek-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find at Birch Creek rockhounding site in Utah?",
+      "answer": "Birch Creek is known for quartz, agate, chalcedony, and jasper. The agate specimens often display banding in red, white, and earth tones, while quartz fragments range from translucent crystals to milky specimens. Material is typically found as weathered nodules in creek beds and gravels."
+    },
+    {
+      "question": "Is a permit required to rockhound at Birch Creek in Box Elder County?",
+      "answer": "No permit is required. Birch Creek is on public BLM land where recreational mineral collecting is allowed under the Federal Land Policy and Management Act. You are limited to 25 lbs per day for personal use with no commercial collection permitted."
+    },
+    {
+      "question": "What is the best time to visit Birch Creek for rockhounding?",
+      "answer": "April through June and September through October are ideal. Spring months offer moderate temperatures and creek flows that expose fresh material, while fall provides cooler weather and lower fire danger. Summer heat and winter snow make other seasons less comfortable at this 5900-foot elevation."
+    },
+    {
+      "question": "How hard is it to find quality agate specimens at Birch Creek Utah?",
+      "answer": "Agate and quartz are relatively abundant at Birch Creek, making it a beginner-friendly site. The flat terrain and accessible creek beds mean you do not need technical climbing skills. Most collectors find usable specimens within the first hour of searching established washes and creek beds."
+    },
+    {
+      "question": "What tools do I need to rockhound at Birch Creek?",
+      "answer": "A small chisel or pry bar, hammer, rock pick, and collection bag are essential. Use the chisel to carefully extract nodules from consolidated gravel rather than heavy hammering, which can damage specimens. A UV light can help identify fluorescent minerals, and a hand lens aids specimen evaluation in the field."
+    },
+    {
+      "question": "Can families with young children rockhound at Birch Creek?",
+      "answer": "Yes, Birch Creek is family-friendly and suitable for children ages 6 and up. The flat terrain and easy access make it ideal for beginners. Keep an eye out for hazards like stream crossings and unstable banks, and bring plenty of water and sun protection at this high elevation site."
+    }
+  ],
+  "meta_title": "Birch Creek Rockhounding - Utah BLM",
+  "meta_description": "Free BLM rockhounding at Birch Creek, Utah. Find quartz, agate, and chalcedony with no permit required. 25 lb daily limit. Beginner-friendly site near Brigham City.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T06:48:26.140Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:54:44.505Z"
+}

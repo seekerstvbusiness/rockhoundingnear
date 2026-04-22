@@ -1,0 +1,101 @@
+{
+  "slug": "montezuma-canyon-ut",
+  "name": "Montezuma Canyon",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Monticello",
+  "city_slug": "monticello",
+  "county": "San Juan",
+  "county_slug": "san-juan",
+  "lat": 37.533738,
+  "lng": -109.23156,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Petrified Wood"
+  ],
+  "short_description": "Rockhound Montezuma Canyon's BLM lands for colorful agate and jasper specimens. Free public collecting with a 25 lb daily limit on this scenic San Juan County site.",
+  "description": "Montezuma Canyon in San Juan County offers accessible rockhounding on BLM-managed public lands near Monticello, Utah. This remote canyon system cuts through the Colorado Plateau and exposes multiple layers of Mesozoic sedimentary formations that host excellent agate, jasper, and chalcedony specimens. The canyon walls and wash gravels contain materials deposited during ancient fluvial and lacustrine environments, making this a productive site for collectors of all skill levels.\n\nThe geology here reflects the Basin and Range transition zone where erosion has exposed colorful silica-rich formations from the Jurassic and Cretaceous periods. Agate nodules and jasper fragments weather out of the canyon walls and accumulate in washes, where they are easily accessible to foot traffic. The dry desert climate of this region preserves specimens in excellent condition, with minimal chemical weathering compared to more humid areas.\n\nBecause Montezuma Canyon lies on BLM land, recreational rockhounding is permitted without advance authorization. The site is ideal for beginners and families due to its gentle slopes, manageable distances, and prolific gemstone finds. Most productive collecting occurs in the canyon bottom and along eroded hillsides where water action has concentrated lighter materials.",
+  "history": "Montezuma Canyon sits within the Colorado Plateau's structural province where Cenozoic uplift and Quaternary erosion have exposed Mesozoic sedimentary sequences rich in silica-bearing formations. The canyon's walls preserve a record of ancient seas and river systems that deposited sand and mud over 100 million years ago, which were later lithified and mineralized with agate and jasper during diagenesis and weathering.",
+  "tips": "Search the canyon bottom and dry wash first, as gravity concentrates heavier agate and jasper pebbles in low-lying areas. Look for specimens with translucent orange, red, or banded patterns along cliff bases and eroded slopes where water runoff has naturally sorted materials. Bring a small hand lens to examine color banding and identify chalcedony vs common quartz in the field. A chisel or small rock hammer helps extract specimens from softer matrix material, but most collectible pieces can be picked from loose gravels.",
+  "terrain_notes": "Montezuma Canyon features a wide, accessible canyon bottom with sandy and gravelly footing. Elevations range from 5,000 to 5,500 feet. Vegetation is sparse high-desert shrubland typical of the Colorado Plateau. Walking distance from parking is typically 0.5 to 2 miles depending on access point chosen. The terrain is generally level to gently sloping with scattered loose rocks and minor erosional gullies. No steep cliffs directly block access to productive collecting areas, though canyon walls rise 200-400 feet above the floor.",
+  "best_season": "October - April. The remote desert canyon experiences extreme summer heat (often exceeding 95 degrees F) and occasional flash flood risk during monsoon season (July-September). Spring and fall offer ideal temperatures and lower water flow, making access safer and more comfortable for extended collecting.",
+  "written_directions": "From Monticello, take US 191 south for approximately 35 miles toward Bluff. Turn east onto San Juan County Road (County Road 265 or similar local road - confirm with BLM office as exact road names vary). Drive east for 8-12 miles on increasingly rough BLM roads into canyon country. Look for pullouts and canyon access points marked by informal parking areas and cairns. High-clearance vehicles recommended for the final 3-4 miles; standard passenger cars should not attempt this route.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "BLM roads range from maintained dirt to rough, rutted two-track. Final approach requires high-clearance vehicle. No pavement. Impassable during/after heavy rain.",
+  "parking_notes": "Informal pullouts and dispersed BLM camping areas scattered along approach roads. No developed parking lot. Space for 2-4 vehicles at most locations. Arrive early to secure space.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment use. Pack out all waste. Respect existing structures and avoid damaging vegetation.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nPack out all trash\nRespect cultural resources",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "flash_floods",
+    "remote",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Monticello, Utah has gas, food, and lodging approximately 35 miles west. Bluff, Utah is 50+ miles south with limited services.",
+  "accessibility_notes": "Canyon bottom terrain is relatively flat and accessible to most hikers. Uneven rocky footing with minor obstacles typical of desert washes. No formal trails or wheelchair access. Sturdy hiking boots recommended. Distance from vehicle varies by exact parking location, typically 0.5 to 2 miles of walking to productive collecting areas.",
+  "alternative_names": [],
+  "nearest_city": "Monticello",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/montezuma-canyon-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/montezuma-canyon-ut/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/montezuma-canyon-ut/mineral-2-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/montezuma-canyon-ut/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding in Montezuma Canyon near Monticello?",
+      "answer": "Montezuma Canyon is productive for agate, jasper, chalcedony, and petrified wood specimens. Agate nodules range from 1 to 4 inches in diameter with colorful banding in oranges, reds, and browns. Jasper fragments of various colors weather from the canyon walls and accumulate in the wash. Most specimens are readily accessible without specialized tools, making this ideal for collectors seeking quantity and variety."
+    },
+    {
+      "question": "Is there a fee to rockhound at Montezuma Canyon, Utah?",
+      "answer": "No. Montezuma Canyon lies on public BLM land where recreational rockhounding is free under the Federal Land Policy and Management Act (FLPMA). You do not need a permit. The only requirement is that you limit collection to 25 lbs per day per person for personal use only."
+    },
+    {
+      "question": "How do I get to Montezuma Canyon for rockhounding from Monticello?",
+      "answer": "From Monticello, take US 191 south approximately 35 miles. Turn east onto BLM roads (County Road 265 area) and drive 8-12 miles on rough dirt roads into canyon country. A high-clearance AWD vehicle is recommended for the final 3-4 miles. Confirm current road conditions and exact access points with the BLM Monticello Field Office before visiting."
+    },
+    {
+      "question": "What is the best time of year to rockhound Montezuma Canyon?",
+      "answer": "October through April is ideal. Summer temperatures exceed 95 degrees F and the remote location offers no shade. Monsoon season (July-September) brings flash flood risk in the canyon. Spring and fall provide comfortable temperatures, lower water flow for safer access, and the best conditions for spending extended time collecting specimens."
+    },
+    {
+      "question": "Is Montezuma Canyon rockhounding suitable for children and beginners?",
+      "answer": "Yes. The canyon bottom has relatively gentle terrain and accessible footing. Colorful agate and jasper specimens are easy to spot and can be collected without heavy tools. Children ages 6 and up can safely participate with adult supervision. The wide variety of specimens and prolific finds make this highly rewarding for beginners and families."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Montezuma Canyon?",
+      "answer": "Bring a small backpack, sturdy hiking boots, water (at least 2 liters per person), sunscreen, and a hat. A hand lens helps identify specimens in the field. A small chisel or rock hammer is optional but useful for extracting specimens from softer matrix. Since the site is remote with no services, also pack snacks, a map, and a fully charged cell phone (though service is unavailable). Avoid heavy tools; most collectible pieces are loose."
+    }
+  ],
+  "meta_title": "Montezuma Canyon Rockhounding - Utah",
+  "meta_description": "Free BLM rockhounding in Utah for agate, jasper, and petrified wood near Monticello. 25 lb daily limit, no permit required. Best October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - specific BLM road numbers should be verified with field office",
+    "nearest_city_distance - estimated from GPS coordinates",
+    "remoteness_rating - inferred from road access description"
+  ],
+  "enriched_at": "2026-04-22T06:52:37.247Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:00:21.903Z"
+}

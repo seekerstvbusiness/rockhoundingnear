@@ -1,0 +1,99 @@
+{
+  "slug": "sula-mt",
+  "name": "Sula",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Ravalli County Area",
+  "city_slug": "ravalli-county",
+  "county": "Ravalli",
+  "county_slug": "ravalli",
+  "lat": 45.868798,
+  "lng": -113.98202,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public rockhounding near Sula offers abundant quartz, agate, and jasper in moderate mountain terrain at 4788 ft elevation. Free, no-permit collecting with scenic Ravalli County geology.",
+  "description": "Sula sits in the heart of southwestern Montana's Ravalli County, an ideal location for rockhounds seeking quartz, agate, and jasper without permit hassles or fees. This BLM-managed area sits at moderate elevation (4788 ft) with rolling slopes that expose mineral-rich formations typical of the Northern Rocky Mountains. The terrain here reflects classic Basin and Range geology mixed with Precambrian metamorphic rocks, creating excellent conditions for finding quality specimens. Unlike many fee-dig sites, Sula offers genuine public access with simple personal-use rules and daily collection limits. The surrounding landscape combines open hillsides, scattered timber, and seasonal water runoff that naturally exposes fresh material. Rockhounders appreciate this location for its accessibility to beginners, lack of commercial pressure, and genuine diversity of quartz varieties and chalcedony specimens.\n\nThe geological story of Sula reflects ancient volcanic and hydrothermal activity that created the silica-rich deposits found here today. Miocene-era volcanism and subsequent mineral-bearing fluids moved through fractures in the underlying metamorphic rock, depositing microcrystalline quartz and agate. The moderate slope allows natural erosion and weathering to continuously expose new material each season. Spring runoff and summer storms create small washes and exposures where loose material collects, making specimen hunting productive without requiring deep excavation.\n\nWhat to expect: moderate walking distances from parking, rocky footing, and the need for sturdy boots. Most productive areas lie on exposed hillsides and in small drainage channels where quartz nodules naturally weather out of the matrix. The landscape is relatively open, reducing navigation difficulty. Afternoon thunderstorms are common in summer, so morning hunts are safer. Cell service is spotty, so plan accordingly and bring water and sun protection.\n\nThis site rewards patience and systematic searching. Focus on areas where bedrock is exposed or where loose talus has accumulated. Agate nodules often appear as rounded stones with translucent edges; jasper specimens typically show solid color and can reach substantial sizes. The moderate difficulty rating reflects the terrain and hiking involved, making this appropriate for families with older children and anyone comfortable with mile-long walks on uneven ground.",
+  "history": "The Sula area sits within the Northern Rocky Mountain province where Precambrian metamorphic basement rocks were uplifted and exposed during Laramide-age tectonics. Miocene-age volcanic activity and associated hydrothermal systems deposited silica-rich mineralizing fluids through fractures, creating the quartz, agate, and chalcedony deposits found here today. The moderate elevation and seasonal water flow continuously expose fresh material, making this a historically productive rockhounding area for local collectors.",
+  "tips": "Search exposed hillsides and small drainage washes where quartz nodules naturally weather from the matrix - focus on areas with loose talus and broken bedrock. Use a small pry bar or chisel to test loose rocks and expose fresh surfaces; many specimens hide inside rounded boulders that appear ordinary from outside. Look for agate nodules with translucent rims and chalcedony showing subtle banding or color; jasper specimens are typically solid-colored and range from thumbnail to fist size. Morning hunts avoid afternoon thunderstorms common in summer months.",
+  "terrain_notes": "Moderate slope terrain at 4788 ft elevation with open hillsides, scattered conifer stands, and rocky footing. Uneven ground with loose rock requires sturdy hiking boots. Walking distances typically 0.5 to 1.5 miles from parking areas. No developed trails; cross-country hiking necessary. Exposed bedrock and talus slopes dominate the productive areas. Summer vegetation is light, providing good visibility for spotting specimens.",
+  "best_season": "June - September. Mountain elevation means snow and ice block access October through May. June and early September offer warm, dry conditions ideal for hillside collecting. July and August can bring afternoon thunderstorms; early morning hunting is safest.",
+  "written_directions": "From Ravalli, take Montana Highway 93 south toward Sula for approximately 8 miles. Look for BLM access signs near the Sula area. Follow local BLM roads or parking pullouts marked for public use. GPS coordinates (45.868798, -113.98202) point to productive rockhounding terrain on the moderate slopes. Most access is via short walks from dirt pullouts or BLM trailheads. Confirm current access conditions locally before traveling; BLM road conditions can vary seasonally.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt BLM roads in varying condition; passenger vehicle suitable for main access roads, though high-clearance recommended after rain or snowmelt. Final approach to parking pullouts may be washboard or rutted.",
+  "parking_notes": "Unmarked pullouts and BLM parking areas near trailheads. Limited formal parking; typically room for 2-4 vehicles per pullout. No facilities or amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection. No motorized excavation or power tools. Collect only loose material and specimens you can remove by hand or simple tools. Leave no trash. Respect wildlife and private property boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nNo power drills or compressors\nCollect only hand-removable material\nLeave no trash\nRespect wildlife and property boundaries\nCheck current BLM restrictions before visiting",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "flash_floods",
+    "cold"
+  ],
+  "nearest_services": "Sula (nearby) and Ravalli have basic services. Missoula, approximately 50 miles north, has full services including gas, food, lodging, and medical care.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing and slopes. No wheelchair access. Sturdy hiking boots essential. Walking distances of 0.5 to 1.5 miles from parking required to reach productive areas. Not suitable for limited mobility, but manageable for anyone comfortable with casual hillside hiking. No formal trails.",
+  "alternative_names": [],
+  "nearest_city": "Ravalli",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/sula-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/sula-mt/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Sula, Montana?",
+      "answer": "Sula offers excellent opportunities for finding quartz, agate, jasper, and chalcedony. Agate nodules with translucent rims are common, while jasper specimens range from small to fist-sized. Quartz in various forms occurs throughout the BLM areas around Sula, making this site rewarding for both beginner and experienced rockhounders."
+    },
+    {
+      "question": "Is rockhounding at Sula free, or do I need a permit?",
+      "answer": "Rockhounding at Sula is completely free with no permits required. BLM land here allows personal use collection under FLPMA rules: 25 lbs per day, no commercial use, hand collection only. Simply show up during appropriate season and start hunting."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Sula?",
+      "answer": "June through September is ideal. The 4788 ft elevation means snow blocks access October through May. Early June and September offer the most comfortable temperatures and reliable dry conditions. July and August can bring afternoon thunderstorms, so plan morning hunts for safety."
+    },
+    {
+      "question": "How hard is rockhounding at Sula, and is it suitable for families?",
+      "answer": "Sula is moderately difficult terrain with uneven rocky slopes and 0.5 to 1.5 mile walks from parking. It's family-friendly for kids 8 and older who are comfortable hiking in boots. The open hillsides and exposed bedrock make finding specimens straightforward once you know what to look for, and no special equipment beyond a hand tool is needed."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding near Sula, Montana?",
+      "answer": "Bring sturdy hiking boots, a small pry bar or chisel, a collection bag, sun protection, and plenty of water. Morning hunts are safer due to afternoon thunderstorm potential. A GPS or mapping app is useful since cell service is spotty. Leave power tools at home - hand collection only is allowed."
+    },
+    {
+      "question": "How do I find agate and quartz at Sula rockhounding sites?",
+      "answer": "Focus your search on exposed hillsides, small drainage washes, and areas where talus has accumulated. Agate nodules often appear as rounded stones with translucent rims and show color when wet. Quartz and chalcedony specimens weather from rocky matrix on slopes. Use a pry bar to test loose rocks and expose fresh surfaces. Early morning light helps spot specimens on rocky ground."
+    }
+  ],
+  "meta_title": "Sula Rockhounding - Montana BLM Free Collecting",
+  "meta_description": "Free rockhounding at Sula, MT on BLM land. Find agate, quartz, and jasper. No permits, 25 lb daily limit. June-September season ideal for families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_services",
+    "parking_notes",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-21T19:07:25.871Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:37.888Z"
+}

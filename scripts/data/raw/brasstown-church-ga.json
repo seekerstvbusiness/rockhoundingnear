@@ -1,0 +1,60 @@
+{
+  "slug": "brasstown-church-ga",
+  "name": "Brasstown Church",
+  "lat": 34.98111,
+  "lng": -83.887644,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Towns County",
+  "city_slug": "towns-county",
+  "county": "Towns",
+  "county_slug": "towns",
+  "geocoded_city": "Towns County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Brasstown%20Church%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Brasstown%20Church",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Brasstown%20Church%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1721,
+      "meters": 525
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:07:18.718Z"
+  },
+  "scraped_at": "2026-04-21T19:07:18.718Z",
+  "scrape_quality": "minimal"
+}

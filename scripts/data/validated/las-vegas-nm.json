@@ -1,0 +1,102 @@
+{
+  "slug": "las-vegas-nm",
+  "name": "Las Vegas",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Las Vegas",
+  "city_slug": "las-vegas",
+  "county": "San Miguel",
+  "county_slug": "san-miguel",
+  "lat": 35.65774,
+  "lng": -105.232689,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Las Vegas offering free rockhounding for agate, jasper, and chalcedony. High elevation collecting at 6,607 feet with easy access and no permits required.",
+  "description": "The Las Vegas area of San Miguel County sits on New Mexico BLM land offering excellent free rockhounding opportunities for collectors of all skill levels. This high-elevation location at 6,607 feet provides access to silica-rich mineral deposits typical of the Pecos River watershed region. The relatively flat terrain and accessibility make it an ideal site for families and beginners looking to collect agate, jasper, chalcedony, and quartz specimens without the hassle of permits or fees.\n\nThis area is part of the Glorieta Mesa and surrounding formations where Tertiary volcanic and sedimentary processes created abundant nodular and vein deposits. The landscape consists of piñon-juniper forest transitioning to ponderosa pine at higher elevations, with exposed outcrops and wash areas where specimens are naturally weathered free from surrounding matrix. Many collectors find excellent material along arroyos and hillsides where erosion continuously exposes fresh material.\n\nThe BLM designation means completely free access for personal use collecting. No permits are required, no fees apply, and you can collect up to 25 pounds per day per person. The nearby town of Las Vegas provides all essential services including gas, food, and water before heading out. The area offers both easy day trips and opportunities for more serious rockhounding expeditions into the surrounding BLM parcels.\n\nWinter weather at this elevation can be significant, so plan accordingly. Spring and fall are ideal collecting seasons when temperatures are moderate and weather is most stable. The relatively flat terrain and good road access make this location accessible to most skill levels, though you should still bring sturdy footwear and plenty of water.",
+  "history": "This region sits within the southernmost extension of the Rocky Mountain Province, where Tertiary volcanic activity and subsequent weathering of sedimentary formations containing silica-rich minerals created abundant agate and jasper deposits. The Las Vegas area was historically prospected for various minerals during New Mexico's mining booms, and remnants of old homesteads can still be found on surrounding BLM lands.",
+  "tips": "Look along dry washes and arroyos where water erosion naturally exposes nodules and loose specimens - these areas concentrate collectible material. Use a crack hammer and chisel to carefully extract specimens from rock faces, and bring a 5-gallon bucket or collection bag since the 25-pound daily limit allows substantial gathering. Focus on hillsides with visible chalcedony outcrops or areas where jasper nodules are scattered on the surface; agates often have banded patterns visible even when partially buried in soil.",
+  "terrain_notes": "Flat to gently rolling terrain at 6,607 feet elevation covered in piñon-juniper and ponderosa pine forest. Well-maintained dirt roads provide vehicle access to collection areas with pullouts for parking. Walking from parking areas to primary collecting zones typically ranges from 100 feet to half a mile. Soil is compacted and generally firm, making hiking boots comfortable though not strictly required.",
+  "best_season": "May - October. Late spring through early fall avoids the heaviest snow and winter cold at this 6,607-foot elevation. Summer can be warm but is manageable in the piñon-juniper zone. Avoid November through April when mountain snows may limit road access and collecting comfort.",
+  "written_directions": "From Las Vegas, New Mexico, take US 85 northeast for approximately 8 miles toward Springer. Turn east onto County Road 37 or local BLM access roads (signs mark public land boundaries). Continue on unpaved but well-maintained dirt roads for 3-5 miles. Park in designated pullouts near exposed outcrops or wash areas. GPS coordinates 35.65774, -105.232689 mark a central collecting area accessible by standard passenger vehicle in dry conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved dirt roads in good condition, graded regularly. Suitable for standard passenger vehicles in dry weather. Clearance of 6-8 inches recommended. May be impassable after heavy snow or rain.",
+  "parking_notes": "Informal pullouts along access roads and designated parking areas near collection zones. No developed lot; park off-road near outcrops or wash areas. Space for 5-10 vehicles at typical spots.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or heavy equipment use. Collection limited to hand tools only. Respect private land boundaries; stay on BLM-designated public land.",
+  "quantity_limits": "25 lbs per day per person",
+  "rules": "Personal use only\n25 lb maximum per day per person\nNo commercial collection\nNo motorized excavation\nHand tools only\nStay on public BLM land\nRemove all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "cold",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "Las Vegas, New Mexico - approximately 8 miles southwest. Full services including gas stations, restaurants, groceries, and water.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Unpaved dirt roads lead to parking areas within walking distance of collecting zones. Generally firm soil and low vegetation makes traversal easy. Sturdy footwear recommended but not required. Not suitable for wheelchair access due to rough unpaved road surface.",
+  "alternative_names": [
+    "San Miguel County BLM",
+    "Las Vegas BLM Rockhounding Area"
+  ],
+  "nearest_city": "Las Vegas",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/las-vegas-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/las-vegas-nm/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Las Vegas, New Mexico?",
+      "answer": "This BLM area is known for agate, jasper, chalcedony, and quartz specimens. Agates often display beautiful banded patterns, while jasper comes in various colors. Chalcedony nodules are abundant and easier for beginners to locate."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Las Vegas, NM?",
+      "answer": "No permit is required for personal use rockhounding on this BLM land. You can collect up to 25 pounds per day per person at no cost. Commercial collection is not allowed."
+    },
+    {
+      "question": "What is the best time to go rockhounding in the Las Vegas, New Mexico area?",
+      "answer": "May through October is ideal. The high elevation (6,607 feet) experiences significant winter snow from November through April. Spring and fall offer the most comfortable temperatures and stable weather for collecting."
+    },
+    {
+      "question": "How do I find agate and jasper specimens along the washes near Las Vegas?",
+      "answer": "Search dry arroyos and washes where water erosion naturally exposes nodules. Look for areas with visible chalcedony outcrops on hillsides, and scan the ground for banded agate patterns. Water-worn specimens are often easier to spot than embedded ones."
+    },
+    {
+      "question": "Is the Las Vegas, New Mexico rockhounding area family and beginner friendly?",
+      "answer": "Yes, the flat terrain, easy access via dirt roads, and abundant surface specimens make this ideal for families and beginners. No technical skills are required, and kids aged 6 and up can participate comfortably."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding near Las Vegas, NM?",
+      "answer": "Bring a crack hammer and chisel for specimen extraction, sturdy hiking boots, a 5-gallon bucket or collection bag for your 25-pound daily limit, plenty of water, sunscreen, and a hat. A GPS device or coordinates are helpful for navigation."
+    }
+  ],
+  "meta_title": "Las Vegas NM Rockhounding - Free BLM Agate & Jasper",
+  "meta_description": "Free rockhounding on BLM land near Las Vegas, NM. Find agate, jasper, and chalcedony. No permit required, 25 lb daily limit. Easy access, beginner friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "written_directions",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T09:50:11.177Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:31.416Z"
+}

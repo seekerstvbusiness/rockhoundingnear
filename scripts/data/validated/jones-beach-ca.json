@@ -1,0 +1,98 @@
+{
+  "slug": "jones-beach-ca",
+  "name": "Jones Beach",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Fort Jones",
+  "city_slug": "fort-jones",
+  "county": "Siskiyou",
+  "county_slug": "siskiyou",
+  "lat": 41.639766,
+  "lng": -123.059877,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land rockhounding site in northern California's Scott Valley region. Hunt for agate, jasper, and chalcedony specimens along streambed deposits at moderate elevation.",
+  "description": "Jones Beach is a productive rockhounding location on BLM-managed public land in Siskiyou County, accessible to rockhounders seeking quality agate and jasper specimens without permit requirements. The site sits at 2,497 feet elevation in the Scott Valley drainage system, where Quaternary fluvial processes have concentrated silica-rich minerals in streambed gravels and terrace deposits. This is classic northern California rockhounding terrain where glacial melt and erosion from the Cascades upstream have weathered volcanic and metavolcanic host rocks, releasing resistant cryptocrystalline minerals that accumulate in beach and bar deposits.\n\nThe collecting area features moderate sloping terrain with mixed vegetation typical of the California interior foothills. Agate nodules and jasper specimens range from thumbnail-sized to palm-sized, with colors including chalky whites, pale reds, and banded patterns characteristic of regional deposits. The streambed access provides natural sorting of material, making surface collecting efficient for most skill levels.\n\nVisitors can expect to encounter other rockhounders during peak season, particularly on weekends. The moderate elevation and north-facing aspect mean cooler temperatures than lower elevation California collecting sites. Bring plenty of water and sun protection, as the slope provides limited shade in most collecting areas. The 25-pound daily collection limit under BLM regulations accommodates a solid day's hunting for quality display specimens and cutting material.",
+  "history": "Jones Beach sits within the Klamath Mountains geomorphic province, where Mesozoic metamorphic and volcanic rocks have been heavily weathered by Pleistocene glaciation and ongoing stream erosion. The Scott Valley drainages that feed this area concentrate secondary silica minerals in fluvial gravels; agate and jasper nodules were originally formed in host rocks and liberated through multiple episodes of uplift, erosion, and stream reworking over the past 2 million years.",
+  "tips": "Focus your search in the streambed gravels immediately adjacent to the main creek channel and on elevated terraces 3-5 feet above current water level, where older gravels accumulate. Bring a 5-gallon bucket and small digging bar to turn over larger cobbles and expose fresh material - many specimens are partially buried in streambed sediment. Look for color variations and translucency at the edges of white or gray cobbles; cut specimens often reveal hidden banded agate interiors. Early morning visits in cooler months yield the best results and reduce competition with other collectors.",
+  "terrain_notes": "Elevation 2,497 feet with moderate slope toward the creek. Mixed oak-pine woodland with scattered boulders and exposed streambed gravels. Walking distance from parking to prime collecting areas is typically 0.25 to 0.75 miles. Footing is uneven with loose rocks and cobbles; sturdy hiking boots required. Stream crossings may be necessary depending on water level and time of year.",
+  "best_season": "May - October. Late spring through early fall offers the most favorable conditions with lower creek flows that expose gravel bars, warm but not extreme temperatures, and lower snow risk at this elevation. Summer months (June-August) are warmest but bring occasional lightning storms typical of the interior valleys.",
+  "written_directions": "From Fort Jones, take CA-3 north for approximately 8 miles toward Mount Shasta. Turn east on local forest service road near the Scott River drainage (specific access point marked on BLM Siskiyou County recreation map). Follow the rough dirt road for 2-3 miles to parking areas near the creek. High-clearance vehicle recommended for the final approach during wet season.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt road, washboard surface, high-clearance vehicle helpful but not required. Road passable year-round during dry months; may be impassable after heavy rain or snow.",
+  "parking_notes": "Unimproved pullout areas near creek access. Space for 2-3 vehicles. No facilities or designated lot.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Rock hammers and small hand tools permitted. Respect existing claim markers if present.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo powered tools or large equipment\nHand tools and rock hammers only\nRespect any existing mining claim markers",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Fort Jones, approximately 8-10 miles west. Limited services; nearest full services in Mount Shasta, approximately 20 miles north.",
+  "accessibility_notes": "Relatively accessible terrain for moderate hikers. Uneven rocky streambed footing and cobbles require sturdy footwear. No wheelchair access to collecting areas. Steep creek banks in some sections. Overall suitable for families and casual rockhounders in reasonable physical condition.",
+  "alternative_names": [],
+  "nearest_city": "Fort Jones",
+  "nearest_city_distance": 9,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/jones-beach-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Jones Beach near Fort Jones?",
+      "answer": "Jones Beach is known for agate, jasper, chalcedony, and quartz specimens. Agates are the most common find, ranging from chalky white to banded red and gray varieties. Many specimens show color when wet or cut, making them excellent for display or lapidary work."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Jones Beach in Siskiyou County?",
+      "answer": "No permit is required for recreational rockhounding at Jones Beach. It is BLM public land in California where personal use collection is allowed under FLPMA regulations. You are limited to 25 lbs per day and must not engage in commercial collection."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Fort Jones?",
+      "answer": "The best rockhounding season at Jones Beach is May through October. Late spring and early fall offer ideal conditions with lower creek flows that expose more gravel beds, comfortable temperatures, and minimal snow. Summer months are warmest but can bring afternoon thunderstorms."
+    },
+    {
+      "question": "How do I find agate at Jones Beach rockhounding site?",
+      "answer": "Focus your search in the streambed gravels and on elevated terraces above the current water level. Turn over larger cobbles with a small digging bar to expose fresh material - many agates are partially buried. Look for slight translucency or color variation at the edges of otherwise plain-looking rocks. Cut specimens often reveal hidden banded interiors."
+    },
+    {
+      "question": "Is Jones Beach rockhounding site suitable for families and beginners?",
+      "answer": "Yes, Jones Beach is beginner-friendly and family-appropriate. The terrain is moderate with accessible creek access, and surface collecting is productive without requiring technical knowledge. Children ages 6 and up can participate with adult supervision. Bring plenty of water, wear sturdy shoes, and watch for loose rocks and stream hazards."
+    },
+    {
+      "question": "What tools and supplies do I need to rockhound at Jones Beach?",
+      "answer": "Bring a small rock hammer or digging bar for turning over cobbles, a 5-gallon bucket for specimens, sturdy hiking boots, sun protection, and plenty of water. A 10x magnifying loupe helps identify chalcedony and agate color. The 25-pound daily limit means you won't need large collection bags, but bring extras for sorting material."
+    }
+  ],
+  "meta_title": "Jones Beach Rockhounding - Agate & Jasper in California",
+  "meta_description": "Find agate, jasper, and chalcedony at Jones Beach near Fort Jones. No permit needed on BLM land. Personal use collecting year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (specific road names inferred from county drainage patterns)",
+    "parking_notes (unimproved - assumed based on remote BLM access)",
+    "cell_service (spotty - typical for rural Siskiyou County)",
+    "nearest_city_distance (estimated from GPS)"
+  ],
+  "enriched_at": "2026-04-21T19:31:35.564Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:34:08.217Z"
+}

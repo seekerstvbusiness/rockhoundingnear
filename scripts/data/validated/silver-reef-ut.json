@@ -1,0 +1,98 @@
+{
+  "slug": "silver-reef-ut",
+  "name": "Silver Reef",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Washington County",
+  "city_slug": "washington-county",
+  "county": "Washington",
+  "county_slug": "washington",
+  "lat": 37.25412,
+  "lng": -113.37155,
+  "gem_types": [
+    "Silver",
+    "Gold",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Historic mining area near Hurricane, Utah offering public BLM rockhounding for silver, gold, and quartz specimens. No permit required for personal use collection.",
+  "description": "Silver Reef is a historic mining district in southwestern Utah that offers rockhounders the rare opportunity to search for silver and gold in their native forms alongside beautiful quartz and chalcedony specimens. Located on public BLM land in Washington County, this site combines geological significance with accessible rockhounding in Utah's iconic high desert landscape.\n\nThe area sits within the Beaver Dam Mountains region, where Proterozoic quartzites and Paleozoic limestone host mineralized zones created by ancient hydrothermal activity. Silver Reef became famous during the 1870s mining boom when miners extracted significant quantities of silver from the area, leaving behind visible rock formations and mineralized outcrops that modern rockhounders can explore.\n\nRockhounders visiting Silver Reef can search for native silver specimens, small gold flakes in mineralized quartz, and beautiful secondary minerals like chalcedony that formed as the ore bodies weathered over time. The collecting terrain varies from exposed hillsides with scattered mineralized rock to dry washes where specimens can be found in loose material.\n\nBecause this site sits on public BLM land, no permit is required and access is straightforward. However, the terrain is semi-arid with limited shade, so planning for sun exposure and water is essential. The historical significance of the area adds educational value for those interested in Utah's mining heritage.\n\nThe 25-pound daily limit per FLPMA regulations is reasonable for most rockhounders, as quality silver specimens are typically smaller pieces rather than bulk material. Early morning or late afternoon visits are ideal for comfort and photograph quality.",
+  "history": "Silver Reef emerged as a significant silver mining district during the 1870s-1880s, with miners extracting native silver from quartzite and limestone formations. The mineralization resulted from Laramide-age hydrothermal fluids that percolated through fault zones in the Proterozoic and Paleozoic rock sequences, depositing silver and associated metals in fractures and oxidized zones that rockhounders can still observe today.",
+  "tips": "Search hillsides with visible iron oxide staining (rust-colored areas) where mineralization is most concentrated, and check dry wash beds where weathered specimens accumulate. Use a 10x loupe to identify small native silver crystals and gold flakes within quartz matrix - look for bright metallic luster and dense feel compared to surrounding rock. Bring plenty of water as the area offers no shade, and wear sun protection; collect smaller quality pieces rather than bulk material to maximize your 25-pound daily limit with specimen-grade finds.",
+  "terrain_notes": "Elevation around 3,600-4,000 feet with gently rolling terrain mixed with steeper hillsides. Sparse vegetation including creosote bush and desert shrub typical of the Mojave Desert transition zone. Walking distances from parking vary from 0.5 to 2 miles depending on target areas. Footing is moderately challenging with scattered rocks, loose scree on slopes, and occasional sharp mineralized fragments. No permanent water sources on-site.",
+  "best_season": "October - April. The high desert climate brings extreme heat (100+ degrees F) in summer months, making mid-day rockhounding uncomfortable and hazardous. Winter months are mild and ideal for extended time in the field, though rare freezing temperatures can occur in December-January at night. Spring (March-April) and fall (October-November) offer the best balance of comfortable temperatures and clear skies for specimen hunting.",
+  "written_directions": "From Hurricane, Utah (nearest town with services), take UT-9 northeast for approximately 8 miles toward La Verkin. Turn onto the unsigned dirt road heading toward the old mining district (landmark: look for scattered mining debris and old foundation ruins visible from the highway). Continue on the rough dirt road for 2-3 miles, passing through open BLM land. Park in one of several pullouts along the main access road or in a dispersed camping area near the historic mining structures. The road is passable for standard passenger vehicles in dry conditions but becomes difficult after heavy rain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unsigned dirt road, moderately rough with washboard texture in places. High clearance (SUV or truck preferred) helpful but not required in dry conditions. Road becomes impassable after heavy rain. No maintenance during winter.",
+  "parking_notes": "Multiple dispersed pullouts along the main access road. No developed parking lot. Capacity varies by area but generally accommodates 3-5 vehicles per pullout. Park on flat, stable ground away from wash channels.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection. No motorized excavation or heavy equipment. Collect loose material and small hand-sample specimens only. Leave structures and artifacts undisturbed - this is a historic mining district with archaeological significance. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nCollect loose material and hand samples only\nLeave historic structures and artifacts undisturbed\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Hurricane, Utah - 8 miles away. Full services including gas, food, water, and lodging available in Hurricane. La Verkin is 10 miles away with limited services.",
+  "accessibility_notes": "Relatively easy terrain with gentle slopes and minimal sustained climbing. Most collecting areas are within 0.5-2 miles of parking. Uneven ground with scattered rocks and loose material requires sturdy footwear. No wheelchair access on dirt roads or collecting areas. Terrain is accessible to most hikers but not recommended for people with significant mobility limitations.",
+  "alternative_names": [
+    "Silver Reef Mining District"
+  ],
+  "nearest_city": "Hurricane",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/silver-reef-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kind of silver can you find rockhounding at Silver Reef, Utah?",
+      "answer": "Silver Reef is known for native silver specimens - actual silver metal in its elemental form - along with silver-bearing quartz and chalcedony. You may also find small gold flakes in mineralized quartz. Most specimens are small hand samples rather than large masses, making them ideal for collections. The historical mining activity left exposed mineralized zones that still yield quality specimens today."
+    },
+    {
+      "question": "Is there a permit required for rockhounding at Silver Reef near Hurricane?",
+      "answer": "No permit is required. Silver Reef sits on public BLM land where recreational rockhounding is allowed under FLPMA guidelines. You simply need to follow the rules: personal use only, maximum 25 lbs per day, and no commercial collection or powered equipment. Just park and start collecting."
+    },
+    {
+      "question": "How far is Silver Reef from Hurricane, Utah and what services are available?",
+      "answer": "Silver Reef is approximately 8 miles northeast of Hurricane, Utah via UT-9. Hurricane offers all services including gas stations, restaurants, grocery stores, and lodging. There is no water, shade, or facilities at the rockhounding site itself, so plan accordingly and bring plenty of water - the area can exceed 100 degrees F in summer."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding for silver at Silver Reef?",
+      "answer": "The best season is October through April when temperatures are mild (50-70 degrees F). Summer months are extremely hot (100+ degrees F), making daytime collecting uncomfortable and potentially dangerous. Fall (October-November) and spring (March-April) offer ideal conditions with comfortable temperatures and good specimen visibility."
+    },
+    {
+      "question": "What tools and equipment should I bring for rockhounding at Silver Reef?",
+      "answer": "Bring a 10x loupe or hand lens to identify native silver and gold in quartz specimens - small metallic crystals are easy to miss with the naked eye. A geology hammer or small pick helps extract samples from loose material. Absolutely essential: plenty of water (1-2 gallons per person), sun protection (hat, sunscreen, sunglasses), and sturdy hiking boots for uneven terrain. A small backpack helps carry specimens within the 25-pound daily limit."
+    },
+    {
+      "question": "Is Silver Reef a good rockhounding location for beginners and families with kids?",
+      "answer": "Yes, Silver Reef is beginner and family-friendly. The terrain is relatively easy with mostly gentle slopes, and specimens can be found in loose material without extensive digging. Kids ages 8 and up can participate safely. Dogs are also welcome on the BLM land. The historical mining district adds educational value about Utah's mining heritage. However, plan for extreme sun exposure and bring adequate water and shade protection for younger rockhounders."
+    }
+  ],
+  "meta_title": "Silver Reef Rockhounding - Utah",
+  "meta_description": "Find native silver, gold, and quartz at Silver Reef near Hurricane, Utah. BLM public land, no permit required. 25 lb daily limit. October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from general location data)",
+    "road_conditions (estimated from terrain type)",
+    "cell_service (estimated for rural Utah BLM land)"
+  ],
+  "enriched_at": "2026-04-22T06:54:30.655Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:03:59.381Z"
+}

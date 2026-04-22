@@ -1,0 +1,98 @@
+{
+  "slug": "pipestone-mt",
+  "name": "Pipestone",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Whitehall",
+  "city_slug": "whitehall",
+  "county": "Jefferson",
+  "county_slug": "jefferson",
+  "lat": 45.95546,
+  "lng": -112.386873,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding site in the Jefferson County foothills where collectors find banded agates, jasper, and chalcedony specimens. Personal use collecting allowed with no permits required.",
+  "description": "Pipestone is a moderately remote BLM rockhounding site located in the foothills east of Whitehall, Montana. The area sits within the northern Basin and Range physiographic province, where Miocene-age volcanic and sedimentary rocks host nodular and vein deposits of microcrystalline silica minerals. Collectors here frequently find colorful banded agates, red and brown jasper, and translucent chalcedony specimens weathering out of hillside exposures and wash gravels.\n\nThe site draws both experienced rockhounds and casual collectors because it requires no permits and maintains a relaxed personal-use collection policy under BLM regulations. The terrain is moderate-sloped, semi-arid foothills interspersed with scattered conifers and sagebrush. Elevation at 7,040 feet means cooler morning temperatures and potential afternoon thunderstorms in summer, making spring and fall ideal visiting seasons.\n\nMost productive collecting occurs along exposed hillsides where erosion has concentrated surface nodules, and within dry washes where seasonal runoff concentrates heavier specimens. The landscape is open enough to spot promising outcrops from a distance, but ground-level searching rewards patience with quality finds. Water and services are available in nearby Whitehall, roughly 20 miles away, so plan accordingly for day trips.",
+  "history": "This area sits within the Northern Rocky Mountain transition zone where Eocene to Miocene volcanic and pyroclastic deposits created silica-rich environments conducive to agate and jasper formation. Regional mining activity in the late 1800s and early 1900s focused on precious metals in nearby areas, but the microcrystalline silica deposits here remained primarily of interest to rockhounds and mineral collectors.",
+  "tips": "Search the exposed hillsides and eroded outcrops on the western and southern-facing slopes where weathering concentrates surface nodules; look for the characteristic banding and color transitions that indicate quality agate specimens. Carry a small pry bar or rock hammer to test loose material and carefully extract nodules from friable host rock, and bring a hand lens to examine translucency and banding patterns before committing specimens to your collection. Focus on dry wash beds after spring runoff or seasonal rains when newly exposed gravels may yield specimens; the reddish-brown jasper often appears as sub-rounded cobbles mixed with common quartz. Keep your daily collection under 25 pounds and avoid deep excavation or motorized tools to preserve the site for future collectors.",
+  "terrain_notes": "Moderate-sloped foothills at 7,040 feet elevation with scattered ponderosa pine and Douglas fir mixed with sagebrush and grassy openings. Terrain is rocky with loose scree and uneven footing requiring sturdy boots. Most productive areas are within 0.5 to 2 miles of parking; walking is generally cross-country over open slopes rather than established trails. Late-season afternoon thunderstorms are possible, and the exposed terrain offers little shelter.",
+  "best_season": "May - September with peak conditions in June and July when roads are passable and daytime temperatures are moderate; avoid early spring (snow, muddy roads) and late fall when weather deteriorates rapidly. August heat can be significant at midday, so plan early morning or late afternoon sessions.",
+  "written_directions": "From Whitehall, take Montana Highway 41 east for approximately 12 miles toward the Jefferson County foothills. Watch for BLM access signs or rough dirt roads branching south into the rolling hills. Specific pullouts and access points vary; use a detailed BLM map or GPS coordinates 45.95546, -112.386873 to locate productive areas. High-clearance or 4WD vehicles are recommended, especially after rain or snowmelt, as dirt roads can become rutted and muddy.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough dirt roads with potential washboard and ruts; clearance of 8+ inches recommended. Conditions deteriorate rapidly after rain or spring runoff.",
+  "parking_notes": "Informal pullouts along BLM dirt roads; no developed parking area. Space is typically available but capacity is limited. Park off the road to avoid blocking access.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. Hand tools only. Leave no large excavations or trenches.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nHand tools only - no motorized equipment\nNo large excavations or trenching\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "loose_rock",
+    "cold",
+    "remote",
+    "sharp_material"
+  ],
+  "nearest_services": "Whitehall, Montana (approximately 20 miles west) has gas, food, and lodging. Limited services closer; nearest water is in Whitehall.",
+  "accessibility_notes": "Uneven rocky terrain on moderate slopes with loose scree and no established trails. Requires sturdy boots and good footing ability. No wheelchair access. Steep hillside sections require climbing over rough ground. Not suitable for limited mobility or very young children without close supervision.",
+  "alternative_names": [],
+  "nearest_city": "Whitehall",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/pipestone-mt/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What agates and jasper can I find rockhounding near Whitehall, Montana?",
+      "answer": "Pipestone BLM area yields banded agates with white, brown, and red coloring, plus red and chocolate-brown jasper specimens. Chalcedony and common quartz are also abundant. Surface nodules range from egg-sized to fist-sized; larger specimens are rare but possible in productive patches."
+    },
+    {
+      "question": "Do I need a permit to collect at Pipestone rockhounding site?",
+      "answer": "No permit is required for personal use rockhounding at Pipestone. It is BLM public land managed under standard recreation rules. You are limited to 25 lbs per day per FLPMA regulations, and commercial collection is prohibited."
+    },
+    {
+      "question": "What is the best time to go rockhounding at Pipestone?",
+      "answer": "June through August offers the most reliable weather, though May and September are also productive. Spring runoff exposes fresh specimens in washes. Avoid early spring (snow/mud) and late fall when weather deteriorates. Afternoon thunderstorms are possible in summer; plan morning sessions."
+    },
+    {
+      "question": "How difficult is it to reach Pipestone and what vehicle do I need?",
+      "answer": "Pipestone requires a 4WD or high-clearance vehicle and is approximately 12 miles east of Whitehall on rough BLM dirt roads. Roads can become muddy and rutted, especially after rain. The site is moderately remote at 7,040 feet elevation in the foothills."
+    },
+    {
+      "question": "Is Pipestone a good rockhounding location for beginners and families?",
+      "answer": "Yes, Pipestone is beginner-friendly because agates and jasper weather naturally from hillsides and washes without deep digging. Children ages 8 and up can participate. No special skills or equipment beyond sturdy boots and a small pry bar are needed. The open terrain allows you to spot promising outcrops easily."
+    },
+    {
+      "question": "What tools and gear should I bring to rockhound at Pipestone, Montana?",
+      "answer": "Bring a small pry bar or rock hammer, hand lens, sturdy boots with good ankle support, a backpack or bucket, sun protection, and at least 3 liters of water (no water available on-site). A GPS device or detailed BLM map is essential given the remote location and spotty cell service. Wear layers since elevation and afternoon storms can bring rapid weather changes."
+    }
+  ],
+  "meta_title": "Pipestone Rockhounding - Find Agate and Jasper in Montana",
+  "meta_description": "Collect banded agate, jasper, and chalcedony at Pipestone BLM site near Whitehall, MT. No permit required, 25 lb daily limit. Public land rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated from GPS coordinates and known Montana geography)",
+    "gem_types (inferred from Pipestone area reputation; specific assay data not provided)",
+    "hazards (snakes and cold inferred from high-elevation Montana foothills environment)",
+    "road_conditions (inferred from typical BLM access in Jefferson County foothills; no specific road survey provided)"
+  ],
+  "enriched_at": "2026-04-21T19:06:50.082Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:09:54.778Z"
+}

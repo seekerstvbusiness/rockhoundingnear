@@ -1,0 +1,65 @@
+{
+  "slug": "columbus-oh",
+  "name": "Columbus",
+  "lat": 39.902324,
+  "lng": -83.016264,
+  "state": "Ohio",
+  "state_slug": "ohio",
+  "state_code": "OH",
+  "city": "Columbus",
+  "city_slug": "columbus",
+  "county": "Franklin",
+  "county_slug": "franklin",
+  "geocoded_city": "Columbus",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-ohio.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Columbus%20Ohio"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Columbus",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Columbus%20Ohio"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 550,
+      "meters": 168
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": [
+      {
+        "name": "Willow Creek Preserve",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-21T16:42:12.885Z"
+  },
+  "scraped_at": "2026-04-21T16:42:12.885Z",
+  "scrape_quality": "minimal"
+}

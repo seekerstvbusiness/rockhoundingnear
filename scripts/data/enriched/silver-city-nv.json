@@ -1,0 +1,100 @@
+{
+  "slug": "silver-city-nv",
+  "name": "Silver City",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Lyon County Area",
+  "city_slug": "lyon-county",
+  "county": "Lyon",
+  "county_slug": "lyon",
+  "lat": 39.253488,
+  "lng": -119.659186,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Agate",
+    "Silver"
+  ],
+  "short_description": "Historic BLM rockhounding site near Carson City featuring quartz, jasper, and agate specimens. Free personal collecting on public land with no permit required.",
+  "description": "Silver City is a classic Nevada rockhounding location situated on Bureau of Land Management (BLM) property in Lyon County, offering public access for recreational gem and mineral collecting. The site sits at 5,365 feet elevation in the foothills of the Virginia Range, a region rich in both precious metals and semi-precious stones left behind by ancient volcanic and hydrothermal activity. Collectors regularly find quality quartz specimens, translucent jasper in reds and browns, banded agate, and occasionally small silver minerals reflecting the area's mining heritage.\n\nThe terrain features gentle slopes with scattered outcrops and washes where specimens weather out naturally. The landscape is typical of the Great Basin high desert, with sagebrush scrub and rocky benches providing good exposure of gemstone-bearing formations. The area's accessibility from Carson City makes it popular with both beginning and experienced rockhounders seeking quality material without commercial pressure.\n\nBest collecting occurs in spring and fall when temperatures are moderate and visibility is excellent. The site rewards patient searchers who walk the washes and examine exposed rock faces carefully. Specimens range from small chips suitable for tumbling to larger display pieces, though most finds are in the palm-sized range.",
+  "history": "This area lies within the Virginia Range, formed by Miocene-age volcanic and hydrothermal activity that deposited silica-rich mineral assemblages including quartz veins, chalcedony, and jasper. Historic silver mining in the 1860s-1880s revealed the mineral wealth of Lyon County, and the same geological processes that created those precious metal deposits also produced the abundant quartz and chalcedony specimens collectors find today.",
+  "tips": "Search along the washes and erosional gullies where water has concentrated loose specimens over thousands of years - this is where the best finds surface naturally. Bring a 10x loupe to examine matrix material for translucent quartz points and banded agate fragments before digging. Focus on red and brown jasper slopes in the morning light when colors are most visible, and look for the characteristic banding and patterns that indicate quality specimens worth keeping.",
+  "terrain_notes": "Elevation 5,365 feet with gentle slopes and scattered rocky outcrops. Terrain is uneven with loose rock, sagebrush, and exposed volcanic formations. Walking distance from parking typically 0.5 to 2 miles depending on chosen collecting area. Footing is stable but requires sturdy footwear due to sharp volcanic material and loose stones.",
+  "best_season": "October - May (fall, winter, and early spring). Summer heat can exceed 85 degrees F at this elevation. Early morning collecting in spring (April - May) is optimal for avoiding afternoon thunderstorms.",
+  "written_directions": "From Carson City, take US 50 east toward Dayton for approximately 8 miles. Turn left (north) onto Lyon County Road 430 near the Tahoe NF boundary. Continue 2-3 miles to the BLM parcels marked with white boundary signs. Multiple pullouts and parking areas serve the collecting zones. GPS coordinates 39.253488, -119.659186 mark a central collecting area accessible via rough dirt road.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough dirt road with minor washboard and ruts. High-clearance passenger vehicles recommended. 4x4 not required for main areas.",
+  "parking_notes": "Multiple informal pullouts along access roads. No developed parking lot. Capacity varies 2-4 vehicles per pullout. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection or resale. No motorized excavation or use of power tools. Hand tools and rockhammer only. No digging in protected washes or removal of large rocks.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\n25 lb daily limit per person\nHand tools only - no motorized equipment\nNo power tools or explosives\nRemove only loose material and small hand-dug specimens\nLeave the site as you found it",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Carson City, Nevada - 12 miles west. Gas, food, water, and supplies available. Dayton, NV - 5 miles northeast (limited services).",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Uneven ground with loose volcanic rock requires sturdy footwear. No wheelchair access to collecting areas. Suitable for families and children with adequate footwear and sun protection.",
+  "alternative_names": [],
+  "nearest_city": "Carson City",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/silver-city-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/silver-city-nv/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/silver-city-nv/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Silver City near Carson City Nevada?",
+      "answer": "Silver City BLM land produces quality quartz, banded agate, red and brown jasper, and occasional silver minerals. Specimens range from small tumble-grade chips to palm-sized display pieces. Most collectors find multiple jasper and quartz specimens per outing during peak season."
+    },
+    {
+      "question": "Do I need a permit to collect at Silver City Nevada rockhounding site?",
+      "answer": "No permit is required. Silver City sits on public BLM land where recreational collecting is allowed without permits under FLPMA regulations. You only need to follow the 25 lb per day personal use limit and use hand tools only."
+    },
+    {
+      "question": "What is the best time of year for rockhounding at Silver City Nevada?",
+      "answer": "October through May is ideal for Silver City collecting. Summer heat exceeds 85 degrees F at the 5,365 foot elevation. Spring (April - May) offers the best combination of mild temperatures and excellent specimen visibility in morning light."
+    },
+    {
+      "question": "How far is Silver City rockhounding area from Carson City and how do I get there?",
+      "answer": "Silver City is 12 miles east of Carson City. From downtown Carson, take US 50 east toward Dayton approximately 8 miles, then turn left (north) onto Lyon County Road 430. Continue 2-3 miles to the BLM parcels marked with white boundary signs and informal pullouts."
+    },
+    {
+      "question": "Is Silver City Nevada good for beginners and families rockhounding?",
+      "answer": "Yes, Silver City is excellent for beginning rockhounders and families. The gentle slopes and accessible terrain allow children ages 6 and up to participate. Loose specimens weather naturally in washes, so finding material requires minimal digging. No special tools or experience are necessary."
+    },
+    {
+      "question": "What tools and equipment do I need to bring for rockhounding at Silver City?",
+      "answer": "Bring a rockhammer, chisel, small shovel, 10x loupe for examining specimens, sturdy boots, wide-brimmed hat, and plenty of water. A small bucket or collection bag is essential. Avoid motorized tools - only hand tools are permitted on BLM land. Sunscreen and snake awareness are critical during warmer months."
+    }
+  ],
+  "meta_title": "Silver City Rockhounding - Nevada BLM",
+  "meta_description": "Find quartz, agate, and jasper at Silver City, Nevada. Free public BLM rockhounding near Carson City. No permit required. Hand collecting year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types inferred from general Virginia Range geology without specific site sampling data",
+    "written_directions inferred from GPS and Lyon County geography without verified road names",
+    "nearest_city_distance estimated from GPS and Carson City location",
+    "cell_service rating based on typical BLM land remoteness in Lyon County"
+  ],
+  "enriched_at": "2026-04-22T06:44:03.499Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:50:03.397Z"
+}

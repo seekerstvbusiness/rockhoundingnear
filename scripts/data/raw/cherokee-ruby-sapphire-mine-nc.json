@@ -1,0 +1,56 @@
+{
+  "slug": "cherokee-ruby-sapphire-mine-nc",
+  "name": "Cherokee Ruby & Sapphire Mine",
+  "lat": 35.17,
+  "lng": -83.38,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Franklin",
+  "city_slug": "franklin",
+  "county": "Macon",
+  "county_slug": "macon",
+  "geocoded_city": "Franklin",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cherokee%20Ruby%20%26%20Sapphire%20Mine%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cherokee%20Ruby%20%26%20Sapphire%20Mine"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cherokee%20Ruby%20%26%20Sapphire%20Mine%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:34:11.254Z"
+  },
+  "scraped_at": "2026-04-22T02:34:11.254Z",
+  "scrape_quality": "minimal"
+}

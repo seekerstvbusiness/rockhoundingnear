@@ -1,0 +1,60 @@
+{
+  "slug": "suwannee-river-fl",
+  "name": "Suwannee River",
+  "lat": 30.343143,
+  "lng": -82.798236,
+  "state": "Florida",
+  "state_slug": "florida",
+  "state_code": "FL",
+  "city": "Hamilton County",
+  "city_slug": "hamilton-county",
+  "county": "Hamilton",
+  "county_slug": "hamilton",
+  "geocoded_city": "Hamilton County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-florida.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Suwannee%20River%20Florida"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Suwannee%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Suwannee%20River%20Florida"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 58,
+      "meters": 18
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:36:10.648Z"
+  },
+  "scraped_at": "2026-04-21T17:36:10.648Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "wheatland-wy",
+  "name": "Wheatland",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Wheatland",
+  "city_slug": "wheatland",
+  "county": "Platte",
+  "county_slug": "platte",
+  "lat": 41.939161,
+  "lng": -105.106367,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM land near Wheatland offering accessible rockhounding for agate, chalcedony, and quartz specimens. Flat terrain with no permit required for personal use collection.",
+  "description": "The Wheatland area of Platte County sits on productive BLM land where rockhounds can search for quality agate, chalcedony, and quartz specimens without permits or fees. This high plains region at nearly 5000 feet elevation provides excellent access to Laramie Range geology, where Tertiary volcanic and sedimentary formations have weathered to expose colorful agates and chalcedony nodules in washes and exposed banks.\n\nThe terrain is relatively flat and open, making this an ideal location for beginners and families who want to experience rockhounding on public land. Unlike private claims or fee dig sites, you have the freedom to explore the rolling prairie and scattered rock outcrops at your own pace. The area receives moderate rockhounding pressure, so specimens are still findable but require patience and knowledge of where to look.\n\nCollecting here is governed by standard BLM rules: personal use only, maximum 25 pounds per day, and no motorized excavation. The flat topography means you won't face steep hikes, but the open landscape can feel exposed to wind and weather. Bring plenty of water, as services are limited once you leave town. The best strategy is to focus on dry wash crossings and erosional areas where stones naturally concentrate.",
+  "history": "The Wheatland area sits within the Laramie Range physiographic province, where Tertiary-age volcanic activity and subsequent erosion created extensive deposits of silica-rich formations. These agates and chalcedonies formed in cavities within igneous rocks and were later concentrated in alluvial deposits as the range weathered over millions of years. Historic ranching and mineral prospecting in Platte County documented these colorful stones, though commercial mining never developed here due to the dispersed nature of the deposits.",
+  "tips": "Focus your search on dry washes, creekbeds, and erosional gullies where water has naturally concentrated heavier stones over time. Look for translucent or banded agate with colors ranging from white and gray to subtle reds and browns, often found as rounded nodules 1-4 inches across. Bring a small backpack, sturdy shoes for rocky terrain, and a hand lens or magnifier to inspect chalcedony banding and quartz clarity. Early morning or late afternoon light can reveal the true color and transparency of specimens before you pocket them.",
+  "terrain_notes": "Elevation 4947 feet on relatively flat high plains terrain with gentle rolling slopes. Terrain is open sagebrush and grassland with scattered rock outcrops and alluvial deposits. Walking distance from parking is variable depending on where you explore, but most productive areas are within 0.5 to 2 miles of accessible pullouts. Footing is generally firm and stable on level ground, though some rocky areas have loose talus that requires careful stepping.",
+  "best_season": "April - October. Late spring through early fall offers the most comfortable weather for outdoor rockhounding. Winter snow and cold (December - February) make access difficult and field work unpleasant. Late April through May and September through October provide ideal temperatures and lower wind conditions for exploring the sagebrush flats.",
+  "written_directions": "From Wheatland, take Wyoming Highway 34 northeast toward the Laramie Range foothills. Continue for approximately 8 miles until you reach BLM access points marked by scattered pullouts along the highway or nearby dirt roads. Look for informal parking areas adjacent to dry washes or erosional gullies visible from the road. GPS coordinates 41.939161, -105.106367 mark a productive area accessible via county roads east of Wheatland; contact the Wheatland BLM field office for specific road conditions and current access.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mostly paved highway access with some graded dirt roads to pullouts. Standard passenger vehicles can reach most rockhounding areas. Winter conditions may impact dirt road access; check with local BLM office before visiting December - March.",
+  "parking_notes": "Informal pullouts along Wyoming Highway 34 and adjacent dirt roads. No developed parking lots. Space typically available for 2-4 vehicles at most pullout locations. Arrive early during weekends to secure good spots near productive collecting areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or resale. No motorized excavation, use of power tools, or surface disturbance. Collectors must stay on designated roads and trails where applicable. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or resale\nNo motorized excavation or power tools\nNo surface disturbance beyond hand collection\nStay on designated access routes\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "heat",
+    "cold"
+  ],
+  "nearest_services": "Wheatland, Wyoming is 8 miles west with gas, food, lodging, and supplies. The town has a hospital and multiple restaurants.",
+  "accessibility_notes": "Relatively flat, open terrain accessible to most hikers of any age or ability. Parking pullouts are at ground level with no stairs or barriers. Rocky areas have uneven footing, so sturdy footwear is recommended. Most productive areas are within short walking distance (under 2 miles) of parking. Not suitable for wheelchair users due to rough, unimproved ground, but families with younger children will find the terrain manageable.",
+  "alternative_names": [],
+  "nearest_city": "Wheatland",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/wheatland-wy/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What agates and stones can I find rockhounding near Wheatland, Wyoming?",
+      "answer": "The Wheatland BLM area is known for colorful agate, banded chalcedony, and quartz specimens. You'll find rounded to irregular nodules ranging from 1 to 4 inches, often with subtle banding in white, gray, tan, and occasional reddish tones. Jasper and microcrystalline quartz are also present in erosional washes and alluvial concentrations."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Wheatland?",
+      "answer": "No, personal use rockhounding on Wyoming BLM land requires no permit or fee. You simply need to follow standard collection rules: maximum 25 pounds per day, no commercial use, and no motorized excavation. Contact the Wheatland BLM field office if you have questions about specific parcels."
+    },
+    {
+      "question": "What's the best time of year to rockhound in Platte County, Wyoming?",
+      "answer": "Late April through May and September through October are ideal. Spring and fall offer comfortable temperatures, lower wind, and dry conditions for exploring the high plains terrain. Avoid winter (December - February) when snow and cold make field work difficult, and late summer heat (July - August) can be intense in open sagebrush country."
+    },
+    {
+      "question": "Is the Wheatland rockhounding area good for beginners and families?",
+      "answer": "Yes, Wheatland is excellent for beginners and families. The terrain is mostly flat with easy access from paved highway and informal pullouts. No permits or special skills are required. Kids ages 6 and up can participate, and specimens are visible enough that novice collectors can find agates with basic search techniques like scanning wash bottoms."
+    },
+    {
+      "question": "How do I find the best spots for agate collecting near Wheatland?",
+      "answer": "Focus on dry washes, seasonal creekbeds, and eroded gullies where water has naturally concentrated heavier stones. Look along exposed banks and the base of small hills where silica-rich nodules weather out of host rock. Early morning or late afternoon light helps reveal agate color and banding. Bring a hand lens to inspect specimens before collecting."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding near Wheatland?",
+      "answer": "Bring sturdy hiking boots, a small backpack, plenty of water (at least 2 liters), a hand lens or magnifier, a GPS unit or phone for navigation, and a collection bag. Sunscreen, hat, and windbreaker are essential for high plains weather. No heavy tools are permitted on BLM land, so hand collection only - a small shovel or digging tool is not allowed."
+    }
+  ],
+  "meta_title": "Wheatland Rockhounding - Find Agate in Wyoming",
+  "meta_description": "BLM rockhounding near Wheatland, Wyoming. Find agate, chalcedony, and quartz with no permit required. Flat, beginner-friendly terrain. Learn where to search.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Laramie Range geology)",
+    "written_directions (no specific road names provided in source)",
+    "cell_service (estimated as spotty based on rural high plains location)",
+    "hazards (inferred from terrain and elevation)"
+  ],
+  "enriched_at": "2026-04-21T18:53:54.525Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:54:28.865Z"
+}

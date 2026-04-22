@@ -1,0 +1,60 @@
+{
+  "slug": "narragansett-ri",
+  "name": "Narragansett",
+  "lat": 41.472326,
+  "lng": -71.422139,
+  "state": "Rhode Island",
+  "state_slug": "rhode-island",
+  "state_code": "RI",
+  "city": "Narragansett",
+  "city_slug": "narragansett",
+  "county": "South",
+  "county_slug": "south",
+  "geocoded_city": "Narragansett",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-rhode-island.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Narragansett%20Rhode%20Island"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Narragansett",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Narragansett%20Rhode%20Island"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1,
+      "meters": 0
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:37:31.991Z"
+  },
+  "scraped_at": "2026-04-21T16:37:31.991Z",
+  "scrape_quality": "minimal"
+}

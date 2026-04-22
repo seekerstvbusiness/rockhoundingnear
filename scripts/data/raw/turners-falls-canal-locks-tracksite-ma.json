@@ -1,0 +1,60 @@
+{
+  "slug": "turners-falls-canal-locks-tracksite-ma",
+  "name": "Turners Falls, canal locks tracksite",
+  "lat": 42.610966,
+  "lng": -72.554237,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Montague",
+  "city_slug": "montague",
+  "county": "Franklin",
+  "county_slug": "franklin",
+  "geocoded_city": "Montague",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Turners%20Falls%2C%20canal%20locks%20tracksite%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Turners%20Falls%2C%20canal%20locks%20tracksite",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Turners%20Falls%2C%20canal%20locks%20tracksite%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 173,
+      "meters": 53
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:33:32.172Z"
+  },
+  "scraped_at": "2026-04-21T19:33:32.172Z",
+  "scrape_quality": "minimal"
+}

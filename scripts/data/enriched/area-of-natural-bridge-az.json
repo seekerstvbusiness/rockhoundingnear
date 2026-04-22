@@ -1,0 +1,106 @@
+{
+  "slug": "area-of-natural-bridge-az",
+  "name": "Area of Natural Bridge",
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "city": "Payson",
+  "city_slug": "payson",
+  "county": "Gila",
+  "county_slug": "gila",
+  "lat": 34.32068,
+  "lng": -111.457154,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public rockhounding area near Payson featuring colorful agate, jasper, and quartz specimens in high desert terrain along scenic Pine Creek drainage.",
+  "description": "The Area of Natural Bridge sits within Gila County's transitional high desert zone at 4,542 feet elevation, offering rockhounds access to quality agate and jasper deposits on public BLM land. The site lies near the Natural Bridge geologic formation, an area of historical geological interest where Precambrian metamorphic rocks transition into younger volcanic and sedimentary layers. Collectors will find the terrain moderate in slope with scattered desert vegetation typical of central Arizona's ponderosa pine transition zone. The proximity to Pine Creek provides seasonal water access and has shaped the erosion patterns that expose quality specimens. This location attracts both novice and experienced rockhounders seeking colorful banded agates, red and tan jasper, and clear quartz specimens that have weathered out of the surrounding volcanic deposits.\n\nGeologically, this region represents part of the greater Basin and Range province where Precambrian basement rocks were subjected to Tertiary magmatism and mineral-rich hydrothermal fluids. The agates and jasper found here formed within cavities and fractures as silica-rich solutions cooled over millions of years, creating the banded patterns and varied colors that make these specimens collectible. The moderate slope and drainage patterns have naturally concentrated weathered specimens on hillsides and wash areas where gravity has carried them downslope.\n\nAccess is straightforward via Arizona State Highway 87, and the site remains relatively uncrowned compared to fee-dig locations. Rockhounds should expect moderate hiking with elevation changes and rocky footing. The best specimens are typically found in wash bottoms and on exposed hillsides where weathering has fractured the host rock and released individual stones.",
+  "history": "This area sits within the transition zone between the Mogollon Rim geology and lower Basin and Range Province, where Precambrian metamorphic foundations were overlain by Tertiary volcanic activity and mineral-bearing hydrothermal systems. The Natural Bridge formation and surrounding exposures have attracted prospectors for over a century, with early mining interest focused on copper and other base metals, though the agate and jasper deposits found here are secondary products of the same silica-rich hydrothermal alteration that created the broader mineralization.",
+  "tips": "Search the bottoms of arroyos and wash channels where Pine Creek drainage has concentrated lighter specimens - agates and jasper naturally accumulate in these erosion zones. Look for specimens with banding patterns or translucency when backlit, as these indicate higher-quality agate versus common chalcedony. Bring a small hammer and chisel to carefully pry specimens from surrounding host rock, and wear sturdy boots with ankle support since the rocky terrain and moderate slope increase foot strain. Water is available seasonally from Pine Creek, but carry at least 2 liters in the drier months.",
+  "terrain_notes": "Moderate slope terrain at 4,542 feet elevation with mixed desert shrub and low ponderosa pine vegetation. Rocky footing dominates with exposed volcanic bedrock and scattered boulders requiring careful stepping. Washes and creekbeds offer easier walking but require scrambling over larger rocks. Typical hiking distances from parking to productive areas range 0.5 to 2 miles. No formal trails; navigation is cross-country across open BLM land.",
+  "best_season": "October - April. Higher elevation (4,500+ feet) and proximity to Mogollon Rim make summer daytime temperatures excessive (90-95F), while winter brings occasional snow. Fall and spring offer ideal 60-75F temperatures with lower precipitation. Pine Creek water flow is most reliable October through early June.",
+  "written_directions": "From Payson, take Arizona State Highway 87 northeast for approximately 7.4 miles. Look for pullouts or parking areas on either side of the highway near milepost markers 271-272. The Natural Bridge area extends on both sides of Highway 87 along Pine Creek drainage. GPS coordinates 34.32068, -111.457154 mark the central area. Alternative access via North Beeline Highway (AZ 87/260) is approximately 8.6 miles from central Payson if approaching from the south.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Arizona State Highway 87 is paved two-lane highway in good condition. Pullouts may be dirt or gravel with minimal maintenance. High-clearance vehicles recommended if accessing side roads or lesser-used parking areas.",
+  "parking_notes": "Informal pullouts along Highway 87 near the Natural Bridge formation. Limited developed parking; expect 2-4 vehicle capacity at most pullouts. No facilities. Park on shoulder or in obvious turnouts; do not block highway traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection permitted. No motorized excavation or power tools. Hand tools only. Collect loose material and small specimens that can be extracted without significant ground disturbance. Leave sites undamaged for future users.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools only (hammer, chisel, small picks)\nNo ground disturbance or trenching\nPackout all waste and non-specimens\nRespect natural and cultural resources",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Payson, Arizona - approximately 7.4 miles southwest. Full services including gas, restaurants, grocery, hardware, and emergency services.",
+  "accessibility_notes": "Moderate difficulty terrain with rocky footing and slope. Not wheelchair accessible. Requires moderate hiking stamina and comfort with uneven, rocky ground. Elevation gain of 200-400 feet possible depending on route. Sturdy hiking boots with ankle support strongly recommended. No maintained trails; navigation is cross-country on open BLM land. Suitable for reasonably fit adults and children 8 and older with outdoor experience.",
+  "alternative_names": [
+    "Natural Bridge Area",
+    "Pine Creek Rockhounding Area"
+  ],
+  "nearest_city": "Payson",
+  "nearest_city_distance": 7,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-of-natural-bridge-az/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-of-natural-bridge-az/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-of-natural-bridge-az/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-of-natural-bridge-az/mineral-3-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What agates and jasper can I find rockhounding near Payson at Area of Natural Bridge?",
+      "answer": "The Area of Natural Bridge yields colorful banded agates, red and tan jasper, and clear quartz specimens. You may find banded specimens showing white, pink, red, and brown striping typical of silica-rich hydrothermal alteration zones. Most specimens are small to palm-sized, though larger weathered fragments do occur. Chalcedony and crypto-crystalline quartz varieties are common secondary finds."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Area of Natural Bridge on BLM land?",
+      "answer": "No permit is required for recreational rockhounding on this BLM public land. You may collect for personal use only under the 25 lbs per day limit set by FLPMA. No commercial collection or motorized excavation is allowed. Hand tools like hammers, chisels, and small picks are permitted."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Payson at 4,500+ feet elevation?",
+      "answer": "October through April is ideal. The area sits at 4,542 feet near the Mogollon Rim transition zone, making summers hot (90-95F). Fall and spring offer comfortable 60-75F temperatures with good working conditions. Pine Creek water flow is most reliable October through early June, making late fall and spring the optimal months."
+    },
+    {
+      "question": "How far is it to rockhound at Area of Natural Bridge from Payson, and what is the drive like?",
+      "answer": "Area of Natural Bridge is approximately 7.4 miles northeast of Payson via paved Arizona State Highway 87. The drive takes 10-15 minutes. Highway 87 is a well-maintained two-lane road. Parking is at informal pullouts along the highway near the Natural Bridge formation. From parking, productive areas are typically 0.5 to 2 miles cross-country hiking."
+    },
+    {
+      "question": "Is Area of Natural Bridge rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, this is a beginner-friendly BLM rockhounding site suitable for families. Terrain is moderate with manageable slopes and good specimen visibility. Children ages 8 and older with outdoor experience can participate. The site attracts beginners because there is no fee, no permit required, and specimens are accessible. Bring plenty of water, wear sturdy boots, and stay aware of snakes and sharp material."
+    },
+    {
+      "question": "What tools and supplies should I bring to rockhound at Area of Natural Bridge?",
+      "answer": "Bring a small hammer and chisel to carefully extract specimens from host rock, a collection bag for your 25 lb daily limit, sturdy hiking boots with ankle support, and 2+ liters of water per person. A hand lens helps evaluate specimen quality. Wear long pants and a hat for sun and snake protection. Check weather before visiting; the terrain becomes hazardous when wet or icy in winter months."
+    }
+  ],
+  "meta_title": "Area of Natural Bridge Rockhounding - Arizona",
+  "meta_description": "Free BLM rockhounding near Payson. Find agate, jasper, and quartz at Area of Natural Bridge. No permit required, 25 lbs/day limit. October-April best.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from high desert BLM agate/jasper typical deposits)",
+    "family_friendly (inferred from easy-moderate difficulty and public access)",
+    "hazards (snakes inferred from Arizona desert; remote inferred from backcountry access)",
+    "nearest_services (Payson inferred from 7.4 mi distance and regional geography)"
+  ],
+  "enriched_at": "2026-04-21T15:40:17.228Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T15:56:46.603Z"
+}

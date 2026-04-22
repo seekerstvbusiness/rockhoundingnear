@@ -1,0 +1,60 @@
+{
+  "slug": "berlin-utley-wi",
+  "name": "Berlin & Utley",
+  "lat": 43.968389,
+  "lng": -88.944194,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "City of Berlin",
+  "city_slug": "city-of-berlin",
+  "county": "Green Lake",
+  "county_slug": "green-lake",
+  "geocoded_city": "City of Berlin",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Berlin%20%26%20Utley%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Berlin%20%26%20Utley",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Berlin%20%26%20Utley%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 798,
+      "meters": 243
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:14:38.977Z"
+  },
+  "scraped_at": "2026-04-21T18:14:38.977Z",
+  "scrape_quality": "minimal"
+}

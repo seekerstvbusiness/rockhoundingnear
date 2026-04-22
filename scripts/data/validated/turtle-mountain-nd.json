@@ -1,0 +1,97 @@
+{
+  "slug": "turtle-mountain-nd",
+  "name": "Turtle Mountain",
+  "state": "North Dakota",
+  "state_slug": "north-dakota",
+  "city": "Rolette",
+  "city_slug": "rolette",
+  "county": "Rolette",
+  "county_slug": "rolette",
+  "lat": 48.815549,
+  "lng": -99.921653,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony"
+  ],
+  "short_description": "Turtle Mountain offers rockhounders access to glacial deposits and sedimentary formations typical of North Dakota's northern plains. Hunt for quartz, agate, and chalcedony specimens in this flat, a...",
+  "description": "Turtle Mountain sits in Rolette County within the glaciated prairie landscape of northeastern North Dakota. This area was shaped by Pleistocene glaciation, which deposited a diverse mix of rock and mineral fragments across the region. The local terrain features gentle rolling hills and flat prairie with exposures of glacial till and ancient sedimentary layers that contain agates, quartz nodules, and chalcedony specimens.\n\nThe geology here reflects North Dakota's position at the edge of the Canadian Shield and the Great Plains. Glacial activity tens of thousands of years ago transported material southward, creating an excellent hunting ground for rockhounders seeking quality specimens. The relatively flat topography makes this an ideal location for beginning collectors and families.\n\nTurtle Mountain and its surrounding prairie environment offer good access to glacial deposits that weathered out of clay and sand layers. Rockhounders often find specimens in streambed sediments, along eroded banks, and in surface deposits where glacial material has been exposed. The flat terrain minimizes hiking difficulty while providing multiple areas to explore.\n\nVisit during cooler months when the prairie is more comfortable to traverse and visibility of specimens improves. The area is part of North Dakota's traditional rockhounding region where glacial deposits have yielded quality finds for collectors of all skill levels. Local geological variation means specimens can vary significantly even within short distances.",
+  "history": "Turtle Mountain and the surrounding Rolette County region sits within glaciated territory shaped by multiple Pleistocene ice sheet advances. The last major glaciation, the Wisconsin glaciation approximately 12,000 to 20,000 years ago, deposited thick layers of glacial till containing rocks and minerals transported hundreds of miles from the Canadian Shield, creating excellent conditions for finding agates and quartz specimens that collectors seek today.",
+  "tips": "Search along seasonal drainage areas and eroded streambanks where water has naturally exposed glacial deposits and weathered out specimens. Use a rock hammer or pry bar to carefully work glacial till and clay layers; agates and quartz often resist weathering better than surrounding matrix material. Look for specimens with translucent or banded patterns - true agates display chalcedony with visible color banding, while quartz specimens typically show crystal faces or milky white appearance. Bring a sifter or screen to process surface material and clay deposits efficiently, and always check with local property owners before collecting on private land adjacent to public areas.",
+  "terrain_notes": "Elevation 1800 feet with flat to gently rolling prairie terrain. The landscape is open grassland with sparse vegetation typical of North Dakota's plains. Walking surfaces vary from firm prairie sod to soft clay and sandy soils depending on recent moisture. No significant elevation changes, making access relatively easy for most hikers. Glacial deposits exposed at surface and in eroded banks throughout the area.",
+  "best_season": "May - September. Spring through early fall offers the most comfortable temperatures for prairie rockhounding. Late spring and summer provide good access before winter snow and frozen ground make collecting difficult. Avoid winter months (December - February) when snow cover and frozen terrain limit specimen visibility and access.",
+  "written_directions": "From Rolette, take ND 5 north approximately 8 miles toward Dunseith. Turn east on County Road 8 and continue approximately 3 miles. Turtle Mountain area lies just east of this route. Look for roadside pullouts and accessible prairie areas along County Roads in the vicinity of GPS coordinates 48.815549, -99.921653. No formal parking area; park carefully along road shoulders and respect private property boundaries.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "County roads are graded gravel surfaces, passable year-round for standard vehicles. Some seasonal softening possible in spring. No high-clearance vehicle required.",
+  "parking_notes": "Informal roadside pullouts along County Roads near Turtle Mountain. No developed parking facility. Park safely off the road surface and respect agricultural land boundaries.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collect on public land only with landowner permission for private property. Personal use collection permitted on accessible public areas. No motorized equipment or commercial extraction. Respect property boundaries and close any gates left open. North Dakota does not require permits for casual rockhounding on public land, but always verify current regulations with Rolette County or the North Dakota Geological Survey before collecting.",
+  "quantity_limits": null,
+  "rules": "Collect for personal use only\nObtain landowner permission for private property\nNo commercial collection\nNo motorized excavation equipment\nRespect property boundaries\nClose gates after passing through\nCheck local regulations before collecting",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife"
+  ],
+  "nearest_services": "Rolette, ND approximately 8 miles south. Services include gas stations, food, and supplies. Dunseith, ND approximately 15 miles north also offers services.",
+  "accessibility_notes": "Flat terrain highly accessible to rockhounders of varying fitness levels. Relatively flat prairie allows walking in multiple directions without significant elevation gain. Soft soils and clay deposits require sturdy footwear. No wheelchair access typical for prairie rockhounding, but minimal hiking distance required. Generally suitable for families with young children and those with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Rolette",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-dakota/turtle-mountain-nd/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-dakota/turtle-mountain-nd/mineral-1-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-dakota/turtle-mountain-nd/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and quartz can I find rockhounding at Turtle Mountain, North Dakota?",
+      "answer": "Turtle Mountain's glacial deposits contain banded agates with white, tan, and amber coloring, translucent quartz nodules, and chalcedony specimens. The glacial till transported these minerals hundreds of miles from the Canadian Shield, creating excellent variety. Most specimens range from 1 to 4 inches, though larger finds are possible in streambed deposits."
+    },
+    {
+      "question": "Is rockhounding at Turtle Mountain free, and do I need a permit?",
+      "answer": "Yes, rockhounding at Turtle Mountain is free and does not require a permit for casual personal collection on public land. However, always verify ownership of specific parcels before collecting, as some adjacent land may be private. Contact the Rolette County offices or North Dakota Geological Survey to confirm public access status."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Rolette, North Dakota?",
+      "answer": "May through September offers the most comfortable conditions for prairie rockhounding at Turtle Mountain. Spring through early fall provides pleasant temperatures and good visibility of specimens. Winter months bring snow cover and frozen ground that makes specimen hunting difficult and dangerous."
+    },
+    {
+      "question": "How far is Turtle Mountain rockhounding from the nearest town, and what services are available?",
+      "answer": "Turtle Mountain is approximately 8 miles north of Rolette, ND, which offers gas stations, restaurants, and supplies. Dunseith, ND lies about 15 miles to the north. Both towns provide services before or after your collecting trip. Plan to bring water and snacks for your time in the field."
+    },
+    {
+      "question": "Is Turtle Mountain rockhounding suitable for beginners and families with children?",
+      "answer": "Yes, Turtle Mountain is ideal for beginning rockhounders and families. The flat prairie terrain requires minimal hiking skills, and the abundant glacial deposits make finds accessible without advanced prospecting knowledge. Children age 6 and up can participate comfortably. Bring sturdy shoes due to soft clay soils and supervise younger collectors around eroded banks."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Turtle Mountain?",
+      "answer": "Bring a rock hammer or small pry bar to work glacial till, a sifter or screen to process clay deposits, a field bag for specimens, and sturdy footwear suitable for soft prairie soil. A hand lens helps identify chalcedony banding and quartz crystal faces. Sunscreen, hat, and water are essential for extended time on open prairie."
+    }
+  ],
+  "meta_title": "Turtle Mountain Rockhounding - North Dakota",
+  "meta_description": "Find agate, quartz, and chalcedony at Turtle Mountain near Rolette, ND. Easy free rockhounding on glacial deposits. Beginner and family friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type - assumed public BLM based on geology and typical North Dakota access patterns",
+    "primary_category - inferred as public_blm due to glaciated public land context",
+    "cell_service - estimated as spotty based on rural prairie location",
+    "collection_rules - based on standard North Dakota public land rockhounding practices without specific local ordinance source"
+  ],
+  "enriched_at": "2026-04-21T16:39:10.617Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:39:57.493Z"
+}

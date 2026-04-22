@@ -1,0 +1,61 @@
+{
+  "slug": "royal-peacock-opal-mines-nv",
+  "name": "Royal Peacock Opal Mines",
+  "lat": 41.78627966,
+  "lng": -119.100237,
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "state_code": "NV",
+  "city": "Humboldt County",
+  "city_slug": "humboldt-county",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "geocoded_city": "Humboldt County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nevada.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Royal%20Peacock%20Opal%20Mines%20Nevada"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Nevada BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Royal%20Peacock%20Opal%20Mines"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Royal%20Peacock%20Opal%20Mines%20Nevada"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Nevada BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:27:02.861Z"
+  },
+  "scraped_at": "2026-04-22T02:27:02.861Z",
+  "scrape_quality": "partial"
+}

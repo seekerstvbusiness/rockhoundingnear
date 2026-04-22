@@ -1,0 +1,60 @@
+{
+  "slug": "rising-fawn-ga",
+  "name": "Rising Fawn",
+  "lat": 34.747279,
+  "lng": -85.540427,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Dade County",
+  "city_slug": "dade-county",
+  "county": "Dade",
+  "county_slug": "dade",
+  "geocoded_city": "Rising Fawn",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Rising%20Fawn%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Rising%20Fawn",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Rising%20Fawn%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 930,
+      "meters": 283
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:00:16.252Z"
+  },
+  "scraped_at": "2026-04-21T19:00:16.252Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "red-oak-ia",
+  "name": "Red Oak",
+  "lat": 41.056552,
+  "lng": -95.28512,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Montgomery County",
+  "city_slug": "montgomery-county",
+  "county": "Montgomery",
+  "county_slug": "montgomery",
+  "geocoded_city": "Montgomery County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Red%20Oak%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Red%20Oak",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Red%20Oak%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:52:09.240Z"
+  },
+  "scraped_at": "2026-04-21T17:52:09.240Z",
+  "scrape_quality": "minimal"
+}

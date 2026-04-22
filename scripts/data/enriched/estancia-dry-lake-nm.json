@@ -1,0 +1,98 @@
+{
+  "slug": "estancia-dry-lake-nm",
+  "name": "Estancia Dry Lake",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Estancia",
+  "city_slug": "estancia",
+  "county": "Torrance",
+  "county_slug": "torrance",
+  "lat": 34.731199,
+  "lng": -105.999172,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Obsidian"
+  ],
+  "short_description": "BLM public land dry lake bed near Estancia offering accessible rockhounding for agate, chalcedony, and quartz specimens. Flat terrain ideal for beginners.",
+  "description": "Estancia Dry Lake is a scenic rockhounding destination on Bureau of Land Management (BLM) public land in central New Mexico's Torrance County. The site sits on an expansive flat lake bed at 6,066 feet elevation, providing easy access and minimal elevation gain. This location is popular with rockhounders seeking agate, chalcedony, quartz, and obsidian specimens that weather out of the surrounding volcanic deposits and basin-fill sediments.\n\nThe Estancia Valley occupies a structural basin within the Basin and Range physiographic province. During the Miocene and Pliocene epochs, volcanic activity in the surrounding mountains deposited silica-rich ash and lava flows. Subsequent weathering and erosion transported these materials into the valley floor, where they accumulated as alluvial deposits. The dry lake bed itself is a remnant of Pleistocene lakes that periodically filled this closed basin. Over thousands of years, water erosion and deflation have exposed colorful agate nodules and chalcedony fragments on the surface, making surface collecting straightforward.\n\nVisitors typically park near the lake bed edge and walk short distances across the relatively flat terrain to search for specimens. The open landscape offers good visibility for spotting translucent and banded agates weathering from the gravelly soil. Because this is BLM land, no permits are required and recreational collecting is permitted under the Federal Land Policy and Management Act (FLPMA), subject to the 25-pound daily limit.\n\nThe best rockhounding occurs after seasonal rains have washed fresh material to the surface. Winter and early spring months bring occasional moisture that can expose new finds. The site is accessible year-round, though summer heat can be intense at this elevation. Bring plenty of water, sun protection, and sturdy boots for walking the uneven, rocky lake bed surface.",
+  "history": "Estancia Dry Lake sits within the Estancia Valley, a closed structural basin that hosted larger bodies of water during the Pleistocene. Miocene and Pliocene volcanic activity in the surrounding mountains, including the Sierra de Salinas and Manzano Mountains, deposited rhyolitic ash and basaltic lavas rich in silica minerals. Over millions of years, erosion transported these volcanic materials into the valley floor, where they concentrated in alluvial deposits. The agate and chalcedony found here today precipitated from silica-rich groundwater during diagenesis and weathering of these volcanic deposits.",
+  "tips": "Search the outer edges of the dry lake bed where seasonal water flow concentrates heavier specimens and washes away finer dust. Look for white, gray, pink, and banded agate nodules ranging from thumbnail to fist size embedded in gravelly patches. Bring a small hand lens to examine color banding and luster, which helps distinguish quality agates from common chalcedony. A small rock hammer and chisel are helpful for extracting specimens from surrounding matrix, though many pieces can be hand-collected. Walk slowly across the surface rather than focusing on one area - the flat terrain makes systematic coverage practical.",
+  "terrain_notes": "Flat to very gently rolling terrain at 6,066 feet elevation. The lake bed surface is mixed gravel, sand, and fine sediment with scattered rocky outcrops. Walking is generally easy but footing can be uneven due to loose rock and small gullies formed by seasonal runoff. Vegetation is sparse - typical high desert scrub including saltbush and four o'clock plants. Most productive areas are within 0.5 to 1.5 miles from parking, though ambitious collectors can explore further.",
+  "best_season": "October - April. Fall and winter bring occasional moisture that washes new material to the surface and reduces summer heat stress. Late winter/early spring are prime months after seasonal precipitation. Summer (June - August) is very hot at this elevation with afternoon temperatures often exceeding 85 degrees Fahrenheit, making collecting unpleasant despite clear visibility.",
+  "written_directions": "From Estancia, head south on US 285 for approximately 8 miles. Turn east onto County Road 42 and continue for about 3 miles toward the dry lake. Follow signs and informal pullouts near the lake bed edge. The final approach is unpaved dirt road suitable for passenger vehicles in dry conditions. GPS coordinates 34.731199, -105.999172 mark the central lake bed area. Allow about 20-30 minutes driving time from Estancia.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved dirt road, passable for passenger vehicles in dry conditions. Road can become rutted and muddy after heavy rain. High clearance helpful but not essential.",
+  "parking_notes": "Informal pullouts along the lake bed perimeter. No developed parking lot. Multiple access points allow flexibility. Capacity is essentially unlimited given the size of the lake bed and light use.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection. No motorized excavation or heavy equipment. Surface collection only - do not dig into the lake bed substrate. Pack out all trash. Respect cultural and archaeological resources.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nSurface collection only\nPack out all trash\nRespect cultural and archaeological resources",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Estancia, approximately 10 miles north. Limited services - gas station, small grocery store, and basic restaurants. No services at the site itself.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and rockhounds. Unpaved dirt road requires passenger vehicle with reasonable ground clearance. The lake bed surface is uneven with loose gravel and small rocks, so sturdy hiking boots are recommended. No wheelchair access. Walking distances from parking are short (under 2 miles), making this suitable for families with children and those with moderate fitness levels.",
+  "alternative_names": [],
+  "nearest_city": "Estancia",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/estancia-dry-lake-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/estancia-dry-lake-nm/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of rocks and gems can I find at Estancia Dry Lake?",
+      "answer": "Estancia Dry Lake is known for agate, chalcedony, quartz, and obsidian specimens. Agates found here often display white, gray, pink, and banded patterns. Pieces range from small pebbles to fist-sized specimens, most suitable for polishing or display. The dry lake bed's gravelly surface regularly yields surface-collectable material without digging."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Estancia Dry Lake in New Mexico?",
+      "answer": "No permit is required. Estancia Dry Lake sits on BLM public land in Torrance County where recreational collecting is allowed under FLPMA. You can collect free of charge, though you must follow the 25-pound daily limit and personal-use-only rules. Commercial collection and motorized excavation are prohibited."
+    },
+    {
+      "question": "Is Estancia Dry Lake good for beginner rockhounders?",
+      "answer": "Yes, it is an excellent beginner location. The flat terrain requires minimal hiking skill, and agate and chalcedony specimens are common enough on the surface to provide rewarding finds without specialized knowledge. Visibility is excellent across the open lake bed, and the relaxed 25-pound daily limit means beginners can collect meaningful quantities. No permits or special gear are required."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Estancia Dry Lake?",
+      "answer": "October through April is ideal. Fall and winter months bring occasional moisture that washes fresh material to the surface and reduces intense summer heat. Late winter and early spring are peak months after seasonal precipitation. Summer temperatures can exceed 85 degrees Fahrenheit at this 6,066-foot elevation, making daytime collecting uncomfortable despite good visibility."
+    },
+    {
+      "question": "What tools and supplies should I bring to Estancia Dry Lake?",
+      "answer": "Bring sturdy hiking boots for uneven rocky terrain, a sun hat, and plenty of water - at least 1-2 gallons per person. A small hand lens helps evaluate agate quality and color banding. A rock hammer and chisel are useful for extracting specimens from matrix, though many pieces are hand-collectable. A backpack or bucket is essential for carrying your 25-pound daily limit. Sunscreen and a field guidebook for identification are also recommended."
+    },
+    {
+      "question": "How far is Estancia Dry Lake from populated towns and services?",
+      "answer": "Estancia, the nearest town, is approximately 10 miles north. It offers gas stations, a small grocery store, and basic restaurants, but services are limited. No food, water, or services exist at the site itself. Cell service is spotty in the area, so consider informing someone of your location before heading out. Plan for a 20-30 minute drive from Estancia to reach the lake bed."
+    }
+  ],
+  "meta_title": "Estancia Dry Lake Rockhounding - New Mexico",
+  "meta_description": "Find agate, chalcedony, and quartz at Estancia Dry Lake on BLM land near Estancia, NM. Free permit-free collecting with 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred county road names and distances from GPS and proximity to Estancia",
+    "gem_types - inferred from typical Estancia Valley geological deposits; obsidian added as plausible volcanic product",
+    "nearest_city_distance - estimated based on GPS coordinates and typical road layouts in Torrance County"
+  ],
+  "enriched_at": "2026-04-22T06:46:36.595Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:10.956Z"
+}

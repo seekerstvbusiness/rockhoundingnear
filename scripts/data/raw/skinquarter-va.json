@@ -1,0 +1,60 @@
+{
+  "slug": "skinquarter-va",
+  "name": "Skinquarter",
+  "lat": 37.409636,
+  "lng": -77.774308,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Chesterfield County",
+  "city_slug": "chesterfield-county",
+  "county": "Chesterfield",
+  "county_slug": "chesterfield",
+  "geocoded_city": "Skinquarter",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Skinquarter%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Skinquarter",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Skinquarter%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 253,
+      "meters": 77
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:10:36.107Z"
+  },
+  "scraped_at": "2026-04-21T19:10:36.107Z",
+  "scrape_quality": "minimal"
+}

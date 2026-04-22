@@ -1,0 +1,60 @@
+{
+  "slug": "silver-bay-ak",
+  "name": "Silver Bay",
+  "lat": 56.985911,
+  "lng": -135.13221,
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "state_code": "AK",
+  "city": "Sitka",
+  "city_slug": "sitka",
+  "county": "Sitka",
+  "county_slug": "sitka",
+  "geocoded_city": "Sitka",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-alaska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Silver%20Bay%20Alaska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Silver%20Bay",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Silver%20Bay%20Alaska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 11,
+      "meters": 3
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:29:39.470Z"
+  },
+  "scraped_at": "2026-04-21T18:29:39.470Z",
+  "scrape_quality": "minimal"
+}

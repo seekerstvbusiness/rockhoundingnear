@@ -1,0 +1,65 @@
+{
+  "slug": "crazy-woman-creek-wy",
+  "name": "Crazy Woman Creek",
+  "lat": 44.254779,
+  "lng": -106.426279,
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "state_code": "WY",
+  "city": "Johnson County",
+  "city_slug": "johnson-county",
+  "county": "Johnson",
+  "county_slug": "johnson",
+  "geocoded_city": "Johnson County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wyoming.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Crazy%20Woman%20Creek%20Wyoming"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Crazy%20Woman%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Crazy%20Woman%20Creek%20Wyoming"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4211,
+      "meters": 1284
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:50:54.128Z"
+  },
+  "scraped_at": "2026-04-21T18:50:54.128Z",
+  "scrape_quality": "partial"
+}

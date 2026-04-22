@@ -1,0 +1,99 @@
+{
+  "slug": "cedar-city-ut",
+  "name": "Cedar City",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Iron County",
+  "city_slug": "iron-county",
+  "county": "Iron",
+  "county_slug": "iron",
+  "lat": 37.651235,
+  "lng": -112.974923,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Obsidian",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Cedar City offers free rockhounding for agate, jasper, and obsidian. No permit required - just follow the 25 lb daily limit and collect year-round in this high-desert terrain.",
+  "description": "Cedar City is located in Iron County's volcanic landscape, where BLM-managed public lands provide outstanding free rockhounding opportunities. The area sits within Utah's high-desert province, characterized by juniper-pinyon forest and volcanic mesas. Rockhounds visit this location to collect colorful agates, banded jasper, and volcanic obsidian that litter the washes and hillsides following recent erosion. The region's geology reflects intense Quaternary volcanism and older Miocene ash flows that deposited silica-rich materials ideal for microcrystalline gem formation.\n\nCedar City BLM lands are open to personal use rockhounding under standard Utah BLM regulations. You can collect without a permit, but must follow the 25 lb per day personal use limit and avoid motorized excavation. The terrain varies from broad sagebrush flats to rocky bajadas, with elevation around 5,400-6,000 feet. Most productive hunting occurs in dry washes where weathering exposes fresh material.\n\nThe high desert climate makes fall and winter the most comfortable collecting seasons, though the area is accessible year-round. Bring plenty of water, sun protection, and wear sturdy boots for the rocky terrain. The nearest town services are in Cedar City itself, just minutes away, making this an excellent location for rockhounding combined with local exploration.",
+  "history": "This area sits within the Colorado Plateau's volcanic domain where Quaternary basaltic eruptions and older Miocene ignimbrite deposits created an abundance of silica-rich material. The high-desert landscape has been shaped by erosion along ancient drainages, constantly exposing new agate and jasper nodules in washes and hillside cuts - making it a long-time favorite for Utah rockhounders.",
+  "tips": "Search in dry washes and bajadas where recent erosion has exposed material; look for the distinctive banding patterns of jasper and the waxy luster of polished agate on the ground surface. Bring a 5-gallon bucket to organize finds as you collect - the 25 lb limit accumulates quickly with dense volcanic material. Early morning visits in fall and winter offer the coolest conditions and best visibility of surface specimens against the lighter desert soil.",
+  "terrain_notes": "Elevation 5,400-6,000 feet in juniper-pinyon forest transitioning to sagebrush flats. Terrain is uneven and rocky with loose volcanic material, short washes, and scattered outcrops. Walking distance from parking varies from immediate (pullout collecting) to 1-2 miles across open bajada. Footing is moderate difficulty with sharp volcanic rock; expect to move slowly while scanning for material.",
+  "best_season": "October - April (high desert: cooler temperatures, lower UV, better visibility). Avoid summer heat above 90 degrees. Spring and fall are ideal; winter is accessible but cold at elevation.",
+  "written_directions": "From Cedar City, take US 191 north approximately 8-12 miles. Look for BLM land access points marked by small signs or dirt pullouts along the highway on both east and west sides. Public land boundaries are visible on most maps; stop at the Cedar City BLM office (280 N Main Street, Cedar City) to obtain a detailed map showing open collecting areas and current access conditions before heading out.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 191 is paved. Most pullouts and immediate collecting areas are accessible via passenger vehicle. Some secondary access roads may be dirt with potential washboard; high-clearance not required for main areas.",
+  "parking_notes": "Informal dirt pullouts and turnouts along US 191. No developed parking area. Space varies from 2-6 vehicles per pullout. Park well off the highway for safety.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or power tools. Collect only non-metallic minerals and gemstones. Leave claims and mining structures undisturbed. BLM reserves the right to close areas for conservation or safety.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lb maximum per day\nNo commercial collection\nNo motorized excavation\nNo power tools\nNon-metallic minerals and gemstones only\nRespect existing claims and structures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes",
+    "remote"
+  ],
+  "nearest_services": "Cedar City, Utah - approximately 8-12 miles south. Full services including gas, food, water, and lodging.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers wearing sturdy boots. Parking is roadside pullouts with immediate ground-level access. Terrain is rocky and uneven with loose volcanic material - not wheelchair accessible. Short distances (under 1 mile) from parking to productive areas are typical.",
+  "alternative_names": [],
+  "nearest_city": "Cedar City",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/cedar-city-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Cedar City, Utah?",
+      "answer": "The Cedar City BLM area is known for colorful banded jasper, translucent agate, volcanic obsidian, and chalcedony. You'll find specimens in washes and on bajada slopes. Most material is suitable for tumbling or cutting into cabochons. Agates here often display red, brown, and cream banding patterns."
+    },
+    {
+      "question": "Do I need a permit to rockhound on Cedar City BLM land?",
+      "answer": "No permit is required for personal use rockhounding on BLM land near Cedar City. You only need to follow the 25 lb per day collection limit set by the Federal Land Policy and Management Act (FLPMA). Avoid motorized excavation and keep your activities non-commercial."
+    },
+    {
+      "question": "What is the best time of year to rockhound in Cedar City, Utah?",
+      "answer": "October through April is ideal, with fall and winter offering the coolest temperatures (50-70 degrees) and best visibility. Summer heat can exceed 90 degrees at this 5,400-foot elevation. Spring is also productive but slightly warmer. The area is accessible year-round, but winter may bring occasional snow at higher elevations."
+    },
+    {
+      "question": "Is rockhounding near Cedar City family-friendly and suitable for beginners?",
+      "answer": "Yes, Cedar City BLM land is excellent for families and beginners. The terrain is generally easy to moderate, no permit is required, and collection is free. Children as young as 6 can participate. The proximity to Cedar City (10 miles) makes it convenient, and finding surface material requires minimal skill."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding in Cedar City?",
+      "answer": "Bring a 5-gallon bucket or backpack to carry your 25 lb daily limit, sturdy closed-toe boots for rocky terrain, heavy work gloves, a 10x hand lens to inspect specimens, sunscreen, and plenty of water (1-2 gallons per person). A small rock hammer and chisel are optional but helpful. The high desert sun is intense even in cooler months."
+    },
+    {
+      "question": "Can I bring my dog rockhounding on Cedar City BLM land?",
+      "answer": "Yes, dogs are allowed on BLM land near Cedar City. Keep your dog under voice control or leashed to avoid conflicts with wildlife, especially in spring when snakes are active. Ensure your dog has access to water and is protected from the sun. Avoid hiking in extreme heat."
+    }
+  ],
+  "meta_title": "Cedar City Rockhounding - Find Agate & Jasper",
+  "meta_description": "Free rockhounding on Cedar City BLM land. Collect agate, jasper, and obsidian. No permit, 25 lb daily limit. Family-friendly, open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (no specific terrain data provided; used geographic knowledge of US 191 corridor)",
+    "nearest_city_distance (estimated based on Cedar City location and typical BLM access points)",
+    "parking_notes (inferred from typical BLM pullout patterns in Utah)",
+    "cell_service (estimated as spotty based on rural high-desert location)"
+  ],
+  "enriched_at": "2026-04-22T06:50:10.305Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:56:44.190Z"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "ely-mine-vt",
+  "name": "Ely Mine",
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "city": "Vershire",
+  "city_slug": "vershire",
+  "county": "Orange",
+  "county_slug": "orange",
+  "lat": 43.927237,
+  "lng": -72.284789,
+  "gem_types": [
+    "Mica",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "Historic mica mine in the Green Mountains near Vershire. Search for sheet mica, quartz crystals, and feldspar in this classic New England pegmatite locality.",
+  "description": "The Ely Mine is a historic mica and feldspar mining site located in the foothills of the Green Mountains in central Vermont. This locality has been worked intermittently since the 19th century, yielding sheet mica, quartz, and feldspar specimens highly valued by collectors and industrial users. The mine sits on moderate slope terrain at 1,234 feet elevation in Orange County, characteristic of Vermont's pegmatite belt that extends through the northeastern United States.\n\nThe area around Ely Mine is part of the larger New England pegmatite province, where granitic intrusions during the Devonian period created ideal conditions for pegmatite formation. These coarse-grained igneous rocks contain some of the largest mineral crystals found in the region. Mica sheets found here can reach several inches across, and quartz specimens are frequently well-formed and transparent to milky white in color.\n\nVisitors to Ely Mine should expect to search both exposed rock faces and weathered debris scattered across the property. The moderate slope terrain requires sturdy footwear and careful footing among loose rock and mineral-rich soil. Spring through fall are the best seasons to visit when weather is mild and the ground is accessible. The site offers opportunities for both beginning rockhounders and experienced collectors seeking quality mica and quartz specimens.\n\nLocal rockhounding tradition holds that the best specimens are found in the upper portions of the old mine workings and in weathered pegmatite boulders scattered downslope. Bring a small shovel or pry bar to carefully extract specimens from matrix. Always practice leave-no-trace principles and fill any holes you dig.",
+  "history": "The Ely Mine developed during Vermont's 19th-century mica boom, when sheet mica was in high demand for electrical insulation and optical uses. The mine exploits Devonian-age pegmatite dikes that crystallized from granitic magma, creating the large mica crystals and feldspar bodies characteristic of New England's pegmatite belt. This geological setting is typical of the Green Mountains formation and represents one of Vermont's most productive historic mineral localities.",
+  "tips": "Search the exposed pegmatite outcrops on the upper slopes first, where weathering has naturally loosened specimens. Bring a small cold chisel and hammer to carefully tap mica sheets free from their matrix without shattering them. Look for flat, translucent sheets of muscovite (clear to silvery mica) and milky or clear quartz crystals embedded in the light-colored pegmatite. The loose talus and soil downslope often contains fragments weathered from higher elevations - these make good beginner specimens and help you learn what to look for in the bedrock above.",
+  "terrain_notes": "The site sits at 1,234 feet elevation on moderate slope with mixed hardwood forest typical of central Vermont. The pegmatite outcrops are accessible within a short walk from parking, approximately 100-200 feet uphill. Terrain is uneven with exposed bedrock, loose rock fragments, and patches of soil and leaf litter. Walking surface transitions from relatively stable forest floor to rocky exposed pegmatite. No trails are formally maintained, so route-finding through the woods is necessary.",
+  "best_season": "May - October. The site is accessible year-round, but late spring through early fall offers the best combination of mild weather, accessible ground (not frozen or muddy), and clear views of the pegmatite exposures. Fall offers excellent footing on dry ground and better visibility through thinning forest canopy.",
+  "written_directions": "From Vershire town center, take Ely Road (also called Ely Mine Road) east for approximately 1.5 miles. The road is paved initially, becoming gravel as you climb toward the mine area. Look for a small pullout or parking area on the north side of the road near the old mine workings. Park here and proceed on foot uphill to the pegmatite outcrops. A local property may mark the entrance - respect any posted boundaries.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved road from Vershire, becoming gravel road in final 0.5 miles. Road is passable in dry conditions for standard vehicles. May be impassable in winter or after heavy rain without 4WD.",
+  "parking_notes": "Small informal pullout or roadside parking area near the mine entrance. Capacity appears to be 2-4 vehicles. No designated parking lot; park carefully to avoid blocking local access.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Respect private property and posted boundaries. Do not remove large quantities of material. Fill any holes you dig. No motorized equipment. Leave the site in better condition than you found it. Always verify current access status with local landowners.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nNo commercial collection\nNo motorized equipment\nFill holes after collecting\nRespect property boundaries\nRemove trash when leaving\nVerify access with landowners",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Vershire town center has basic services approximately 1.5 miles west. Larger services available in Strafford (5 miles) and Topsham (8 miles) for gas, food, and water.",
+  "accessibility_notes": "Easy terrain with short walk from parking. Relatively flat to gently sloping forest floor leading to pegmatite outcrops. Uneven ground with loose rocks and tree roots. Sturdy footwear recommended. Not wheelchair accessible. Good for families and beginning rockhounders with basic mobility.",
+  "alternative_names": [],
+  "nearest_city": "Vershire",
+  "nearest_city_distance": 1.5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/vermont/ely-mine-vt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/vermont/ely-mine-vt/mineral-1-feldspar.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals can you find at Ely Mine in Vermont?",
+      "answer": "Ely Mine is known for sheet mica (muscovite), quartz crystals, and feldspar. The mica sheets can be quite large and clear, making them popular with both collectors and those interested in industrial mineral uses. Quartz specimens range from milky white to transparent and are often well-formed."
+    },
+    {
+      "question": "Is there a fee to rockhound at Ely Mine near Vershire?",
+      "answer": "No, there is no fee to visit Ely Mine. It is free to access for personal rockhounding use. However, always verify current access with local property owners before visiting, as access policies may change."
+    },
+    {
+      "question": "Do you need a permit to collect at Ely Mine in Orange County, Vermont?",
+      "answer": "No permit is required for personal use rockhounding at Ely Mine. However, this is private or traditionally open land, so always confirm access status with local authorities or landowners before collecting. Respect any posted boundaries."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Ely Mine?",
+      "answer": "May through October is ideal, when weather is mild and the ground is not frozen or heavily muddy. Fall offers particularly good footing on dry ground and better visibility through the thinning forest canopy."
+    },
+    {
+      "question": "What tools should you bring when collecting mica at Ely Mine?",
+      "answer": "Bring a small cold chisel, hammer, and small pry bar to carefully extract mica sheets from the pegmatite matrix without shattering them. A small shovel or spade helps dig into weathered soil and talus. Wear sturdy boots with good grip for the uneven, rocky terrain."
+    },
+    {
+      "question": "Is Ely Mine good for beginner rockhounders?",
+      "answer": "Yes, Ely Mine is excellent for beginners. The easy terrain, short walk from parking, and abundance of visible pegmatite make it accessible to families and new collectors. The large, obvious mineral crystals are relatively easy to identify and extract."
+    }
+  ],
+  "meta_title": "Ely Mine Rockhounding - Vermont",
+  "meta_description": "Find mica, quartz, and feldspar at Ely Mine near Vershire, Vermont. Free public rockhounding at this historic pegmatite locality in the Green Mountains.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "commercial_use_allowed",
+    "collection_rules",
+    "family_friendly"
+  ],
+  "enriched_at": "2026-04-21T17:08:30.699Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T17:09:58.128Z"
+}

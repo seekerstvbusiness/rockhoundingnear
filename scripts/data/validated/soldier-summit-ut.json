@@ -1,0 +1,99 @@
+{
+  "slug": "soldier-summit-ut",
+  "name": "Soldier Summit",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Wasatch County",
+  "city_slug": "wasatch-county",
+  "county": "Wasatch",
+  "county_slug": "wasatch",
+  "lat": 39.928496,
+  "lng": -111.078598,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Agate",
+    "Calcite"
+  ],
+  "short_description": "BLM public land rockhounding in the Wasatch Range foothills featuring quartz, jasper, and agate specimens. No permit required - collect up to 25 lbs per day.",
+  "description": "Soldier Summit sits in the high elevation terrain of Wasatch County, near the crest of the Wasatch Range where the landscape transitions between alpine forest and open ridgeline. This BLM-managed area offers rockhounders access to mineralized zones created by ancient hydrothermal activity and mountain-building processes that characterize the Uinta Mountains province. The site is popular for casual collecting and is accessible to hikers willing to explore exposures along ridges and in wash areas. The elevation and mountain setting create cooler conditions and distinct seasonal collecting windows, with summer and early fall providing the most stable weather. Rockhounders should expect rocky, uneven terrain with scattered outcrops and talus slopes - this is not a manicured fee dig but rather a backcountry public land experience.",
+  "history": "Soldier Summit's mineralization reflects the Laramide orogeny (mountain-building episode) that affected Utah from 65 to 40 million years ago, when compressional forces created faults and fractures that were subsequently filled by quartz-rich hydrothermal fluids. The Wasatch Range itself is a major Cenozoic fault-block mountain range, and this location sits within zones where silica was concentrated during uplift and cooling, creating the quartz and chalcedony deposits found here today.",
+  "tips": "Search wash bottoms and erosional gullies where specimens weather out of surrounding rock and collect naturally - these drainage areas concentrate heavier materials. Look for quartz in white, milky, or translucent forms and jasper in bands of red, brown, and gray within exposed ridgeline outcrops. Bring a hammer or pry bar to carefully extract specimens from matrix, but focus on loose material first to minimize environmental impact. The elevation means weather changes rapidly - bring extra water and a rain jacket even on clear mornings, and avoid this area during or just after thunderstorms when flash flood risk increases in drainages.",
+  "terrain_notes": "Elevation approximately 8,400-9,000 feet with sparse to moderate conifer forest (spruce and fir). Terrain is steep to very steep in places with significant talus slopes, loose rock, and exposed bedrock ridges. Walking distance from parking to productive areas ranges from 0.5 to 2 miles depending on route. Footing is rocky and uneven throughout - hiking boots with good ankle support are essential. No maintained trails in the collecting zone.",
+  "best_season": "June - September. The high elevation (above 8,000 feet) means snow blocks access much of the year. Late spring through early fall offers stable weather, though afternoon thunderstorms are common in July and August. Winter access is generally not feasible due to heavy snow cover.",
+  "written_directions": "From Park City, take US 80 east toward Coalville for approximately 12 miles. Continue on US 189 south toward Soldier Summit Pass. Look for BLM access points and pullouts along the highway approaching the summit. The summit area sits along the ridge crest - parking is available at several informal pullouts near the pass. From Coalville, take US 189 south approximately 15 miles to reach Soldier Summit area. GPS coordinates will direct you to the general vicinity; explore legally accessible BLM land near the pass carefully to identify productive rockhounding zones.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "hiking",
+  "road_conditions": "US 189 is a well-maintained paved highway. Access to actual collecting areas requires hiking into BLM terrain off-road; no vehicle access to the productive zones themselves.",
+  "parking_notes": "Informal pullouts along US 189 near Soldier Summit Pass. Space is limited and not developed. Plan for 2-4 vehicles maximum at most pullout locations. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or mechanized equipment. Collect only loose or naturally weathered material where possible. Remove all trash and leave no trace.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo mechanized equipment\nCollect loose material where possible\nLeave no trace",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote",
+    "cliffs"
+  ],
+  "nearest_services": "Park City, approximately 15 miles southwest, has all services including gas, food, lodging, and supplies.",
+  "accessibility_notes": "Steep, uneven rocky terrain with talus slopes and loose rock throughout. No wheelchair access. Requires hiking boots with ankle support and moderate to good hiking fitness. Significant elevation gain possible depending on collecting route. Afternoon thunderstorms can occur rapidly in summer months. Not suitable for limited mobility or young children.",
+  "alternative_names": [],
+  "nearest_city": "Park City",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/soldier-summit-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/soldier-summit-ut/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Soldier Summit in Utah?",
+      "answer": "Soldier Summit's BLM lands produce white, milky, and translucent quartz, colorful jasper in bands of red and brown, agate specimens, and calcite. The hydrothermal mineralization from the Wasatch Range's geological history concentrated silica-rich materials in the ridgeline and wash areas, making quartz the most reliable find here."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Soldier Summit, Utah?",
+      "answer": "No permit is required for recreational rockhounding at Soldier Summit. The area is BLM public land managed under FLPMA (Federal Land Policy and Management Act), which allows personal use collection without a permit. You are limited to 25 lbs per day and must collect only for personal use - no commercial collection is allowed."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Park City at Soldier Summit?",
+      "answer": "June through September is the optimal rockhounding season. The elevation (above 8,000 feet) means heavy snow blocks access from October through May. Summer offers stable hiking conditions, though afternoon thunderstorms are common in July and August - plan morning collecting trips and watch for rapidly changing weather."
+    },
+    {
+      "question": "How difficult is rockhounding at Soldier Summit for beginners?",
+      "answer": "Soldier Summit is moderate to moderately difficult and best suited for experienced hikers or older children (12+). The terrain is steep and rocky with loose talus slopes, uneven footing, and no maintained trails. It is not a casual fee dig but rather backcountry public land that requires good hiking boots, physical fitness, and navigation skills. Beginners should gain hiking experience before attempting this site."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Soldier Summit?",
+      "answer": "Bring a hammer or pry bar for carefully extracting specimens, a durable backpack, sturdy hiking boots with ankle support, plenty of water (at least 3 liters given the elevation and exertion), a rain jacket, and a hat for sun protection. Focus on collecting loose material first to minimize environmental impact. A GPS device or smartphone with offline maps is helpful given the remote location and spotty cell service."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Soldier Summit near Wasatch County?",
+      "answer": "Yes, dogs are allowed on BLM land at Soldier Summit. However, the steep, rocky terrain with loose talus and the high elevation make it challenging for most dogs. Ensure your dog is in good hiking condition, bring extra water for them, and keep them under control. Avoid the site during summer thunderstorm season to prevent flash flood risk in drainages."
+    }
+  ],
+  "meta_title": "Soldier Summit Rockhounding - Utah BLM",
+  "meta_description": "Find quartz, jasper, and agate at Soldier Summit near Park City. Free BLM rockhounding, no permit required. 25 lbs per day limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "terrain_notes",
+    "written_directions",
+    "geology_notes"
+  ],
+  "enriched_at": "2026-04-22T06:54:12.357Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:03:47.300Z"
+}

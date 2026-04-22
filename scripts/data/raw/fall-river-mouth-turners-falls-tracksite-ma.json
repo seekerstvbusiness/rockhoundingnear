@@ -1,0 +1,60 @@
+{
+  "slug": "fall-river-mouth-turners-falls-tracksite-ma",
+  "name": "Fall River mouth, Turners Falls tracksite",
+  "lat": 42.614471,
+  "lng": -72.552719,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Greenfield",
+  "city_slug": "greenfield",
+  "county": "Franklin",
+  "county_slug": "franklin",
+  "geocoded_city": "Greenfield",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Fall%20River%20mouth%2C%20Turners%20Falls%20tracksite%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Fall%20River%20mouth%2C%20Turners%20Falls%20tracksite",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Fall%20River%20mouth%2C%20Turners%20Falls%20tracksite%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 143,
+      "meters": 44
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:30:17.285Z"
+  },
+  "scraped_at": "2026-04-21T19:30:17.285Z",
+  "scrape_quality": "minimal"
+}

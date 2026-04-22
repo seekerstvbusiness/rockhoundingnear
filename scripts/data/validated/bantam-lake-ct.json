@@ -1,0 +1,95 @@
+{
+  "slug": "bantam-lake-ct",
+  "name": "Bantam Lake",
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "city": "Morris",
+  "city_slug": "morris",
+  "county": "Northwest Hills Planning Region",
+  "county_slug": "northwest-hills-planning-region",
+  "lat": 41.686607,
+  "lng": -73.231849,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Scenic lake-side rockhounding in northwestern Connecticut offering access to glacially-deposited quartz and feldspar specimens. Beginner-friendly public exploration area near Morris.",
+  "description": "Bantam Lake sits in the scenic Northwest Hills region of Connecticut, an area shaped by glacial activity during the Pleistocene epoch. The lake and surrounding terrain expose bedrock and glacial deposits that contain quartz, feldspar, and mica specimens typical of New England's metamorphic geology. The flat terrain and public access make this an excellent beginner-friendly location for casual rockhounding and geological exploration.\n\nThe bedrock underlying this region is primarily gneiss and schist from the Proterozoic and Paleozoic metamorphic complexes that form the backbone of Connecticut's geology. Glacial activity during the last ice age scoured the landscape and deposited these mineral-rich rocks as erratic boulders and glacial till throughout the area. Visitors can examine exposed bedrock along the shoreline and search through glacial deposits for quartz crystals and feldspar fragments.\n\nThe lake environment provides a unique collecting opportunity - wave action and seasonal water level changes continuously expose fresh material along the shoreline. The flat topography means minimal hiking effort to reach productive areas. Spring and early summer are ideal times to visit, when water levels expose more of the shoreline for exploration.\n\nBeginner rockhounders will appreciate the accessibility and abundance of recognizable specimens here. Experienced collectors may focus on finding better-formed quartz crystals or unusual feldspar specimens. The area's natural beauty and proximity to the town of Morris make it a pleasant destination for a half-day rockhounding trip.",
+  "history": "Bantam Lake and the surrounding Northwest Hills region expose Connecticut's Precambrian to Paleozoic metamorphic basement rocks, primarily gneiss and schist that formed during ancient continental collisions and were later shaped by Pleistocene glaciation. The glacial deposits throughout this area contain quartz and feldspar specimens eroded from the bedrock and transported by ice sheets up to 20,000 years ago.",
+  "tips": "Search the shoreline and beach areas where wave action continuously exposes fresh glacial deposits and fragments of quartz and feldspar - best visibility occurs in spring when water levels are higher and expose more material. Use a small hammer to carefully crack open glacial boulders and examine the interior for better-formed quartz crystals rather than just surface specimens. Look for white or translucent quartz fragments and pink or white feldspar pieces scattered in the coarse sand and gravel near the water line. Bring a hand lens to examine mica flakes and identify quartz crystal faces in collected specimens.",
+  "terrain_notes": "Flat terrain at 896 feet elevation with gentle slopes throughout the area. The lake shoreline is accessible with minimal hiking, featuring sandy and gravelly beaches mixed with glacial deposits. Walking distance from parking to productive areas is typically less than one-quarter mile. Footing is generally stable on the shoreline, though rocks can be slippery when wet. The area includes light forest cover and open shoreline.",
+  "best_season": "May - September. Late spring through early fall offers the best conditions for shoreline exploration, with stable weather and accessible lake access. Water levels are typically lower in late summer, exposing additional shoreline material.",
+  "written_directions": "From Morris, take CT-109 north toward Litchfield. Continue approximately 2 miles to Bantam Lake Road on the right. Follow Bantam Lake Road to the public lake access area with parking. The rockhounding area is accessible directly from the public shoreline near the parking area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved road access to parking area. Bantam Lake Road is well-maintained with standard passenger vehicle clearance.",
+  "parking_notes": "Public parking area near the lake with standard lot facilities. Capacity varies by season and day. Arrive early on weekends for best parking availability.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use collection only. Respect private property boundaries - stick to publicly accessible shoreline. No commercial collection. Collectors should follow Leave No Trace principles and fill any holes dug. Check with local authorities regarding any seasonal restrictions on lake access or shoreline disturbance.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nNo commercial collection\nRespect private property boundaries\nStay on public shoreline access areas\nFollow Leave No Trace principles\nCheck for seasonal access restrictions at parking area",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "cold"
+  ],
+  "nearest_services": "Morris, approximately 2 miles away, has gas, food, and basic supplies. Litchfield, 4 miles north, offers more extensive services.",
+  "accessibility_notes": "Relatively flat terrain accessible to most mobility levels. The shoreline is walkable with standard hiking footwear. Parking area is near the lake with minimal elevation change to productive collecting areas. No wheelchair-accessible facilities noted, but the terrain itself is not steep or heavily vegetated. Water can be cold year-round - appropriate footwear recommended.",
+  "alternative_names": [],
+  "nearest_city": "Morris",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/connecticut/bantam-lake-ct/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/connecticut/bantam-lake-ct/mineral-1-feldspar.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals can I find rockhounding at Bantam Lake in Connecticut?",
+      "answer": "Bantam Lake offers access to quartz, feldspar, and mica specimens found in glacial deposits and exposed bedrock along the shoreline. White and translucent quartz fragments are most common, along with pink or white feldspar pieces scattered in the sand and gravel near the water line."
+    },
+    {
+      "question": "Is rockhounding at Bantam Lake free or do I need to pay a fee?",
+      "answer": "Rockhounding at Bantam Lake is completely free. There are no collection fees, and public shoreline access is available year-round. Standard parking facilities serve the public lake area."
+    },
+    {
+      "question": "Do I need a permit to collect rocks at Bantam Lake near Morris, Connecticut?",
+      "answer": "No permit is required for personal use rockhounding at Bantam Lake. However, collectors should stay on publicly accessible shoreline areas and respect private property boundaries. Personal use only - commercial collection is not allowed."
+    },
+    {
+      "question": "When is the best time to go rockhounding at Bantam Lake?",
+      "answer": "The best rockhounding season at Bantam Lake is May through September, when stable weather and accessible shoreline conditions prevail. Late spring offers higher water levels that expose more material, while late summer often reveals additional shoreline as water levels recede."
+    },
+    {
+      "question": "Is Bantam Lake a good rockhounding spot for beginners?",
+      "answer": "Yes, Bantam Lake is excellent for beginner rockhounders. The flat, easy terrain requires minimal hiking, the quartz and feldspar specimens are easily recognizable, and the public shoreline access makes it simple to find productive collecting areas without special permits or equipment."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Bantam Lake?",
+      "answer": "Bring a small rock hammer or chisel to crack open glacial boulders and examine interiors for better-formed specimens, a hand lens for examining mica and quartz crystal faces, appropriate footwear for potentially wet shoreline rocks, and a collection bag. A water bottle and sun protection are recommended for longer sessions."
+    }
+  ],
+  "meta_title": "Bantam Lake Rockhounding - Connecticut",
+  "meta_description": "Find quartz, feldspar, and mica at Bantam Lake near Morris, CT. Free public shoreline access on glacial deposits. Perfect for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "parking_notes",
+    "nearest_services"
+  ],
+  "enriched_at": "2026-04-21T18:13:45.244Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:15:44.704Z"
+}

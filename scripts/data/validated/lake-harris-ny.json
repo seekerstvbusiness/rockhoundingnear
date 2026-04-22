@@ -1,0 +1,102 @@
+{
+  "slug": "lake-harris-ny",
+  "name": "Lake Harris",
+  "state": "New York",
+  "state_slug": "new-york",
+  "city": "Town of Newcomb",
+  "city_slug": "town-of-newcomb",
+  "county": "Essex",
+  "county_slug": "essex",
+  "lat": 43.973642,
+  "lng": -74.146666,
+  "gem_types": [
+    "Quartz",
+    "Garnet",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Hunt for quartz, garnet, and mica specimens in the Adirondacks near pristine Lake Harris. This remote Essex County location offers rockhounding in classic metamorphic terrain.",
+  "description": "Lake Harris sits in the heart of the Adirondack Mountains, one of North America's premier metamorphic regions. The area around this pristine glacial lake exposes Precambrian metamorphic rocks, primarily gneiss and schist formations that contain excellent specimens of quartz, garnet, mica, and feldspar. The rocky shorelines and nearby outcrops provide natural weathering that exposes fresh mineral faces without extensive excavation.\n\nThe Adirondacks were shaped by the Grenville orogeny roughly 1 billion years ago, creating the intense heat and pressure that metamorphosed ancient sediments and igneous rocks into the gneiss and schist you see today. Glacial activity during the Pleistocene carved out the lake basin and left behind abundant loose material ideal for rockhounding. Lake Harris itself is accessible via hiking trail, making this a destination for those willing to put in modest effort to reach less-crowded collecting areas.\n\nExpect to find well-formed quartz crystals in vugs within the host rock, red and almandine garnets scattered in schist layers, and sparkling mica sheets that catch the light. The rocky beach and nearby talus slopes offer excellent hunting grounds. This location is best for intermediate rockhounders who are comfortable with backcountry access and can identify metamorphic minerals in the field.\n\nThe remoteness of Lake Harris means fewer collectors, fresher exposures, and a chance to explore a geologically significant location in a scenic wilderness setting. Bring a hand lens and your mineral identification guide - the mineral diversity here rewards careful observation.",
+  "history": "Lake Harris lies within the Adirondack Mountains, which formed during the Grenville orogeny approximately 1 billion years ago when continental collision metamorphosed Precambrian rocks under extreme heat and pressure. Subsequent Pleistocene glaciation sculpted the landscape into its present form, exposing metamorphic gneiss and schist rich in primary minerals like garnet, feldspar, and quartz that rockhounders pursue today.",
+  "tips": "Search the exposed bedrock faces along the lake shore and climb to nearby outcrops where glacial erosion has created natural collecting areas - look for quartz veins cutting through darker schist. Red and brown garnets often appear as distinct crystals within the lighter-colored gneiss matrix; scan for their characteristic shape and luster in direct sunlight. Bring a small pry bar to carefully work samples loose from weathered schist layers, but avoid heavy hammering to preserve crystal faces. The best specimens tend to sit loose on talus slopes below outcrops after freeze-thaw cycles.",
+  "terrain_notes": "Remote high-elevation terrain in the central Adirondacks. Elevation approximately 1,800-2,000 feet with moderate to steep slopes covered in mixed forest (spruce, birch, maple). Access requires hiking roughly 3-5 miles on established trails to reach Lake Harris. Rocky, uneven footing with exposed bedrock and talus slopes. No vehicle access to the lake itself. Well-developed trail system maintained by the Adirondack Mountain Club.",
+  "best_season": "June - September. Winter snow blocks access in this high-elevation region. Late summer (August - September) offers the best combination of established trail conditions, lower water levels that expose more shoreline, and comfortable hiking weather. Spring snowmelt can create muddy, slippery conditions.",
+  "written_directions": "From Town of Newcomb (roughly 20 miles south of Lake Harris), take NY Route 28N north toward Tahawus. Continue past the Tahawus/Newcomb turnoff and follow signs for Cascade Lakes and Cascade Mountain trailhead. The primary access to Lake Harris is via the Cascade Mountain / Harris Lake Trail. Park at the Cascade trailhead parking area (approximately 15 miles north of Newcomb center on Route 28N). Hike the marked trail approximately 3 miles, following signs to Harris Lake. The trail is well-maintained and clearly blazed.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "hiking",
+  "road_conditions": "NY Route 28N is paved and well-maintained to the trailhead. Parking area has unpaved parking lot suitable for passenger vehicles.",
+  "parking_notes": "Cascade Mountain trailhead has a small unpaved parking area with capacity for roughly 15-20 vehicles. No facilities. Arrive early on weekends during peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collection allowed on National Forest lands for personal use only. Remove only small hand samples. No motorized equipment. No commercial collection. Respect all posted trail closures and wilderness boundaries.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nSmall hand samples only\nNo motorized equipment or heavy excavation\nNo commercial collection\nRespect trail closures and wilderness boundaries\nPack out all trash",
+  "beginner_friendly": false,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Town of Newcomb (approximately 20 miles south) has a general store, fuel, and basic services. Larger town of Saranac Lake (35 miles south) offers full amenities including restaurants and lodging.",
+  "accessibility_notes": "Moderate to challenging hiking terrain. Roughly 3-5 miles of trail with elevation gain and descent, uneven rocky footing, exposed bedrock, and sections with steep drops. Not wheelchair accessible. Sturdy hiking boots required. Suitable for physically active adults and older children with backcountry hiking experience.",
+  "alternative_names": [
+    "Harris Lake"
+  ],
+  "nearest_city": "Town of Newcomb",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-york/lake-harris-ny/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find at Lake Harris in the Adirondacks?",
+      "answer": "Lake Harris is known for quartz crystals, red almandine garnets, feldspar, and mica. These minerals occur naturally in the Precambrian metamorphic gneiss and schist that dominates the area. Quartz veins often contain well-formed crystals in vugs, while garnets appear as distinct red-brown specimens within the host rock matrix."
+    },
+    {
+      "question": "Is Lake Harris rockhounding free, or do I need a permit?",
+      "answer": "Lake Harris is located on National Forest land and rockhounding is free with no permit required. Personal use collection is allowed under National Forest regulations. However, you must pack out all samples you collect and respect any posted closures."
+    },
+    {
+      "question": "How hard is the hike to Lake Harris for rockhounding?",
+      "answer": "The hike to Lake Harris is approximately 3-5 miles one way with moderate elevation gain. You will encounter uneven rocky terrain, exposed bedrock, and some steep sections. This is suitable for adults and older children (12+) with backcountry hiking experience. The trail is well-maintained and clearly blazed."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Lake Harris?",
+      "answer": "The best season is June through September. Winter snow closes access to this high-elevation location. Late summer (August-September) offers ideal conditions with lower lake levels exposing more shoreline, established trail conditions, and comfortable hiking temperatures."
+    },
+    {
+      "question": "What tools and equipment should I bring to collect at Lake Harris?",
+      "answer": "Bring a hand lens for identifying metamorphic minerals in the field, a small pry bar for carefully working loose samples, a rock pick or hammer (use sparingly), a field guidebook for mineral identification, sturdy hiking boots, weather-appropriate clothing, and a backpack. Remember to pack out everything you pack in."
+    },
+    {
+      "question": "Is Lake Harris a good rockhounding location for beginners?",
+      "answer": "Lake Harris is best suited for intermediate rockhounders with backcountry hiking experience. The remoteness, backcountry hiking requirement, and need for metamorphic mineral identification skills make it more challenging than fee-dig sites. However, the excellent geology and scenic location reward those prepared for the effort."
+    }
+  ],
+  "meta_title": "Lake Harris Rockhounding - New York Adirondacks",
+  "meta_description": "Find quartz, garnet, and mica at Lake Harris in the Adirondacks. Free public National Forest rockhounding with scenic hiking access near Newcomb, NY.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from Adirondack metamorphic geology; no specific site report sourced",
+    "written_directions - constructed from general geographic knowledge; exact trailhead road names unconfirmed",
+    "parking_notes - estimated capacity based on typical Adirondack trailhead lots; verify current conditions",
+    "collection_rules - assumed National Forest personal use policy; confirm with local ranger district",
+    "access_type and primary_category - inferred as National Forest land based on Adirondack location; no deed or designation document provided",
+    "best_season - inferred from regional climate and glacial lake seasonal patterns; no site-specific weather data provided"
+  ],
+  "enriched_at": "2026-04-21T18:50:08.411Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:51:55.219Z"
+}

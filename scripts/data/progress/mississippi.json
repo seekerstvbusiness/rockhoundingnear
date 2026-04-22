@@ -1,0 +1,78 @@
+{
+  "state_slug": "mississippi",
+  "total": 9,
+  "stages": {
+    "scrape": {
+      "done": [
+        "waynesboro-ms",
+        "luka-ms",
+        "wesson-ms",
+        "mississippi-river-ms",
+        "twentymile-creek-ms",
+        "holly-springs-national-forest-ms",
+        "bell-creek-ms",
+        "paden-ms",
+        "tombigbee-river-ms"
+      ],
+      "failed": []
+    },
+    "enrich": {
+      "done": [
+        "twentymile-creek-ms",
+        "paden-ms",
+        "luka-ms",
+        "tombigbee-river-ms",
+        "wesson-ms",
+        "bell-creek-ms",
+        "mississippi-river-ms",
+        "holly-springs-national-forest-ms",
+        "waynesboro-ms"
+      ],
+      "failed": []
+    },
+    "images": {
+      "done": [
+        "twentymile-creek-ms",
+        "wesson-ms",
+        "tombigbee-river-ms",
+        "luka-ms",
+        "waynesboro-ms",
+        "paden-ms",
+        "mississippi-river-ms",
+        "holly-springs-national-forest-ms",
+        "bell-creek-ms"
+      ],
+      "failed": []
+    },
+    "validate": {
+      "done": [
+        "twentymile-creek-ms",
+        "wesson-ms",
+        "bell-creek-ms",
+        "tombigbee-river-ms",
+        "paden-ms",
+        "luka-ms",
+        "waynesboro-ms",
+        "mississippi-river-ms",
+        "holly-springs-national-forest-ms"
+      ],
+      "failed": []
+    },
+    "import": {
+      "done": [
+        "twentymile-creek-ms",
+        "wesson-ms",
+        "bell-creek-ms",
+        "tombigbee-river-ms",
+        "paden-ms",
+        "luka-ms",
+        "waynesboro-ms",
+        "mississippi-river-ms",
+        "holly-springs-national-forest-ms"
+      ],
+      "failed": []
+    }
+  },
+  "started_at": "2026-04-21T16:31:54.801Z",
+  "updated_at": "2026-04-22T10:13:29.034Z"
+}

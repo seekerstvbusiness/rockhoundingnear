@@ -1,0 +1,101 @@
+{
+  "slug": "pe-ell-wa",
+  "name": "Pe Ell",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Chehalis",
+  "city_slug": "chehalis",
+  "county": "Lewis",
+  "county_slug": "lewis",
+  "lat": 46.573685,
+  "lng": -123.303473,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "A gentle hillside rockhounding site in southwest Washington's Cascade foothills. Find chalcedony, agate, and quartz specimens in weathered volcanic deposits from Eocene-era eruptions.",
+  "description": "Pe Ell sits in Lewis County's rural Cascade foothills, an area rich in Eocene volcanic rocks that weathered into productive rockhounding terrain. The site offers access to exposed hillsides with chalcedony and agate nodules scattered in loose soil and eroded volcanic matrix. Collectors working this area typically find small to medium chalcedony pieces, occasional banded agate, and milky quartz fragments. The gentle slope makes this location accessible to families and beginners who want to explore Washington's volcanic geology without technical climbing or long backcountry hikes.\n\nThe Cascade region underwent massive volcanic activity 50+ million years ago, depositing thick sequences of basalt, andesite, and pyroclastic material. Silica-rich fluids moved through these rocks during cooling and fracturing, creating the nodular and vein deposits rockhounders seek today. Weathering over millennia has exposed these minerals at the surface, making collection straightforward with basic tools.\n\nAccess appears to be on or near public/unposted land typical of rural Lewis County, though confirmation is essential before visiting. The modest elevation (353 feet) and gentle terrain mean comfortable walking conditions year-round, though winter brings wet conditions. Bring digging bars, chisels, and screens to work loose volcanic matrix and sort finds from soil.",
+  "history": "The Pe Ell area sits within the Cascade Range foothills, formed by massive Eocene-epoch volcanic activity (56-34 million years ago) that deposited thick sequences of basalt and andesite. Silica-rich hydrothermal fluids percolated through cooling volcanic rocks, creating nodular chalcedony and agate deposits that persist in weathered hillside exposures today.",
+  "tips": "Work exposed eroded hillsides where volcanic rock matrix breaks down naturally, exposing light-colored chalcedony nodules in the soil. Bring a digging bar and 5-gallon bucket to extract specimens from clay-rich matrix; a hand screen helps separate rock from dirt. Look for white, tan, and occasional banded agate pieces ranging from marble-sized to fist-sized; weathered specimens often have a frosted exterior that polishes beautifully.",
+  "terrain_notes": "Gentle slope terrain at 353 feet elevation with mixed deciduous and coniferous forest typical of southwest Washington lowlands. Walking distance from parking to best collecting areas is typically under one-quarter mile over soft, uneven ground. Footing is moderate - watch for roots, slippery moss-covered rocks in wet conditions, and loose soil on hillsides. No significant elevation gain.",
+  "best_season": "May - September. Winter brings heavy rain and muddy conditions making hillside access difficult. Summer and early fall offer dry, accessible terrain and comfortable working conditions. Spring can be wet but doable in April-May.",
+  "written_directions": "From Chehalis, take US 12 east toward Pe Ell for approximately 18 miles. Pe Ell is a small unincorporated community; continue through or near the town center. Local county roads in the surrounding rural area provide access to hillsides with exposed volcanic deposits. Ask locally for specific private land permissions or look for unposted public/BLM-adjacent parcels typical of this region. GPS coordinates (46.573685, -123.303473) point to the general rockhounding area. Roads are paved to Pe Ell, then transition to rural roads - high clearance not required but ask locally before leaving established roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway to Pe Ell, unpaved rural roads to collection areas. No significant washboard or clearance concerns. Winter mud possible.",
+  "parking_notes": "Informal roadside or pullout parking typical of rural Lewis County. No designated fee lot. Space for 2-4 vehicles along county roads near productive hillsides.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Verify land ownership before collecting. If on public land, personal use only. Maximum 25 lbs per day. No commercial collection. No motorized excavation. If on private land, obtain written permission from owner.",
+  "quantity_limits": "25 lbs per day if on public land",
+  "rules": "Verify land ownership and obtain permission if private\nPersonal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nLeave site clean - pack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Chehalis (18 miles west): full services including gas, food, lodging, and water. Pe Ell itself (local community): limited services.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers wearing sturdy footwear. Uneven rocky hillsides require care; not wheelchair accessible. No significant climbing or scrambling. Suitable for families and those with moderate mobility.",
+  "alternative_names": [
+    "Pe Ell Rockhounding Area"
+  ],
+  "nearest_city": "Chehalis",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/pe-ell-wa/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/pe-ell-wa/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/pe-ell-wa/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/pe-ell-wa/mineral-3-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What can I find rockhounding near Pe Ell, Washington?",
+      "answer": "Pe Ell's volcanic hillsides yield chalcedony, agate, quartz, and jasper specimens. Most finds are small to medium-sized nodules and fragments scattered in weathered volcanic matrix. Banded agate pieces are less common but prized for polishing."
+    },
+    {
+      "question": "Is there a fee to rockhound at Pe Ell in Lewis County?",
+      "answer": "No fee is charged for rockhounding at Pe Ell. Access is free on public land, but you must verify ownership and obtain permission if collecting on private property. Always confirm land status before digging."
+    },
+    {
+      "question": "Do I need a permit to collect chalcedony and agate in Washington near Pe Ell?",
+      "answer": "No permit is required for personal use collection of chalcedony and agate on public land near Pe Ell. Keep collection under 25 lbs per day and restrict to personal use only. Commercial collection requires different authorization."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Pe Ell, Washington?",
+      "answer": "May through September offers the best conditions. Summer and early fall provide dry hillsides and comfortable working temperatures. Winter brings heavy rain and mud that makes site access difficult, though spring (April-May) can work if you tolerate wet conditions."
+    },
+    {
+      "question": "What tools do I need to collect at Pe Ell's volcanic sites?",
+      "answer": "Bring a digging bar or mattock, cold chisel, 5-gallon bucket, hand screen or classifier, and sturdy gloves. These tools help break apart clay-rich volcanic matrix and separate specimens from soil. A small loupe helps identify chalcedony quality before taking heavy pieces."
+    },
+    {
+      "question": "Is Pe Ell rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, Pe Ell is excellent for beginners and families. The gentle slope, short walks, and exposed specimens make it beginner-friendly. Kids ages 6+ can participate in digging and collecting. No technical climbing or long hikes required, and dogs are welcome on most public land in the area."
+    }
+  ],
+  "meta_title": "Pe Ell Rockhounding - Find Agate & Chalcedony",
+  "meta_description": "Rockhound chalcedony, agate, and quartz at Pe Ell, Washington. Free public access, easy terrain, family-friendly. Located 18 miles from Chehalis.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type - verify current land ownership and public access status",
+    "primary_category - confirm if Pe Ell area includes BLM or is entirely private/other",
+    "parking_notes - exact locations not mapped; local inquiry needed",
+    "written_directions - specific county roads vary; consult GPS and local knowledge"
+  ],
+  "enriched_at": "2026-04-22T09:27:18.067Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T09:30:19.669Z"
+}

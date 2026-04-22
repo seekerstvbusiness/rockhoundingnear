@@ -1,0 +1,98 @@
+{
+  "slug": "cactus-mine-ut",
+  "name": "Cactus Mine",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Beaver",
+  "city_slug": "beaver",
+  "county": "Beaver",
+  "county_slug": "beaver",
+  "lat": 38.489651,
+  "lng": -113.295369,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding site near Beaver offering agate, jasper, and chalcedony collecting. Personal use only, no permit required - ideal for Utah desert collectors.",
+  "description": "Cactus Mine is a public BLM rockhounding location in Beaver County, Utah, situated in the high desert landscape typical of southwestern Utah. The area provides access to silica-rich mineral deposits formed during extensive Miocene volcanic activity that characterized the Basin and Range province. Collectors here find banded agates, colorful jasper specimens, and chalcedony nodules weathering from rhyolitic volcanic outcrops.\n\nThe site sits on public BLM land managed under the Federal Land Policy and Management Act (FLPMA), making it accessible to recreational rockhounders year-round with no permit required. The terrain combines open desert scrub with rocky washes and bajadas typical of Beaver County's 5,000-6,000 foot elevation zone. Most productive collecting occurs along wash beds and around exposed volcanic ridges where material naturally erodes and accumulates.\n\nThis location is well-suited for rockhounders of varying experience levels. The open terrain allows easy site coverage, and the abundance of surface material means you do not need advanced excavation skills. The combination of good specimen quality, easy access, and no bureaucratic requirements makes Cactus Mine a reliable destination for building a desert mineral collection.\n\nVisitors should respect the 25-pound daily limit and pack out all trash to preserve site conditions. Spring and fall offer the most comfortable collecting conditions, though winter visits are entirely feasible in this lower-elevation desert setting.",
+  "history": "This area sits within the Basin and Range province where Miocene-age volcanic activity deposited extensive rhyolitic and andesitic flows rich in silica-bearing minerals. Over millions of years, weathering and erosion of these volcanic formations liberated agate and jasper nodules, which accumulated in washes and bajadas and remain readily available at the surface today.",
+  "tips": "Search along dry wash beds and bajada slopes where water erosion naturally concentrates and exposes agate and jasper specimens. Use a hand lens to examine specimens for banding patterns and color zoning before collecting - the best agates show distinct color variation and translucency. Bring a small pick or rock hammer for testing hardness and assessing specimen quality in place. Early morning light makes it easier to spot translucent agate against the desert floor.",
+  "terrain_notes": "Open high desert terrain at 5,000-6,000 foot elevation with sparse brush cover, volcanic rocks, and sandy washes. Walking is generally easy on flat to gently rolling bajadas, though rocky outcrops require careful footing. Parking area provides vehicle access with walking distances of 0.5-2 miles depending on target areas. Minimal vegetation provides little shade.",
+  "best_season": "October - April. Higher desert elevation means winter temperatures are mild but mornings remain cold. Summer heat (June-August) can exceed 90 degrees Fahrenheit with little shade, making early morning or late afternoon collecting necessary. Spring (March-April) and fall (September-October) offer ideal collecting conditions with comfortable temperatures and lower precipitation.",
+  "written_directions": "From Beaver, take US 89 south for approximately 8 miles. Look for BLM public land markers and dirt access roads heading east into the open desert terrain. Several informal pullouts and wash access points exist along the area - consult BLM maps or local rockhounding guides for specific entry points. High-clearance vehicle recommended for some rougher access roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and graded roads with washboard common. Passenger vehicles can access main areas during dry conditions; high-clearance vehicle recommended for deeper access roads.",
+  "parking_notes": "Informal pullouts and open parking along BLM access roads. No designated lot. Multiple entry points allow flexible parking near collecting areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection permitted. No motorized excavation equipment. Collect only loose material and small specimens that can be extracted by hand tools. Pack out all trash and respect surrounding vegetation.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nPack out all trash\nRespect public land regulations",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Beaver, Utah - approximately 8 miles north. Gas, food, and water available in town.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Open desert with minimal obstacles. Uneven rocky washes require sturdy footwear. No wheelchair access to productive collecting areas. Most activity occurs within short walking distances of vehicle parking.",
+  "alternative_names": [],
+  "nearest_city": "Beaver",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/cactus-mine-ut/cover.png",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/cactus-mine-ut/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Cactus Mine near Beaver, Utah?",
+      "answer": "Cactus Mine is known for producing banded agate, jasper in multiple colors, chalcedony, and quartz specimens. The agate here typically shows multiple color bands ranging from white and tan to red and brown tones. Most specimens are found as loose nodules eroding from volcanic outcrops, making them easy to collect without excavation."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Cactus Mine in Utah?",
+      "answer": "No permit is required. Cactus Mine sits on public BLM land managed under FLPMA, which allows recreational rockhounding for personal use without permits or fees. You do need to follow the 25-pound daily collection limit and collect only loose material by hand or with small hand tools."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Cactus Mine?",
+      "answer": "October through April offers the most comfortable collecting conditions with mild temperatures and lower sun intensity. Spring (March-April) and fall (September-October) are ideal. Summer heat can exceed 90 degrees with minimal shade, while winter mornings are cold but daytime temperatures remain reasonable at this 5,000-6,000 foot elevation."
+    },
+    {
+      "question": "How far is Cactus Mine from Beaver, Utah, and what road access is needed?",
+      "answer": "Cactus Mine is approximately 8 miles south of Beaver via US 89. Access roads are unpaved dirt tracks typical of BLM land in the area. A passenger vehicle can reach main collecting areas during dry conditions, though a high-clearance vehicle is recommended for deeper access roads."
+    },
+    {
+      "question": "Is Cactus Mine suitable for beginner rockhounders and families with kids?",
+      "answer": "Yes, Cactus Mine is beginner-friendly and family-suitable. The open terrain allows easy specimen hunting, surface material is abundant, and no specialized equipment or experience is required. Children ages 6 and up can participate. The lack of steep cliffs and clear trail conditions make it safer for families than many rockhounding sites."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Cactus Mine?",
+      "answer": "Bring a small rock hammer or pick, hand lens for examining specimens, sturdy hiking boots for rocky terrain, plenty of water, sun protection, and a collection bag. Morning light helps spot translucent agate against the desert floor. Since there is little shade, bring a hat and sunscreen. Early visits maximize comfort in this high-desert environment."
+    }
+  ],
+  "meta_title": "Cactus Mine Rockhounding - Utah",
+  "meta_description": "Find agate, jasper, and chalcedony at Cactus Mine near Beaver, Utah. Free BLM rockhounding, no permit required. Family-friendly desert collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T10:18:12.202Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:19:18.120Z"
+}

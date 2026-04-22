@@ -1,0 +1,101 @@
+{
+  "slug": "interior-sd",
+  "name": "Interior",
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "city": "Jackson County Area",
+  "city_slug": "jackson-county",
+  "county": "Jackson",
+  "county_slug": "jackson",
+  "lat": 43.731957,
+  "lng": -101.945383,
+  "gem_types": [
+    "Agate",
+    "Petrified Wood",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "Explore the badlands terrain of Interior, SD for agates, petrified wood, and colorful jasper specimens. Public rockhounding on Buffalo Gap National Grassland with scenic landscape access.",
+  "description": "Interior sits within the northern Great Plains at the edge of the Badlands region, offering rockhounders access to diverse semi-arid terrain managed by Buffalo Gap National Grassland. This area is known for Oligocene-era volcanic and sedimentary deposits that have weathered into exposures rich with agate nodules, petrified wood fragments, and jasper specimens scattered across badlands washes and hillsides. The rolling prairie landscape combined with badlands geology creates excellent conditions for surface collecting without requiring permits or fees.\n\nThe geological foundation here includes ancient volcanic activity and marine sediment layers from the Eocene and Oligocene epochs. Silica-rich groundwater percolating through these formations created the colorful chalcedony varieties, agates, and jasper found throughout the region. Surface erosion continuously exposes new specimens in washes and along ridge lines, making this an ideal location for both beginners and experienced rockhounders.\n\nThe Interior locality offers a unique combination of accessibility and geological richness. Unlike many South Dakota rockhounding sites that require private land permission, this Buffalo Gap National Grassland location allows public collecting within established regulations. The relatively flat to gently rolling terrain makes prospecting manageable for most fitness levels, though the semi-arid climate demands preparation.\n\nCollectors should focus on washes and erosional gullies where water has concentrated lighter specimens, and examine exposed badlands slopes where recent weather has revealed fresh material. The landscape changes seasonally, with spring runoff and autumn weather events continuously refreshing exposures. Early morning or late afternoon collecting offers the best lighting for spotting translucent agates against the soil.",
+  "history": "Interior lies within the White River Badlands formation, where Oligocene-age volcanic and sedimentary rocks deposited 25-35 million years ago created the nodule-bearing strata exposed today. The Badlands region experienced significant paleontological and geological study in the 19th century, though mineral collecting has remained a secondary activity compared to fossil prospecting in the main Badlands park.",
+  "tips": "Search along erosional washes and gullies where spring runoff has concentrated lighter-colored specimens - agates and chalcedony accumulate in these low areas. Use a small hand lens to examine potential finds in place before collecting, as color variation and translucency are key identifiers of quality agate. Look for specimens showing banding or color zoning on exposed badlands slopes; reddish, orange, and cream-colored agates are common in this region. Bring sturdy gloves and a small pry bar to safely extract specimens from clay matrix without damage.",
+  "terrain_notes": "Elevation 2413 feet with predominantly flat to gently rolling prairie landscape. Terrain consists of semi-arid grassland with scattered badlands exposures, eroded washes, and low ridge lines. Walking surfaces include short grass, exposed clay and siltstone, and loose gravelly material. Most productive collecting areas are within 1-3 miles of typical parking pullouts. Footing is generally secure on grassy areas but can be slippery on clay exposures after rain.",
+  "best_season": "April - June and September - October. Spring weather brings runoff that exposes fresh material in washes, while autumn offers comfortable collecting temperatures. Summer heat (often exceeding 85F) and winter cold make these shoulder seasons ideal for sustained prospecting in this semi-arid region.",
+  "written_directions": "From Kadoka (23 miles southeast), take Highway 44 west toward Interior. Continue through Interior town and look for signs toward Buffalo Gap National Grassland. Turn north on County Road or Forest Service access roads leading into the grassland (specific road conditions vary by season - contact Buffalo Gap office for current conditions). Park at designated pullouts along grassland roads. GPS coordinates 43.731957, -101.945383 mark the general Interior locality within the grassland boundaries.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved grassland roads subject to seasonal conditions. High-clearance vehicle recommended after rain. Washboard surface typical. Passenger cars acceptable during dry conditions.",
+  "parking_notes": "Informal pullouts along Buffalo Gap National Grassland roads. No developed parking facilities. Space for 2-4 vehicles at typical pullout locations. Park well off active roads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. Rockhounding restricted to surface collection and hand tools only. Respect vegetation and wildlife. Leave gates as found. Do not disturb archaeological sites or fossils. Collect only specimens loose on surface or easily hand-extracted from exposed banks.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs maximum per day\nHand tools and surface collection only\nNo motorized excavation\nNo commercial collection\nRespect all gates and boundaries\nDo not disturb fossils or archaeological sites\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "flash_floods",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Kadoka, 23 miles southeast. Gas, food, and water available at Kadoka. Interior town (very small) has minimal services.",
+  "accessibility_notes": "Relatively flat grassland terrain with gentle slopes accessible to most hikers. No wheelchair access to productive collecting areas. Unpaved access roads may be impassable when wet. Sturdy footwear recommended for navigating grassland and loose gravelly surfaces. Short walks (1-3 miles) typical for collecting excursions. Not suitable for limited mobility due to uneven terrain and distance from parking.",
+  "alternative_names": [
+    "Buffalo Gap Badlands",
+    "Interior Badlands"
+  ],
+  "nearest_city": "Kadoka",
+  "nearest_city_distance": 23,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/south-dakota/interior-sd/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What agates and gemstones can I find rockhounding near Interior, South Dakota?",
+      "answer": "Interior and the Buffalo Gap National Grassland area are known for banded agates, chalcedony, colorful jasper, and petrified wood specimens. Reddish, orange, cream, and white agates are most common. Many specimens show attractive banding patterns from the Oligocene-age volcanic deposits underlying this region. Surface collecting in washes and eroded slopes regularly yields quality specimens suitable for collections or lapidary work."
+    },
+    {
+      "question": "Do I need a permit to rockhound on Buffalo Gap National Grassland near Interior?",
+      "answer": "No permit is required for personal rockhounding on Buffalo Gap National Grassland. The land is open to public collection under the Federal Land Policy and Management Act (FLPMA). You must follow basic rules: personal use only, maximum 25 lbs per day, hand tools only, no motorized equipment, and no commercial collection. Contact the Buffalo Gap National Grassland office for current access conditions."
+    },
+    {
+      "question": "When is the best time to find agates in Interior, South Dakota?",
+      "answer": "April through June and September through October offer ideal rockhounding conditions. Spring runoff exposes fresh agate material in washes, while autumn provides comfortable temperatures. Summer heat exceeds 85F and increases dehydration risk, while winter brings cold temperatures and potential snow. The shoulder seasons offer the best balance of weather comfort and specimen exposure."
+    },
+    {
+      "question": "How far is Interior from Kadoka, and what are driving directions?",
+      "answer": "Interior is approximately 23 miles northwest of Kadoka. From Kadoka, take Highway 44 west through Interior and follow signs toward Buffalo Gap National Grassland. Turn north on grassland access roads (road numbers vary by season). Use GPS coordinates 43.731957, -101.945383 as a reference. Unpaved roads require high-clearance vehicles; call ahead to confirm current road conditions."
+    },
+    {
+      "question": "Is Interior, SD rockhounding good for beginners and families?",
+      "answer": "Yes, Interior is beginner and family-friendly. The relatively flat grassland terrain requires minimal hiking, hand tool collection is straightforward, and agates are abundant enough for children to find specimens quickly. No permits or fees required make it accessible. Bring plenty of water, sun protection, and watch for prairie hazards like wildlife and flash floods in washes. The 25 lbs per day limit ensures families have a manageable collection goal."
+    },
+    {
+      "question": "What tools and supplies do I need to rockhound at Interior?",
+      "answer": "Bring hand tools only - a small pry bar or chisel for extracting agates from clay matrix, work gloves for protection, and a hand lens for identifying specimens in place. A collection bag or backpack is essential for carrying your 25 lb daily limit. Wear sturdy footwear suitable for grassland and loose gravelly terrain. Bring 2-3 liters of water per person, sun protection (hat and sunscreen), and a map of grassland access roads. A small field guide helps identify agate varieties."
+    }
+  ],
+  "meta_title": "Interior SD Rockhounding - Find Agates & Jasper",
+  "meta_description": "Rockhound for agates, jasper, and petrified wood at Interior, SD on Buffalo Gap National Grassland. Public land, no permit required. 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (road names inferred from general knowledge of area)",
+    "primary_category (inferred as national_forest based on Buffalo Gap designation)",
+    "specific_access_roads (not confirmed in source data)",
+    "cell_service (inferred as spotty based on rural South Dakota location)"
+  ],
+  "enriched_at": "2026-04-21T18:36:05.990Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:37:31.915Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "cape-henlopen-de",
+  "name": "Cape Henlopen",
+  "lat": 38.797202,
+  "lng": -75.089482,
+  "state": "Delaware",
+  "state_slug": "delaware",
+  "state_code": "DE",
+  "city": "Sussex County",
+  "city_slug": "sussex-county",
+  "county": "Sussex",
+  "county_slug": "sussex",
+  "geocoded_city": "Sussex County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-delaware.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cape%20Henlopen%20Delaware"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cape%20Henlopen",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cape%20Henlopen%20Delaware"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 6,
+      "meters": 2
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": [
+      {
+        "name": "Cape Henlopen State Park",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-21T16:34:43.504Z"
+  },
+  "scraped_at": "2026-04-21T16:34:43.504Z",
+  "scrape_quality": "minimal"
+}

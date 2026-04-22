@@ -1,0 +1,101 @@
+{
+  "slug": "dragon-ut",
+  "name": "Dragon",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Vernal",
+  "city_slug": "vernal",
+  "county": "Uintah",
+  "county_slug": "uintah",
+  "lat": 39.78654,
+  "lng": -109.075483,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land rockhounding site in northeastern Utah offering agate, jasper, and quartz specimens. Free collecting with 25 lb daily limit on scenic high desert terrain.",
+  "description": "Dragon is a public BLM rockhounding area located in Uintah County's remote high desert landscape. This site offers collectors accessible terrain with good potential for quality agate, jasper, and chalcedony specimens typical of the Uinta Basin geology. The location sits within a region shaped by ancient lacustrine and fluvial deposits from the Eocene epoch, creating the colorful nodule-bearing formations that attract rockhounders throughout the year.\n\nThe collecting area features rolling hills with scattered outcrops and wash systems where weathering has exposed nodules and fragments. Elevations range around 5,000-5,500 feet, providing moderate conditions during the productive seasons. The terrain is open desert scrub with good visibility for spotting specimens on the surface and in eroded washes.\n\nThis BLM land welcomes recreational rockhounders under standard public land rules: no permit required, personal use only, and a 25 pound daily collection limit. The free access and beginner-friendly terrain make Dragon an excellent choice for families and those new to rockhounding in Utah. Experienced collectors will also find the site worthwhile for building specimen collections.\n\nThe remote location requires self-sufficiency - bring adequate water, sun protection, and tools. Spring and fall offer the most comfortable collecting conditions, though winter weather can be manageable with proper preparation. The high desert environment means significant temperature swings between seasons.",
+  "history": "The Dragon area lies within the Uinta Basin, a structural and depositional basin formed during the Laramide orogeny. During the Eocene epoch, lacustrine and fluvial systems deposited silica-rich sediments and volcanic ash that eventually formed the agate and jasper nodules found here today, as part of the Green River and Duchesne River formations that characterize northeastern Utah's rich mineral deposits.",
+  "tips": "Search eroded washes and gullies where water has naturally exposed nodules over time - the white and banded agates stand out against the tan desert soil. Look for small agate nodules weathering free from chalky host rock along hillside exposures; they often cluster together. Bring a hand lens to examine matrix specimens for hidden color banding, and use a small hammer and chisel to carefully extract specimens from softer host rock without damaging the agate. Scout the highest desert washes first after any rainfall, as erosion quickly exposes fresh material.",
+  "terrain_notes": "High desert terrain at approximately 5,000-5,500 feet elevation with sparse sagebrush and juniper woodland. Gently rolling hills with scattered rock outcrops and dry washes. Walking distances from parking vary from immediate roadside access to 1-2 miles across open terrain. Footing is rocky but relatively firm; wear sturdy boots to protect against sharp materials and navigate uneven ground. No shade available - full sun exposure throughout the day.",
+  "best_season": "October - April. Spring and fall (March - May, September - November) offer ideal temperatures for extended collecting sessions. Winter is possible but challenging with occasional snow and cold overnight temperatures. Summer heat (May - September) can exceed 90 degrees F with minimal shade, making full-day collecting uncomfortable and increasing dehydration risk in this remote location.",
+  "written_directions": "From Vernal, take US 40 east toward Colorado approximately 12 miles. Turn north on local roads toward the Dragon area (exact roads vary by entry point - contact BLM Vernal Field Office for current road conditions and specific access points). The site spans a broad area with multiple informal access points along BLM land boundaries. GPS coordinates 39.78654, -109.075483 mark the central rockhounding zone. High-clearance vehicles recommended for some approach roads, especially after wet weather.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and gravel roads with possible washboard texture. High-clearance vehicle recommended for access roads, especially in wet conditions. Most main approach roads passable by standard passenger vehicles with careful driving.",
+  "parking_notes": "Informal pull-offs and parking areas scattered throughout the BLM land. No developed parking lot. Space for 3-5 vehicles at typical pull-out locations. Plan for self-guided dispersed parking.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Standard BLM recreational rockhounding regulations apply. Pack out all waste. Stay on existing roads and trails to minimize impact.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo power tools or heavy equipment\nStay on existing roads and trails\nPack out all waste\nRespect seasonal closures if posted",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Vernal, Utah - approximately 12 miles west. Full services including gas, food, lodging, and water. Ashley Valley Medical Center and other supplies available.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain with scattered loose rock and uneven footing. No wheelchair accessibility in collecting areas. Sturdy hiking boots required for rocky terrain. Easy to moderate difficulty makes this site accessible to most mobile individuals. No developed trails, so collectors navigate open desert terrain. Short walks possible for limited mobility visitors, though most productive collecting requires walking 0.5-2 miles from parking.",
+  "alternative_names": [],
+  "nearest_city": "Vernal",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/dragon-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/dragon-ut/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/dragon-ut/mineral-2-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agate and jasper can I find rockhounding at Dragon, Utah?",
+      "answer": "Dragon yields colorful banded agate, jasper varieties in reds and browns, and white chalcedony specimens. The site is best known for nodular agates with distinctive banding and color variation typical of Eocene-age lacustrine deposits. Most specimens range from small thumb-size pieces to fist-size nodules, though larger pieces are occasionally found."
+    },
+    {
+      "question": "Is rockhounding at Dragon free and do I need a permit?",
+      "answer": "Yes, rockhounding at Dragon is completely free on BLM public land with no permit required. You can collect up to 25 pounds per day for personal use under standard FLPMA recreational regulations. No fees, no applications, no advance reservations needed."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Dragon near Vernal?",
+      "answer": "October through April offers the best collecting conditions. Fall (September - November) and spring (March - May) provide comfortable temperatures for full-day collecting. Summer heat exceeds 90 degrees F with no shade, and winter can bring occasional snow, though motivated collectors find winter manageable with preparation."
+    },
+    {
+      "question": "How far is Dragon rockhounding site from Vernal, Utah and what road conditions should I expect?",
+      "answer": "Dragon is approximately 12 miles northeast of Vernal via US 40. Access roads are dirt and gravel with possible washboard texture. High-clearance vehicles are recommended, especially after wet weather, though most collectors can access the site with standard passenger cars driven carefully. Check current road conditions with the BLM Vernal Field Office before traveling."
+    },
+    {
+      "question": "Is Dragon a good rockhounding site for beginners and families with kids?",
+      "answer": "Absolutely. Dragon's easy terrain, free access, and beginner-friendly collecting make it ideal for families and novice rockhounders. Kids ages 6 and up can participate safely on open terrain with proper supervision. The variety of colorful specimens keeps children engaged, and the relatively close proximity to Vernal allows for half-day or full-day family outings."
+    },
+    {
+      "question": "What tools and supplies do I need to bring for rockhounding at Dragon?",
+      "answer": "Bring a small hammer and chisel for extracting specimens, a hand lens for examining detail, sturdy hiking boots, a backpack, and plenty of water (at least 2-3 liters in warm seasons). Sun protection including hat and sunscreen is essential due to full sun exposure and high altitude. A GPS device or smartphone is helpful for navigation in this remote area. Wear gloves to protect against sharp materials."
+    }
+  ],
+  "meta_title": "Dragon Rockhounding - Free Agate & Jasper in Utah",
+  "meta_description": "Find agate, jasper, and quartz at Dragon BLM land near Vernal, Utah. Free rockhounding, no permit, 25 lb daily limit. Beginner-friendly high desert site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "terrain_notes",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:53:49.787Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:02:56.939Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "hyatt-creek-nc",
+  "name": "Hyatt Creek",
+  "lat": 35.196501,
+  "lng": -83.936124,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Cherokee County",
+  "city_slug": "cherokee-county",
+  "county": "Cherokee",
+  "county_slug": "cherokee",
+  "geocoded_city": "Cherokee County Community",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hyatt%20Creek%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hyatt%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hyatt%20Creek%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1969,
+      "meters": 600
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:37:17.529Z"
+  },
+  "scraped_at": "2026-04-21T19:37:17.529Z",
+  "scrape_quality": "minimal"
+}

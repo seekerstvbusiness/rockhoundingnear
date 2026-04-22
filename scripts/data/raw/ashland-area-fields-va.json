@@ -1,0 +1,60 @@
+{
+  "slug": "ashland-area-fields-va",
+  "name": "Ashland area fields",
+  "lat": 37.755745,
+  "lng": -77.453598,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Ashland",
+  "city_slug": "ashland",
+  "county": "Hanover",
+  "county_slug": "hanover",
+  "geocoded_city": "Ashland",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ashland%20area%20fields%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ashland%20area%20fields",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ashland%20area%20fields%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 176,
+      "meters": 54
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:12:02.908Z"
+  },
+  "scraped_at": "2026-04-21T19:12:02.908Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "stokes-mine-near-gabbs-nv",
+  "name": "Stokes Mine near Gabbs",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Gabbs",
+  "city_slug": "gabbs",
+  "county": "Nye",
+  "county_slug": "nye",
+  "lat": 38.888845,
+  "lng": -117.830323,
+  "gem_types": [
+    "Garnet",
+    "Tourmaline",
+    "Feldspar",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding site near Gabbs featuring garnet, tourmaline, and feldspar specimens. High desert location ideal for collectors seeking pegmatite minerals.",
+  "description": "Stokes Mine is a public BLM rockhounding area located in the high desert of Nye County, Nevada, near the small town of Gabbs. This site sits at 6,013 feet elevation on gently to moderately sloping terrain typical of Nevada's central mining district. The area is known for collecting garnet, tourmaline, feldspar, and quartz specimens associated with the pegmatite dikes that cut through the metamorphic and granitic bedrock of this region.\n\nThe site attracts collectors of all skill levels due to its accessible public land status and the abundance of mineral specimens visible along exposed outcrops and wash areas. Rockhounders can find garnet in varying colors and tourmaline crystals, along with well-formed feldspar and quartz crystals. The moderate slope and scattered vegetation provide manageable hiking conditions, though the high elevation and exposed terrain mean afternoon thunderstorms are possible during wet season months.\n\nBecause this is BLM land, personal use collection is free and requires no permit. However, collectors must adhere to the 25-pound daily limit per FLPMA regulations and cannot use motorized equipment for excavation. The remote location means you should come fully prepared with water, tools, and supplies, as services in Gabbs are limited.\n\nThe geology here reflects Nevada's rich mineralogical heritage - pegmatite intrusions during the Mesozoic era created the conditions for tourmaline and feldspar crystallization. The surrounding metamorphic rocks have been subjected to hydrothermal activity that concentrated garnet and other collector minerals in accessible locations.",
+  "history": "The Stokes Mine area lies within Nevada's central mining district, where pegmatite dikes formed during Mesozoic granitic intrusions. These pegmatite bodies crystallized from silica-rich fluids and host excellent specimens of garnet, tourmaline, and feldspar that formed under specific pressure and temperature conditions favorable to large crystal growth.",
+  "tips": "Search along exposed outcrop faces and in the wash bottoms where weathering has exposed fresh garnet and tourmaline crystals. Garnet here tends to appear as reddish to brownish cubic or dodecahedral crystals, often 1-3 cm in size. Bring a small geology hammer, chisel, and brush to carefully extract specimens from pegmatite matrix without damage. Look for tourmaline in long prismatic black crystals often found alongside feldspar feldspars (white to pink) and clear to smoky quartz.",
+  "terrain_notes": "Elevation 6,013 feet with moderate slope across high desert terrain. Sparse sagebrush and juniper scattered across the site. Uneven rocky footing with exposed granite and pegmatite outcrops. Parking area is a rough dirt pullout approximately 0.3 miles from prime collecting areas. Walking distances from parking to best collecting zones range from 200 yards to 0.5 miles depending on chosen collecting area.",
+  "best_season": "October - April. High elevation winter temperatures can be cold, but daytime conditions are often pleasant. Late spring through early fall can bring sudden afternoon thunderstorms common to Nevada's high desert. Winter snow is possible but uncommon at this elevation.",
+  "written_directions": "From Gabbs, take US 95 south for approximately 8 miles. Turn east onto the rough dirt road toward the Stokes Mine area (road may not be clearly marked). Drive carefully for 3-4 miles on this unimproved road, watching for mining-related marker signs. Park in the obvious dirt pullout area. The GPS coordinates 38.888845, -117.830323 mark the main collecting area. High-clearance or 4x4 vehicles are recommended, especially after rain.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough unimproved dirt road requiring high-clearance vehicle. Surface is washboard and rocky with possible soft spots after rain. Not suitable for standard passenger vehicles.",
+  "parking_notes": "Small dirt pullout area near the main site. Limited space for 3-4 vehicles. No facilities or amenities. Pullout is unsigned and may be difficult to locate without GPS.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation equipment permitted. All collecting must be done by hand tools only. Pack out all waste and do not disturb areas beyond your collecting zone.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 pounds per day per FLPMA\nNo commercial collecting\nNo motorized excavation equipment\nHand tools only (hammer, chisel, pick)\nPack out all waste\nStay on designated paths",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote",
+    "cold"
+  ],
+  "nearest_services": "Gabbs, Nevada is approximately 12 miles away and offers gas, limited food options, and water. This is a very small town with minimal services. Stock supplies in larger towns before traveling to the site.",
+  "accessibility_notes": "Uneven rocky terrain with exposed boulders and rough ground. No wheelchair access to collecting areas. Sturdy hiking boots strongly recommended due to uneven footing and sharp rock fragments. Moderate physical fitness needed for walking 0.5+ miles on uneven ground at 6,000+ foot elevation. The moderate slope can be steep in places.",
+  "alternative_names": [],
+  "nearest_city": "Gabbs",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/stokes-mine-near-gabbs-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Stokes Mine near Gabbs?",
+      "answer": "Stokes Mine is known for garnet, tourmaline, feldspar, and quartz specimens. The garnet here appears in reddish-brown cubic crystals typically 1-3 cm in size, often found in pegmatite matrix. Black tourmaline prisms and pink to white feldspar are also common finds along exposed outcrops and wash areas."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Stokes Mine?",
+      "answer": "No permit is required. Stokes Mine is on BLM public land where personal use collection is free. However, you must follow Nevada BLM regulations: maximum 25 pounds per day, no commercial use, and hand tools only. No motorized excavation equipment is permitted."
+    },
+    {
+      "question": "How do I get to Stokes Mine rockhounding site in Nevada?",
+      "answer": "From Gabbs, take US 95 south for about 8 miles, then turn east onto a rough dirt road toward the Stokes Mine area for 3-4 miles. A high-clearance or 4x4 vehicle is recommended due to the unimproved road surface. Use GPS coordinates 38.888845, -117.830323 to locate the site. The road is not clearly marked, so pay careful attention to terrain features."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Stokes Mine?",
+      "answer": "October through April is ideal. High elevation winter temperatures can be cold, but daytime conditions are pleasant. Late spring through early fall can bring sudden afternoon thunderstorms common to Nevada's high desert. Winter snow is rare at this 6,000-foot elevation but possible."
+    },
+    {
+      "question": "What tools and supplies do I need to collect at Stokes Mine?",
+      "answer": "Bring a geology hammer, chisel, and small pick for hand extraction. Also pack a brush for specimen cleaning, safety glasses, sturdy hiking boots, plenty of water (at least 2 gallons), hat, sunscreen, and a collection bag. Tools must be hand-operated only - motorized equipment is prohibited. GPS device is recommended since the site is remote with spotty cell service."
+    },
+    {
+      "question": "Is Stokes Mine a good beginner rockhounding location?",
+      "answer": "Yes, Stokes Mine is suitable for beginners due to its public access, free collection, and abundant exposed mineral specimens. However, be prepared for the remote location, rough road access requiring high-clearance vehicles, and moderate hiking on uneven terrain at 6,000+ feet elevation. Bring plenty of water and supplies, and start early in the day."
+    }
+  ],
+  "meta_title": "Stokes Mine Rockhounding - Nevada Garnet & Tourmaline",
+  "meta_description": "Free BLM rockhounding near Gabbs, NV. Collect garnet, tourmaline, feldspar & quartz. No permit needed. High desert site open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "road_conditions",
+    "written_directions",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T09:50:24.915Z",
+  "scrape_quality": "rich",
+  "images_processed_at": "2026-04-22T09:52:02.283Z"
+}

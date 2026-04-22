@@ -1,0 +1,99 @@
+{
+  "slug": "setters-id",
+  "name": "Setters",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Coeur d'Alene",
+  "city_slug": "coeur-d-alene",
+  "county": "Kootenai",
+  "county_slug": "kootenai",
+  "lat": 47.468054,
+  "lng": -116.988263,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate"
+  ],
+  "short_description": "BLM rockhounding site in northern Idaho offering free access to collect Quartz, Chalcedony, and Agate specimens. No permits required - perfect for casual collectors exploring the Kootenai region.",
+  "description": "Setters is a public BLM rockhounding location in Kootenai County, Idaho, offering free recreational collecting opportunities in the scenic Pacific Northwest. The site sits at 2348 feet elevation with moderate slopes, making it accessible to rockhounders of varying skill levels. This area is part of the Idaho panhandle's rich geological landscape shaped by ancient volcanic and hydrothermal processes.\n\nThe region's geological history includes significant quartz and chalcedony deposition from Precambrian through Tertiary mineral-forming events. Collectors here typically find well-formed Quartz specimens, Chalcedony nodules, and occasional Agate pieces weathered from surrounding rock formations. The moderate terrain and accessible elevation make this a practical destination for both day trips and weekend collecting adventures.\n\nAs BLM public land, Setters operates under standard federal recreational use regulations. The 25-pound daily collection limit ensures sustainable harvesting while allowing meaningful specimen gathering. The moderate slope terrain requires basic hiking ability but does not demand specialized climbing gear or extensive backcountry navigation.\n\nVegetation in the area includes mixed conifer forest typical of the Idaho panhandle, providing some shade during summer months. The site benefits from good seasonal accessibility during dry months, though winter conditions can limit road access. Local rockhounding clubs occasionally report productive collecting windows in late spring through early fall.",
+  "history": "The Setters area lies within the northern Rocky Mountain province, shaped by Precambrian metamorphic basement rocks and overlain by Paleozoic sedimentary sequences. Tertiary hydrothermal activity and weathering processes concentrated silica-rich minerals, creating the Quartz and Chalcedony deposits collectors find today. Historic mining activity in the greater Kootenai County region during the late 1800s and early 1900s documented similar quartz deposits, establishing this geology as a reliable source for quality specimens.",
+  "tips": "Search the moderate slopes and eroded hillsides where weathered quartz and chalcedony nodules naturally weather out of host rock - these areas offer the easiest specimen recovery. Bring a small pry bar or cold chisel to carefully extract specimens from surrounding matrix, and wear heavy work gloves as quartz edges are sharp. Look for translucent to milky white Quartz crystals and banded Chalcedony with subtle color variation - specimens typically range from thumbnail to fist size. Early morning or late afternoon visits reduce competition and allow better visual scanning of sun-exposed slopes.",
+  "terrain_notes": "Setters sits at 2348 feet elevation with moderate slopes covered in mixed conifer forest. Terrain is rocky and uneven with scattered loose material; sturdy boots with good ankle support are essential. Walking distance from parking area to productive collecting zones ranges from 0.25 to 0.75 miles depending on site access point. Footing is generally solid but requires careful step placement on steeper sections; slopes drain adequately except during heavy rain.",
+  "best_season": "May - September. Late spring through early fall offers dry terrain, reliable road access, and comfortable collecting conditions. Winter snows and spring runoff can make the moderate slopes slippery and may temporarily close access roads. Peak season typically June through August when weather is most stable.",
+  "written_directions": "From Coeur d'Alene, take US 95 north approximately 8 miles toward Sandpoint. Watch for BLM land markers and access roads in the Kootenai area. Turn east onto Forest Road access points signed for public lands near the 2348-foot elevation zone. The final approach typically requires passenger-vehicle roads; verify current access conditions with the Coeur d'Alene BLM Field Office before visiting. GPS coordinates 47.468054, -116.988263 mark the general collecting area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved forest road with moderate washboard surface. Passenger vehicles can access main parking areas during dry season. High clearance (AWD) recommended for off-season visits.",
+  "parking_notes": "Informal pullout areas near BLM land boundaries. No developed parking facility; park clear of travel ways. Space for approximately 4-6 vehicles at main access points.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No powered equipment. Hand tools only. Collectors must pack out all waste and restore disturbed ground.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo powered equipment\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "sharp_material",
+    "wildlife",
+    "cold"
+  ],
+  "nearest_services": "Coeur d'Alene, approximately 8 miles south. Full services including gas, food, lodging, and gear shops.",
+  "accessibility_notes": "Moderate slope terrain with uneven, rocky footing. No wheelchair access. Sturdy boots with ankle support required. Trails to productive areas range 0.25 to 0.75 miles. Generally suitable for hikers with basic fitness level. Not recommended for those with limited mobility or balance issues.",
+  "alternative_names": [],
+  "nearest_city": "Coeur d'Alene",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/setters-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/setters-id/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/setters-id/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What can you find rockhounding at Setters, Idaho?",
+      "answer": "Setters BLM land produces quality Quartz, Chalcedony, and occasional Agate specimens. Collectors typically find milky white to translucent Quartz crystals and banded Chalcedony nodules ranging from thumbnail to fist size, weathered from surrounding host rock on the moderate slopes."
+    },
+    {
+      "question": "Is there a permit required for rockhounding at Setters on BLM land?",
+      "answer": "No permit is required for recreational collecting at Setters. Idaho BLM public land allows free personal-use rockhounding under FLPMA regulations. You only need to follow the 25-pound daily limit and use hand tools only."
+    },
+    {
+      "question": "What is the best season for rockhounding near Coeur d'Alene at Setters?",
+      "answer": "May through September offers the best collecting conditions, with June through August being peak season. Winter snow and spring runoff make access difficult. Dry terrain and stable weather during late spring through early fall maximize productivity and safety."
+    },
+    {
+      "question": "How far is Setters rockhounding site from Coeur d'Alene?",
+      "answer": "Setters is approximately 8 miles north of Coeur d'Alene, Idaho. From town, take US 95 north toward Sandpoint and watch for BLM access roads in the Kootenai area. GPS coordinates 47.468054, -116.988263 mark the collecting zone."
+    },
+    {
+      "question": "Is Setters rockhounding site suitable for beginners and families?",
+      "answer": "Yes, Setters is beginner and family-friendly. The easy difficulty rating, moderate slopes, and accessible terrain make it suitable for children ages 8 and up. No special skills or equipment needed - just hand tools, sturdy boots, and the 25-pound daily limit to remember."
+    },
+    {
+      "question": "What tools do I need to collect Quartz and Chalcedony at Setters, Idaho?",
+      "answer": "Bring a small pry bar or cold chisel to extract specimens from surrounding matrix, heavy work gloves to protect from sharp quartz edges, and a backpack or collecting bag to carry specimens within the 25-pound daily limit. A hand pick and magnifying loupe are helpful for examining and selecting quality pieces."
+    }
+  ],
+  "meta_title": "Setters Rockhounding - Idaho BLM Free Collecting",
+  "meta_description": "Free rockhounding at Setters BLM land near Coeur d'Alene. Find Quartz, Chalcedony, and Agate. No permits required, 25 lbs daily limit. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:43:02.125Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:19.128Z"
+}

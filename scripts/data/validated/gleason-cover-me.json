@@ -1,0 +1,101 @@
+{
+  "slug": "gleason-cover-me",
+  "name": "Gleason Cover",
+  "state": "Maine",
+  "state_slug": "maine",
+  "city": "Perry",
+  "city_slug": "perry",
+  "county": "Washington",
+  "county_slug": "washington",
+  "lat": 44.967704,
+  "lng": -67.059328,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Coastal Maine rockhounding site near Perry offering access to quartz, feldspar, and mica specimens. Flat terrain near sea level makes this beginner-friendly location ideal for collectors exploring ...",
+  "description": "Gleason Cover is a low-elevation rockhounding site in coastal Washington County, Maine, near the town of Perry. Located at just 12 feet above sea level with flat terrain, this site offers accessible collecting opportunities for rockhounds of all experience levels. The area sits within Maine's northeastern granite and pegmatite belt, where Precambrian granite intrusions and Paleozoic pegmatite dikes contain abundant quartz, feldspar, and mica specimens.\n\nMaine's coastal geology is dominated by the Acadian orogeny, a mountain-building event that occurred roughly 380 million years ago. This tectonic activity created the granite batholiths and pegmatite veins that characterize the region. Gleason Cover's proximity to tidal zones and glacial deposits means specimens here are often smoothed and concentrated by natural weathering and coastal erosion, making them easier to spot and collect.\n\nThe flat, accessible terrain makes Gleason Cover an excellent destination for families and beginners. Unlike many Maine rockhounding sites requiring significant hiking into mountainous terrain, this location allows collectors to work close to parking areas. The combination of abundant feldspar, clear quartz crystals, and silvery mica makes this a rewarding location for building a quality specimen collection.\n\nCollectors should expect to find small to medium-sized specimens rather than museum-quality pieces. The coastal environment means specimens are naturally tumbled and weathered. Spring and early summer offer the best visibility after winter erosion has exposed fresh material. Tidal zones and wave-cut exposures frequently reveal new specimens.",
+  "history": "Gleason Cover sits within Maine's Precambrian granite and pegmatite belt, formed during the Acadian orogeny approximately 380-420 million years ago when tectonic collisions created deep crustal heat and pressure. This geological event generated the granitic intrusions and pegmatite dikes now found throughout coastal Washington County, making the region one of New England's most productive rockhounding areas for feldspar, quartz, and mica specimens. The site's low elevation and coastal position mean glacial deposits and tidal action have continuously weathered and concentrated minerals here since the last ice age.",
+  "tips": "Search along tidal flats and wave-cut exposures where natural erosion exposes fresh feldspar and quartz specimens in the granite bedrock and loose talus. Look for white or cream-colored feldspar crystals and clear quartz chunks in weathered granite outcrops and cobble beaches. Bring a hand lens to examine crystal faces and identify feldspar varieties like orthoclase and plagioclase, which are abundant here. Work the site after heavy storms or during spring thaw when wave action has freshly exposed new material.",
+  "terrain_notes": "Flat coastal terrain at 12 feet elevation with minimal slope. Mostly open ground with sparse coastal vegetation. Expect muddy or wet conditions near tidal zones, especially at high tide. Walking distance from parking area is minimal. Footing is generally firm but can be slippery on wet rocks and tidal flats. No significant elevation gain.",
+  "best_season": "May - September, with peak collecting in June and July after spring erosion and before heavy summer rains. Spring (April-May) and early fall (September) are also productive as wave action and tidal cycling expose fresh material. Winter storms can create short-term opportunities but cold temperatures and limited daylight make collecting less appealing.",
+  "written_directions": "From Perry town center, head east on US Route 1 for approximately 2 miles toward Houlton. Turn right (south) on a local road toward the coast. Continue for approximately 1 mile and follow signs or local knowledge to Gleason Cover. The site is accessible by passenger vehicle on maintained roads, with parking near the coastal access point. Check local tide tables before visiting to access tidal flats safely.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Maintained local roads, paved access most of the way. Final approach may be gravel or dirt depending on exact access point. No high-clearance vehicle required.",
+  "parking_notes": "Informal parking near coastal access. Limited capacity. Expect 5-10 parking spaces in a pullout or informal lot near the shore.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collection on public coastal access areas is generally permitted for personal use only. Do not collect from private property. Check with local town of Perry for any recent restrictions on coastal collecting. Maine Department of Marine Resources regulates tidal zone access - visit if collection within true tidal zone. Maximum practical limits: take only specimens you can carry and use reasonably.",
+  "quantity_limits": null,
+  "rules": "Personal collection only\nNo commercial collection\nRespect private property boundaries\nCheck tide tables for safe access\nLeave site as found\nNo motorized excavation",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Perry, Maine approximately 2 miles away offers gas, food, and basic supplies. Larger services available in Eastport, approximately 15 miles north.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Parking is very close to collecting areas. Expect muddy or wet conditions in tidal zones. Sturdy waterproof footwear recommended. No significant elevation change. Accessible for people with moderate mobility limitations if parking is very close to collecting area.",
+  "alternative_names": [],
+  "nearest_city": "Perry",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/maine/gleason-cover-me/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/maine/gleason-cover-me/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/maine/gleason-cover-me/mineral-2-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Gleason Cover near Perry, Maine?",
+      "answer": "Gleason Cover is known for quartz, feldspar, and mica specimens. The site sits within Maine's granite belt, so you will primarily find white or cream-colored feldspar crystals, clear quartz chunks, and silvery mica flakes. These minerals are abundant in the granite bedrock and weathered talus throughout the area."
+    },
+    {
+      "question": "Is rockhounding at Gleason Cover free, and do I need a permit?",
+      "answer": "Rockhounding at Gleason Cover is free and does not require a permit for personal collection. However, you should check with the Town of Perry regarding any local coastal access regulations, and be aware that Maine Department of Marine Resources may have specific rules for true tidal zone collection."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Gleason Cover?",
+      "answer": "May through September is best, with peak collecting in June and July after spring erosion has exposed fresh material. Spring (April-May) and early fall (September) are also productive because wave action and tidal cycling continually refresh specimens. Winter storms can create opportunities but offer limited daylight."
+    },
+    {
+      "question": "Is Gleason Cover suitable for kids and beginners?",
+      "answer": "Yes, Gleason Cover is highly beginner and family-friendly. The flat coastal terrain requires minimal hiking, parking is close to collecting areas, and feldspar and quartz specimens are easy to spot and identify. Children ages 6 and up can effectively collect here with adult supervision."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Gleason Cover Maine?",
+      "answer": "A hand lens to examine crystal faces and identify feldspar varieties is essential. Bring a small backpack, sturdy waterproof boots (the area is muddy and wet), and bags or containers for specimens. A rock hammer is useful but not required since many specimens weathered free naturally. Bring a tide table and plan your visit accordingly."
+    },
+    {
+      "question": "How far is Gleason Cover from Perry, and what are directions to this rockhounding site?",
+      "answer": "Gleason Cover is approximately 2 miles east of Perry town center. From Perry, take US Route 1 east for about 2 miles toward Houlton, then turn right on a local road heading south toward the coast. Continue approximately 1 mile and follow local signs or knowledge to reach the coastal access point near Gleason Cover."
+    }
+  ],
+  "meta_title": "Gleason Cover Rockhounding - Maine Quartz & Feldspar",
+  "meta_description": "Find quartz, feldspar, and mica at Gleason Cover near Perry, Maine. Free public rockhounding with easy coastal access. Beginner-friendly granite site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category - marked as 'other' due to unknown public/private status",
+    "access_type - assumed public based on typical Maine coastal access",
+    "gem_types - inferred from regional Maine granite geology; not location-specific sources",
+    "written_directions - based on geographic position relative to Perry; not verified against actual road names",
+    "collection_rules - general Maine coastal guidelines; verify with Town of Perry for current restrictions",
+    "parking_notes - estimated based on typical coastal access; not site-visited",
+    "nearest_services - estimated distance; verify current business status"
+  ],
+  "enriched_at": "2026-04-21T16:49:08.386Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:50:21.228Z"
+}

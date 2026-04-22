@@ -1,0 +1,60 @@
+{
+  "slug": "alderson-wv",
+  "name": "Alderson",
+  "lat": 37.795653,
+  "lng": -80.62123,
+  "state": "West Virginia",
+  "state_slug": "west-virginia",
+  "state_code": "WV",
+  "city": "Greenbrier County",
+  "city_slug": "greenbrier-county",
+  "county": "Greenbrier",
+  "county_slug": "greenbrier",
+  "geocoded_city": "Greenbrier County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-west-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Alderson%20West%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Alderson",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Alderson%20West%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1682,
+      "meters": 513
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:27:40.108Z"
+  },
+  "scraped_at": "2026-04-21T17:27:40.108Z",
+  "scrape_quality": "minimal"
+}

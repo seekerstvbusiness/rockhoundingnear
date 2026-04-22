@@ -1,0 +1,60 @@
+{
+  "slug": "salt-creek-in",
+  "name": "Salt Creek",
+  "lat": 38.958459,
+  "lng": -86.394688,
+  "state": "Indiana",
+  "state_slug": "indiana",
+  "state_code": "IN",
+  "city": "Lawrence County",
+  "city_slug": "lawrence-county",
+  "county": "Lawrence",
+  "county_slug": "lawrence",
+  "geocoded_city": "Lawrence County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-indiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Salt%20Creek%20Indiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Salt%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Salt%20Creek%20Indiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 529,
+      "meters": 161
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:56:46.113Z"
+  },
+  "scraped_at": "2026-04-21T16:56:46.113Z",
+  "scrape_quality": "minimal"
+}

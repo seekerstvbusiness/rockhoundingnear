@@ -1,0 +1,60 @@
+{
+  "slug": "west-mount-ar",
+  "name": "West Mount",
+  "lat": 34.502605,
+  "lng": -93.091804,
+  "state": "Arkansas",
+  "state_slug": "arkansas",
+  "state_code": "AR",
+  "city": "Garland County",
+  "city_slug": "garland-county",
+  "county": "Garland",
+  "county_slug": "garland",
+  "geocoded_city": "Hot Springs",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-arkansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=West%20Mount%20Arkansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=West%20Mount",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=West%20Mount%20Arkansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1056,
+      "meters": 322
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:14:39.919Z"
+  },
+  "scraped_at": "2026-04-21T17:14:39.919Z",
+  "scrape_quality": "minimal"
+}

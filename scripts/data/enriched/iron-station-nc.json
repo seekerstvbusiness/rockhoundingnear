@@ -1,0 +1,97 @@
+{
+  "slug": "iron-station-nc",
+  "name": "Iron Station",
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "city": "Lincolnton",
+  "city_slug": "lincolnton",
+  "county": "Lincoln",
+  "county_slug": "lincoln",
+  "lat": 35.469142,
+  "lng": -81.117758,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Historic rockhounding area in the Piedmont region of North Carolina known for quartz crystals, feldspar specimens, and mica. Access and specific collecting rules vary by location within Iron Station.",
+  "description": "Iron Station is a rural community in Lincoln County, North Carolina, situated within the Piedmont physiographic province - a region rich in feldspathic rocks and pegmatite formations. The area has a long history of mineral prospecting and small-scale mining activity dating back to the 19th century. Rockhounders visiting Iron Station can expect to encounter quartz veins, feldspar crystals, and mica deposits typical of Piedmont geology.\n\nThe local geology reflects the Neoproterozoic to early Paleozoic metamorphic rocks that dominate this part of North Carolina. During the Alleghanian orogeny, these rocks were subjected to intense heat and pressure, creating conditions favorable for pegmatite formation - the primary source of collectible quartz, feldspar, and mica specimens. The Iron Station area specifically benefited from hydrothermal activity along fault zones, concentrating these minerals into accessible deposits.\n\nTerrain in and around Iron Station is gently rolling Piedmont landscape with mixed hardwood forests, small streams, and agricultural areas. Elevation ranges from approximately 750 to 900 feet. Many productive collecting areas are on private property or require permission from landowners. Before visiting, rockhounders should contact local property owners or check with Lincoln County authorities about access and collection opportunities.\n\nThe best collecting occurs in areas with exposed bedrock, weathered outcrops, and stream beds where minerals concentrate naturally. Quartz is the most abundant find, ranging from clear to milky specimens. Feldspar occurs in white, pink, and salmon colors, while mica flakes and sheets are common in pegmatitic layers. Expect to spend several hours of walking and careful examination to find quality specimens.\n\nThis location appeals to intermediate rockhounders comfortable with private land negotiation and those interested in Piedmont mineral formations. The area remains relatively undeveloped, offering genuine rockhounding experiences without commercial fee-dig infrastructure.",
+  "history": "Iron Station lies within the Piedmont province's metamorphic rock belt, where Alleghanian mountain-building (approximately 300 million years ago) created pegmatite bodies and quartz veins rich in feldspar and mica. The area saw prospecting and small-scale feldspar mining activity in the 1800s and early 1900s, as these minerals were valued for ceramics and other industrial uses.",
+  "tips": "Search along exposed roadcuts, stream beds, and weathered hillsides where pegmatitic rock is visible - quartz veins often cross these areas prominently. Bring a light hammer and cold chisel to carefully extract specimens from feldspar-rich zones without damaging crystal faces. Look for pink and white feldspar crystals embedded in quartz-rich matrix, and peel mica sheets from decomposed pegmatite. Always obtain permission before collecting on private land, and fill any holes you dig to minimize erosion and safety hazards.",
+  "terrain_notes": "Gently rolling Piedmont terrain at 750-900 feet elevation. Mixed oak and pine forests with understory vegetation. Walking distances from parking typically 0.5 to 2 miles. Terrain is moderately steep in areas, with uneven footing common due to roots, rocks, and leaf litter. Stream beds offer easier walking but can be wet seasonally. Road surfaces are paved and gravel; 4-wheel drive not typically required but high-clearance vehicles helpful for accessing remote collecting sites.",
+  "best_season": "April - October. Late spring through early fall offers dry conditions ideal for stream bed exploration and accessing hillside outcrops. Avoid winter months when wet ground makes hiking slippery and stream levels rise with runoff. Early spring can be wet but blooming wildflowers add appeal.",
+  "written_directions": "From Lincolnton, take NC 27 north approximately 3 miles toward Iron Station community. Look for local roads branching east and west into the rural area. The GPS coordinates (35.469142, -81.117758) mark the Iron Station crossroads area. Specific collecting locations vary widely across private and accessible land throughout the community. Contact local property owners or visit during community events for current access information. No direct public rockhounding facility exists; most productive areas require permission.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved and gravel roads. NC 27 is well-maintained. Local roads accessing Iron Station community vary from paved to gravel. Standard passenger vehicles adequate; some remote access roads may benefit from high clearance.",
+  "parking_notes": "No designated public parking area. Park along roadsides or request permission from property owners. Pullouts exist along NC 27 and local roads, but spaces are limited and informal.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Most productive areas in Iron Station are on private land. Rockhounders must obtain permission from property owners before collecting. Collection limits follow North Carolina regulations: personal use only, no commercial operation. Some areas may allow collection of small specimens for personal collections; specific rules depend on individual landowner agreements. Respect posted property signs and fencing. Leave gates as you find them. Fill any holes dug for specimen extraction.",
+  "quantity_limits": null,
+  "rules": "Obtain landowner permission before collecting\nPersonal use only - no commercial collection\nFill holes after collecting to prevent erosion and hazards\nRespect all posted signs and property boundaries\nLeave gates as you find them\nBe prepared to leave if asked by property owner",
+  "beginner_friendly": false,
+  "family_friendly": null,
+  "dog_friendly": false,
+  "kid_age_range": "12+",
+  "hazards": [
+    "snakes",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Lincolnton, approximately 3 miles southwest. Full services including gas, restaurants, grocery stores, and water sources available in town.",
+  "accessibility_notes": "Moderate terrain with uneven footing common due to tree roots, rocks, and loose leaf litter. Hillside access requires moderate climbing ability. Stream beds offer somewhat easier walking but can be slippery when wet. Not wheelchair accessible. Sturdy hiking boots essential. Some areas may involve scrambling over small rocky outcrops. Trails are not maintained; route-finding required.",
+  "alternative_names": [],
+  "nearest_city": "Lincolnton",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/iron-station-nc/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find rockhounding near Iron Station, North Carolina?",
+      "answer": "The Iron Station area in Lincoln County is known for quartz crystals (clear and milky varieties), feldspar in pink and white colors, and mica sheets. These minerals occur in pegmatite formations and quartz veins typical of the Piedmont region. Stream beds often concentrate quartz pebbles and smaller specimens, while hillside outcrops yield larger pegmatitic deposits with better crystal definition."
+    },
+    {
+      "question": "Is rockhounding at Iron Station, NC free or a fee-dig site?",
+      "answer": "Iron Station is not a commercial fee-dig operation. Most productive rockhounding areas are on private land requiring permission from property owners. There are no public collection areas with established fees or facilities. Rockhounders must contact local residents or property owners to arrange access. No organization currently manages a dedicated public rockhounding area at Iron Station."
+    },
+    {
+      "question": "Do I need a permit to collect rocks and minerals at Iron Station, Lincoln County?",
+      "answer": "No permit is required from North Carolina state authorities for personal rockhounding. However, because most productive areas are on private property, you must obtain permission directly from the landowner before collecting. Trespassing without permission is illegal. Contact neighbors or the Iron Station community center for information about properties open to rockhounding."
+    },
+    {
+      "question": "What is the best season to go rockhounding in Iron Station, North Carolina?",
+      "answer": "April through October offers the best conditions for rockhounding at Iron Station. Spring and early fall provide dry ground and accessible stream beds ideal for finding quartz and feldspar specimens. Winter months bring wet conditions making hillsides slippery and stream levels too high for safe exploration. Summer heat is moderate at this Piedmont elevation, though afternoon thunderstorms can occur."
+    },
+    {
+      "question": "What tools and equipment should I bring for rockhounding near Lincolnton, NC?",
+      "answer": "Bring a rock hammer, chisel, and cold chisel for carefully extracting feldspar and quartz specimens from pegmatite. A sturdy backpack, water bottle, and first aid kit are essential for multi-hour field work. Wear long sleeves and pants for snake and vegetation protection. Sturdy hiking boots with good ankle support handle uneven Piedmont terrain. Consider a GPS unit or smartphone with offline maps, as cell service is spotty in rural Iron Station."
+    },
+    {
+      "question": "Is Iron Station, NC good for beginner rockhounders, or is experience required?",
+      "answer": "Iron Station is better suited for intermediate rockhounders comfortable with private land access negotiation and identifying Piedmont pegmatite formations. Unlike fee digs, there is no on-site guidance or prepared dig areas. Beginners should first visit established North Carolina fee-dig sites to learn specimen identification and collection techniques, then approach Iron Station rockhounding with knowledge of quartz, feldspar, and mica characteristics. Local rockhounding clubs may organize group visits with access already arranged."
+    }
+  ],
+  "meta_title": "Iron Station Rockhounding - North Carolina",
+  "meta_description": "Hunt quartz, feldspar, and mica near Iron Station, NC. Private land rockhounding in the Piedmont region. Learn access tips and best collecting seasons.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category (private land status inferred)",
+    "access_type (private land inferred)",
+    "parking_notes (no public facility confirmed)",
+    "collection_rules (based on NC general regulations and typical private land practice)",
+    "dog_friendly (set false due to private land access uncertainty)",
+    "family_friendly (set null due to access variability)"
+  ],
+  "enriched_at": "2026-04-22T06:48:06.062Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T06:52:45.259Z"
+}

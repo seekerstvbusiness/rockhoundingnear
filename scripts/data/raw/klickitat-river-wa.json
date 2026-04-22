@@ -1,0 +1,69 @@
+{
+  "slug": "klickitat-river-wa",
+  "name": "Klickitat River",
+  "lat": 45.753198,
+  "lng": -121.208526,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Klickitat County",
+  "city_slug": "klickitat-county",
+  "county": "Klickitat",
+  "county_slug": "klickitat",
+  "geocoded_city": "Pitt",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Klickitat%20River%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Klickitat%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Klickitat%20River%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 294,
+      "meters": 90
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": [
+      {
+        "name": "Dillacort Creek (CLT)",
+        "type": "protected_area"
+      },
+      {
+        "name": "Dillacort Ridge (CLT)",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-21T19:04:59.721Z"
+  },
+  "scraped_at": "2026-04-21T19:04:59.721Z",
+  "scrape_quality": "minimal"
+}

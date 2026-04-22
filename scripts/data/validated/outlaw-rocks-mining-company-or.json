@@ -1,0 +1,99 @@
+{
+  "slug": "outlaw-rocks-mining-company-or",
+  "name": "Outlaw Rocks Mining Company",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Klamath Falls",
+  "city_slug": "klamath-falls",
+  "county": "Klamath",
+  "county_slug": "klamath",
+  "lat": 42.25326926,
+  "lng": -121.0197094,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Obsidian",
+    "Quartz"
+  ],
+  "short_description": "BLM public land rockhounding site in the high desert of south-central Oregon. Hunt for agate, jasper, and obsidian on gentle slopes at 5,773 feet elevation. Personal use collecting only, no permit ...",
+  "description": "Outlaw Rocks Mining Company sits on BLM public land in Klamath County's volcanic high desert, where late Miocene to Pliocene volcanic activity created abundant silica-rich deposits. The site occupies gentle terrain at nearly 5,800 feet elevation, making it accessible to rockhounds seeking agate, jasper, obsidian, and quartz specimens without the crowds of fee-dig operations.\n\nThe geology here reflects the vast volcanic fields that characterize south-central Oregon. Rhyolitic and andesitic lava flows, combined with hydrothermal alteration, produced the micro-crystalline quartz varieties and obsidian nodules scattered across the surface. The gentle slopes and sparse sagebrush vegetation typical of this elevation zone make walking and surface collecting manageable, though the high desert sun demands preparation.\n\nAs BLM land, this location operates under strict personal use guidelines. You may collect up to 25 pounds per day at no cost, making it an excellent option for rockhounds on a budget. The lack of infrastructure and commercial development means you'll have a quiet, natural collecting experience, though you must be entirely self-sufficient for water, first aid, and navigation.\n\nThe best collecting strategy here is to scan the gentle slopes and wash areas for surface specimens. Look for colorful agate nodules, banded jasper pieces, and the distinctive glossy black obsidian fragments that weather out of the volcanic matrix. Early morning collecting in spring and fall avoids the worst heat, while winter snow may make access difficult.\n\nThis location works well for families and beginners because the terrain is forgiving, no special skills are required, and the variety of gem types keeps collecting interesting. However, the remote location and lack of services mean you must plan ahead and bring all necessary water and supplies.",
+  "history": "This region sits within the High Lava Plains province of south-central Oregon, where approximately 20 to 5 million years of episodic volcanism deposited thick sequences of rhyolitic and andesitic lavas. These volcanic flows, along with silica-rich geothermal fluids, created the agate nodules, jasper deposits, and obsidian pockets that rockhounds pursue today. Local prospecting activity during Oregon's 19th-century mineral rushes established awareness of the abundant surface specimens found throughout this high desert landscape.",
+  "tips": "Search the gentle slopes and erosional washes where rain and frost action have weathered specimens loose from the surrounding volcanic matrix; specimens often accumulate in low spots and draw channels. Bring a 10x hand lens to identify the fine banding and color variations that distinguish quality agate and jasper from common chalcedony. Collect in early morning during spring and fall to avoid the intense midday sun at this high elevation, and focus on areas with darker volcanic soil where contrast makes spotting dark obsidian and colorful agate easier. Bring at least 2-3 gallons of water per person, as no services exist within 20+ miles and the dry climate causes rapid dehydration.",
+  "terrain_notes": "Elevation 5,773 feet in the high desert with gentle slopes and sagebrush-dominated vegetation. Terrain is open and relatively flat with scattered volcanic outcrops. Walking distance from parking to productive collecting areas is typically less than a mile on uneven but manageable ground. Footing is mostly solid volcanic rock and compacted soil, though loose lava fragments require watching your step. No formal trails; cross-country walking is the norm.",
+  "best_season": "April - June and September - October. Spring and fall offer moderate temperatures ideal for high-desert collecting. Summer temperatures exceed 85 degrees F regularly, and winter snow at this elevation can close dirt roads. Late spring wildflowers and cooler mornings make April-May particularly pleasant.",
+  "written_directions": "From Klamath Falls, take Oregon State Route 97 north approximately 15 miles toward Chemult. Turn east on Forest Road 9730 (or local BLM access road) and follow for roughly 8-10 miles on a maintained dirt road. Look for BLM boundary markers and pullout areas near the coordinates 42.25 N, 121.02 W. Parking is available at informal pullouts along the access road. High-clearance vehicle recommended after heavy rain, though passenger cars can usually access the site in dry conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Maintained dirt road, washboard surface after rain, no high-clearance requirement under normal conditions. Road may become impassable briefly during wet spring runoff or after winter snow melt.",
+  "parking_notes": "Informal pullouts along the access road near the site coordinates. No developed parking lot; plan to pull off the dirt road and park on level ground away from the traveled surface. Capacity is unlimited but expect to be alone or with only one or two other vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No use of heavy equipment. Surface collecting only. Pack out all trash. Respect BLM signs and boundary markers.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation or heavy equipment\nSurface collecting only\nPack out all trash\nRespect all BLM signage and boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Klamath Falls (population 21,000) is 20-25 miles south. Full services including gas, food, water, and lodging available. Chemult (small community) is roughly 15 miles north with limited services.",
+  "accessibility_notes": "Gentle slopes and open terrain make this site accessible to most rockhounders. Uneven volcanic ground and scattered rock fragments require sturdy footwear and basic mobility. No wheelchair access to collecting areas. Minimal elevation gain makes this suitable for people of moderate fitness. The remote location and lack of infrastructure require good self-sufficiency and advance planning for water and first aid.",
+  "alternative_names": [],
+  "nearest_city": "Klamath Falls",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/outlaw-rocks-mining-company-or/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/outlaw-rocks-mining-company-or/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Outlaw Rocks Mining Company in Oregon?",
+      "answer": "You can collect agate, jasper, obsidian, and quartz specimens on this BLM site. Agate is the most sought-after find, with colorful banding visible in broken pieces. Glossy black obsidian nodules and red to brown jasper fragments are also common surface discoveries. All specimens are weathered loose by frost and rain, making them relatively easy to spot once you develop an eye for them."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Outlaw Rocks Mining Company?",
+      "answer": "No permit is required for personal use collecting on this BLM public land. You can collect free of charge under the Federal Land Policy and Management Act (FLPMA), which allows up to 25 pounds per day per person. This makes it an excellent budget-friendly option compared to fee-dig sites."
+    },
+    {
+      "question": "How far is Outlaw Rocks Mining Company from Klamath Falls?",
+      "answer": "The site is approximately 22 miles north of Klamath Falls via Oregon State Route 97 and local BLM access roads. The drive takes about 45 minutes to an hour depending on road conditions. Klamath Falls has all services including gas, food, water, and lodging, making it a good base for a rockhounding trip to this location."
+    },
+    {
+      "question": "What is the best time of year to rockhound at this Oregon BLM site?",
+      "answer": "April through June and September through October are ideal. The high desert elevation (5,773 feet) means summer temperatures exceed 85 degrees F, and winter snow can close access roads. Spring and fall offer comfortable daytime temperatures and lower dehydration risk. Early morning collecting in these seasons avoids the most intense sun."
+    },
+    {
+      "question": "Is Outlaw Rocks Mining Company suitable for beginning rockhounders and families?",
+      "answer": "Yes, this is an excellent beginner site. The terrain is gentle and forgiving, no special skills or equipment are required, and the variety of gem types (agate, jasper, obsidian, quartz) keeps children and new rockhounders interested. The lack of crowds and free access make it family-friendly. Bring plenty of water and plan for 2-3 hours of collecting."
+    },
+    {
+      "question": "What should I bring when rockhounding at Outlaw Rocks Mining Company?",
+      "answer": "Essential items include 2-3 gallons of water per person, a 10x hand lens to identify agate banding and quality specimens, sturdy hiking boots for volcanic rock, sun protection (hat and sunscreen), and a backpack to carry your 25-pound daily limit. A GPS unit or offline map is helpful since cell service is spotty. Bring all trash back out, as this is remote BLM land with no services."
+    }
+  ],
+  "meta_title": "Outlaw Rocks Mining Company Rockhounding - Oregon",
+  "meta_description": "Free BLM rockhounding in Klamath County. Find agate, jasper, and obsidian. No permit, 25 lbs/day limit. Begin your adventure today.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from coordinates and terrain data; specific road names require local verification)",
+    "road_conditions (based on typical BLM road maintenance; confirm with local BLM office)",
+    "parking_notes (inferred from general BLM land practices; actual parking areas should be verified on site)",
+    "gem_types (agate and obsidian are well-documented for south-central Oregon; jasper and quartz inferred from local volcanic geology but not explicitly confirmed for this exact location)"
+  ],
+  "enriched_at": "2026-04-22T06:39:30.525Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:40:30.379Z"
+}

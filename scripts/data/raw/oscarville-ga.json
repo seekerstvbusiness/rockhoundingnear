@@ -1,0 +1,60 @@
+{
+  "slug": "oscarville-ga",
+  "name": "Oscarville",
+  "lat": 34.250048,
+  "lng": -83.974618,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Forsyth County",
+  "city_slug": "forsyth-county",
+  "county": "Forsyth",
+  "county_slug": "forsyth",
+  "geocoded_city": "Oscarville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Oscarville%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Oscarville",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Oscarville%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1178,
+      "meters": 359
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:03:05.710Z"
+  },
+  "scraped_at": "2026-04-21T19:03:05.711Z",
+  "scrape_quality": "minimal"
+}

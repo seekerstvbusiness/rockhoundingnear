@@ -1,0 +1,65 @@
+{
+  "slug": "brown-s-gulch-mt",
+  "name": "Brown’s Gulch",
+  "lat": 46.01445,
+  "lng": -112.684818,
+  "state": "Montana",
+  "state_slug": "montana",
+  "state_code": "MT",
+  "city": "Butte",
+  "city_slug": "butte",
+  "county": "Silver Bow",
+  "county_slug": "silver-bow",
+  "geocoded_city": "Butte",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-montana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Brown%E2%80%99s%20Gulch%20Montana"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Montana BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Brown%E2%80%99s%20Gulch",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Brown%E2%80%99s%20Gulch%20Montana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Montana BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 5325,
+      "meters": 1623
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:57:27.541Z"
+  },
+  "scraped_at": "2026-04-21T18:57:27.541Z",
+  "scrape_quality": "partial"
+}

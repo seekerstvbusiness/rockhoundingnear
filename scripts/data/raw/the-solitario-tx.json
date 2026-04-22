@@ -1,0 +1,60 @@
+{
+  "slug": "the-solitario-tx",
+  "name": "The Solitario",
+  "lat": 29.450818,
+  "lng": -103.809024,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Presidio County",
+  "city_slug": "presidio-county",
+  "county": "Presidio",
+  "county_slug": "presidio",
+  "geocoded_city": "Presidio County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=The%20Solitario%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=The%20Solitario",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=The%20Solitario%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4617,
+      "meters": 1407
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:35:14.560Z"
+  },
+  "scraped_at": "2026-04-21T18:35:14.561Z",
+  "scrape_quality": "minimal"
+}

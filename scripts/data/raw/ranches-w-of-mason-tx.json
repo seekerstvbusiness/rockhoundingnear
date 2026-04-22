@@ -1,0 +1,60 @@
+{
+  "slug": "ranches-w-of-mason-tx",
+  "name": "Ranches W of Mason",
+  "lat": 30.779774,
+  "lng": -99.34317,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Mason County",
+  "city_slug": "mason-county",
+  "county": "Mason",
+  "county_slug": "mason",
+  "geocoded_city": "Mason County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ranches%20W%20of%20Mason%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ranches%20W%20of%20Mason",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ranches%20W%20of%20Mason%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1752,
+      "meters": 534
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:43:14.794Z"
+  },
+  "scraped_at": "2026-04-21T18:43:14.794Z",
+  "scrape_quality": "minimal"
+}

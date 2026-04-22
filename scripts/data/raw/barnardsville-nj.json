@@ -1,0 +1,60 @@
+{
+  "slug": "barnardsville-nj",
+  "name": "Barnardsville",
+  "lat": 40.709549,
+  "lng": -74.573952,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Bernardsville",
+  "city_slug": "bernardsville",
+  "county": "Somerset",
+  "county_slug": "somerset",
+  "geocoded_city": "Bernardsville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Barnardsville%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Barnardsville",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Barnardsville%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 355,
+      "meters": 108
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:38:54.687Z"
+  },
+  "scraped_at": "2026-04-21T18:38:54.688Z",
+  "scrape_quality": "minimal"
+}

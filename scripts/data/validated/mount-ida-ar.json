@@ -1,0 +1,98 @@
+{
+  "slug": "mount-ida-ar",
+  "name": "Mount Ida",
+  "state": "Arkansas",
+  "state_slug": "arkansas",
+  "city": "Montgomery County",
+  "city_slug": "montgomery-county",
+  "county": "Montgomery",
+  "county_slug": "montgomery",
+  "lat": 34.541634,
+  "lng": -93.633382,
+  "gem_types": [
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "Mount Ida is Arkansas's premier quartz crystal collecting destination, famous for its natural crystal formations and visitor-friendly dig sites in the Ouachita Mountains region.",
+  "description": "Mount Ida sits at the heart of Arkansas's crystal country, earning the town its designation as the 'Quartz Crystal Capital of the World.' This area has been a magnet for rockhounders, collectors, and mineral enthusiasts for over a century, with numerous fee-dig sites and public areas offering access to some of North America's most abundant and beautiful natural quartz crystals.\n\nThe geological story here is rooted in the Ouachita Mountains, which formed during the Ouachita orogeny around 300 million years ago. Hydrothermal fluids rich in silica flowed through fractures and cavities in the metamorphic rocks, slowly crystallizing into the clear, double-terminated quartz points that make this region famous. The crystals grew in pockets within the host rock, and centuries of weathering and erosion have exposed them at the surface, making them accessible to collectors.\n\nVisitors to Mount Ida will find a range of collecting opportunities, from pay-to-dig sites that handle all the heavy excavation work to public lands where you can search creek beds and exposed outcrops. The moderate terrain and relatively shallow crystal pockets make this an excellent location for families and beginners. Crystal sizes range from small thumbnail specimens to impressive points weighing several pounds, though most finds fall in the 1-4 inch range.\n\nThe area's mining history dates back to the 1800s, when local residents discovered the crystal wealth here. By the early 1900s, formal mining operations began, and today Mount Ida operates as a working crystal district with both commercial mines and public rockhounding areas. The combination of easy access, abundant specimens, and established infrastructure makes Mount Ida one of the most beginner-friendly crystal-collecting destinations in the United States.",
+  "history": "The Ouachita Mountains formed during the Ouachita orogeny approximately 300 million years ago when tectonic collision forced metamorphic rocks upward. Hydrothermal silica-rich fluids filled fractures and cavities, crystallizing into quartz over millions of years. Commercial crystal mining began in the 1800s, and Mount Ida has been the center of Arkansas's quartz crystal industry since the early 1900s.",
+  "tips": "Search in creek beds and eroded hillsides where weathering has exposed crystal pockets just below the surface; look for milky quartz matrix material that often contains clear crystal points inside. Bring a small chisel or flathead screwdriver and a 3-4 pound hammer to carefully work around crystals without damaging them. The best specimens are found by clearing away the surrounding host rock carefully rather than smashing - patience pays off with intact double-terminated points. Morning hours are ideal to avoid afternoon heat and to get first access to any recent erosion or rainfall-exposed deposits.",
+  "terrain_notes": "Mount Ida sits at 889 feet elevation with moderate slopes throughout the surrounding mining areas. Terrain is a mix of exposed crystal-bearing outcrops, weathered hillsides with loose rock, and creek beds. Most fee-dig sites and public areas are within easy walking distance of parking, though hiking to some outcrop areas may require 0.5-2 miles on uneven, rocky ground. Footing can be slippery after rain due to clay soils mixed with quartz debris.",
+  "best_season": "March - May and September - November. Spring offers ideal temperatures and moisture that makes crystal hunting pleasant and erosion from winter runoff often exposes fresh specimens. Fall provides similar conditions with lower humidity. Summer heat (often 85-95F) makes afternoon collecting uncomfortable, though early morning trips are still viable. Winter is mild in this region but dampness makes footing treacherous on clay slopes.",
+  "written_directions": "From Mount Ida town center (Montgomery County), most fee-dig sites and public rockhounding areas are located within 1-3 miles. Follow AR-27 north or south from town depending on your specific destination. Crystal Bridges and other established fee-dig sites are well-signed along local roads. For creek bed collecting, access points are typically found along county roads off AR-27. GPS coordinates (34.541634, -93.633382) mark the Mount Ida area center; specific fee-dig sites should be contacted for exact access instructions and parking details.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "fee",
+  "primary_category": "fee_dig",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highways (AR-27) connect to town and fee-dig sites. Access roads to specific dig locations vary from paved to unpaved gravel roads in good condition. Most fee-dig sites have well-maintained access roads suitable for standard passenger vehicles.",
+  "parking_notes": "Fee-dig sites provide dedicated parking areas, typically with 20-50 space capacity. Public creek bed access points may have informal pull-offs or small parking areas. Arrive early during peak season (spring and fall weekends) for best parking availability.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Fee-dig sites operate under private concession agreements and set their own rules. Generally, collection is allowed at fee-dig sites where you pay an entrance or dig fee, and you keep specimens you find. Public lands and creek beds may have restrictions - contact Montgomery County or the Arkansas Department of Parks, Heritage, and Tourism for current public land collection rules. No motorized equipment without express permission from the fee-dig site operator.",
+  "quantity_limits": null,
+  "rules": "Follow fee-dig site posted rules and payment requirements. Respect private property and posted boundaries. No collection on private land without explicit permission. Leave the area as you found it. Stay on established trails where available. Do not dig in public road or railroad right-of-ways without permission.",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Mount Ida town center is approximately 1-3 miles from most fee-dig sites and offers gas stations, restaurants, hotels, and supply stores. The town is well-equipped to support rockhounding visitors with lodging and food options.",
+  "accessibility_notes": "Terrain is relatively flat to gently rolling with moderate slopes. Most fee-dig sites have accessible parking and work areas suitable for families with children and most mobility levels. Rocky and uneven ground is common, so sturdy footwear is essential. Creek bed collecting requires scrambling over rocks and may not be accessible to people with limited mobility. Bring plenty of water as shade is limited in many collecting areas.",
+  "alternative_names": [
+    "Quartz Crystal Capital",
+    "Crystal Bridges area"
+  ],
+  "nearest_city": "Mount Ida",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arkansas/mount-ida-ar/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of quartz crystals can I find at Mount Ida, Arkansas?",
+      "answer": "Mount Ida is famous for clear to milky quartz crystals, including natural double-terminated points and single-terminated specimens. Most crystals range from thumbnail size (0.5 inches) to 4 inches, though larger specimens are occasionally found. Feldspar and other mineral inclusions are common in the quartz matrix. Fee-dig sites and creek beds both yield quality specimens suitable for collectors of any experience level."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Mount Ida?",
+      "answer": "No permit is required at fee-dig sites - you simply pay the entrance or dig fee. Public lands may have different rules, so contact the Arkansas Department of Parks, Heritage, and Tourism or Montgomery County for current regulations on public rockhounding areas. Always ask permission on private land."
+    },
+    {
+      "question": "What is the best time of year to collect crystals in Mount Ida?",
+      "answer": "March through May and September through November are ideal, with mild temperatures and lower humidity making outdoor work comfortable. Spring offers the benefit of fresh exposures created by winter erosion and rainfall. Summer heat (often 85-95F) makes afternoon collecting difficult, and winter dampness makes clay hillsides slippery and treacherous."
+    },
+    {
+      "question": "Is Mount Ida rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, absolutely. Mount Ida is one of the most beginner-friendly crystal-collecting destinations in the US. Crystals are abundant and relatively easy to access, especially at fee-dig sites where staff can teach proper techniques. Children as young as 6 can participate safely with supervision. The area has excellent infrastructure with nearby lodging, food, and supplies."
+    },
+    {
+      "question": "What tools do I need to find and extract crystals at Mount Ida?",
+      "answer": "Bring a small chisel or flathead screwdriver, a 3-4 pound hammer, a collection bag, and a brush for cleaning specimens. Sturdy work gloves protect hands from sharp crystal edges and rough rock. A small hand lens helps identify specimens. Most fee-dig sites can rent or provide basic tools if you don't have your own. Avoid heavy power tools unless the site permits them."
+    },
+    {
+      "question": "How far is Mount Ida from major towns, and what services are available?",
+      "answer": "Mount Ida town center is in Montgomery County in west-central Arkansas, approximately 60 miles southwest of Little Rock. The town itself has gas stations, restaurants, lodging, and rockhounding supply shops. Most fee-dig sites are within 1-3 miles of town, making it convenient for a day trip or weekend visit. Cell service is reliable throughout the area."
+    }
+  ],
+  "meta_title": "Mount Ida Quartz Crystals - Arkansas Rockhounding",
+  "meta_description": "Collect natural quartz crystals at Mount Ida, Arkansas. Fee-dig sites and public areas offer abundant specimens. Beginner-friendly crystal hunting in the Ouachita Mountains.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "fee_amount",
+    "collection_rules",
+    "written_directions",
+    "primary_category"
+  ],
+  "enriched_at": "2026-04-21T17:17:13.380Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:18:32.207Z"
+}

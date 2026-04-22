@@ -1,0 +1,101 @@
+{
+  "slug": "beaver-canyon-ut",
+  "name": "Beaver Canyon",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Morgan",
+  "city_slug": "morgan",
+  "county": "Morgan",
+  "county_slug": "morgan",
+  "lat": 40.965374,
+  "lng": -111.602818,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper"
+  ],
+  "short_description": "BLM rockhounding site in Morgan County featuring quartz and chalcedony deposits in scenic canyon terrain. Open year-round for personal collecting with no permit required.",
+  "description": "Beaver Canyon is a publicly accessible BLM rockhounding destination in northern Utah's Morgan County, offering rockhounders the opportunity to search for quartz, chalcedony, agate, and jasper specimens in a scenic canyon setting. The site sits within the Wasatch Range foothills, where Tertiary-age igneous and metamorphic rocks have weathered to expose colorful secondary minerals ideal for collectors of all skill levels.\n\nThe canyon itself follows a drainage pattern through mixed coniferous and aspen forest typical of the Wasatch front. Collectors typically focus their search along the canyon wash and eroded hillsides where weathering has exposed crystal pockets and chalcedony-rich outcrops. The terrain is moderately steep with loose rock common throughout, requiring careful footing but accessible to experienced beginners.\n\nBecause this is BLM land, collection is governed by Federal Land Policy and Management Act (FLPMA) regulations: personal use only, maximum 25 pounds per day, no commercial collection, and no motorized excavation. The relative lack of development and straightforward access make Beaver Canyon a practical choice for rockhounders seeking high-quality specimens without the cost of fee dig sites.\n\nThe best collecting typically occurs after winter snowmelt or following heavy rains, when fresh material erodes from slopes and becomes more visible. Specimen quality varies, but patience and systematic searching of wash gravels and hillside outcrops often yields attractive quartz crystals and translucent chalcedony pieces.",
+  "history": "Beaver Canyon lies within the Wasatch Range, a major fault-block mountain system created during Tertiary-age Basin and Range extension (approximately 30-20 million years ago). Igneous intrusions and associated hydrothermal activity deposited quartz and silica-rich fluids throughout the region, creating the chalcedony nodules, agate seams, and quartz crystal pockets found in this drainage system today.",
+  "tips": "Search the canyon wash gravels first, as stream action concentrates heavier material and exposes fresh specimens after seasonal flow. Focus on hillside outcrops showing white or tan chalcedony weathering from darker host rock; these zones often yield the best quartz crystals and agate nodules. Bring a 5-gallon bucket and scale to track your 25-pound daily limit, and wear sturdy boots with good ankle support since footing is uneven and loose rock is abundant throughout the canyon.",
+  "terrain_notes": "Elevation ranges from approximately 5,800 to 6,400 feet. The canyon features moderate to steep slopes with mixed coniferous forest (primarily Douglas fir and lodgepole pine) and aspen. Walking distance from parking to productive collecting areas is typically 0.5 to 1.5 miles. Terrain is rocky with loose material, uneven footing, and scattered deadfall common.",
+  "best_season": "May - October. Snow typically blocks access November through April. Late spring (May-June) and early fall (September-October) offer the most comfortable temperatures and reduced snow risk at this elevation.",
+  "written_directions": "From Morgan, take State Route 66 northeast for approximately 8 miles toward the mountains. Turn east onto a BLM access road (may be unsigned; look for a wide pullout and trail markers). Continue approximately 2-3 miles on rough dirt road passable to high-clearance vehicles. Park at the designated turnaround or pullout area and hike north into the canyon proper. The main collecting zone begins approximately 0.5 miles from the parking area along the canyon wash.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt road with washboard texture and potential ruts. High-clearance vehicle recommended; passenger cars may experience undercarriage contact. Road may be impassable during winter or immediately after heavy rain.",
+  "parking_notes": "Informal pullout and turnaround area at the end of BLM access road. Space for 3-5 vehicles. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection or sale of specimens. No motorized excavation, blasting, or disturbance of geological formations. Pack out all trash. Respect private property boundaries adjacent to BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo blasting or hammering at bedrock\nPack out all trash\nRespect adjacent private property",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "cliffs",
+    "wildlife",
+    "cold"
+  ],
+  "nearest_services": "Morgan, Utah (approximately 10 miles south) offers gas, food, and supplies. Water should be brought from town.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing, loose material, and steep sections. No wheelchair access. Sturdy hiking boots with good ankle support required. A 0.5- to 1.5-mile hike from parking into the canyon is necessary to reach productive collecting areas. Not suitable for visitors with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Morgan",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/beaver-canyon-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/beaver-canyon-ut/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/beaver-canyon-ut/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding in Beaver Canyon, Utah?",
+      "answer": "Beaver Canyon is known for quartz crystals, chalcedony specimens, agate nodules, and jasper pieces. The chalcedony is often translucent to opaque with warm tan and cream colors. Most specimens range from thumbnail-sized to fist-sized; collectors who systematically search the wash gravels and hillside outcrops can accumulate quality pieces within the 25-pound daily limit."
+    },
+    {
+      "question": "Is Beaver Canyon rockhounding site free to collect at, and do I need a permit?",
+      "answer": "Yes, Beaver Canyon is free to visit and collect on. It is BLM public land, and no permit is required for recreational rockhounding. There is no fee to access the site. You simply need to follow the collection rules: personal use only, maximum 25 pounds per day, and no commercial collection."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Beaver Canyon?",
+      "answer": "The best rockhounding season at Beaver Canyon is May through October. Winter snow typically blocks access from November to April. Late spring (May-June) and early fall (September-October) offer ideal conditions with comfortable temperatures and reduced snow risk. After seasonal snowmelt or heavy rain, fresh material often erodes from slopes and becomes easier to spot."
+    },
+    {
+      "question": "How difficult is it to reach Beaver Canyon, and what kind of vehicle do I need?",
+      "answer": "Beaver Canyon requires a high-clearance or all-wheel-drive vehicle to reach the parking area. The access road is rough dirt with washboard texture and potential ruts; passenger cars may experience undercarriage damage. From the parking area, expect a 0.5- to 1.5-mile hike into the canyon on uneven, rocky terrain. The site is suitable for experienced beginners with good fitness and proper footwear."
+    },
+    {
+      "question": "Is Beaver Canyon a good rockhounding site for families and kids?",
+      "answer": "Beaver Canyon is family-friendly for experienced hikers aged 8 and older. The moderate difficulty and scenic canyon setting appeal to families, and children can learn to identify quartz and chalcedony. Bring plenty of water, wear proper hiking boots, and supervise children on steep sections and around loose rock. The 25-pound daily limit makes it practical for family collecting without overloading."
+    },
+    {
+      "question": "What tools and preparation do I need for rockhounding at Beaver Canyon?",
+      "answer": "Bring sturdy hiking boots, a 5-gallon bucket, a scale to track your 25-pound limit, a small rock hammer or chisel for testing material, and plenty of water. A headlamp or flashlight is useful if you arrive early or stay later. Pack out all trash and bring sun protection and layers for temperature changes at this 5,800- to 6,400-foot elevation. Focus your search on the canyon wash gravels first, then hillside outcrops showing white or tan chalcedony weathering."
+    }
+  ],
+  "meta_title": "Beaver Canyon Rockhounding - Utah BLM",
+  "meta_description": "Free BLM rockhounding in Morgan County. Find quartz, chalcedony, agate, and jasper. No permit required. 25 lbs daily limit. May-October.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes",
+    "terrain_notes"
+  ],
+  "enriched_at": "2026-04-22T06:53:01.482Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:01:31.708Z"
+}

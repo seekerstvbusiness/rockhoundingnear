@@ -1,0 +1,60 @@
+{
+  "slug": "new-windsor-md",
+  "name": "New Windsor",
+  "lat": 39.53633,
+  "lng": -77.105235,
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "state_code": "MD",
+  "city": "Carroll County",
+  "city_slug": "carroll-county",
+  "county": "Carroll",
+  "county_slug": "carroll",
+  "geocoded_city": "Marston",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maryland.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=New%20Windsor%20Maryland"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=New%20Windsor",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=New%20Windsor%20Maryland"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 515,
+      "meters": 157
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:34:27.274Z"
+  },
+  "scraped_at": "2026-04-21T17:34:27.275Z",
+  "scrape_quality": "minimal"
+}

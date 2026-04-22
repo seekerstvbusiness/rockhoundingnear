@@ -1,0 +1,57 @@
+{
+  "slug": "quarry-island-mn",
+  "name": "Quarry Island",
+  "lat": 44.86794,
+  "lng": -93.180872,
+  "state": "Minnesota",
+  "state_slug": "minnesota",
+  "state_code": "MN",
+  "city": "Mendota Heights",
+  "city_slug": "mendota-heights",
+  "county": "Dakota",
+  "county_slug": "dakota",
+  "geocoded_city": "Mendota Heights",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-minnesota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Quarry%20Island%20Minnesota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Quarry%20Island",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Quarry%20Island%20Minnesota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:07:47.662Z"
+  },
+  "scraped_at": "2026-04-21T18:07:47.662Z",
+  "scrape_quality": "minimal"
+}

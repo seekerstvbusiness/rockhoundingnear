@@ -1,0 +1,60 @@
+{
+  "slug": "diamond-bluff-wi",
+  "name": "Diamond Bluff",
+  "lat": 44.655145,
+  "lng": -92.636736,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Town of Diamond Bluff",
+  "city_slug": "town-of-diamond-bluff",
+  "county": "Pierce",
+  "county_slug": "pierce",
+  "geocoded_city": "Town of Diamond Bluff",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Diamond%20Bluff%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Diamond%20Bluff",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Diamond%20Bluff%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 765,
+      "meters": 233
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:12:07.458Z"
+  },
+  "scraped_at": "2026-04-21T18:12:07.458Z",
+  "scrape_quality": "minimal"
+}

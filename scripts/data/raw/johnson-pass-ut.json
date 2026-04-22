@@ -1,0 +1,61 @@
+{
+  "slug": "johnson-pass-ut",
+  "name": "Johnson Pass",
+  "lat": 40.337181,
+  "lng": -112.572655,
+  "state": "Utah",
+  "state_slug": "utah",
+  "state_code": "UT",
+  "city": "Tooele County",
+  "city_slug": "tooele-county",
+  "county": "Tooele",
+  "county_slug": "tooele",
+  "geocoded_city": "Tooele County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-utah.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Johnson%20Pass%20Utah"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Utah BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Johnson%20Pass"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Johnson%20Pass%20Utah"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Utah BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:37:28.660Z"
+  },
+  "scraped_at": "2026-04-22T02:37:28.660Z",
+  "scrape_quality": "partial"
+}

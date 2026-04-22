@@ -1,0 +1,100 @@
+{
+  "slug": "georgetown-nm",
+  "name": "Georgetown",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Silver City",
+  "city_slug": "silver-city",
+  "county": "Grant",
+  "county_slug": "grant",
+  "lat": 32.846662,
+  "lng": -108.02246,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Agate",
+    "Chrysocolla"
+  ],
+  "short_description": "BLM public land near the historic mining town of Georgetown offering free rockhounding for quartz, jasper, and agate. High elevation site with gentle terrain ideal for casual collectors.",
+  "description": "Georgetown sits on productive BLM land in the heart of Grant County's mining heritage, at 6722 feet elevation in the gently sloping foothills of southwestern New Mexico. This area has been a hotbed of mineral prospecting since the 1800s, and modern rockhounds can still find quality specimens of quartz, jasper, agate, and chrysocolla in the surrounding washes and hillsides. The site is accessible year-round via BLM roads and requires no permit or fee, making it an excellent choice for beginners and families new to rockhounding. Unlike fee dig sites, you're searching natural formations here, which teaches real prospecting skills while respecting public land regulations.\n\nThe geology of Georgetown reflects millions of years of volcanic and hydrothermal activity. Miocene-age rhyolite flows and associated mineral-rich groundwater deposited silica and copper-bearing minerals throughout the region. You'll find quartz veins cutting through altered rock, jasper in varied colors from red to golden, and occasional chrysocolla staining rock surfaces blue-green. The gentle slopes and proximity to water-carved washes make material easier to access than steeper mountain terrain.\n\nExpect to spend 2-4 hours of productive collecting time here. The best strategy is to walk the washes where erosion continuously exposes fresh material, and scan hillsides for color breaks indicating mineralized zones. Bring water and sun protection even in cooler months, as the high elevation receives significant UV exposure. This location rewards patient, observant collectors more than aggressive diggers.",
+  "history": "Georgetown lies within the Sierra Madre del Magdalena, a range shaped by Miocene-age volcanic activity (28-35 million years ago) that deposited extensive rhyolite flows and associated hydrothermal mineral systems. These geological events created the quartz veins, jasper deposits, and secondary copper minerals like chrysocolla that attract rockhounders today. The surrounding Grant County region experienced intense prospecting from the 1870s onward, with Georgetown itself serving as a supply hub for nearby mining camps.",
+  "tips": "Focus your search on washes and arroyos where water erosion naturally exposes fresh material and concentrates heavier minerals. Use a hand lens to spot chrysocolla staining (bright blue or green) on rock surfaces, then carefully crack rocks with a chisel to find better specimens inside. Look for quartz crystals in vein material on hillside outcrops; jasper appears as solid, banded, or mottled stone in reds, oranges, and yellows. Bring a small pack to carry specimens carefully and remove sharp edges before packing to prevent damage.",
+  "terrain_notes": "Elevation 6722 feet with gentle to moderate slopes. Terrain is semi-arid with sparse juniper and pinon pine. Rocky footing with scattered boulders and exposed outcrops. Washes are navigable on foot with sturdy hiking boots recommended. Parking areas are typically pullouts along BLM roads; walking distance to productive areas is usually 0.5 to 2 miles. Afternoon thunderstorms are possible in monsoon season (July-August).",
+  "best_season": "October - April. The high elevation makes summers hot and monsoon thunderstorms a flash flood risk in washes. Fall and winter offer moderate temperatures, lower humidity, and clear skies ideal for hiking and spotting color breaks in rock. Spring (March-April) is also excellent but can have unpredictable weather.",
+  "written_directions": "From Silver City, take US 180 northeast toward Pinos Altos for approximately 8 miles. Turn north onto Forest Road 150 (also marked as BLM road). Continue 3-4 miles on this rough dirt road past the town of Georgetown. Look for pullouts near washes and mineralized hillside outcrops on both sides of the road. Park safely off the road and scan the surrounding terrain on foot. The GPS coordinates mark productive areas in the immediate vicinity.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unimproved BLM road, dirt surface, washboard texture possible. High-clearance vehicle recommended after heavy rain. Passenger cars can access pullouts in dry conditions with careful driving.",
+  "parking_notes": "Informal pullouts along BLM roads. No developed parking lot. Space for 3-5 vehicles at typical pullouts. Park well off active roads and respect private property near Georgetown.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection or sale of material. No motorized excavation, mechanized tools, or explosives. Stay on public BLM land and respect private property boundaries. Remove all trash and leave no trace.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or mechanized tools\nNo explosives\nStay on public land\nRemove all trash\nRespect private property",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Silver City, 15 miles southwest. Full services including gas, food, lodging, and outfitters.",
+  "accessibility_notes": "Relatively easy terrain with gentle slopes and manageable rocky footing. Washes are navigable for hikers of moderate fitness. Sturdy hiking boots are essential for rocky ground. No wheelchair access to productive collecting areas. Most of the site is accessible to families with school-age children. Limited shade in exposed areas.",
+  "alternative_names": [],
+  "nearest_city": "Silver City",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/georgetown-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/georgetown-nm/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/georgetown-nm/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Georgetown, New Mexico?",
+      "answer": "Georgetown is known for quartz, jasper, agate, and chrysocolla. Quartz appears as clear to milky crystals in veins; jasper comes in reds, oranges, and golden hues; agate shows banding and translucence; and chrysocolla appears as blue-green staining on rock surfaces. All are findable in the washes and hillsides around this BLM site."
+    },
+    {
+      "question": "Is there a permit or fee required for rockhounding at Georgetown, New Mexico?",
+      "answer": "No. Georgetown sits on BLM public land where recreational rockhounding is free with no permit required. You can collect up to 25 lbs per day for personal use under FLPMA regulations. This makes it one of the most accessible rockhounding destinations in Grant County."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Georgetown, NM?",
+      "answer": "October through April offers ideal conditions. Summers are hot and monsoon season (July-August) brings flash flood risks to washes. Fall and winter provide moderate temperatures, lower humidity, and stable weather for comfortable hiking and collecting."
+    },
+    {
+      "question": "How do you find chrysocolla and other copper minerals at Georgetown?",
+      "answer": "Chrysocolla appears as bright blue or green staining on rock surfaces, especially near altered volcanics and old mineralized zones. Use a hand lens to spot the color, then carefully crack rocks with a chisel to find better interior specimens. Washes expose the most material due to natural erosion."
+    },
+    {
+      "question": "Is Georgetown, New Mexico rockhounding good for beginners and families with kids?",
+      "answer": "Yes, Georgetown is beginner-friendly. The terrain is gentle with easy walking, no permit or fee barriers, and abundant specimens. Children ages 6 and up can participate safely. The site rewards patient observation and teaches real prospecting skills on natural formations."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Georgetown, NM?",
+      "answer": "Bring a small chisel or rockhammer to crack rocks, a hand lens to spot minerals, sturdy hiking boots, plenty of water, sun protection, and a small backpack. The 25 lb daily limit is easily reached, so prioritize quality specimens. Avoid heavy power tools; hand tools only per BLM rules."
+    }
+  ],
+  "meta_title": "Georgetown Rockhounding - New Mexico",
+  "meta_description": "Free rockhounding on BLM land near Georgetown, NM. Find quartz, jasper, agate, and chrysocolla. No permit required. Best October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from general Grant County geography)",
+    "parking_notes (typical BLM pullout format)",
+    "road_conditions (estimated based on New Mexico BLM road standards)"
+  ],
+  "enriched_at": "2026-04-22T09:50:41.004Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:52.408Z"
+}

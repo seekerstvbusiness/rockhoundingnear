@@ -40,11 +40,6 @@ export function LocationCard({ location, className }: LocationCardProps) {
               <Mountain className="w-12 h-12 text-ruby-200" />
             </div>
           )}
-          {location.featured && (
-            <div className="absolute top-2 left-2">
-              <Badge className="bg-primary text-white text-xs">Featured</Badge>
-            </div>
-          )}
           {location.difficulty && (
             <div className="absolute top-2 right-2">
               <span className={cn('text-xs font-medium px-2 py-0.5 rounded-full', difficultyColor[location.difficulty])}>

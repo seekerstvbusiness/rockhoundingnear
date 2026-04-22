@@ -1,0 +1,99 @@
+{
+  "slug": "gold-hill-ut",
+  "name": "Gold Hill",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Tooele",
+  "city_slug": "tooele",
+  "county": "Tooele",
+  "county_slug": "tooele",
+  "lat": 40.181293,
+  "lng": -113.810186,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM public land near Tooele offering free rockhounding for gold, quartz, and jasper. No permit required - just follow the 25 lb daily limit.",
+  "description": "Gold Hill sits on Utah BLM land in Tooele County, a historically significant mining region where small-scale prospectors and rockhounders have searched for precious metals and colorful stones for over a century. The area is part of the Basin and Range physiographic province, characterized by fault-block mountains and intermontane valleys where hydrothermal fluids during the Tertiary period deposited quartz veins and secondary minerals in fractured host rock. This is public land open to recreational rockhounding with minimal restrictions, making it ideal for both beginners and experienced collectors looking to find gold flakes, quartz specimens, and colorful jasper and chalcedony fragments.\n\nThe terrain around Gold Hill consists of exposed bedrock, talus slopes, and eroded canyon washes where weathering has concentrated heavier minerals and broken material. Most productive collecting occurs in dry wash areas and along hillsides where erosion has exposed fresh material. The landscape is semi-arid with scattered sagebrush and juniper, relatively sparse vegetation that makes spotting colorful mineral specimens easier.\n\nWhat makes Gold Hill worth visiting is the combination of accessibility and genuine collecting potential. Because this is BLM land, there are no entrance fees, no permits to obtain, and no special permissions needed - just show up and search. The historical mining activity in the region confirms the presence of economically interesting minerals, even though modern rockhounders typically find smaller specimens. Many visitors enjoy the mix of active prospecting mindset with the relaxation of free public land access.\n\nBe prepared for the semi-arid Utah climate and bring adequate water, sun protection, and sturdy footwear. The area can be hot during midday hours but offers excellent collecting conditions in morning and late afternoon. Always practice Leave No Trace principles and respect the 25 lb daily collection limit to ensure this site remains open to future rockhounders.",
+  "history": "Gold Hill lies within the Oquirrh Mountains mining district, part of Utah's historic mining belt that experienced significant prospecting activity from the 1870s through the mid-20th century. Tertiary-age hydrothermal mineralization associated with granitic intrusions created quartz veins and altered host rock containing gold, silver, and base metal sulfides - the same processes that generated economically important deposits nearby still produce visible mineral specimens at surface and in accessible erosional features.",
+  "tips": "Search along dry wash bottoms and eroded canyon sides where water has concentrated heavier minerals like gold and where weathering has exposed quartz veins and jasper fragments. Use a small hand lens to identify quartz crystals and examine fine material in wash sediments - gold often appears as tiny flakes in black sand concentrations. Bring a small 5-gallon bucket and classifier or fine mesh screen to process material from promising areas, and look for color variation in exposed rock faces that might indicate mineralization or colorful jasper layers.",
+  "terrain_notes": "Gold Hill area ranges in elevation from approximately 5,200 to 6,500 feet with rolling to steep terrain. The landscape features exposed bedrock outcrops, loose talus fields, and several eroded canyon washes. Vegetation is sparse high desert - sagebrush, juniper, and scattered grass. Terrain is moderately rugged with uneven footing and scattered sharp rock. Most productive areas require short hikes of 0.5 to 2 miles from parking locations.",
+  "best_season": "April - May and September - November. Late spring and early fall offer comfortable temperatures for outdoor work without extreme heat. Summer (June - August) brings intense afternoon heat above 85 degrees F, making midday collecting uncomfortable. Winter (December - February) can bring snow and muddy conditions at higher elevations.",
+  "written_directions": "From Tooele, take Main Street south toward Grantsville approximately 8 miles. Continue on Utah State Route 36 south toward Grantsville for about 5 miles. Follow local dirt roads or Forest Service roads eastbound into the foothills toward Gold Hill area. GPS coordinates (40.181293, -113.810186) provide precise navigation to the main collecting area. High-clearance vehicle recommended but passenger cars can reach lower parking areas. Cell service is spotty - save GPS coordinates before leaving town.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt road with possible washboard surface. High-clearance vehicle recommended for upper access points, but lower areas accessible to standard passenger vehicles during dry conditions. May be impassable after heavy rain or snowmelt.",
+  "parking_notes": "Small dirt pullouts available near main collecting areas. No developed parking lot. Space for 3-5 vehicles at typical pullouts. Arrive early during popular seasons.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or heavy equipment. Hand tools only - picks, shovels, pans, classifiers acceptable. Pack out all trash. No collection from mining claim markers or clearly posted private property boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nHand tools only\nPack out all trash\nRespect mining claim markers",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Tooele, approximately 12 miles northwest. Full services including gas, restaurants, and grocery stores available in downtown Tooele.",
+  "accessibility_notes": "Uneven rocky terrain with moderate elevation gain in some areas. Loose rocks and talus fields present hazards for those with limited mobility. No wheelchair access to productive collecting areas. Sturdy hiking boots strongly recommended. Most collectors can manage the moderate terrain with normal fitness level.",
+  "alternative_names": [],
+  "nearest_city": "Tooele",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/gold-hill-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/gold-hill-ut/mineral-1-gold.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/gold-hill-ut/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find at Gold Hill near Tooele?",
+      "answer": "Gold Hill is primarily known for gold flakes and small gold specimens, though you can also find quartz crystals, jasper, and chalcedony fragments. The area's history of small-scale mining confirms the presence of these minerals. Most rockhounders find colorful jasper and quartz specimens more frequently than significant gold, but the possibility of finding gold flakes in black sand concentrations keeps collectors interested."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Gold Hill in Utah?",
+      "answer": "No permit is required to collect at Gold Hill - it is BLM public land open to recreational rockhounding. Simply follow the 25 lb daily collection limit and personal use only rules. You can show up any day and start searching without advance planning or paperwork."
+    },
+    {
+      "question": "How far is Gold Hill from Tooele and what are driving directions?",
+      "answer": "Gold Hill is approximately 12 miles southeast of Tooele. From downtown Tooele, take Main Street south toward Grantsville, then follow Utah State Route 36 south about 5 miles before taking dirt roads eastbound into the foothills. A high-clearance vehicle is recommended for upper parking areas, though lower access points are reachable by standard cars in dry conditions."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Gold Hill?",
+      "answer": "April through May and September through November are ideal. These months offer comfortable temperatures without extreme heat. Summer temperatures exceed 85 degrees F and can reach 90+ by midday, making work uncomfortable. Winter can bring snow and muddy conditions at this elevation."
+    },
+    {
+      "question": "Is Gold Hill beginner-friendly and can I bring my family and dogs?",
+      "answer": "Yes, Gold Hill is excellent for beginners. The terrain is moderately challenging but manageable with normal fitness. No permits or special knowledge required - just hand tools and patience. Families with children age 8 and older can enjoy the site. Dogs are welcome on public BLM land."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Gold Hill?",
+      "answer": "Bring a hand pick or small shovel, a 5-gallon bucket, and a classifier or fine mesh screen for processing material. A hand lens helps identify quartz and small specimens. Bring plenty of water (at least 2 quarts), sun protection, sturdy hiking boots, and a small backpack. A GPS unit or smartphone with offline maps is helpful since cell service is spotty in the area."
+    }
+  ],
+  "meta_title": "Gold Hill Rockhounding - Tooele Utah",
+  "meta_description": "Free BLM rockhounding at Gold Hill, Utah. Find gold, quartz, and jasper near Tooele. No permit needed, 25 lb daily limit. Easy access for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:53:25.031Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:01:56.859Z"
+}

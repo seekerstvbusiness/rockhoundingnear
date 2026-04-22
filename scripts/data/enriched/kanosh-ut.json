@@ -1,0 +1,98 @@
+{
+  "slug": "kanosh-ut",
+  "name": "Kanosh",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Millard County",
+  "city_slug": "millard-county",
+  "county": "Millard",
+  "county_slug": "millard",
+  "lat": 38.787393,
+  "lng": -112.385046,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding site near Kanosh offering agate, chalcedony, and jasper specimens. Free public land collecting with no permit required and a 25 lb daily limit.",
+  "description": "Kanosh sits on productive Utah BLM land in Millard County, a region rich with Tertiary and Quaternary volcanic deposits. This area is part of the Great Basin geology zone where ancient silica-rich mineral solutions created abundant specimens of agate, jasper, and chalcedony in weathered volcanic outcrops and alluvial washes. The site is accessible to rockhounds of all skill levels and offers straightforward collecting without commercial restrictions. The rolling desert terrain around Kanosh features scattered rocks and small washes where specimens can be found on the surface or by careful digging in promising spots. Because this is BLM land, there are no fees and minimal red tape - just follow the 25 lb per day personal use limit and pack out what you collect responsibly.",
+  "history": "The Kanosh area sits within the Basin and Range province where Tertiary-age volcanic activity and silica-rich hydrothermal fluids deposited extensive agate and chalcedony formations. Quaternary alluvial processes have since exposed these minerals at the surface, making this a prime location for recreational rockhounding.",
+  "tips": "Search the washes and bajadas (alluvial fans) surrounding Kanosh for specimens weathered out of volcanic parent material - look for translucent or banded agate pieces ranging from pea-sized to fist-sized. Bring a small pry bar and sturdy digging tool to work promising areas where jasper and agate chunks are partially exposed. Early morning or late afternoon collecting is best for visibility and to avoid the intense midday desert heat.",
+  "terrain_notes": "Terrain ranges from 5,200 to 5,800 feet elevation with low desert scrub vegetation typical of the Great Basin. Ground surface is rocky with scattered basalt and volcanic debris. Walking is moderate difficulty over uneven terrain with scattered small rocks. Washes offer easier walking but require caution during any weather threat. Most productive collecting is within 0.5 to 2 miles of pullouts along accessible BLM roads.",
+  "best_season": "October - April. Desert heat makes summer collecting uncomfortable and hazardous. Fall through spring offers mild temperatures, better visibility, and lower risk of flash flooding in washes.",
+  "written_directions": "From Millard County, head toward the Kanosh community area. Access BLM land via local roads branching east or northeast from Highway 50. The specific pullouts and collecting areas are scattered across BLM tracts around 38.787, -112.385. Look for small dirt roads and parking areas marked by rockhounding activity or BLM signage. Use a GPS unit or offline map to navigate to coordinates, as roads are not formally named in most cases. High clearance passenger vehicle recommended; some rougher spurs may require 4x4 after rain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mostly graded dirt roads with washboard. Some rougher spurs may have loose rocks and washouts. Passable with standard passenger vehicles in dry conditions; high clearance preferred.",
+  "parking_notes": "Informal pullouts and small parking areas at various BLM access points. Space for 2-5 vehicles at most spots. No facilities or maintained lots.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection or motorized excavation. Collect from surface and shallow digging only. Pack out all trash and fill any holes created during digging.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nSurface and shallow digging only\nPack out all trash\nFill any holes created",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "loose_rock",
+    "sharp_material",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Kanosh town has limited services. Larger towns like Delta (20 miles) and Salina (15 miles) offer gas, food, water, and lodging.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain with uneven rocky ground. Washes provide easier walking but require good footing. Suitable for families and older rockhounds but sturdy footwear and good physical conditioning recommended. No wheelchair access. Most productive areas require short hikes of under 1 mile from parking.",
+  "alternative_names": [],
+  "nearest_city": "Delta",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/kanosh-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Kanosh, Utah?",
+      "answer": "The Kanosh area is known for agate, chalcedony, jasper, and quartz specimens. Most finds are in the 1 to 4 inch range, though larger pieces are possible. The banded and translucent agates are particularly prized by collectors."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Kanosh?",
+      "answer": "No permit is required at Kanosh. The site sits on public BLM land in Utah where recreational mineral collecting is allowed under the Federal Land Policy and Management Act (FLPMA). Simply follow the 25 lb daily limit and collect for personal use only."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Kanosh?",
+      "answer": "October through April is ideal for Kanosh rockhounding. Winter and spring temperatures are mild, and you avoid the intense summer desert heat that can reach over 90 degrees Fahrenheit. Flash flood risk is also lower during this season."
+    },
+    {
+      "question": "How do I find agate at Kanosh rockhounding site?",
+      "answer": "Search the washes, bajadas, and areas around exposed volcanic outcrops where specimens weather out. Look for translucent or banded pieces on the surface first, then use a pry bar to carefully excavate partially exposed chunks. Early morning provides best visibility and cooler temperatures."
+    },
+    {
+      "question": "Is rockhounding at Kanosh suitable for beginners and families?",
+      "answer": "Yes, Kanosh is excellent for beginners and families. The terrain is easy to moderate, specimens are accessible on the surface, no permits are required, and there are no fees. Children ages 6 and up can participate with adult supervision."
+    },
+    {
+      "question": "What tools and equipment should I bring rockhounding at Kanosh?",
+      "answer": "Bring a small pry bar, rock hammer, sturdy digging tools, and a bucket or bag for specimens. Wear sturdy hiking boots, long sleeves to protect from sun and sharp rocks, and bring plenty of water. A GPS unit or offline map is helpful for locating access points on BLM land."
+    }
+  ],
+  "meta_title": "Kanosh Rockhounding - Find Agate & Jasper in Utah",
+  "meta_description": "Free rockhounding at Kanosh, Utah. Collect agate, jasper, and chalcedony on BLM land. No permit required, 25 lb daily limit. Beginner friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "nearest_services",
+    "specific_road_names"
+  ],
+  "enriched_at": "2026-04-22T06:51:17.318Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:58:07.899Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "hazelton-and-white-haven-pa",
+  "name": "Hazelton and White Haven",
+  "lat": 40.966493,
+  "lng": -75.921077,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Hazle Township",
+  "city_slug": "hazle-township",
+  "county": "Luzerne",
+  "county_slug": "luzerne",
+  "geocoded_city": "Hazle Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hazelton%20and%20White%20Haven%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hazelton%20and%20White%20Haven",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hazelton%20and%20White%20Haven%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1594,
+      "meters": 486
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:43:02.907Z"
+  },
+  "scraped_at": "2026-04-21T18:43:02.908Z",
+  "scrape_quality": "minimal"
+}

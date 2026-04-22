@@ -1,0 +1,85 @@
+{
+  "slug": "hedgehog-hill-quarry-me",
+  "name": "Hedgehog Hill Quarry",
+  "lat": 44.468778,
+  "lng": -70.456083,
+  "state": "Maine",
+  "state_slug": "maine",
+  "state_code": "ME",
+  "city": "Peru",
+  "city_slug": "peru",
+  "county": "Oxford",
+  "county_slug": "oxford",
+  "geocoded_city": "Peru",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maine.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hedgehog%20Hill%20Quarry%20Maine"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hedgehog%20Hill%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hedgehog%20Hill%20Quarry%20Maine"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 986,
+      "meters": 301
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "Federal Road",
+        "ref": "ME 4",
+        "type": "trunk",
+        "dist": 12
+      },
+      {
+        "name": "New Bear Pond Road",
+        "ref": null,
+        "type": "secondary",
+        "dist": 13.1
+      },
+      {
+        "name": "New Bear Pond Road",
+        "ref": null,
+        "type": "secondary",
+        "dist": 13.1
+      },
+      {
+        "name": "Depot Street",
+        "ref": "ME 17",
+        "type": "primary",
+        "dist": 13.2
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:45:23.562Z"
+  },
+  "scraped_at": "2026-04-21T16:45:23.563Z",
+  "scrape_quality": "minimal"
+}

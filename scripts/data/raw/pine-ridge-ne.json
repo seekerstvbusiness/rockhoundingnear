@@ -1,0 +1,60 @@
+{
+  "slug": "pine-ridge-ne",
+  "name": "Pine Ridge",
+  "lat": 42.993885,
+  "lng": -102.562694,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Sheridan County",
+  "city_slug": "sheridan-county",
+  "county": "Sheridan",
+  "county_slug": "sheridan",
+  "geocoded_city": "Sheridan County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pine%20Ridge%20Nebraska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pine%20Ridge",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pine%20Ridge%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3263,
+      "meters": 995
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:01:15.499Z"
+  },
+  "scraped_at": "2026-04-21T17:01:15.500Z",
+  "scrape_quality": "minimal"
+}

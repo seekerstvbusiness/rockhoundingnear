@@ -1,0 +1,60 @@
+{
+  "slug": "steamboat-river-ia",
+  "name": "Steamboat River",
+  "lat": 42.40985,
+  "lng": -93.072553,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Steamboat Rock",
+  "city_slug": "steamboat-rock",
+  "county": "Hardin",
+  "county_slug": "hardin",
+  "geocoded_city": "Steamboat Rock",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Steamboat%20River%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Steamboat%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Steamboat%20River%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 966,
+      "meters": 295
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:54:39.052Z"
+  },
+  "scraped_at": "2026-04-21T17:54:39.052Z",
+  "scrape_quality": "minimal"
+}

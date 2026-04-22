@@ -1,0 +1,57 @@
+{
+  "slug": "funks-pond-recreational-area-md",
+  "name": "Funks Pond Recreational Area",
+  "lat": 39.670698,
+  "lng": -76.171813,
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "state_code": "MD",
+  "city": "Cecil County",
+  "city_slug": "cecil-county",
+  "county": "Cecil",
+  "county_slug": "cecil",
+  "geocoded_city": "Susquehanna Hills",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maryland.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Funks%20Pond%20Recreational%20Area%20Maryland"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Funks%20Pond%20Recreational%20Area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Funks%20Pond%20Recreational%20Area%20Maryland"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:34:41.516Z"
+  },
+  "scraped_at": "2026-04-21T17:34:41.517Z",
+  "scrape_quality": "minimal"
+}

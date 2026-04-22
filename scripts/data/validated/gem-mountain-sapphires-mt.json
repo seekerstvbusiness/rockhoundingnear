@@ -1,0 +1,95 @@
+{
+  "slug": "gem-mountain-sapphires-mt",
+  "name": "Gem Mountain (sapphires)",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Madison County Area",
+  "city_slug": "madison-county",
+  "county": "Madison",
+  "county_slug": "madison",
+  "lat": 45.343,
+  "lng": -112.356,
+  "gem_types": [
+    "Sapphire",
+    "Ruby",
+    "Garnet"
+  ],
+  "short_description": "Public BLM rockhounding site famous for sapphires and rubies in the Madison Range. Free personal use collecting with no permit required - perfect for Montana gem hunters.",
+  "description": "Gem Mountain is a classic Montana rockhounding destination located on BLM public land in Madison County. This location sits within the northern Rocky Mountains, where ancient metamorphic and igneous activity created mineral-rich formations that have yielded sapphires, rubies, and garnets for generations of rockhounders. The site offers easy-to-moderate collecting opportunities in relatively open terrain at 5,424 feet elevation, making it accessible to families and beginners who want to experience quality gem hunting without fees or permits.\n\nThe area is known for producing rough sapphires ranging from pale blue to darker shades, along with occasional ruby specimens and red garnets. Collectors typically work along exposed outcrops, weathered slopes, and wash areas where gravity has concentrated loose gems. The flat terrain means less strenuous hiking compared to steeper Montana gem sites, though visitors should still bring sturdy boots for uneven ground and loose rock. This is a true personal-use site where you can keep what you find within the 25-pound daily limit.\n\nBest results come from working washes after rainfall and carefully examining loose material on south-facing slopes. The site sees moderate foot traffic from repeat visitors and word-of-mouth reputation, so popular collecting zones may show sign of previous work. Early morning visits often yield better results and more solitude. The surrounding landscape offers good views of the Madison Range and opportunities to explore adjacent BLM terrain.",
+  "history": "Gem Mountain sits within the Madison Range, a region shaped by Archean and Proterozoic metamorphic activity followed by Laramide-age deformation and mineralization. The sapphires and rubies found here formed in metamorphic rocks during deep crustal processes, with corundum crystalizing in aluminum-rich metamorphic environments. Local prospectors and rockhounds have worked this area since the mid-20th century, and it remains a reliable source for rough gem-quality corundum specimens.",
+  "tips": "Focus on washes and drainage areas where heavier sapphires and rubies accumulate naturally - examine the outside bends of dry creeks and base of slopes for concentrated material. Bring a 10x loupe to spot the distinctive glassy luster and hardness of corundum; sapphires often appear as cloudy blue or clear rough stones mixed with weathered quartz and feldspar. Work south-facing slopes in late afternoon light, which helps spot the subtle glints of gems in loose scree. After rain, return to washed areas within 24-48 hours when new material has been exposed and water-sorted into fine channels.",
+  "terrain_notes": "Elevation 5,424 feet with relatively flat terrain that becomes rolling toward surrounding ridges. Open BLM land with sparse sagebrush, juniper, and scattered ponderosa pine. Walking distances from parking range 0.5 to 2 miles depending on which collecting zones you access. Footing varies from stable dirt to loose scree and weathered rocky slopes. Uneven terrain requires sturdy hiking boots but poses no major hazards for fit visitors.",
+  "best_season": "June - September. High elevation (5,400+ feet) means heavy snow closes or restricts access November through May. Summer months offer dry conditions, open roads, and reliable access. July and August provide peak season conditions but also see more visitor traffic. Late June and early September offer good weather with fewer crowds.",
+  "written_directions": "From Ennis (approximately 25 miles northeast), take Montana Highway 287 south toward West Yellowstone. Continue south on Highway 287 for approximately 20 miles past Ennis. Watch for BLM access roads and signs marking Gem Mountain rockhounding area on the east side of the highway. Turn east onto the appropriate BLM road (typically marked with BLM signage) and follow 2-4 miles to parking areas near established collecting zones. Terrain data indicates flat access via graded BLM roads passable to standard vehicles in dry season.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Graded BLM road, generally passable to passenger vehicles in summer. May be rough or impassable in wet weather or winter. Standard clearance sufficient.",
+  "parking_notes": "Informal pullouts and parking areas along BLM access roads near collecting zones. No developed lot. Space for 5-15 vehicles depending on location. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation. No power tools. Hand tools and small hand-dug pits only. All collecting activities must be non-destructive to landscape. Do not damage outcrops or historical mining features.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools only, small hand-dug pits permitted\nNon-destructive collecting practices only\nDo not damage rock outcrops or historical features",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "cold",
+    "remote"
+  ],
+  "nearest_services": "Ennis, Montana (approximately 25 miles northwest) has gas, food, lodging, and water. Small supply of services available.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Parking pullouts on BLM road near collecting zones. Walking distances 0.5-2 miles on uneven rocky ground. Sturdy footwear required. Loose rock and uneven slopes present minor hazard but generally manageable for fit visitors. Not wheelchair accessible. Moderate fitness level recommended.",
+  "alternative_names": [],
+  "nearest_city": "Ennis",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/gem-mountain-sapphires-mt/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What sapphires and gems can you find at Gem Mountain in Montana?",
+      "answer": "Gem Mountain is known for rough sapphires in blue to darker shades, along with ruby and garnet specimens. Most stones are found as loose rough material rather than large facet-grade pieces. The site is a reliable source for personal collection of gem-quality corundum that you can keep as specimens or cut."
+    },
+    {
+      "question": "Is there a permit or fee required for rockhounding at Gem Mountain?",
+      "answer": "No. Gem Mountain is on BLM public land and requires no permit for recreational collecting. There are no fees. You only need to follow the 25-pound per day personal use limit and use hand tools only."
+    },
+    {
+      "question": "How do you find sapphires and rubies at Gem Mountain Montana?",
+      "answer": "Focus on washes, drainage areas, and south-facing slopes where gravity concentrates heavier stones. After rain, check washed areas within 24-48 hours when new material is exposed. Use a 10x loupe to spot the glassy luster of corundum. Work slowly through scree and loose material, looking for blue, red, or clear stones mixed with quartz."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Gem Mountain?",
+      "answer": "June through September is ideal. The high elevation (5,424 feet) means heavy snow blocks access from November to May. July and August are peak season but busier. Late June and early September offer good weather with fewer crowds and are excellent choices for collectors."
+    },
+    {
+      "question": "What tools and equipment do you need for Gem Mountain rockhounding?",
+      "answer": "Bring sturdy hiking boots for uneven rocky terrain, hand tools like a small pick or chisel, a 10x loupe for identifying gems, buckets or bags for specimens, and plenty of water. A light backpack helps carry gear. Sunscreen and a hat are important at 5,400+ feet elevation. Do not bring motorized equipment."
+    },
+    {
+      "question": "Is Gem Mountain Montana good for beginner rockhounders and families?",
+      "answer": "Yes. The relatively flat terrain, no permit requirement, and consistent gem production make it excellent for beginners and families. Kids ages 6 and up can participate in hand-collecting on open slopes. The site is close enough to Ennis (25 miles) for day trips and does not require special skills or equipment to get started."
+    }
+  ],
+  "meta_title": "Gem Mountain Sapphire Rockhounding - Montana",
+  "meta_description": "Free BLM rockhounding for sapphires, rubies and garnets at Gem Mountain Montana. No permit required, 25 lb daily limit. Perfect for beginners and families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "road_conditions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-21T19:08:19.831Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:12:46.463Z"
+}

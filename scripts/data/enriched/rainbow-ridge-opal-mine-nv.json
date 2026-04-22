@@ -1,0 +1,99 @@
+{
+  "slug": "rainbow-ridge-opal-mine-nv",
+  "name": "Rainbow Ridge Opal Mine",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Gerlach",
+  "city_slug": "gerlach",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "lat": 41.797465,
+  "lng": -119.015167,
+  "gem_types": [
+    "Opal",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public land opal collecting site in remote northern Nevada high desert. Find fire opals and colorful chalcedony on gentle slopes at 5074 ft elevation.",
+  "description": "Rainbow Ridge Opal Mine is a public BLM rockhounding site in Humboldt County's remote high desert region. The location sits at 5074 feet elevation on gently sloping terrain typical of Nevada's Basin and Range province. This site is known for producing beautiful fire opals and colorful chalcedony specimens that attract rockhounders year-round, though the best collecting season runs October through April when temperatures are mild.\n\nThe opal deposits here formed during the Tertiary period when silica-rich hot springs and geothermal fluids deposited precious opal into fractures and cavities within rhyolitic volcanic rocks. The local geology consists of altered volcanic material and silica-rich deposits that have weathered over millions of years, exposing opal seams and nodules on the surface and in shallow washes. The gentle slope of the terrain makes surface collecting accessible to rockhounders of all skill levels.\n\nAs a BLM public land site, Rainbow Ridge allows personal use collecting with no permit required. The standard 25-pound-per-day limit applies to recreational collection. The high desert setting means minimal vegetation and excellent surface exposure of geological material. Water and services are limited in this remote area, so plan accordingly before visiting. The site draws rockhounders interested in opal and want to explore Nevada's volcanic geology firsthand.",
+  "history": "The opal deposits at Rainbow Ridge formed during Tertiary-age volcanism when the region experienced extensive geothermal activity. Hot silica-rich fluids moved through fractures in rhyolitic volcanic rocks, eventually cooling and precipitating precious opal that fills cavities and seams. This same period of volcanic and hydrothermal activity created Nevada's most productive mineral deposits across the entire Great Basin.",
+  "tips": "Search the gentle slopes and shallow washes where opal-bearing rocks are naturally concentrated by erosion - the colorful fire opals often weather out first. Use a 10x hand lens to identify thin opal seams within host rock before extracting; opals at this site often sit in pockets within harder rock matrix. Look for pieces showing warm fire colors (orange, red, yellow) rather than pale or milky material. Bring a small pry bar or chisel to carefully extract specimens without damage, as opals are relatively soft and break easily.",
+  "terrain_notes": "Elevation 5074 feet on gently sloping high desert terrain. Sparse vegetation typical of northern Nevada sagebrush country. Walking distances moderate from parking area. Footing relatively easy on gentle slopes with scattered rocky material. Expect loose small rocks and uneven ground underfoot. No shade structures or water available at site.",
+  "best_season": "October - April. This remote high desert location experiences extreme summer heat (often exceeding 95 degrees Fahrenheit) that makes collecting unpleasant and potentially dangerous. Fall and spring offer mild temperatures in the 50-70 degree range ideal for hiking and rock hunting. Winter is feasible but can bring occasional snow at this elevation.",
+  "written_directions": "From Gerlach, Nevada (approximately 55 miles northwest), head north on NV 34 toward the Black Rock Desert region. Continue approximately 35-40 miles on BLM roads following signs or GPS coordinates toward the Humboldt County high desert collecting areas. The final approach may require high-clearance or 4WD vehicle depending on recent weather and road conditions. Coordinates: 41.797465, -119.015167. Confirm current road access conditions with Winnemucca BLM office before traveling, as remote desert roads can become impassable after rain.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Remote desert BLM roads, may be rough and require high-clearance or 4WD vehicle. Washboard surface likely. No regular maintenance. Impassable during or immediately after precipitation.",
+  "parking_notes": "Informal parking areas along BLM roads near collecting sites. No developed parking lot. Pull well off road to avoid blocking access. Space limited.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation equipment. No power tools. Hand tools only (chisel, pry bar, hammer). Pack out all trash. Leave the site as you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nHand tools only\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "cold",
+    "remote",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Gerlach, Nevada approximately 55 miles south has limited gas and food services. McDermitt, Nevada approximately 60 miles northeast offers gas and supplies. Winnemucca, Nevada approximately 90 miles south has full services.",
+  "accessibility_notes": "Gentle sloping terrain accessible to most hikers with moderate mobility. Uneven rocky footing requires sturdy footwear. No wheelchair access to collecting areas. Walking distances moderate from informal parking. High elevation (5074 ft) may affect those sensitive to altitude. Extremely remote location with no cell service or emergency services nearby.",
+  "alternative_names": [],
+  "nearest_city": "Gerlach",
+  "nearest_city_distance": 55,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/rainbow-ridge-opal-mine-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/rainbow-ridge-opal-mine-nv/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What type of opal can you find at Rainbow Ridge Opal Mine in Nevada?",
+      "answer": "Rainbow Ridge is known for producing fire opals with warm orange, red, and yellow coloration, along with colorful chalcedony specimens. The opals here typically form in small pockets and seams within rhyolitic volcanic host rock. Most specimens are small to palm-sized pieces suitable for display or lapidary work."
+    },
+    {
+      "question": "Is a permit required to collect opal at Rainbow Ridge in Humboldt County?",
+      "answer": "No permit is required. Rainbow Ridge sits on public BLM land where recreational rockhounding is allowed under FLPMA regulations. You can collect up to 25 pounds per day at no cost, though commercial collection and motorized excavation are prohibited."
+    },
+    {
+      "question": "What is the best time of year to rockhound for opal near Gerlach, Nevada?",
+      "answer": "October through April offers the most pleasant collecting conditions. Summer temperatures in this remote high desert often exceed 95 degrees Fahrenheit, creating dangerous heat exposure. Fall and spring provide mild 50-70 degree temperatures ideal for hiking and rock hunting on the gentle slopes."
+    },
+    {
+      "question": "What tools do you need to collect opal at Rainbow Ridge Mine?",
+      "answer": "Hand tools only are permitted on BLM land. Bring a small pry bar, chisel, and geology hammer to carefully extract opal specimens from host rock. A 10x hand lens helps identify thin opal seams before attempting extraction. Opals are relatively soft, so work carefully to avoid breaking specimens."
+    },
+    {
+      "question": "How do you get to Rainbow Ridge Opal Mine from the nearest town?",
+      "answer": "From Gerlach (approximately 55 miles south), head north on NV 34 toward the Black Rock Desert region for 35-40 miles on BLM roads. A 4WD or high-clearance vehicle is recommended as final approaches use rough desert roads that may be impassable after rain. Confirm access conditions with Winnemucca BLM office before traveling."
+    },
+    {
+      "question": "Is Rainbow Ridge Opal Mine suitable for beginner rockhounders and families?",
+      "answer": "Yes, the gentle sloping terrain and surface-exposed specimens make it accessible for beginners and families with children ages 8 and older. The site requires no special permits and allows personal use collecting up to 25 pounds per day. However, plan for the extreme remoteness - bring plenty of water, food, fuel, and supplies, as the nearest services are 55+ miles away with no cell service available."
+    }
+  ],
+  "meta_title": "Rainbow Ridge Opal Mine - Nevada Rockhounding",
+  "meta_description": "Collect fire opals and chalcedony on BLM public land in Humboldt County. 25 lbs daily, no permit. Open year-round rockhounding in remote Nevada high desert.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T06:43:14.977Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:46:03.182Z"
+}

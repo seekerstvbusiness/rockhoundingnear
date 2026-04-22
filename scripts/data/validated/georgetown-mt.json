@@ -1,0 +1,100 @@
+{
+  "slug": "georgetown-mt",
+  "name": "Georgetown",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Deer Lodge",
+  "city_slug": "deer-lodge",
+  "county": "Deer Lodge",
+  "county_slug": "deer-lodge",
+  "lat": 46.199915,
+  "lng": -113.217594,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Gold"
+  ],
+  "short_description": "BLM public land near Deer Lodge offering quartz, agate, and jasper specimens in moderate terrain. No permit required for personal use rockhounding.",
+  "description": "Georgetown sits on Montana BLM land in the historic Deer Lodge County mining district, where centuries of prospecting have revealed the region's rich mineral wealth. This moderate-slope terrain offers accessible rockhounding for collectors seeking quartz varieties, agates, and jaspers typical of Montana's Basin and Range geology. The area combines easy access from nearby Deer Lodge with genuine collecting opportunities - you can find quality specimens without extensive backcountry hiking.\n\nThe geological setting here reflects the uplift and mineralization that occurred during the Laramide Orogeny, when hydrothermal fluids deposited silica-rich minerals throughout the region. Quartz veins and secondary silica minerals fill fractures in the surrounding metamorphic and igneous rock. The moderate slopes allow you to search hillsides and wash areas where erosion naturally exposes fresh specimens.\n\nThis is a year-round destination in western Montana's mountain valleys, though late spring through early fall offers the most comfortable conditions. The BLM designation means no permits are required and no fees apply - you simply follow the 25 lb per day personal use limit. The area is ideal for families and beginners who want to experience real collecting on public land without complicated regulations or expensive access fees.\n\nWhen you visit, focus on exposed hillsides where weathering has loosened specimens, and check small draws and washes where eroded material collects. The moderate terrain is manageable for most hikers, and the combination of BLM accessibility and genuine mineral deposits makes Georgetown a solid choice for Montanans and travelers exploring the state's rockhounding options.",
+  "history": "This region sits within the Belt Supergroup metamorphic rocks and younger Laramide-age granitic intrusions that dominate Deer Lodge County. Hydrothermal activity associated with these intrusions deposited quartz veins and silica-rich fluids that formed the agate and jasper deposits found here today. The area has a long history of hard rock and placer mining, making it a natural focal point for modern rockhounders seeking the same mineral-rich ground that attracted prospectors over a century ago.",
+  "tips": "Search the moderate slopes on the north and east-facing hillsides where erosion and weathering naturally expose quartz and agate specimens; walk the washes after seasonal runoff to find loose material that has been freshly dislodged. Bring a chisel and small hammer to carefully extract specimens from host rock, and use a 5-gallon bucket to carry specimens and water. Look for translucent quartz crystals with hints of color, banded agates in whites and earth tones, and red or brown jasper fragments - specimens here tend toward the palm-sized range rather than museum-quality pieces, so focus on collecting variety rather than single trophy finds.",
+  "terrain_notes": "Moderate slope terrain with scattered sagebrush, bitterroot, and low vegetation typical of Montana valleys at 4,000-4,500 feet elevation. Walking surfaces are mixed - gravel and decomposed granite on hillsides, rocky washes, and stable ground throughout. No wheelchair access. Sturdy hiking boots strongly recommended for uneven footing and occasional loose rock. Most productive areas are within 0.5 to 1.5 miles of parking.",
+  "best_season": "May - September. Higher elevation (4,000+ feet) and Montana mountain climate make spring through early fall ideal. Snow blocks access November through April. Late spring and early summer offer the best combination of accessible terrain and fresh erosion-exposed specimens.",
+  "written_directions": "From Deer Lodge, take Montana Highway 1 north approximately 8 miles toward Anaconda. Watch for BLM access signs and pullouts on the east side of the highway near the Georgetown area. Park at any signed BLM access point or pullout along the road. The GPS coordinates (46.199915, -113.217594) mark the general Georgetown rockhounding area accessible from Highway 1 pullouts.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Montana Highway 1 is a well-maintained paved highway. BLM access roads and pullouts are graded gravel or dirt. No high-clearance vehicle required; standard passenger cars can reach parking areas.",
+  "parking_notes": "Multiple unsigned or minimally marked pullouts along Highway 1 corridor. No formal parking lot. Pull completely off the highway at any safe, legal parking area. Capacity varies by location - typically 2-6 vehicles per pullout.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or powered tools. Hand tools only (hammer, chisel, pry bar). Collect loose specimens and those easily removed by hand or simple hand tools. Leave no trash. Respect any posted closures or active mining claims.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or powered tools\nHand tools only (hammer, chisel, pry bar)\nCollect loose specimens and easily hand-removable material\nLeave no trash\nRespect posted closures and active mining claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "sharp_material",
+    "cold"
+  ],
+  "nearest_services": "Deer Lodge, Montana - approximately 8 miles south. Full services including gas, food, lodging, and water. Anaconda approximately 15 miles north with similar services.",
+  "accessibility_notes": "Relatively flat to moderate slope terrain accessible to most hikers. Unpaved road and gravel parking areas. Uneven rocky terrain in collection areas. No wheelchair access to primary rockhounding zones. Sturdy footwear required for loose rock and uneven footing. Walking distances from parking typically 0.25 to 1.5 miles to productive areas.",
+  "alternative_names": [],
+  "nearest_city": "Deer Lodge",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/georgetown-mt/cover.png",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/georgetown-mt/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/georgetown-mt/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/georgetown-mt/mineral-3-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Georgetown, Montana?",
+      "answer": "Georgetown BLM land produces quartz varieties, banded and solid agates, red and brown jasper, and occasional small gold flakes. Most specimens run palm-sized to fist-sized. The area's hydrothermal history makes it particularly good for quartz crystals and translucent agate specimens."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Georgetown, Montana?",
+      "answer": "No permit is required. Georgetown sits on Montana BLM public land where recreational rockhounding is allowed under personal use regulations. You must stay within the 25 lb per day limit and use hand tools only - no motorized equipment."
+    },
+    {
+      "question": "Is Georgetown rockhounding free, or are there access fees?",
+      "answer": "Rockhounding at Georgetown is completely free. There are no access fees, parking fees, or permit costs. You can collect up to 25 lbs per day at no charge on BLM land."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Deer Lodge?",
+      "answer": "May through September offers the best rockhounding conditions at Georgetown. Mountain snow typically blocks access November through April, and the moderate slope terrain is safest and most productive when snow-free. Late spring and early summer provide the freshest erosion-exposed specimens."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Georgetown?",
+      "answer": "Bring a small hammer and chisel for carefully extracting specimens from host rock, a 5-gallon bucket for carrying finds and water, sturdy hiking boots for uneven terrain, and a backpack or field bag. Hand tools only - no power tools or motorized equipment are permitted on BLM land."
+    },
+    {
+      "question": "Is Georgetown a good rockhounding spot for beginners and families?",
+      "answer": "Yes, Georgetown is beginner and family-friendly. The easy terrain, no-permit requirement, free access, and reliable quartz and agate finds make it ideal for new rockhounders. Kids ages 6+ can participate comfortably. The moderate slopes don't require technical hiking skills, and the 25 lb daily limit encourages sustainable collecting without pressure to dig extensively."
+    }
+  ],
+  "meta_title": "Georgetown Rockhounding - Montana BLM",
+  "meta_description": "Find quartz, agate, and jasper at Georgetown, Montana BLM land. Free public rockhounding near Deer Lodge, no permit required, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from GPS coordinates and highway proximity without street-level terrain data",
+    "gem_types - inferred from regional Montana geology; should be verified with local BLM office or recent collector reports",
+    "parking_notes - estimated capacity based on typical BLM pullouts; actual parking may vary",
+    "cell_service - estimated as spotty based on rural Montana location; verify with local carriers"
+  ],
+  "enriched_at": "2026-04-21T19:06:43.624Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:09:27.034Z"
+}

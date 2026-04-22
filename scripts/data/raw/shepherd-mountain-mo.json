@@ -1,0 +1,60 @@
+{
+  "slug": "shepherd-mountain-mo",
+  "name": "Shepherd Mountain",
+  "lat": 37.60646,
+  "lng": -90.643455,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Iron County",
+  "city_slug": "iron-county",
+  "county": "Iron",
+  "county_slug": "iron",
+  "geocoded_city": "Pilot Knob",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Shepherd%20Mountain%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Shepherd%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Shepherd%20Mountain%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1485,
+      "meters": 453
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:13:53.521Z"
+  },
+  "scraped_at": "2026-04-21T19:13:53.521Z",
+  "scrape_quality": "minimal"
+}

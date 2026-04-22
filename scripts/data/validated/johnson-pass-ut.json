@@ -1,0 +1,97 @@
+{
+  "slug": "johnson-pass-ut",
+  "name": "Johnson Pass",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Tooele",
+  "city_slug": "tooele",
+  "county": "Tooele",
+  "county_slug": "tooele",
+  "lat": 40.337181,
+  "lng": -112.572655,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM public land near Tooele offering recreational rockhounding for quartz, chalcedony, and jasper specimens. No permit required, 25 lb daily limit.",
+  "description": "Johnson Pass is an accessible BLM rockhounding destination in Tooele County, Utah, where collectors can find quality quartz, chalcedony, and jasper specimens in a semi-arid Great Basin landscape. The site sits within the Oquirrh Mountains region, an area rich in Tertiary-aged igneous rocks and mineralized zones formed during extensive volcanism and hydrothermal activity. The terrain around Johnson Pass features exposed ridges and wash areas where silica-rich minerals concentrate in accessible outcrops and alluvial deposits.\n\nThis location is ideal for recreational collectors seeking attractive specimens without extensive technical skill or specialized permits. The surrounding landscape is typical of the Basin and Range province - open sagebrush slopes with scattered rock exposures and seasonal washes that naturally concentrate heavier minerals. Elevations in this area range from 5,500 to 6,200 feet, making it accessible spring through fall with manageable hiking distances from parking areas.\n\nRockhounders should focus on wash gravels, slope washes, and exposed hillsides where quartz nodules and chalcedony specimens weather out of host rock. The area's geology supports good specimen recovery, and many collectors report finding material suitable for both raw display and lapidary work. Johnson Pass offers a straightforward introduction to Great Basin rockhounding with minimal logistics or access complications.",
+  "history": "Johnson Pass sits within the Oquirrh Mountains, a north-south trending range formed by Laramide-age compression and thrust faulting. Tertiary volcanic rocks and associated hydrothermal alteration zones deposited the quartz and chalcedony mineralizations that collectors find today, with silica-rich fluids precipitating into fractures and cavities during cooling and mineralization events 30-40 million years ago.",
+  "tips": "Search wash bottoms and hillside gullies where water runoff naturally concentrates heavier quartz and jasper fragments - these are easiest to spot against light-colored alluvium. Bring a small hand lens to examine quartz crystals in situ before extraction; look for lustrous terminations and clear to milky white colors. Focus on south and east-facing slopes where erosion exposes fresh material, and check loose scree piles below outcrops where specimens weather free. Work early morning in spring or fall to avoid afternoon heat and maximize daylight for detailed searching.",
+  "terrain_notes": "Moderate elevation terrain between 5,500 and 6,200 feet with sagebrush vegetation, scattered juniper, and rocky outcrops. Slopes are uneven but walkable; footing requires sturdy boots due to scattered small rocks and mixed talus. Most productive areas are within 0.5 to 1 mile of parking; terrain is generally open with good visibility. No sheer cliffs, but loose rock common on steeper sections.",
+  "best_season": "April - June and September - October. Spring offers good conditions after winter erosion has exposed fresh material and before extreme heat; early summer provides reliable access though heat increases by July. Fall revisits excellent conditions with lower temperatures and continued material exposure. Winter snow may impact road access at higher elevations.",
+  "written_directions": "From Tooele, take Main Street north toward Stansbury Park and continue on UT-138 east. Follow signs toward the Oquirrh Mountains foothills. Johnson Pass is accessed via rough dirt roads branching from UT-138 in the Tooele County foothills area, approximately 8-12 miles northeast of central Tooele. Look for BLM access signs marking public land boundaries. High-clearance vehicles recommended for final approach roads; standard passenger vehicles can access lower parking areas with slightly longer walking distances. Confirm current road conditions locally as seasonal maintenance varies.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough graded dirt road to main access; high-clearance recommended but not required for lower parking areas. Washboard surface common. No stream crossings in normal conditions.",
+  "parking_notes": "BLM pullouts and informal parking areas available near primary access points. Capacity 5-10 vehicles at main sites. No developed facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No power tools. Hand tools and picks only. Respect existing claims and do not disturb private adjacent property.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo power equipment\nLeave site clean",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Tooele, approximately 10 miles southwest. Gas, food, and water available in Tooele; no services at the rockhounding site.",
+  "accessibility_notes": "Relatively open terrain with uneven rocky footing. Moderate slopes but no cliffs or extreme elevation gain for main collecting areas. Sturdy hiking boots required. Walking distances 0.5-1.5 miles from parking. Not suitable for wheelchairs or severe mobility limitations, but doable for reasonably fit hikers of all ages.",
+  "alternative_names": [],
+  "nearest_city": "Tooele",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/johnson-pass-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/johnson-pass-ut/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Johnson Pass near Tooele, Utah?",
+      "answer": "Johnson Pass BLM land features quartz, chalcedony, and jasper specimens. Collectors find clear to milky white quartz crystals, colorful chalcedony nodules, and jasper in red, brown, and tan varieties. Most specimens are found loose in wash gravels or weathering from hillside outcrops."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Johnson Pass?",
+      "answer": "No permit is required for recreational collecting on BLM land at Johnson Pass. However, you must follow FLPMA regulations: personal use only, 25 lb daily limit, and hand tools only. No commercial collection is allowed."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Johnson Pass?",
+      "answer": "April through June and September through October offer ideal conditions. Spring provides fresh material exposure after winter erosion and cooler temperatures before summer heat. Fall offers the same advantages with lower heat. July and August are possible but hot; winter access depends on snow conditions affecting road quality."
+    },
+    {
+      "question": "How far is Johnson Pass from Tooele and what kind of vehicle do I need?",
+      "answer": "Johnson Pass is approximately 10 miles northeast of Tooele via UT-138 and rough BLM access roads. A standard passenger vehicle can access lower parking areas, though high-clearance is recommended for closer approaches. The final access roads are graded dirt with washboard texture."
+    },
+    {
+      "question": "Is Johnson Pass good for beginner rockhounders and families with kids?",
+      "answer": "Yes, Johnson Pass is beginner-friendly and family-suitable. Terrain is moderate with no technical scrambling required, walking distances are reasonable (0.5-1.5 miles from parking), and quartz and jasper specimens are relatively easy to spot. Children ages 6 and up can participate with adult supervision."
+    },
+    {
+      "question": "What tools should I bring to collect quartz and jasper at Johnson Pass?",
+      "answer": "Bring a hand pick, small hammer, and chisel for specimen extraction - motorized tools are not allowed. A magnifying lens helps identify quality pieces before collecting. Wear sturdy hiking boots, bring plenty of water (no services on-site), sunscreen, and a backpack to carry your 25 lb daily limit. A GPS unit is helpful as cell service is spotty."
+    }
+  ],
+  "meta_title": "Johnson Pass Rockhounding - Utah BLM Quartz & Jasper",
+  "meta_description": "Find quartz, chalcedony, and jasper at Johnson Pass near Tooele, Utah. BLM public land, no permit needed, 25 lb daily limit. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (no detailed terrain map provided; directions inferred from GPS and known Tooele geography)",
+    "parking_notes (specific capacity estimated based on typical BLM access)",
+    "cell_service (inferred as spotty for rural mountain area; not confirmed)"
+  ],
+  "enriched_at": "2026-04-22T06:53:25.213Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:02:12.477Z"
+}

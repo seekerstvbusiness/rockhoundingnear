@@ -1,0 +1,60 @@
+{
+  "slug": "chestnut-creek-nj",
+  "name": "Chestnut Creek",
+  "lat": 39.788765,
+  "lng": -75.160494,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Mantua Township",
+  "city_slug": "mantua-township",
+  "county": "Gloucester",
+  "county_slug": "gloucester",
+  "geocoded_city": "Mantua Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chestnut%20Creek%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chestnut%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chestnut%20Creek%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2,
+      "meters": 1
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:42:03.439Z"
+  },
+  "scraped_at": "2026-04-21T18:42:03.439Z",
+  "scrape_quality": "minimal"
+}

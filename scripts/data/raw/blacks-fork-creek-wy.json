@@ -1,0 +1,65 @@
+{
+  "slug": "blacks-fork-creek-wy",
+  "name": "Blacks Fork Creek",
+  "lat": 41.568326,
+  "lng": -110.141358,
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "state_code": "WY",
+  "city": "Uinta County",
+  "city_slug": "uinta-county",
+  "county": "Uinta",
+  "county_slug": "uinta",
+  "geocoded_city": "Uinta County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wyoming.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Blacks%20Fork%20Creek%20Wyoming"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Blacks%20Fork%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Blacks%20Fork%20Creek%20Wyoming"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 6302,
+      "meters": 1921
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:43:03.615Z"
+  },
+  "scraped_at": "2026-04-21T18:43:03.615Z",
+  "scrape_quality": "partial"
+}

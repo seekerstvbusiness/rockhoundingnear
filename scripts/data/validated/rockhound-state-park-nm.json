@@ -1,0 +1,100 @@
+{
+  "slug": "rockhound-state-park-nm",
+  "name": "Rockhound State Park",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Deming",
+  "city_slug": "deming",
+  "county": "Luna",
+  "county_slug": "luna",
+  "lat": 32.187278,
+  "lng": -107.612646,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "Public rockhounding area near Deming offering abundant agate, chalcedony, and quartz specimens. Easy collecting on BLM land with no permit required and generous daily limits.",
+  "description": "Rockhound State Park sits in Luna County's high desert landscape at 4,612 feet elevation, offering some of New Mexico's most accessible public rockhounding opportunities. The site features gentle slopes and open terrain ideal for families and beginners seeking quality agate, chalcedony, and quartz specimens. Collectors can search washes, hillsides, and exposed outcrops for colorful agates and translucent quartz nodules that eroded from nearby volcanic and silica-rich formations.\n\nThe geology here reflects Miocene-era volcanic activity across the Basin and Range province. Silica-rich groundwater percolated through fractured volcanic rocks and deposited micro-crystalline quartz varieties over millions of years, creating the agate nodules and chalcedony found throughout the area today. The gentle slopes and desert weathering have exposed these specimens near the surface, making them recoverable by hand collection.\n\nVisitors appreciate the lack of strict regulations and the opportunity to keep substantial quantities of material. The open desert environment provides excellent visibility of the ground, and the low vegetation makes specimen spotting straightforward. Many collectors return repeatedly to work different wash systems and hillside exposures across the public land.\n\nExpect to spend half a day to a full day here. The terrain is walkable but uneven, with loose volcanic rock and sharp material underfoot. Spring and fall offer the most comfortable temperatures, though winter is also pleasant. Summer heat can be intense in this exposed desert location.",
+  "history": "This region sits within the Basin and Range province where Miocene volcanic eruptions and associated hydrothermal activity deposited silica-rich fluids through fracture systems, creating the agate and chalcedony deposits that make this area valuable today. The accessible surface specimens are the result of millions of years of desert weathering and erosion exposing these mineral treasures.",
+  "tips": "Search washes and arroyos first, where water erosion concentrates specimens and exposes agates weathered from surrounding hillsides. Look for translucent or banded stones ranging from walnut to fist size, often with reddish, white, gray, or tan banding. Bring a hand lens to identify chalcedony's waxy luster and fine crystal structure. Work early morning when lighting helps spot the subtle color variations in specimens against the desert floor.",
+  "terrain_notes": "Elevation 4,612 feet with gentle slopes and open desert terrain. Sparse creosote and yucca vegetation. Ground is rocky with volcanic material and loose stones. Walking distance from parking is variable depending on chosen collecting area, typically 100 yards to 0.5 miles. Footing is uneven with loose rock and sharp volcanic material requiring sturdy boots.",
+  "best_season": "October - April. Fall through spring offer comfortable temperatures for extended fieldwork. Winter is mild at this elevation. Summer temperatures exceed 90F regularly, making daytime collecting uncomfortable and increasing heat hazard risk.",
+  "written_directions": "From Deming, take US 180 west for approximately 30 miles toward the Arizona border. The Rockhound State Park area is accessed via local roads branching north or south from US 180 in the Luna County ranching region. Specific access points are marked on BLM maps. Road surfaces are typically unpaved ranch roads and rough desert tracks suitable for passenger vehicles with high clearance or AWD vehicles. Ask locally in Deming for current access conditions and specific turn-off locations.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved ranch roads and desert tracks with washboard surface. High clearance recommended. May be impassable after heavy rain. Check locally before visiting.",
+  "parking_notes": "Informal pullouts and open desert parking. No developed parking lot. Park off the road on open ground. Capacity limited only by available space.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No digging tools that alter the landscape. Hand collection only. Respect private property boundaries marked on BLM maps.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nHand collection only\nRespect marked property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Deming, approximately 30 miles east. Gas, food, water, and supplies available in town.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers. Uneven rocky ground with loose volcanic material requires sturdy footwear and careful footing. Not wheelchair accessible due to unpaved roads and rough terrain. No facilities at the site.",
+  "alternative_names": [],
+  "nearest_city": "Deming",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/rockhound-state-park-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/rockhound-state-park-nm/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/rockhound-state-park-nm/mineral-2-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/rockhound-state-park-nm/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and quartz can I find at Rockhound State Park, New Mexico?",
+      "answer": "This area is known for banded agates, jasper, chalcedony, and translucent quartz specimens. Colors range from red and orange to white, gray, and tan. Most specimens are walnut to fist-sized, ideal for collectors. The chalcedony often displays the characteristic waxy luster and fine banding prized by lapidaries."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Rockhound State Park near Deming?",
+      "answer": "No permit is required for recreational collecting on this BLM land. You can collect for personal use without advance authorization. Simply follow the 25 lb per day limit and hand-collection only rules."
+    },
+    {
+      "question": "How much material can I take home from Rockhound State Park?",
+      "answer": "You are allowed to collect and keep up to 25 lbs of material per day under FLPMA regulations for personal use. This generous limit makes it possible to fill a bucket or two with quality specimens in a single visit."
+    },
+    {
+      "question": "Is Rockhound State Park good for beginner rockhounders and families?",
+      "answer": "Yes, this is an excellent beginner location. The terrain is relatively gentle and open, making specimen spotting straightforward. No special permits, fees, or tools are required. Kids aged 6 and up can participate effectively. The easy access and abundant surface specimens make this ideal for first-time collectors."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Deming, New Mexico?",
+      "answer": "October through April offers the most comfortable collecting conditions. Fall and spring provide ideal temperatures for extended fieldwork. Winter is mild at 4,600+ feet elevation. Summer temperatures regularly exceed 90F and pose heat hazards in the exposed desert."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at Rockhound State Park?",
+      "answer": "Hand collection only is allowed, so you need a hand pick or chisel, collection bag, and hand lens for identifying chalcedony and agate structure. Bring sturdy boots for rough volcanic terrain, sun protection, and 2-3 liters of water. A bucket or mesh bag works well for carrying your daily limit of 25 lbs."
+    }
+  ],
+  "meta_title": "Rockhound State Park - Agate Rockhounding in New Mexico",
+  "meta_description": "Find agate, chalcedony, and quartz at Rockhound State Park near Deming, NM. No permit required on public BLM land. 25 lb daily limit. Perfect for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - specific access points should be verified locally with BLM Luna County office",
+    "road_conditions - winter washout patterns should be confirmed with current BLM advisories",
+    "nearest_city_distance - estimated from GPS coordinates"
+  ],
+  "enriched_at": "2026-04-22T06:47:15.375Z",
+  "scrape_quality": "rich",
+  "images_processed_at": "2026-04-22T06:52:26.009Z"
+}

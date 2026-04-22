@@ -1,0 +1,60 @@
+{
+  "slug": "kailua-area-north-hi",
+  "name": "Kailua Area (North)",
+  "lat": 21.457984,
+  "lng": -157.734412,
+  "state": "Hawaii",
+  "state_slug": "hawaii",
+  "state_code": "HI",
+  "city": "Honolulu County",
+  "city_slug": "honolulu-county",
+  "county": "Honolulu",
+  "county_slug": "honolulu",
+  "geocoded_city": "Honolulu County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-hawaii.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Kailua%20Area%20(North)%20Hawaii"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Kailua%20Area%20(North)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Kailua%20Area%20(North)%20Hawaii"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 9,
+      "meters": 3
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:32:55.766Z"
+  },
+  "scraped_at": "2026-04-21T16:32:55.766Z",
+  "scrape_quality": "minimal"
+}

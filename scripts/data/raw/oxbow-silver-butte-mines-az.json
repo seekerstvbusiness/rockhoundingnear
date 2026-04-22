@@ -1,0 +1,87 @@
+{
+  "slug": "oxbow-silver-butte-mines-az",
+  "name": "Oxbow & Silver Butte Mines",
+  "lat": 34.16844,
+  "lng": -111.353996,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/oxbow-silver-butte-mines"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Oxbow%20%26%20Silver%20Butte%20Mines%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Oxbow%20%26%20Silver%20Butte%20Mines",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Oxbow%20%26%20Silver%20Butte%20Mines%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "moderate slope",
+    "nearest_city": {
+      "name": "Fountain Hills",
+      "distance_mi": 44,
+      "population": 23435
+    },
+    "roads": [
+      {
+        "name": "South Beeline Highway",
+        "ref": "AZ 87",
+        "type": "trunk",
+        "dist": 4.3
+      },
+      {
+        "name": "North Beeline Highway",
+        "ref": "AZ 87;AZ 260",
+        "type": "primary",
+        "dist": 5.3
+      },
+      {
+        "name": "Payson-Winslow Highway",
+        "ref": "AZ 87;AZ 260",
+        "type": "primary",
+        "dist": 6.4
+      },
+      {
+        "name": "North Beeline Highway",
+        "ref": "AZ 87;AZ 260",
+        "type": "primary",
+        "dist": 6.6
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T17:11:19.052Z"
+  },
+  "scraped_at": "2026-04-20T17:11:19.052Z",
+  "scrape_quality": "partial"
+}

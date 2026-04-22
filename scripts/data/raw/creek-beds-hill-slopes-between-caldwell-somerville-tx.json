@@ -1,0 +1,57 @@
+{
+  "slug": "creek-beds-hill-slopes-between-caldwell-somerville-tx",
+  "name": "Creek beds & hill slopes between Caldwell & Somerville",
+  "lat": 30.362894,
+  "lng": -96.691251,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Burleson County",
+  "city_slug": "burleson-county",
+  "county": "Burleson",
+  "county_slug": "burleson",
+  "geocoded_city": "Burleson County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Creek%20beds%20%26%20hill%20slopes%20between%20Caldwell%20%26%20Somerville%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Creek%20beds%20%26%20hill%20slopes%20between%20Caldwell%20%26%20Somerville",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Creek%20beds%20%26%20hill%20slopes%20between%20Caldwell%20%26%20Somerville%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:40:42.913Z"
+  },
+  "scraped_at": "2026-04-21T18:40:42.913Z",
+  "scrape_quality": "minimal"
+}

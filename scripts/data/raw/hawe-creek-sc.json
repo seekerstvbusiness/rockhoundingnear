@@ -1,0 +1,60 @@
+{
+  "slug": "hawe-creek-sc",
+  "name": "Hawe Creek",
+  "lat": 33.875324,
+  "lng": -82.310851,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "McCormick County",
+  "city_slug": "mccormick-county",
+  "county": "McCormick",
+  "county_slug": "mccormick",
+  "geocoded_city": "McCormick County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hawe%20Creek%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hawe%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hawe%20Creek%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 374,
+      "meters": 114
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:53:47.991Z"
+  },
+  "scraped_at": "2026-04-21T17:53:47.991Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "st-francois-county-mo",
+  "name": "St. Francois County",
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "city": "Desloge",
+  "city_slug": "desloge",
+  "county": "Saint Francois",
+  "county_slug": "saint-francois",
+  "lat": 37.894763,
+  "lng": -90.52614,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Fluorite",
+    "Calcite"
+  ],
+  "short_description": "Explore the mineral-rich Ozark foothills of St. Francois County, where historic lead mining has exposed excellent quartz, feldspar, and fluorite specimens. Public rockhounding opportunities on stat...",
+  "description": "St. Francois County sits in the heart of Missouri's Ozark region and has been a center of mineral collecting for over a century. The county's geology is dominated by Precambrian granite, rhyolite, and metasedimentary rocks that host a diverse array of minerals. Historic lead and iron mining operations, particularly around Desloge and the Old Mines district, have created excellent exposures where collectors can find quartz crystals, feldspar, mica, fluorite, and calcite specimens.\n\nThe terrain here is gently rolling with elevations around 720 feet, typical of the eastern Ozark foothills. Old mine dumps, road cuts, and natural outcrops throughout the county provide accessible collecting sites. The area's mining heritage means tailings and waste rock piles often contain concentrated mineral specimens.\n\nCollectors visiting St. Francois County will find a mix of easy-to-moderate collecting opportunities. Some sites are on private land requiring permission, while others may be accessible through informal arrangements with local property owners or on state-managed areas. The best collecting typically occurs in spring and fall when weather is mild and road conditions are optimal.\n\nThis location is ideal for rockhounders interested in classic Ozark minerals and those wanting to explore an active historical mining region. The gentle terrain makes it accessible to families and beginners, though some sites involve walking on uneven ground and around abandoned workings.",
+  "history": "St. Francois County's geology was shaped during the Precambrian era when granitic intrusions and volcanic activity created the mineral-rich basement rocks now exposed throughout the region. The area became famous for lead and iron mining in the 1800s and early 1900s, with operations like the Desloge mines creating extensive workings that exposed fresh mineral deposits. These historic disturbances have made the county a premier rockhounding destination where collectors benefit from mining operations that would be impossible to replicate through natural erosion.",
+  "tips": "Search old mine dumps and roadside cuts along county roads near Desloge and the Old Mines area - these disturbed areas concentrate specimens that are difficult to find in natural outcrops. Use a geology hammer and chisel to carefully extract specimens from quartz veins and feldspar-rich granite exposures; fluorite often occurs in association with quartz and can be identified by its purple, blue, or green coloration. Look for mica books (layered sheets) in granitic rocks and calcite in fractures and cavities - specimens here tend to be well-formed due to the stable mineral environments in the Ozark basement rocks.",
+  "terrain_notes": "Gently rolling terrain at approximately 720 feet elevation with mixed hardwood forest typical of the Ozark foothills. Walking distances from parking vary by site but generally range from roadside access to short walks of less than a mile. Footing can be uneven on mine dumps and around old workings, with some areas featuring loose rock and exposed cuts. The gentle slope makes most areas accessible to average hikers, though sturdy footwear is recommended.",
+  "best_season": "April - June and September - October. Spring and fall offer mild temperatures ideal for extended field work. Summer heat and humidity can be challenging, while winters are mild but can be muddy.",
+  "written_directions": "From Desloge, head north on County Road H for approximately 3 miles to access the Old Mines district. Look for pullouts along the road near old mine workings and exposed granite cuts. Alternative: From Desloge, take State Route 32 east for 2-3 miles and explore county roads and forest access points. Most productive collecting occurs within a 5-mile radius of Desloge. Ask locally about current access to specific mine sites and private land permissions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "private",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "County roads are generally maintained asphalt or gravel. Some access roads to remote sites may be rough or rutted, especially after heavy rain. High-clearance vehicles recommended for exploring lesser-used forest roads.",
+  "parking_notes": "Informal roadside pullouts near mining areas and county road intersections. No designated parking lots at most sites. Exercise caution on active county roads and respect private property boundaries.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Respect private property and seek owner permission before collecting on private land. Do not trespass on active mining operations or posted areas. Collect only what you can safely carry. Do not damage structures, equipment, or the landscape beyond careful specimen extraction. Follow all Missouri Department of Natural Resources guidelines for rockhounding on state lands.",
+  "quantity_limits": null,
+  "rules": "Seek permission on private land\nDo not trespass on active mines or posted areas\nRemove only specimens you can carry\nDo not damage structures or equipment\nFollow Missouri DNR guidelines",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "abandoned_mines",
+    "loose_rock",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Desloge has gas stations, restaurants, and convenience stores. Nearest larger services (hotels, hospitals) approximately 20 miles away in Farmington or De Soto.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers. Roadside parking near collecting areas minimizes walking distance. Uneven ground around mine dumps and some loose rock present. No wheelchair access to most sites. Sturdy footwear recommended but suitable for families with children aged 6 and older.",
+  "alternative_names": [
+    "Desloge Mining Area",
+    "Old Mines District",
+    "Ozark Foothills Rockhounding"
+  ],
+  "nearest_city": "Desloge",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/missouri/st-francois-county-mo/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What minerals can I find rockhounding in St. Francois County near Desloge?",
+      "answer": "St. Francois County is known for excellent quartz crystals, feldspar, mica books, fluorite (purple, blue, and green varieties), and calcite specimens. The Precambrian granite and rhyolite rocks of the Ozark foothills naturally host these minerals, and historic mining operations have exposed fresh deposits that are easily accessible to collectors."
+    },
+    {
+      "question": "How much does it cost to rockhound in St. Francois County, Missouri?",
+      "answer": "Rockhounding in St. Francois County is free - there are no fee dig sites. Access depends on land ownership; some collecting occurs on informal private land access with owner permission, and costs depend entirely on arrangements with individual property owners. Many roadside outcrops are accessible without fees."
+    },
+    {
+      "question": "Do I need a permit to collect rocks and minerals in St. Francois County?",
+      "answer": "No permit is required for rockhounding in St. Francois County. However, you must respect private property boundaries, seek owner permission before collecting on private land, and avoid posted areas or active mining operations. Always follow Missouri Department of Natural Resources guidelines."
+    },
+    {
+      "question": "What is the best season for rockhounding in St. Francois County, Missouri?",
+      "answer": "The best seasons are April through June and September through October. Spring and fall offer mild temperatures ideal for spending long hours in the field. Summer can be hot and humid, while winters are generally mild but may bring muddy conditions."
+    },
+    {
+      "question": "Is St. Francois County rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, St. Francois County is excellent for beginners and families. The terrain is gently rolling and relatively accessible, and specimens are found in easy-to-reach roadside areas and mine dumps. Children ages 6 and up can participate comfortably. The area's mining history makes it educational, and the variety of minerals appeals to all skill levels."
+    },
+    {
+      "question": "What tools do I need for rockhounding in the Desloge mining area?",
+      "answer": "A basic geology hammer and cold chisel are essential for extracting specimens from quartz veins and feldspar-rich granite. Bring a magnifying glass to identify fluorite and other minerals, a field guide for mineral identification, and a collection bag. Sturdy boots or hiking shoes are recommended due to uneven terrain around mine dumps and old workings."
+    }
+  ],
+  "meta_title": "St. Francois County Rockhounding - Missouri",
+  "meta_description": "Find quartz, feldspar, fluorite, and mica in St. Francois County near Desloge. Historic mining area with easy access and beginner-friendly collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "collection_rules",
+    "access_type",
+    "primary_category",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-22T06:41:30.344Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T06:43:37.956Z"
+}

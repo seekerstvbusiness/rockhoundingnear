@@ -1,0 +1,97 @@
+{
+  "slug": "kemmerer-wy",
+  "name": "Kemmerer",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Kemmerer",
+  "city_slug": "kemmerer",
+  "county": "Lincoln",
+  "county_slug": "lincoln",
+  "lat": 41.811368,
+  "lng": -110.477977,
+  "gem_types": [
+    "Petrified Wood",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land near Kemmerer known for Eocene-age fossil specimens and petrified wood. Personal use collecting with no permit required on this high desert plateau.",
+  "description": "Kemmerer sits in the heart of Lincoln County's fossil-rich badlands, where Eocene-epoch sedimentary formations (approximately 50 million years old) are exposed across BLM-administered terrain. This area was part of the Green River Formation, a massive lacustrine (lake) deposit that accumulated during the early Tertiary period. The region has yielded countless well-preserved fossils including fish, plants, and invertebrates, making it a destination for both serious rockhounders and casual collectors.\n\nThe landscape here is characteristically high desert - sagebrush-covered slopes with exposed cliff faces and eroded badlands revealing layered sedimentary rock. Elevation at 7,122 feet means cooler temperatures than lower desert areas, but exposed terrain provides excellent visibility for spotting fossil fragments and agate nodules weathering out of hillsides. The relatively flat overall slope makes access easier than steeper mountainous terrain.\n\nWhat to expect: You will find small fossil fragments, petrified wood pieces, and occasional chalcedony nodules weathering from the Eocene shales and siltstones. Large, complete specimens are rare on public land, but patient searching along erosion gullies and wash banks typically yields quality finds. This is genuine rockhounding terrain - you are searching loose material and exposed surfaces, not excavating.\n\nThe Kemmerer area has been a center of paleontological interest since the early 1900s, when scientific collecting from Green River Formation rocks became recognized as invaluable for understanding early mammalian and plant evolution. Today, BLM policy allows personal use collection on designated public lands, making this one of Wyoming's more accessible fossil sites.\n\nBring water, sun protection, and sturdy boots. The terrain can be uneven with loose rock scattered across badland slopes. Plan a half-day minimum to make the drive worthwhile and allow time for systematic searching.",
+  "history": "The Kemmerer area overlies the Green River Formation, deposited during the Eocene epoch (approximately 50-56 million years ago) when a massive system of interconnected freshwater lakes covered much of the Rocky Mountain region. Lacustrine sediments accumulated layer after layer, creating ideal conditions for fossil preservation. Early paleontologists recognized the scientific value of these rocks in the early 1900s, and commercial fossil quarrying has continued here for over a century, though most large-scale operations are now on private land. The BLM-managed lands surrounding Kemmerer retain excellent surface fossils accessible to public collectors.",
+  "tips": "Search along active erosion gullies and wash banks where water runoff continuously exposes fresh material - this is where the best surface finds concentrate. Look for darker silhouette shapes against lighter shale faces: fossil fish are flattened, scale-like, and dark; petrified wood appears as tan or reddish fragments with visible cellular texture. Bring a small chisel and hammer to carefully extract specimens from weathering shale, but do not excavate into solid cliff faces - personal use limits apply to surface collection only. Early morning light raking across badland slopes makes fossil outlines much more visible than midday sun.",
+  "terrain_notes": "Elevation 7,122 feet on high desert plateau. Relatively flat overall slope with scattered sagebrush vegetation and exposed badlands eroded into gullies and small canyons. Footing is uneven with loose rock, shale fragments, and small talus scattered across most walking surfaces. Unpaved access roads to parking areas may require high-clearance vehicles after recent rain. Walking distance from parking typically 0.25 to 2 miles depending on which drainage or exposure you target. No shade available - sun exposure is direct and intense during summer months.",
+  "best_season": "May - September for comfort; April and October are acceptable but cool. The high elevation (7,122 ft) means winter snow blocks access November through March. Avoid midsummer (July-August) midday heat - early morning and evening searches are far more comfortable. Spring and early fall offer ideal conditions with moderate temperatures and low precipitation.",
+  "written_directions": "From Kemmerer, take Wyoming Highway 30 south and east for approximately 12 miles toward the hamlet of Fossil Butte. Turn south on county roads or BLM access roads marked for recreational use; specific entry points vary seasonally and by road maintenance status. A detailed county map or GPS unit showing BLM boundaries is highly recommended. Check with the BLM Kemmerer Field Office (located in town) for current road status and recommended collecting areas, as access changes with seasons and maintenance cycles. High-clearance vehicle recommended for final approach roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM access roads, may be washboard or rutted. High-clearance passenger vehicles acceptable in dry season. 4WD/ATV recommended after rain.",
+  "parking_notes": "Informal pullouts and parking areas along BLM access roads. No developed parking lot. Space for 3-8 vehicles at most locations. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or digging into solid rock. Surface collection and weathered material only. Do not disturb paleontological sites or research areas marked by the BLM or professional institutions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lb per day limit per FLPMA\nNo commercial collection\nNo motorized excavation\nSurface collection only\nRespect marked research areas",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "heat",
+    "remote"
+  ],
+  "nearest_services": "Kemmerer, 12-15 miles north. Full services including gas, food, water, and lodging. Limited services in Fossil, 5 miles south.",
+  "accessibility_notes": "Relatively flat terrain suitable for most hikers and families. Uneven footing with scattered shale fragments and loose rock requires sturdy footwear. No wheelchair access on BLM access roads or collecting areas. Terrain is open and exposed with minimal climbing required. Older children (6+) and most adults can participate comfortably on day hikes of 0.5 to 2 miles.",
+  "alternative_names": [
+    "Green River Formation collecting area",
+    "Fossil Butte vicinity"
+  ],
+  "nearest_city": "Kemmerer",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/kemmerer-wy/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What fossils can I find rockhounding near Kemmerer, Wyoming?",
+      "answer": "The Kemmerer area yields abundant Eocene-epoch fossils from the Green River Formation including petrified fish, leaf impressions, invertebrate shells, and petrified wood fragments. Most surface finds are small specimens ranging from 1-4 inches, though patient searching can yield larger pieces. Complete fossils are rare on public land but partial specimens suitable for display are common."
+    },
+    {
+      "question": "Do I need a permit to collect fossils on BLM land near Kemmerer?",
+      "answer": "No permit is required for personal use fossil collecting on BLM land near Kemmerer. You are limited to 25 lbs per day under FLPMA regulations. Commercial collection is not allowed. Simply follow collection rules and stay on designated public land."
+    },
+    {
+      "question": "When is the best time to rockhound for fossils in Kemmerer, Wyoming?",
+      "answer": "May through September is ideal for comfortable collecting at 7,122-foot elevation. Avoid July-August midday heat by collecting early morning or evening. Spring (April-May) and fall (September-October) offer the most pleasant temperatures. Winter snow typically closes access November through March."
+    },
+    {
+      "question": "What tools and gear do I need for Kemmerer fossil collecting?",
+      "answer": "Bring a small chisel and hammer for carefully extracting specimens from weathering shale, a hand lens for identifying small fossils, a sturdy backpack, plenty of water (at least 3 liters), sun protection, hat, and hiking boots with ankle support. A detailed county map or GPS is essential since access roads vary seasonally."
+    },
+    {
+      "question": "Is rockhounding near Kemmerer suitable for beginners and children?",
+      "answer": "Yes, Kemmerer is beginner-friendly with relatively flat terrain and accessible parking areas. The landscape makes fossils easy to spot once you develop an eye for shapes and color contrasts. Children age 6 and up can participate in day hunts. The remote setting and exposed terrain require adult supervision and proper hydration."
+    },
+    {
+      "question": "How far is Kemmerer rockhounding from town and what services are available?",
+      "answer": "Collecting areas are 12-15 miles south of Kemmerer town. The town offers full services including gas stations, restaurants, grocery stores, and lodging. Before heading to remote BLM land, fill up water containers and let someone know your plans. Cell service is spotty in the collecting areas."
+    }
+  ],
+  "meta_title": "Kemmerer Fossil Rockhounding - Wyoming BLM",
+  "meta_description": "Collect Eocene fossils and petrified wood on public BLM land near Kemmerer, Wyoming. No permit required, 25 lb daily limit. Best May-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred Fossil and Petrified Wood based on Green River Formation geology)",
+    "parking_notes (informal BLM access areas assumed)",
+    "road_conditions (typical BLM road surface assumed)"
+  ],
+  "enriched_at": "2026-04-22T06:40:40.377Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:43:36.502Z"
+}

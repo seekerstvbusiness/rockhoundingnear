@@ -1,0 +1,57 @@
+{
+  "slug": "estabrook-park-wi",
+  "name": "Estabrook Park",
+  "lat": 43.101266,
+  "lng": -87.914036,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Glendale",
+  "city_slug": "glendale",
+  "county": "Milwaukee",
+  "county_slug": "milwaukee",
+  "geocoded_city": "Glendale",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Estabrook%20Park%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Estabrook%20Park",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Estabrook%20Park%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:16:51.522Z"
+  },
+  "scraped_at": "2026-04-21T18:16:51.522Z",
+  "scrape_quality": "minimal"
+}

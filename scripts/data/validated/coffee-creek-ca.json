@@ -1,0 +1,96 @@
+{
+  "slug": "coffee-creek-ca",
+  "name": "Coffee Creek",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Carrville",
+  "city_slug": "carrville",
+  "county": "Trinity",
+  "county_slug": "trinity",
+  "lat": 41.083515,
+  "lng": -122.705082,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "Free BLM rockhounding site in the Trinity Alps region offering quartz, jasper, and agate specimens in an accessible creek setting with gentle terrain.",
+  "description": "Coffee Creek lies within BLM-managed land in northern California's Trinity County, offering rockhounds a chance to collect gemstones without permits or fees. The creek bed and surrounding washes contain quartz specimens, jasper fragments, and occasional agate nodules typical of the region's Mesozoic metamorphic and volcanic geology.\n\nThe site sits at a moderate elevation of 2,482 feet in terrain characterized by gentle slopes and creek-side collecting opportunities. This location is ideal for beginners and families who want to experience free rockhounding without extensive hiking or specialized knowledge. The surrounding area includes mixed conifer forest and open hillsides typical of the northern California ranges.\n\nCollecting here is straightforward: focus on the creek wash where water action has exposed and sorted stones, and examine exposed hillside outcrops for larger quartz veins and jasper deposits. The gentle slope means access is easier than many alpine sites, and the creek provides natural reference points for navigation.\n\nBecause this is BLM land, you have the freedom to explore without permit paperwork, but respect the 25-pound daily limit and pack out what you collect responsibly. This location works well for day trips from nearby towns and combines rockhounding with pleasant creek-side scenery in the Cascade Range foothills.",
+  "history": "This area lies within the Cascade Range geologic province where Mesozoic-era metamorphic rocks and Cenozoic volcanic activity created extensive quartz veining and jasper deposits. The combination of regional metamorphism and silica-rich hydrothermal fluids throughout the Trinity Mountains has produced the quartz and jasper specimens found in Coffee Creek washes and hillside outcrops today.",
+  "tips": "Search the creek bed and gravel washes first, where seasonal water action naturally concentrates heavier stones and exposes translucent quartz pieces. Look for white and milky quartz chunks, reddish-brown jasper fragments, and occasionally banded agate nodules half-buried in the creek gravels. Bring a small hand pick to sample exposed quartz veins on nearby hillsides, but focus most effort on the creek wash where specimens are already loose and collectible without excavation.",
+  "terrain_notes": "Elevation 2,482 feet with gentle slopes in a creek drainage. Mixed conifer forest with open hillsides. Walking distance from parking to productive collecting areas ranges from 100 feet to 0.5 miles depending on water flow and seasonal accessibility. Terrain underfoot is rocky with loose creek stones and stable hillside footing; no significant scrambling required.",
+  "best_season": "May - September. Higher elevations in this region may have snow into May. Summer and early fall offer the best access; late spring runoff can make creek crossing difficult. Avoid winter months when snow and cold limit accessibility.",
+  "written_directions": "From Carrville, head north on State Route 3 toward Weaverville for approximately 8 miles. Look for a BLM access point or turnout near Coffee Creek where the highway approaches or crosses the creek drainage. A small parking area or pullout should be visible on one side of the road. If using GPS, enter 41.083515, -122.705082 and navigate to the nearest road access point. The site may require a short walk from the highway to reach productive creek bed collecting areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "State Route 3 is a paved highway. Local access roads to the creek may be unpaved dirt or gravel pullouts; passenger vehicles can typically access parking areas.",
+  "parking_notes": "Small pullout or informal parking area near the highway. Limited capacity; may accommodate 2-4 vehicles. No developed facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect from loose material and creek washes only; do not break into solid rock formations. Pack out all specimen bags and trash. Respect private property boundaries if you cross them to access BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo breaking solid rock formations\nPack out all trash and specimen bags",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Carrville and Weaverville offer gas, food, and water services approximately 8-15 miles south.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers. Creek bed walking involves loose rounded stones; sturdy footwear recommended. No wheelchair access to productive collecting areas. Short walks from parking to creek (under 0.5 miles) make this accessible to families and older rockhounds.",
+  "alternative_names": [],
+  "nearest_city": "Carrville",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/coffee-creek-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What can I find rockhounding at Coffee Creek near Carrville, California?",
+      "answer": "Coffee Creek is known for quartz specimens, jasper fragments, and occasional agate nodules. The creek bed and washes have naturally sorted loose stones you can collect without any permits. Specimens range from small translucent quartz pieces to larger jasper chunks and banded agate pieces, all typical of the Trinity Mountains geological formation."
+    },
+    {
+      "question": "Is there a fee to rockhound at Coffee Creek, and do I need a permit?",
+      "answer": "No, Coffee Creek is on BLM public land with no permit required and no collection fee. You can collect free of charge as long as you follow BLM rules: personal use only, maximum 25 lbs per day, and no commercial collection. This makes it one of the most accessible and affordable rockhounding spots in northern California."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Coffee Creek?",
+      "answer": "May through September offers the best conditions. Late spring can bring runoff that makes creek crossing difficult, while winter snow and cold limit access at this 2,482-foot elevation. Summer and early fall provide ideal weather and stable creek conditions for comfortable specimen hunting."
+    },
+    {
+      "question": "Is Coffee Creek rockhounding suitable for beginners and families with children?",
+      "answer": "Yes, Coffee Creek is excellent for beginners and families. The site has easy, gentle terrain with no difficult climbing or scrambling required. Kids ages 6 and up can participate, and the loose creek bed material means you can collect without needing advanced tools or expertise. Dogs are welcome on the BLM land as well."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound at Coffee Creek?",
+      "answer": "Bring a small hand pick or chisel for testing exposed quartz veins on hillsides, though most productive collecting happens in the creek wash where stones are already loose. A backpack for carrying specimens up to 25 lbs, sturdy boots for rocky creek footing, water, and sun protection are essential. A magnifying glass helps identify jasper and agate patterns."
+    },
+    {
+      "question": "How do I get to Coffee Creek from Carrville, and what kind of vehicle do I need?",
+      "answer": "From Carrville, drive north on State Route 3 for about 8 miles toward Weaverville. Look for a BLM pullout or access point where the highway approaches Coffee Creek. A passenger vehicle works fine for accessing the parking area. The site is located at 41.083515, -122.705082 for GPS navigation. Short walks from parking to the productive creek bed make it accessible for most visitors."
+    }
+  ],
+  "meta_title": "Coffee Creek Rockhounding - California BLM",
+  "meta_description": "Free rockhounding at Coffee Creek, CA. Find quartz, jasper, and agate on BLM land. No permit needed. Family-friendly, easy terrain near Carrville.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-21T19:31:36.383Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:34:18.304Z"
+}

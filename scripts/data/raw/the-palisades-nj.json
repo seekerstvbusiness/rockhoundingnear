@@ -1,0 +1,60 @@
+{
+  "slug": "the-palisades-nj",
+  "name": "The Palisades",
+  "lat": 40.950041,
+  "lng": -73.920221,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Alpine",
+  "city_slug": "alpine",
+  "county": "Bergen",
+  "county_slug": "bergen",
+  "geocoded_city": "Alpine",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=The%20Palisades%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=The%20Palisades",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=The%20Palisades%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 370,
+      "meters": 113
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:26:50.952Z"
+  },
+  "scraped_at": "2026-04-21T18:26:50.953Z",
+  "scrape_quality": "minimal"
+}

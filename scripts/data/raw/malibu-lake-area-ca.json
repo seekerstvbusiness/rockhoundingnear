@@ -1,0 +1,69 @@
+{
+  "slug": "malibu-lake-area-ca",
+  "name": "Malibu Lake Area",
+  "lat": 34.108293,
+  "lng": -118.749487,
+  "state": "California",
+  "state_slug": "california",
+  "state_code": "CA",
+  "city": "Unincorporated Santa Monica Mountains",
+  "city_slug": "unincorporated-santa-monica-mountains",
+  "county": "Los Angeles",
+  "county_slug": "los-angeles",
+  "geocoded_city": "Unincorporated Santa Monica Mountains",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-california.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Malibu%20Lake%20Area%20California"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": true,
+      "url": "https://rockhoundingmap.com/?s=Malibu%20Lake%20Area",
+      "description_snippet": "Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Malibu%20Lake%20Area%20California"
+    },
+    "web_search": {
+      "found": true,
+      "url": "https://duckduckgo.com/?q=%22Malibu%20Lake%20Area%22%20California%20rockhounding%20minerals",
+      "description_snippet": "&quot;Malibu Lake Area&quot; California rockhounding minerals at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year Malibu Lake Area - Map View - rockhounding.org rockhounding.org/maps/us/ca/malibu-lake-analcite View Malibu Lake Area on an interactive map. Rockhounding location map. Malibu Lake Area - Rockhounding Location in CA rockhounding.org/us/ca/malibu-lake-analcite Find Analcite at Malibu Lake Area in CA. Access difficulty: N/A. Get directions, see photos, and read reviews from other rockhounds. Feedback"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA.",
+      "[rockhounding_map] Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy",
+      "[web_search] &quot;Malibu Lake Area&quot; California rockhounding minerals at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year Malibu Lake Area - Map View - rockhounding.org rockhounding.org/maps/us/ca/malibu-lake-analcite View Malibu Lake Area on an interactive map. Rockhounding location map. Malibu Lake Area - Rockhounding Location in CA rockhounding.org/us/ca/malibu-lake-analcite Find Analcite at Malibu Lake Area in CA. Access difficulty: N/A. Get directions, see photos, and read reviews from other rockhounds. Feedback"
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "rich",
+    "sources_found": 3
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1022,
+      "meters": 311
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:22:11.300Z"
+  },
+  "scraped_at": "2026-04-21T19:22:11.300Z",
+  "scrape_quality": "rich"
+}

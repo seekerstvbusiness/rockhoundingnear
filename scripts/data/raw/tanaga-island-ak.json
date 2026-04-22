@@ -1,0 +1,60 @@
+{
+  "slug": "tanaga-island-ak",
+  "name": "Tanaga Island",
+  "lat": 51.846249,
+  "lng": -177.868296,
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "state_code": "AK",
+  "city": "Unorganized Borough",
+  "city_slug": "unorganized-borough",
+  "county": "Unorganized Borough",
+  "county_slug": "unorganized-borough",
+  "geocoded_city": "Unorganized Borough",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-alaska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Tanaga%20Island%20Alaska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Tanaga%20Island",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Tanaga%20Island%20Alaska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 16,
+      "meters": 5
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:21:01.196Z"
+  },
+  "scraped_at": "2026-04-21T18:21:01.196Z",
+  "scrape_quality": "minimal"
+}

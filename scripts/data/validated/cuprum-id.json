@@ -1,0 +1,97 @@
+{
+  "slug": "cuprum-id",
+  "name": "Cuprum",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Adams County Area",
+  "city_slug": "adams-county",
+  "county": "Adams",
+  "county_slug": "adams",
+  "lat": 45.10301,
+  "lng": -116.672959,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM rockhounding site in central Idaho's mountainous terrain. Free public collecting of quartz and chalcedony specimens with 25 lb daily limit.",
+  "description": "Cuprum is a remote BLM rockhounding area located in the rugged mountains of Adams County, Idaho, at 5102 feet elevation. This public land site offers free access for recreational mineral collectors seeking quartz, chalcedony, and jasper specimens typical of Idaho's mineral-rich geology. The moderate slopes and backcountry setting make this an excellent destination for rockhounders willing to explore away from developed areas.\n\nThe geology of this region reflects the complex mineralization found throughout central Idaho's Salmon River Mountains. This area sits within a zone of historic mining activity and natural hydrothermal alteration where silica-rich fluids deposited quartz veins and chalcedony formations during periods of tectonic activity. The exposed mineralized zones and weathered outcrops provide accessible collecting opportunities for patient searchers.\n\nExpect to find small to medium quartz crystals and chalcedony nodules in weathered rock outcrops and drainage areas. The terrain requires moderate hiking ability and sturdy footwear due to loose rock and uneven ground. Water access and shade can be limited, so plan accordingly for the elevation and remoteness of the location.\n\nAs a BLM site, Cuprum follows standard recreational collecting rules: personal use only, 25 lbs per day maximum, and no commercial activity. The lack of facilities and remote location mean you should come fully prepared with water, tools, maps, and navigation ability. Spring and fall offer the most pleasant collecting conditions in this mountain environment.",
+  "history": "Cuprum sits within the Salmon River Mountains, an area with significant historical mining activity dating back to the late 1800s. The region's mineralization stems from Cretaceous-age granitic intrusions and associated hydrothermal alteration that created the quartz veins and chalcedony deposits found here today, part of the same geologic processes that made central Idaho a productive mining district.",
+  "tips": "Search along hillside outcrops and weathered rock exposures where quartz veins are naturally exposed by erosion; these areas are more productive than flat ground. Use a small pry bar and hammer to carefully extract specimens from loose matrix, focusing on areas where previous collectors may have worked. Look for translucent to opaque quartz crystals with a milky white appearance and chalcedony nodules showing banding or color variation in tan and gray tones. Bring plenty of water and start early to maximize daylight in this remote, high-elevation terrain.",
+  "terrain_notes": "Elevation of 5102 feet with moderate slopes and sparse subalpine vegetation. Terrain is rocky and uneven with loose material and exposed outcrops. Hiking distance from parking varies by access point but expect 1-3 miles of walking on rough terrain. Footing is challenging with unstable scree and loose rock requiring careful footsteps and sturdy boots.",
+  "best_season": "June - September",
+  "written_directions": "From Adams, take Forest Road 263 east toward the Salmon River Mountains. Continue on Forest Road 263 for approximately 20 miles to access BLM land in the Cuprum area. Park at available pullouts near mineralized outcrops. GPS navigation is strongly recommended as roads are unsigned and terrain is remote. Verify current road conditions before departure as high elevation roads may be closed by snow in early June or after late September.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Forest Service roads are maintained but unpaved and may have washboard surface and ruts. High clearance vehicle recommended. Road may be impassable in winter or during wet conditions.",
+  "parking_notes": "Informal pullouts along Forest Road 263 near mineralized areas. No developed parking lot or facilities. Parking capacity is limited and weather-dependent. Plan to self-park in open areas near collecting sites.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect only loose material or samples from naturally exposed surfaces. Follow all BLM regulations for public land use.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo power tools\nLeave area clean",
+  "beginner_friendly": false,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "remote",
+    "wildlife"
+  ],
+  "nearest_services": "Adams, Idaho approximately 20 miles west. Limited services - bring fuel, food, and water.",
+  "accessibility_notes": "Rough backcountry terrain with significant hiking required over uneven, rocky ground. Not suitable for limited mobility. Requires high clearance vehicle to reach collecting areas. Elevation of 5102 feet may affect those sensitive to altitude. Adequate physical fitness needed for moderate hiking on loose terrain.",
+  "alternative_names": [],
+  "nearest_city": "Adams",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/cuprum-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Cuprum, Idaho?",
+      "answer": "Cuprum BLM land yields quartz, chalcedony, jasper, and agate specimens. Most finds are small to medium quartz crystals and chalcedony nodules in weathered outcrops. The best specimens come from areas with exposed quartz veins and mineralized zones."
+    },
+    {
+      "question": "Is rockhounding at Cuprum, Idaho free and do you need a permit?",
+      "answer": "Yes, Cuprum is free BLM public land with no permit required for personal use rockhounding. You must follow the 25 lb per day collection limit and personal use only rules. Commercial collection and motorized excavation are prohibited."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Cuprum, Idaho?",
+      "answer": "June through September offers the best collecting weather at Cuprum's 5102 foot elevation. Spring months may have lingering snow, and by October snow begins to return. Summer provides longest daylight hours and most stable weather for backcountry rockhounding."
+    },
+    {
+      "question": "How difficult is the hike to rockhound at Cuprum, Idaho?",
+      "answer": "Cuprum is a moderate difficulty site requiring 1-3 miles of hiking over rough, rocky terrain with loose material and uneven ground. You need good physical fitness, sturdy boots, and hiking experience. This is not suitable for beginners or those with limited mobility."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding at Cuprum, Idaho?",
+      "answer": "Bring a hammer, small pry bar, chisel, sturdy boots, and heavy gloves. Essential supplies include at least 2-3 liters of water per person, sun protection, map and compass or GPS device, and a backpack for specimens. Cell service is non-existent so plan accordingly."
+    },
+    {
+      "question": "Can beginners go rockhounding at Cuprum, Idaho?",
+      "answer": "Cuprum is better suited for experienced rockhounders due to its remote location, rough terrain, and lack of facilities or cell service. Beginners should gain experience at easier Idaho BLM sites first, bring a guide or experienced companion, and come fully prepared with navigation and survival gear."
+    }
+  ],
+  "meta_title": "Cuprum Rockhounding - Idaho BLM Quartz",
+  "meta_description": "Free BLM rockhounding at Cuprum, Idaho. Collect quartz, chalcedony, and jasper. 25 lb daily limit. Remote mountain terrain, June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "gem_types",
+    "access via Forest Road 263 should be verified with current Adams County BLM office"
+  ],
+  "enriched_at": "2026-04-22T06:43:50.231Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:03.821Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "platte-river-ne",
+  "name": "Platte River",
+  "lat": 40.66114,
+  "lng": -99.070843,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Buffalo County",
+  "city_slug": "buffalo-county",
+  "county": "Buffalo",
+  "county_slug": "buffalo",
+  "geocoded_city": "Kearney",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Platte%20River%20Nebraska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Platte%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Platte%20River%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2133,
+      "meters": 650
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:02:56.364Z"
+  },
+  "scraped_at": "2026-04-21T17:02:56.364Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "grubb-lake-and-mud-lake-pa",
+  "name": "Grubb Lake and Mud Lake",
+  "lat": 40.060097,
+  "lng": -76.449375,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "West Hempfield Township",
+  "city_slug": "west-hempfield-township",
+  "county": "Lancaster",
+  "county_slug": "lancaster",
+  "geocoded_city": "West Hempfield Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Grubb%20Lake%20and%20Mud%20Lake%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": true,
+      "url": "https://rockhoundingmap.com/?s=Grubb%20Lake%20and%20Mud%20Lake",
+      "description_snippet": "Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Grubb%20Lake%20and%20Mud%20Lake%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[rockhounding_map] Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy"
+    ],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 440,
+      "meters": 134
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:56:50.428Z"
+  },
+  "scraped_at": "2026-04-21T18:56:50.428Z",
+  "scrape_quality": "partial"
+}

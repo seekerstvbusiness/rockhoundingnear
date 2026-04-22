@@ -1,0 +1,60 @@
+{
+  "slug": "alsace-township-pa",
+  "name": "Alsace Township",
+  "lat": 40.366971,
+  "lng": -75.865564,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Alsace Township",
+  "city_slug": "alsace-township",
+  "county": "Berks",
+  "county_slug": "berks",
+  "geocoded_city": "Alsace Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Alsace%20Township%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Alsace%20Township",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Alsace%20Township%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 623,
+      "meters": 190
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:59:28.334Z"
+  },
+  "scraped_at": "2026-04-21T18:59:28.334Z",
+  "scrape_quality": "minimal"
+}

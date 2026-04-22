@@ -1,0 +1,60 @@
+{
+  "slug": "havey-tourmaline-quarry-me",
+  "name": "Havey Tourmaline Quarry",
+  "lat": 44.8333,
+  "lng": -70.2203,
+  "state": "Maine",
+  "state_slug": "maine",
+  "state_code": "ME",
+  "city": "Strong",
+  "city_slug": "strong",
+  "county": "Franklin",
+  "county_slug": "franklin",
+  "geocoded_city": "Strong",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maine.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Havey%20Tourmaline%20Quarry%20Maine"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Havey%20Tourmaline%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Havey%20Tourmaline%20Quarry%20Maine"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 689,
+      "meters": 210
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:47:56.576Z"
+  },
+  "scraped_at": "2026-04-21T16:47:56.576Z",
+  "scrape_quality": "minimal"
+}

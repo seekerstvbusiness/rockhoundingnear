@@ -1,0 +1,98 @@
+{
+  "slug": "smithton-mo",
+  "name": "Smithton",
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "city": "Sedalia",
+  "city_slug": "sedalia",
+  "county": "Pettis",
+  "county_slug": "pettis",
+  "lat": 38.684417,
+  "lng": -93.134195,
+  "gem_types": [
+    "Quartz",
+    "Chert",
+    "Calcite",
+    "Jasper"
+  ],
+  "short_description": "Hunt for Quartz, Chert, and Calcite specimens in Pettis County's gently rolling terrain. This accessible Ozark foothills site offers rockhounders reliable finds in an area rich with sedimentary dep...",
+  "description": "Smithton sits in the heart of Missouri's transitional zone between the Ozark Plateau and the Missouri River lowlands, offering rockhounders access to classic Paleozoic sedimentary formations. The area is characterized by gently rolling terrain at around 824 feet elevation, with exposed limestone, chert, and quartz deposits that formed in shallow marine environments over 300 million years ago. Local road cuts, creek beds, and weathered hillsides provide accessible collecting opportunities without extreme hiking requirements.\n\nThe geology here reflects Missouri's rich marine past. During the Mississippian and Devonian periods, warm shallow seas covered this region, depositing layers of limestone and silica-rich sediments. As these materials compacted and cemented, they formed the chert nodules and quartz veins visible in roadside exposures today. The weathering and erosion of overlying layers have made surface collecting relatively easy throughout the Pettis County area.\n\nExpect to find translucent to opaque Quartz specimens, ranging from small chips to fist-sized pieces, often with a milky white or tan coloration. Chert specimens frequently display warm earth tones - browns, reds, and oranges - and take a sharp edge when fractured, making them prized by toolstone collectors. Calcite crystals and cave deposits also occur in the limestone formations, offering variety for collectors with different interests.\n\nThis is an ideal location for beginners and families. The terrain is not steep, vegetation is manageable, and you can find quality specimens without special equipment or extensive backcountry travel. Local creek beds during dry seasons expose fresh material, while roadside cuts provide year-round opportunities.",
+  "history": "Pettis County sits within the Ozark region's extensive Paleozoic sedimentary sequence, shaped by shallow marine transgressions during the Mississippian and Devonian periods (approximately 360-300 million years ago). Thick chert layers formed as biogenic silica accumulated on ancient seafloors and later diagenized into the hard, workable stone that Native Americans and early settlers prized for tool-making. The Quartz veins and Calcite deposits found here are products of groundwater circulation through limestone formations, a process that continues today.",
+  "tips": "Search along creek beds and eroded stream banks during fall and winter when water levels are lower, as these areas expose fresh material washed from surrounding hills. Focus on the edges of limestone outcrops and road cuts where weathering has already done the work of separating specimens from the parent rock. Look for the distinctive red, brown, and tan striations in Chert that indicate high-quality material; smaller thumb-sized pieces often display the clearest colors and patterns. Bring a hand lens to examine Quartz for clarity and terminations, and keep a small bag to test weight - quality specimens are surprisingly heavy for their size.",
+  "terrain_notes": "Flat to gently rolling terrain at 824 feet elevation with minimal slope. Well-vegetated with oak-hickory forest typical of the Ozark transition zone. Most collecting areas are within 100-300 yards of parking or road access. Walking surface varies from firm soil to loose rock fragments; sturdy hiking boots recommended but not required for most areas. Footing is generally stable with no steep drops or scrambling needed.",
+  "best_season": "March - May, September - November. Spring and fall provide moderate temperatures ideal for extended field work and clear visibility as deciduous trees lose or gain foliage. Summer heat and humidity can be intense; winter is possible but muddy conditions and wet ground make roadside collecting less pleasant. Late fall through early spring offers the best erosion and fresh material exposure.",
+  "written_directions": "From Sedalia, take US 50 east toward Smithton approximately 8 miles. Watch for rural roads and county highway signs in the Smithton area. Pettis County Road signs mark several productive collecting zones. Park along stable roadsides near limestone outcrops or creek access points. Do not block gates or private driveways. GPS coordinates 38.684417, -93.134195 mark the Smithton general area; scout multiple nearby spots as best collecting areas shift with erosion and seasonal water levels.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved county roads and rural highways serve the area. Most collecting spots accessible from maintained gravel roads. Road conditions generally good year-round, though spring rains can soften unpaved shoulders.",
+  "parking_notes": "Informal roadside parking near outcrops and creek access points. No designated parking lot. Park safely away from traffic; respect private property boundaries clearly marked with No Trespassing signs.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collect only on public land or with explicit landowner permission. Respect all No Trespassing signs and private property boundaries. Remove only what you can reasonably carry. Do not excavate with motorized equipment. Leave natural features undisturbed for other rockhounders.",
+  "quantity_limits": null,
+  "rules": "Do not trespass on private property\nCollect only where legally permitted\nRemove reasonable amounts only\nNo motorized excavation\nRespect all property markers and signs",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Sedalia, Missouri - approximately 8 miles west. Full services including gas, restaurants, grocery stores, and lodging.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Minimal elevation change. Unpaved road shoulders and rocky footing around outcrops; sturdy shoes recommended but not required. No wheelchair access to best collecting areas. Distances from parking are short (under 300 yards typically). Most areas can be reached at a leisurely walking pace.",
+  "alternative_names": [],
+  "nearest_city": "Sedalia",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/missouri/smithton-mo/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of rocks and minerals can you find rockhounding near Smithton, Missouri?",
+      "answer": "The Smithton area is known for Quartz specimens (often milky white or tan), Chert in warm earth tones of brown and red, Calcite crystals from limestone formations, and Jasper. Creek beds and roadside exposures provide consistent access to these Paleozoic sedimentary deposits without difficult hiking."
+    },
+    {
+      "question": "Is rockhounding at Smithton free, or do you need a permit or fee?",
+      "answer": "Rockhounding at Smithton is free and requires no permit when collecting on public land or with landowner permission. Always respect No Trespassing signs and private property boundaries. This is one of Missouri's most accessible cost-free collecting locations."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Smithton?",
+      "answer": "March through May and September through November are ideal. Spring and fall offer moderate temperatures and good visibility after leaf drop or growth. Avoid summer humidity and heat, and winter mud. Late fall erosion exposes fresh material along creek banks."
+    },
+    {
+      "question": "Can beginners and families find good specimens at Smithton rockhounding site?",
+      "answer": "Yes - Smithton is one of Missouri's most beginner-friendly rockhounding locations. Flat terrain, short walking distances, and easy-to-spot specimens in roadside cuts and creek beds make it perfect for families with children ages 6 and up. No special experience or advanced tools required."
+    },
+    {
+      "question": "How do you find Quartz and Chert while rockhounding in Pettis County?",
+      "answer": "Search creek beds during dry seasons when fresh material is exposed on the banks. Examine limestone roadside cuts and weathered hillsides for Quartz veins and Chert nodules. Look for the characteristic tan, brown, and red colors of Chert and the translucent milky appearance of Quartz. Smaller specimens (thumb-sized) often show the clearest colors."
+    },
+    {
+      "question": "What tools and gear do you need for rockhounding near Sedalia and Smithton?",
+      "answer": "For Smithton's accessible sites, bring sturdy hiking boots, a hand lens to examine specimens, a small collecting bag, and a backpack with water. A geology hammer is optional since much material is already loose. Sunscreen and a hat are recommended even in cooler seasons."
+    }
+  ],
+  "meta_title": "Smithton Rockhounding - Missouri Quartz & Chert",
+  "meta_description": "Find Quartz, Chert, and Calcite at Smithton, Missouri. Free public rockhounding near Sedalia with easy terrain and beginner-friendly collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "nearest_city",
+    "nearest_city_distance",
+    "written_directions",
+    "cell_service",
+    "geology notes based on general Ozark Paleozoic sequence without site-specific quarry data"
+  ],
+  "enriched_at": "2026-04-21T19:17:29.749Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:19:21.797Z"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "area-of-old-octave-mining-camp-az",
+  "name": "Area of old Octave mining camp",
+  "lat": 34.141709,
+  "lng": -112.690082,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/area-of-old-octave-mining-camp"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Area%20of%20old%20Octave%20mining%20camp%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Area%20of%20old%20Octave%20mining%20camp",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Area%20of%20old%20Octave%20mining%20camp%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3423,
+      "meters": 1043
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Prescott",
+      "distance_mi": 30,
+      "population": 45827
+    },
+    "roads": [
+      {
+        "name": "North Tegner Street",
+        "ref": null,
+        "type": "secondary",
+        "dist": 12.1
+      },
+      {
+        "name": "East Wickenburg Way",
+        "ref": "US 60",
+        "type": "trunk",
+        "dist": 12.1
+      },
+      {
+        "name": "West Wickenburg Way",
+        "ref": "US 60",
+        "type": "trunk",
+        "dist": 12.2
+      },
+      {
+        "name": "South Vulture Mine Road",
+        "ref": null,
+        "type": "secondary",
+        "dist": 13.4
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T17:07:00.245Z"
+  },
+  "scraped_at": "2026-04-20T17:07:00.245Z",
+  "scrape_quality": "partial"
+}

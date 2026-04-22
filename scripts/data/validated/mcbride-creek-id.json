@@ -1,0 +1,101 @@
+{
+  "slug": "mcbride-creek-id",
+  "name": "McBride Creek",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Murphy",
+  "city_slug": "murphy",
+  "county": "Owyhee",
+  "county_slug": "owyhee",
+  "lat": 43.275414,
+  "lng": -116.977151,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding site in remote Owyhee County offering agate, jasper, and chalcedony specimens in desert terrain. No permit required for personal use collecting.",
+  "description": "McBride Creek sits in the heart of Idaho's Owyhee County, a prime rockhounding destination for collectors seeking quality agate and jasper specimens. This BLM land location offers open access to the public with minimal restrictions, making it an excellent choice for both beginners and experienced rockhounders. The gentle slope terrain and moderate elevation create relatively accessible conditions for surface collecting, though the remote location and desert conditions demand proper preparation.\n\nThe geology of this area reflects the Basin and Range province geology that dominates southwestern Idaho. Miocene-age volcanic activity and silica-rich hydrothermal systems created the colorful agate and jasper deposits found throughout the Owyhee region. McBride Creek's proximity to ancient mineralized zones means specimens are regularly exposed by seasonal water flow and natural erosion, replenishing accessible collecting areas year after year.\n\nWhat to expect: rocky terrain scattered with loose agates and jasper fragments, opportunity to dig in weathered volcanic deposits, and stunning desert vistas. The relatively flat to gently sloping ground makes walking and searching manageable, though the sparse vegetation offers little shade. Water and supplies are extremely limited, so self-sufficiency is essential.\n\nThis location rewards persistence. Many collectors find their best specimens by working wash areas where gravity naturally concentrates heavier minerals, or by examining exposed hillside outcrops where fresh material breaks free from the parent rock. The variety of agate colors - from translucent to banded to rich earth tones - and the abundance of jasper make every trip productive for patient collectors.",
+  "history": "McBride Creek lies within the Owyhee volcanic field, where intense Miocene volcanism (approximately 16-14 million years ago) deposited thick sequences of rhyolite and basalt flows. Subsequent silica-rich hydrothermal circulation through fracture zones created the massive agate and chalcedony deposits that make this region famous among rockhounders. Historic mining activity in the Owyhee district focused on precious metals, but collectors have long recognized these lands as exceptional for gemstone and mineral specimens.",
+  "tips": "Focus your search in dry wash beds and arroyo bottoms where seasonal water flow concentrates lighter material, leaving heavier agate and jasper exposed on the surface. Bring a rock hammer or chisel to test weathered hillside faces - fresh material often breaks free in sheets, revealing vibrant colors and banding patterns impossible to see on weathered exterior surfaces. Look for semi-translucent or banded specimens with a glassy luster; the best material often appears somewhat dull on the outside due to desert weathering, so always test-break questionable pieces. Early morning collecting in late fall or early spring offers the most comfort and best light for spotting color variation in specimens.",
+  "terrain_notes": "Elevation 4,536 feet with gentle overall slope. Terrain is open desert with scattered rocks, loose volcanic debris, and sparse sage vegetation. Footing is uneven with numerous small rocks and stones typical of desert terrain. Walking distance from parking varies by access point, typically 0.25 to 1.5 miles to productive areas. Gullies and small arroyos crisscross the landscape. No developed trails; off-trail walking required.",
+  "best_season": "October - April. The high desert climate at 4,500+ feet elevation makes summer heat (90-100F) uncomfortable for extended fieldwork. Spring snowmelt (April-May) can create temporary water hazards in washes. Winter cold is minimal at this elevation, making November through March ideal. October and April offer perfect conditions with mild temperatures and clear skies.",
+  "written_directions": "From Murphy, Idaho (approximately 18 miles west), take Owyhee River Road south toward the Owyhee Breaks area. Continue approximately 12-15 miles on improved dirt road toward the McBride Creek drainage system. GPS coordinates (43.275414, -116.977151) mark the primary collecting area. The final approach may require high-clearance or all-terrain vehicle depending on current road conditions; confirm BLM road status before traveling. Parking pullouts are available near the creek drainage.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Dirt/gravel road, potentially washboard texture. High-clearance vehicle recommended. Road conditions vary seasonally; passable year-round but may require 4x4 after heavy rain or snow.",
+  "parking_notes": "Informal pullouts near creek drainage. No developed parking lot. Space for 3-5 vehicles at main access point.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No removal of petrified wood or fossils without special permit. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo petrified wood or fossil removal without permit\nPack out all trash\nCamp only in designated areas if overnight stay needed",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Murphy, Idaho approximately 18-20 miles northeast. Limited services. Bring all water, fuel, and supplies from Marsing or Jordan Valley (40+ miles).",
+  "accessibility_notes": "Uneven rocky terrain with scattered stones and slight elevation changes. No wheelchair access. Sturdy closed-toe hiking boots strongly recommended. Flat to gently sloping ground makes access easier than many desert sites, but terrain remains rough and requires careful footing. Not suitable for limited mobility or young children without careful supervision.",
+  "alternative_names": [],
+  "nearest_city": "Murphy",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/mcbride-creek-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/mcbride-creek-id/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at McBride Creek near Murphy, Idaho?",
+      "answer": "McBride Creek is known for beautiful agate specimens, including banded varieties with earth tones and occasional translucent pieces. You will also find quality jasper in various colors, chalcedony, and general quartz specimens. The remote Owyhee location produces some of Idaho's finest agate material, with many specimens showing natural banding and color variation that improves with polishing."
+    },
+    {
+      "question": "Is a permit required for rockhounding at McBride Creek on BLM land in Idaho?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at McBride Creek. You may collect for personal use only under FLPMA regulations with a 25 lb daily limit. Collection is completely free, though you must bring your own tools and supplies. Commercial collection and motorized excavation are strictly prohibited."
+    },
+    {
+      "question": "What is the best time of year to rockhound at McBride Creek, Owyhee County?",
+      "answer": "October through April offers ideal conditions at this high desert location. Summer temperatures in this remote area can exceed 95F, making extended fieldwork uncomfortable. Spring snowmelt can create temporary water hazards in washes. Late fall and early spring provide the perfect combination of mild weather, clear skies, and good visibility for spotting specimen colors."
+    },
+    {
+      "question": "How do I get to McBride Creek from Murphy, and what vehicle do I need?",
+      "answer": "From Murphy, take Owyhee River Road south toward Owyhee Breaks for approximately 12-15 miles on improved dirt road to reach McBride Creek (GPS: 43.275414, -116.977151). An all-wheel-drive or high-clearance vehicle is recommended due to washboard and seasonal conditions. Road status varies; confirm current conditions with the BLM before traveling to this remote location."
+    },
+    {
+      "question": "Is McBride Creek in Idaho a good location for beginner rockhounders?",
+      "answer": "Yes, McBride Creek is excellent for beginners. The gentle slope terrain, open BLM access, and no-permit requirement make it beginner-friendly. Surface material is readily accessible without specialized equipment. However, the remote location (18 miles from nearest services) demands self-sufficiency with water, fuel, and supplies. Bring a field guide to identify agate and jasper to maximize your success."
+    },
+    {
+      "question": "What tools and supplies should I bring rockhounding at McBride Creek?",
+      "answer": "Essential items include a rock hammer or chisel for breaking specimens, a collection bag or backpack, sturdy hiking boots, and sun protection (hat, sunscreen). Bring all your own water - none is available onsite. A field identification guide helps distinguish quality agate from common material. GPS device or printed map is strongly recommended given the remote, unmarked terrain with no cell service."
+    }
+  ],
+  "meta_title": "McBride Creek Rockhounding - Idaho Agate",
+  "meta_description": "Find agate, jasper, and chalcedony at McBride Creek near Murphy, Idaho. Free BLM rockhounding with no permit required. Desert terrain, remote location.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from Owyhee County geology; specific McBride Creek specimens not individually sourced",
+    "written_directions - constructed from GPS coordinates and general Owyhee road network; exact turn-by-turn not verified against current road map",
+    "nearest_city - Murphy chosen as most likely nearest named town; verify against current Idaho gazetteer",
+    "road_conditions - typical desert BLM road assessment based on terrain data; current conditions should be verified with Owyhee County BLM office"
+  ],
+  "enriched_at": "2026-04-22T09:27:16.103Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:12.658Z"
+}

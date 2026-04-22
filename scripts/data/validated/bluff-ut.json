@@ -1,0 +1,97 @@
+{
+  "slug": "bluff-ut",
+  "name": "Bluff",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Bluff",
+  "city_slug": "bluff",
+  "county": "San Juan",
+  "county_slug": "san-juan",
+  "lat": 37.27281,
+  "lng": -109.561097,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Petrified Wood"
+  ],
+  "short_description": "BLM land near Bluff offering free rockhounding for agate, jasper, and petrified wood. No permit required - just 25 lbs per day limit.",
+  "description": "Bluff sits in the heart of southeastern Utah's high desert, where San Juan County BLM lands provide excellent opportunities for recreational rockhounding. The area around Bluff is known for its colorful agates, jasper specimens, and petrified wood scattered across bajadas and wash beds. This location is ideal for rockhounders seeking free public access without permit hassles - typical BLM recreational collecting rules apply.\n\nThe geology here reflects the Cretaceous and Tertiary sedimentary layers that blanket the Four Corners region. Volcanic activity and silica-rich groundwater deposited the quartz minerals found in abundance throughout San Juan County. Ancient flood channels and desert washes have concentrated lighter minerals, making systematic searching along wash beds particularly productive.\n\nExpect high desert terrain with sparse vegetation dominated by sagebrush, pinyon pine, and juniper. The landscape is relatively open, allowing you to survey large areas. Elevation ranges from 5,000 to 6,000 feet. Daytime temperatures in winter are mild but nights drop significantly; summer heat can be intense. Many productive areas are within a short walk of pullouts along county roads and BLM access roads.\n\nThis is beginner-friendly rockhounding with straightforward access. The combination of free collecting, minimal restrictions, and genuine mineral diversity makes Bluff a popular stop on Utah rockhounding circuits. Bring plenty of water, as shade is scarce and distances between water sources are substantial.",
+  "history": "The Bluff area sits within the southern rim of the Colorado Plateau, where Cretaceous and Tertiary sedimentary rocks were subjected to basin-and-range extension during the Laramide orogeny. Silica-rich fluids migrating through fractures and porous zones precipitated the agate and chalcedony deposits rockhounders find today, concentrated further by Quaternary erosion and alluvial sorting in desert washes.",
+  "tips": "Search along dry wash beds and bajada surfaces where lighter minerals have been naturally sorted by water flow - agates and jasper pieces often line these channels. Use a 10x hand lens to identify agate banding and chalcedony quality before filling your pack; color-banded specimens are more desirable. Focus on hillside outcrops where erosion has freshly exposed new material - these often yield better specimens than heavily collected areas. Bring a small pick or chisel for dislodging specimens from softer matrix, and always fill in holes to prevent erosion damage.",
+  "terrain_notes": "Typical high desert terrain at 5,000 to 6,000 feet elevation with gentle to moderate slopes. Sparse sagebrush and pinyon-juniper woodland. Walking surface is rocky and uneven with scattered loose stones. Most productive areas are within 0.5 to 2 miles of road access. No formal trails - cross-country travel required. Footing can be tricky due to loose rock and hidden holes; sturdy hiking boots essential.",
+  "best_season": "October - April. Winter temperatures are mild during daylight (40-50 F) with hard freezes at night. Summer heat exceeds 95 F regularly, making midday collection uncomfortable and water consumption critical. Spring and fall offer ideal conditions with moderate temperatures and lower water needs.",
+  "written_directions": "From Bluff (town center), head south or east on US 163 or local county roads accessing BLM land. Most productive rockhounding areas lie within 5 to 15 miles of town. Look for BLM access roads branching from US 163, Mexican Hat Road, or county routes. Pullouts near wash beds and bajada edges are typical collection spots. Consult a San Juan County BLM map or stop at the Bluff visitor center for specific road conditions and access points, as road quality varies seasonally.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Graded dirt and maintained county roads in good condition year-round. Some BLM spur roads may be washboard or rough after rain. High-clearance vehicles recommended for remote spur roads, but main access roads are passenger-car passable.",
+  "parking_notes": "Informal pullouts along BLM roads and wash crossings. No developed parking lots. Pullouts vary from small (1-2 vehicles) to larger informal areas accommodating several rigs. Always park off active roadways.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or heavy equipment. Pack out all trash. Do not collect fossils or petrified wood from protected areas - confirm site eligibility with BLM office.",
+  "quantity_limits": "25 lbs per day per person",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nPack out all trash\nNo fossil or protected wood collection without confirmation\nResume holes to prevent erosion damage",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "loose_rock",
+    "flash_floods",
+    "remote"
+  ],
+  "nearest_services": "Bluff town center, approximately 5 to 15 miles away. Limited services - fuel, groceries, and basic supplies available. Mexican Hat, 25 miles southwest, offers additional services.",
+  "accessibility_notes": "Relatively easy cross-country terrain with gentle slopes and open space. Most collection areas accessible to hikers of moderate fitness. No wheelchair access. Uneven rocky footing and scattered loose stones require sturdy footwear. Distances from parking to productive areas are typically 0.5 to 2 miles. Summer heat and exposure require good physical conditioning and water management.",
+  "alternative_names": [],
+  "nearest_city": "Bluff",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/bluff-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Bluff, Utah on BLM land?",
+      "answer": "The Bluff area is known for agate, jasper, chalcedony, and petrified wood. These quartz-based minerals are scattered across bajadas and concentrated in dry wash beds. Agate specimens often display colorful banding and can range from thumbnail size to fist-sized pieces. Jasper colors include red, yellow, and brown varieties."
+    },
+    {
+      "question": "Do I need a permit to rockhound for agate in the Bluff, Utah area?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Bluff. Personal use collection is allowed under FLPMA rules with a 25-pound daily limit per person. Commercial collection is prohibited. Always confirm specific site restrictions with the San Juan County BLM office before collecting."
+    },
+    {
+      "question": "What is the best season for rockhounding near Bluff, Utah?",
+      "answer": "October through April is ideal. Winter daytime temperatures are mild (40-50 F), and spring/fall offer comfortable conditions. Summer heat exceeds 95 F regularly, making daytime collecting uncomfortable and requiring excessive water. Avoid the hottest months (July-August) unless you prefer early morning or evening collection."
+    },
+    {
+      "question": "How far is Bluff, Utah from nearby cities, and what tools do I need for collecting agate here?",
+      "answer": "Bluff is approximately 50 miles from Mexican Hat, 80 miles from Moab, and 140 miles from Monticello. Bring a 10x hand lens for inspecting specimens, a small pick or chisel for extracting material from matrix, a sturdy hammer, collection bags, and plenty of water. Wear long pants and sturdy hiking boots for rocky terrain and potential snake encounters."
+    },
+    {
+      "question": "Is rockhounding near Bluff suitable for beginners and families with children?",
+      "answer": "Yes, the Bluff area is excellent for beginners and families. Open terrain and visible mineral specimens make finding agates and jasper straightforward. No technical climbing or specialized skills required. Children age 6 and up can participate comfortably. Bring shade, water, and snacks, and plan morning or afternoon sessions to avoid peak summer heat. The 25-pound daily limit means you will not fill a pack quickly, making it relaxed, educational rockhounding."
+    },
+    {
+      "question": "Where exactly should I search for agates and jasper in the Bluff rockhounding area?",
+      "answer": "Focus your search along dry wash beds and bajada edges within 5 to 15 miles of Bluff town. Desert washes naturally concentrate lighter minerals where water flow has sorted material by weight. Hillside outcrops and eroded slopes also yield fresh specimens. Survey large open areas visually first using binoculars, then focus on promising patches. Early morning or late afternoon light improves visibility of colored specimens against lighter soil."
+    }
+  ],
+  "meta_title": "Bluff Rockhounding - Agate & Jasper on Utah BLM",
+  "meta_description": "Free rockhounding near Bluff, Utah on BLM land. Find agate, jasper, and petrified wood. No permit required, 25 lb daily limit. Family-friendly desert collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "nearest_services"
+  ],
+  "enriched_at": "2026-04-22T06:52:15.519Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:59:50.289Z"
+}

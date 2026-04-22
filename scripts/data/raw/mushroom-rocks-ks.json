@@ -1,0 +1,60 @@
+{
+  "slug": "mushroom-rocks-ks",
+  "name": "Mushroom Rocks",
+  "lat": 38.726248,
+  "lng": -98.030403,
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "state_code": "KS",
+  "city": "Ellsworth County",
+  "city_slug": "ellsworth-county",
+  "county": "Ellsworth",
+  "county_slug": "ellsworth",
+  "geocoded_city": "Ellsworth County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mushroom%20Rocks%20Kansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mushroom%20Rocks",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mushroom%20Rocks%20Kansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1547,
+      "meters": 472
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:45:26.880Z"
+  },
+  "scraped_at": "2026-04-21T17:45:26.880Z",
+  "scrape_quality": "minimal"
+}

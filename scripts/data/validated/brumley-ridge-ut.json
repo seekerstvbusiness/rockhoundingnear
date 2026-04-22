@@ -1,0 +1,101 @@
+{
+  "slug": "brumley-ridge-ut",
+  "name": "Brumley Ridge",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "San Juan County",
+  "city_slug": "san-juan-county",
+  "county": "San Juan",
+  "county_slug": "san-juan",
+  "lat": 38.478369,
+  "lng": -109.332261,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Chert"
+  ],
+  "short_description": "BLM public land in San Juan County offering free rockhounding for agate, jasper, and chalcedony specimens. Remote desert location with excellent collecting on exposed ridges and washes.",
+  "description": "Brumley Ridge is an accessible BLM rockhounding site in the rugged San Juan County landscape of southeastern Utah, offering free personal-use collecting with no permit required. The area features exposed ridgelines and scattered desert washes where collectors regularly find agate nodules, jasper fragments, and chalcedony specimens. This location is ideal for rockhounders seeking a remote public land experience without fees or bureaucratic barriers, making it popular with both beginners learning to identify desert gemstones and experienced collectors building collections.\n\nThe geology of Brumley Ridge reflects Utah's complex Basin and Range province structure. Miocene-era volcanic activity and subsequent silica-rich groundwater circulation deposited the cryptocrystalline minerals found here today. The exposed ridge faces and eroded wash bottoms reveal bands of agate and jasper formed in ancient vugs and fractures, with chalcedony coatings common on weathered rock faces. The desert climate's efficient weathering keeps new material exposed season after season.\n\nWhat makes this site special is the combination of easy access on maintained BLM roads, genuine mineral productivity, and genuine solitude. Unlike fee dig operations, you are hunting natural deposits on public land. The terrain is varied enough to keep collecting interesting - you will work exposed slopes, walk dry washes, and examine fracture outcrops. Bring water and sun protection; the San Juan plateau offers little shade and intense UV exposure.\n\nCollectors should focus on ridge saddles and wash bottoms where water erosion concentrates lighter nodules. Look for white, tan, or reddish agate with visible banding or translucency when held to light. Jasper typically appears in richer reds, browns, and multicolor patterns. The 25-pound daily limit per FLPMA encourages selective collecting of quality specimens over bulk gathering. Most productive visits yield 5-15 pounds of collectible material.",
+  "history": "Brumley Ridge sits within the San Juan region of the Basin and Range province, where Oligocene and Miocene volcanic activity created extensive rhyolitic flows and ash deposits. Subsequent hydrothermal circulation and groundwater percolation through fractured volcanic rock deposited silica in the form of agate, jasper, and chalcedony in vugs and along fracture planes. The exposed ridges visible today are the product of millions of years of erosion that continuously exposes fresh mineral specimens.",
+  "tips": "Search ridge saddles and the bottoms of dry washes first - these areas concentrate lighter agate and jasper nodules through natural erosion and gravity. Look for white or tan nodules weathering out of reddish-brown host rock; translucent specimens with visible banding are premium finds. Bring a 10x loupe to inspect chalcedony striations and agate color patterns before committing finds to your pack. Use a 5-pound geological hammer or pry bar to carefully extract specimens from friable matrix - avoid heavy striking that produces sharp flakes instead of whole nodules.",
+  "terrain_notes": "Brumley Ridge sits at approximately 7,100 feet elevation on a sloping desert plateau. Terrain is mixed exposed bedrock, loose talus slopes, and scattered vegetation typical of high desert scrubland. Most collecting occurs within 0.5 to 2 miles of vehicle parking. Walking surface is uneven - rocky footing with scattered loose stone and occasional sharp-edged volcanic fragments. No maintained trails; off-trail hiking required. Slopes are moderate to steep in places. Visibility is excellent with minimal vegetation to obscure geology.",
+  "best_season": "April - October. Spring (April-May) and fall (September-October) offer ideal temperatures and lower risk of afternoon thunderstorms. Summer (June-August) brings extreme heat, afternoon monsoonal storms, and flash flood risk in washes - early morning departures essential if visiting June-August. Winter (November-March) brings occasional snow at this elevation and potential road closure with moisture.",
+  "written_directions": "From Monticello, Utah, take US 191 south for approximately 22 miles toward Blanding. Turn east on County Road 102 (marked for Bullfrog-Notom Road area) and continue approximately 12 miles on progressively rougher BLM road. At approximately 38.478N, 109.332W, look for pullouts and ridge access on north side of the road. GPS coordinates recommended for final navigation. Road conditions vary seasonally; high-clearance vehicle strongly recommended, especially after rain.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "BLM dirt road, uneven surface with some washboard. High-clearance recommended. Impassable during heavy rain and after snow melt.",
+  "parking_notes": "Informal pullouts along BLM road. No developed parking area. Typical pullout capacity 2-4 vehicles. Park off traveled surface.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation. Pack out all trash. Respect wildlife and vegetation. Adhere to all BLM closure and seasonal use restrictions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\n25 lbs maximum per day per FLPMA\nNo motorized excavation equipment\nPack out all trash\nNo vehicles off designated roads\nRespect seasonal closures and BLM postings",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "loose_rock",
+    "flash_floods"
+  ],
+  "nearest_services": "Blanding, Utah, approximately 25 miles southwest. Full services including gas, groceries, water, and restaurants available in Blanding. No services at or near Brumley Ridge.",
+  "accessibility_notes": "Uneven rocky terrain with moderate slopes and loose footing. No wheelchair access. Sturdy hiking boots with ankle support essential. Significant walking distance (up to 2 miles from parking) over rough ground. Not suitable for limited mobility or young children under 8 years old. Heat exposure is extreme; adequate water and sun protection critical.",
+  "alternative_names": [],
+  "nearest_city": "Blanding",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/brumley-ridge-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/brumley-ridge-ut/mineral-1-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/brumley-ridge-ut/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Brumley Ridge in Utah?",
+      "answer": "Brumley Ridge is known for agate, jasper, chalcedony, and chert specimens. Agate nodules typically display white to tan banding with some translucency. Jasper appears in reds, browns, and multicolored patterns. Most specimens are nodular or fragment form found in ridge saddles and wash bottoms."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Brumley Ridge?",
+      "answer": "No permit is required for personal use rockhounding at Brumley Ridge on BLM public land. You may collect up to 25 lbs per day under FLPMA regulations at no cost. No commercial collection or motorized excavation is allowed."
+    },
+    {
+      "question": "What is the best time of year to visit Brumley Ridge for rockhounding?",
+      "answer": "April through October is the recommended season, with spring (April-May) and fall (September-October) offering ideal temperatures and lower thunderstorm risk. Summer visits are possible but involve extreme heat and afternoon monsoonal storms. Winter may bring snow and road closures at this 7,100-foot elevation."
+    },
+    {
+      "question": "How do I get to Brumley Ridge from Blanding, Utah?",
+      "answer": "From Blanding, take US 191 north approximately 22 miles toward Monticello, then turn east on County Road 102 (Bullfrog-Notom Road area) and continue 12 miles on BLM dirt road to the site coordinates. A high-clearance or AWD vehicle is strongly recommended due to rough road conditions."
+    },
+    {
+      "question": "Is Brumley Ridge suitable for beginner rockhounders and families?",
+      "answer": "Yes, Brumley Ridge is beginner-friendly with exposed specimens visible on ridges and in washes. Children ages 8 and up can participate. The main challenges are the remote location, extreme heat, and uneven rocky terrain. Bring ample water, sun protection, and sturdy hiking boots. The 25-lb daily limit makes it realistic for inexperienced collectors."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Brumley Ridge?",
+      "answer": "Bring a geological hammer or pry bar for specimen extraction, a 10x loupe for inspecting agate banding, a sturdy backpack, heavy gloves, and a 5-gallon water container. Essential supplies include sunscreen, a wide-brimmed hat, and first aid. GPS or detailed directions are recommended given the remote BLM road access and lack of cell service."
+    }
+  ],
+  "meta_title": "Brumley Ridge Rockhounding - Utah",
+  "meta_description": "Free BLM rockhounding for agate, jasper, and chalcedony at Brumley Ridge, Utah. No permit required, personal use only. Remote desert collecting near Blanding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred county road names based on San Juan County geography and typical BLM road naming",
+    "nearest_city_distance - estimated from GPS coordinates and Blanding location",
+    "vehicle_required - inferred AWD for dirt BLM road conditions",
+    "specific gem type occurrences - based on typical Basin and Range province mineralogy, not location-specific source"
+  ],
+  "enriched_at": "2026-04-22T06:52:32.656Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:00:06.402Z"
+}

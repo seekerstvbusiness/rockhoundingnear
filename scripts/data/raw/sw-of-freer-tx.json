@@ -1,0 +1,60 @@
+{
+  "slug": "sw-of-freer-tx",
+  "name": "SW of Freer",
+  "lat": 27.772632,
+  "lng": -98.765347,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Duval County",
+  "city_slug": "duval-county",
+  "county": "Duval",
+  "county_slug": "duval",
+  "geocoded_city": "Duval County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=SW%20of%20Freer%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=SW%20of%20Freer",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=SW%20of%20Freer%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 479,
+      "meters": 146
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:46:25.724Z"
+  },
+  "scraped_at": "2026-04-21T18:46:25.724Z",
+  "scrape_quality": "minimal"
+}

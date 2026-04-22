@@ -1,0 +1,97 @@
+{
+  "slug": "bullion-canyon-ut",
+  "name": "Bullion Canyon",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Marysvale",
+  "city_slug": "marysvale",
+  "county": "Piute",
+  "county_slug": "piute",
+  "lat": 38.419494,
+  "lng": -112.298112,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding site near Marysvale offering agate, chalcedony, and jasper specimens. Free access with standard Utah public land collection rules.",
+  "description": "Bullion Canyon is a scenic BLM rockhounding area in Piute County known for quality agate and chalcedony specimens. The site sits within Utah's Basin and Range province where ancient volcanic and hydrothermal activity created ideal conditions for silica mineral formation. Collectors can find banded agates, colorful chalcedony nodules, and jasper fragments scattered across the canyon floor and surrounding washes. The terrain offers both easy accessible collecting near parking areas and more rewarding specimens for those willing to hike deeper into the canyon. This location attracts rockhounders of all skill levels due to its combination of accessible parking, abundant material, and scenic high-desert landscape.\n\nThe mineralization here is tied to Tertiary-age volcanic rocks and silica-rich groundwater that percolated through fractures and porous zones over millions of years. The agate nodules formed within cavities in ancient lava flows and tuff deposits. Collectors should focus on canyon washes where water erosion concentrates heavier specimens and exposes fresh material.\n\nBullion Canyon is best visited during cooler months when daytime temperatures are comfortable for extended collecting sessions. Summer heat can be intense at this elevation, making morning and late-afternoon collecting preferable. The canyon provides natural shade in some areas, which adds to visitor comfort. Water should be brought as it is not available on site.\n\nWhile personal use rockhounding is straightforward here, respect for BLM land stewardship is important. Fill in any holes you dig, pack out all trash, and stay within the 25 lb daily personal collection limit. The site rewards patient searching; many specimens are discovered by carefully examining washes after rain events when new material is exposed.",
+  "history": "Bullion Canyon lies within the Piute County portion of Utah's mineral-rich Basin and Range province, where Tertiary-age volcanic activity (25-40 million years ago) created extensive pyroclastic deposits and lava flows. Hydrothermal fluids rich in dissolved silica percolated through fractures in these volcanic rocks, precipitating agate, chalcedony, and other silica minerals in cavities and along fracture zones over extended geological time. The area has a long history of prospecting and small-scale mining for precious metals, though the rockhoundable agates and chalcedony represent secondary minerals formed in the same hydrothermal systems that occasionally concentrated gold and silver.",
+  "tips": "Focus your search on dry washes and canyon floors where water erosion has concentrated heavier agate and chalcedony nodules over centuries. Examine the undercut banks of washes carefully, as specimens often weather out and accumulate in these areas. Look for banded or multicolored nodules ranging from quarter-size to fist-size; many specimens have a waxy or chalky exterior that polishes to attractive luster. Bring a small pry bar or rock hammer to carefully extract specimens from matrix, and use a classifier or bucket to sift fine material from canyon gravels where smaller specimens accumulate.",
+  "terrain_notes": "Bullion Canyon sits at approximately 7,000-7,500 feet elevation with a mix of open sagebrush, scattered juniper and pinyon pine, and rocky canyon slopes. The main canyon bottom is relatively flat with gentle grades, making walking accessible for most hikers. Washes contain rounded river cobbles and loose rock requiring sturdy footwear. Hiking distances from parking to productive areas range from 0.5 to 3 miles depending on specimen quality desired. Terrain becomes steeper on canyon walls with loose talus and scattered rock outcrops.",
+  "best_season": "October - April. The high desert elevation keeps summer temperatures extreme (often 85-95F by midday), while fall and early spring offer comfortable collecting conditions (50-70F). Winter snow occasionally closes access or makes canyon floors muddy. Late fall and early spring provide the best combination of weather and newly exposed material.",
+  "written_directions": "From Marysvale, take Utah State Route 119 northeast for approximately 8 miles toward the Piute County mountains. Watch for signs directing to Bullion Canyon. Turn onto the unmarked forest road heading northeast into the canyon; this is typically a passenger-vehicle accessible road but may become rough after heavy rain. Continue for 1-2 miles until you reach a natural pullout or turnaround area near the canyon mouth. Park here and begin hiking upstream along the main wash. Specimens are found throughout the canyon floor and on benches above the active wash.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt forest road, typically passable by passenger vehicles but subject to seasonal washout. High clearance recommended after rain events. Road surface is mostly compacted earth with scattered rocks.",
+  "parking_notes": "Pullout area near canyon mouth with space for 4-6 vehicles. No developed facilities. Shaded parking may be available under juniper trees in some seasons.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No use of explosives. Pack out all trash. Fill in any holes dug. Respect seasonal closures or area restrictions if posted.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nNo explosives\nPack out all trash\nFill in any excavation holes\nRespect any posted seasonal closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "cliffs",
+    "heat",
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Marysvale, approximately 8-10 miles southwest, offers gas, food, water, and lodging. Plan to bring water bottles as none is available on site.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers along canyon floor. Uneven rocky footing in washes requires sturdy hiking boots. No wheelchair access to productive collecting areas. First 0.5 miles is easiest; deeper canyon areas require moderate hiking stamina. Canyon walls have loose talus and steep slopes unsuitable for those with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Marysvale",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/bullion-canyon-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What agates and gemstones can I find rockhounding near Marysvale at Bullion Canyon?",
+      "answer": "Bullion Canyon is known for quality banded agate, multicolored chalcedony nodules, and jasper specimens. Most specimens range from quarter-size to fist-size and can be found loose in canyon washes or partially embedded in matrix. The best specimens show multiple color bands or patterns and typically have a waxy luster when polished."
+    },
+    {
+      "question": "Do I need a permit to collect at Bullion Canyon BLM land in Utah?",
+      "answer": "No permit is required for recreational rockhounding at Bullion Canyon. It is open to public use under BLM management with standard personal use rules. You must follow the 25 lb daily limit and pack out all material and trash."
+    },
+    {
+      "question": "What is the best time of year for rockhounding at Bullion Canyon Utah?",
+      "answer": "October through April offers ideal collecting conditions. Summer temperatures at this 7,000-foot elevation often exceed 90F, making midday collecting uncomfortable. Fall and spring provide comfortable temperatures (50-70F) and frequent rain events that expose fresh specimens in canyon washes."
+    },
+    {
+      "question": "Is Bullion Canyon near Marysvale beginner-friendly for first-time rockhounders?",
+      "answer": "Yes, Bullion Canyon is excellent for beginners. The canyon floor terrain is relatively easy to walk, specimens are abundant and visible, no permit is required, and access is free. Expect to find collectable material within the first 0.5 miles of canyon bottom without extensive hiking."
+    },
+    {
+      "question": "What tools and equipment do I need to collect agate at Bullion Canyon?",
+      "answer": "Bring a small rock hammer or pry bar for extracting specimens from matrix, a collection bag or bucket, sturdy hiking boots, and plenty of water. A classifier or mesh screen is helpful for sifting smaller specimens from canyon gravel. Bring sun protection, hat, and long sleeves as the high desert offers minimal shade."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Bullion Canyon BLM land?",
+      "answer": "Yes, dogs are permitted on BLM land at Bullion Canyon. Keep dogs under control and be aware of potential snakes on warm days. The 8-mile drive from Marysvale and unpredictable water sources in the canyon make this better suited for dogs accustomed to hiking. Bring water for your dog as it is not available on site."
+    }
+  ],
+  "meta_title": "Bullion Canyon Rockhounding - Find Agate in Utah",
+  "meta_description": "Free BLM rockhounding near Marysvale for agate, chalcedony, and jasper. No permit required. 25 lb daily limit. Best October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T06:51:50.614Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:59:16.357Z"
+}

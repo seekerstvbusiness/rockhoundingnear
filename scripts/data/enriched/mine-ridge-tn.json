@@ -1,0 +1,95 @@
+{
+  "slug": "mine-ridge-tn",
+  "name": "Mine Ridge",
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "city": "Newport",
+  "city_slug": "newport",
+  "county": "Cocke",
+  "county_slug": "cocke",
+  "lat": 35.832734,
+  "lng": -83.122933,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Eastern Tennessee rockhounding area featuring quartz and feldspar specimens in gentle mountain terrain near the Great Smoky Mountains foothills.",
+  "description": "Mine Ridge is located in Cocke County, Tennessee, in the foothills region east of the Great Smoky Mountains. This area sits within the Blue Ridge physiographic province, where Precambrian metamorphic rocks have been exposed through millions of years of erosion. The ridge offers opportunities to collect quartz and feldspar specimens from exposed metamorphic outcrops and weathered slopes typical of this region.\n\nThe geology here reflects the Grenville orogeny (mountain-building event) that created the underlying metamorphic basement rock. Feldspathic quartz and coarse mica minerals occur naturally throughout the weathered soils and outcrop faces. The gentle slope and moderate elevation make this a more accessible rockhounding destination compared to higher ridge areas.\n\nVisitors should expect exposed rock faces, scattered mineral specimens in surface scree, and relatively open terrain with moderate vegetation. The combination of accessible topography and known mineral occurrence makes this site suitable for collectors interested in Appalachian metamorphic minerals.\n\nBring sturdy tools for specimen extraction and wear proper footwear for uneven ground. The area may be more productive after rain or seasonal weathering exposes fresh material.",
+  "history": "Mine Ridge sits within the Blue Ridge geology of eastern Tennessee, formed during the Grenville orogeny approximately 1.0 to 1.2 billion years ago when ancient continental collision created metamorphic rocks rich in feldspar, quartz, and mica minerals. Regional mining and prospecting in Cocke County has historically focused on limited mineral deposits, with this area likely explored as part of early Appalachian mineral surveys.",
+  "tips": "Search along natural drainage lines and weathered slopes where gravity has concentrated lighter mineral specimens. Quartz crystals and feldspar pieces often weather out on the surface after rain or seasonal freeze-thaw cycles. Use a 2-3 pound hammer and cold chisel to carefully extract specimens from outcrop faces. Look for areas with white or translucent quartz and cloudy white to pink feldspar fragments in the exposed rock.",
+  "terrain_notes": "Elevation 1869 feet on gentle slopes typical of lower Appalachian foothills. Terrain is characterized by exposed metamorphic bedrock, weathered soil, and scattered vegetation. Walking distance from parking is moderate; expect uneven footing on rocky ground and occasional loose material. No significant cliffs, but watch for hidden rocks under leaf litter.",
+  "best_season": "April - May and September - November. Spring and fall offer ideal temperatures and lower humidity for hiking steep terrain. Summer heat and humidity can be challenging; winter conditions may obscure specimens under leaf cover and frozen ground.",
+  "written_directions": "From Newport, Tennessee, take US 411 north toward Gatlinburg approximately 8 miles. Look for local forest access roads or pullouts in the Cocke County ridge area near the coordinates 35.832734, -83.122933. Access may require local knowledge or consultation with Cocke County ranger stations for current road conditions and public access boundaries.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Approach roads likely unpaved or partially improved forest roads. Check local conditions before traveling.",
+  "parking_notes": "Limited informal parking likely available at ridge pullouts or trailheads. No developed parking facility confirmed.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Respect all property boundaries and obtain permission if on private land. Check with Cocke County ranger or local authorities regarding current public access. Collect only what you can carry and use. Leave digging sites safe and undamaged.",
+  "quantity_limits": null,
+  "rules": "Respect property boundaries\nObtain local permission if uncertain of land status\nCollect only for personal use\nFill holes and stabilize dig sites\nRemove all trash",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "cold",
+    "wildlife"
+  ],
+  "nearest_services": "Newport, Tennessee approximately 8 miles south - gas, food, and water available.",
+  "accessibility_notes": "Moderate terrain with uneven rocky ground and exposed bedrock. Gentle slopes reduce difficulty, but sturdy footwear is essential. No wheelchair access. Limited mobility visitors may struggle with uneven surfaces and elevation changes.",
+  "alternative_names": [],
+  "nearest_city": "Newport",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/tennessee/mine-ridge-tn/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find at Mine Ridge in Tennessee?",
+      "answer": "Mine Ridge is known for quartz, feldspar, and mica specimens typical of Blue Ridge metamorphic rocks. Collectors should expect white to translucent quartz crystals, cloudy white to pink feldspar pieces, and mica flakes weathered from the exposed bedrock."
+    },
+    {
+      "question": "Is rockhounding at Mine Ridge free or do I need to pay a fee?",
+      "answer": "Mine Ridge is a public rockhounding area with no collection fee. However, confirm current access status with Cocke County authorities and respect all private property boundaries in the area."
+    },
+    {
+      "question": "Do I need a permit to collect minerals at Mine Ridge, Tennessee?",
+      "answer": "No permit is required for personal use mineral collection at Mine Ridge. Always verify current regulations with local Cocke County rangers and obtain permission if you are uncertain about land ownership."
+    },
+    {
+      "question": "When is the best time to go rockhounding at Mine Ridge?",
+      "answer": "April through May and September through November offer ideal conditions. Spring and fall provide comfortable temperatures and increased specimen exposure from seasonal weathering, while summer humidity and winter leaf cover make collecting less productive."
+    },
+    {
+      "question": "What tools do I need to collect quartz and feldspar at Mine Ridge?",
+      "answer": "Bring a 2-3 pound rock hammer, cold chisel, safety glasses, and a sturdy collection bag. The moderate terrain and exposed bedrock make hand tools effective for extracting specimens without requiring heavy equipment."
+    },
+    {
+      "question": "Is Mine Ridge rockhounding suitable for beginners and families?",
+      "answer": "Yes, Mine Ridge is beginner-friendly with moderate difficulty and accessible terrain. The gentle slopes, exposed specimens, and lack of hazardous cliffs make it suitable for families with children age 8 and older. Check road access and local conditions before visiting."
+    }
+  ],
+  "meta_title": "Mine Ridge Rockhounding - Tennessee Quartz",
+  "meta_description": "Find quartz, feldspar, and mica at Mine Ridge in Cocke County, Tennessee. Public rockhounding on gentle foothills terrain. No permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type and primary_category inferred from location context without explicit source confirmation",
+    "cell_service inferred as spotty based on rural Cocke County location",
+    "parking_notes and road_conditions estimated from typical mountain ridge access patterns",
+    "written_directions based on geographic positioning relative to Newport and US 411"
+  ],
+  "enriched_at": "2026-04-21T18:38:16.144Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:39:36.085Z"
+}

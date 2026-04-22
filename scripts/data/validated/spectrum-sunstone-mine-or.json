@@ -1,0 +1,102 @@
+{
+  "slug": "spectrum-sunstone-mine-or",
+  "name": "Spectrum Sunstone Mine",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Lake County Area",
+  "city_slug": "lake-county",
+  "county": "Lake",
+  "county_slug": "lake",
+  "lat": 42.73258221,
+  "lng": -119.8677719,
+  "gem_types": [
+    "Sunstone",
+    "Feldspar",
+    "Quartz"
+  ],
+  "short_description": "BLM public land rockhounding site in Oregon's high desert known for colorful sunstones with schiller effect. Free personal use collecting in scenic lake country terrain.",
+  "description": "Spectrum Sunstone Mine sits on public BLM land in Lake County's remote high desert region, roughly 35 miles northeast of the town of Lakeview. This location is famous among collectors for Oregon sunstones (also called Oregon sunstone feldspar), gemstones that display a distinctive golden or reddish schiller - a sparkling light reflection caused by copper mineral inclusions within the feldspar matrix. The site is accessible year-round on established roads, making it a popular destination for both serious collectors and casual rockhounders.\n\nThe geology here reflects Oregon's complex volcanic and metamorphic history. The Lake County region sits within the Oregon-Idaho Graben, a series of rift valleys shaped by Miocene and Pliocene volcanic and extensional activity (roughly 20 to 5 million years ago). Sunstones in this area formed within altered volcanic rocks and associated pegmatitic zones where cooling magma and hydrothermal fluids deposited feldspar minerals rich in copper and other trace elements. The copper-rich feldspars crystallized with the characteristic reddish and golden hues that make Oregon sunstones prized by collectors and cutters worldwide.\n\nCollectors here typically search exposed banks, wash edges, and loose talus slopes where weathering has liberated the sunstone crystals. The terrain is semi-arid with low scrub vegetation, scattered sagebrush, and volcanic rock outcrops. Elevation ranges from 4,200 to 4,600 feet, creating cool winters and mild summers. The site sees light foot traffic from rockhounders but remains relatively undiscovered compared to more famous Oregon locations, offering good collecting potential without crowds.\n\nThe BLM manages this land under recreation and personal use guidelines, allowing up to 25 pounds per day per person with no permit required. Collectors should bring water, sun protection, and appropriate tools like small pry bars and buckets. The nearest services are in Lakeview, about 35 miles away. Cell service is spotty in this remote region, so planning and self-sufficiency are important.",
+  "history": "The Lake County sunstone deposits formed during the Miocene-Pliocene volcanic and extensional activity that created the Basin and Range province across southeastern Oregon. Copper-rich hydrothermal fluids percolating through cooling volcanic rocks deposited feldspars with copper inclusions, creating the distinctive schiller effect that makes these stones so collectible. Oregon sunstones have been commercially and recreationally mined since the 1980s, with Lake County becoming known as one of the world's premier sources for gem-quality sunstones.",
+  "tips": "Search exposed roadcuts, wash banks, and the edges of volcanic talus slopes where sunstones weather out naturally - look for sparkly flecks of orange, red, or golden feldspar catching light in the sun. Bring a small pry bar or flat-head screwdriver to carefully work stones from clay and weathered rock; sunstones are relatively soft (6-6.5 Mohs hardness) so avoid heavy hammering. Focus on areas with reddish volcanic soil and scattered copper-colored mineral staining on rocks. Early morning or late afternoon light makes the schiller effect more visible, helping you spot quality stones from a distance.",
+  "terrain_notes": "High desert volcanic plateau at 4,200-4,600 feet elevation with sparse low-growing sagebrush and juniper. Terrain is moderately rolling with exposed volcanic rock outcrops, loose talus, and eroded wash banks. Walking distances from parking vary but are typically under 2 miles to productive areas. Footing is uneven with loose volcanic rock and scattered cobbles; sturdy hiking boots recommended. No wheelchair access. Parking areas are informal pullouts on the BLM access road.",
+  "best_season": "April - October. Late spring through early fall offers the most comfortable daytime temperatures (60-80 degrees F) and lowest snow risk. Avoid December through February when high elevation brings cold temperatures and occasional snow. Summer (July-August) is hot during midday but productive for collecting; plan for early morning or late afternoon fieldwork to avoid peak heat.",
+  "written_directions": "From Lakeview, Oregon (the nearest substantial town), head north on OR 395 for approximately 12 miles. Turn east on County Road 3-13 (Coglan Road) and continue for roughly 18 miles on increasingly rough BLM roads. The landscape transitions from valley to high desert scrubland. Look for informal pullouts and mining prospect roads branching north and south; established collecting areas are marked by scattered tailings piles and cleared parking spaces. A detailed Oregon BLM map or GPS coordinates are strongly recommended, as roads are unsigned and multiple branches exist. High-clearance vehicles are advised, especially after rain.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough BLM access roads, mostly graded dirt with some washboard and minor ruts. High-clearance or all-wheel-drive vehicles recommended, especially after rain. Not suitable for low-clearance passenger cars in wet conditions.",
+  "parking_notes": "Informal pullouts on BLM road system near known collecting areas. Capacity varies; typically room for 2-4 vehicles per pullout. No developed facilities or lot markings.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. Remove only loose material or weathered exposures; do not blast, drill, or extract from solid rock. Pack out all trash. BLM may restrict collecting in designated areas; check with local BLM office for current closures.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per person\nNo commercial collection allowed\nNo motorized excavation or equipment\nNo blasting or drilling\nPack out all trash\nCheck BLM office for current closures or restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Lakeview, Oregon (approximately 35 miles southwest) has gas, food, lodging, and drinking water. No services at the site itself.",
+  "accessibility_notes": "Uneven rocky terrain with loose volcanic cobbles and talus; no wheelchair access. Sturdy hiking boots required. Walking distances from parking to productive collecting areas typically range from a few hundred feet to 2 miles on unmaintained terrain. Moderate fitness recommended due to elevation and uneven ground. High-clearance vehicles essential; standard passenger cars may not reach all productive areas.",
+  "alternative_names": [
+    "Lake County Sunstone",
+    "Coglan Sunstone Area"
+  ],
+  "nearest_city": "Lakeview",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/spectrum-sunstone-mine-or/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/spectrum-sunstone-mine-or/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What is Oregon sunstone and can I find it at Spectrum Sunstone Mine?",
+      "answer": "Oregon sunstone is a type of feldspar gemstone with a distinctive golden or reddish sparkle caused by copper mineral inclusions. This effect, called schiller, makes Oregon sunstones highly collectible. Yes, Spectrum Sunstone Mine on Lake County BLM land is one of Oregon's premier locations for finding gem-quality sunstones with excellent color and sparkle. Collectors regularly find facet-grade material here."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Spectrum Sunstone Mine in Oregon?",
+      "answer": "No, a permit is not required. Spectrum Sunstone Mine sits on public BLM land where personal use collecting is allowed under FLPMA (Federal Land Policy and Management Act) without a permit. You are limited to 25 pounds per day per person for non-commercial use. Always check the local BLM office website before visiting for any recent closures or restrictions."
+    },
+    {
+      "question": "What is the best time of year to collect sunstones at this Lake County site?",
+      "answer": "The best rockhounding season at Spectrum Sunstone Mine is April through October when daytime temperatures are comfortable (60-80 degrees F) and snow is unlikely. Avoid December through February due to cold temperatures and potential snow at this 4,200-4,600 foot elevation. Summer months (July-August) are productive but hot; plan collecting for early morning or late afternoon to avoid peak heat."
+    },
+    {
+      "question": "What tools and equipment do I need to collect sunstones at Spectrum Mine?",
+      "answer": "Bring a small pry bar or flathead screwdriver to gently work sunstones from clay and weathered rock. A bucket or collection bag is essential. Pack plenty of water (bring 2+ liters per person), sunscreen, hat, and sturdy hiking boots for uneven volcanic terrain. A high-clearance or all-wheel-drive vehicle is strongly recommended for the rough BLM access roads. GPS or detailed maps are helpful since roads are unsigned."
+    },
+    {
+      "question": "Is Spectrum Sunstone Mine beginner-friendly and good for families with kids?",
+      "answer": "Yes, Spectrum Sunstone Mine is beginner-friendly and suitable for families with children ages 8 and up. The collecting is straightforward - look for sparkly orange, red, or golden feldspar in weathered rock - and no technical skills are required. However, the remote high-desert location, rough access roads, and uneven terrain mean families should be prepared for outdoor conditions and bring adequate water and sun protection."
+    },
+    {
+      "question": "How far is Spectrum Sunstone Mine from Lakeview Oregon and what services are available nearby?",
+      "answer": "Spectrum Sunstone Mine is approximately 35 miles northeast of Lakeview, Oregon, the nearest town with services. Lakeview has gas stations, restaurants, lodging, and drinking water. The mine itself has no facilities. The final 18+ miles involve rough BLM roads, so fill up with fuel and water in Lakeview before heading out. Cell service is spotty at the site, so plan accordingly and consider bringing a satellite communicator."
+    }
+  ],
+  "meta_title": "Spectrum Sunstone Mine Oregon - BLM Rockhounding",
+  "meta_description": "Find Oregon sunstone and feldspar at Spectrum Sunstone Mine near Lakeview. Free BLM collecting, 25 lbs/day limit, beginner-friendly high desert terrain.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes",
+    "terrain_notes"
+  ],
+  "enriched_at": "2026-04-22T06:39:32.909Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:40:44.356Z"
+}

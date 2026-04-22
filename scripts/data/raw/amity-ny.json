@@ -1,0 +1,60 @@
+{
+  "slug": "amity-ny",
+  "name": "Amity",
+  "lat": 41.268306,
+  "lng": -74.45504,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Town of Warwick",
+  "city_slug": "town-of-warwick",
+  "county": "Orange",
+  "county_slug": "orange",
+  "geocoded_city": "Town of Warwick",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Amity%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Amity",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Amity%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 513,
+      "meters": 156
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:35:19.445Z"
+  },
+  "scraped_at": "2026-04-21T18:35:19.445Z",
+  "scrape_quality": "minimal"
+}

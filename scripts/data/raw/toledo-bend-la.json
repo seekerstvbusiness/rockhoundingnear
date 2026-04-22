@@ -1,0 +1,60 @@
+{
+  "slug": "toledo-bend-la",
+  "name": "Toledo Bend",
+  "lat": 31.559088,
+  "lng": -93.735449,
+  "state": "Louisiana",
+  "state_slug": "louisiana",
+  "state_code": "LA",
+  "city": "Sabine Parish",
+  "city_slug": "sabine-parish",
+  "county": "Sabine",
+  "county_slug": "sabine",
+  "geocoded_city": "Sabine Parish",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-louisiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Toledo%20Bend%20Louisiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Toledo%20Bend",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Toledo%20Bend%20Louisiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 182,
+      "meters": 55
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:39:44.380Z"
+  },
+  "scraped_at": "2026-04-21T16:39:44.381Z",
+  "scrape_quality": "minimal"
+}

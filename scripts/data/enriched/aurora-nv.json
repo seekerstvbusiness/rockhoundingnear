@@ -1,0 +1,101 @@
+{
+  "slug": "aurora-nv",
+  "name": "Aurora",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Mineral County Area",
+  "city_slug": "mineral-county",
+  "county": "Mineral",
+  "county_slug": "mineral",
+  "lat": 38.289644,
+  "lng": -118.889059,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Obsidian"
+  ],
+  "short_description": "High-elevation BLM rockhounding near historic Aurora mining district. Find quartz, agate, and chalcedony on gentle slopes at 7,319 feet with no permits required.",
+  "description": "Aurora sits in the heart of Nevada's historic Aurora mining district in Mineral County, at an elevation of 7,319 feet in a semi-arid mountain environment. This BLM-managed area offers excellent rockhounding for quartz varieties, chalcedony, agate, and obsidian specimens without permits or fees. The terrain features gentle slopes across exposed mineralized ground that was productive during Nevada's 19th-century mining boom, when Aurora and nearby Bodie were major silver and gold centers.\n\nThe geological setting here reflects the Basin and Range province, where Miocene-era volcanic activity and hydrothermal circulation created abundant silica-rich mineral deposits. Rhyolitic and andesitic volcanic rocks dominate the landscape, with weathering and erosion exposing colorful agate nodules, chalcedony bands, and occasional obsidian fragments in washes and on hillsides. The combination of volcanic parent material and high desert erosion makes surface collecting highly productive year-round, though weather conditions vary significantly by season.\n\nThis location is ideal for families and beginners because access is straightforward, the terrain is walkable, and no special equipment or expertise is required to find specimens. Most productive collecting happens within a half-mile walk of parking areas. The high elevation and gentle slopes mean you can cover ground without scrambling or climbing, making it accessible to rockhounders of varied fitness levels.\n\nBe prepared for exposure to sun and wind at this elevation, and bring adequate water. The semi-arid climate means minimal vegetation for shade, but the gentle slopes and open terrain make navigation easy. Peak collecting season is late spring through early fall when roads are dry and weather is stable.",
+  "history": "Aurora was a major silver mining center from 1860 to 1880, part of the Mono Basin mining district that straddled the Nevada-California border. The volcanic and hydrothermal activity that created the area's precious metals also produced abundant secondary minerals - including the quartz, chalcedony, and agate specimens found here today - as silica-rich fluids crystallized in fractures and cavities of the underlying rhyolitic volcanic rocks during Miocene time, roughly 20 million years ago.",
+  "tips": "Search washes and gullies where water erosion has exposed colorful agate nodules and chalcedony bands - these low-lying areas concentrate loose specimens. Look for white, gray, and banded quartz on exposed hillsides and around old prospect pits; specimens often have a weathered, slightly frosted appearance that makes them stand out. Bring a small hand hammer and chisel to extract specimens from outcrop, and a 5-gallon bucket to track your weight - the 25-pound daily limit fills quickly with quartz. Early morning visits offer better lighting to spot the subtle color variations in chalcedony and agate, and avoid midday heat at this elevation.",
+  "terrain_notes": "Elevation 7,319 feet with gentle slope and open semi-arid terrain. Sparse low vegetation typical of high desert. Parking areas within walking distance of productive ground; most collecting within half a mile involves easy to moderate walking on uneven but not steep ground. Footing is rocky but stable, with scattered loose talus common. No developed trails, but navigation is straightforward across open hillsides. Exposure to full sun and wind; minimal shade available.",
+  "best_season": "May - September. Higher elevation (7,319 ft) means snow and ice block access in winter and early spring. Late May through September offers reliably dry roads, stable weather, and moderate daytime temperatures (70-80F). Fall can extend into early October. Summer heat at midday is intense; plan early morning or late afternoon visits.",
+  "written_directions": "From Hawthorne, Nevada (approximately 40 miles south), take US 95 north toward Thorne. Continue on US 95 for about 30 miles, then turn east on State Route 359 toward Mina. From Mina, follow local roads east into the Aurora mining district area. Aurora is approximately 70 miles from Hawthorne and accessible via rough forest service and BLM roads in summer and early fall. From Mineral County, follow directions to the historic Aurora townsite, then look for BLM access points and pullouts marked with recreation signs. High-clearance vehicle recommended for rougher approaches; passenger vehicle access available to main parking areas during dry season.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough BLM and forest service roads, dirt surface with washboard and occasional rocky sections. High-clearance recommended but passenger vehicle access possible to main areas during dry season (May-September). Impassable during wet weather and winter months.",
+  "parking_notes": "Informal pullouts and parking areas near rockhounding sites. No developed parking lots; space for 3-5 vehicles at typical pullouts. No facilities or amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Rockhounding is permitted on open BLM land. Do not collect from posted mining claims or private property. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nAvoid posted mining claims and private property\nPack out all trash\nStay on BLM land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "remote",
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Mina, Nevada (approximately 40 miles west) has gas, food, and water. Hawthorne, Nevada (approximately 50 miles southwest) has full services including lodging and supplies.",
+  "accessibility_notes": "Gentle slopes and open terrain accessible to most rockhounders. Uneven rocky ground requires sturdy footwear but no scrambling or climbing. High elevation (7,319 ft) may affect those sensitive to altitude. No wheelchair access due to rough parking areas and uneven terrain. Most productive ground within easy walking distance of vehicle. Not suitable for those with significant mobility limitations.",
+  "alternative_names": [
+    "Aurora Mining District"
+  ],
+  "nearest_city": "Mina",
+  "nearest_city_distance": 40,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/aurora-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/aurora-nv/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What can you find rockhounding at Aurora, Nevada on BLM land?",
+      "answer": "Aurora is known for quartz specimens, chalcedony, agate nodules, and obsidian. The semi-arid high-elevation terrain (7,319 ft) features exposed mineralized ground from historic mining activity. Most specimens are found on hillsides and in washes where erosion has concentrated loose pieces. The area's volcanic geology creates abundant colorful agate and chalcedony suitable for collectors of all levels."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Aurora, Nevada BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Aurora on BLM land. Personal use collection is allowed free of charge under FLPMA regulations. You are limited to 25 pounds per day. Commercial collection and motorized excavation are prohibited. Always verify you are on open BLM land and avoid posted mining claims."
+    },
+    {
+      "question": "What is the best time to visit Aurora for rockhounding?",
+      "answer": "May through September is ideal. The high elevation (7,319 ft) means snow blocks access in winter and early spring. Summer offers stable weather and dry roads, though midday heat is intense - plan early morning or late afternoon visits. Early fall (September-October) can also work. High-clearance vehicle is essential during wet season."
+    },
+    {
+      "question": "How difficult is rockhounding at Aurora for beginners and families?",
+      "answer": "Aurora is beginner and family-friendly. The gentle slopes and open terrain require no special skills or equipment beyond a small hand hammer and chisel. Most productive collecting occurs within easy walking distance of parking, making it suitable for kids ages 6 and up and those of moderate fitness. No scrambling, climbing, or backcountry navigation required."
+    },
+    {
+      "question": "What tools and gear do I need to rockhound at Aurora, Nevada?",
+      "answer": "Bring a small hand hammer and chisel for extracting specimens, a 5-gallon bucket or backpack to carry your 25-pound daily limit, and sturdy hiking boots for rocky terrain. Essential gear includes sun protection (hat, sunscreen), at least 2-3 liters of water per person, and a light jacket for elevation temperature changes. A GPS unit or map is helpful in remote areas, though navigation is generally straightforward."
+    },
+    {
+      "question": "How far is Aurora from towns with gas and supplies?",
+      "answer": "Mina, Nevada is approximately 40 miles west and offers gas, food, and water. Hawthorne, Nevada is about 50 miles southwest with full services including lodging and supplies. Plan to bring water and snacks for the day, as no services exist at Aurora itself. Cell service is spotty, so inform someone of your location before heading out."
+    }
+  ],
+  "meta_title": "Aurora Rockhounding - Nevada BLM Land",
+  "meta_description": "Free rockhounding at Aurora, Nevada on BLM land. Find quartz, agate, and chalcedony at 7,319 feet. No permit needed, 25 lbs per day. Family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T09:27:30.456Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:03.947Z"
+}

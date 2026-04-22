@@ -1,0 +1,60 @@
+{
+  "slug": "adrian-s-quarry-mo",
+  "name": "Adrian’s Quarry",
+  "lat": 38.672304,
+  "lng": -92.229007,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Boone County",
+  "city_slug": "boone-county",
+  "county": "Boone",
+  "county_slug": "boone",
+  "geocoded_city": "Boone County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Adrian%E2%80%99s%20Quarry%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Adrian%E2%80%99s%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Adrian%E2%80%99s%20Quarry%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 732,
+      "meters": 223
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:00:11.321Z"
+  },
+  "scraped_at": "2026-04-21T19:00:11.321Z",
+  "scrape_quality": "minimal"
+}

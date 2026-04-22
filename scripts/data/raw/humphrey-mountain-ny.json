@@ -1,0 +1,60 @@
+{
+  "slug": "humphrey-mountain-ny",
+  "name": "Humphrey Mountain",
+  "lat": 43.635146,
+  "lng": -74.236975,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Town of Wells",
+  "city_slug": "town-of-wells",
+  "county": "Hamilton",
+  "county_slug": "hamilton",
+  "geocoded_city": "Town of Wells",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Humphrey%20Mountain%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Humphrey%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Humphrey%20Mountain%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2953,
+      "meters": 900
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:42:16.693Z"
+  },
+  "scraped_at": "2026-04-21T18:42:16.693Z",
+  "scrape_quality": "minimal"
+}

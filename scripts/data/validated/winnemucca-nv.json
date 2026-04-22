@@ -1,0 +1,98 @@
+{
+  "slug": "winnemucca-nv",
+  "name": "Winnemucca",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Winnemucca",
+  "city_slug": "winnemucca",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "lat": 40.934,
+  "lng": -117.657209,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Opal",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Winnemucca offering excellent rockhounding for agate, opal, and jasper in the high desert. No permit required, 25 lbs daily limit.",
+  "description": "Winnemucca sits in the heart of northwestern Nevada's Basin and Range province, where excellent rockhounding opportunities abound on easily accessible BLM land. This region is known for producing quality agate and opal specimens, along with colorful jasper and chalcedony in various washes and hillsides surrounding the town. The area sits at 5,710 feet elevation in the high desert, with moderate slopes that are generally manageable for rockhounds of most fitness levels.\n\nThe geology here reflects millions of years of volcanic and hydrothermal activity. Miocene-age silica-rich hot springs and volcanic rocks deposited the agate, opal, and chalcedony veins that rockhounds seek today. The nearby McDermitt caldera complex and associated geothermal systems created ideal conditions for secondary mineral deposition. Weathering and erosion have exposed these specimens in surface gravels, washes, and exposed hillsides.\n\nCollecting here is straightforward and beginner-friendly. Simply locate exposed gravels, washes, or weathered outcrop areas and look for specimens showing translucent or banded patterns. The agate often appears as nodules or small seams in weathered rhyolite. Opal in this region can show play-of-color or white/cream coloration. Spring and fall offer the most pleasant collecting conditions in this semi-arid climate.\n\nAccess is excellent with paved highway access to the town and multiple dirt roads branching out to productive collecting areas. Parking is informal at pullouts along various collection roads. The moderate terrain and lack of permit requirements make this an ideal location for families and beginners new to rockhounding in the Nevada high desert.",
+  "history": "The Winnemucca area sits within the McDermitt-Caldera volcanic complex, where Miocene-age volcanic activity (approximately 16-20 million years ago) and associated hydrothermal circulation created extensive silica mineralization. The same geothermal systems that produced these deposits continue to operate in the region today, making this one of Nevada's most geothermally active areas and explaining the abundance of secondary minerals like agate and opal in surface deposits.",
+  "tips": "Search the washes and bajadas northeast of town where seasonal water flow has concentrated heavier agate and opal specimens in gravels; look for translucent nodules or banded patterns in tan, white, and brown coloration. Bring a small 5-gallon bucket and a rock hammer or chisel to extract specimens from weathered rhyolite. Early morning collecting in spring and fall maximizes comfort and visibility; scan south-facing slopes where weathering exposes fresh material. Focus on areas where eroded hillsides meet flat valley bottoms, as gravity concentrates collectible specimens there.",
+  "terrain_notes": "Moderate elevation at 5,710 feet with gradual to moderate slopes typical of the high desert basin. Terrain consists of exposed gravels, weathered volcanic outcrops, and shallow washes. Vegetation is sparse high desert scrub (sagebrush and rabbitbrush). Walking distance from parking areas to productive zones typically ranges from 0.5 to 2 miles. Footing is generally stable on compacted gravel and dirt, though some areas have loose rock and slight washboard texture on unpaved roads.",
+  "best_season": "October - April. The high desert climate brings intense heat and UV exposure in summer months (June-September), while winter snow is minimal at this elevation. Spring and fall offer ideal 50-70 degree temperatures and lower sun intensity for comfortable all-day rockhounding.",
+  "written_directions": "From downtown Winnemucca, head north or east on any of several BLM access roads branching from US 95. Most productive areas lie within 5-15 miles of town. Look for informal pullouts along dirt ranch roads and BLM access tracks. A detailed Nevada BLM map and GPS coordinates are highly recommended, as many productive areas are accessed by unmarked secondary roads. Check with the Winnemucca BLM Field Office (775-623-1500) for current road conditions and specific recommended collecting areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mix of paved highway to town, then unpaved ranch and BLM roads of varying quality. High-clearance passenger vehicles suitable for most accessible areas; some rougher secondary roads benefit from 4x4 or high-clearance AWD.",
+  "parking_notes": "Informal pullouts and wide spots along BLM access roads. No developed parking facilities. Space available for 5-10 vehicles at larger pullouts. Parking is dispersed and unmanaged.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. All specimens must be hand-collected. Do not disturb mining claims or posted private property. No explosives or blasting.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only, no commercial collection\n25 lb maximum per day\nHand collection only, no powered equipment\nNo disturbance of mining claims or private land\nNo blasting or explosives",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "remote"
+  ],
+  "nearest_services": "Winnemucca (0-15 miles depending on collecting area) has gas stations, restaurants, motels, and grocery stores.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers and rockhounds. No wheelchair access to remote collecting areas. Unpaved roads to collecting zones require high-clearance vehicles. Sturdy footwear recommended due to scattered sharp volcanic rock and loose gravel. The easy difficulty rating applies to accessible areas near town; some remote washes may require moderate hiking.",
+  "alternative_names": [
+    "Winnemucca BLM",
+    "Humboldt County Rockhounding"
+  ],
+  "nearest_city": "Winnemucca",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/winnemucca-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Winnemucca, Nevada?",
+      "answer": "The Winnemucca area is known for agate, opal, jasper, chalcedony, and quartz. Agate typically appears as translucent nodules or banded specimens in tan, white, and brown. Opal in this region shows cream to white coloration, sometimes with play-of-color. Jasper is common in reds, browns, and earth tones. All are collected from washes, bajadas, and weathered volcanic hillsides."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Winnemucca?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Winnemucca. Personal use collection is allowed under the Federal Land Policy and Management Act (FLPMA). You are limited to 25 lbs per day and must collect by hand only, with no commercial intent."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Winnemucca, Nevada?",
+      "answer": "October through April offers the most comfortable collecting conditions. High desert summer temperatures often exceed 90 degrees Fahrenheit, making outdoor collecting challenging. Fall and spring temperatures range from 50-70 degrees, with lower UV intensity and more pleasant hiking conditions."
+    },
+    {
+      "question": "How far is the rockhounding from Winnemucca town, and what roads do I take?",
+      "answer": "Most productive collecting areas lie 5-15 miles northeast and east of downtown Winnemucca via various BLM access roads branching from US 95. Roads are unpaved ranch and BLM tracks. High-clearance or AWD vehicles are recommended. Contact the Winnemucca BLM Field Office (775-623-1500) for current road conditions and specific GPS coordinates to productive zones."
+    },
+    {
+      "question": "Is the Winnemucca rockhounding area beginner-friendly and suitable for families with children?",
+      "answer": "Yes, Winnemucca is excellent for beginners and families. The terrain is relatively flat with easy parking access to productive washes and bajadas. No permit is required, and specimens are visible and accessible for children ages 6 and up. The easy difficulty level, combined with the abundance of agate and jasper near the surface, makes this an ideal introduction to Nevada rockhounding."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding agate near Winnemucca?",
+      "answer": "Bring a small 5-gallon bucket, rock hammer or cold chisel, work gloves, and sturdy hiking boots for loose volcanic rock. A hand lens helps identify banding in agate. A GPS device or detailed Nevada BLM map is essential since collecting roads are unmarked. Sun protection, plenty of water, and a hat are critical for the high desert climate. Some collectors bring a small backpack to carry specimens."
+    }
+  ],
+  "meta_title": "Winnemucca Rockhounding - Find Agate & Opal in Nevada",
+  "meta_description": "BLM rockhounding near Winnemucca, Nevada. Find agate, opal, and jasper. No permit required, 25 lb daily limit. Beginner-friendly high desert collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from basin geology; verify with local BLM office)",
+    "specific_collection_roads (no named roads provided in source data; directions based on general regional geography)"
+  ],
+  "enriched_at": "2026-04-22T06:43:37.712Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:46:24.732Z"
+}

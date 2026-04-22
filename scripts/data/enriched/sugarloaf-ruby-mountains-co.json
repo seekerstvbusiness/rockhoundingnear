@@ -1,0 +1,99 @@
+{
+  "slug": "sugarloaf-ruby-mountains-co",
+  "name": "Sugarloaf & Ruby Mountains",
+  "state": "Colorado",
+  "state_slug": "colorado",
+  "city": "Nathrop",
+  "city_slug": "nathrop",
+  "county": "Chaffee",
+  "county_slug": "chaffee",
+  "lat": 38.760154,
+  "lng": -106.072194,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Tourmaline"
+  ],
+  "short_description": "BLM public land in the Ruby Mountains near Nathrop offering quartz and feldspar collecting at 8,300 feet elevation. Personal use rockhounding with no permit required.",
+  "description": "Sugarloaf and Ruby Mountains sit within Chaffee County's scenic high country, offering accessible rockhounding on Colorado BLM land. This location is popular for collectors seeking quartz, feldspar, mica, and tourmaline specimens typical of the Rocky Mountain batholith. The moderate slopes and mixed conifer forest make this a manageable site for both beginners and experienced rockhounders looking to find quality samples without technical climbing. The area benefits from relatively high elevation that keeps it cool during summer months, and the diverse mineralogy reflects the granitic bedrock common to this region. Parking and access are straightforward from nearby Nathrop, making this an ideal day-trip destination.",
+  "history": "The Sugarloaf and Ruby Mountains are part of the Sawatch Range, formed during the Laramide orogeny when batholithic granite intruded into Precambrian metamorphic host rock. This granite-hosted environment created the feldspar, quartz, and mica-rich assemblages that rockhounders find here today.",
+  "tips": "Search along the moderate hillsides and in small washes where weathering has exposed fresh mineral faces; feldspar and tourmaline often occur as darker crystals within lighter quartz matrix. Bring a 10x loupe to identify tourmaline needles and feldspar crystal faces before extracting specimens. Focus on south-facing slopes where freeze-thaw weathering has loosened material, and collect small to medium specimens that fit within the 25-lb daily limit.",
+  "terrain_notes": "Moderate mountain slope at 8,331 feet elevation with mixed conifer forest including lodgepole pine and aspen. Walking distance from parking to main collecting areas is typically 0.5 to 1.5 miles. Footing is uneven with rocky outcrops, scattered talus, and occasional loose material. Well-defined trails and open slopes make navigation straightforward.",
+  "best_season": "June - September. High elevation location experiences significant snow accumulation November through May. Summer months offer the most reliable access and comfortable collecting conditions.",
+  "written_directions": "From Nathrop, take US 285 north for approximately 2 miles. Turn east on County Road 162 (Chalk Creek Road) and follow it for about 3 miles toward the mountains. Continue on the road as it becomes rougher and more primitive; look for established pullouts and parking areas on the east side of the road near the base of the Ruby Mountains foothills. Park at one of the informal pullouts and hike upslope to the moderate terrain where mineral exposures are visible.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mixed paved and unpaved forest service road. Initial approach via US 285 is paved; County Road 162 is partially paved then transitions to rough dirt road suitable for passenger vehicles with moderate ground clearance. High clearance recommended in wet conditions.",
+  "parking_notes": "Informal pullouts along Chalk Creek Road at the base of the mountains. Limited formal parking; typically 2-4 vehicle capacity per pullout. No developed parking lot.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection allowed. No motorized excavation. Collect only loose material and hand samples from natural exposures; do not break into solid outcrops. All collection must comply with Colorado BLM resource protection standards.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo breaking into solid rock\nCollect loose and weathered material only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Nathrop, approximately 3-4 miles west. Limited services; nearest full-service town is Salida, 20 miles south.",
+  "accessibility_notes": "Moderate mountain terrain with uneven, rocky footing. No wheelchair access. Sturdy hiking boots required. Elevation of 8,331 feet may affect those unaccustomed to altitude. Steep sections can be avoided by sticking to gentler south-facing slopes near parking areas.",
+  "alternative_names": [
+    "Ruby Mountains BLM",
+    "Chalk Creek Rockhounding Area"
+  ],
+  "nearest_city": "Nathrop",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/sugarloaf-ruby-mountains-co/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Nathrop at Sugarloaf and Ruby Mountains?",
+      "answer": "This BLM location is known for quartz, feldspar, mica, and tourmaline. The granitic geology produces excellent quartz specimens ranging from clear to smoky, along with well-formed feldspar crystals and tourmaline accent minerals. Most specimens are hand-sized and suitable for personal collections."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Sugarloaf and Ruby Mountains in Colorado?",
+      "answer": "No permit is required for recreational rockhounding on this BLM land. You can collect up to 25 lbs per day for personal use under FLPMA regulations. Commercial collection is not allowed."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Nathrop?",
+      "answer": "June through September is optimal. The high elevation (8,331 feet) means heavy snow covers the area from November through May, making access difficult or impossible. Summer months offer clear trails, stable weather, and the easiest specimen hunting."
+    },
+    {
+      "question": "Is Sugarloaf and Ruby Mountains rockhounding site family-friendly and suitable for beginners?",
+      "answer": "Yes, this location is excellent for families and beginners. The moderate terrain requires only basic hiking ability, and loose mineral specimens are readily visible without heavy excavation. Children ages 8 and older can comfortably participate. No special permits or experience are needed."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at this Colorado BLM site?",
+      "answer": "Bring a 10x loupe for identifying crystals, a small rock hammer or chisel for extracting loose samples, a backpack for carrying finds within the 25-lb limit, sturdy hiking boots for uneven terrain, and plenty of water. A field guide to Colorado minerals is helpful for specimen identification."
+    },
+    {
+      "question": "How far is the drive from Salida or Denver to rockhound at Sugarloaf and Ruby Mountains?",
+      "answer": "From Nathrop (3 miles away) allow 10-15 minutes. From Salida, it's approximately 20 miles south, about 30-40 minutes drive. From Denver, expect 2.5 to 3 hours via US 285. The location makes for an excellent half-day or full-day rockhounding trip from either town."
+    }
+  ],
+  "meta_title": "Sugarloaf & Ruby Mountains Rockhounding - Colorado",
+  "meta_description": "Find quartz, feldspar, and tourmaline on BLM public land near Nathrop. No permit needed, 25 lbs/day limit. Beginner-friendly Colorado rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "road_conditions",
+    "parking_notes",
+    "cell_service",
+    "gem_types"
+  ],
+  "enriched_at": "2026-04-21T16:54:40.418Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T16:55:51.755Z"
+}

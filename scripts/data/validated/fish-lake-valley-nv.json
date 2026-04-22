@@ -1,0 +1,97 @@
+{
+  "slug": "fish-lake-valley-nv",
+  "name": "Fish Lake Valley",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Esmeralda County Area",
+  "city_slug": "esmeralda-county",
+  "county": "Esmeralda",
+  "county_slug": "esmeralda",
+  "lat": 37.796192,
+  "lng": -118.009028,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Agate",
+    "Chalcedony"
+  ],
+  "short_description": "Free BLM rockhounding in a remote Nevada high desert valley. Hunt for quartz, jasper, and chalcedony specimens across flat, open terrain at 4700+ feet elevation.",
+  "description": "Fish Lake Valley is a pristine and remote rockhounding destination on Nevada BLM land in Esmeralda County. This high desert valley sits at approximately 4,728 feet elevation with expansive flat terrain ideal for surface collecting. The area offers excellent opportunities for amateur and experienced rockhounds to find quartz, jasper, agate, and chalcedony specimens without fees or permits.\n\nThe valley's geology reflects the Basin and Range province, characterized by Miocene-age volcanic activity and subsequent mineral deposition. Silica-rich fluids circulated through fractures and cavities in the volcanic rocks, gradually crystallizing into quartz varieties, jasper bands, and chalcedony nodules. The relatively flat topography and sparse vegetation make surface specimens visible across wide areas, particularly after erosion events expose fresh material.\n\nBecause this is remote BLM land far from services, preparation is essential. Cell service is unreliable or absent, and the nearest towns with gas and supplies are considerable distances away. The flat terrain is forgiving for walking, but the open desert environment offers little shade and can be extremely hot during summer months. Water should be brought in abundance.\n\nFish Lake Valley is best visited during cooler months when heat exposure is minimal and visibility is improved. The site rewards patient collectors who spend time examining washes and hillside exposures where erosion naturally concentrates mineral specimens. This location is ideal for rockhounders seeking a true backcountry experience with genuine solitude and quality finds.",
+  "history": "Fish Lake Valley lies within Nevada's Basin and Range province, where Miocene-age volcanic rocks (approximately 15-20 million years ago) were deposited across extensive uplifted fault blocks. Subsequent hydrothermal circulation through these volcanic sequences deposited silica-rich fluids that crystallized into the quartz varieties, jaspers, and chalcedonies found here today. This geological setting has made the region of interest to prospectors since the 19th century, though the valley itself remains largely undeveloped and retains its remote character.",
+  "tips": "Search wash bottoms and erosion gullies where water runoff concentrates heavier mineral specimens over time. Look for quartz with milky to clear banding, red and brown jasper fragments, and smooth chalcedony nodules weathered from volcanic host rock. Bring a digging bar or small pick to test loose material in promising areas, but most quality specimens can be found on the surface with careful observation. Early morning collecting provides the best visibility and coolest temperatures.",
+  "terrain_notes": "Flat, open high desert at 4,728 feet elevation. Sparse vegetation (low brush and grasses). Excellent walking surface with minimal slope. Typical footing is stable ground with scattered loose rocks. Parking areas are informal pullouts along access roads. Minimal shade available in the valley. Wide-open vista allows long-distance visibility of terrain.",
+  "best_season": "October - April",
+  "written_directions": "Fish Lake Valley is accessed via Nevada State Route 266 or County Road 2 from the town of Tonopah (approximately 65 miles south). From Tonopah, head south on US 95 for approximately 30 miles, then take State Route 266 southeast. Continue on SR 266 or follow signs toward Fish Lake Valley Road. The final approach is via rough dirt/gravel roads passable to high-clearance vehicles. GPS coordinates (37.796192, -118.009028) mark the main collecting area. Allow 2+ hours driving from Tonopah. Confirm current road conditions before departing, as desert roads can be subject to seasonal washout.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt and gravel access roads. High-clearance vehicle recommended. Some washboard surface. Final miles may be rough; check conditions before visiting.",
+  "parking_notes": "Informal pullouts along access roads. No developed parking area. Space available for multiple vehicles. Park away from wash areas to avoid flash flood risk.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or power tools. Hand tools (pick, digging bar, chisel) are acceptable for working loose material. All collecting must be non-destructive to the landscape.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nNon-destructive collection practices required",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "remote",
+    "cold",
+    "flash_floods"
+  ],
+  "nearest_services": "Tonopah, Nevada - approximately 65 miles north. Amenities include gas, food, lodging, and supplies.",
+  "accessibility_notes": "Flat terrain with stable footing accessible to most hikers and rockhounders. Rough high-clearance dirt roads required to reach the valley; not suitable for low-clearance vehicles. Once at the site, walking is relatively easy across flat desert. No wheelchair accessibility due to road conditions and terrain. Sturdy desert hiking boots recommended.",
+  "alternative_names": [],
+  "nearest_city": "Tonopah",
+  "nearest_city_distance": 65,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/fish-lake-valley-nv/mineral-1-quartz.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding in Fish Lake Valley, Nevada?",
+      "answer": "Fish Lake Valley is known for quartz specimens, jasper in red and brown varieties, agate nodules, and chalcedony. These silica-based minerals are found across the valley floor and in wash areas. Surface collecting is productive here because erosion naturally exposes specimens from the Miocene volcanic bedrock."
+    },
+    {
+      "question": "Is rockhounding free at Fish Lake Valley, and do I need a permit?",
+      "answer": "Yes, rockhounding is completely free on this BLM land. No permit is required for recreational collecting under FLPMA regulations. You are limited to 25 lbs per day for personal use only."
+    },
+    {
+      "question": "How do I get to Fish Lake Valley rockhounding site from Tonopah?",
+      "answer": "From Tonopah, drive south on US 95 for about 30 miles, then take State Route 266 southeast toward Fish Lake Valley. Continue on rough dirt roads to reach the valley. A high-clearance vehicle (4x4 or AWD) is recommended due to washboard and rough road conditions. The drive takes approximately 2+ hours."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Fish Lake Valley?",
+      "answer": "October through April is ideal. Summer temperatures in this high desert location can exceed 100 degrees Fahrenheit with no shade. Winter months are cold but manageable with proper gear. Spring and fall offer the most comfortable collecting conditions."
+    },
+    {
+      "question": "Is Fish Lake Valley a good rockhounding site for beginners?",
+      "answer": "Yes, Fish Lake Valley is beginner-friendly for surface collecting. The flat terrain is easy to walk, and specimens can be found on the ground without difficult techniques. However, the remote location requires careful planning: bring extra water, check road conditions beforehand, and ensure your vehicle is suitable for rough roads."
+    },
+    {
+      "question": "What tools and supplies do I need to rockhound at Fish Lake Valley?",
+      "answer": "Bring a digging bar or small pick for testing loose material, a chisel for specimen extraction, and bags for your finds. Essential supplies include abundant water (2+ gallons per person), sun protection, a hat, and sturdy hiking boots. A GPS device is recommended due to the remote location and lack of cell service. A high-clearance vehicle is necessary."
+    }
+  ],
+  "meta_title": "Fish Lake Valley Rockhounding - Nevada",
+  "meta_description": "Free BLM rockhounding near Tonopah, Nevada. Find quartz, jasper, and chalcedony. No permit required, 25 lbs daily limit. High desert terrain, remote site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "written_directions",
+    "gem_types",
+    "hazards"
+  ],
+  "enriched_at": "2026-04-22T09:50:01.587Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:23.656Z"
+}

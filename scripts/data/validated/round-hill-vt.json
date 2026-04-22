@@ -1,0 +1,100 @@
+{
+  "slug": "round-hill-vt",
+  "name": "Round Hill",
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "city": "Shrewsbury",
+  "city_slug": "shrewsbury",
+  "county": "Rutland",
+  "county_slug": "rutland",
+  "lat": 43.561405,
+  "lng": -72.924091,
+  "gem_types": [
+    "Quartz",
+    "Garnet",
+    "Mica",
+    "Feldspar"
+  ],
+  "short_description": "A moderate hiking site on Vermont's Green Mountains where quartz, garnet, and mica crystals emerge from metamorphic bedrock. Popular with amateur collectors seeking alpine mineral specimens.",
+  "description": "Round Hill sits along Vermont's Green Mountain spine in Rutland County, offering rockhounds access to metamorphic minerals exposed by glacial activity and mountain weathering. The site sits at 1454 feet elevation with moderate slope terrain suitable for intermediate hikers. The bedrock here consists of Precambrian schist and quartzite, products of intense metamorphism during the Ordovician and Silurian periods when ancient ocean basins collided with the North American continent. Clear quartz crystals, garnet clusters, and mica flakes are common finds along the hillside outcrops and in loose scree.\n\nThe moderate slope terrain means you will encounter uneven ground, exposed rock fragments, and elevation changes as you work your way up and around the site. Most productive collecting occurs on the upper portions where natural weathering has loosened mineral-rich material. The vegetation shifts from mixed hardwood forest at lower elevation to birch and spruce at the top, providing seasonal color and shade.\n\nThis is a moderately challenging site best suited to rockhounders with basic hiking experience and proper footwear. The rewards justify the effort: garnets here often reach 1-2 cm and display excellent deep red color, while quartz specimens can be quite aesthetic with clear terminations. Early morning visits allow you to work the site thoroughly before afternoon clouds build up the mountainside.\n\nAccess is straightforward from Shrewsbury village with a short drive to nearby trailhead parking. Cell service is spotty at elevation, so inform someone of your visit plan. The site remains relatively uncrowded even on weekends, making it ideal for collectors seeking a quieter alternative to heavily worked lowland sites.",
+  "history": "Round Hill's minerals were formed during the Ordovician orogeny when the proto-Atlantic Ocean closed and continental collisions metamorphosed sandstones and shales into the present-day schist and quartzite. Glacial activity during the Pleistocene epoch stripped away overlying material and fractured the bedrock, exposing the mineral-rich metamorphic layers that rockhounders find today.",
+  "tips": "Search along the upper south-facing slope where weathering has loosened material from the schist bedrock - garnets often weather out as loose crystals in small ravines. Bring a 10x hand lens to identify feldspar, mica, and quartz in the matrix, and use a small geology hammer to carefully work exposed outcrops rather than digging deeply. Look for reddish-black garnet clusters in the mica schist, and search the scree field downslope from the main outcrop where gravity has concentrated heavier mineral specimens. Avoid disturbing the soil profile - focus on already-loosened rock fragments and material in natural drainage channels.",
+  "terrain_notes": "Moderate slope with elevation gain of about 400 feet from parking area to productive collecting zone. Mixed forest with birch, spruce, and hardwoods; exposed metamorphic bedrock and angular scree throughout upper section. Walking distance approximately 0.75 miles upslope to main outcrop area. Footing is uneven with loose rock, sharp quartz fragments, and occasional wet patches - sturdy hiking boots strongly recommended.",
+  "best_season": "June - September. Late spring through early fall offers the most stable weather at elevation, with snow typically clearing by June. Summer months provide longest daylight for thorough collecting. Avoid late fall and winter when footing becomes treacherous with ice, and early spring when snowmelt creates saturated conditions on the slope.",
+  "written_directions": "From Shrewsbury village center, take VT Route 100 north for 2.1 miles. Turn right (east) onto Cold River Road and continue 1.8 miles to a small gravel pullout near the foot trail entrance on the left (north) side of the road. Park here and follow the marked hiking trail upslope; the main collecting area is accessed by hiking approximately 0.75 miles to the upper outcrop exposures.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": "Cold River Road is a maintained gravel/dirt road passable to passenger vehicles in dry conditions. Spring melt may create soft spots; high clearance vehicles are safer in wet weather.",
+  "parking_notes": "Small unmarked gravel pullout near trailhead on Cold River Road. Space for 3-4 vehicles. No facilities or water available.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use collection only. Collect only loose specimens and material already weathered from outcrops. Do not hammer bedrock, remove large slabs, or excavate trenches. Maximum 25 lbs per person per day as a general ethical guideline for public land use. Respect property markers and stay on established trails. No commercial collection or resale of specimens.",
+  "quantity_limits": "25 lbs per day as an ethical standard for public land rockhounding",
+  "rules": "Personal use only\nCollect loose specimens and weathered material only\nDo not hammer living bedrock or remove large slabs\nNo excavation or trenching\nRespect trail boundaries and property markers\nNo commercial collection\nMaximum 25 lbs per person per day",
+  "beginner_friendly": false,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Shrewsbury village center, 3.5 miles south - limited gas and food options. Better services in Rutland town, 12 miles southwest.",
+  "accessibility_notes": "Uneven rocky terrain with moderate slope and elevation gain of 400 feet over 0.75 miles. Footing is difficult with loose fragments and sharp quartz. No wheelchair access. Sturdy hiking boots required. Not suitable for mobility impairments or those with difficulty managing uneven ground. Intermediate fitness level recommended.",
+  "alternative_names": [],
+  "nearest_city": "Shrewsbury",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/vermont/round-hill-vt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/vermont/round-hill-vt/mineral-1-mica.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/vermont/round-hill-vt/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find at Round Hill near Shrewsbury, Vermont?",
+      "answer": "Round Hill is known for clear quartz crystals, deep red garnets (typically 1-2 cm), mica flakes, and feldspar specimens. These minerals occur naturally in the metamorphic schist and quartzite bedrock that makes up the Green Mountain formation. Garnets are the most prized finds here and weather out as individual crystals in the upper outcrop areas."
+    },
+    {
+      "question": "Do I need a permit or pay a fee to rockhound at Round Hill in Vermont?",
+      "answer": "No permit is required and there is no fee to rockhound at Round Hill. It is public land open to personal use collection. However, you must follow ethical guidelines: collect only loose, naturally weathered specimens; do not hammer bedrock; and limit yourself to about 25 lbs per day. No commercial collection is allowed."
+    },
+    {
+      "question": "Is Round Hill rockhounding site beginner-friendly or does it require hiking experience?",
+      "answer": "Round Hill is moderately challenging and best suited to rockhounders with basic hiking experience. The site requires a 0.75-mile upslope hike with 400 feet of elevation gain over uneven, rocky terrain. Sturdy hiking boots are essential. Beginners may find the terrain difficult, though families with children aged 8+ in reasonable fitness can manage it."
+    },
+    {
+      "question": "What is the best time of year to visit Round Hill for rockhounding near Shrewsbury?",
+      "answer": "June through September is ideal. Late spring through early fall offers the most stable weather at 1454 feet elevation, with snow cleared by June and longest daylight hours for thorough collecting. Avoid winter and early spring when ice and snowmelt make the slope treacherous and footing dangerous."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound at Round Hill, Vermont?",
+      "answer": "Bring sturdy hiking boots for the uneven slope, a geology hammer for carefully examining rock faces without damaging bedrock, a 10x hand lens to identify minerals in the schist matrix, and a backpack for carrying specimens. A small chisel helps carefully extract already-loosened material. Since cell service is spotty, carry a map and inform someone of your visit plans."
+    },
+    {
+      "question": "How do I find garnets and quartz at Round Hill - where exactly should I look?",
+      "answer": "Focus on the upper south-facing slope where natural weathering has loosened minerals from the bedrock. Search along the main outcrop exposures at higher elevation and work downslope through the scree field, where heavier garnet specimens accumulate due to gravity. Look in small ravines and drainage channels where weathered material concentrates. Avoid deep digging; stick to already-loose rock fragments in the upper collecting zone."
+    }
+  ],
+  "meta_title": "Round Hill Rockhounding - Vermont Garnet & Quartz",
+  "meta_description": "Find garnets, quartz, and mica at Round Hill near Shrewsbury, VT. No permit needed. Moderate hike on Green Mountain metamorphic bedrock. Best June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "parking_notes",
+    "road_conditions",
+    "nearest_services"
+  ],
+  "enriched_at": "2026-04-21T17:08:53.674Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:10:17.424Z"
+}

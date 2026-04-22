@@ -1,0 +1,60 @@
+{
+  "slug": "chestnut-creek-wetlands-va",
+  "name": "Chestnut Creek Wetlands",
+  "lat": 36.847003,
+  "lng": -80.446158,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Floyd County",
+  "city_slug": "floyd-county",
+  "county": "Floyd",
+  "county_slug": "floyd",
+  "geocoded_city": "Floyd County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chestnut%20Creek%20Wetlands%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chestnut%20Creek%20Wetlands",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chestnut%20Creek%20Wetlands%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2997,
+      "meters": 913
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:56:51.844Z"
+  },
+  "scraped_at": "2026-04-21T18:56:51.844Z",
+  "scrape_quality": "minimal"
+}

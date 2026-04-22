@@ -1,0 +1,76 @@
+{
+  "slug": "joplin-mo",
+  "name": "Joplin",
+  "lat": 37.194968,
+  "lng": -94.475557,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Oronogo",
+  "city_slug": "oronogo",
+  "county": "Jasper",
+  "county_slug": "jasper",
+  "geocoded_city": "Oronogo",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Joplin%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Joplin",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Joplin%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 962,
+      "meters": 293
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Center Creek",
+        "type": "river",
+        "dist": 3.4
+      },
+      {
+        "name": "Spring River",
+        "type": "river",
+        "dist": 3.7
+      },
+      {
+        "name": "Center Creek",
+        "type": "river",
+        "dist": 4.8
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:09:01.329Z"
+  },
+  "scraped_at": "2026-04-21T19:09:01.329Z",
+  "scrape_quality": "minimal"
+}

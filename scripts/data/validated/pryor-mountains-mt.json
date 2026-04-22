@@ -1,0 +1,99 @@
+{
+  "slug": "pryor-mountains-mt",
+  "name": "Pryor Mountains",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Big Horn County Area",
+  "city_slug": "big-horn-county",
+  "county": "Big Horn",
+  "county_slug": "big-horn",
+  "lat": 45.238575,
+  "lng": -108.267474,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land in the Pryor Mountains offering free rockhounding for agate, chalcedony, and jasper specimens. Gentle slopes and accessible terrain make this ideal for collectors of all levels.",
+  "description": "The Pryor Mountains occupy a scenic landscape in south-central Montana where collectors can freely hunt for quality agate and chalcedony specimens on public BLM land. This area sits at moderate elevation with rolling terrain that makes access straightforward for most rockhounders. The mountains are part of the Bighorn Basin geology, where ancient marine deposits and volcanic activity created ideal conditions for silica-rich mineral formation. You will find specimens scattered on hillsides and along drainage washes where weathering has exposed nodules and fragments. The relatively gentle slopes mean you can cover good ground without extreme physical exertion, though sturdy footwear is still recommended for the rocky terrain.\n\nThe primary appeal of Pryor Mountains is the combination of free public access, abundant specimens, and beginner-friendly difficulty. Unlike fee dig sites, there are no entrance costs or time pressure - you collect at your own pace under standard BLM rules. Spring and fall offer the most comfortable collecting conditions, though the area is accessible year-round for determined rockhounders. Water sources are limited, so bring adequate supplies. The remoteness rating is moderate, placing you in quiet country without being dangerously isolated from services.",
+  "history": "The Pryor Mountains sit within the Bighorn Basin province where Late Cretaceous and Early Paleogene marine sediments accumulated, later enriched by silica-rich groundwater that formed the agate and chalcedony deposits found here today. Historical prospecting in the broader Big Horn County region focused on copper and other mineral ores, leaving the silica specimens largely to modern rockhounders.",
+  "tips": "Search along hillside washes and erosional gullies where water flow has concentrated lighter weathered nodules - these expose agate and chalcedony more readily than flat terrain. Bring a 10x loupe to examine material in place before collecting; look for banded patterns, translucency at the edges, and glassy luster to distinguish quality pieces from common chert. The best specimens often sit on the surface after freeze-thaw cycles have fractured overburden; revisit promising areas in spring after winter weather.",
+  "terrain_notes": "Elevation 4,386 feet with gentle to rolling slopes across open terrain with sparse vegetation. Rocky footing throughout - expect loose cobbles and fractured bedrock outcrops. Parking pullouts scattered along approach roads; walking distances from parking typically 0.25 to 1 mile to productive collecting areas. Terrain is hilly but not steep, suitable for average hikers with sturdy boots.",
+  "best_season": "April - October. Late spring through early fall offers comfortable temperatures and good ground access. Winter snow and mud can restrict collecting, though determined rockhounders visit year-round.",
+  "written_directions": "From Big Horn County, take MT Highway 39 northwest toward Pryor. Continue on county roads into the Pryor Mountains foothills. Approach the specific GPS coordinates (45.238575, -108.267474) by following rough dirt roads accessible to standard high-clearance vehicles. Expect 20-40 minutes of driving from the town of Big Horn on paved and improved gravel surfaces. Park in pullouts near exposed ridges and drainage washes. No developed parking lot exists - use safe pullout areas off the main access road.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved gravel and dirt roads, washboard surface typical. High-clearance vehicle recommended; passenger cars manageable on main approaches during dry conditions. Avoid during wet weather.",
+  "parking_notes": "Unimproved pullouts along access roads. No dedicated lot. Space for 2-4 vehicles per pullout. Dispersed parking typical for BLM land.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or power tools. Hand tools and small picks permitted. Collect loose material and weathered specimens only - do not break solid rock faces or use explosives. Pack out all waste.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools only\nDo not break solid rock\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "loose_rock",
+    "remote",
+    "heat"
+  ],
+  "nearest_services": "Big Horn, Montana is approximately 20-25 miles south with basic supplies, gas, and food. No services at the collection site itself.",
+  "accessibility_notes": "Relatively gentle rolling terrain accessible to most hikers with average fitness. Uneven rocky footing requires sturdy boots. Some areas have loose cobbles that may challenge visitors with limited mobility. Pullouts provide moderate-access parking. No wheelchair access to productive collecting areas - terrain unsuitable for assisted mobility devices.",
+  "alternative_names": [],
+  "nearest_city": "Big Horn",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/pryor-mountains-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/pryor-mountains-mt/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Pryor Mountains near Big Horn, Montana?",
+      "answer": "The Pryor Mountains are known for agate, chalcedony, jasper, and quartz specimens. Agate nodules with banding are especially common, often found as loose weathered fragments on hillsides and in wash areas. Many pieces show translucent or milky patterns typical of mountain agate formations."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Pryor Mountains, and what is the cost?",
+      "answer": "No permit is required. Pryor Mountains sit on public BLM land where recreational rockhounding is allowed under standard personal use rules. There is no entrance fee. You may collect up to 25 lbs per day at no cost, making this an excellent budget-friendly option compared to fee dig sites."
+    },
+    {
+      "question": "What is the best time of year to rockhound for agate at Pryor Mountains?",
+      "answer": "April through October offers the most comfortable collecting conditions with mild temperatures and dry ground access. Spring (April-May) is especially rewarding after winter freeze-thaw cycles expose fresh specimens. Fall (September-October) provides crisp weather and good visibility. Winter and early spring can bring mud and snow that restrict vehicle access."
+    },
+    {
+      "question": "Is Pryor Mountains rockhounding site beginner-friendly and suitable for families with children?",
+      "answer": "Yes. The gentle rolling terrain and easy access make Pryor Mountains ideal for beginners and families with children ages 6 and up. No technical skills are required - simply walk hillsides and washes looking for loose agate and chalcedony fragments. The free access and no time pressure appeal to families who want a relaxed rockhounding experience."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at Pryor Mountains?",
+      "answer": "Basic hand tools work best: a small pick, cold chisel, hammer, and geological hammer for breaking apart surface material. A 10x loupe helps identify quality specimens in the field. Bring sturdy hiking boots, a backpack, plenty of water (sources are limited), sunscreen, and a collecting bag. Avoid heavy power tools - hand collection of loose material is most effective here."
+    },
+    {
+      "question": "How far is Pryor Mountains from Big Horn, and what are the road conditions for rockhounders?",
+      "answer": "Pryor Mountains is approximately 20-25 miles northwest of Big Horn. Access is via improved dirt and gravel roads suitable for high-clearance passenger vehicles in dry conditions. Expect 20-40 minutes of driving time. Roads have typical washboard roughness. Avoid wet weather when mud becomes problematic. Standard SUVs and trucks work well; low-clearance cars may struggle on rougher sections."
+    }
+  ],
+  "meta_title": "Pryor Mountains Rockhounding - Montana",
+  "meta_description": "Free BLM rockhounding near Big Horn, Montana. Find agate, chalcedony, and jasper. No permit required, 25 lbs/day limit. Family-friendly and beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from Bighorn Basin geology without specific site survey",
+    "nearest_city_distance - estimated from GPS coordinates",
+    "cell_service - spotty inferred from remote BLM location without site-specific data",
+    "specific road names - constructed from typical Montana BLM access patterns without detailed local OSM confirmation"
+  ],
+  "enriched_at": "2026-04-21T19:07:29.562Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:48.918Z"
+}

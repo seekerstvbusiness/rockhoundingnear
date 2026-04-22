@@ -1,0 +1,60 @@
+{
+  "slug": "laughing-water-creek-sd",
+  "name": "Laughing Water Creek",
+  "lat": 43.818268,
+  "lng": -103.616897,
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "state_code": "SD",
+  "city": "Custer County",
+  "city_slug": "custer-county",
+  "county": "Custer",
+  "county_slug": "custer",
+  "geocoded_city": "Berne",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Laughing%20Water%20Creek%20South%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Laughing%20Water%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Laughing%20Water%20Creek%20South%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 6006,
+      "meters": 1831
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:39:48.242Z"
+  },
+  "scraped_at": "2026-04-21T17:39:48.242Z",
+  "scrape_quality": "minimal"
+}

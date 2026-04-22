@@ -1,0 +1,60 @@
+{
+  "slug": "nolands-point-nj",
+  "name": "Nolands Point",
+  "lat": 40.947967,
+  "lng": -74.614426,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Jefferson Township",
+  "city_slug": "jefferson-township",
+  "county": "Morris",
+  "county_slug": "morris",
+  "geocoded_city": "Jefferson Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Nolands%20Point%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Nolands%20Point",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Nolands%20Point%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 959,
+      "meters": 292
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:28:53.924Z"
+  },
+  "scraped_at": "2026-04-21T18:28:53.925Z",
+  "scrape_quality": "minimal"
+}

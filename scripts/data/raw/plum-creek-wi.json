@@ -1,0 +1,60 @@
+{
+  "slug": "plum-creek-wi",
+  "name": "Plum Creek",
+  "lat": 44.729779,
+  "lng": -92.237261,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Town of Rock Elm",
+  "city_slug": "town-of-rock-elm",
+  "county": "Pierce",
+  "county_slug": "pierce",
+  "geocoded_city": "Town of Rock Elm",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Plum%20Creek%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Plum%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Plum%20Creek%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1014,
+      "meters": 309
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:12:09.188Z"
+  },
+  "scraped_at": "2026-04-21T18:12:09.189Z",
+  "scrape_quality": "minimal"
+}

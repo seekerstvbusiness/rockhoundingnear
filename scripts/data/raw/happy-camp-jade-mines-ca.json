@@ -1,0 +1,65 @@
+{
+  "slug": "happy-camp-jade-mines-ca",
+  "name": "Happy Camp Jade Mines",
+  "lat": 41.876563,
+  "lng": -123.46024,
+  "state": "California",
+  "state_slug": "california",
+  "state_code": "CA",
+  "city": "Siskiyou County",
+  "city_slug": "siskiyou-county",
+  "county": "Siskiyou",
+  "county_slug": "siskiyou",
+  "geocoded_city": "Siskiyou County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-california.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Happy%20Camp%20Jade%20Mines%20California"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Happy%20Camp%20Jade%20Mines",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Happy%20Camp%20Jade%20Mines%20California"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1711,
+      "meters": 522
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:10:53.613Z"
+  },
+  "scraped_at": "2026-04-21T19:10:53.613Z",
+  "scrape_quality": "partial"
+}

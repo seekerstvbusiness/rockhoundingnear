@@ -1,0 +1,96 @@
+{
+  "slug": "brown-s-gulch-mt",
+  "name": "Brown's Gulch",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Butte",
+  "city_slug": "butte",
+  "county": "Silver Bow",
+  "county_slug": "silver-bow",
+  "lat": 46.01445,
+  "lng": -112.684818,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "Public BLM rockhounding near Butte with agate and chalcedony collecting. Flat terrain at 5,325 ft elevation, beginner-friendly with no permit required.",
+  "description": "Brown's Gulch is a productive public rockhounding destination on Bureau of Land Management property near Butte, Montana. This flat-terrain site at 5,325 feet elevation sits in the Butte Mining District, an area rich in mineralized formations. The location offers excellent opportunities for casual collectors to find quality agate, chalcedony, quartz specimens, and jasper without the need for permits or fees.\n\nThe geology of this region reflects Montana's complex mineralization history. The Butte area is part of a large Tertiary porphyry copper system that created widespread hydrothermal alteration. Associated with this mineralization are numerous secondary silica deposits, including the agate and chalcedony nodules found throughout Brown's Gulch. These silica-rich minerals formed in ancient veins and alteration zones, later weathered free from host rock by erosion and runoff.\n\nCollecting here is straightforward for rockhounds of all experience levels. The flat terrain makes walking and prospecting easy, and the exposed gulch walls and wash areas provide good visibility of specimens. You can expect to find small to medium agate nodules, banded chalcedony pieces, and occasional jasper throughout the gulch floor and surrounding hillsides. The site is popular with local collectors and remains consistently productive year-round.\n\nAs a BLM site, Brown's Gulch welcomes recreational collectors under standard federal guidelines. The 25-pound daily limit keeps collecting sustainable, and the no-permit requirement makes this an accessible option for spontaneous rockhounding trips. Pack your own water and tools, and be prepared for elevation - even at 5,325 feet, the high-altitude sun reflects intensely off rock.",
+  "history": "The Butte Mining District is one of Montana's most historically significant mining regions, with intensive copper extraction beginning in the 1880s. The silica minerals found at Brown's Gulch are secondary deposits associated with the same Tertiary porphyry mineralization system that created the world-class copper ore bodies near Butte, formed approximately 75-80 million years ago during active igneous intrusion and hydrothermal circulation.",
+  "tips": "Search the gulch floor and wash bottoms where weathering has concentrated nodules - agates tend to collect in drainage areas where seasonal water movement sorts material by weight. Look for rounded, waxy-luster specimens with banding or color variation; solid white or gray chalcedony is abundant but banded pieces photograph better. Bring a hand lens to spot color in partly buried nodules before digging - browns, reds, and pale yellows indicate quality specimens worth extracting. Work early morning in warm months to avoid peak sun exposure at this elevation.",
+  "terrain_notes": "Flat terrain at 5,325 feet elevation makes access easy for most visitors. The site features exposed gulch walls, open wash areas, and gentle surrounding hillsides with sparse sagebrush and grasses typical of high Montana valleys. Walking distance from parking to productive areas is typically less than 0.5 miles. Footing is stable on packed earth and rock, though loose material requires careful stepping in some areas.",
+  "best_season": "June - September. High elevation means winter snow and spring mud close access during colder months. Late June through August offers the most reliable conditions, though early September remains productive. July-August heat at 5,300+ feet is intense at midday; plan for early morning or late afternoon work.",
+  "written_directions": "From Butte, take I-90 east for approximately 8 miles. Exit toward the Butte industrial area and follow local roads northeast toward the Butte Highland Mountains foothills. Brown's Gulch is accessed via rough county roads and 4x4 tracks in the BLM land northeast of Butte's main mining claims. Use GPS coordinates 46.01445, -112.684818 to locate the exact site, as road signage is minimal in this remote mining area. Allow 20-30 minutes driving time from downtown Butte via rugged unpaved roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough unpaved BLM roads with potential washboard and high-clearance requirements. Wet conditions (spring snowmelt, summer monsoon rain) may temporarily close access. Check BLM Butte Field Office conditions before visiting.",
+  "parking_notes": "Informal pullouts near the gulch entrance. No developed parking lot. Space for 3-5 vehicles at main access point. Additional parking available along the upper BLM roads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or power equipment. Hand tools only. Respect any active claim markers or survey stakes. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools only\nRespect active mining claims\nPack out all trash\nNo vehicles off designated tracks",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "heat",
+    "remote"
+  ],
+  "nearest_services": "Butte (approximately 15-20 miles south) has all services including gas, restaurants, and lodging. Stock supplies before heading to the site.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Unpaved BLM roads to parking area require high-clearance or 4WD vehicle. Walking to collecting areas is easy with stable footing on most ground. Not wheelchair accessible due to rough road access.",
+  "alternative_names": [],
+  "nearest_city": "Butte",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/brown-s-gulch-mt/cover.png",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Brown's Gulch near Butte?",
+      "answer": "Brown's Gulch is known for quality agate, chalcedony, quartz specimens, and jasper. Nodules range from small pocket-sized pieces to specimens several inches across. Banded agates with brown, red, or yellow coloring are most prized. Chalcedony pieces are abundant and make excellent polishing material."
+    },
+    {
+      "question": "Do I need a permit to collect at Brown's Gulch, Montana?",
+      "answer": "No permit is required. Brown's Gulch is on BLM public land open to recreational rockhounding under standard FLPMA guidelines. You can collect year-round without advance permission, though road access is seasonal and best June through September."
+    },
+    {
+      "question": "How much rockhounding material can I take from Brown's Gulch per day?",
+      "answer": "Federal law limits personal use collecting to 25 pounds per day on BLM land. This applies to all collectors at Brown's Gulch. Commercial collection is not permitted. The limit protects the site and ensures sustainability for future visitors."
+    },
+    {
+      "question": "Is Brown's Gulch beginner-friendly for new rockhounders?",
+      "answer": "Yes, Brown's Gulch is ideal for beginners. The flat terrain at 5,325 feet requires minimal hiking, the specimens are visible and relatively easy to extract with hand tools, and there are no permits or fees to worry about. Family groups and children ages 6+ can collect successfully here."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Brown's Gulch near Butte?",
+      "answer": "June through September offers the best conditions. Winter snow and spring mud close rough BLM road access. July and August are peak season, though July heat at high elevation is intense. Early September remains productive with cooler temperatures. Avoid May and earlier due to muddy road conditions."
+    },
+    {
+      "question": "What tools and supplies should I bring to Brown's Gulch rockhounding?",
+      "answer": "Bring a hand lens, pry bar, digging tool, small hammer, and collection bag. Bring 2+ liters of water per person (high elevation dehydration is serious), sunscreen, and a hat. High-clearance or 4WD vehicle is essential for BLM road access. Cell service is spotty, so tell someone your plans and bring a map."
+    }
+  ],
+  "meta_title": "Brown's Gulch Rockhounding - Montana Agate Hunting",
+  "meta_description": "Find agate, chalcedony, and quartz at Brown's Gulch near Butte, Montana. Free public BLM rockhounding, no permit, 25 lb daily limit. Family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-21T19:07:25.019Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:39.937Z"
+}

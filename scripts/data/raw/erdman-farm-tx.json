@@ -1,0 +1,60 @@
+{
+  "slug": "erdman-farm-tx",
+  "name": "Erdman Farm",
+  "lat": 29.000514,
+  "lng": -98.019555,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Karnes County",
+  "city_slug": "karnes-county",
+  "county": "Karnes",
+  "county_slug": "karnes",
+  "geocoded_city": "Karnes County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Erdman%20Farm%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Erdman%20Farm",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Erdman%20Farm%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 344,
+      "meters": 105
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:48:35.228Z"
+  },
+  "scraped_at": "2026-04-21T18:48:35.228Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "area-near-meadow-creek-pass-az",
+  "name": "Area near Meadow Creek Pass",
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "city": "Kingman",
+  "city_slug": "kingman",
+  "county": "Mohave",
+  "county_slug": "mohave",
+  "lat": 34.897145,
+  "lng": -114.183762,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Meadow Creek Pass offering scenic desert rockhounding for agate, jasper, and chalcedony. Gentle slopes and close proximity to Kingman make this an accessible collecting site.",
+  "description": "Area near Meadow Creek Pass is a public BLM rockhounding destination in northwestern Arizona's Mohave County, just 22 miles east of Kingman. This low-elevation desert site sits at 1,802 feet on gentle slopes, making it accessible for rockhounders of varying skill levels. The area benefits from proximity to Interstate 40 and Purple Heart Trail, which provides convenient access from Kingman without requiring extensive backcountry travel.\n\nThe region produces quality specimens of agate, jasper, chalcedony, and quartz, typical of Basin and Range geology where ancient volcanic activity and silica-rich groundwater have created abundant nodular deposits throughout the surrounding washes and hillsides. Collecting here is straightforward: walk the exposed sandy and gravelly areas, examine wash beds where erosion naturally concentrates specimens, and look for rounded or angular pieces with smooth surfaces and translucent qualities.\n\nThis site attracts both beginners and experienced rockhounders because of its open BLM status, no permit requirements, and the abundance of material. The gentle terrain requires only moderate hiking fitness, and most productive collecting areas are within reasonable walking distance of vehicle access. The landscape is typical high desert with scattered brush, low vegetation, and wide-open vistas.\n\nBest collecting occurs during cooler months when heat is not a factor. Even novices can find quality specimens here by systematically working washes and concentrating effort along drainage areas where natural sorting has accumulated lighter specimens. The 25-pound daily limit per person is generous for personal use rockhounding.",
+  "history": "This region sits within the Basin and Range province where Miocene-era volcanic activity and subsequent hydrothermal alteration deposited silica-rich fluids that formed the agate and chalcedony nodules found throughout Mohave County today. The gentle slopes and wash systems have exposed these deposits over millennia through natural erosion, making surface collecting viable without excavation.",
+  "tips": "Focus your search on sandy washes and the bases of gentle slopes where erosion naturally concentrates lighter agate and jasper specimens. Look for pieces with a waxy or glassy luster and translucent edges when held to light - these indicate quality chalcedony. Bring a small collection bag, sturdy boots for rocky terrain, and plenty of water; the desert sun reflects intensely off light-colored rocks. Early morning collecting avoids midday heat and improves visibility for spotting specimens.",
+  "terrain_notes": "Elevation 1,802 feet on gentle slopes with sandy and gravelly desert surface. Scattered low desert brush and sparse vegetation. Terrain is relatively flat with accessible washes. Rocky footing in some areas but generally manageable. Parking pullouts are available near Purple Heart Trail access points. Walking distance from parking to productive collecting areas typically ranges from 0.5 to 2 miles.",
+  "best_season": "October - April. The Mohave Desert experiences extreme heat from May through September, with temperatures regularly exceeding 100 degrees Fahrenheit. Fall through spring provides comfortable conditions for extended rockhounding sessions and safer hiking.",
+  "written_directions": "From Kingman, take Interstate 40 east for approximately 20 miles toward Flagstaff. Take the Purple Heart Trail exit and head north toward Meadow Creek Pass. Look for BLM access points and pullouts along Purple Heart Trail in the vicinity of the coordinates provided. The area is accessible via passenger vehicle on improved roads, though high-clearance vehicles are preferable for some secondary access routes.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Purple Heart Trail is a motorway with pullouts and secondary dirt roads providing BLM access. Main access via I-40 is paved. Secondary BLM roads may have washboard surface but are passable to passenger vehicles.",
+  "parking_notes": "Pull-off areas and informal parking along Purple Heart Trail and secondary BLM access roads. Multiple parking options available; no designated lot but adequate space for rockhounding vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No explosives or heavy machinery. Collect only loose material and surface specimens. Leave no trash. Close gates if you open them. Respect any posted closures or restrictions.",
+  "quantity_limits": "25 lbs per day per FLPMA",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy machinery or explosives\nCollect loose material and surface specimens only\nLeave no trash\nClose gates behind you\nRespect posted closures or restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Kingman, Arizona (22 miles west): Full services including gas, food, water, and lodging. Multiple restaurants, grocery stores, and hardware/rockhounding supply shops.",
+  "accessibility_notes": "Relatively flat terrain on gentle slopes accessible to most hikers. Uneven rocky and sandy footing in some areas. Unpaved secondary roads to parking areas. Sturdy footwear recommended but not absolutely required for easy walking. Wheelchair users may have difficulty accessing productive collecting areas due to uneven terrain, though parking areas themselves are accessible. No facilities at the site.",
+  "alternative_names": [
+    "Meadow Creek Pass Rockhounding Area",
+    "Mohave County BLM Agate Collecting"
+  ],
+  "nearest_city": "Kingman",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-near-meadow-creek-pass-az/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-near-meadow-creek-pass-az/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-near-meadow-creek-pass-az/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/area-near-meadow-creek-pass-az/mineral-3-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Meadow Creek Pass in Arizona?",
+      "answer": "The primary specimens at Meadow Creek Pass are agate, jasper, chalcedony, and quartz. These silica-based gems formed during the Miocene volcanic epoch and are concentrated in washes and along gentle slopes. Most pieces range from small tumbling-grade fragments to hand-sized specimens suitable for polishing or display."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Meadow Creek Pass on BLM land?",
+      "answer": "No permit is required for personal use rockhounding on Arizona BLM land near Meadow Creek Pass. You are allowed to collect up to 25 pounds per day per FLPMA regulations. Commercial collection, however, is prohibited without a permit."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Kingman at Meadow Creek Pass?",
+      "answer": "October through April is optimal. The Mohave Desert reaches dangerous heat levels (100+ degrees F) from May through September. Fall and spring offer comfortable temperatures for extended collecting sessions and safer hiking conditions across the exposed terrain."
+    },
+    {
+      "question": "How far is Meadow Creek Pass from Kingman and is it easy to access?",
+      "answer": "Meadow Creek Pass is approximately 22 miles east of Kingman via Interstate 40 and Purple Heart Trail. Access is straightforward and suitable for standard passenger vehicles. The site requires no special hiking skills, making it ideal for family rockhounding trips and beginners."
+    },
+    {
+      "question": "What tools and supplies should I bring rockhounding at Meadow Creek Pass in the Arizona desert?",
+      "answer": "Bring sturdy boots for rocky terrain, a collection bag, hand tools like a small chisel or rock hammer, loupe for inspecting specimens, and most importantly, plenty of water. A hat and sunscreen are essential due to intense desert sun reflection. Early morning collecting helps you avoid midday heat."
+    },
+    {
+      "question": "Is Meadow Creek Pass suitable for beginners and families rockhounding in Arizona?",
+      "answer": "Yes, absolutely. The gentle slopes, easy access, and abundant surface material make this an excellent beginner-friendly BLM rockhounding site. Families with children ages 6 and up can safely enjoy collecting agate and jasper. No special experience or expensive equipment is required to find quality specimens."
+    }
+  ],
+  "meta_title": "Meadow Creek Pass Rockhounding - Arizona",
+  "meta_description": "Find agate, jasper, and chalcedony at Meadow Creek Pass BLM land near Kingman, Arizona. No permit needed, 25 lb daily limit, beginner friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "parking_notes",
+    "road_conditions",
+    "gem_types_specificity",
+    "cell_service_confidence"
+  ],
+  "enriched_at": "2026-04-21T15:34:56.065Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T15:55:41.549Z"
+}

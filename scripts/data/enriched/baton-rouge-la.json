@@ -1,0 +1,102 @@
+{
+  "slug": "baton-rouge-la",
+  "name": "Baton Rouge",
+  "state": "Louisiana",
+  "state_slug": "louisiana",
+  "city": "Central",
+  "city_slug": "central",
+  "county": "East Baton Rouge",
+  "county_slug": "east-baton-rouge",
+  "lat": 30.532462,
+  "lng": -90.98041,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Explore rockhounding opportunities in Louisiana's Gulf Coastal Plain, where sedimentary deposits yield quartz and feldspar specimens. Limited gem collecting but great for geology enthusiasts studyi...",
+  "description": "The Baton Rouge area sits within Louisiana's Gulf Coastal Plain, a region dominated by Quaternary alluvial sediments deposited by the Mississippi River system over the past 2 million years. This flat, low-elevation terrain offers rockhounding opportunities primarily focused on collecting quartz pebbles, feldspar, and mica fragments found in stream beds, levee cuts, and construction spoil piles. The region lacks the gem-quality mineral deposits found in more geologically active areas, making it better suited for educational rockhounding and amateur geologists interested in sedimentary geology and fluvial processes.\n\nWater is the dominant geological force here. The Mississippi River, its tributaries, and seasonal bayou flooding continuously rework surface sediments, tumbling and sorting rocks of all sizes. Rockhounds visiting this area should focus on recent alluvial deposits along bayou banks, old borrow pits, and river access points where quartz and feldspar have concentrated. The flat terrain makes access relatively easy, though water levels fluctuate seasonally and insect activity is intense.\n\nCollecting here works best as a supplement to understanding Gulf Coast geology rather than as a gem-hunting destination. The area's true value lies in observing how large river systems transport and deposit mineral material across vast distances. Expect to find milky quartz pebbles, pink feldspar fragments, and silvery mica sheets - all common in continental sediments. This is an excellent location for teaching young rockhounders about sedimentary processes and mineralogy basics in a low-stakes environment.",
+  "history": "The Baton Rouge area's geology was shaped by repeated Mississippi River floods and channel migrations during the Holocene epoch (last 10,000 years). These recurring flood events have buried and reworked older Pleistocene sediments, creating a complex stratigraphy of sand, silt, and clay layers that contain reworked mineral grains from the Rocky Mountains, Ozarks, and Appalachian regions transported downriver over millions of years.",
+  "tips": "Search along bayou banks and river access points where seasonal flooding has deposited fresh alluvial material - focus on areas where coarser sediments collect on the outer bends of waterways. Bring a screen or classifier to sort through loose sediment; the best specimens are often embedded in sand and silt requiring simple water-washing to reveal. Look for transparent to milky quartz pebbles in the 1-3 inch size range and pale pink feldspar fragments; mica appears as thin, silvery sheets that often split naturally from the host sediment. Wear insect repellent and long sleeves even in cooler months, and always check local water access policies before visiting bayou areas.",
+  "terrain_notes": "Elevation 35 feet with completely flat terrain typical of the Gulf Coastal Plain. The landscape is dominated by bayous, marshes, and low-lying areas prone to seasonal flooding. Walking surfaces are often soft or muddy, with dense vegetation (cypress, tupelo, oak). Access varies from maintained levee roads to unimproved levee trails and river/bayou banks. Distances from parking to collecting areas range from immediate (road cuts, spoil piles) to 0.5-1 mile on foot for remote bayou access. Footing is generally easy on levee roads but can be slippery after rain.",
+  "best_season": "October - April. Summer months (May - September) are extremely hot and humid with relentless insect pressure, high water levels, and heat exhaustion risk. Fall through spring offers cooler temperatures, lower water tables exposing more alluvial deposits, and fewer mosquitoes and chiggers.",
+  "written_directions": "From Central, take La 19 north toward Baton Rouge for approximately 8 miles. Look for public bayou access points, levee roads, or river pull-outs along local county roads branching east or west. Specific access varies by location - contact East Baton Rouge Parish Parks and Recreation for permitted public collecting areas and current water access. Many productive sites are along levee roads accessible via Perkins Road, Scenic Highway, or lower Mississippi River access points near Port Hudson State Historic Site.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Levee roads are maintained asphalt or packed gravel in most areas; some secondary access roads may be unpaved and rutted after rain. Passenger vehicles suitable for main access points; high-clearance vehicles recommended for remote levee roads.",
+  "parking_notes": "Parking varies by access point - some levee roads have informal pull-outs, while public river access areas and state historic sites have designated lots. Capacity limited at remote sites. Always verify public access before visiting.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collecting on public lands and open access areas is generally permitted for personal use only in small quantities. No commercial collection. Respect private property boundaries - obtain permission before crossing onto private land. Check with East Baton Rouge Parish Parks and Recreation for any restrictions at specific public access points. Do not collect from state parks or protected archaeological sites without explicit permission.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nNo commercial collection\nRespect private property boundaries\nCheck local access restrictions before collecting\nNo collection from protected sites\nFollow Leave No Trace principles",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "wildlife",
+    "heat",
+    "sharp_material"
+  ],
+  "nearest_services": "Central, Louisiana has basic services; Baton Rouge (approximately 12 miles south) offers full services including gas, food, water, and medical facilities.",
+  "accessibility_notes": "Relatively easy accessibility for most visitors. Levee roads are flat and firm with minimal elevation change. Soft muddy areas and uneven terrain possible at bayou margins and stream banks. No wheelchair access to remote collecting sites, but some levee road pull-outs are passable for those with mobility limitations. Sturdy waterproof boots recommended due to wet conditions.",
+  "alternative_names": [],
+  "nearest_city": "Central",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/louisiana/baton-rouge-la/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/louisiana/baton-rouge-la/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/louisiana/baton-rouge-la/mineral-2-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Baton Rouge, Louisiana?",
+      "answer": "The Baton Rouge area yields quartz pebbles, feldspar fragments, and mica sheets - all transported from upstream regions by the Mississippi River system. Specimens are modest in size and gem quality, but excellent for educational rockhounding and learning about sedimentary geology and fluvial mineral transport."
+    },
+    {
+      "question": "Is rockhounding free near Baton Rouge, and do I need a permit?",
+      "answer": "Yes, rockhounding on most public lands and open-access bayou areas near Baton Rouge is free and does not require a permit for personal use. Always verify access with East Baton Rouge Parish Parks and Recreation before visiting, and respect private property boundaries."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in the Baton Rouge area?",
+      "answer": "October through April is ideal. Summer heat is extreme (90+ degrees), humidity is oppressive, and insect activity is intense. Fall and winter offer cooler temperatures, lower water levels exposing more alluvial deposits, and far fewer mosquitoes and chiggers."
+    },
+    {
+      "question": "Where exactly should I look for rocks and minerals near Baton Rouge?",
+      "answer": "Search along bayou banks and river access points where seasonal flooding deposits fresh alluvial material, particularly on outer bends where coarser sediments collect. Levee cuts, old borrow pits, and maintained access roads also yield specimens. Bring a screen to sort through loose sediment."
+    },
+    {
+      "question": "Is rockhounding near Baton Rouge suitable for beginners and children?",
+      "answer": "Yes - this is an excellent beginner and family-friendly location. The flat terrain requires minimal hiking, and the straightforward mineral types (quartz, feldspar, mica) teach fundamental geology concepts. Children ages 6+ can participate comfortably with adult supervision and insect protection."
+    },
+    {
+      "question": "What tools and protective gear do I need for rockhounding near Baton Rouge?",
+      "answer": "Bring a small classifier or screen, trowel, sturdy waterproof boots, and a collecting bag. Essential protective gear includes insect repellent, long sleeves, and a hat. Consider bringing water, sunscreen, and a first aid kit. Tools for detailed specimen cleaning at home will help reveal mineral details in muddy samples."
+    }
+  ],
+  "meta_title": "Rockhounding Near Baton Rouge, Louisiana",
+  "meta_description": "Find quartz, feldspar, and mica near Baton Rouge, LA. Free public rockhounding on Gulf Coast alluvial deposits. Best October - April. Beginner friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "primary_category",
+    "vehicle_required",
+    "collection_rules",
+    "written_directions",
+    "parking_notes",
+    "nearest_services"
+  ],
+  "enriched_at": "2026-04-21T16:41:04.266Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:42:38.731Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "dexter-mo",
+  "name": "Dexter",
+  "lat": 36.61429,
+  "lng": -89.962375,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "New Madrid County",
+  "city_slug": "new-madrid-county",
+  "county": "New Madrid",
+  "county_slug": "new-madrid",
+  "geocoded_city": "New Madrid County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Dexter%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Dexter",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Dexter%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 280,
+      "meters": 85
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:16:31.729Z"
+  },
+  "scraped_at": "2026-04-21T19:16:31.729Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "fairfield-id",
+  "name": "Fairfield",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Fairfield",
+  "city_slug": "fairfield",
+  "county": "Camas",
+  "county_slug": "camas",
+  "lat": 43.352179,
+  "lng": -114.78561,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM public rockhounding near Fairfield with excellent agate and chalcedony specimens. Free collecting with a 25 lb daily limit in scenic high-elevation terrain.",
+  "description": "Fairfield sits in the heart of Idaho's Camas County at 5074 feet elevation, offering excellent public rockhounding opportunities on nearby BLM lands. This area is part of the Owyhee Uplands geological province, where ancient volcanic activity and hydrothermal processes created abundant silica-rich mineral deposits scattered across the sagebrush landscape.\n\nThe terrain around Fairfield is characterized by flat to gently rolling sagebrush and grass-covered hills with numerous exposed ridges and washes where agates, chalcedony, and colorful jasper specimens weather out of volcanic host rock. Most productive collecting areas are within 1-3 miles of the town, accessible via short hikes across open public land. The high elevation keeps temperatures moderate even in summer, making this an ideal spring through fall destination.\n\nWhat makes Fairfield special is the accessibility combined with specimen quality. You can find pocket agate, banded chalcedony, and translucent quartz without traveling deep into remote backcountry. The flat terrain and open landscape make it beginner-friendly while still rewarding experienced rockhounders with quality finds. Many collectors return to the same productive washes year after year.\n\nCollecting is entirely free on BLM land here, with no permit required. The standard FLPMA regulations apply: keep your collection under 25 lbs per day, stick to personal use only, and avoid any motorized excavation. The area sees moderate collector traffic, especially during peak season, but plenty of undisturbed ground remains productive.",
+  "history": "This region sits within the Owyhee Uplands, where massive Miocene-age basaltic volcanism (approximately 17-14 million years ago) laid down extensive lava flows and created the silica-rich environment necessary for agate and chalcedony formation. Subsequent weathering and erosion over millions of years exposed these mineral-bearing deposits across the landscape, making them accessible for modern rockhounders.",
+  "tips": "Focus your search in erosional washes and gullies where water has concentrated loose specimens over time - walk the wash bottoms and banks carefully. Look for banded agate with white, red, and brown layers, and semi-translucent chalcedony nodules ranging from egg to fist-sized. Bring a backpack, sturdy hiking boots, and a small pick or rock hammer to extract specimens from weathered outcrops; the volcanic host rock is moderately hard but fractures along natural planes. Scout new areas by glassing hillsides with binoculars before committing to a hike - productive washes often show scattered white or reddish specimens visible from a distance.",
+  "terrain_notes": "Flat to gently rolling sagebrush-covered hills at 5074 feet elevation. Terrain is open and exposed with minimal vegetation, consisting of short grass and low sagebrush interspersed with volcanic outcrops and gravelly washes. Walking is generally easy on established paths, but off-trail hiking crosses uneven rocky ground. Most parking pullouts are within 0.5-2 miles of productive collecting areas. Footing is stable on ridges and wash bottoms, though loose volcanic rock and small boulders require careful stepping.",
+  "best_season": "May - September. Spring (May-June) offers pleasant temperatures, wildflowers, and seasonal water in some washes. Summer (July-August) can be warm but remains manageable at this elevation. Fall (September) provides excellent weather and lower crowds. Winter snow can close access from December through early April.",
+  "written_directions": "From Fairfield (town center), head north or south on local county roads adjacent to the BLM lands. GPS coordinates 43.352179, -114.78561 mark a central point for the productive areas. Scout pullouts and access points along roads bordering the open sagebrush terrain. Most productive washes and ridges are accessible via short walks from informal parking pullouts on public land boundaries. Check with Fairfield community for current local access recommendations.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "hiking",
+  "road_conditions": "County and BLM roads to access points vary from paved to well-maintained dirt. High-clearance passenger vehicles can reach most popular areas during dry conditions.",
+  "parking_notes": "Informal pullouts and parking areas along BLM boundaries. No developed parking lot - look for small graveled turnouts along county roads bordering the sagebrush flats. Capacity typically 2-5 vehicles per pullout.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. All collecting must occur on public BLM land - respect private property boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nCollect only on public BLM land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Fairfield (town center) approximately 1-3 miles away with basic services. Camas Prairie has limited facilities. Larger supplies available in Mountain Home (approximately 35 miles north).",
+  "accessibility_notes": "Relatively flat open terrain with minimal elevation change across most collecting areas. Short walks (0.5-2 miles) from parking to productive zones. Uneven volcanic rock and loose boulders require sturdy footwear and careful footing. No wheelchair access. Generally accessible to most hikers with moderate fitness.",
+  "alternative_names": [],
+  "nearest_city": "Fairfield",
+  "nearest_city_distance": 1,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/fairfield-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/fairfield-id/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and chalcedony can I find rockhounding near Fairfield Idaho?",
+      "answer": "Fairfield's BLM lands produce excellent pocket agate with banded white, red, and brown striping, semi-translucent chalcedony nodules, and colorful jasper specimens. Most agates range from egg to fist-sized and weather out of Miocene volcanic host rock. Specimens often feature translucency in sunlight, particularly the chalcedony pieces."
+    },
+    {
+      "question": "Do I need a permit to collect rocks and agates at Fairfield BLM land?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Fairfield. Collection is completely free under FLPMA regulations. You simply need to follow the 25 lb per day personal-use limit and avoid motorized excavation."
+    },
+    {
+      "question": "How much can I legally collect per day rockhounding in Camas County Idaho?",
+      "answer": "The federal FLPMA limit is 25 lbs per day for personal use on BLM land near Fairfield. This limit covers all rock and mineral specimens combined and is designed for recreational collecting, not commercial operations."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Fairfield?",
+      "answer": "May through September offers the best rockhounding conditions at Fairfield's elevation. Spring (May-June) provides comfortable temperatures and seasonal water in washes. Fall (September) delivers excellent weather and fewer crowds. Winter snow typically closes access from December through April."
+    },
+    {
+      "question": "Is Fairfield Idaho a good rockhounding spot for beginners?",
+      "answer": "Yes, Fairfield is excellent for beginners. The terrain is flat and open with easy walking, agates and chalcedony are abundant and visible, no permit is required, and there are no commercial operations to navigate. Short hikes from parking areas lead to productive washes where specimens weather out naturally."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Fairfield?",
+      "answer": "Bring sturdy hiking boots, a small pick or rock hammer to extract specimens from weathered volcanic outcrops, a backpack, and plenty of water. Binoculars help you scout productive washes from ridges before committing to a hike. Sun protection and a hat are essential in the high-elevation sagebrush terrain."
+    }
+  ],
+  "meta_title": "Fairfield Idaho Rockhounding - Free BLM Agate",
+  "meta_description": "Find agate, chalcedony, and quartz rockhounding free on BLM land near Fairfield, Idaho. No permit required. 25 lb daily limit. Easy beginner access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from GPS and town name, specific county roads not identified",
+    "parking_notes - no developed facilities confirmed, inferred from typical BLM access patterns",
+    "gem_types - agate and chalcedony inferred from Owyhee Uplands geological character, specific specimens not sourced",
+    "cell_service - spotty rating based on rural elevation and distance from major towns, not verified"
+  ],
+  "enriched_at": "2026-04-22T09:27:32.649Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:24.073Z"
+}

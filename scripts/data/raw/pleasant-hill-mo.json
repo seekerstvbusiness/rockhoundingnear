@@ -1,0 +1,60 @@
+{
+  "slug": "pleasant-hill-mo",
+  "name": "Pleasant Hill",
+  "lat": 38.791998,
+  "lng": -94.278532,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Pleasant Hill",
+  "city_slug": "pleasant-hill",
+  "county": "Cass",
+  "county_slug": "cass",
+  "geocoded_city": "Pleasant Hill",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pleasant%20Hill%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pleasant%20Hill",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pleasant%20Hill%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 855,
+      "meters": 261
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:57:23.341Z"
+  },
+  "scraped_at": "2026-04-21T18:57:23.341Z",
+  "scrape_quality": "minimal"
+}

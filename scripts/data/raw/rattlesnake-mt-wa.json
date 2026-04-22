@@ -1,0 +1,60 @@
+{
+  "slug": "rattlesnake-mt-wa",
+  "name": "Rattlesnake Mt.",
+  "lat": 46.395714,
+  "lng": -119.613123,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Benton County",
+  "city_slug": "benton-county",
+  "county": "Benton",
+  "county_slug": "benton",
+  "geocoded_city": "Benton County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Rattlesnake%20Mt.%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Rattlesnake%20Mt.",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Rattlesnake%20Mt.%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2998,
+      "meters": 914
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:07:09.609Z"
+  },
+  "scraped_at": "2026-04-21T19:07:09.609Z",
+  "scrape_quality": "minimal"
+}

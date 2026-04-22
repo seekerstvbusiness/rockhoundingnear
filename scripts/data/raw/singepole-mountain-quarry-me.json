@@ -1,0 +1,60 @@
+{
+  "slug": "singepole-mountain-quarry-me",
+  "name": "Singepole Mountain Quarry",
+  "lat": 44.22669,
+  "lng": -70.453606,
+  "state": "Maine",
+  "state_slug": "maine",
+  "state_code": "ME",
+  "city": "Paris",
+  "city_slug": "paris",
+  "county": "Oxford",
+  "county_slug": "oxford",
+  "geocoded_city": "Paris",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maine.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Singepole%20Mountain%20Quarry%20Maine"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Singepole%20Mountain%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Singepole%20Mountain%20Quarry%20Maine"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1381,
+      "meters": 421
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:45:47.504Z"
+  },
+  "scraped_at": "2026-04-21T16:45:47.504Z",
+  "scrape_quality": "minimal"
+}

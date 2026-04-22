@@ -1,0 +1,60 @@
+{
+  "slug": "gleason-cover-me",
+  "name": "Gleason Cover",
+  "lat": 44.967704,
+  "lng": -67.059328,
+  "state": "Maine",
+  "state_slug": "maine",
+  "state_code": "ME",
+  "city": "Washington County",
+  "city_slug": "washington-county",
+  "county": "Washington",
+  "county_slug": "washington",
+  "geocoded_city": "Perry",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-maine.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Gleason%20Cover%20Maine"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Gleason%20Cover",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Gleason%20Cover%20Maine"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 12,
+      "meters": 4
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:47:23.500Z"
+  },
+  "scraped_at": "2026-04-21T16:47:23.500Z",
+  "scrape_quality": "minimal"
+}

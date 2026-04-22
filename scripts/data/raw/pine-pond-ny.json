@@ -1,0 +1,60 @@
+{
+  "slug": "pine-pond-ny",
+  "name": "Pine Pond",
+  "lat": 41.465307,
+  "lng": -73.702738,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Town of Kent",
+  "city_slug": "town-of-kent",
+  "county": "Putnam",
+  "county_slug": "putnam",
+  "geocoded_city": "Town of Kent",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pine%20Pond%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pine%20Pond",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pine%20Pond%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 804,
+      "meters": 245
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:35:10.339Z"
+  },
+  "scraped_at": "2026-04-21T18:35:10.339Z",
+  "scrape_quality": "minimal"
+}

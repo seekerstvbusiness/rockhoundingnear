@@ -1,0 +1,60 @@
+{
+  "slug": "virginia-weslyan-university-va",
+  "name": "Virginia Weslyan University",
+  "lat": 36.862681,
+  "lng": -76.187892,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Virginia Beach",
+  "city_slug": "virginia-beach",
+  "county": null,
+  "county_slug": null,
+  "geocoded_city": "Virginia Beach",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Virginia%20Weslyan%20University%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Virginia%20Weslyan%20University",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Virginia%20Weslyan%20University%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 13,
+      "meters": 4
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:14:26.407Z"
+  },
+  "scraped_at": "2026-04-21T19:14:26.407Z",
+  "scrape_quality": "minimal"
+}

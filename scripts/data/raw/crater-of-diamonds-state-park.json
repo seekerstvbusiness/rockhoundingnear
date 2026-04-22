@@ -1,0 +1,93 @@
+{
+  "slug": "crater-of-diamonds-state-park",
+  "name": "Crater of Diamonds State Park",
+  "lat": 34.0345,
+  "lng": -93.6789,
+  "state": "Arkansas",
+  "state_slug": "arkansas",
+  "state_code": "AR",
+  "city": "Murfreesboro",
+  "city_slug": "murfreesboro",
+  "county": "Pike",
+  "county_slug": "pike",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arkansas/crater-of-diamonds-state-park"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Crater%20of%20Diamonds%20State%20Park%20Arkansas&country=US"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": true,
+      "url": "https://rockhoundingmap.com/?s=Crater%20of%20Diamonds%20State%20Park",
+      "description_snippet": "Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Crater%20of%20Diamonds%20State%20Park%20Arkansas"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[rockhounding_map] Rockhounding Map 0 Skip to Content Home Locations List FAQ Access Map (Free On Patreon) Open Menu Close Menu Open Menu Close Menu Home Locations List FAQ Access Map (Free On Patreon) Home Locations List FAQ Access Map (Free On Patreon) A free and growing collection of rockhounding locations, ranging from Ontario to Arizona: The black buttons below lead to each state’s location list. Most of them have photo albums and summaries from when I visited. Arizona Arizona Arkansas Arkansas California California Colorado Colorado Georgia Georgia Idaho Idaho Michigan Michigan Minnesota Minnesota Montana Montana Oregon Oregon New Mexico New Mexico North Carolina North Carolina Ontario Ontario South Carolina South Carolina South Dakota South Dakota Utah Utah Washington Washington Wisconsin Wisconsin Wy"
+    ],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 328,
+      "meters": 100
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Texarkana",
+      "distance_mi": 47,
+      "population": 65580
+    },
+    "roads": [
+      {
+        "name": "South 3rd Street",
+        "ref": "US 371",
+        "type": "primary",
+        "dist": 8.3
+      },
+      {
+        "name": "West Center",
+        "ref": "US 371",
+        "type": "primary",
+        "dist": 12.5
+      },
+      {
+        "name": "North Main Street",
+        "ref": "AR 29",
+        "type": "secondary",
+        "dist": 12.6
+      },
+      {
+        "name": "East Center",
+        "ref": "US 371",
+        "type": "primary",
+        "dist": 12.8
+      }
+    ],
+    "water_features": [
+      {
+        "name": "Little Missouri River",
+        "type": "river",
+        "dist": 0.5
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T05:38:13.421Z"
+  },
+  "scraped_at": "2026-04-21T05:38:13.421Z",
+  "scrape_quality": "partial"
+}

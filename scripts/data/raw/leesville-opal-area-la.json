@@ -1,0 +1,60 @@
+{
+  "slug": "leesville-opal-area-la",
+  "name": "Leesville (opal area)",
+  "lat": 31.14303,
+  "lng": -93.260277,
+  "state": "Louisiana",
+  "state_slug": "louisiana",
+  "state_code": "LA",
+  "city": "Leesville",
+  "city_slug": "leesville",
+  "county": "Vernon",
+  "county_slug": "vernon",
+  "geocoded_city": "Leesville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-louisiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Leesville%20(opal%20area)%20Louisiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Leesville%20(opal%20area)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Leesville%20(opal%20area)%20Louisiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 246,
+      "meters": 75
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:39:52.295Z"
+  },
+  "scraped_at": "2026-04-21T16:39:52.296Z",
+  "scrape_quality": "minimal"
+}

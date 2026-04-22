@@ -1,0 +1,99 @@
+{
+  "slug": "cape-henlopen-de",
+  "name": "Cape Henlopen",
+  "state": "Delaware",
+  "state_slug": "delaware",
+  "city": "Lewes",
+  "city_slug": "lewes",
+  "county": "Sussex",
+  "county_slug": "sussex",
+  "lat": 38.797202,
+  "lng": -75.089482,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "Rockhound the Delaware Bay shoreline for quartz, jasper, and chalcedony specimens. This state park offers scenic beach access with moderate fossil and mineral collecting opportunities.",
+  "description": "Cape Henlopen State Park sits at the mouth of the Delaware Bay, offering rockhounders access to one of Delaware's most geologically significant coastlines. The park's beaches and tidal areas expose Quaternary sediments and reworked material from older Tertiary formations, creating opportunities to find quartz pebbles, jasper fragments, and chalcedony specimens washed ashore or exposed in beach sands.\n\nThe Cape itself is a glacial feature formed during the Pleistocene epoch, when sea levels were lower and sediment transport patterns differed dramatically from today. The constant wave action and tidal reworking of bay sediments continuously expose new specimens. You will encounter a mix of local quartz and material transported from inland sources via ancient river systems that once drained the Appalachian region.\n\nBeach and tidal zone collecting here is less intensive than western US sites but rewards patient rockhounders with nice specimens and the occasional fossil fragment. The park's protected status means collection is restricted, so focus on surface finds in designated areas. The scenic dunes, salt marshes, and bay views make this a rewarding trip even if specimen quantity is modest.\n\nExpect soft sand, salt spray, and tidal variables that change access patterns daily. Early morning low tide offers the best beach exposure. The area is popular with tourists, so weekday visits tend to be quieter for rockhounding.",
+  "history": "Cape Henlopen formed as a glacial cape during the Pleistocene epoch when continental ice sheets lowered sea levels and shaped Delaware's coastal geometry. The cape's sediments include reworked Tertiary and Quaternary deposits continuously churned by Delaware Bay tidal action, exposing quartz and chalcedony fragments originally transported from Appalachian sources millions of years ago.",
+  "tips": "Search the wrack line along the beach where wave action concentrates heavier mineral specimens, particularly after storms or strong tidal events. Look for translucent quartz pebbles and opaque jasper chunks in the upper beach zone and near the base of dunes where sand winnowing occurs. Bring a small sieve or screen to sift beach sand in shallow areas; the finest specimens often require sifting. Visit during low tide when maximum beach surface is exposed, typically offering 2-3 hour windows of optimal collecting time.",
+  "terrain_notes": "Elevation at 6 feet with soft sand beaches, salt marsh areas, and low dunes. Terrain is relatively flat and accessible but can be muddy in marsh zones. Walking distance from parking to prime beach areas is typically 0.5 to 1.5 miles depending on beach section. Footing is generally easy on packed sand but challenging in soft dunes and marsh sections. No significant elevation changes. Vegetation includes salt-tolerant grasses, bayberry, and beach plum.",
+  "best_season": "April - October. Spring through fall offers the most comfortable temperatures and lowest water levels for beach access. Summer is warmest but most crowded. Fall provides good conditions with fewer tourists. Winter is possible but colder water, shorter daylight, and rougher seas reduce collecting comfort and safety.",
+  "written_directions": "From Lewes, take DE-1 South for approximately 4 miles. Follow signs for Cape Henlopen State Park. Turn right onto Cape Henlopen Drive and continue for 2 miles to the park entrance. Pay the day-use fee at the gate. Proceed to the beach parking areas. The main beach access points are near the lighthouse visitor center and along the bay-facing shores. Beach areas are accessible via marked trails from parking lots.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "fee",
+  "primary_category": "state_park",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved state park roads in good condition. Final access via parking lot asphalt. No rough roads or high-clearance vehicles needed.",
+  "parking_notes": "Ample paved parking available at multiple beach access points. Day-use parking lot capacity typically sufficient for casual rockhounders. Peak season (July-August) can fill by mid-morning on weekends.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": "7.00",
+  "commercial_use_allowed": false,
+  "collection_rules": "Cape Henlopen State Park is protected land. Collection of rocks, minerals, and fossils is prohibited except for small specimens for personal use in specifically designated beach areas. Always check with park rangers at the entrance regarding current collection guidelines. No motorized digging or excavation permitted. Commercial collection strictly prohibited. Respect all posted area closures and seasonal restrictions.",
+  "quantity_limits": null,
+  "rules": "No commercial collection\nPersonal use small specimens only\nNo motorized excavation\nStay in designated beach areas\nRespect all posted closures\nCheck with rangers for current guidelines",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": false,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "wildlife",
+    "heat"
+  ],
+  "nearest_services": "Lewes, Delaware - 4 miles south. Full services including gas stations, restaurants, grocery stores, and lodging. Rehoboth Beach is 8 miles south with additional tourist services.",
+  "accessibility_notes": "Relatively flat terrain on beaches and marked trails accessible to most hikers and visitors with mobility aids. Paved parking and some boardwalk access near facilities. Soft sand can be difficult for wheelchairs. Beach sand and marsh areas become increasingly difficult for limited mobility visitors.",
+  "alternative_names": [],
+  "nearest_city": "Lewes",
+  "nearest_city_distance": 4,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/delaware/cape-henlopen-de/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/delaware/cape-henlopen-de/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/delaware/cape-henlopen-de/mineral-2-jasper.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/delaware/cape-henlopen-de/mineral-3-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/delaware/cape-henlopen-de/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What rocks and minerals can I find rockhounding at Cape Henlopen State Park?",
+      "answer": "Cape Henlopen beaches yield quartz pebbles, jasper fragments, and chalcedony specimens. You may also find occasional fossil fragments and shells. Most specimens are small to medium-sized, smoothed by bay wave action. The wrack line and beach sands offer the best concentration of finds."
+    },
+    {
+      "question": "How much does it cost to rockhound at Cape Henlopen in Delaware?",
+      "answer": "Cape Henlopen State Park charges a 7 dollar day-use fee per vehicle. This gives you access to all beaches and park facilities. Parking is included. The fee supports park maintenance and conservation."
+    },
+    {
+      "question": "Is rockhounding allowed at Cape Henlopen State Park?",
+      "answer": "Limited collection is permitted in designated beach areas for personal use only. Commercial collection is strictly prohibited. You may collect small specimens, but check with park rangers at the entrance for current collection guidelines and any seasonal restrictions. Respect all posted area closures."
+    },
+    {
+      "question": "What is the best time to rockhound near Lewes, Delaware at Cape Henlopen?",
+      "answer": "April through October offers the best rockhounding conditions with pleasant temperatures and lower water levels. Low tide provides maximum beach exposure and typically lasts 2-3 hours. Spring and fall are ideal for avoiding summer crowds while maintaining good collecting conditions."
+    },
+    {
+      "question": "What tools do I need for beach rockhounding at Cape Henlopen?",
+      "answer": "Bring a small hand sieve or mesh screen to sift beach sand for fine specimens. A sturdy bucket helps collect finds. Wear sun protection and bring water, as the open beach offers little shade. A small pry bar is helpful for inspecting beach deposits, though digging is restricted."
+    },
+    {
+      "question": "Is Cape Henlopen good for beginner rockhounders and families?",
+      "answer": "Yes, Cape Henlopen is beginner and family-friendly. Beach rockhounding requires minimal equipment and technique. Kids enjoy searching the wrack line and sifting sand. The scenic location, amenities, and easy terrain make it accessible for all skill levels. Dogs are not permitted in the park."
+    }
+  ],
+  "meta_title": "Cape Henlopen Rockhounding - Delaware Beach",
+  "meta_description": "Find quartz, jasper, and chalcedony at Cape Henlopen State Park. Day-use fee, beginner-friendly beach rockhounding near Lewes, Delaware.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "collection_rules - Delaware state park collection policies may vary; verify directly with Cape Henlopen State Park management",
+    "fee_amount - confirm current day-use fee with park",
+    "geology_notes - specific Tertiary formation names not researched with sources"
+  ],
+  "enriched_at": "2026-04-21T16:35:07.340Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:35:38.856Z"
+}

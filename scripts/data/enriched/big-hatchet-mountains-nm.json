@@ -1,0 +1,103 @@
+{
+  "slug": "big-hatchet-mountains-nm",
+  "name": "Big Hatchet Mountains",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Hidalgo County Area",
+  "city_slug": "hidalgo-county",
+  "county": "Hidalgo",
+  "county_slug": "hidalgo",
+  "lat": 31.621464,
+  "lng": -108.364007,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM-managed high desert rockhounding near the Arizona border. Find quartz, feldspar, and jasper specimens on moderate slopes in this remote Hidalgo County range.",
+  "description": "The Big Hatchet Mountains offer remote, undeveloped rockhounding opportunities in southwestern New Mexico's high desert terrain. Located in Hidalgo County near the Arizona border, this BLM-managed area sits at roughly 5500 feet elevation with moderate slopes that provide varied collecting surfaces. The range is known for quartz-rich outcrops, feldspar deposits, and scattered jasper specimens typical of Basin and Range geology.\n\nThis location appeals to intermediate rockhounds seeking solitude and diverse mineral specimens. The terrain requires hiking to productive areas, and success depends on understanding the local geology and knowing where to search. Weather can be extreme in this remote location, and services are minimal nearby.\n\nCollectors should plan multi-hour trips to make the drive worthwhile. The moderate slopes and rocky terrain demand sturdy footwear and water. Best collecting is found along washes, hillside outcrops, and areas where erosion has exposed fresh material. Early morning starts help beat afternoon heat and dust storms.\n\nAs BLM land, this location welcomes recreational collectors under personal use rules. No permits are required, making it accessible for rockhounds of varying experience levels. The remoteness and lack of development mean you'll likely have the area to yourself, a significant advantage for serious collectors.",
+  "history": "The Big Hatchet Mountains are part of the Basin and Range province created during Tertiary-era extension. This region experienced Miocene volcanic activity and subsequent mineral-rich hydrothermal circulation that deposited silica-rich fluids in fractures, creating the quartz and feldspar zones found here today. Limited historical mining activity occurred in adjacent areas, but the Big Hatchets themselves remain largely undeveloped.",
+  "tips": "Search along dry washes and bajadas where water erosion has exposed fresh material and concentrated lighter specimens. Look for quartz outcrops on north-facing slopes, which often show better preservation. Bring 2+ liters of water per person and start early to avoid afternoon heat; the exposed slopes offer no shade. Use a rock hammer to test outcrops for quality specimens, and focus on areas showing visible banding or color variation in feldspar and jasper.",
+  "terrain_notes": "Elevation 5513 feet with moderate slopes typical of Basin and Range topography. Mixed desert shrub and some scattered pinyon-juniper. Rocky, uneven footing throughout. Washes provide easiest walking but require caution for flash flood risk. Parking to productive collecting areas typically involves 30 minutes to 2 hours of hiking depending on target. Terrain is exposed with minimal shade.",
+  "best_season": "October - April. High elevation (5500+ ft) plus summer afternoon thunderstorms and extreme heat make cooler months safer and more productive. Winter can bring freeze-thaw cycles that fracture and expose fresh specimens.",
+  "written_directions": "From Deming, take NM 11 southwest approximately 30 miles toward the Arizona border. Continue on county roads toward the Big Hatchet Mountains area (specific road access varies seasonally). GPS navigation to 31.621464, -108.364007 is essential; roads are rough and unsigned. High-clearance vehicle recommended for final approach. Allow 1.5 hours from Deming for full access.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough county roads with washboard and variable surface. High-clearance vehicle recommended. Final access may require 4x4 depending on seasonal road conditions.",
+  "parking_notes": "Primitive pullouts and informal parking areas near road access. No developed parking facility. Space for 2-3 vehicles at typical access points.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection. No motorized excavation equipment. No explosives. Surface collection only. Pack out all waste.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lb daily limit per person\nNo commercial collection\nNo motorized excavation\nNo explosives\nSurface collection only\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Deming, NM (approximately 30 miles northeast): gas, food, lodging, water",
+  "accessibility_notes": "Moderate to uneven rocky terrain with no wheelchair access. Sturdy hiking boots essential. Hiking to productive areas required; 30 minutes to 2 hours round trip depending on target location. Exposed terrain with no shade. Not suitable for limited mobility or very young children.",
+  "alternative_names": [],
+  "nearest_city": "Deming",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/big-hatchet-mountains-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/big-hatchet-mountains-nm/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can you find rockhounding in the Big Hatchet Mountains?",
+      "answer": "The Big Hatchet Mountains are known for quartz, feldspar, jasper, and agate specimens. Quartz is the most common find, appearing in both milky white and clear varieties. Feldspar deposits show good color variation, and jasper specimens with banding can be found along washes and exposed hillsides."
+    },
+    {
+      "question": "Do you need a permit to rockhound in the Big Hatchet Mountains near Deming?",
+      "answer": "No permit is required. The Big Hatchet Mountains are on BLM land open to recreational rockhounding under personal use rules. You simply need to follow the 25 lb per day limit and pack out your trash. Commercial collection is not allowed."
+    },
+    {
+      "question": "How far is the Big Hatchet Mountains rockhounding area from town?",
+      "answer": "The Big Hatchet Mountains are approximately 30 miles southwest of Deming, New Mexico, near the Arizona border. Plan 1.5 hours driving time from Deming. The remoteness means you should bring plenty of water, fuel, and supplies before heading out."
+    },
+    {
+      "question": "What is the best time of year to rockhound the Big Hatchet Mountains?",
+      "answer": "October through April is ideal. The higher elevation (5500+ ft) combined with summer thunderstorms and extreme heat make cooler months safer and more productive. Winter freeze-thaw cycles also help expose fresh specimens."
+    },
+    {
+      "question": "Is the Big Hatchet Mountains rockhounding site beginner-friendly?",
+      "answer": "Yes, the Big Hatchet Mountains are accessible to beginners, though you should be comfortable hiking on rocky, uneven terrain. The lack of crowds and open BLM regulations make it a good learning location. Bring a rock hammer, plenty of water, and sturdy boots. The moderate slopes and exposed outcrops make specimens relatively easy to spot."
+    },
+    {
+      "question": "What kind of vehicle do you need to rockhound the Big Hatchet Mountains?",
+      "answer": "A high-clearance vehicle is recommended for access to the Big Hatchet Mountains. Many roads are rough with washboard surfaces. A 4x4 may be needed for certain seasonal access points or after rain. Check current road conditions before heading out, and allow extra travel time from Deming."
+    }
+  ],
+  "meta_title": "Big Hatchet Mountains Rockhounding - New Mexico",
+  "meta_description": "Find quartz, feldspar, and jasper on BLM land in the Big Hatchet Mountains near Deming, New Mexico. No permit required. Remote high desert rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types inferred from Basin and Range geology typical of region",
+    "nearest_city_distance estimated from GPS coordinates",
+    "road_conditions inferred from BLM county road access patterns in remote New Mexico",
+    "vehicle_required inferred from terrain elevation and remoteness",
+    "cell_service inferred from remote location distance from nearest town"
+  ],
+  "enriched_at": "2026-04-22T06:47:09.235Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:43.747Z"
+}

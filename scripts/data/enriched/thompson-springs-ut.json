@@ -1,0 +1,96 @@
+{
+  "slug": "thompson-springs-ut",
+  "name": "Thompson Springs",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Grand County",
+  "city_slug": "grand-county",
+  "county": "Grand",
+  "county_slug": "grand",
+  "lat": 38.836952,
+  "lng": -109.531023,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chert",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding site in the Book Cliffs region offering opportunities to find colorful agate, jasper, and chalcedony specimens. Free public collecting with no permit required.",
+  "description": "Thompson Springs sits within the scenic Book Cliffs area of eastern Utah, a region dominated by Cretaceous and Tertiary sedimentary deposits rich in silica-based minerals. This BLM land offers rockhounders free, permit-free access to hunt for high-quality agate, jasper, and chalcedony specimens that erode from the surrounding ridges and wash bottoms. The terrain is characteristic of the Colorado Plateau, with broad desert washes, scattered juniper and pinyon pine, and colorful badlands exposed by seasonal runoff. Most productive collecting occurs along the main drainages and in the lower hills where weathering has exposed fresh material. The site is moderately remote but accessible by passenger vehicle with basic road conditions, making it suitable for rockhounders of varying experience levels who are self-sufficient and prepared for desert conditions.",
+  "history": "The silica-rich minerals found at Thompson Springs formed during the Cretaceous Period when marine and fluvial sediments were deposited across the region. Subsequent weathering and erosion of these ancient sediment layers, particularly during wet seasons, continues to expose agate nodules, jasper beds, and chalcedony formations that concentrated in former stream channels and replaced fossil material. The Book Cliffs province has been a traditional rockhounding destination for Utah collectors seeking quality specimens.",
+  "tips": "Focus your search in the washes and gullies where erosion naturally concentrates heavier stones; look for translucent or banded agate showing reds, oranges, yellows, and whites. Use a hand lens to identify chalcedony by its waxy luster and check the bajadas and lower slope benches where wind has blown away lighter material. Bring a 5-gallon bucket and sturdy collecting bags, as the best specimens often require some digging in gravelly areas; a small pry bar and heavy hammer will help extract nodules from weathered matrix. Early morning or late afternoon collecting reduces exposure to summer heat, and always note your GPS location and landmarks so you can relocate productive patches.",
+  "terrain_notes": "Elevation ranges from roughly 4,800 to 5,600 feet across the collecting area. Terrain includes broad desert washes with sandy/gravelly bottoms, low badlands with exposed bentonitic mudstones and siltstones, scattered pinyon-juniper woodland, and open sagebrush flats. Walking distances from parking areas are typically 0.5 to 2 miles to productive patches. Footing is generally stable on wash bottoms and moderate slopes, though loose rock and scattered stones require careful stepping. No shade or water on site.",
+  "best_season": "October - April. Desert temperatures in summer (May-September) can exceed 95 degrees F with minimal shade, making midday collecting dangerous. Spring offers moderate temperatures and occasional rains that may expose fresh material, while fall and winter provide comfortable collecting windows with cooler mornings and manageable afternoon temperatures.",
+  "written_directions": "From Price, Utah (approximately 35 miles west), take US 6 east toward Helper. Continue on US 6 as it heads northeast through Helper and toward the Book Cliffs region. Look for BLM access roads branching south from US 6 near the Thompson Springs area markers (around mile 190 of US 6). A passenger vehicle can navigate the main access roads, though a high-clearance vehicle or ATV is preferable for exploring deeper side roads. Park at marked pullouts or wide spots along the BLM roads and hike into the washes and badlands. Cell service may be spotty, so note your entry point carefully.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM roads in variable condition. Main access roads are typically well-maintained but can be rough after rain. High-clearance or 4x4 recommended for side roads. No major water crossings expected in dry season.",
+  "parking_notes": "Multiple pullouts and wide spots available along BLM access roads. No developed parking lot. Space typically available for 2-4 vehicles at any given pullout.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. Collect hand tools only. Leave site clean and pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "remote",
+    "snakes",
+    "loose_rock"
+  ],
+  "nearest_services": "Price, Utah (approximately 35 miles west) has gas, food, and lodging. Helper, Utah (approximately 30 miles west) offers basic services.",
+  "accessibility_notes": "Moderate difficulty terrain suitable for fit hikers. Walking distances of 0.5-2 miles across uneven desert wash and badland slopes. Loose rock and scattered stones require sturdy footwear; hiking boots recommended. No wheelchair access. Desert sun exposure with no shade requires sun protection.",
+  "alternative_names": [],
+  "nearest_city": "Price",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/thompson-springs-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Thompson Springs, Utah?",
+      "answer": "Thompson Springs offers excellent opportunities to find agate, jasper, chalcedony, and chert. The agate specimens here often display beautiful banding in reds, oranges, yellows, and whites. Translucent chalcedony and colorful jasper are also common in the washes and badlands."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Thompson Springs on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Thompson Springs. As BLM public land, this site allows free personal use collecting with no permit needed. You must follow the 25 lb per day limit under FLPMA regulations."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Grand County, Utah?",
+      "answer": "October through April is the best season for collecting at Thompson Springs. Summer temperatures often exceed 95 degrees F with no shade, making midday collecting dangerous. Fall and winter offer comfortable temperatures and occasional rains that expose fresh material."
+    },
+    {
+      "question": "How far is Thompson Springs from Price, Utah, and what are road conditions like?",
+      "answer": "Thompson Springs is approximately 35 miles east of Price, Utah via US 6. Access is via unpaved BLM roads that are typically maintained but can be rough after rain. A passenger vehicle can handle the main access roads, though high-clearance or 4x4 is preferable for side roads."
+    },
+    {
+      "question": "Is Thompson Springs rockhounding site good for beginners and families with kids?",
+      "answer": "Yes, Thompson Springs is beginner-friendly and family-suitable for children ages 8 and up. The walking distances are manageable (0.5-2 miles), the terrain is moderate, and hand-collecting agate and jasper requires minimal equipment. Bring plenty of water, sun protection, and plan your trip for cooler months."
+    },
+    {
+      "question": "What tools and supplies should I bring rockhounding at Thompson Springs?",
+      "answer": "Bring sturdy hiking boots, a hand lens for identifying specimens, collecting bags or a 5-gallon bucket, and a small pry bar or hammer for extracting nodules. Sun protection, at least 3 liters of water per person, and a GPS device or marked waypoint are essential for this remote site. A metal detector can help locate buried specimens in productive washes."
+    }
+  ],
+  "meta_title": "Thompson Springs Rockhounding - Utah Agate & Jasper",
+  "meta_description": "Find agate, jasper, and chalcedony at Thompson Springs, Utah. Free BLM rockhounding, no permit required. October-April best season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from regional geography - specific access roads not confirmed)",
+    "parking_notes (typical BLM pullout patterns, not site-specific verification)",
+    "nearest_services (Price/Helper distances estimated from general geographic knowledge)"
+  ],
+  "enriched_at": "2026-04-22T06:50:08.476Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:56:48.733Z"
+}

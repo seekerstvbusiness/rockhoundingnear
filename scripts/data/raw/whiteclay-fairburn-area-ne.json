@@ -1,0 +1,60 @@
+{
+  "slug": "whiteclay-fairburn-area-ne",
+  "name": "Whiteclay (Fairburn area)",
+  "lat": 42.99602,
+  "lng": -102.62815,
+  "state": "Nebraska",
+  "state_slug": "nebraska",
+  "state_code": "NE",
+  "city": "Sheridan County",
+  "city_slug": "sheridan-county",
+  "county": "Sheridan",
+  "county_slug": "sheridan",
+  "geocoded_city": "Sheridan County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-nebraska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Whiteclay%20(Fairburn%20area)%20Nebraska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Whiteclay%20(Fairburn%20area)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Whiteclay%20(Fairburn%20area)%20Nebraska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3519,
+      "meters": 1073
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:01:13.985Z"
+  },
+  "scraped_at": "2026-04-21T17:01:13.985Z",
+  "scrape_quality": "minimal"
+}

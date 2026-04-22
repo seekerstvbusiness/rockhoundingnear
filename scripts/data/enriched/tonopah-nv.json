@@ -1,0 +1,104 @@
+{
+  "slug": "tonopah-nv",
+  "name": "Tonopah",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Tonopah",
+  "city_slug": "tonopah",
+  "county": "Nye",
+  "county_slug": "nye",
+  "lat": 38.072312,
+  "lng": -117.222537,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate",
+    "Silver"
+  ],
+  "short_description": "Classic Nevada desert rockhounding on public BLM land near historic Tonopah mining district. Hunt for quartz, chalcedony, and agate nodules on open desert washes.",
+  "description": "Tonopah sits in one of Nevada's most productive mining regions, where the surrounding BLM lands offer excellent opportunities for rockhounders seeking quartz varieties, chalcedony, and desert agate. The area around Tonopah is characterized by high desert terrain with scattered outcrops and alluvial fans that have exposed mineral deposits from both the famous Tonopah silver mines and natural geological processes.\n\nThe Tonopah mining district produced over 26 million ounces of silver between 1901 and the mid-20th century, and the surrounding landscape still shows evidence of this prolific mineralization. While the commercial mines are off-limits, the adjacent public BLM lands contain similar geological formations where collectors can find quartz crystals, banded agate, chalcedony pieces, and jasper specimens. The desert washes and alluvial slopes are most productive, where erosion has concentrated specimens on the surface.\n\nThis is a true desert rockhounding experience - hot, dry, and remote, but rewarding for those prepared for the conditions. The best collecting areas are found by exploring washes that drain from mineralized hillsides, where water action over millennia has separated lighter quartz and agate from surrounding rock. Most finds are modest in size, but colorful specimens are common for those willing to do methodical searching.\n\nAccess is straightforward since this is public BLM land with no permit required. The area is suitable for independent rockhounders comfortable with remote desert conditions and self-reliant field work. Be prepared for significant temperature swings between day and night, and ensure you carry sufficient water.",
+  "history": "The Tonopah mining district emerged in 1901 as one of the most significant silver producers in North America, with mineralization occurring in a region of late Tertiary volcanic activity. The same hydrothermal systems that created the rich silver deposits in the commercial mines distributed mineral-bearing quartz, chalcedony, and agate throughout the surrounding country rock, which collectors can still access on adjacent public lands today.",
+  "tips": "Focus your search on washes and alluvial fans where water has concentrated lighter minerals. Look for subtle color variations in desert-varnished rocks - pale quartz, translucent chalcedony, and banded agate often show up distinctly against the reddish-brown desert floor. Carry a 10x hand lens to identify chalcedony and distinguish it from common quartz. Work the shaded base of hillsides during midday heat to find scattered specimens; areas with previous rockhounding activity are often most productive, as concentrations of specimens become visible after removal of surface material.",
+  "terrain_notes": "High desert terrain at approximately 6,200 feet elevation with sparse sagebrush, creosote bush, and desert scrub vegetation. Mostly open, gently rolling country with intermittent washes and small rocky outcrops. Walking distance from parking varies from immediate roadsides to 1-2 miles into the desert. Footing is uneven with scattered loose rocks and occasional sharp fragments; sturdy boots recommended.",
+  "best_season": "October - April",
+  "written_directions": "From Tonopah, take US 95 south for approximately 15 miles to the town of Tonopah. The BLM lands surrounding Tonopah are immediately accessible from various pullouts along US 95 and secondary roads throughout the area. Locate pullouts near washes and bajadas on either side of US 95 south of town, or take Nye County roads east and west from US 95 to access more remote collecting areas. The most productive washes are those draining mineralized ridges visible from the highway.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 95 is paved and well-maintained. Most BLM access roads are two-track dirt roads suitable for passenger vehicles in dry conditions. High clearance recommended for rougher side roads.",
+  "parking_notes": "Multiple informal pullouts along US 95 and county roads. No developed parking areas, but wide shoulders and scattered cleared areas accommodate parking near productive washes.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Rockhounds must stay on public BLM land and respect any posted restrictions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nStay on public BLM land\nRespect all posted closures and restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Tonopah, Nevada has gas stations, restaurants, and a motel. Located approximately 15 miles north of the main collecting areas.",
+  "accessibility_notes": "Relatively easy terrain for most rockhounders willing to walk short distances on uneven desert ground. Parking is close to productive areas, so walking distance can be minimal. However, intense midday heat (100+ degrees in summer) and uneven footing with occasional sharp rocks require typical desert hiking precautions. No wheelchair accessibility at informal pullouts. Older adults and children should collect during cooler morning hours.",
+  "alternative_names": [
+    "Tonopah BLM",
+    "Tonopah Desert"
+  ],
+  "nearest_city": "Tonopah",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/tonopah-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/tonopah-nv/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can you find rockhounding near Tonopah, Nevada?",
+      "answer": "The Tonopah area is known for producing quartz varieties, chalcedony, banded agate, and jasper specimens. The surrounding BLM lands, adjacent to the historic Tonopah silver mining district, concentrate these minerals in desert washes and alluvial fans. Most specimens are modest in size but high in color and quality for display or collection."
+    },
+    {
+      "question": "Do you need a permit to rockhound on BLM land near Tonopah?",
+      "answer": "No permit is required for recreational rockhounding on Nevada BLM land near Tonopah. Personal use collection is allowed under FLPMA regulations. However, you must follow the 25 lb per day limit and cannot use motorized equipment or collect commercially."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Tonopah, Nevada?",
+      "answer": "October through April is ideal for rockhounding near Tonopah. This period avoids the extreme summer heat (often exceeding 100 degrees) that makes desert collecting dangerous. Morning and early afternoon temperatures are most comfortable for field work during these months."
+    },
+    {
+      "question": "How far is Tonopah from Las Vegas for a rockhounding trip?",
+      "answer": "Tonopah is approximately 220 miles northwest of Las Vegas, roughly a 3.5 to 4-hour drive via US 95. This makes it suitable for a long day trip or an overnight rockhounding expedition combining multiple nearby desert locations."
+    },
+    {
+      "question": "Is Tonopah rockhounding suitable for beginners and families?",
+      "answer": "Yes, Tonopah BLM land is beginner-friendly for rockhounding families. The terrain is accessible, no permits are required, and quartz and chalcedony are relatively easy to identify for newcomers. Children age 8 and up can participate comfortably with proper hydration and sun protection."
+    },
+    {
+      "question": "What tools and supplies do you need to rockhound in the Tonopah desert?",
+      "answer": "Bring a sturdy backpack, a 10x hand lens for identifying chalcedony, a rock hammer or chisel for specimens in place, a collection bag, and most importantly, abundant water (at least 2-3 liters per person). Sunscreen, a wide-brimmed hat, and sturdy boots are essential for desert conditions. A field guide to Nevada minerals is helpful for species identification."
+    }
+  ],
+  "meta_title": "Tonopah Rockhounding - Nevada BLM Quartz",
+  "meta_description": "Free rockhounding on Nevada BLM land near Tonopah. Find quartz, chalcedony, and agate. No permit required, 25 lb daily limit. October - April best.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city",
+    "nearest_city_distance",
+    "parking_notes",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T06:44:46.787Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:50:32.056Z"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "fork-of-big-creek-little-saluda-river-sc",
+  "name": "Fork of Big Creek & Little Saluda River",
+  "lat": 34.061846,
+  "lng": -81.676592,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "Saluda County",
+  "city_slug": "saluda-county",
+  "county": "Saluda",
+  "county_slug": "saluda",
+  "geocoded_city": "Saluda County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Fork%20of%20Big%20Creek%20%26%20Little%20Saluda%20River%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Fork%20of%20Big%20Creek%20%26%20Little%20Saluda%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Fork%20of%20Big%20Creek%20%26%20Little%20Saluda%20River%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:57:29.246Z"
+  },
+  "scraped_at": "2026-04-21T17:57:29.246Z",
+  "scrape_quality": "minimal"
+}

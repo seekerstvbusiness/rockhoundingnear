@@ -1,0 +1,56 @@
+{
+  "slug": "cabin-creek-dry-creek-nc",
+  "name": "Cabin Creek & Dry Creek",
+  "lat": 35.418253,
+  "lng": -79.627104,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Moore County",
+  "city_slug": "moore-county",
+  "county": "Moore",
+  "county_slug": "moore",
+  "geocoded_city": "Moore County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cabin%20Creek%20%26%20Dry%20Creek%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cabin%20Creek%20%26%20Dry%20Creek"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cabin%20Creek%20%26%20Dry%20Creek%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:30:46.864Z"
+  },
+  "scraped_at": "2026-04-22T02:30:46.865Z",
+  "scrape_quality": "minimal"
+}

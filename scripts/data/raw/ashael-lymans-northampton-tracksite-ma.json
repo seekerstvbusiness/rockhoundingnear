@@ -1,0 +1,60 @@
+{
+  "slug": "ashael-lymans-northampton-tracksite-ma",
+  "name": "Ashael Lyman's, Northampton tracksite",
+  "lat": 42.256668,
+  "lng": -72.61528,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Holyoke",
+  "city_slug": "holyoke",
+  "county": "Hampden",
+  "county_slug": "hampden",
+  "geocoded_city": "Holyoke",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ashael%20Lyman's%2C%20Northampton%20tracksite%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ashael%20Lyman's%2C%20Northampton%20tracksite",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ashael%20Lyman's%2C%20Northampton%20tracksite%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 160,
+      "meters": 49
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:28:48.781Z"
+  },
+  "scraped_at": "2026-04-21T19:28:48.781Z",
+  "scrape_quality": "minimal"
+}

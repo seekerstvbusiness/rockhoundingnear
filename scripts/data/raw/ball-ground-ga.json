@@ -1,0 +1,60 @@
+{
+  "slug": "ball-ground-ga",
+  "name": "Ball Ground",
+  "lat": 34.306315,
+  "lng": -84.398172,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Cherokee County",
+  "city_slug": "cherokee-county",
+  "county": "Cherokee",
+  "county_slug": "cherokee",
+  "geocoded_city": "Gober",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ball%20Ground%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ball%20Ground",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ball%20Ground%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 894,
+      "meters": 272
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:59:51.487Z"
+  },
+  "scraped_at": "2026-04-21T18:59:51.487Z",
+  "scrape_quality": "minimal"
+}

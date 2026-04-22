@@ -1,0 +1,60 @@
+{
+  "slug": "wichita-mountains-ok",
+  "name": "Wichita Mountains",
+  "lat": 34.716142,
+  "lng": -98.729456,
+  "state": "Oklahoma",
+  "state_slug": "oklahoma",
+  "state_code": "OK",
+  "city": "Comanche County",
+  "city_slug": "comanche-county",
+  "county": "Comanche",
+  "county_slug": "comanche",
+  "geocoded_city": "Comanche County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oklahoma.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Wichita%20Mountains%20Oklahoma"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Wichita%20Mountains",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Wichita%20Mountains%20Oklahoma"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1650,
+      "meters": 503
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:03:58.929Z"
+  },
+  "scraped_at": "2026-04-21T17:03:58.929Z",
+  "scrape_quality": "minimal"
+}

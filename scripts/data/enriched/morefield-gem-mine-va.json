@@ -1,0 +1,98 @@
+{
+  "slug": "morefield-gem-mine-va",
+  "name": "Morefield Gem Mine",
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "city": "Louisa",
+  "city_slug": "louisa",
+  "county": "Louisa",
+  "county_slug": "louisa",
+  "lat": 37.9131,
+  "lng": -77.8727,
+  "gem_types": [
+    "Beryl",
+    "Garnet",
+    "Feldspar",
+    "Tourmaline",
+    "Quartz"
+  ],
+  "short_description": "Fee dig site in the Virginia piedmont known for beryl and tourmaline crystals. Open seasonally for amateur collectors seeking quality Virginia gemstones.",
+  "description": "Morefield Gem Mine is a working fee-dig gemstone operation in Louisa County, Virginia, situated in the classic piedmont mineral belt. The mine taps into metamorphic bedrock that has produced some of Virginia's finest beryl, tourmaline, and garnet specimens for decades. Visitors can dig and screen material in prepared mining areas or purchase buckets of pre-screened ore to work through, making it accessible to collectors of all experience levels.\n\nThe site sits at low elevation (356 feet) on relatively flat terrain, making it easy to access and comfortable for extended digging sessions. The mine operators typically provide tools, screening equipment, and guidance on how to identify finds. This is an ideal destination for families and beginners who want professional-grade mining experience without the uncertainty of public land collecting.\n\nThe piedmont gems found here formed during the Paleozoic metamorphism of ancient sediments and igneous rocks. Beryl (including aquamarine and heliodor varieties), tourmaline in pink and green shades, and almandine garnet are the primary finds. Many collectors focus on extracting clean crystal specimens rather than just raw material. The operation is typically open from spring through fall, weather permitting.",
+  "history": "The Louisa County area sits within Virginia's piedmont mineral belt, formed during the Paleozoic assembly of the Appalachian Mountains when metamorphic heat and pressure transformed ancient sediments and granitic rocks into gem-bearing schist and pegmatite. Beryl and tourmaline crystallized in pegmatitic intrusives and metamorphic environments, making this region one of the southeastern United States' most productive gemstone sources.",
+  "tips": "Focus your screening efforts in the mine's prepared beds and material piles where operators have identified the richest zones. Use a fine-mesh classifier to separate beryl and tourmaline crystals from lighter country rock and mica. Look for pale blue or green translucent beryl crystals, pink or green tourmaline rods, and deep red almandine garnet stones. Ask the mine staff which specific zones are producing best on your visit day, as output varies seasonally.",
+  "terrain_notes": "Flat piedmont terrain at 356 feet elevation. Well-maintained digging areas with prepared material. Easy walking on level ground with minimal slope. Access road is suitable for passenger vehicles. Material is pre-positioned in mining pits and hoppers for convenient screening and sorting. No significant elevation changes or rugged footing required.",
+  "best_season": "May - October. Virginia piedmont weather is warm and humid in summer; spring and fall offer comfortable digging temperatures and lower humidity. Winter may bring temporary closures; contact ahead to confirm seasonal hours.",
+  "written_directions": "From downtown Louisa, Virginia, take VA-33 east for approximately 2-3 miles. The mine is situated on private property accessible via a marked dirt road entrance. GPS coordinates (37.9131, -77.8727) will guide you directly to the parking and digging area. Ask locally for specific turnoff if not clearly marked.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "fee",
+  "primary_category": "fee_dig",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt access road, passenger car suitable. May be washboard after rain; check current conditions with the mine.",
+  "parking_notes": "On-site parking available at the mining operation. Parking area accommodates multiple vehicles. Proximity to digging areas is short walk or direct access.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "This is a private fee-dig operation. Rockhounds may collect gemstones found within the designated mining areas after paying the required fee. The mine provides tools and screening equipment as part of the experience. Keep all gems you find within the boundaries of the digging site. Do not remove material from the property without paying for it. No commercial resale or large-scale collection permitted; for personal use only.",
+  "quantity_limits": "Keep what you find; typical daily limits determined by fee and material availability. Ask the operator about any specific weight or specimen limits.",
+  "rules": "Personal collection only, no commercial use\nRemain within designated digging areas\nUse provided tools and screening equipment properly\nNo motorized equipment unless approved by operators\nAll finds must remain within property boundaries\nFamilies welcome; children must be supervised",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": false,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material"
+  ],
+  "nearest_services": "Louisa, Virginia is approximately 2-3 miles away and offers gas, food, water, and supplies.",
+  "accessibility_notes": "Relatively flat terrain accessible to most mobility levels. No steep slopes or challenging footing required. Digging is done at ground level or slightly elevated work tables. The site is designed for family and beginner access. Sturdy footwear recommended for walking between work areas. No wheelchair-specific amenities mentioned; contact the operator about accessibility accommodations.",
+  "alternative_names": [
+    "Morefield Mine"
+  ],
+  "nearest_city": "Louisa",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/virginia/morefield-gem-mine-va/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Morefield Gem Mine in Virginia?",
+      "answer": "The primary gems found at Morefield are beryl (including pale blue aquamarine), pink and green tourmaline, almandine garnet, and quartz. Visitors typically screen pre-dig material to extract clean crystal specimens. The mine's output varies seasonally; ask operators which gems are most abundant during your visit."
+    },
+    {
+      "question": "How much does it cost to rockhound at Morefield Gem Mine?",
+      "answer": "Morefield is a fee-dig operation near Louisa, Virginia. The exact fee varies by the amount of material you want to screen and dig. Contact the mine directly for current pricing on buckets of ore, digging access, and any equipment rental. Most fee digs in Virginia charge between 20-50 dollars per person or per bucket."
+    },
+    {
+      "question": "Is Morefield Gem Mine beginner friendly and good for families?",
+      "answer": "Yes, Morefield is highly beginner and family friendly. The flat piedmont terrain requires no hiking, tools and screening equipment are provided, and staff offer guidance on gem identification. Children as young as six can participate with supervision. It is an ideal introduction to hands-on gemstone collecting without the challenges of backcountry prospecting."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Morefield Gem Mine?",
+      "answer": "The best season is May through October when weather is pleasant and the mine typically maintains full operating hours. Virginia's warm, humid summers and milder spring and fall temperatures are all suitable for all-day digging. Winter hours may be reduced; always call ahead to confirm seasonal availability."
+    },
+    {
+      "question": "Do I need a permit to dig at Morefield Gem Mine in Louisa County?",
+      "answer": "No permit is required. Morefield is a private fee-dig operation where you simply pay the daily fee to access the mining area. The operators handle all regulatory compliance. This makes it the easiest way to collect Virginia gemstones without dealing with public land rules or paperwork."
+    },
+    {
+      "question": "What tools and equipment do I need to bring to Morefield Gem Mine?",
+      "answer": "The mine provides basic tools and screening equipment, so you do not need to bring specialized gear. Wear sturdy shoes for walking on gravel and a hat for sun protection. Bring water, snacks, and sunscreen for a comfortable day of digging. A small field bag or bucket for keeping your finds is helpful. Ask the operators what tools they provide on the day you visit."
+    }
+  ],
+  "meta_title": "Morefield Gem Mine Virginia - Beryl Rockhounding",
+  "meta_description": "Fee-dig gemstone mine in Louisa County, Virginia. Find beryl, tourmaline, and garnet. Family-friendly. Contact for current hours and pricing.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "fee_amount",
+    "parking_notes",
+    "road_conditions",
+    "family_friendly",
+    "commercial_use_allowed"
+  ],
+  "enriched_at": "2026-04-21T19:17:40.121Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:23:13.043Z"
+}

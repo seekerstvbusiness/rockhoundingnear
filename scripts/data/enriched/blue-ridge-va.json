@@ -1,0 +1,99 @@
+{
+  "slug": "blue-ridge-va",
+  "name": "Blue Ridge",
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "city": "Roanoke",
+  "city_slug": "roanoke",
+  "county": "Roanoke",
+  "county_slug": "roanoke",
+  "lat": 37.174926,
+  "lng": -79.952283,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Rockhound the gentle slopes of the Blue Ridge foothills near Roanoke, where Precambrian metamorphic rocks yield quartz, feldspar, and mica specimens. Accessible hiking terrain makes this a rewardin...",
+  "description": "Blue Ridge near Roanoke County offers rockhounders access to some of Virginia's most scenic and geologically rich terrain. This location sits within the heart of the Blue Ridge Mountains, a Precambrian metamorphic province where ancient rocks have been uplifted and exposed through millions of years of erosion. The gentle slopes and moderate elevation around 1,000 feet create an ideal environment for surface collecting without extreme elevation changes.\n\nThe primary minerals found here include quartz, feldspar, and mica - all products of the metamorphic processes that shaped the Blue Ridge during the Appalachian orogeny roughly 300 million years ago. Quartz appears in various forms, from white milky varieties to smoky specimens, while feldspar can be found as colorful pink and white crystals. Mica sheets, particularly muscovite, are common in the weathered metamorphic outcrops and hillside exposures.\n\nThis area is popular with beginner and intermediate rockhounds because the rocks are relatively accessible and the terrain is forgiving. You will find specimens weathering out of hillsides, in small washes, and along old road cuts. The Blue Ridge area around Roanoke has a long history of casual collecting, and the gentle landscape means you can spend hours exploring without requiring specialized gear or mountaineering skills.\n\nThe locality is ideal for those learning to identify metamorphic minerals and understand how pressure and heat transform original rock compositions. Family groups and school field trips frequently visit the general region, and the proximity to Roanoke means you can combine a rockhounding trip with access to town services and accommodations.\n\nBring sturdy hiking boots and a basic collection kit - a hand lens, small pick hammer, and collection bag are sufficient for most collecting here. The terrain encourages thorough searching of exposed banks and old weathering surfaces where minerals have naturally separated from their host rock.",
+  "history": "The Blue Ridge in Roanoke County is part of the greater Appalachian Mountains, which formed during the Alleghenian orogeny when North America collided with Africa around 300 million years ago. This immense collision metamorphosed Precambrian basement rocks and deposited thick sequences of sediments, creating the quartz-feldspar-mica mineral assemblages now exposed throughout the foothills. Centuries of weathering and erosion along the Blue Ridge have continuously exposed fresh mineral specimens, making this area a consistent source for amateur collectors.",
+  "tips": "Search along hillside exposures and natural weathering faces where metamorphic rocks are fresh and minerals stand out - look for shiny feldspar crystals (pink or white), translucent quartz chunks, and reflective mica sheets. Bring a hand lens to identify minerals in place before collecting; the Blue Ridge rocks weather in layers, so specimens often separate naturally along mica sheets and quartz veins. Focus your search after rain or seasonal erosion events when new material is exposed. Avoid collecting from active road cuts or private property - stick to clearly public areas and natural exposures away from residential zones.",
+  "terrain_notes": "Elevation approximately 1,000 feet with gentle to moderate slopes suitable for most hikers. Terrain is typical Appalachian piedmont with mixed hardwood forest cover, rocky outcrops, and exposed weathered metamorphic bedrock. Walking distance from parking to collecting areas varies from immediate roadside access to 1-2 miles of light hiking. Footing is generally stable on dry days, but rocky surfaces require sturdy footwear; wet conditions can make slopes slippery. No major obstacles, though loose rock and tree roots are common hazards.",
+  "best_season": "April - June, September - November. Spring and fall offer comfortable temperatures, moderate humidity, and clear visibility of rock outcrops. Summer heat and humidity can be oppressive, while winter snow and ice make footing treacherous on slopes.",
+  "written_directions": "From downtown Roanoke, take US 220 south toward Blacksburg for approximately 8 miles. Look for Blue Ridge scenic overlook pullouts and parking areas along the highway. Alternatively, from Roanoke take VA 779 east toward Bent Mountain - the Blue Ridge foothills line both sides of this route with accessible roadside exposures and small parking areas. GPS coordinates (37.174926, -79.952283) mark a central collecting area accessible by passenger vehicle. Turn onto local forest service roads or pull into marked overlook areas where parking is available.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved US 220 and VA 779 provide primary access. Secondary roads are unpaved but well-maintained. Clearance is not an issue for standard vehicles, though high-clearance is helpful for exploring old logging roads deeper in the foothills.",
+  "parking_notes": "Multiple scenic overlook pullouts along US 220 and VA 779 with 4-10 parking spaces each. No formal parking lots, but roadside parking is widespread and accommodates passenger vehicles. Parking is free.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Collect on public lands and clearly non-private property. No commercial collection. Respect private property boundaries - do not trespass or collect from clearly marked private land. Virginia state law permits recreational mineral collecting on public lands and national forest areas; check specific regulations for any protected areas. Do not disturb vegetation beyond what is necessary for specimen collection. Leave no trash.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nNo commercial collection\nRespect private property boundaries\nDo not trespass\nLeave no trash\nMinimize disturbance to vegetation",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "cliffs",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Roanoke, approximately 8-12 miles. Full amenities including gas, restaurants, lodging, and grocery stores.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers with basic fitness. No wheelchair access to most collecting areas, though roadside pullout locations offer some accessible viewing and light surface collecting. Sturdy footwear strongly recommended due to rocky ground and tree roots. No facilities at collecting sites - nearest restrooms and water in Roanoke.",
+  "alternative_names": [],
+  "nearest_city": "Roanoke",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/virginia/blue-ridge-va/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/virginia/blue-ridge-va/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/virginia/blue-ridge-va/mineral-2-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find rockhounding at Blue Ridge near Roanoke?",
+      "answer": "Blue Ridge yields primarily quartz (white, milky, and smoky varieties), feldspar (pink and white crystals), and mica sheets from metamorphic rocks. These minerals formed during the Appalachian mountain-building event and weather out of hillside exposures throughout the foothills. Amateur collectors also find occasional small garnets and other metamorphic minerals mixed into the quartz-feldspar assemblages."
+    },
+    {
+      "question": "Is rockhounding at Blue Ridge near Roanoke free and do I need a permit?",
+      "answer": "Yes, rockhounding at Blue Ridge is completely free with no permit required for personal use collecting on public lands. Virginia permits recreational mineral collection on national forest and public property. Simply show up with your tools, park at a scenic overlook pullout, and begin collecting. Always check that you are not on clearly marked private property."
+    },
+    {
+      "question": "How far is Blue Ridge rockhounding from Roanoke, Virginia and what is the drive like?",
+      "answer": "Blue Ridge is approximately 8-12 miles south of downtown Roanoke via US 220 or east via VA 779 toward Bent Mountain. The drive takes 15-20 minutes on paved highways. Access is straightforward for passenger vehicles with no high-clearance requirements for main scenic areas. Multiple pullout parking areas line the highways making it convenient for casual day trips."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Blue Ridge in Virginia?",
+      "answer": "April through June and September through November offer the best collecting conditions. Spring and fall provide comfortable temperatures, moderate humidity, and good visibility of mineral specimens. Summer heat and humidity can be oppressive in this region, while winter snow and ice make the slopes slippery and hazardous for safe collecting."
+    },
+    {
+      "question": "Is Blue Ridge near Roanoke suitable for beginner rockhounders and families with children?",
+      "answer": "Yes, Blue Ridge is an excellent beginner and family-friendly location. The gentle slopes, accessible terrain, and easy parking make it ideal for children ages 6 and up. No specialized climbing or backcountry skills are required. Roadside exposures and weathered hillsides yield specimens naturally, and the abundance of quartz and feldspar makes successful finds likely for everyone."
+    },
+    {
+      "question": "What rockhounding tools and techniques should I use to find minerals at Blue Ridge?",
+      "answer": "Bring a hand lens, small pick hammer, and a collection bag - these basics are sufficient for Blue Ridge collecting. Search along natural weathering faces and hillside exposures where metamorphic rocks expose fresh minerals. Look for shiny white or pink feldspar crystals, translucent quartz chunks, and reflective mica sheets. Many specimens separate naturally along mica layers, so gentle prying often yields complete pieces without requiring heavy hammering."
+    }
+  ],
+  "meta_title": "Blue Ridge Rockhounding - Virginia",
+  "meta_description": "Find quartz, feldspar, and mica at Blue Ridge near Roanoke. Free public rockhounding on gentle Appalachian foothills terrain. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category - inferred as 'other' due to unknown land type; verify if BLM, national forest, or state property",
+    "parking_notes - inferred based on typical Blue Ridge access; verify specific parking availability",
+    "written_directions - constructed from general Blue Ridge geography; verify exact road names and distances",
+    "cell_service - estimated as 'spotty' based on rural mountain location; verify with field testing"
+  ],
+  "enriched_at": "2026-04-21T19:15:49.862Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:19:09.629Z"
+}

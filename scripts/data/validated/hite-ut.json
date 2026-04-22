@@ -1,0 +1,98 @@
+{
+  "slug": "hite-ut",
+  "name": "Hite",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Garfield County",
+  "city_slug": "garfield-county",
+  "county": "Garfield",
+  "county_slug": "garfield",
+  "lat": 37.85959,
+  "lng": -110.40438,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land near Lake Powell offering agate, jasper, and chalcedony in scenic high desert terrain. Free rockhounding with 25 lb daily limit.",
+  "description": "Hite is a remote BLM location in southeastern Utah near the Glen Canyon National Recreation Area, situated in the heart of the Colorado Plateau. This high desert site offers excellent opportunities for collecting colorful agates, jasper varieties, and chalcedony specimens weathered from Precambrian and Paleozoic rock formations. The landscape is typical of the Utah badlands - sparse vegetation, exposed red and tan sedimentary layers, and numerous washes where collected material naturally concentrates. Access is free and requires no permit for personal use collecting. The area remains lightly visited compared to fee dig sites, making it ideal for rockhounders seeking solitude and authentic field experience.\n\nThe geology here reflects the complex uplift and erosion of the Colorado Plateau. Quartzite nodules, agate seams, and jasper occur throughout weathered Precambrian basement rocks and overlying Paleozoic sedimentary units. Most productive collecting occurs in dry washes and along eroded hillsides where water and wind have exposed and sorted material over millennia. Colors range from pale cream and white to rich reds, browns, and occasionally banded patterns.\n\nHite itself is a small, historic river access point on the Colorado River with minimal services. Most visitors park near the old settlement area and explore the surrounding washes and ridges on foot. The terrain is rugged but not technical, and collectors of all experience levels can find material. Water is extremely limited in the area, so bring adequate supplies.",
+  "history": "The Hite area sits within the Colorado Plateau province, where Precambrian metamorphic rocks (quartzite, schist, and gneiss) were buried and exposed by the region's complex Mesozoic uplift and Cenozoic erosion. Agate and chalcedony formed from silica-rich hydrothermal fluids and weathering of these ancient basement rocks during the Tertiary and Quaternary periods. The Colorado River's continuous incision exposed these mineral-bearing layers, and modern erosion concentrates specimens in accessible washes.",
+  "tips": "Search actively in dry washes and sandy areas where recent flooding has exposed fresh material - agates and jasper often catch light when partially buried. Look for color variation and translucence; hold specimens up to sunlight to identify banding and chalcedony quality. Bring a 5-gallon bucket or backpack and plan to spend 4-6 hours searching to maximize your 25 lb daily limit. The best material is typically found within 1-2 miles of the Hite parking area along the first few major wash systems; resist the urge to hike miles into marginal terrain.",
+  "terrain_notes": "Elevation approximately 3,600 feet in a high desert setting. Terrain is characterized by slickrock, loose scree, sandy washes, and sparse vegetation (Mormon tea, creosote, yucca). Walking distances from parking average 0.5 to 2 miles to productive zones. Footing is uneven with exposed rock and loose talus; sturdy hiking boots are essential. No water or shade available on site.",
+  "best_season": "October - April. The high desert location experiences extreme heat (100+ F) in summer months, making midday collecting dangerous. Winter brings occasional snow but is manageable on most days. Spring and fall offer ideal temperatures, lower UV exposure, and typically clearer visibility of material in washes.",
+  "written_directions": "From Hite, Utah (accessed via Utah SR 276 from Natural Bridges area), drive to the Hite settlement parking area near the Colorado River boat launch. This is the main access point. From Monticello (approximately 60 miles northeast), take US 191 south, then SR 276 west toward Natural Bridges National Monument, continuing to Hite. The final 20 miles are on unimproved but passable BLM roads. High-clearance vehicles are recommended for the final approach, especially after rain. GPS coordinates 37.85959, -110.40438 mark the Hite parking vicinity.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Final approach via BLM roads is unimproved dirt with potential washboard texture. High-clearance recommended. Passable year-round in dry conditions but may be impassable after heavy rain.",
+  "parking_notes": "Small unimproved parking area at Hite settlement near Colorado River boat launch. Limited capacity (approximately 10-15 vehicles). No facilities. Shaded parking unavailable.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or heavy equipment. All collected material must be for personal, non-commercial use. Respect natural and archaeological features - do not disturb artifacts or disturb sites of cultural significance.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs maximum per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nRespect archaeological resources\nLeave no trace - remove all trash",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Monticello, Utah approximately 60 miles northeast. Limited services (gas, food, water) available. No services at Hite itself. Bring all water and supplies needed.",
+  "accessibility_notes": "Uneven rocky terrain with no wheelchair access. Requires walking on slickrock, loose scree, and through washes. Sturdy hiking boots mandatory. Terrain is moderately strenuous but non-technical; experienced hikers and fit beginners can manage. Limited water and shade make this challenging in summer. Not suitable for visitors with limited mobility or young children unable to handle 2+ miles of uneven terrain.",
+  "alternative_names": [
+    "Hite Cove"
+  ],
+  "nearest_city": "Monticello",
+  "nearest_city_distance": 60,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/hite-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can you find rockhounding near Hite, Utah?",
+      "answer": "Hite offers colorful banded agates, red and brown jasper, and chalcedony specimens. The agate typically shows cream, white, rust, and tan banding. Many pieces are translucent and polish well. Jasper ranges from solid reds to mottled patterns. Most specimens are 1-4 inches, though larger pieces are occasionally found."
+    },
+    {
+      "question": "Is rockhounding at Hite free and do you need a permit?",
+      "answer": "Yes, Hite is free public BLM land requiring no permit for personal use rockhounding. You can collect up to 25 lbs per day at no cost. It is one of Utah's most affordable rockhounding locations for serious collectors."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Hite, Utah?",
+      "answer": "October through April is ideal. Summer temperatures exceed 100 F and make collecting dangerous. Fall and spring offer perfect temperatures, lower UV, and clearer visibility of material in washes. Winter is accessible on most days despite occasional snow."
+    },
+    {
+      "question": "How do you get to Hite rockhounding area and what vehicle is needed?",
+      "answer": "Hite is accessed via Utah SR 276 from Natural Bridges area. From Monticello (60 miles), take US 191 south, then SR 276 west. The final 20 miles are unimproved BLM roads. High-clearance or all-wheel-drive vehicle is recommended. Roads may be impassable after heavy rain."
+    },
+    {
+      "question": "Is Hite rockhounding suitable for beginners and families?",
+      "answer": "Yes, Hite is beginner-friendly with material accessible in washes near the parking area. Kids 8+ can participate with adult supervision. However, the remote high desert location, lack of water and services, and moderate hiking make it best suited for families with outdoor experience. Plan for 4-6 hours and bring ample water."
+    },
+    {
+      "question": "What should you bring rockhounding for agate at Hite, Utah?",
+      "answer": "Bring 2-3 gallons of water per person (no water on site), sturdy hiking boots, sun protection, a backpack or 5-gallon bucket for specimens, a small hand trowel or chisel for breaking material loose, and a headlamp if staying late. Cell service is nonexistent, so inform someone of your plans and bring a satellite communicator if possible."
+    }
+  ],
+  "meta_title": "Hite Rockhounding - Free Utah BLM Agate & Jasper",
+  "meta_description": "Rockhound free BLM land at Hite, Utah. Find agate, jasper, and chalcedony with 25 lb daily limit. No permit needed. Remote high desert collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "family_friendly"
+  ],
+  "enriched_at": "2026-04-22T06:49:44.476Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:56:05.169Z"
+}

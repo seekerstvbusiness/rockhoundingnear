@@ -1,0 +1,96 @@
+{
+  "slug": "sunflower-flat-or",
+  "name": "Sunflower Flat",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Wasco County Area",
+  "city_slug": "wasco-county",
+  "county": "Wasco",
+  "county_slug": "wasco",
+  "lat": 45.074587,
+  "lng": -121.402977,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Obsidian"
+  ],
+  "short_description": "BLM public land near Wasco offering agate, jasper, and chalcedony collecting on flat terrain. Free rockhounding with 25 lb daily limit.",
+  "description": "Sunflower Flat is a productive BLM rockhounding area in north-central Oregon's Wasco County, situated at 2,718 feet elevation on relatively flat terrain ideal for collectors of all skill levels. The site yields quality agate, jasper, and chalcedony specimens typical of the Cascade Range foothills, where Miocene-era volcanic activity and subsequent weathering have exposed colorful silica-rich deposits across the surface and in shallow washes.\n\nThe flat topography and accessible collecting make Sunflower Flat a popular destination for both beginners and experienced rockhounders. Specimens are typically found scattered across the ground surface and in small drainages, with the best material appearing after seasonal weathering exposes fresh fragments. The area's geology reflects the ancient volcanic hotspot that created the High Cascades, with rhyolitic lavas and tuffs weathering to reveal trapped gemstone pockets.\n\nAs BLM public land, Sunflower Flat operates under standard recreational use guidelines: no permit required, free access, and personal collection only. The 25 lb per day limit encourages sustainable gathering while allowing rockhounders to take home a meaningful collection. Spring and fall offer the most comfortable collecting conditions, with moderate temperatures and lower wildfire smoke impacts. Summer heat and occasional winter snow can make access less pleasant, though winter cold does improve ground visibility.\n\nExpect to spend 2-4 hours exploring the flat, using simple tools like a small hammer, chisel, and bucket. Many collectors find their best specimens within the first hour of searching, as the flat terrain allows systematic coverage without fatigue. Bring water, sun protection, and a map or GPS device to ensure you stay oriented on public land.",
+  "history": "Sunflower Flat sits within the Cascade Range volcanic province where Miocene-era volcanism (roughly 25-5 million years ago) deposited extensive rhyolitic lavas and pyroclastic materials. Subsequent hydrothermal activity and groundwater percolation filled fractures and cavities with silica-rich fluids, which cooled to form the agate, chalcedony, and jasper deposits found at surface today. This area has been recognized by rockhounders since the mid-20th century as a reliable source of quality gemstone material.",
+  "tips": "Search the flat ground surface and shallow erosional washes where weathering continuously exposes new material - the best specimens often appear after seasonal rain. Use a hand lens to identify chalcedony's waxy luster and distinguish it from common quartz; look for translucent or banded specimens rather than opaque white pieces. Focus on areas where volcanic rock fragments congregate in low spots and wash banks, as these traps concentrate lighter gemstone material. Bring a 5-gallon bucket and small shovel to sift loose soil in promising spots, as many quality pieces lie just below the surface in areas of visible weathering.",
+  "terrain_notes": "Flat to gently rolling terrain at 2,718 feet elevation with sparse high-desert vegetation typical of the Cascade foothills. Walking is easy across open ground with minimal obstacles, though loose volcanic rock scattered across the surface requires sturdy footwear. Parking pullouts provide access to vast collecting areas within 100-300 feet of vehicles. Visibility is excellent due to sparse vegetation, making systematic surface hunting effective.",
+  "best_season": "April - June and September - November. Spring and fall offer ideal temperatures for extended fieldwork, low wildfire smoke, and excellent ground visibility. Summer heat (80-90F) limits comfortable collection hours, while winter snow can block access. Late spring and early fall are peak seasons when weather is most stable.",
+  "written_directions": "From The Dalles (nearest town with full services), take US 197 south toward Tygh Valley for approximately 18 miles. Turn east onto paved Forest Service Road or county road toward Wasco County BLM lands (GPS will guide final approach to 45.074587, -121.402977). Look for informal pullouts on the east side of the road near the flat area. The access road is passable in passenger vehicles most of the year, though high-clearance is helpful after wet weather.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved or improved dirt access road. High-clearance helpful in wet conditions but not required. Road is maintained seasonally; may be rough or muddy in spring.",
+  "parking_notes": "Informal pullouts along the access road. No developed parking lot. Parking for 3-5 vehicles typical, with additional pullouts nearby.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. Collect from surface and shallow material only. Pack out all trash. Stay on public BLM land and respect any posted closure areas.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nSurface and shallow collection only\nPack out all trash\nStay on public BLM land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "The Dalles, Oregon - approximately 20 miles north. Full services including gas, food, lodging, and supplies available. Tygh Valley (smaller town) approximately 8 miles south with limited services.",
+  "accessibility_notes": "Flat terrain accessible to most hikers and families. Informal pullout parking with minimal walk to collecting areas (usually 50-200 feet). Loose volcanic rock requires sturdy footwear but terrain is not steep. Suitable for children 6 and up with adult supervision. Not wheelchair accessible due to uneven ground and informal parking.",
+  "alternative_names": [],
+  "nearest_city": "The Dalles",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/sunflower-flat-or/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Sunflower Flat in Oregon?",
+      "answer": "Sunflower Flat is known for agate, jasper, and chalcedony specimens. The area yields both banded and solid-colored pieces, with agate being the most prized find. Chalcedony is abundant and easier for beginners to identify. Occasional obsidian fragments also appear in the volcanic soils of this Cascade Range location."
+    },
+    {
+      "question": "Is there a permit required to rockhound at Sunflower Flat near Wasco County?",
+      "answer": "No permit is required for recreational rockhounding at Sunflower Flat. As BLM public land in Oregon, it is open to free personal use collection. However, you must follow the 25 lb per day limit and leave all motorized equipment at home. Commercial collecting is not permitted."
+    },
+    {
+      "question": "How much can I collect per day at Sunflower Flat?",
+      "answer": "The Federal Land Policy and Management Act (FLPMA) limits personal collection to 25 lbs per day at Sunflower Flat. This generous limit allows you to gather a meaningful collection of agate, jasper, and chalcedony without needing to pack heavy equipment. Most rockhounders find high-quality specimens within this weight limit."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Wasco County?",
+      "answer": "April through June and September through November are ideal for Sunflower Flat. These seasons offer comfortable temperatures, low wildfire smoke, and excellent visibility for spotting specimens. Summer can bring 80-90 degree heat that limits fieldwork hours, while winter snow occasionally blocks access to the area."
+    },
+    {
+      "question": "Is Sunflower Flat a good rockhounding site for beginners and families?",
+      "answer": "Yes, Sunflower Flat is excellent for beginners and families. The flat terrain requires minimal hiking, specimens are readily visible on the surface, and no special permits or fees apply. Children ages 6 and up can participate comfortably. Bring sun protection and water, and plan 2-4 hours of collection time for a rewarding outing."
+    },
+    {
+      "question": "What tools and supplies should I bring to rockhound at Sunflower Flat?",
+      "answer": "Bring a hand lens to identify chalcedony and agate, a small hammer and chisel for extracting specimens, a 5-gallon bucket, and sturdy hiking boots due to loose volcanic rock. Sun protection, water (at least 1-2 liters), and a GPS device or map are essential. A sifter or small shovel helps you search shallow soil areas where quality pieces hide just below the surface."
+    }
+  ],
+  "meta_title": "Sunflower Flat Rockhounding - Oregon Agate & Jasper",
+  "meta_description": "Free BLM rockhounding at Sunflower Flat, Oregon. Find agate, jasper, and chalcedony on flat terrain. No permit needed, 25 lb daily limit. Family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - road name inferred from region; verify exact Forest Service road designation",
+    "nearest_city_distance - estimated from GPS; verify actual driving distance",
+    "cell_service - estimated as spotty for remote BLM land; local carrier coverage may vary"
+  ],
+  "enriched_at": "2026-04-21T18:52:16.565Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:53:42.391Z"
+}

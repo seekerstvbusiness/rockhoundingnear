@@ -1,0 +1,95 @@
+{
+  "slug": "herkimer-diamond-mines-general-ny",
+  "name": "Herkimer Diamond Mines (general)",
+  "state": "New York",
+  "state_slug": "new-york",
+  "city": "Village of Herkimer",
+  "city_slug": "village-of-herkimer",
+  "county": "Herkimer",
+  "county_slug": "herkimer",
+  "lat": 43.02,
+  "lng": -74.97,
+  "gem_types": [
+    "Quartz",
+    "Diamond"
+  ],
+  "short_description": "Home to famous Herkimer diamonds - brilliant double-terminated quartz crystals found in Ordovician dolomite. A historic rockhounding destination with public and private collecting opportunities.",
+  "description": "The Herkimer area in upstate New York is world-renowned for its exceptional Herkimer diamonds, a unique form of double-terminated quartz crystal that has been sought by collectors for over 200 years. These are not true diamonds but rather brilliant, faceted quartz crystals that form naturally within cavities in ancient dolomite rock. The region around the Village of Herkimer offers multiple collecting opportunities, ranging from fee-dig operations to informal public access areas on private land with permission.\n\nGeologically, Herkimer diamonds formed within the Lower Ordovician Little Falls Formation, a dolomite unit deposited approximately 480 million years ago when this region was covered by a shallow inland sea. As the dolomite was subjected to diagenesis and low-grade metamorphism, silica-rich fluids filled small cavities and vugs within the rock, crystallizing into the perfect six-sided quartz crystals that characterize the area. The exceptional clarity and natural faceting of Herkimer diamonds is due to the specific chemistry and crystal growth conditions in these dolomite pockets.\n\nCollecting Herkimer diamonds typically involves carefully breaking apart dolomite matrix rock or accessing pre-dug cavities at fee dig sites. The crystals can range from microscopic specks to specimens several inches long, though most collected pieces are under two inches. Many specimens display exceptional clarity and well-defined termination points, making them highly prized by mineral collectors worldwide.\n\nThis location encompasses both commercial fee-dig operations and informal collecting areas. The terrain is rolling Mohawk Valley landscape with relatively gentle slopes, making it accessible to most ages and fitness levels. The area has a strong rockhounding culture and excellent local knowledge is readily available from established mining operations and local clubs.",
+  "history": "Herkimer diamonds have been collected since the 1700s and gained international prominence in the 1800s as miners extracted dolomite for industrial use and discovered the spectacular crystals within. The geological formation of these crystals dates back 480 million years to the Ordovician Period when dolomite was deposited in a shallow inland sea; subsequent diagenesis and low-grade metamorphism created the silica-rich conditions that produced the double-terminated quartz crystals found nowhere else on Earth.",
+  "tips": "Search the dolomite matrix carefully by breaking apart samples at the edges of worked areas or fee dig sites - crystals are often found in small cavities filled with clay or sediment that must be gently cleaned away. Use a small chisel, cold chisel, or flathead screwdriver to carefully work along natural fracture planes in the dolomite - forcing crystals directly from rock often breaks them. Look for small open cavities or pockets in the tan and gray dolomite; crystals inside may be coated with clay that can be cleaned with water and a soft brush after collection. The clearest and most brilliant specimens come from dolomite exposed to recent weathering or actively worked areas where new cavities are exposed.",
+  "terrain_notes": "Gentle rolling terrain at 375 feet elevation in the Mohawk Valley. Dolomite outcrops and worked areas typically feature uneven rocky ground with exposed dolomite matrix, small ledges, and loose rock fragments. Walking is easy to moderate on natural terrain. Most fee dig sites provide prepared work areas with crushed dolomite or pre-dug cavities for easier access. Footwear should be sturdy to protect against sharp dolomite edges.",
+  "best_season": "May - October. Late spring through early fall offers the best weather for outdoor rockhounding in central New York. Summer heat is moderate (70-80F), and ground conditions are dry. Early May through June avoids peak summer crowds, while September-October provides crisp weather and excellent visibility for searching dolomite outcrops. Winter ground frost and snow make winter collecting difficult.",
+  "written_directions": "From the Village of Herkimer, head east or west on NY-5 (Main Street) to locate specific fee dig sites and informal collecting areas that border the highway. Most commercial Herkimer diamond mining operations are situated along NY-5 between Herkimer and Little Falls (approximately 5 miles east). Individual fee dig sites will have marked entrances and parking areas. For informal access, contact local rockhounding clubs or established mines for current public access locations, as private land status varies.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "fee",
+  "primary_category": "fee_dig",
+  "vehicle_required": "passenger",
+  "road_conditions": "NY-5 is a well-maintained state highway with year-round access. Roads to fee dig sites are typically paved or improved gravel. Standard passenger vehicles are adequate for all established operations.",
+  "parking_notes": "Fee dig sites maintain dedicated parking areas, typically small gravel lots with space for 10-30 vehicles depending on the operation. Parking is included with the fee. Informal collecting areas may have pullouts or small lots; check with specific operations for details.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Rules vary by location. At fee dig sites: collect what you find within the prepared area; fees typically cover daily access and tool use. On informal public access land: collect only in designated areas with permission; respect private property boundaries; remove all trash; do not commercial resell specimens collected as personal use only.",
+  "quantity_limits": null,
+  "rules": "Collect only in designated fee dig areas or with explicit private land permission\nPersonal use collection only - no commercial selling of specimens\nRemove all trash and pack out what you pack in\nRespect all private property boundaries\nFollow fee site operator instructions for tool use and collection methods",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": false,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Village of Herkimer has gas stations, restaurants, and small stores approximately 0-2 miles from most fee dig sites. Little Falls (5 miles east) offers additional services.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers and families. Fee dig sites typically prepare work areas to minimize walking on uneven ground. Some sites may have wheelchair access to prepared areas - check with individual operations. Sturdy footwear recommended due to sharp dolomite edges. No major elevation gain or technical hiking required.",
+  "alternative_names": [
+    "Herkimer quartz mines",
+    "Herkimer diamond digging"
+  ],
+  "nearest_city": "Herkimer",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-york/herkimer-diamond-mines-general-ny/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What exactly are Herkimer diamonds and are they real diamonds?",
+      "answer": "Herkimer diamonds are double-terminated quartz crystals (not true diamonds) found exclusively in the Herkimer area of New York. They formed 480 million years ago in Ordovician dolomite when silica-rich fluids crystallized in small rock cavities. Their exceptional clarity and natural six-sided points make them highly prized by mineral collectors, but they are quartz, not carbon diamonds. They rank 7 on the Mohs hardness scale versus 10 for true diamonds."
+    },
+    {
+      "question": "How much does it cost to dig for Herkimer diamonds?",
+      "answer": "Fee dig operations in Herkimer typically charge modest daily fees (generally under $20-30 per person) that include access to prepared collection areas and basic tools. You keep all crystals you find. Many sites offer family packages or multi-day passes. Some operators allow informal collecting on their property for free with permission - contact local mines directly to ask about free access areas."
+    },
+    {
+      "question": "What is the best time of year to rockhound for Herkimer diamonds?",
+      "answer": "May through October is ideal, with June through September offering the warmest and most pleasant conditions. Late spring (May-June) provides excellent collecting weather and fewer crowds than peak summer. Early fall (September-October) offers comfortable temperatures and good visibility. Winter ground conditions are poor due to frost and snow, and spring can be muddy."
+    },
+    {
+      "question": "Do I need a permit or special license to collect Herkimer diamonds?",
+      "answer": "No permit is required for fee dig sites or private land with the owner's permission. Simply pay the daily fee and collect within designated areas. There are no state permits needed for personal rockhounding in Herkimer County. Always verify access and rules with individual property owners or fee dig operations before collecting."
+    },
+    {
+      "question": "What tools and equipment do I need to find Herkimer diamonds?",
+      "answer": "Basic tools include a small cold chisel or flathead screwdriver, a small hammer or rock hammer, and a soft brush for cleaning. Many fee dig sites provide tools as part of the fee. Wear work gloves to protect against sharp dolomite edges, bring a small backpack or bag for specimens, and consider a magnifying glass to inspect crystals. Water for cleaning specimens is helpful but usually available on-site."
+    },
+    {
+      "question": "Is rockhounding for Herkimer diamonds beginner-friendly for families with children?",
+      "answer": "Yes, absolutely. Herkimer diamonds are excellent for beginners and families. Fee dig sites are specifically designed for recreational collectors of all ages and skill levels, with easy-to-access prepared work areas requiring no hiking or technical knowledge. Children as young as 6 can successfully collect crystals. The gentle terrain and straightforward collection method make it one of New York's most family-friendly rockhounding destinations."
+    }
+  ],
+  "meta_title": "Herkimer Diamonds Rockhounding - New York",
+  "meta_description": "Find Herkimer diamonds and brilliant quartz crystals in New York. Fee dig sites and private access near Herkimer Village. Family-friendly collecting since 1700s.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "fee_amount",
+    "family_friendly",
+    "specific_fee_dig_operator_names_and_current_fees"
+  ],
+  "enriched_at": "2026-04-21T18:51:18.581Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:53:28.364Z"
+}

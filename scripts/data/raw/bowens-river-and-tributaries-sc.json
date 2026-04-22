@@ -1,0 +1,60 @@
+{
+  "slug": "bowens-river-and-tributaries-sc",
+  "name": "Bowens River and tributaries",
+  "lat": 35.164563,
+  "lng": -81.578938,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "Cherokee County",
+  "city_slug": "cherokee-county",
+  "county": "Cherokee",
+  "county_slug": "cherokee",
+  "geocoded_city": "Cherokee County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bowens%20River%20and%20tributaries%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bowens%20River%20and%20tributaries",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bowens%20River%20and%20tributaries%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 631,
+      "meters": 192
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:53:48.668Z"
+  },
+  "scraped_at": "2026-04-21T17:53:48.668Z",
+  "scrape_quality": "minimal"
+}

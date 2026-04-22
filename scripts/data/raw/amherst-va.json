@@ -1,0 +1,64 @@
+{
+  "slug": "amherst-va",
+  "name": "Amherst",
+  "lat": 37.546613,
+  "lng": -79.011214,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Amherst County",
+  "city_slug": "amherst-county",
+  "county": "Amherst",
+  "county_slug": "amherst",
+  "geocoded_city": "Amherst County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Amherst%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Amherst",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Amherst%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 765,
+      "meters": 233
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Amherst",
+      "distance_mi": 3,
+      "population": 2152
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:03:33.506Z"
+  },
+  "scraped_at": "2026-04-21T19:03:33.506Z",
+  "scrape_quality": "minimal"
+}

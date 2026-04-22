@@ -1,0 +1,101 @@
+{
+  "slug": "quartz-mountain-pass-or",
+  "name": "Quartz Mountain Pass",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Quartz Mountain",
+  "city_slug": "lake-county",
+  "county": "Lake",
+  "county_slug": "lake",
+  "lat": 42.323377,
+  "lng": -120.811921,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding site near the Oregon-California border featuring quartz and agate in high-elevation terrain. Free personal-use collecting with a 25 lb daily limit.",
+  "description": "Quartz Mountain Pass sits at 5426 feet elevation in the remote high desert of Lake County, Oregon, on BLM-managed land that welcomes rockhounders. The site is known for quality quartz specimens, colorful agate nodules, and chalcedony formations scattered across gentle slopes covered in sagebrush and volcanic scrub. The terrain offers relatively accessible collecting compared to more rugged Oregon sites, making it suitable for rockhounds of varying experience levels.\n\nThis area sits within the Basin and Range province of the Pacific Northwest, where Miocene volcanic activity and subsequent silica-rich hydrothermal fluids created the quartz-rich deposits found here today. The high-elevation desert environment has exposed these minerals through millions of years of erosion and weathering. The geology reflects Oregon's complex volcanic and extensional history, with nearby calderas and ash-flow deposits contributing silica that concentrated into the nodules and crystal formations found by collectors.\n\nVisitors should expect to spend 1-2 hours walking the gentle slopes near the pass, scanning the ground and exposed volcanic outcrops for specimens. The best quartz material tends to cluster in washes and along ridge lines where erosion naturally concentrates heavier minerals. Spring and early summer offer the most comfortable temperatures and clearest visibility, though the site remains accessible through much of the year.\n\nAs an open BLM site with no fees or permits required, Quartz Mountain Pass is popular with weekend rockhounders and families. The 25 lb daily limit keeps collection sustainable while allowing meaningful collecting sessions. The remote location means you should arrive fully prepared with water, fuel, and supplies, as the nearest services are considerable distances away.",
+  "history": "This region's quartz and agate deposits formed during the Miocene epoch when intense volcanic activity and associated hydrothermal systems introduced silica-rich solutions into fractures and cavities in volcanic host rock. The Basin and Range extension that followed created the high-altitude desert terrain visible today, exposing these mineral deposits through natural erosion.",
+  "tips": "Focus your search on drainage washes and the base of exposed volcanic outcrops where heavier quartz nodules accumulate naturally. Look for smooth, translucent to milky white quartz specimens ranging from thumbnail to fist size, often with a glassy luster; agate appears as banded or solid-colored nodules in reds, browns, and whites. Bring a rock hammer or chisel to extract specimens cleanly from the surrounding host rock without damaging them. Morning light at this elevation creates excellent viewing conditions for spotting specimens across the light-colored volcanic ash and scree.",
+  "terrain_notes": "Elevation 5426 feet with gentle rolling slopes characteristic of high-desert sage steppe. Volcanic ash and decomposed scree create loose, shifting footing in many areas. Vegetation is sparse sagebrush and low shrubs with occasional juniper. Typical walking distances from parking are 0.5 to 2 miles depending on your preferred collecting areas. The terrain is open with minimal obstacles, but footing requires steady pace and appropriate footwear.",
+  "best_season": "May - October. High elevation (5400+ ft) means winter and early spring bring snow and mud that make access difficult. Late spring through early fall provides optimal conditions: temperatures 50-75F in morning and afternoon, good visibility, and passable roads. October offers cooler temperatures and fewer insects but shorter daylight.",
+  "written_directions": "From Lakeview (nearest town with services, approximately 35 miles south), take US 395 north for about 30 miles toward the Oregon-California border. At the small community of Quartz Mountain, turn east on Forest Road 3715 (or local access road as signed) and follow approximately 5 miles on improved dirt road to Quartz Mountain Pass trailhead parking area. The road is passable for passenger vehicles in dry conditions but becomes muddy and impassable after heavy rain or winter weather. Look for BLM signage marking public collection areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt road, passable for passenger vehicles in dry conditions. May become impassable after heavy rain or spring snowmelt. No high-clearance or 4WD required under normal conditions, but check local conditions before traveling.",
+  "parking_notes": "Dispersed parking area near the pass. Space for several vehicles at trailhead. No designated lot or facilities. Arrive early during peak season (June-August) for best parking availability.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection allowed. No motorized excavation or heavy equipment. Collect only from the surface and exposed outcrops; do not dig into cliff faces or created excavations. All rock collected must be removed from the site; do not leave waste or discarded material.",
+  "quantity_limits": "25 lbs per day per FLPMA personal use regulations",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nCollect surface material and exposed outcrops only\nRemove all collected material; leave no waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Lakeview, Oregon (approximately 35 miles south) has gas, food, lodging, and supplies. Summer Lake (smaller community, approximately 40 miles northwest) offers limited services. Plan accordingly and arrive with full fuel tank and adequate water and food.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers with normal fitness. Loose volcanic ash and scree can shift underfoot, requiring steady pace and sturdy footwear with good ankle support. No wheelchair access. Parking area is at trailhead; most collecting done within 0.5-2 miles walking distance. Not recommended for visitors with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Lakeview",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/quartz-mountain-pass-or/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Quartz Mountain Pass?",
+      "answer": "Quartz Mountain Pass is named for its abundant quartz specimens, particularly clear and milky white crystals and nodules. You'll also find quality agate nodules in reds, browns, and whites, along with chalcedony and jasper formations. Most specimens are thumbnail to fist-sized, making them ideal for collections."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Quartz Mountain Pass, Oregon?",
+      "answer": "No permit is required. Quartz Mountain Pass is BLM public land open for recreational rockhounding under FLPMA regulations. You may collect personal-use material free of charge, but you're limited to 25 lbs per day and cannot engage in commercial collection."
+    },
+    {
+      "question": "How far is Quartz Mountain Pass from Lakeview, and what are road conditions?",
+      "answer": "Quartz Mountain Pass is approximately 35 miles north of Lakeview via US 395. Access is via improved dirt road that is passable for passenger vehicles in dry conditions. After heavy rain or snowmelt, roads may become muddy and impassable. Check local conditions before traveling, especially in spring and after storms."
+    },
+    {
+      "question": "What's the best time of year to rockhound at Quartz Mountain Pass?",
+      "answer": "May through October is ideal. The site sits at 5426 feet elevation, so winter and early spring bring snow and mud that block access. Late spring through early fall offers the best temperatures (50-75F), visibility, and passable roads. October provides cooler weather and fewer insects but shorter daylight hours."
+    },
+    {
+      "question": "Is Quartz Mountain Pass good for beginning rockhounds and families?",
+      "answer": "Yes, absolutely. The terrain is gentle and open with minimal obstacles, making it accessible for families with children age 6 and up. The variety of specimens available means even beginners will find quality material. No special tools are required, though a rock hammer helps extract specimens cleanly from surrounding rock."
+    },
+    {
+      "question": "What tools and supplies should I bring to rockhound at Quartz Mountain Pass?",
+      "answer": "Bring sturdy hiking boots with good ankle support (volcanic ash creates loose footing), a rock hammer or chisel for specimen extraction, a daypack, plenty of water (at least 2-3 liters), sunscreen, and a hat. The site is remote, so pack food and ensure your vehicle has a full fuel tank. A GPS device or map is recommended for route planning."
+    }
+  ],
+  "meta_title": "Quartz Mountain Pass Rockhounding - Oregon",
+  "meta_description": "Find quartz, agate, and chalcedony at Quartz Mountain Pass, Oregon. Free BLM rockhounding, no permit required. 25 lb daily limit. Beginner friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - specific road numbers inferred from GPS and Oregon geography; actual Forest Road designations should be verified with BLM",
+    "nearest_city_distance - estimated at 35 miles; precise distance should be confirmed",
+    "cell_service - marked spotty based on remote high-elevation location; actual coverage varies by carrier",
+    "parking_notes - described as dispersed parking based on typical BLM pass management; specific lot details should be verified locally",
+    "road_conditions - described as improved dirt road based on general access patterns; current conditions should be checked with BLM or local ranger district"
+  ],
+  "enriched_at": "2026-04-21T18:52:43.902Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:54:15.188Z"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "mineral-hill-nv",
+  "name": "Mineral Hill",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Eureka",
+  "city_slug": "eureka",
+  "county": "Eureka",
+  "county_slug": "eureka",
+  "lat": 39.491405,
+  "lng": -115.985764,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Tourmaline"
+  ],
+  "short_description": "High-elevation BLM rockhounding site in central Nevada known for quartz crystals, feldspar, and mica in metamorphic formations. Free public collecting with 25 lb daily limits.",
+  "description": "Mineral Hill sits at 7,462 feet elevation in the Toiyabe Range of central Nevada, offering rockhounds access to a mineral-rich area on public BLM land. The site features gentle terrain suitable for collectors of various skill levels seeking quartz specimens, feldspars, and mica minerals typical of the Great Basin's metamorphic basement rocks. The location's high elevation and exposed geological formations make it an ideal destination for understanding Nevada's mineral diversity and Precambrian geology.\n\nThe geology here reflects Precambrian metamorphic rocks that were uplifted during the Basin and Range extension that began in the Eocene epoch. These ancient metamorphic complexes contain abundant feldspar, quartz, and mica minerals formed under regional metamorphism. The gentle slopes and exposed hillsides provide excellent surface exposure where weathering has loosened mineral specimens from the host rock, making collection accessible without heavy excavation.\n\nThe terrain offers a mix of exposed hillside collecting and wash-bottom exploration. Most collectors find specimens on the surface or within loose material on the gentle slopes. The site is accessible to hikers of moderate fitness, with no extreme climbing required. Late spring through early fall weather is most favorable, though the high elevation means temperatures remain cool even in summer months.\n\nBring appropriate water supply, as this high-altitude desert location offers no shade or facilities. The gentle slope and manageable terrain make this suitable for family rockhounding trips, though sturdy footwear is essential. Cell service in this area can be spotty, so plan accordingly and inform someone of your location.",
+  "history": "Mineral Hill sits within the Toiyabe Range, a major north-south trending mountain range composed primarily of Precambrian metamorphic rocks that were subjected to intense regional metamorphism during the Proterozoic era. These metamorphic complexes, dominated by gneiss and schist containing abundant quartz and feldspar, were subsequently uplifted and exhumed during the Eocene to Miocene Basin and Range extension that shaped modern Nevada's topography.",
+  "tips": "Search the gentle slopes and hillsides where weathering has naturally exposed and loosened quartz and feldspar specimens - look for white, clear, or pinkish feldspar crystals and translucent quartz pieces. Bring a small chisel and hammer to carefully extract specimens from loose surface material, and always respect the 25 lb daily limit by focusing on quality specimens rather than quantity. Early morning collection is best to avoid afternoon heat and to have better visibility for spotting mineral glints on the hillside. Scout the area after monsoon rains when freshly exposed materials are visible.",
+  "terrain_notes": "Elevation 7,462 feet with gentle slopes and exposed hillsides. High-altitude semi-arid terrain with sparse vegetation typical of the Great Basin. Walking distance from parking to productive collecting areas typically 0.5 to 2 miles. Footing is relatively stable on packed earth and loose rock, with moderate scrambling on some hillside sections. No maintained trails; cross-country hiking required.",
+  "best_season": "June - September. High elevation means winter and early spring snow can block access, while late spring and summer provide ideal conditions with cool temperatures and dry terrain. Fall weather remains excellent through early September before weather deteriorates.",
+  "written_directions": "From Eureka, Nevada, head north on Nevada State Route 278 for approximately 8 miles. Turn east onto Forest Road 13 (Watch Mountain Road) and continue for approximately 12 miles on improved dirt road. Turn north onto a smaller BLM access road for approximately 3 miles until you reach the Mineral Hill area. Park at any suitable pullout along the road. GPS coordinates 39.491405, -115.985764 mark the central collecting area. High-clearance vehicle recommended but passenger cars can access in dry conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt road with some washboard surface. High-clearance recommended but not required in dry weather. Impassable during snow or heavy rain.",
+  "parking_notes": "Informal pullouts along access road. No developed parking area. Space for 3-5 vehicles at main access points. Arrive early during peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Use hand tools only. Pack out all waste. Leave no surface disturbance.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nHand tools only\nPack out all waste\nNo surface disturbance",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "cold",
+    "remote",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Eureka, Nevada has gas, food, and lodging approximately 15-18 miles west. Limited services; plan accordingly.",
+  "accessibility_notes": "Relatively gentle terrain accessible to most hikers with moderate fitness. Unpaved road to parking area requires high-clearance vehicle. Slopes are gradual but require walking on uneven ground with loose rock. Sturdy footwear essential. Not suitable for wheelchair access or those with significant mobility limitations.",
+  "alternative_names": [],
+  "nearest_city": "Eureka",
+  "nearest_city_distance": 16,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/mineral-hill-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Mineral Hill near Eureka, Nevada?",
+      "answer": "Mineral Hill is known for quartz crystals, feldspars (including pink orthoclase), mica sheets, and tourmaline specimens. The high-altitude metamorphic rocks host these minerals naturally. Most collectors focus on quartz and feldspar specimens found on the surface or within loose material on the hillsides."
+    },
+    {
+      "question": "Is rockhounding at Mineral Hill free and do I need a permit?",
+      "answer": "Yes, rockhounding at Mineral Hill is completely free. No permit is required for personal recreational use on BLM land. You are limited to collecting 25 lbs per day per FLPMA regulations, and collection is for personal use only."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Mineral Hill?",
+      "answer": "June through September is optimal for visiting Mineral Hill. The high elevation (7,462 feet) means winter snow blocks access, and late spring through summer provides ideal weather. Temperatures remain cool even in summer due to the altitude. Avoid winter and early spring when roads may be impassable."
+    },
+    {
+      "question": "How do I get to Mineral Hill and what kind of vehicle do I need?",
+      "answer": "From Eureka, take Nevada State Route 278 north for 8 miles, then Forest Road 13 east for 12 miles, then a smaller BLM road north for 3 miles. A passenger car can access the site in dry conditions, but a high-clearance vehicle is recommended. The roads are improved dirt but have some washboard."
+    },
+    {
+      "question": "Is Mineral Hill rockhounding site family-friendly and suitable for beginners?",
+      "answer": "Yes, Mineral Hill is excellent for families and beginner rockhounders. The gentle slopes and accessible terrain make it suitable for children aged 8 and up. Surface specimens are easy to spot, and hand tools are sufficient for collecting. Plan for a moderate hike of 0.5 to 2 miles from parking to productive areas."
+    },
+    {
+      "question": "What tools should I bring for rockhounding at Mineral Hill, Nevada?",
+      "answer": "Bring a small chisel, hammer, and collection bag for hand-tool collecting. Sturdy hiking boots are essential for the rocky terrain. Pack plenty of water, a hat, and sunscreen for high-altitude desert conditions. Bring a GPS or note coordinates as cell service is spotty. Leave heavy excavation equipment at home as motorized tools are not permitted on BLM land."
+    }
+  ],
+  "meta_title": "Mineral Hill Rockhounding - Nevada",
+  "meta_description": "Free BLM rockhounding at Mineral Hill near Eureka, Nevada. Find quartz, feldspar, and mica at 7,462 ft elevation. No permit needed, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from metamorphic geology)",
+    "nearest_city_distance (estimated from GPS)",
+    "written_directions (constructed from GPS and regional knowledge)",
+    "cell_service (estimated for remote central Nevada location)"
+  ],
+  "enriched_at": "2026-04-22T06:43:14.162Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:49.251Z"
+}

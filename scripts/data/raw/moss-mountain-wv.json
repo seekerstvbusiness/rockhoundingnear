@@ -1,0 +1,60 @@
+{
+  "slug": "moss-mountain-wv",
+  "name": "Moss Mountain",
+  "lat": 37.624901,
+  "lng": -80.281344,
+  "state": "West Virginia",
+  "state_slug": "west-virginia",
+  "state_code": "WV",
+  "city": "Monroe County",
+  "city_slug": "monroe-county",
+  "county": "Monroe",
+  "county_slug": "monroe",
+  "geocoded_city": "Monroe County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-west-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Moss%20Mountain%20West%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Moss%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Moss%20Mountain%20West%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2573,
+      "meters": 784
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:28:21.206Z"
+  },
+  "scraped_at": "2026-04-21T17:28:21.206Z",
+  "scrape_quality": "minimal"
+}

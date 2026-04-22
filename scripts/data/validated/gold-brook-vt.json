@@ -1,0 +1,101 @@
+{
+  "slug": "gold-brook-vt",
+  "name": "Gold Brook",
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "city": "Stowe",
+  "city_slug": "stowe",
+  "county": "Lamoille",
+  "county_slug": "lamoille",
+  "lat": 44.447775,
+  "lng": -72.661187,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Mica"
+  ],
+  "short_description": "Small stream rockhounding site near Stowe offering opportunities to find gold flakes, quartz, and mica in a scenic New England mountain setting. Best visited in warmer months when water levels are ...",
+  "description": "Gold Brook is a modest stream-based rockhounding destination in the Green Mountains region of northern Vermont, near the popular ski town of Stowe. The stream cuts through metamorphic bedrock characteristic of the central Vermont uplands, offering rockhounders access to quartz veins, mica schist, and occasional fine gold particles. This location appeals to beginner to intermediate collectors interested in New England geology and those seeking modest gold-panning opportunities without requiring technical permits or special access.\n\nThe area sits within Vermont's historic gold-bearing region, where glacial deposits and stream erosion have concentrated small quantities of placer gold. While this is not a high-yield gold location compared to western sites, Gold Brook offers the appeal of accessible New England rockhounding with beautiful mountain scenery. The stream valley provides a relatively flat approach with manageable terrain suitable for families and casual collectors.\n\nRockhounders can expect to find small quartz fragments, feldspar, mica flakes, and trace amounts of gold dust or small flakes when working gravel bars and stream deposits. The site requires patience and is best approached as a scenic outing rather than a destination for serious gold recovery. Spring and early summer melt can raise water levels significantly, making late summer through early fall the most productive collecting season.\n\nThe surrounding area is heavily forested with mixed hardwoods and conifers typical of Vermont's mountain zone. Parking and access are straightforward from nearby Route 100, making this an easy half-day rockhounding trip from the village of Stowe. No permits are required for casual collecting on public streambed access areas, though always verify current access status before visiting.",
+  "history": "Gold Brook lies within Vermont's metamorphic bedrock zone, where Ordovician and Silurian period sediments were folded, uplifted, and metamorphosed during the Acadian Orogeny approximately 380 million years ago. This process created the quartz veins and mica schists that characterize the central Vermont uplands, and glacial erosion during the Pleistocene concentrated small amounts of placer gold in stream channels and glacial till deposits.",
+  "tips": "Work the inside bends and behind large rocks in the streambed where heavier materials settle during high water flow. Bring a small classifier or mesh screen to sift fine material - gold typically appears as dust or tiny flakes rather than nuggets. Look for quartz and mica along the stream banks in areas of exposed bedrock; mica schist often breaks into flat sheets and thin flakes. Visit after water levels drop in August through September for safer access to productive gravel bars.",
+  "terrain_notes": "Flat to gently sloping terrain at approximately 1,020 feet elevation. The streambed itself is relatively accessible with modest grade changes. Walking surface includes smooth rounded rocks, gravel bars, and grass-covered banks. Stream width varies from 6 to 15 feet depending on section. No significant elevation gain from parking area to main collecting zones. Footing can be slippery when wet due to algae on stream rocks.",
+  "best_season": "June - September. Water levels drop sufficiently in mid to late summer for safe streambed access. Spring runoff (April-May) makes the stream dangerous and difficult to work. Winter freezing makes access hazardous.",
+  "written_directions": "From Stowe village, take Route 100 north approximately 2 miles. Look for Gold Brook Road on the right (east) side heading toward the mountain. Turn onto Gold Brook Road and follow for approximately 0.8 miles until you reach informal parking areas near the stream crossing. The rockhounding area is immediately accessible from the parking pullout along the streambed.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Gold Brook Road is a paved/gravel town road in good condition. Passenger vehicles suitable for all seasons except heavy snow. No four-wheel drive required.",
+  "parking_notes": "Informal gravel pullout areas along Gold Brook Road near stream access points. Limited capacity (2-3 vehicles). No formal parking lot. Pull completely off road to avoid blocking traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use collection only. Respect private property boundaries - stay in public streambed areas. Do not remove large rocks or disturb stream banks. No motorized equipment. Practice leave-no-trace principles. Verify current access status with Stowe town office before visiting.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nDo not disturb streambanks or remove large rocks\nNo commercial collection\nNo motorized equipment\nRespect private property boundaries\nLeave the area as you found it",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Stowe village, approximately 2 miles south. Multiple restaurants, lodging, and retail services. Gas stations and grocery stores available.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Stream access is straightforward from parking pullouts with minimal elevation gain. Uneven rocks and slippery footing along streambed require sturdy shoes. Not wheelchair accessible due to rocky terrain and stream crossing. Children should be supervised near water.",
+  "alternative_names": [],
+  "nearest_city": "Stowe",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/vermont/gold-brook-vt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/vermont/gold-brook-vt/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find at Gold Brook near Stowe, Vermont?",
+      "answer": "Gold Brook is known for small gold flakes and dust, quartz fragments, and mica schist. Most gold recoveries are fine placer material rather than nuggets. Quartz appears in white veins and fragments throughout the streambed, while mica flakes commonly appear in the schist outcrops along the banks."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Gold Brook in Vermont?",
+      "answer": "No permit is required for personal use collecting at Gold Brook. However, rockhounders should verify current public access status with the Stowe town office before visiting, as access can be affected by private property boundaries or seasonal closures."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Gold Brook, Vermont?",
+      "answer": "June through September is ideal, with mid-August through September being optimal when water levels are lowest and streambed access is safest. Spring runoff makes the stream dangerous and difficult to work, while winter freezing creates hazardous conditions."
+    },
+    {
+      "question": "How far is Gold Brook from Stowe, and what are driving conditions?",
+      "answer": "Gold Brook is only about 2 miles north of Stowe village via Route 100 and Gold Brook Road. The road is paved/gravel and in good condition, accessible year-round by standard passenger vehicle. No four-wheel drive is necessary."
+    },
+    {
+      "question": "What tools and equipment do you need for gold panning at Gold Brook?",
+      "answer": "Bring a classifier, mesh screen, or small gold pan for sifting fine material. A small hand shovel or spoon is useful for moving gravel. Wear waterproof boots with good traction since stream rocks are slippery. A backpack for carrying samples and supplies is helpful for half-day outings."
+    },
+    {
+      "question": "Is Gold Brook rockhounding site beginner-friendly and family-safe?",
+      "answer": "Yes, Gold Brook is well-suited for beginners and families. The terrain is flat with easy stream access, no permits are required, and the site is only 2 miles from town amenities. Children should be supervised near water, and sturdy footwear is essential due to slippery rocks."
+    }
+  ],
+  "meta_title": "Gold Brook Rockhounding - Stowe, Vermont",
+  "meta_description": "Find gold, quartz, and mica at Gold Brook near Stowe, VT. Easy public access, no permit needed. Best June-September. Family-friendly New England rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "road_conditions",
+    "parking_notes",
+    "collection_rules",
+    "geology formation details"
+  ],
+  "enriched_at": "2026-04-21T17:08:26.222Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:09:45.086Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "red-rock-spring-nm",
+  "name": "Red Rock Spring",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Socorro",
+  "city_slug": "socorro",
+  "county": "Socorro",
+  "county_slug": "socorro",
+  "lat": 34.350614,
+  "lng": -107.298871,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public land rockhounding site near Socorro offering agate, jasper, and chalcedony specimens. Free collecting with no permit required on this scenic Socorro County location.",
+  "description": "Red Rock Spring sits on New Mexico BLM land in Socorro County, a region rich with volcanic and sedimentary formations that produce quality agate and jasper specimens. This is a personal-use rockhounding area where collectors can search for colorful agates, banded jasper, and chalcedony without permits or fees. The site benefits from being accessible year-round but most pleasant during cooler months. Socorro County has a strong rockhounding heritage, and this location offers a genuine public land collecting opportunity typical of southern New Mexico's mineral-rich landscape.\n\nThe geology here reflects Basin and Range extensional tectonics combined with Tertiary volcanic activity. Silica-rich fluids deposited in fractures and cavities created the agate nodules and jasper seams found throughout the area. The red coloration in many specimens comes from iron oxide inclusions common in this region's mineral formations.\n\nExpect a mix of open desert with scattered rocky outcrops, bajada terrain, and wash systems where agates naturally concentrate. The collecting involves surface searching and examining talus piles rather than digging. Most productive areas are within walking distance of parking, making this accessible to rockhounders of various skill levels.\n\nThis location combines the appeal of free public land access with genuine mineral potential. Bring plenty of water, wear sun protection, and be prepared for the desert environment. The relatively flat to gently rolling terrain makes this a good introduction to New Mexico rockhounding for families and beginners.",
+  "history": "This area sits within the Basin and Range province where Tertiary volcanic activity and hydrothermal circulation deposited silica-rich fluids in fractured host rock, creating the agate nodules and jasper veins found here today. Socorro County has long been known to rockhounders for its abundant agate and chalcedony deposits, with surface collecting becoming more formalized on BLM lands through FLPMA regulations in recent decades.",
+  "tips": "Search wash beds and bajada slopes where water erosion naturally exposes agate nodules and jasper fragments; look for red and white banded specimens in the tan desert soil. Use a crack hammer to check suspicious rocks and examine underside of surface stones where the best color is often hidden. The best agates here show banding and translucency when held to light; common specimens are marble-sized to fist-sized, so pace yourself and don't expect to fill a bucket immediately. Early morning collecting before heat builds is most productive for finding specimens and staying comfortable.",
+  "terrain_notes": "Gently rolling bajada and open desert at approximately 4,500 feet elevation with scattered rocky outcrops and dry wash systems. Vegetation is sparse desert shrub and creosote. Walking surfaces range from firm packed sand to loose talus and rocky ground requiring sturdy footwear. Parking to productive collecting areas typically involves 0.5 to 2 mile walks across open terrain with no shade. Footing is generally stable but uneven and rocky in places.",
+  "best_season": "October - April. The desert heat in May through September exceeds 90 degrees regularly and can reach 110 degrees. Winter temperatures are mild to cool during the day, making outdoor walking comfortable. Late autumn through early spring offers the best combination of pleasant temperatures, low afternoon thunderstorm risk, and good visibility for spotting specimens.",
+  "written_directions": "From Socorro, take US 60 east approximately 12 miles toward Datil. Turn south on BLM access road near the Red Rock Spring area (GPS coordinates serve as your guide). Follow the road 3-4 miles to parking areas near wash systems and open bajada. High-clearance vehicle recommended but not always required; check current road conditions with Socorro BLM office before visiting. The final approach involves unpaved BLM roads that may be rough after rain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM access roads, variable surface from packed dirt to washboard. High-clearance recommended but passenger vehicles often passable in dry conditions. Road quality dependent on recent weather and BLM maintenance.",
+  "parking_notes": "Informal pullouts and parking areas along BLM roads near wash systems. No developed parking lot. Space for 2-5 vehicles at typical stops. Arrive early if visiting on weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation. No mechanical tools to extract material from solid rock. Surface collecting and talus searching only. Pack out all trash and leave the area as you found it.",
+  "quantity_limits": "25 lbs per day per FLPMA",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo mechanical extraction from solid rock\nSurface collecting only\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "remote",
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Socorro, approximately 12 miles west, has gas, food, water, and lodging. Limited services along US 60 between Socorro and Datil.",
+  "accessibility_notes": "Relatively flat to gently rolling desert terrain accessible to most hikers. Unpaved BLM roads to parking areas. Walking surfaces are uneven and rocky requiring sturdy footwear; no wheelchair access. Desert environment requires water, sun protection, and heat awareness. Most productive areas are within 1-2 miles of parking on easily walkable bajada.",
+  "alternative_names": [],
+  "nearest_city": "Socorro",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/red-rock-spring-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/red-rock-spring-nm/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/red-rock-spring-nm/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/red-rock-spring-nm/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of gems can I find rockhounding at Red Rock Spring New Mexico?",
+      "answer": "Red Rock Spring is known for agate, jasper, chalcedony, and quartz specimens. The agates here often display red, white, and tan banding due to iron oxide inclusions. Most specimens found are marble-sized to fist-sized nodules and fragments concentrated in wash beds and bajada slopes."
+    },
+    {
+      "question": "Do I need a permit to collect at Red Rock Spring BLM land?",
+      "answer": "No permit is required for recreational collecting at Red Rock Spring. As BLM public land, this site operates under FLPMA personal-use regulations allowing free rockhounding with no permits or fees, just the 25 lb per day limit."
+    },
+    {
+      "question": "How far from Socorro is Red Rock Spring rockhounding site?",
+      "answer": "Red Rock Spring is approximately 12 miles east of Socorro via US 60. The actual collecting areas are accessed via unpaved BLM roads, making it a convenient day trip from Socorro while still feeling remote."
+    },
+    {
+      "question": "Is Red Rock Spring rockhounding good for beginners and families?",
+      "answer": "Yes, Red Rock Spring is beginner and family-friendly. The terrain is relatively gentle bajada with surface collecting in washes and talus piles requiring no specialized skills. The walk from parking to productive areas is typically 0.5 to 2 miles on open ground. Best for kids ages 6 and up."
+    },
+    {
+      "question": "What is the best time of year to visit Red Rock Spring for rockhounding?",
+      "answer": "October through April is ideal. Summer temperatures regularly exceed 90 degrees and can reach 110 degrees, making outdoor collecting uncomfortable. Fall through spring offers pleasant daytime temperatures, minimal afternoon thunderstorms, and good visibility for spotting specimens."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Red Rock Spring?",
+      "answer": "Bring a crack hammer for checking suspicious rocks, sturdy boots for rocky terrain, and a backpack or collection bag. Most importantly, carry 2-3 gallons of water per person for the desert environment. Sun protection including hat, sunscreen, and sunglasses are essential. A small hand lens helps examine agate banding and translucency."
+    }
+  ],
+  "meta_title": "Red Rock Spring Rockhounding - New Mexico",
+  "meta_description": "Free BLM rockhounding near Socorro, NM. Find agate, jasper, and chalcedony with no permit required. 25 lb daily limit. Visit October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (based on GPS estimate without verified terrain data)",
+    "parking_notes (typical for unnamed BLM access areas)",
+    "road_conditions (inferred from common BLM road standards in Socorro County)"
+  ],
+  "enriched_at": "2026-04-22T09:28:40.210Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:40.352Z"
+}

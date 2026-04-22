@@ -1,0 +1,111 @@
+{
+  "slug": "kofa-nwr-gem-collecting",
+  "name": "Kofa NWR Gem Collecting",
+  "lat": 33.3456,
+  "lng": -114.0123,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": "Yuma",
+  "city_slug": "yuma",
+  "county": "La Paz",
+  "county_slug": "la-paz",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/kofa-nwr-gem-collecting"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Kofa%20NWR%20Gem%20Collecting%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Kofa%20NWR%20Gem%20Collecting",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Kofa%20NWR%20Gem%20Collecting%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3437,
+      "meters": 1048
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Quartzsite",
+      "distance_mi": 25,
+      "population": 2413
+    },
+    "roads": [
+      {
+        "name": "San Luis–Yuma–Quartzsite Highway",
+        "ref": "US 95",
+        "type": "trunk",
+        "dist": 11.8
+      },
+      {
+        "name": "San Luis–Yuma–Quartzsite Highway",
+        "ref": "US 95",
+        "type": "trunk",
+        "dist": 11.8
+      },
+      {
+        "name": "San Luis–Yuma–Quartzsite Highway",
+        "ref": "US 95",
+        "type": "trunk",
+        "dist": 12.2
+      },
+      {
+        "name": "San Luis–Yuma–Quartzsite Highway",
+        "ref": "US 95",
+        "type": "trunk",
+        "dist": 13
+      }
+    ],
+    "water_features": [
+      {
+        "name": "North Star Wash",
+        "type": "stream",
+        "dist": 7.6
+      },
+      {
+        "name": "Hoodoo Wash",
+        "type": "stream",
+        "dist": 20.8
+      },
+      {
+        "name": "Baragan Wash",
+        "type": "stream",
+        "dist": 21.2
+      }
+    ],
+    "protected_areas": [
+      {
+        "name": "Kofa Wilderness",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-21T05:40:18.598Z"
+  },
+  "scraped_at": "2026-04-21T05:40:18.598Z",
+  "scrape_quality": "partial"
+}

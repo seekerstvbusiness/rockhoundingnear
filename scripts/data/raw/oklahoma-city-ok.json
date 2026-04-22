@@ -1,0 +1,60 @@
+{
+  "slug": "oklahoma-city-ok",
+  "name": "Oklahoma City",
+  "lat": 35.433885,
+  "lng": -97.469201,
+  "state": "Oklahoma",
+  "state_slug": "oklahoma",
+  "state_code": "OK",
+  "city": "Oklahoma City",
+  "city_slug": "oklahoma-city",
+  "county": "Oklahoma",
+  "county_slug": "oklahoma",
+  "geocoded_city": "Oklahoma City",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-oklahoma.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Oklahoma%20City%20Oklahoma"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Oklahoma%20City",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Oklahoma%20City%20Oklahoma"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1210,
+      "meters": 369
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:07:35.511Z"
+  },
+  "scraped_at": "2026-04-21T17:07:35.511Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "dinosaur-footprint-reservation-new-bed-ma",
+  "name": "Dinosaur Footprint Reservation, \"new\" bed",
+  "lat": 42.236668,
+  "lng": -72.661942,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Easthampton",
+  "city_slug": "easthampton",
+  "county": "Hampshire",
+  "county_slug": "hampshire",
+  "geocoded_city": "Easthampton",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Dinosaur%20Footprint%20Reservation%2C%20%22new%22%20bed%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Dinosaur%20Footprint%20Reservation%2C%20%22new%22%20bed",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Dinosaur%20Footprint%20Reservation%2C%20%22new%22%20bed%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 184,
+      "meters": 56
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:30:40.406Z"
+  },
+  "scraped_at": "2026-04-21T19:30:40.406Z",
+  "scrape_quality": "minimal"
+}

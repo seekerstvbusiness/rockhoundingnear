@@ -1,0 +1,97 @@
+{
+  "slug": "buffalo-wy",
+  "name": "Buffalo",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Buffalo",
+  "city_slug": "buffalo",
+  "county": "Johnson",
+  "county_slug": "johnson",
+  "lat": 44.452728,
+  "lng": -106.554817,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM public land near Buffalo offers free rockhounding for agate, chalcedony, and quartz specimens. Gentle terrain at 4292 ft elevation in Johnson County's scenic high plains.",
+  "description": "The Buffalo area of Johnson County sits on productive BLM land where rockhounders can legally collect semi-precious stones without permits or fees. This region benefits from extensive Tertiary volcanic and sedimentary deposits that weathered over millions of years to create accessible pockets of agate, chalcedony, and quartz. The landscape features gentle slopes and open terrain typical of the northern Wyoming high plains, making it accessible for collectors of all skill levels.\n\nLocally, the Buffalo area has a long history of small-scale prospecting and rockhounding activity. Collectors frequently find quality agate nodules in washes and along hillsides where erosion has exposed them. The semi-arid climate means minimal vegetation in productive collecting areas, so specimens are relatively easy to spot once you develop an eye for the subtle color variations that distinguish gem-quality material from ordinary rock.\n\nWyoming's BLM regulations make this an ideal destination for budget-conscious rockhounds. The 25 lb daily limit per person is generous for most collectors, and the lack of permit requirements means you can head out any day of the week during favorable conditions. Expect to find specimens ranging from thumbnail size to fist-sized pieces, with occasional larger nodules available to those willing to spend time surveying hillsides and old wash areas.",
+  "history": "The Buffalo area sits within the Powder River Basin, a geologic depression filled with Cretaceous and Tertiary sedimentary rocks interlayered with volcanic ashfall deposits. Miocene volcanic activity in the Rocky Mountain region created silica-rich fluids that infiltrated fractures and cavities in existing rocks, eventually crystallizing into the agate and chalcedony nodules found here today. The region's exposure to millions of years of erosion has weathered away surrounding host rock, leaving nodules concentrated in draws and along hillsides accessible to rockhounders.",
+  "tips": "Focus your search on eroded washes and south-facing hillsides where water runoff has exposed nodules over centuries of weathering - these areas show the highest concentration of specimens. Bring a small loupe or magnifying glass to examine chalcedony for banding patterns and color saturation before deciding whether to collect a piece. Look for specimens with translucency or visible color zoning; the best agates here show warm earth tones - oranges, browns, and reds - rather than pale gray material. Pack a sturdy 5-gallon bucket and plan to fill it; the 25 lb daily limit is achievable on good days when specimens are concentrated.",
+  "terrain_notes": "Elevation 4292 ft with gentle rolling slopes and sparse sagebrush vegetation typical of Wyoming high plains. Mostly open terrain with good visibility and minimal obstacles. Walking distance from parking areas ranges from immediately adjacent to 1-2 miles depending on where you park and how far you explore. Footing is generally stable on sagebrush-covered ground, though loose rocks and pebbles require attentive walking. No significant elevation gain in most collecting areas.",
+  "best_season": "May - October. The Buffalo area experiences harsh winters with heavy snow and cold temperatures that can make roads impassable; late spring through early fall offers the most reliable access and comfortable collecting conditions. Summer heat (typically 75-85 F during the day) is moderate at this elevation. Late spring and early fall provide ideal conditions with cooler temperatures and lower humidity.",
+  "written_directions": "From Buffalo, head north on US 16 or access the surrounding BLM land via County Road 7 and local ranch roads that branch northeast toward the foothills. Most productive collecting areas are 5-15 miles north or northeast of Buffalo. Contact the Buffalo BLM Field Office (307-685-2600) for specific access points and directions to current productive areas, as conditions and access vary seasonally.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt and gravel ranch roads with potential washboard; passenger vehicles can access most areas during dry conditions. Road quality varies with weather and maintenance; check with BLM office before visiting during wet periods or winter.",
+  "parking_notes": "Informal pullouts and parking areas along ranch roads and natural openings in the landscape. No developed parking facilities; find safe clearance away from active vehicle traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collecting permitted on open BLM land only; respect private property boundaries and closures. Leave gates as you find them.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect private property and closures\nLeave gates as you find them",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "wildlife",
+    "heat",
+    "loose_rock"
+  ],
+  "nearest_services": "Buffalo, Wyoming, approximately 5-15 miles south. Full services including gas, food, lodging, and water.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers of moderate fitness. Informal dirt road parking areas may require slight driving onto natural surfaces. Most collecting areas are within short walking distance from vehicle parking. Uneven ground with sparse sagebrush and scattered rocks requires sturdy footwear and attentive footing. No wheelchair access to collecting areas.",
+  "alternative_names": [],
+  "nearest_city": "Buffalo",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/buffalo-wy/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Buffalo, Wyoming?",
+      "answer": "The Buffalo area is known for agate, chalcedony, and quartz specimens found on BLM land. Collectors frequently locate quality agate nodules with warm earth-tone coloring in washes and along hillsides. The semi-arid terrain means minimal vegetation coverage, making it relatively easy to spot specimens once you develop an eye for color variations in the rock."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Buffalo, Wyoming?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Buffalo. Wyoming BLM allows personal use collection under FLPMA guidelines without fees or permits. You simply need to follow the 25 lb daily limit and avoid motorized excavation."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Buffalo, Wyoming?",
+      "answer": "May through October is ideal for rockhounding near Buffalo. Winter snow and cold temperatures make roads impassable and collecting uncomfortable. Late spring and early fall offer the most pleasant conditions with moderate temperatures and reliable access to BLM collecting areas."
+    },
+    {
+      "question": "How far is Buffalo, Wyoming from the rockhounding areas, and can I use a regular car?",
+      "answer": "Most productive collecting areas are 5-15 miles north and northeast of Buffalo. Passenger vehicles can access most sites via improved dirt and gravel ranch roads during dry conditions. Contact the Buffalo BLM Field Office for specific access directions and current road conditions before visiting."
+    },
+    {
+      "question": "Is rockhounding near Buffalo, Wyoming beginner-friendly?",
+      "answer": "Yes, the Buffalo area is excellent for beginners. The gentle slopes, open terrain, and easy access make it perfect for families and new rockhounders. Specimens are relatively easy to spot in the sparse sagebrush landscape, and the free, permit-free nature of BLM collecting removes barrier to entry."
+    },
+    {
+      "question": "What tools do I need for rockhounding agate and chalcedony in Buffalo, Wyoming?",
+      "answer": "Bring a small loupe or magnifying glass to examine translucency and banding patterns before collecting. A sturdy 5-gallon bucket is useful for hauling specimens within your 25 lb daily limit. Wear sturdy hiking boots for stable footing on uneven sagebrush terrain, and bring sun protection and water since the area is remote and exposed."
+    }
+  ],
+  "meta_title": "Buffalo WY Rockhounding - Free BLM Agate & Chalcedony",
+  "meta_description": "Rockhound for agate, chalcedony, and quartz on free BLM land near Buffalo, Wyoming. No permit required, 25 lb daily limit. Best May-October.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - limited specific road names available; recommend verification with Buffalo BLM Field Office",
+    "gem_types - inferred from typical Wyoming high plains geology; specific field verification recommended",
+    "nearest_city_distance - estimated from GPS coordinates; actual driving distance may vary",
+    "cell_service - marked spotty based on remote Wyoming location; actual coverage should be verified with local providers"
+  ],
+  "enriched_at": "2026-04-21T18:53:31.932Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:54:12.339Z"
+}

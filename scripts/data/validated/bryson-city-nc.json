@@ -1,0 +1,98 @@
+{
+  "slug": "bryson-city-nc",
+  "name": "Bryson City",
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "city": "Swain County",
+  "city_slug": "swain-county",
+  "county": "Swain",
+  "county_slug": "swain",
+  "lat": 35.443603,
+  "lng": -83.440162,
+  "gem_types": [
+    "Quartz",
+    "Smoky Quartz",
+    "Rose Quartz",
+    "Mica",
+    "Feldspar"
+  ],
+  "short_description": "Rockhound the foothills of the Great Smoky Mountains near Bryson City for smoky quartz, rose quartz, and mica. Public land access with easy to moderate hiking terrain.",
+  "description": "Bryson City sits in the heart of western North Carolina's Smoky Mountain region, offering rockhounders access to some of the most productive quartz-bearing streams and hillsides in the southern Appalachians. The area around Swain County is part of the ancient Piedmont and Blue Ridge Mountains geological province, where metamorphic rocks and hydrothermal activity have concentrated quartz veins, feldspar crystals, and mica deposits over millions of years.\n\nThe primary rockhounding opportunity near Bryson City centers on stream beds and exposed hillsides where quartz veins weather out naturally. Smoky quartz and rose quartz are the most common finds, often occurring in clusters within decomposed granite and gneiss. Mica sheets and feldspar also appear regularly, making this a great location for collectors learning to identify multiple mineral species. Water access is abundant due to the region's mountainous terrain and high precipitation.\n\nTerrain here is typical Appalachian - rolling to steep, heavily forested with rhododendrons and hemlocks, and crossed by numerous clear streams. Elevation ranges from 1200 to 3000 feet depending on where you explore. Most productive areas require short to moderate hikes from parking areas, but the rewards are consistent. The area sees fewer collectors than some NC locations, making it a quieter experience.\n\nBest practices here include checking with local land managers before collecting, as some areas are within national forest boundaries and have specific regulations. Bring sturdy boots with good grip - wet rocks and root-laced trails are the norm. Early season visits (May through June) offer the best water flow and exposed material.",
+  "history": "This region formed during the Alleghenian orogeny (mountain-building event) approximately 300 million years ago when Africa collided with North America, metamorphosing sediments and creating the complex quartz veins and mica-rich gneisses that characterize the Blue Ridge. The Smoky Mountains are composed primarily of Precambrian metamorphic rocks, and Bryson City sits within zones where hydrothermal activity concentrated silica, creating the quartz deposits sought by rockhounders today.",
+  "tips": "Focus on stream beds and the banks where water erosion has exposed quartz veins - look for white to gray streaks running through darker metamorphic rocks. Smoky quartz often appears in clusters near decomposed granite on hillsides; follow the ridgelines uphill from streams where quartz weathering is visible on the surface. Use a 10x hand lens to identify feldspar and mica components in matrix rock - this helps you spot productive zones quickly. Bring a small pry bar and chisel to carefully extract specimens from veins without damaging them.",
+  "terrain_notes": "Mountainous terrain with elevation from 1200 to 3000 feet. Steep slopes covered in dense forest (hemlock, rhododendron, oak) with abundant exposed bedrock outcrops and clear mountain streams. Walking distances vary from 0.5 to 3 miles depending on parking and target area. Footing is generally treacherous when wet due to root systems, loose leaves, and slippery rock surfaces. Trails range from established footpaths to stream scrambles requiring careful foot placement.",
+  "best_season": "May - October. Late spring through early fall offers the best combination of accessible trails, moderate temperatures, and good stream water levels. Winter snow is rare but possible above 2500 feet. April can be muddy and trails may be obscured by leaf litter from fall.",
+  "written_directions": "From Bryson City town center (on US 19), head north on Everett Street which becomes Lakeview Drive, following signs toward the Great Smoky Mountains National Park boundary and Noland Creek area. Continue approximately 4 miles. Public access points and pullouts appear along the creek road where it intersects with National Forest lands. Some productive areas are accessible via short walks from NC 28 as it curves through the Nantahala River gorge northeast of Bryson City (approximately 6 miles from town). Park at marked pullouts and hike upstream into the forest.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "hiking",
+  "road_conditions": "NC 28 is paved. Lakeview Drive transitions to gravel near creek access points. Some parking areas require high-clearance vehicles but passenger vehicles can reach main pullouts.",
+  "parking_notes": "Small informal pullouts along creek roads, typically 1-3 vehicle capacity per spot. No developed parking lot. Limited parking on NC 28 shoulder in safe areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only on National Forest lands. Maximum 25 lbs per day for personal collection. No commercial collection. No motorized excavation. Do not disturb surrounding vegetation or stream banks. Check with USDA Forest Service (Nantahala National Forest) for current regulations in specific areas. Some stream sections may be off-limits depending on conservation status - verify before collecting.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo disturbance to vegetation or banks\nVerify access on specific National Forest parcels",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "snakes"
+  ],
+  "nearest_services": "Bryson City (3-4 miles south) has gas stations, restaurants, and supply stores. Ranger station for Nantahala National Forest is in nearby Franklin, NC (approximately 20 miles south).",
+  "accessibility_notes": "Moderate terrain with uneven, rocky footing and steep slopes. Trails are not wheelchair accessible. Sturdy hiking boots with excellent traction are essential due to wet rocks, roots, and steep banking. Stream access requires scrambling over boulders and navigating slippery terrain. Not suitable for limited mobility or young children without careful supervision.",
+  "alternative_names": [],
+  "nearest_city": "Bryson City",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/bryson-city-nc/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Bryson City, NC?",
+      "answer": "The Bryson City area is best known for smoky quartz and rose quartz, which occur in veins throughout the metamorphic bedrock. You will also find mica sheets, feldspar crystals, and quartz specimens of various colors. Stream beds and exposed hillsides are the most productive locations. Most specimens are small to medium size suitable for displays or collections."
+    },
+    {
+      "question": "Is rockhounding near Bryson City free or do I need a permit?",
+      "answer": "Rockhounding on National Forest land near Bryson City is free and does not require a permit. However, it is limited to personal use only - maximum 25 lbs per day per USDA Forest Service regulations. Commercial collection is prohibited. Always verify current regulations with the Nantahala National Forest ranger station before heading out."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Bryson City?",
+      "answer": "May through October is optimal for rockhounding near Bryson City. Late spring offers good stream flow that exposes new material, and early fall provides comfortable temperatures. Avoid winter when mountain weather becomes unpredictable and trails are slippery. April can be muddy with obscured trails."
+    },
+    {
+      "question": "How difficult is hiking to rockhounding spots around Bryson City?",
+      "answer": "Most productive areas require moderate hiking - typically 0.5 to 3 miles from parking areas. Terrain is steep and uneven with exposed bedrock, roots, and slippery rocks, especially when wet. The difficulty rating is moderate, suitable for hikers with basic fitness. Sturdy boots with excellent traction are essential. Young children should be supervised closely."
+    },
+    {
+      "question": "What tools should I bring for rockhounding in the Bryson City area?",
+      "answer": "Bring a 10x hand lens to identify minerals, a small pry bar and chisel to extract specimens from quartz veins, a heavy pick or hammer, and a collection bag. Sturdy hiking boots with excellent grip are critical due to wet and slippery conditions. Bring plenty of water and a first aid kit. Stream crossings may require water shoes or wading boots."
+    },
+    {
+      "question": "Is Bryson City rockhounding good for beginners?",
+      "answer": "Yes, Bryson City is beginner-friendly for rockhounding. Quartz and mica are easy to identify and specimens are readily found in stream beds without specialized equipment. Hiking difficulty is moderate but achievable. The biggest challenge is the terrain being steep and wet - wear proper footwear and bring a hiking partner. Start with creek beds near parking areas before venturing onto hillsides."
+    }
+  ],
+  "meta_title": "Bryson City Rockhounding - Quartz, NC",
+  "meta_description": "Find smoky quartz, rose quartz, and mica near Bryson City, NC. Free National Forest access on moderate hiking terrain. Personal use collecting year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category (inferred as national_forest based on Smoky Mountain region), collection_rules (inferred from standard USDA Forest Service regulations), parking_notes (informal access assumed), cell_service (spotty based on mountain terrain), specific creek names and access points (used general directions based on regional geography)"
+  ],
+  "enriched_at": "2026-04-22T10:17:50.763Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T10:18:48.082Z"
+}

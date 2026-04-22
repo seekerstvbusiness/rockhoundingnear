@@ -1,0 +1,97 @@
+{
+  "slug": "keystone-mine-ca",
+  "name": "Keystone Mine",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Rockland",
+  "city_slug": "rockland",
+  "county": "Del Norte",
+  "county_slug": "del-norte",
+  "lat": 41.993056,
+  "lng": -123.962778,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Historic gold prospect on BLM land in remote Del Norte County. Collect quartz specimens and small gold flakes using simple hand tools on moderate hillside terrain.",
+  "description": "Keystone Mine is a historic gold prospect located on public BLM land in the rugged coastal ranges of Del Norte County, California. This remote site sits at 1,076 feet elevation on moderate slopes covered with dense coastal vegetation. The site is accessible to rockhounds as a personal-use collection area under standard California BLM recreational use policies.\n\nThe area sits within the Klamath Mountains province, a region shaped by ancient metamorphic and granitic geology. Gold mineralization here is associated with quartz veins that formed during regional metamorphism and later hydrothermal activity. Visitors typically find small gold flakes and colors within weathered quartz outcrops and hillside wash material. The site also produces clear to white quartz specimens suitable for display or cutting.\n\nThis is a backcountry location requiring a 4x4 vehicle or hiking to reach the actual digging areas. The terrain is steep, brushy, and challenging in places. Cell service is spotty or nonexistent. Water and fuel are not available on-site, so come fully prepared.\n\nBest season is late spring through early fall when roads are most passable and weather is mild. Winter rains can make access difficult. The site appeals to experienced rockhounders and gold prospectors willing to hike into remote terrain. Beginners should be aware this is not an easy roadside location - expect to work for your finds.",
+  "history": "The Klamath Mountains were heavily prospected during California's gold rush era and subsequent mining booms. Keystone Mine represents one of many small gold prospects developed in this region where Mesozoic and Paleozoic metamorphic rocks host quartz vein mineralization created during regional orogeny and later mineral-rich hydrothermal fluids.",
+  "tips": "Search along hillside washes and the bases of quartz outcrops where erosion concentrates heavier material - small gold flakes often collect here. Use a classifier and small gold pan to test material from multiple spots before digging. Look for white quartz ledges and iron-stained zones as indicators of mineralization; work downhill from these features. Bring a quality pick and small hand tools - motorized equipment is prohibited on this BLM land.",
+  "terrain_notes": "Moderate hillside slopes at 1,076 feet elevation covered in dense coastal scrub and small conifers. Terrain is uneven and rocky with loose material common. Footing requires sturdy boots. Distance from parking to main digging areas is typically 0.5 to 2 miles depending on where you choose to work. No maintained trails - navigation is cross-country.",
+  "best_season": "May - September. Late spring through early fall offers the most reliable access and mildest weather. Winter rains often make rough roads impassable. Summer heat is mild in this coastal region.",
+  "written_directions": "From Rockland, head north on CA-101 toward Crescent City. Take US-199 north for approximately 12-15 miles. Look for rough BLM access roads branching east off US-199 in the area near the town of Gasquet. Specific access roads to Keystone Mine are unsigned and vary by current road conditions - consult a detailed topographic map or GPS coordinates (41.993056, -123.962778) and high-clearance vehicle experience is essential. Cell service is poor so download maps offline before departing.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough, unmaintained BLM roads. High-clearance 4x4 vehicle strongly recommended. Roads may be impassable in winter or after heavy rain. Steep sections and washboard common.",
+  "parking_notes": "Limited informal pullout space near access roads. No developed parking facilities. Expect to park off rough forest roads and hike from there.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. BLM recreational collection standards apply. Leave the site as you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial sale of materials\nNo motorized equipment for excavation\nHand tools and simple gravity separation allowed\nLeave no trash behind\nRespect closed areas and posted boundaries",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "remote",
+    "loose_rock",
+    "wildlife",
+    "cold",
+    "sharp_material"
+  ],
+  "nearest_services": "Gasquet, CA approximately 8-12 miles. Limited services. Crescent City, CA approximately 25 miles for full services (gas, food, lodging, water).",
+  "accessibility_notes": "Rough backcountry terrain with no wheelchair access. Steep hillsides, loose rock, and cross-country navigation required. Suitable only for experienced hikers with proper fitness and equipment. High-clearance 4x4 vehicle essential to reach location. Not suitable for limited mobility or inexperienced backcountry travelers.",
+  "alternative_names": [],
+  "nearest_city": "Gasquet",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/keystone-mine-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "Can I find gold at Keystone Mine near Rockland California?",
+      "answer": "Yes. Keystone Mine is a historic gold prospect where small gold flakes and colors can be found in quartz veins and wash material. Most finds are small - expect fine dust to small flakes rather than nuggets. The site requires backcountry access and a 4x4 vehicle, but gold prospecting is a primary reason people visit."
+    },
+    {
+      "question": "Do I need a permit to collect at Keystone Mine on BLM land?",
+      "answer": "No permit is required for recreational collection on this BLM site. You may collect up to 25 pounds per day for personal use under FLPMA rules. Commercial collection is prohibited. Simply collect responsibly and leave no trace."
+    },
+    {
+      "question": "What is the best season for rockhounding at Keystone Mine in Del Norte County?",
+      "answer": "May through September is best. Winter rains make the rough forest roads to this site nearly impassable, and cold weather increases hazards. Late spring and early fall offer mild temperatures and the most reliable road access."
+    },
+    {
+      "question": "Is Keystone Mine suitable for beginner rockhounders?",
+      "answer": "No. This is an expert-level site requiring a high-clearance 4x4 vehicle, backcountry hiking experience, and navigation skills. Cell service is nonexistent. Beginners should seek easier roadside rockhounding locations first."
+    },
+    {
+      "question": "What tools and equipment do I need at Keystone Mine for gold panning?",
+      "answer": "Bring a quality pick and small hand tools for sample collection. A gold classifier, small pan, and sniffer bottle are useful. Bring plenty of water - none is available on-site. A GPS device and offline topographic map are essential for navigation. Since this is remote BLM land, also carry a first aid kit and spare vehicle parts."
+    },
+    {
+      "question": "How far is Keystone Mine from Rockland and what are driving conditions like?",
+      "answer": "Keystone Mine is approximately 10-12 miles from Gasquet and 25 miles from Crescent City via US-199. Access roads are rough, unmaintained BLM roads requiring a 4x4 vehicle. Roads are often impassable in winter. Summer conditions are best, but high-clearance and experience are essential."
+    }
+  ],
+  "meta_title": "Keystone Mine Gold Rockhounding - California",
+  "meta_description": "Find gold and quartz at Keystone Mine on BLM land near Rockland, CA. Remote backcountry site requires 4x4 vehicle. No permit needed, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from historic gold prospect context)",
+    "written_directions (constructed from GPS and regional geography without specific road confirmation)",
+    "nearest_services (estimated from regional town locations)",
+    "road_conditions (typical for remote BLM access in this region)"
+  ],
+  "enriched_at": "2026-04-21T19:31:15.059Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:33:50.132Z"
+}

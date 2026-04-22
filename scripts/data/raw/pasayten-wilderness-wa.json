@@ -1,0 +1,76 @@
+{
+  "slug": "pasayten-wilderness-wa",
+  "name": "Pasayten Wilderness",
+  "lat": 48.731261,
+  "lng": -120.749852,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Whatcom County",
+  "city_slug": "whatcom-county",
+  "county": "Whatcom",
+  "county_slug": "whatcom",
+  "geocoded_city": "Whatcom County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pasayten%20Wilderness%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pasayten%20Wilderness",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pasayten%20Wilderness%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4214,
+      "meters": 1285
+    },
+    "slope": "steep terrain",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Slate Creek",
+        "type": "stream",
+        "dist": 0.6
+      },
+      {
+        "name": "Barron Creek",
+        "type": "stream",
+        "dist": 3
+      },
+      {
+        "name": "Middle Fork Pasayten River",
+        "type": "stream",
+        "dist": 6.2
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:01:11.549Z"
+  },
+  "scraped_at": "2026-04-21T19:01:11.549Z",
+  "scrape_quality": "minimal"
+}

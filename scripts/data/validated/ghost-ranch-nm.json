@@ -1,0 +1,105 @@
+{
+  "slug": "ghost-ranch-nm",
+  "name": "Ghost Ranch",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Espanola",
+  "city_slug": "espanola",
+  "county": "Rio Arriba",
+  "county_slug": "rio-arriba",
+  "lat": 36.30499,
+  "lng": -106.480384,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Petrified Wood",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land near the iconic Ghost Ranch offering agate and jasper collecting in high-altitude high desert terrain. Scenic red rock formations and flat collecting areas make this a rewarding roc...",
+  "description": "Ghost Ranch sits on BLM public land in northern New Mexico at 6,242 feet elevation, offering rockhounders access to agate, jasper, petrified wood, and chalcedony deposits. The area is famous for its striking red rock formations and geological significance, attracting both casual collectors and serious rockhounds. The flat terrain and accessible collecting areas near Ghost Ranch make this an excellent choice for families and beginners exploring New Mexico's mineral wealth.\n\nThis region lies within the Rio Arriba Basin, where Neogene volcanic and sedimentary rocks host silica-rich nodules and fragments deposited during periods of mineralization. Erosion and weathering have exposed agate and jasper specimens across washes and bajadas, creating productive surface collecting opportunities. The colorful geology visible in Ghost Ranch's iconic formations is the same geologic system that produces the collectible materials found here.\n\nCollectors can search exposed surfaces, wash gravels, and bajadas around the ranch area. The relatively flat topography makes navigation straightforward, though the elevation and high desert climate require proper preparation. Most productive collecting occurs in late fall through early spring when cooler temperatures make longer collecting sessions comfortable.\n\nAs BLM public land, Ghost Ranch welcomes rockhounders under standard personal-use regulations. The 25-pound daily limit and no-motorized-excavation rules apply, making this a true hand-collecting experience. The scenic backdrop of the Ghost Ranch formations adds to the appeal of spending a day searching for quality specimens.",
+  "history": "Ghost Ranch sits within the Rio Arriba Basin, where Neogene volcanic and sedimentary deposition created layered formations rich in silica minerals. Uplift and erosion of these strata have exposed agate and jasper nodules formed within ancient volcanic rocks, making this area both geologically significant and productive for rockhounding.",
+  "tips": "Search washes and bajadas where water erosion has exposed and concentrated agate and jasper fragments; focus on areas below exposed red rock outcrops. Look for translucent to opaque nodules ranging from walnut to fist-sized, often showing white, red, brown, or banded coloration. Use a crack hammer and chisel to carefully remove specimens from loose matrix, and pack a headlamp since morning light reveals color better than midday glare. Bring plenty of water due to high elevation and dry climate - at least 2 liters per person.",
+  "terrain_notes": "Elevation 6,242 feet with flat terrain and high desert landscape. Sparse vegetation includes piñon, juniper, and desert shrubs. Red rock formations create scenic backdrop. Footing is generally stable with firm ground and scattered loose rock. Walking distances to productive areas are typically short to moderate (under 1 mile from parking). Terrain is rocky but navigable for those in reasonable physical condition.",
+  "best_season": "October - April. High elevation means summer heat can exceed 85 degrees F and evening temperatures drop significantly. Fall through spring offers ideal collecting temperatures (50-70 degrees F), though nights remain cold. Winter snow is possible but uncommon at this elevation.",
+  "written_directions": "From Espanola, take US 285 north approximately 12 miles toward Ojo Caliente. Turn right (east) onto NM 554 and continue approximately 6 miles. Ghost Ranch area is accessible via local ranch roads and BLM access points; look for informal parking areas near exposed red rock formations and bajadas. Consult a detailed map or GPS coordinates (36.30499, -106.480384) for precise location. Road conditions vary from paved highway to well-maintained dirt roads passable by passenger vehicles in dry conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved US 285 and NM 554 to ranch area. Final approach via dirt ranch roads in good condition, passable by standard passenger vehicles in dry weather. High clearance recommended for rough spots.",
+  "parking_notes": "Informal parking at pullouts and cleared areas near BLM access points. No developed parking lot. Space for 3-5 vehicles at typical collecting spots. Arrive early during peak season (October-November, March-April).",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection permitted. No motorized excavation or heavy equipment. Hand tools only. Respect marked boundaries and private property adjacent to BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Espanola, approximately 18 miles south. Gas, restaurants, groceries, and lodging available. Ojo Caliente, approximately 10 miles north, offers limited services including a historic hot springs resort.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families with children. Firm ground and stable footing throughout collecting areas. No wheelchair access to remote collecting spots. Sturdy footwear recommended for loose rock. High elevation (6,242 ft) may affect those with cardiovascular issues; allow time for acclimation.",
+  "alternative_names": [
+    "Ghost Ranch Collecting Area",
+    "Rio Arriba BLM Rockhounding"
+  ],
+  "nearest_city": "Espanola",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/ghost-ranch-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/ghost-ranch-nm/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What agates and jasper can I find rockhounding near Ghost Ranch, New Mexico?",
+      "answer": "Ghost Ranch BLM land produces colorful red, brown, white, and banded agates plus red and brown jasper. You will also find chalcedony fragments and occasional petrified wood. Most specimens are nodular (walnut to fist-sized) with semi-translucent to opaque character. The volcanic geology of the Rio Arriba Basin creates these silica minerals within ancient rock layers now exposed by erosion."
+    },
+    {
+      "question": "Is rockhounding free at Ghost Ranch, and do I need a permit?",
+      "answer": "Yes, rockhounding is completely free on Ghost Ranch BLM public land with no permit required. You simply need to follow FLPMA regulations: collect for personal use only, limit yourself to 25 lbs per day, and use hand tools only. No motorized excavation is allowed, making this a traditional hand-collecting experience."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Ghost Ranch, New Mexico?",
+      "answer": "October through April is ideal. Ghost Ranch sits at 6,242 feet elevation where summer temperatures exceed 85 degrees F. Fall and spring offer comfortable 50-70 degree F collecting temperatures. Winter nights drop near freezing, so bring warm layers. High elevation means you will enjoy fewer insects and lower heat stress than lower-elevation New Mexico rockhounding sites."
+    },
+    {
+      "question": "How far is Ghost Ranch from Espanola, and what tools do I need?",
+      "answer": "Ghost Ranch is approximately 18 miles north of Espanola via US 285 and NM 554 - about 30 minutes drive time. Bring a crack hammer, cold chisel, 5-gallon bucket, hand magnifier, and sturdy work gloves. A rock pick is useful for prying specimens from matrix. Don't forget at least 2 liters of water per person due to high desert elevation and dry climate."
+    },
+    {
+      "question": "Is Ghost Ranch rockhounding good for beginners and families with children?",
+      "answer": "Yes, Ghost Ranch is beginner and family-friendly. The flat terrain, short walking distances, and abundant surface specimens make it accessible for children ages 6 and up. No permits, fees, or experience required. Hand tools only means safer collecting for kids. The scenic red rock formations add to the experience, making it educational and fun for families new to rockhounding."
+    },
+    {
+      "question": "Are there hazards I should know about rockhounding at Ghost Ranch?",
+      "answer": "The main hazards are high elevation (allow acclimation time), cold nights even in fall/spring, scattered loose rock underfoot, and sharp material from broken agates. The area is remote - cell service is spotty, so inform someone of your location. Carry plenty of water. Wildlife including snakes is possible but uncommon; wear closed-toe boots. The red rock formations have unstable areas, so stay on safe ground."
+    }
+  ],
+  "meta_title": "Ghost Ranch Rockhounding - Agate & Jasper in New Mexico",
+  "meta_description": "Find agate, jasper, and chalcedony on BLM public land near Ghost Ranch, New Mexico. Free rockhounding, no permit required. Scenic high desert collecting area.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from high desert New Mexico BLM geology - verify if site-specific data available)",
+    "nearest_city and nearest_city_distance (Espanola is closest major town; verify exact distance from GPS)",
+    "road_conditions (assumed based on typical BLM access in this region - verify current road status)",
+    "parking_notes (informal BLM parking - site may have developed amenities not in source data)",
+    "cell_service (assumed spotty based on rural Rio Arriba County location - verify with carrier maps)"
+  ],
+  "enriched_at": "2026-04-22T06:46:01.157Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:49:07.646Z"
+}

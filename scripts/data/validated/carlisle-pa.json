@@ -1,0 +1,102 @@
+{
+  "slug": "carlisle-pa",
+  "name": "Carlisle",
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "city": "North Middleton Township",
+  "city_slug": "north-middleton-township",
+  "county": "Cumberland",
+  "county_slug": "cumberland",
+  "lat": 40.220346,
+  "lng": -77.215366,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Jasper",
+    "Calcite"
+  ],
+  "short_description": "Hunt for quartz, feldspar, and mica in the gentle rolling terrain of Cumberland County. This low-elevation Appalachian site offers accessible rockhounding with moderate finds year-round.",
+  "description": "Carlisle sits within the Piedmont physiographic province of southeastern Pennsylvania, an area rich in metamorphic and igneous minerals shaped by ancient Paleozoic mountain-building events. The terrain around North Middleton Township features gentle slopes and weathered outcrops typical of the Appalachian foothills, where quartz veins, feldspathic rocks, and mica schists are common in stream beds, hillside exposures, and along roadsides. At just 415 feet elevation, this region benefits from a warm, humid climate that accelerates weathering and exposes fresh mineral material seasonally. Rockhounders here typically focus on collecting free quartz specimens, feldspar chunks, and sparkly mica flakes from accessible public and private lands. The landscape is predominantly mixed deciduous forest with agricultural fields, making spring and fall ideal for exploring without heavy brush interference.\n\nThe geological foundation of this area reflects the Precambrian and early Paleozoic metavolcanic and metasedimentary rocks that underlie much of the Piedmont. These rocks were metamorphosed during the Ordovician and Silurian orogeny (mountain-building) and later intruded by granite and pegmatite bodies that cooled to form coarse-grained minerals including large feldspar crystals and mica plates. Erosion over 300 million years has exposed these primary minerals in road cuts, stream valleys, and natural outcrops, making them accessible to surface collectors. Local quarries and historical mining activities have further opened access to fresh material, though most productive collecting today occurs on public roadsides and stream beds.\n\nVisitors should expect modest but rewarding finds - specimen-quality quartz points are less common here than in western mountain states, but quality mica sheets, feldspar chunks, and polished quartz pebbles are regular discoveries. The nearby Susquehanna River drainage system delivers rounded stones to accessible points, and numerous tributary streams cut through mineral-rich country rock. This is an ideal location for beginners and families learning to identify common minerals, as the species found here are foundational to mineral identification and geology education.",
+  "history": "The Carlisle area lies within the southern Appalachian Piedmont, shaped by metamorphic rock-forming events during the Ordovician-Silurian orogeny (approximately 450 million years ago) when tectonic collision deformed and reheated sedimentary and volcanic rocks into schists, phyllites, and gneisses enriched in quartz, feldspar, and mica. Subsequent Paleozoic granite intrusions, particularly around 400 million years ago, introduced pegmatitic bodies with coarse mica and feldspar crystals that have been exposed and concentrated by weathering and erosion through the Quaternary, making them readily available to modern rockhounders in stream beds and hillside exposures.",
+  "tips": "Focus your search on stream beds and small tributary valleys where water erosion exposes fresh mineral material and concentrates heavy specimens; look for exposed road cuts along state routes where recent grading exposes unweathered rock containing larger feldspar and mica crystals. Bring a small hand lens and white streak plate to identify feldspar varieties and distinguish them from quartz - feldspars typically show two cleavage directions and are slightly softer. Search during or after moderate rains when stream beds are re-exposed, as this refreshes the surface layer with newly weathered specimens and increases the contrast of white quartz and glittering mica against darker host rock.",
+  "terrain_notes": "Elevation 415 feet with gentle to moderate slopes characteristic of the Piedmont foothills. Terrain is primarily deciduous forest with mixed agricultural clearings, accessible by passenger vehicle on paved state routes. Walking from parking areas to productive stream beds typically requires 0.5 to 1.5 miles of easy to moderate hiking over uneven forest floor and rocky stream banks. Footing is generally stable but can be slippery after rain. No significant elevation gain, making this suitable for casual rockhounders of varying fitness levels.",
+  "best_season": "April - May and September - November. Spring offers fresh exposures from winter freeze-thaw erosion and stream runoff that exposes new material, while cooler fall temperatures and lower humidity make extended field time comfortable. Summer heat and humidity can be oppressive in this region, and winter muddy conditions restrict stream bed access.",
+  "written_directions": "From downtown Carlisle, take PA Route 34 north toward Mechanicsburg for approximately 2 miles. Turn east onto Shady Lane or follow local county roads into North Middleton Township toward stream valleys and wooded areas. Popular collecting occurs along tributary streams accessible from public roadsides and pullouts near PA Route 34 and local township roads. GPS coordinates (40.220346, -77.215366) place you near productive stream access on the eastern edge of North Middleton Township; look for safe roadside pullouts to park and walk short distances to exposed stream beds.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved state routes (PA Route 34) and maintained township roads; all-season accessible via passenger car. Local roads may be unpaved but are generally well-maintained for rural farm access.",
+  "parking_notes": "Informal roadside pullouts along PA Route 34 and township roads provide parking for 1-3 vehicles; no developed parking facilities. Respect private property and park only in clearly public areas or established turnouts.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collect only on public roadsides and streams where you have clear access rights. Do not trespass on private property without permission. Do not collect from designated state parks or protected natural areas. Respect all posted property boundaries. Personal use collection only - do not commercially sell specimens.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nNo commercial selling of specimens\nRespect private property and no trespassing\nNo collection from protected state parks or nature preserves\nPack out all trash\nDo not damage living vegetation or create new erosion",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "flash_floods"
+  ],
+  "nearest_services": "Carlisle, PA, approximately 2-3 miles west. Full services including gas stations, restaurants, grocery stores, and hotels available. Water and restrooms available in town parks.",
+  "accessibility_notes": "Gentle terrain with modest elevation change makes this accessible to most hikers and families. Uneven forest floor and rocky stream banks require sturdy footwear and careful footing, but no scrambling or technical climbing. Wheelchair access limited to paved roadsides; stream bed collecting requires walking ability. Overall difficulty suitable for children ages 6 and up with adult supervision.",
+  "alternative_names": [],
+  "nearest_city": "Carlisle",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/pennsylvania/carlisle-pa/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/pennsylvania/carlisle-pa/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find rockhounding near Carlisle, Pennsylvania?",
+      "answer": "The Carlisle area is known for quartz, feldspar, mica, jasper, and calcite. Specimen-quality quartz points, mica sheets, and feldspar chunks are the most common finds. Stream beds and roadside exposures yield rounded quartz pebbles and glittering mica flakes. This location is ideal for learning to identify common Appalachian minerals used in geology education."
+    },
+    {
+      "question": "Is rockhounding near Carlisle, PA free or do I need to pay a fee?",
+      "answer": "Rockhounding in the Carlisle area is free. There are no fee dig sites here. Collection occurs on public roadsides and accessible stream beds. Always respect private property boundaries and obtain permission before collecting on private land. No permits are required for personal use collection on public land."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Carlisle, Pennsylvania?",
+      "answer": "The best seasons are April through May and September through November. Spring offers fresh mineral exposures from winter freeze-thaw erosion and stream runoff, while fall provides cooler temperatures and lower humidity for comfortable extended collecting. Summer heat and humidity are oppressive, and winter muddy conditions restrict stream bed access."
+    },
+    {
+      "question": "Can beginners and families find good specimens rockhounding near Carlisle?",
+      "answer": "Yes, this location is beginner-friendly and excellent for families. The gentle terrain, accessible stream beds, and abundant common minerals make it perfect for learning mineral identification. Children ages 6 and up can participate with adult supervision. Finds may be modest compared to western sites, but the educational value and consistent specimen recovery make this ideal for starting rockhounds."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding in the Carlisle area?",
+      "answer": "Bring sturdy hiking boots for uneven forest floors and stream banks, a small hand lens for identifying feldspar and mica, a white streak plate to test mineral properties, and a collection bag. A small chisel or pry bar can help extract specimens from stream bed rocks. Bring water, sun protection, and a map or GPS device. A headlamp is useful if exploring longer streams."
+    },
+    {
+      "question": "How far is rockhounding at Carlisle from Philadelphia or other major Pennsylvania cities?",
+      "answer": "Carlisle is approximately 25 miles north of Harrisburg and about 100 miles northwest of Philadelphia. It is easily accessible via Interstate 81 and PA Route 34, making it a convenient weekend destination for rockhounders in central and southeastern Pennsylvania. Carlisle town offers full services including gas, food, lodging, and water."
+    }
+  ],
+  "meta_title": "Carlisle PA Rockhounding - Find Quartz & Mica",
+  "meta_description": "Hunt quartz, feldspar, and mica near Carlisle, PA. Free public rockhounding on accessible streams and roadsides. Beginner-friendly Appalachian site year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "gem_types (inferred from regional Piedmont geology)",
+    "hazards (inferred from terrain and stream access)",
+    "specific collection rules (no official local ordinance source provided)",
+    "parking details (informal roadside pullouts inferred from terrain)"
+  ],
+  "enriched_at": "2026-04-21T19:01:50.557Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:04:46.882Z"
+}

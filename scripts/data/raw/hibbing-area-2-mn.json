@@ -1,0 +1,60 @@
+{
+  "slug": "hibbing-area-2-mn",
+  "name": "Hibbing (area 2)",
+  "lat": 47.444278,
+  "lng": -92.99447,
+  "state": "Minnesota",
+  "state_slug": "minnesota",
+  "state_code": "MN",
+  "city": "Hibbing",
+  "city_slug": "hibbing",
+  "county": "Saint Louis",
+  "county_slug": "saint-louis",
+  "geocoded_city": "Hibbing",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-minnesota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hibbing%20(area%202)%20Minnesota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hibbing%20(area%202)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hibbing%20(area%202)%20Minnesota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1538,
+      "meters": 469
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:02:56.743Z"
+  },
+  "scraped_at": "2026-04-21T18:02:56.743Z",
+  "scrape_quality": "minimal"
+}

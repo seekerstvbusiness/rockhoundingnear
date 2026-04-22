@@ -1,0 +1,60 @@
+{
+  "slug": "the-bend-deposit-wi",
+  "name": "The Bend Deposit",
+  "lat": 45.290833,
+  "lng": -90.596389,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Town of Grover",
+  "city_slug": "town-of-grover",
+  "county": "Taylor",
+  "county_slug": "taylor",
+  "geocoded_city": "Town of Grover",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=The%20Bend%20Deposit%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=The%20Bend%20Deposit",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=The%20Bend%20Deposit%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1354,
+      "meters": 413
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:14:34.446Z"
+  },
+  "scraped_at": "2026-04-21T18:14:34.446Z",
+  "scrape_quality": "minimal"
+}

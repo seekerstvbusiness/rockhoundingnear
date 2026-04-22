@@ -1,0 +1,118 @@
+{
+  "state_slug": "north-dakota",
+  "total": 17,
+  "stages": {
+    "scrape": {
+      "done": [
+        "tappen-nd",
+        "bismark-nd",
+        "little-missouri-river-nd",
+        "cannonball-river-nd",
+        "medora-nd",
+        "richardton-nd",
+        "souris-river-nd",
+        "hettinger-nd",
+        "mandan-nd",
+        "crowley-quarry-nd",
+        "tongue-river-nd",
+        "stanley-nd",
+        "sheyenne-river-nd",
+        "turtle-mountain-nd",
+        "lisbon-nd",
+        "dickinson-nd",
+        "killdeer-nd"
+      ],
+      "failed": []
+    },
+    "enrich": {
+      "done": [
+        "hettinger-nd",
+        "medora-nd",
+        "bismark-nd",
+        "cannonball-river-nd",
+        "richardton-nd",
+        "tappen-nd",
+        "souris-river-nd",
+        "little-missouri-river-nd",
+        "crowley-quarry-nd",
+        "mandan-nd",
+        "sheyenne-river-nd",
+        "turtle-mountain-nd",
+        "lisbon-nd",
+        "stanley-nd",
+        "tongue-river-nd",
+        "dickinson-nd",
+        "killdeer-nd"
+      ],
+      "failed": []
+    },
+    "images": {
+      "done": [
+        "bismark-nd",
+        "cannonball-river-nd",
+        "richardton-nd",
+        "medora-nd",
+        "souris-river-nd",
+        "crowley-quarry-nd",
+        "hettinger-nd",
+        "tappen-nd",
+        "mandan-nd",
+        "little-missouri-river-nd",
+        "tongue-river-nd",
+        "stanley-nd",
+        "sheyenne-river-nd",
+        "lisbon-nd",
+        "turtle-mountain-nd",
+        "dickinson-nd",
+        "killdeer-nd"
+      ],
+      "failed": []
+    },
+    "validate": {
+      "done": [
+        "hettinger-nd",
+        "medora-nd",
+        "bismark-nd",
+        "cannonball-river-nd",
+        "richardton-nd",
+        "tappen-nd",
+        "souris-river-nd",
+        "little-missouri-river-nd",
+        "crowley-quarry-nd",
+        "mandan-nd",
+        "stanley-nd",
+        "tongue-river-nd",
+        "sheyenne-river-nd",
+        "lisbon-nd",
+        "turtle-mountain-nd",
+        "dickinson-nd",
+        "killdeer-nd"
+      ],
+      "failed": []
+    },
+    "import": {
+      "done": [
+        "hettinger-nd",
+        "medora-nd",
+        "bismark-nd",
+        "cannonball-river-nd",
+        "richardton-nd",
+        "tappen-nd",
+        "souris-river-nd",
+        "little-missouri-river-nd",
+        "crowley-quarry-nd",
+        "mandan-nd",
+        "stanley-nd",
+        "tongue-river-nd",
+        "sheyenne-river-nd",
+        "lisbon-nd",
+        "turtle-mountain-nd",
+        "dickinson-nd",
+        "killdeer-nd"
+      ],
+      "failed": []
+    }
+  },
+  "started_at": "2026-04-21T16:34:53.734Z",
+  "updated_at": "2026-04-22T10:13:33.324Z"
+}

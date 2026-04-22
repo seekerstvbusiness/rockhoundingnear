@@ -1,0 +1,85 @@
+{
+  "slug": "willis-mountain-va",
+  "name": "Willis Mountain",
+  "lat": 37.477912,
+  "lng": -78.46192,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Buckingham County",
+  "city_slug": "buckingham-county",
+  "county": "Buckingham",
+  "county_slug": "buckingham",
+  "geocoded_city": "Buckingham County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Willis%20Mountain%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Willis%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Willis%20Mountain%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 836,
+      "meters": 255
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "South James Madison Highway",
+        "ref": "US 15",
+        "type": "trunk",
+        "dist": 3.8
+      },
+      {
+        "name": "North James Madison Highway",
+        "ref": "US 15",
+        "type": "trunk",
+        "dist": 3.9
+      },
+      {
+        "name": "North James Madison Highway",
+        "ref": "US 15",
+        "type": "trunk",
+        "dist": 3.9
+      },
+      {
+        "name": "Main Street",
+        "ref": "US 15",
+        "type": "primary",
+        "dist": 4.5
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:05:35.515Z"
+  },
+  "scraped_at": "2026-04-21T19:05:35.515Z",
+  "scrape_quality": "minimal"
+}

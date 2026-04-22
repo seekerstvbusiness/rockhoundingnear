@@ -1,0 +1,60 @@
+{
+  "slug": "gary-gaulin-tracksite-holyoke-ma",
+  "name": "Gary Gaulin tracksite, Holyoke",
+  "lat": 42.197227,
+  "lng": -72.644188,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Holyoke",
+  "city_slug": "holyoke",
+  "county": "Hampden",
+  "county_slug": "hampden",
+  "geocoded_city": "Holyoke",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Gary%20Gaulin%20tracksite%2C%20Holyoke%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Gary%20Gaulin%20tracksite%2C%20Holyoke",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Gary%20Gaulin%20tracksite%2C%20Holyoke%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 426,
+      "meters": 130
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:31:02.790Z"
+  },
+  "scraped_at": "2026-04-21T19:31:02.790Z",
+  "scrape_quality": "minimal"
+}

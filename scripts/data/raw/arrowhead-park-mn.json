@@ -1,0 +1,60 @@
+{
+  "slug": "arrowhead-park-mn",
+  "name": "Arrowhead Park",
+  "lat": 47.815029,
+  "lng": -90.050777,
+  "state": "Minnesota",
+  "state_slug": "minnesota",
+  "state_code": "MN",
+  "city": "East Cook",
+  "city_slug": "east-cook",
+  "county": "Cook",
+  "county_slug": "cook",
+  "geocoded_city": "East Cook",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-minnesota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Arrowhead%20Park%20Minnesota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Arrowhead%20Park",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Arrowhead%20Park%20Minnesota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 602,
+      "meters": 184
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:01:25.492Z"
+  },
+  "scraped_at": "2026-04-21T18:01:25.492Z",
+  "scrape_quality": "minimal"
+}

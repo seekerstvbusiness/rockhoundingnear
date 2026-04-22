@@ -1,0 +1,60 @@
+{
+  "slug": "ashland-mill-va",
+  "name": "Ashland Mill",
+  "lat": 37.813799,
+  "lng": -77.461283,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Hanover County",
+  "city_slug": "hanover-county",
+  "county": "Hanover",
+  "county_slug": "hanover",
+  "geocoded_city": "Taylorsville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ashland%20Mill%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ashland%20Mill",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ashland%20Mill%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 38,
+      "meters": 12
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:12:09.222Z"
+  },
+  "scraped_at": "2026-04-21T19:12:09.222Z",
+  "scrape_quality": "minimal"
+}

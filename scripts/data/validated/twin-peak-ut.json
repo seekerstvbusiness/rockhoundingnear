@@ -1,0 +1,97 @@
+{
+  "slug": "twin-peak-ut",
+  "name": "Twin Peak",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Millard County",
+  "city_slug": "millard-county",
+  "county": "Millard",
+  "county_slug": "millard",
+  "lat": 38.784124,
+  "lng": -112.732861,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Public BLM rockhounding site near Millard County offering agate, jasper, and chalcedony. Free personal use collecting with no permits required.",
+  "description": "Twin Peak is a productive BLM rockhounding location in central Utah's Millard County, situated within the Basin and Range physiographic province. The site provides excellent opportunities for collecting colorful agates, jasper specimens, and chalcedony nodules that weather out of the surrounding volcanic and alluvial deposits. This is a popular destination for both experienced rockhounders and beginners seeking free, accessible collecting on public land.\n\nThe geology here reflects Tertiary volcanic activity and subsequent basin-fill deposits typical of the Great Basin region. Silica-rich fluids from ancient volcanic systems percolated through host rocks, creating the microcrystalline quartz deposits that weathered into the agate and jasper specimens found at surface today. The combination of exposure, erosion, and a semi-arid climate makes Twin Peak an ideal location for finding quality specimens.\n\nExpect to spend 2-4 hours collecting across the surrounding terrain. The best material is found scattered on hillsides, washes, and erosional surfaces where specimens naturally concentrate. Bring plenty of water, sun protection, and a 5-gallon bucket to stay within the 25-pound daily limit. The site offers good visibility and relatively straightforward collecting once you understand the terrain.",
+  "history": "This area sits within the Basin and Range province where Tertiary and Quaternary volcanic activity deposited silica-rich rhyolitic and dacitic materials that subsequently weathered to expose agate and jasper nodules. The surrounding Millard County region has a long history of mineral prospecting and rock collecting, with many sites along the margins of volcanic features and alluvial fans.",
+  "tips": "Focus your search on the upper hillsides and erosional washes where agate and jasper specimens naturally concentrate on the surface. Look for pieces with banding, color variation, or translucency - these indicate quality agates worth collecting. Use a loupe or hand lens to examine specimens in place before collecting; many small pieces on the surface are incomplete or heavily weathered. Bring a small geology pick or chisel to carefully extract specimens from loosely consolidated material, and always practice Leave No Trace by filling any small holes.",
+  "terrain_notes": "Twin Peak sits at approximately 5,200 feet elevation with a mix of open hillside and scattered sagebrush vegetation typical of the Millard County high desert. The terrain is uneven and rocky with moderate slope in places. Walking distance from parking to productive collecting areas is roughly 0.5 to 1.5 miles depending on your route. Footing is rocky but generally stable; sturdy hiking boots are recommended.",
+  "best_season": "April - October. Spring through fall offers the most comfortable temperatures for extended collecting sessions. Summer heat (90-100F) is manageable at this elevation if you start early and carry extra water. Winter (November - March) is possible but less comfortable due to occasional snow and cold.",
+  "written_directions": "From Delta, Utah (nearest town with services), drive south on US 50 for approximately 20 miles toward Millard County. Turn east on local county roads leading toward the Twin Peak area near the coordinates provided. The final approach may be via unpaved road - high-clearance or 4WD vehicle recommended, especially after wet weather. Consult a detailed topographic map or GPS device for precise route, as road conditions and access points vary seasonally.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved county road, may be rough or washed after rain. High-clearance vehicle recommended. Final approach may require 4WD depending on weather and maintenance.",
+  "parking_notes": "Informal pullouts and parking areas near the site. No designated lot; park off-road where vehicle does not block access.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or use of heavy equipment. Collect only loose material or fragments naturally weathering from hillsides and washes. Do not dig into bedrock or collect from active mine claims.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment use\nDo not damage bedrock or claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Delta, Utah, approximately 20-25 miles west. Offers gas, food, water, and lodging.",
+  "accessibility_notes": "Uneven rocky terrain with scattered vegetation and moderate slope. No wheelchair access. Sturdy hiking boots strongly recommended. The unpaved approach road and rough final parking area may limit access for vehicles with low clearance. Site is suitable for most able-bodied rockhounders and families with mobile children.",
+  "alternative_names": [],
+  "nearest_city": "Delta",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/twin-peak-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can you find at Twin Peak, Utah?",
+      "answer": "Twin Peak is known for colorful banded agates, red and brown jasper specimens, and chalcedony nodules. Many pieces show banding or color variation typical of volcanic-origin silica deposits. You can typically find pieces ranging from thumbnail size to several inches across scattered on the surface."
+    },
+    {
+      "question": "Is there a permit or fee to rockhound at Twin Peak near Millard County?",
+      "answer": "No permit is required and there is no fee to collect at Twin Peak. This is BLM public land managed under FLPMA recreational collecting guidelines. You can collect for personal use free of charge, limited to 25 pounds per day per person."
+    },
+    {
+      "question": "How do you get to Twin Peak rockhounding site from Delta, Utah?",
+      "answer": "From Delta, drive south on US 50 toward Millard County for about 20 miles, then take county roads east toward the Twin Peak coordinates. The final approach is via unpaved road that may require high-clearance or 4WD, especially after rain. Use a detailed topographic map or GPS for precise navigation."
+    },
+    {
+      "question": "What is the best time of year to rockhound for agate at Twin Peak?",
+      "answer": "April through October is ideal, with spring and fall offering the most comfortable temperatures. The location is accessible year-round, but summer heat (90-100F) can be intense, and winter may bring occasional snow. Bring plenty of water regardless of season."
+    },
+    {
+      "question": "Is Twin Peak rockhounding site suitable for beginners and families with kids?",
+      "answer": "Yes. Twin Peak is beginner-friendly with mostly surface collecting of loose specimens. Kids ages 6 and up can participate. The terrain is moderately rocky but not technical, and the site does not require specialized climbing or rappelling. Bring plenty of water and sun protection for young collectors."
+    },
+    {
+      "question": "What tools and supplies do you need to collect agate at Twin Peak Utah?",
+      "answer": "Bring a 5-gallon bucket, small geology pick or chisel for careful extraction, hand lens or loupe for examining specimens, plenty of water (at least 2-3 liters), sun protection, sturdy hiking boots, and a backpack. A topographic map and GPS device are recommended for navigation on the unpaved access road."
+    }
+  ],
+  "meta_title": "Twin Peak Rockhounding - Utah Agate & Jasper",
+  "meta_description": "Free BLM rockhounding near Delta, Utah. Collect agate, jasper, and chalcedony at Twin Peak. No permit required, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from county location and regional geography, no specific source provided)",
+    "nearest_city_distance (estimated from coordinates)",
+    "terrain_notes (based on regional topography and climate of Millard County, not site-specific survey)",
+    "gem_types (inferred from Basin and Range volcanic geology typical of the region, no field report provided)"
+  ],
+  "enriched_at": "2026-04-22T06:51:25.808Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:58:22.246Z"
+}

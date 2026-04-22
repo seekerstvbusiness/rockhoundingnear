@@ -1,0 +1,101 @@
+{
+  "slug": "carpenter-creek-id",
+  "name": "Carpenter Creek",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "St. Maries",
+  "city_slug": "st-maries",
+  "county": "Benewah",
+  "county_slug": "benewah",
+  "lat": 47.055077,
+  "lng": -116.44035,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM public land along a scenic creek drainage in northern Idaho offering free rockhounding for quartz, chalcedony, and jasper specimens. Personal use collecting with no permit required.",
+  "description": "Carpenter Creek sits within Benewah County's BLM holdings, a region shaped by the Wallowa-Whitman geologic province and its rich history of mineralization. This moderate-elevation site (3062 ft) follows creek bottoms and surrounding hillsides where silica-rich minerals precipitated during ancient hydrothermal activity. The creek drainage cuts through metamorphic and sedimentary rock, exposing colorful specimens in the wash and along eroded banks.\n\nThe area is characterized by a moderate slope with mixed conifer forest and riparian vegetation typical of northern Idaho's inland valleys. Rockhounders can work the creek wash itself, which is the most productive area, as well as the hillsides flanking the drainage. The combination of water movement and weathering continuously exposes fresh material and tumbles finished specimens downstream.\n\nThis is an ideal location for collectors seeking quartz points, chalcedony nodules, and jasper fragments without the constraints of fee dig sites or private land restrictions. The creek setting provides natural sorting of materials by size and density, making it accessible for rockhounders of varying experience levels. The moderate terrain and public access make this a reliable choice for a productive field day.\n\nBring sturdy boots with good grip for creek rock hopping and wet conditions. Late spring through early fall offers the best combination of accessible creek levels and comfortable hiking weather. The site rewards patience - work the banks methodically and check behind fallen logs and gravel bars where specimens naturally collect.",
+  "history": "Carpenter Creek lies within the Wallowa-Whitman geologic province, where Paleozoic and Mesozoic sedimentary rocks were metamorphosed and intruded by granitic bodies during the Cretaceous Laramide orogeny. Silica-rich hydrothermal fluids deposited quartz, chalcedony, and other cryptocrystalline minerals in fractures and replacement zones. The creek's erosional activity over millennia has exposed these mineral-bearing rocks and concentrated weathered specimens in the drainage.",
+  "tips": "Work the creek wash during lower water periods (late summer to early fall) when you can access the cobble bars safely; quartz and chalcedony accumulate naturally in these areas. Look for chalcedony nodules along undercut banks and behind large boulders where water eddies deposit heavier specimens. Bring a small pry bar to carefully extract specimens from cemented gravel deposits without damaging them. Scan the hillside slopes above the creek for exposed outcrop and jasper fragments - frost weathering and gravity sorting continue to expose fresh material year-round.",
+  "terrain_notes": "Moderate slope terrain at 3062 ft elevation, heavily vegetated with mixed conifer forest and streamside alder/willow growth. Creek bed is rocky with unstable footing requiring careful foot placement. Banks are often muddy or slick, especially near the water. Walking distance from parking varies depending on access point, typically 0.5 to 2 miles to productive collecting zones. Footing difficulty is moderate to challenging due to cobbles, slippery creek rocks, and potential root hazards along trails.",
+  "best_season": "May - September. Water levels are most manageable for creek access in late July through August when spring runoff subsides. Early May and September offer cooler conditions but water may still be high from snowmelt in the nearby mountains.",
+  "written_directions": "From St. Maries, head north on ID-3 for approximately 8 miles toward Clarkia. Turn east onto a BLM access road (Forest Road 409 area - look for BLM signage). Follow the rough road for 3-4 miles until you reach a pullout near Carpenter Creek drainage. Park in any unsigned turnout along the road. Creek access is immediate from the road; no permit required for walk-in collecting.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough unpaved BLM road with some washboard and potential ruts. High-clearance or all-wheel-drive vehicle recommended, especially in wet seasons. Road may be impassable in winter/early spring.",
+  "parking_notes": "Informal pullouts and turnouts along the access road near Carpenter Creek. No developed parking lot. Capacity varies by location - typically 2-4 vehicles per pullout. Park entirely off the roadway.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or mechanized equipment. Respect existing claims and private property boundaries. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or heavy equipment\nNo mechanized digging\nRespect existing mining claims\nPack out all trash\nStay within BLM boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "flash_floods"
+  ],
+  "nearest_services": "St. Maries, ID - approximately 10 miles south. Gas, food, and lodging available. Potable water and restrooms at Benewah County parks.",
+  "accessibility_notes": "Moderate slope terrain with rocky creek bed and slippery banks. Not wheelchair accessible. Requires comfortable hiking boots with good ankle support and strong grip soles. Creek crossing necessary to access some areas. Children ages 8+ with adult supervision can manage the terrain.",
+  "alternative_names": [],
+  "nearest_city": "St. Maries",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/carpenter-creek-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/carpenter-creek-id/mineral-1-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/carpenter-creek-id/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What can you find rockhounding at Carpenter Creek in Idaho?",
+      "answer": "Carpenter Creek is productive for quartz points, chalcedony nodules, jasper fragments, and agate specimens. The creek wash is most reliable - specimens accumulate naturally in gravel bars and behind boulders where water flow has sorted materials by weight and density."
+    },
+    {
+      "question": "Is Carpenter Creek rockhounding free or do you need a permit?",
+      "answer": "Rockhounding at Carpenter Creek is completely free. This is BLM public land where personal use collecting requires no permit. You can collect up to 25 lbs per day at no cost - just bring your tools and go."
+    },
+    {
+      "question": "What is the best time to rockhound Carpenter Creek near St. Maries?",
+      "answer": "Late July through September is ideal when creek water levels drop after spring snowmelt, making access safer and creek rock easier to work. May through June can be productive but water may still be high. Winter access is not recommended due to road and trail conditions."
+    },
+    {
+      "question": "Can beginners find good specimens at Carpenter Creek Idaho?",
+      "answer": "Yes, Carpenter Creek is beginner-friendly. The creek wash sorting makes specimens relatively easy to spot, especially chalcedony and quartz. The moderate terrain is manageable for most people with basic hiking skills and sturdy footwear. No special knowledge of geology required to collect successfully here."
+    },
+    {
+      "question": "What tools do you need for rockhounding Carpenter Creek?",
+      "answer": "Bring a small pry bar or flathead screwdriver for extracting specimens from cemented gravel, a sturdy digging knife, and a collection bag. Wear boots with excellent grip for slippery creek rocks. A small classifier helps identify specimens quickly. Water and snacks are essential as there are no services at the site."
+    },
+    {
+      "question": "How do you get to Carpenter Creek rockhounding from St. Maries Idaho?",
+      "answer": "From St. Maries, drive north on ID-3 for 8 miles toward Clarkia. Turn east on Forest Road 409 or BLM access road (look for BLM signage) and follow it 3-4 miles to informal parking pullouts at the creek. The rough road requires all-wheel-drive or high-clearance vehicles, especially after rain."
+    }
+  ],
+  "meta_title": "Carpenter Creek Rockhounding - Idaho",
+  "meta_description": "Free BLM rockhounding for quartz, chalcedony, and agate at Carpenter Creek near St. Maries, Idaho. No permit, 25 lb limit. Scenic creek collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "parking_notes",
+    "geology_notes"
+  ],
+  "enriched_at": "2026-04-22T06:43:47.310Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:46:21.740Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "sierra-madre-wy",
+  "name": "Sierra Madre",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Rawlins",
+  "city_slug": "rawlins",
+  "county": "Carbon",
+  "county_slug": "carbon",
+  "lat": 41.183583,
+  "lng": -107.031803,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Feldspar"
+  ],
+  "short_description": "BLM public land in the Sierra Madre range offering alpine rockhounding for quartz, agate, and jasper specimens. High-elevation site with moderate terrain and no permit required.",
+  "description": "The Sierra Madre rockhounding area lies within Wyoming's extensive BLM holdings in Carbon County, sitting at over 10,600 feet elevation in the heart of a rugged mountain range. This alpine environment is ideal for collectors seeking quality quartz specimens, colorful agates, and jasper fragments typical of Precambrian and Paleozoic metamorphic geology. The moderate slope terrain allows accessible collecting without requiring technical climbing, though the high elevation demands proper acclimatization and weather awareness. Rockhounders will find scattered float and exposed outcrops along hillsides and in shallow washes where erosion has naturally exposed mineral-rich formations. The relative isolation of this site means fewer crowds and abundant material for personal use collectors willing to hike the moderate slopes.\n\nGeologically, the Sierra Madre is composed primarily of Precambrian metamorphic rocks intruded by Tertiary granitic bodies that created zones of mineralization. The quartz veins and feldspathic zones here were formed during multiple episodes of mountain building and metamorphism. Secondary weathering and erosion have scattered loose specimens across the landscape, making surface collecting productive without the need for hammering on solid rock.\n\nAccess is straightforward via BLM roads, with the site open year-round under standard recreational collection rules. Best results come during late spring through early fall when snow has cleared and the terrain is most accessible. Pack adequate water and be prepared for sudden weather changes typical of high-altitude Wyoming ridges. The combination of accessible terrain, productive geology, and no-permit requirements makes this a popular destination for both novice and experienced rockhounders.",
+  "history": "The Sierra Madre range is part of Wyoming's Precambrian basement complex, with metamorphic rocks dated to approximately 1.7 to 1.8 billion years old. During the Laramide Orogeny (80 to 55 million years ago), these ancient rocks were uplifted and intruded by granitic plutons that created hydrothermal zones enriching the area with quartz veins and secondary minerals. Early prospectors in the 1800s and early 1900s explored the range for precious metals, and while major commercial operations never developed here, the prospecting activity revealed the mineral-rich nature of these formations.",
+  "tips": "Search along hillside erosion gullies and shallow washes where water flow has exposed quartz and agate float; the moderate slope means material naturally rolls downhill and collects in swales. Bring a hand lens to examine feldspar crystals and identify agate color banding before collecting, as quality pieces are worth carrying out at higher elevations. Focus on areas with visible quartz outcrops and work the surrounding talus slopes where gravity has broken specimens free from bedrock. Start collecting early in the day to maximize time before afternoon thunderstorms common at this elevation.",
+  "terrain_notes": "Elevation 10,636 feet with moderate slopes and scattered alpine vegetation. Terrain transitions from sagebrush scrub at lower elevations to sparse grasses and rocky outcrops at the summit. Walking distances from parking areas range from a few hundred yards to 1-2 miles depending on where you access the slopes. Footing is rocky with loose talus in many areas; sturdy hiking boots with ankle support are essential. No maintained trails, so route-finding requires basic navigation skills.",
+  "best_season": "June - September. High elevation means significant snow pack from October through May, and afternoon thunderstorms are common in July and August. Late June and early September offer the best combination of clear skies, accessible terrain, and stable weather.",
+  "written_directions": "From Rawlins, take WY-287 north toward Saratoga for approximately 25 miles. Turn west onto Carbon County Road 14 (signed toward Sierra Madre) and continue for roughly 15-20 miles on improved gravel road. Look for BLM access pullouts along the road or continue to higher elevation parking areas. GPS coordinates 41.183583, -107.031803 mark the primary collecting zone. Road conditions vary seasonally; high-clearance vehicles are recommended, especially after recent rain or snow.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Gravel BLM road, rough and rutted in sections. High-clearance vehicle recommended. Washboard surface typical. Muddy or impassable after heavy rain or snowmelt.",
+  "parking_notes": "Informal pullouts along Carbon County Road 14. No developed parking lot. Park off the roadway in designated BLM areas. Multiple pullouts allow access at different elevations.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA. No commercial collection. No motorized excavation. Pack out what you pack in. Respect wildlife and natural features. Stay on or near existing roads and trails to minimize impact.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo mechanized equipment\nPack out all waste\nRespect seasonal closures if any",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "remote",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Rawlins, approximately 40 miles south. Gas, food, water, and lodging available. Saratoga, approximately 30 miles east, offers additional services.",
+  "accessibility_notes": "Uneven rocky terrain with loose talus and moderate slopes. No wheelchair access. Sturdy hiking boots with ankle support required. High elevation (10,600+ feet) requires acclimatization for those from lower elevations. Moderate hiking distances of 0.5 to 2 miles. Not suitable for visitors with limited mobility or breathing difficulties.",
+  "alternative_names": [],
+  "nearest_city": "Rawlins",
+  "nearest_city_distance": 40,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/sierra-madre-wy/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/sierra-madre-wy/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/sierra-madre-wy/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding in the Sierra Madre near Rawlins, Wyoming?",
+      "answer": "The Sierra Madre BLM area is known for quartz specimens, colorful agates, jasper fragments, and feldspar crystals. These minerals are found as loose float and in small outcrops across the alpine slopes. Quality pieces can be found by carefully searching hillside erosion gullies and talus slopes where natural weathering has exposed specimens."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Sierra Madre in Wyoming?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Sierra Madre. You may collect for personal use only under FLPMA regulations, with a daily limit of 25 pounds. Commercial collection is not allowed."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Sierra Madre, Wyoming?",
+      "answer": "June through September is ideal, with late June and early September offering the most stable weather. High elevation means significant snow pack from October through May. July and August can have afternoon thunderstorms, so plan to start collecting early in the day."
+    },
+    {
+      "question": "How difficult is rockhounding at Sierra Madre and is it suitable for beginners?",
+      "answer": "Sierra Madre is moderate difficulty with no permit hassles, making it accessible for beginners willing to do light hiking. Terrain is uneven and rocky at 10,600+ feet elevation, requiring sturdy boots and basic navigation skills. Distances from parking to productive areas are typically 0.5 to 2 miles with loose talus underfoot."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at Sierra Madre?",
+      "answer": "Bring sturdy hiking boots, a hand lens for examining specimens, a collection bag, plenty of water (at least 3-4 liters), and a backpack. A basic hammer may be useful for extracting specimens from loose float. At this elevation, pack warm layers and rain gear even in summer, as thunderstorms can develop rapidly."
+    },
+    {
+      "question": "How far is Sierra Madre rockhounding site from Rawlins, and what are road conditions like?",
+      "answer": "Sierra Madre is approximately 40 miles north of Rawlins. Access is via gravel BLM roads (County Road 14) requiring high-clearance vehicles. Conditions vary seasonally with rough and rutted sections common. The road can become muddy or impassable after heavy rain or snowmelt, so check conditions before heading out."
+    }
+  ],
+  "meta_title": "Sierra Madre Rockhounding - Wyoming BLM",
+  "meta_description": "Rockhound for quartz, agate, and jasper at Sierra Madre BLM land in Wyoming. No permit needed, 25 lbs/day limit. Alpine terrain, beginner friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Sierra Madre geology - no specific source confirmed all four types)",
+    "nearest_city (Rawlins assumed as closest significant town)",
+    "nearest_city_distance (estimated at 40 miles)",
+    "hazards (lightning added based on high elevation thunderstorm risk)",
+    "written_directions (constructed from general knowledge of Carbon County road systems and typical Sierra Madre access routes)"
+  ],
+  "enriched_at": "2026-04-22T06:41:04.975Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:29.848Z"
+}

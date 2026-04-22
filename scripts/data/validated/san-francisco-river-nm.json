@@ -1,0 +1,103 @@
+{
+  "slug": "san-francisco-river-nm",
+  "name": "San Francisco River",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Reserve",
+  "city_slug": "reserve",
+  "county": "Catron",
+  "county_slug": "catron",
+  "lat": 33.828408,
+  "lng": -109.021349,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Public BLM rockhounding along a scenic New Mexico river. Find agates, jasper, and chalcedony in creek beds and exposed volcanic formations. Free collecting with a 25 lb daily limit.",
+  "description": "San Francisco River winds through Catron County in southwestern New Mexico, offering excellent public rockhounding opportunities on BLM land. This high-elevation river corridor sits at approximately 7,384 feet in elevation and features a combination of volcanic geology and alluvial deposits that have concentrated collectible gemstones for millennia. The relatively flat terrain along the river makes access easier than many New Mexico rockhounding sites, though the remote location and narrow canyons require careful planning.\n\nThe geological formations here are dominated by Tertiary-age volcanic rocks and rhyolites that have weathered to produce abundant agates, jasper, and chalcedony nodules. These silica-rich minerals filled cavities in ancient lava flows and have been exposed through millions of years of erosion by the San Francisco River and its tributaries. The river's constant movement continuously exposes new material in creek beds and eroded banks, making this a reliable spot for collectors of all skill levels.\n\nCollecting along the river's banks and in nearby washes yields specimens ranging from thumb-sized nodules to occasionally larger pieces. The area's remote location means fewer collectors, so you may find untouched collecting areas if you venture away from the main river corridor. Water access and scenic canyon walls make this destination as much about the experience as about the specimens.\n\nBest collecting occurs in exposed creek beds and along eroded cutbanks where water action has naturally concentrated specimens. The flat to gently rolling terrain along the river proper allows easy walking, though side washes may be steeper and require scrambling. Spring runoff can increase water levels significantly, so plan accordingly.",
+  "history": "The San Francisco River drainage sits within the southern extension of the Colorado Plateau and Basin and Range transition zone. Miocene to Oligocene volcanic activity deposited extensive rhyolite and andesite flows in this region, and silica-rich hydrothermal fluids percolated through fractures and cavities, eventually crystallizing as the agate, jasper, and chalcedony found here today. The river's incision through these volcanic formations over the past several million years has exposed fresh material continuously.",
+  "tips": "Focus on actively eroding cutbanks and creek beds in the main river channel and side washes, where water naturally concentrates specimens. Look for weathered volcanic rock with translucent or banded silica filling cavities - these often contain nodules worth splitting. Bring a chisel and small hammer to carefully extract nodules from host rock, but avoid aggressive excavation to protect the BLM resource. The best specimens typically have a waxy or glossy luster when wet, indicating quality agate or chalcedony - test pieces by wetting them to assess color and translucency before collecting.",
+  "terrain_notes": "The elevation of 7,384 feet with flat terrain makes this more accessible than typical New Mexico rockhounding locations. The main river corridor features smooth to gently rolling ground with scattered boulders and volcanic outcrops. Vegetation includes ponderosa pine, juniper, and riparian growth along the water. Walking distances from parking areas to productive collecting zones range from less than one mile to several miles depending on chosen route. Footing is generally stable on sandy/silty river terraces, though scattered loose rock and occasional steeper side washes require attention.",
+  "best_season": "April - October. Winter months bring occasional snow and cold at this elevation, making access difficult. Spring (April-May) offers water flow exposure of fresh material. Summer heat (July-August) can be intense in exposed areas but manageable along the river corridor. Fall (September-October) provides ideal conditions with moderate temperatures and lower water levels.",
+  "written_directions": "From Reserve, New Mexico, take US 180 north toward Quemado for approximately 35 miles. Turn east on Forest Road 15 (also signed as County Road 15) and continue for approximately 18 miles through increasingly mountainous terrain. San Francisco River access points are scattered along this road and its tributary roads. The main river corridor is roughly parallel to the road at various points. Park at safe pullouts along the road and walk down to the river - multiple access points exist. Ask locally in Reserve for current conditions and specific pullout recommendations, as roads can vary seasonally.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Forest Road 15 is generally passable by standard passenger vehicles in dry conditions, but becomes rough and potentially impassable during wet weather. High-clearance or AWD vehicle recommended in spring runoff season. Road surface is dirt/gravel with occasional ruts and washboard sections.",
+  "parking_notes": "Multiple pullouts and informal parking areas exist along the road corridor near river access points. No designated lot; plan to park safely off the road near areas where you intend to hike to collecting zones. Space is limited at prime spots.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No use of power tools or explosives. Collecting is permitted from public BLM land only - respect all private property and marked claims.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo power tools or explosives\nCollect from BLM land only\nRespect private property and mining claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "flash_floods",
+    "cold",
+    "snakes",
+    "remote",
+    "loose_rock"
+  ],
+  "nearest_services": "Reserve, New Mexico, approximately 35 miles south. Services include fuel, food, and lodging. Stock up on supplies before heading north.",
+  "accessibility_notes": "Relatively flat terrain along the main river corridor accessible to most hikers with basic fitness. Unpaved forest road to primary access points but passable in dry season by standard vehicles. No wheelchair accessibility due to rough terrain and creek crossing requirements. Sturdy footwear with good grip essential for wet or rocky areas.",
+  "alternative_names": [
+    "San Francisco River BLM Collecting Area"
+  ],
+  "nearest_city": "Reserve",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/san-francisco-river-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/san-francisco-river-nm/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find at San Francisco River in New Mexico?",
+      "answer": "San Francisco River is known for agates, jasper, chalcedony, and quartz. These silica-rich minerals formed in Tertiary volcanic rocks and are exposed in creek beds and eroded banks throughout the river corridor. Agate specimens are particularly common, ranging from small thumb-sized pieces to occasionally larger nodules worth splitting open."
+    },
+    {
+      "question": "Do I need a permit to rockhound at San Francisco River?",
+      "answer": "No permit is required for recreational collecting on BLM land at San Francisco River. You must follow BLM personal use guidelines: collect only 25 lbs per day, do not use motorized equipment or power tools, and collect only for personal use. Commercial collection is not allowed."
+    },
+    {
+      "question": "What is the best season for rockhounding near Reserve, New Mexico?",
+      "answer": "April through October is best. Spring brings increased water exposure of new material, though water levels can be high. Summer offers consistent access despite heat, and fall provides ideal temperatures with lower water levels. Winter can bring snow at this 7,384-foot elevation, making access difficult."
+    },
+    {
+      "question": "How do I get to San Francisco River from Reserve?",
+      "answer": "From Reserve, take US 180 north toward Quemado for 35 miles, then turn east on Forest Road 15 and continue approximately 18 miles. Multiple pullouts and informal parking areas exist along the road near river access points. Ask locally in Reserve for current road conditions and specific access recommendations."
+    },
+    {
+      "question": "Is San Francisco River rockhounding good for beginners and families?",
+      "answer": "Yes. The relatively flat terrain along the main river corridor makes it accessible for families and new rockhounders. No special skills are required to find and collect specimens from creek beds and banks. Children ages 6 and up can participate effectively. The scenic canyon setting and easy walking make it an enjoyable outing even if you don't collect much."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at San Francisco River?",
+      "answer": "Bring a chisel and small hammer or crack hammer for carefully extracting nodules from host rock. A bucket or collection bag is essential for carrying your limit of 25 lbs. Sturdy hiking boots with good grip are necessary for wet or rocky terrain. Bring plenty of water and sun protection; the remote location means staying self-sufficient. A simple magnifying loupe helps assess specimen quality."
+    }
+  ],
+  "meta_title": "San Francisco River Rockhounding - New Mexico",
+  "meta_description": "Find agates, jasper & chalcedony at San Francisco River, New Mexico BLM land. Free public collecting near Reserve. 25 lb daily limit. Scenic river access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city",
+    "written_directions",
+    "road_conditions",
+    "parking_notes",
+    "hazards"
+  ],
+  "enriched_at": "2026-04-22T09:50:34.927Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:18.117Z"
+}

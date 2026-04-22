@@ -1,0 +1,65 @@
+{
+  "slug": "quartz-creek-co",
+  "name": "Quartz Creek",
+  "lat": 38.517407,
+  "lng": -106.667927,
+  "state": "Colorado",
+  "state_slug": "colorado",
+  "state_code": "CO",
+  "city": "Gunnison County",
+  "city_slug": "gunnison-county",
+  "county": "Gunnison",
+  "county_slug": "gunnison",
+  "geocoded_city": "Gunnison County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-colorado.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Quartz%20Creek%20Colorado"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Colorado BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Quartz%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Quartz%20Creek%20Colorado"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Colorado BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 8320,
+      "meters": 2536
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:51:19.205Z"
+  },
+  "scraped_at": "2026-04-21T16:51:19.206Z",
+  "scrape_quality": "partial"
+}

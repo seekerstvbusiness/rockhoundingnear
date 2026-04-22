@@ -1,0 +1,103 @@
+{
+  "slug": "uinta-mountains-ut",
+  "name": "Uinta Mountains",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Daggett County Area",
+  "city_slug": "daggett-county-area",
+  "county": "Duchesne",
+  "county_slug": "duchesne",
+  "lat": 40.59749,
+  "lng": -110.14035,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Agate",
+    "Jasper"
+  ],
+  "short_description": "BLM rockhounding in Utah's high Uinta Mountains where metamorphic and igneous rocks yield quartz, feldspar, and mica. Free collecting up to 25 lbs daily on public land.",
+  "description": "The Uinta Mountains rise in northeastern Utah as one of the few major mountain ranges in North America with an east-west orientation. This high-elevation site at 6,429 feet sits within Duchesne County BLM lands, offering public rockhounders access to pristine alpine and subalpine terrain rich in mineral specimens. The steep mountain slopes expose metamorphic bedrock from the Precambrian basement, along with younger igneous intrusions that have weathered to reveal quartz crystals, feldspar porphyroliths, and mica sheets across talus fields and mountainside outcrops.\n\nRockhounders here typically search talus slopes, streamside deposits, and exposed ridge faces where Alpine glaciation has concentrated loose mineral specimens. Quartz in many forms - clear, milky, and smoky varieties - is the most common find, often accompanied by pink and white feldspar. Mica sheets, ranging from clear muscovite to darker biotite, are abundant in weathered zones. Agate and jasper nodules occasionally appear in conglomerate bands within the metamorphic sequence.\n\nThe steep terrain and high elevation make this a moderate-to-hard rockhounding destination best suited to experienced hikers comfortable with 8,000+ foot elevations and scrambling over loose rock. Early season (June-July) and fall (September) offer the best windows before heavy snow closes high passes. The remoteness and alpine setting mean self-sufficiency is essential - bring water, sun protection, and be prepared for rapidly changing weather.\n\nAs BLM land, collection is free and requires no permit, though personal use limits apply. The rugged landscape rewards patience and careful observation; many of the finest specimens are found by systematically working along ridgelines and wash features where gravity has concentrated minerals.",
+  "history": "The Uinta Mountains formed during the Laramide Orogeny (80-55 million years ago) when basement Precambrian metamorphic rock was uplifted along steep reverse faults, creating one of the few east-west trending ranges in the Rocky Mountain system. Subsequent Cenozoic erosion and Pleistocene glaciation have exhumed the Archean-Proterozoic core of quartzite, schist, and granitic intrusions, exposing the mineral-rich metamorphic assemblages that rockhounders find today.",
+  "tips": "Focus your search on talus slopes below exposed ridge faces and on the weathered outer edges of large boulders - quartz crystals and mica sheets concentrate here as softer matrix material breaks down. Bring a small hand lens to spot feldspar phenocrysts in granitic boulders; they often weather slightly proud of the matrix, making them easier to locate. Look for color variation in the streamside deposits - agate and jasper typically show banding or deep red-brown hues that stand out against pale quartz gravel. Start your search early in the day when shadows help highlight mineral luster; the steep terrain demands extra caution on unstable scree, so wear sturdy boots and move deliberately.",
+  "terrain_notes": "Steep alpine terrain at 6,429 feet elevation with thin vegetation (subalpine forest transitioning to open ridges). Loose talus, scree fields, and exposed rock outcrops dominate. Walking distances from parking vary widely depending on road access - plan for 0.5 to 3+ mile hikes over uneven, rocky footing. Unstable loose rock is constant; scrambling and careful footwork required.",
+  "best_season": "June - September. High elevation means the site is snow-covered November through May. July and August offer reliable access but afternoon thunderstorms are common. September provides excellent conditions with less lightning risk and cooler temperatures for hiking steep slopes.",
+  "written_directions": "From Daggett County area, take US Route 191 north toward the Uinta Mountains. Navigate to the BLM access points in the Daggett County area - specific road access varies seasonally. Forest Service Road 018 and similar rougher BLM roads provide access to the higher elevations; a high-clearance or 4x4 vehicle is strongly recommended, especially in early season when roads are muddy or snow-patched. GPS coordinates 40.59749, -110.14035 mark the general collecting area. Confirm current road conditions with the Bureau of Land Management Vernal Field Office before departing, as high-country roads can be impassable or gated seasonally.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "High-elevation BLM roads, often rough, muddy in wet season, may be gated or snow-blocked outside June-September. High-clearance vehicle minimum; 4x4 recommended.",
+  "parking_notes": "Limited pullouts and informal parking at BLM road access points. No developed parking facilities. Space for 2-4 vehicles at typical access locations.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or power tools. Collect only loose material and specimens that can be removed by hand. Leave no waste.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand collection only\nRemove all waste",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "loose_rock",
+    "remote",
+    "wildlife"
+  ],
+  "nearest_services": "Daggett, Utah (about 20-25 miles) - small town with limited services. Vernal, Utah (about 40-50 miles) - full amenities including gas, food, lodging, and the BLM Vernal Field Office.",
+  "accessibility_notes": "Steep, rocky alpine terrain with loose talus and scree fields. No wheelchair access. Significant scrambling required. High elevation (6,429 ft) may cause altitude effects. Requires strong hiking ability, sturdy boots, and comfort on unstable footing. Not suitable for those with limited mobility or fear of heights.",
+  "alternative_names": [
+    "Uinta Range"
+  ],
+  "nearest_city": "Daggett",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/uinta-mountains-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/uinta-mountains-ut/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems and minerals can I find rockhounding in the Uinta Mountains near Daggett, Utah?",
+      "answer": "The Uinta Mountains yield quartz (clear, milky, and smoky varieties), pink and white feldspar, muscovite and biotite mica, agate, and jasper. Quartz is the most abundant find, appearing as loose crystals in talus fields and embedded in bedrock. Mica sheets are common on weathered slopes, and agate or jasper occasionally appears in conglomerate bands within the metamorphic sequence."
+    },
+    {
+      "question": "Is rockhounding free in the Uinta Mountains, and do I need a permit?",
+      "answer": "Yes, rockhounding is completely free on BLM public lands in the Uinta Mountains. No permit is required for personal collecting. You are limited to 25 pounds per day per federal FLPMA regulations. Commercial collection is not allowed."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in the Uinta Mountains?",
+      "answer": "June through September is the only viable season. The high elevation (6,429 feet) means heavy snow closes access November through May. July and August offer reliable access, but afternoon thunderstorms are common. September provides excellent conditions with reduced lightning risk and cooler temperatures for hiking steep mountain terrain."
+    },
+    {
+      "question": "How difficult is rockhounding in the Uinta Mountains, and is it suitable for beginners?",
+      "answer": "This is a hard-difficulty site best suited to experienced hikers comfortable with high elevations, steep terrain, and loose rock. The terrain involves scrambling over talus and scree fields on unstable footing. Beginners should expect to invest significant physical effort and have strong route-finding skills. Most collectors need to hike 0.5 to 3+ miles over steep alpine slopes to reach productive areas."
+    },
+    {
+      "question": "What vehicle do I need to reach the Uinta Mountains rockhounding area?",
+      "answer": "A high-clearance vehicle is the minimum, with a 4x4 strongly recommended, especially in early season or after rain. BLM access roads in this high-country area are rough, may be muddy, and can be gated or snow-blocked seasonally. Always confirm current road conditions with the BLM Vernal Field Office before departing."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding in the Uinta Mountains?",
+      "answer": "Bring sturdy hiking boots rated for steep, loose terrain, a small hand lens to identify feldspar and mica, a backpack with at least 2-3 liters of water (the high elevation is dehydrating), sun protection, a headlamp, a map and GPS device, and a scale to track your 25-pound daily limit. Bring weather gear - alpine conditions change rapidly, and afternoon thunderstorms are common. A small pry bar or rock hammer is useful for hand-collection only; motorized tools are prohibited."
+    }
+  ],
+  "meta_title": "Uinta Mountains Rockhounding - Utah BLM",
+  "meta_description": "Free BLM rockhounding in Utah's Uinta Mountains. Find quartz, feldspar, and mica at 6,400 feet. No permit needed, 25 lbs daily limit. Hard terrain, June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "parking_notes",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T06:49:16.535Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:55:23.164Z"
+}

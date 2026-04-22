@@ -1,0 +1,99 @@
+{
+  "slug": "golconda-nv",
+  "name": "Golconda",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Humboldt County Area",
+  "city_slug": "humboldt-county",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "lat": 40.942866,
+  "lng": -117.430034,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Free BLM rockhounding site in northern Nevada known for colorful agate and chalcedony specimens. Flat terrain and easy access make this ideal for beginners exploring the high desert.",
+  "description": "Golconda is a public BLM rockhounding area located in Humboldt County's remote high desert terrain. The site sits at 4,511 feet elevation on relatively flat ground, making it accessible to rockhounders of all skill levels. The area is known for producing quality specimens of banded agate, chalcedony nodules, and colorful jasper that weather out of the surrounding volcanic formations.\n\nThe geology here reflects Nevada's Basin and Range province character. Miocene-age volcanic rocks and rhyolite flows dominate the landscape, with silica-rich groundwater having deposited agate and chalcedony in fractures and cavities over millions of years. These weathered specimens are concentrated in washes and hillside outcrops, where erosion continually exposes fresh material.\n\nCollection is straightforward and free - no permits required, just bring containers and adhere to the 25-pound daily limit per federal regulations. The flat terrain means you can cover significant ground without exhausting scrambling, though the high desert environment requires sun protection and plenty of water. This is a popular destination for both weekend collectors and serious rockhounders seeking quality specimens without fees.\n\nThe surrounding landscape is typical high desert sagebrush country with excellent views across the Humboldt Range. Winter access is generally reliable given the moderate elevation and flat topography, though spring and fall offer the most pleasant collecting conditions.",
+  "history": "Golconda sits within Nevada's productive silica-rich zones formed during Miocene volcanic activity approximately 20-30 million years ago. The Humboldt County region experienced extensive rhyolite and andesite volcanism, followed by basin-and-range extension that created ideal conditions for secondary mineralization. Agate and chalcedony deposits formed as silica-laden hydrothermal fluids percolated through cooling volcanic rocks and fractured basement, precipitating in cavities and veins that remain accessible to modern rockhounders.",
+  "tips": "Search the washes and drainage bottoms first - water erosion concentrates loose specimens here and makes spotting banded agate and chalcedony easier against darker host rock. Bring a small hammer or chisel to test loose material in hillside outcrops; the best specimens often sit partially embedded in weathered rhyolite. Look for translucent bands of red, orange, white, and gray agate - the more vibrant the color contrast, the higher quality the piece. Wear sturdy boots and a hat; the flat terrain is deceptive in terms of sun exposure, and the ground can be uneven with scattered sharp volcanic rock fragments.",
+  "terrain_notes": "Flat to gently rolling high desert terrain at 4,511 feet elevation. Vegetation is sparse sagebrush and desert scrub typical of Nevada's rain shadow. Access from parking areas involves short to moderate walks across open ground with scattered volcanic rocks and some washboard texture underfoot. No major elevation gain; footing is generally stable but requires attention to loose material and occasional sharp volcanic fragments.",
+  "best_season": "October - April",
+  "written_directions": "From Winnemucca (approximately 35 miles south), take NV-140 north toward McDermitt. Continue north on NV-140 for about 30 miles. Watch for BLM signage or established rockhounding access points on the east side of the highway in the Golconda area. Parking is typically in pullouts near the road; look for areas with visible surface rock and wash drainage. High-clearance vehicle recommended for accessing some secondary collecting areas, though main sites are reachable by passenger car on improved dirt roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt road to main parking areas. Some washboard texture on access roads. Standard passenger vehicle adequate for primary collecting zones; high-clearance vehicle useful for secondary areas.",
+  "parking_notes": "BLM pullouts and informal parking areas along access roads. No developed parking lot; vehicles park along road shoulders or in small cleared areas. Capacity varies but typically accommodates 5-15 vehicles depending on location chosen.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection permitted. No motorized excavation. All collection must be recreational. Pack out all waste and respect the surrounding landscape.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation equipment\nRecreational collecting only\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Winnemucca, Nevada (approximately 35 miles south) offers gas, food, water, and lodging. Paradise Valley store approximately 20 miles north.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and rockhounders of varying mobility. Parking areas are near collecting zones, minimizing walking distance. Terrain is stable but uneven with scattered volcanic rocks requiring sturdy footwear. No wheelchair access to active collecting areas. Short distances between parking and productive ground make this suitable for families with children and those with limited stamina.",
+  "alternative_names": [],
+  "nearest_city": "Winnemucca",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/golconda-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/golconda-nv/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What agates and gemstones can I find rockhounding at Golconda, Nevada?",
+      "answer": "Golconda is known for banded agate, chalcedony nodules, colorful jasper, and quartz specimens. The agate typically displays red, orange, white, and gray banding that ranges from translucent to opaque. Chalcedony occurs both as rounded nodules in washes and as partial replacements in volcanic host rock. Best specimens show strong color contrast and good translucency."
+    },
+    {
+      "question": "Is there a permit or fee required for rockhounding at Golconda BLM land?",
+      "answer": "No permit or fee is required. Golconda is on public BLM land where recreational rockhounding is free and permitted under federal regulations. You only need to comply with the 25-pound daily collection limit and use-only-for-personal-use rule. Commercial collection and motorized excavation are not allowed."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Golconda?",
+      "answer": "October through April is ideal. The high desert climate means summer temperatures can exceed 90 degrees Fahrenheit with intense sun exposure, while winter is mild at 4,500 feet elevation. Spring and fall offer the most comfortable collecting conditions with moderate temperatures and lower UV intensity. Year-round access is generally possible due to low elevation and minimal snow."
+    },
+    {
+      "question": "How do I find agate at Golconda - should I dig or search the surface?",
+      "answer": "Start by walking and scanning washes and drainage bottoms where water erosion has concentrated loose specimens on the surface. Many quality pieces weather free from the volcanic host rock without digging. For hillside outcrops, use a small hammer or chisel to test partially exposed material in rhyolite formations. The most productive approach is surface collection in washes combined with opportunistic sampling of exposed vein material."
+    },
+    {
+      "question": "Is Golconda rockhounding site beginner-friendly and suitable for families with children?",
+      "answer": "Yes, Golconda is excellent for beginners and families. The flat terrain requires minimal hiking, parking is close to collecting areas, and specimens weather loose from the rock making collection straightforward. Children ages 6 and up can participate safely. Bring plenty of water, sun protection, and sturdy shoes. The easy access combined with genuine quality specimens makes this an ideal introductory rockhounding experience in Nevada."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Golconda, Nevada?",
+      "answer": "Bring a 5-gallon bucket or backpack for carrying specimens (25-pound limit), a small hammer and chisel for testing outcrop material, a magnifying glass for examining translucency and banding patterns, and a hand lens for detail work. Essential supplies include 2-3 liters of water per person, a wide-brimmed hat, sunscreen, sturdy hiking boots, and a light jacket for early morning collecting. A geology field guide to Nevada minerals enhances the experience."
+    }
+  ],
+  "meta_title": "Golconda Rockhounding - Free Nevada BLM Agate Site",
+  "meta_description": "Free rockhounding at Golconda, Nevada BLM land. Find agate, chalcedony, and jasper. No permit required, 25 lbs/day limit. Beginner-friendly high desert site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from regional Nevada geology; specific specimen reports would confirm",
+    "nearest_city_distance - estimated from GPS coordinates",
+    "written_directions - constructed from geographic knowledge; specific road signs should be verified",
+    "parking_notes - typical BLM pullout characteristics; site visit would confirm exact capacity and conditions"
+  ],
+  "enriched_at": "2026-04-22T06:43:16.897Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:46:09.189Z"
+}

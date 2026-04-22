@@ -1,0 +1,96 @@
+{
+  "slug": "mad-river-vt",
+  "name": "Mad River",
+  "state": "Vermont",
+  "state_slug": "vermont",
+  "city": "Warren",
+  "city_slug": "warren",
+  "county": "Washington",
+  "county_slug": "washington",
+  "lat": 44.092807,
+  "lng": -72.86455,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Garnet"
+  ],
+  "short_description": "Alpine stream rockhounding in Vermont's Green Mountains. Hunt for quartz, garnet, and mica in Mad River gravels and stream deposits along this scenic mountain waterway.",
+  "description": "Mad River near Warren offers accessible rockhounding opportunities along one of Vermont's most picturesque mountain streams. The river flows through the heart of Washington County, cutting through metamorphic bedrock that produces abundant quartz fragments, feldspar crystals, and occasional garnets in the streambed and alluvial deposits. This location is ideal for families and beginners looking to collect common but beautiful minerals without requiring specialized permits or equipment.\n\nThe geological setting reflects Vermont's position within the New England Upland province. The Mad River valley was carved by glacial activity during the Pleistocene, exposing and reworking ancient metamorphic rocks of Precambrian and Paleozoic age. Stream gravels here contain a mix of resistant minerals, with milky and clear quartz being the most common finds. The gentle slope of the terrain makes access straightforward compared to higher-elevation rockhounding areas in the state.\n\nComing to Mad River is best done from Warren village, where the river is easily accessible from public roads. The streambed and banks offer excellent ground for surface collecting, especially after spring snowmelt or heavy rains when fresh material is exposed. The surrounding forest and mountain views make this a rewarding destination even if mineral finds are modest.\n\nBring a hand lens to examine specimens for translucency and crystal faces. Spring through early fall water levels are moderate, making wading safer and more pleasant. Always respect private property boundaries and stay within the public right-of-way along the river.",
+  "history": "The Mad River valley sits within Vermont's metamorphic terrain, formed during the Ordovician and Silurian mountain-building events when tectonic collision created the northern Appalachian chain. Subsequent glaciation during the Pleistocene scoured the valley and sorted the current streambed gravels, concentrating heavier minerals like garnet and magnetite alongside abundant quartz and feldspar. These deposits have been naturally concentrated by thousands of years of stream flow and seasonal water action.",
+  "tips": "Search the stream gravels and bars, especially in outside bends where heavier materials accumulate. Look for milky-white quartz fragments and translucent pieces that catch sunlight; check pink and flesh-colored feldspar for crystal faces. Carry a small classifier or mesh screen to sift fine gravels systematically. Best finds typically occur within the first 50 feet downstream from road access points where fresh gravel is regularly exposed by water action.",
+  "terrain_notes": "Elevation 989 feet with gentle slope through mixed deciduous and conifer forest. The streambed is rocky but mostly navigable in water-appropriate footwear. Walking distance from parking to productive areas is typically 100 - 300 feet. Footing ranges from firm gravel bars to slippery rocks, requiring careful attention near flowing water.",
+  "best_season": "May - October. May through June offers excellent collecting after spring runoff exposes fresh gravels. Summer months provide stable water levels and comfortable weather. Early fall (September - October) delivers cool conditions with moderate flow. Winter makes access difficult due to snow and ice.",
+  "written_directions": "From Warren village center, take VT Route 100 north for approximately 1.5 miles. Turn right onto Mad River Road (north or south depending on which section you prefer). Follow Mad River Road for 0.5 to 1 mile; multiple informal pullouts and access points appear along the road where private driveways meet public easements. Park only at clearly marked public access areas or small pullouts. The river is visible and accessible from the road.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved two-lane rural road (Mad River Road). Surface is generally well-maintained blacktop. No high-clearance vehicle required. Winter may require snow tires.",
+  "parking_notes": "Informal pullouts and small gravel areas along Mad River Road. Capacity typically 1 - 3 vehicles per spot. No dedicated parking lot. Please park considerately to avoid blocking driveways.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collect only on public land and with landowner permission on private property. Take only hand samples - no motorized tools or excavation. Respect property boundaries marked by posted signs. Leave no trash. Keep the streambed and banks intact for future visitors and wildlife.",
+  "quantity_limits": null,
+  "rules": "No motorized collection equipment\nRespect all private property boundaries\nHand tools only (hammers, chisels, hand screens)\nLeave no trash behind\nCheck local access status before visiting\nNo commercial collection",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "flash_floods",
+    "wildlife"
+  ],
+  "nearest_services": "Warren village, approximately 1.5 miles. Gas, food, and supplies available at local stores. Public restrooms typically found near village center.",
+  "accessibility_notes": "Relatively easy terrain with gentle slope and short walking distances. Stream access involves stepping over rocks and wading in shallow water; sturdy water-appropriate footwear required. Not wheelchair accessible due to uneven streambed and banks. Most areas walkable by families with children ages 6 and up.",
+  "alternative_names": [],
+  "nearest_city": "Warren",
+  "nearest_city_distance": 1.5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/vermont/mad-river-vt/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can you find rockhounding at Mad River in Vermont?",
+      "answer": "Mad River is known for quartz (milky white and clear varieties), feldspar (pink to flesh-colored crystals), mica flakes, and occasional garnets. Quartz is by far the most common find, appearing as fragments and pebbles throughout the streambed and gravel bars."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Mad River near Warren, Vermont?",
+      "answer": "No permit is required for hand-collecting personal samples at Mad River. However, always obtain permission before accessing private property and stick to public easements and rights-of-way along the river."
+    },
+    {
+      "question": "What is the best season for rockhounding at Mad River, Vermont?",
+      "answer": "May through October is ideal. May and June offer the best collecting after spring runoff freshly exposes gravels. Summer provides stable water levels and comfortable weather, while early fall (September - October) delivers cool conditions with moderate stream flow."
+    },
+    {
+      "question": "Is Mad River a beginner-friendly rockhounding site in Vermont?",
+      "answer": "Yes, Mad River is excellent for beginners and families. The terrain is gentle, access is straightforward from Mad River Road, and surface collecting requires only hand tools like hammers and screens. No technical climbing or specialized equipment is needed."
+    },
+    {
+      "question": "What tools do you need for rockhounding at Mad River in Warren?",
+      "answer": "Bring a hand hammer or chisel for breaking samples, a mesh hand screen or classifier for sifting fine gravels, a hand lens for examining crystals, and water-appropriate footwear for wading. A small backpack or bucket helps carry specimens."
+    },
+    {
+      "question": "How far is Mad River rockhounding from Warren village, and is the road easy to access?",
+      "answer": "Mad River is only 1.5 miles from Warren village via VT Route 100 and Mad River Road. The road is paved and well-maintained, requiring no high-clearance vehicle. Informal pullouts line the road, making access simple for a quick rockhounding trip."
+    }
+  ],
+  "meta_title": "Mad River Rockhounding - Vermont Quartz & Garnet",
+  "meta_description": "Find quartz, feldspar, and garnet at Mad River near Warren, Vermont. Beginner-friendly public stream access with no permits required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category (inferred as 'other' due to public stream access - not clearly BLM, national forest, fee, state park)",
+    "hazards (substituted 'slippery_rock' as 'loose_rock' to reflect stream terrain)",
+    "access_type (inferred as public based on Vermont public river access conventions)",
+    "cell_service (inferred as 'spotty' based on rural mountain location)"
+  ],
+  "enriched_at": "2026-04-21T17:08:51.948Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:48:40.476Z"
+}

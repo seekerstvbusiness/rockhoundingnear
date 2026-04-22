@@ -1,0 +1,60 @@
+{
+  "slug": "aughwick-creek-pa",
+  "name": "Aughwick Creek",
+  "lat": 40.151088,
+  "lng": -77.949227,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Springfield Township",
+  "city_slug": "springfield-township",
+  "county": "Huntingdon",
+  "county_slug": "huntingdon",
+  "geocoded_city": "Springfield Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Aughwick%20Creek%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Aughwick%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Aughwick%20Creek%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 824,
+      "meters": 251
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:47:53.230Z"
+  },
+  "scraped_at": "2026-04-21T18:47:53.231Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "whitehall-mt",
+  "name": "Whitehall",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Jefferson County Area",
+  "city_slug": "jefferson-county",
+  "county": "Jefferson",
+  "county_slug": "jefferson",
+  "lat": 45.917913,
+  "lng": -112.04108,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "Free BLM rockhounding near Whitehall featuring agate and chalcedony in scenic foothill terrain. No permit required, 25 lb daily limit.",
+  "description": "Whitehall sits in the northern Jefferson County area of Montana's Basin and Range province, offering accessible rockhounding on public BLM land. This region is known for quality agate and chalcedony deposits formed in ancient volcanic deposits and silica-rich fluid zones. The site offers a low-pressure introduction to Montana rockhounding with no permit requirements and minimal regulations for personal collectors.\n\nThe terrain around Whitehall ranges from open sagebrush hillsides to rocky washes where agates and chalcedony specimens are exposed by seasonal erosion. The 5600+ foot elevation means cold winters but excellent collecting conditions in shoulder seasons. Collectors should expect uneven rocky footing and some exposure to sun, but the access is straightforward from public roads.\n\nThis BLM location welcomes recreational rockhounds following simple rules: collect for personal use only, stay within the 25-pound daily limit, and avoid motorized excavation. The Whitehall area provides solid beginner opportunities alongside rewarding finds for experienced collectors who know where to look for the best agate specimens. Nearby services in Whitehall and Jefferson City make planning a day trip straightforward.",
+  "history": "This area sits within the Basin and Range province where Miocene and Oligocene volcanic activity deposited silica-rich fluids in fractures and cavities of host rock, forming the agate and chalcedony nodules found today. Historical prospecting in the Jefferson County region documented these deposits, making Whitehall a known collecting area among Montana rockhounds for several decades.",
+  "tips": "Search exposed washes and gully bottoms where erosion naturally concentrates agate and chalcedony specimens - these areas often show banding patterns and color variation. Bring a 10x loupe to examine specimens in place; look for translucency and color depth before collecting, as surface-weathered pieces may hide higher-quality interior material. Use a hammer and chisel to carefully extract nodules from matrix, then test weight frequently to stay within the 25-pound daily limit. Early morning or late afternoon light makes spotting banded agates easier against the sagebrush landscape.",
+  "terrain_notes": "Elevation 5608 feet in rolling sagebrush and grassland with rocky outcrops and seasonal washes. Terrain is moderately uneven with loose rock common; sturdy hiking boots essential. Walking distance from parking typically 0.5 to 2 miles depending on chosen drainage or hillside. Some areas have steeper slopes; footing requires attention to loose stones.",
+  "best_season": "May - September. Winter snow makes access difficult at 5600+ feet elevation. Late spring (May-June) and early fall (September) offer ideal conditions with moderate temperatures and dry ground. Summer heat can be intense in exposed areas; plan early morning or late afternoon sessions.",
+  "written_directions": "From Whitehall, head south on MT-41 toward the Jefferson County area for approximately 8-10 miles. Look for BLM access points and pullouts along local roads; consult current BLM maps for exact turnoffs as access routes may vary seasonally. GPS coordinates 45.917913, -112.04108 pinpoint the general collecting area. High-clearance vehicle recommended for rough ranch roads; passenger vehicles can access nearby pullouts on main roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Main access via paved MT-41, with secondary ranch roads and BLM access roads ranging from graded dirt to rough two-track. High-clearance helpful but not always required.",
+  "parking_notes": "Informal pullouts and parking areas along BLM access roads. No developed parking lot; space is limited at popular turnouts. Arrive early during peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect only loose material or nodules; do not damage formations or remove large sections of outcrop.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo collecting from private land adjacent to BLM parcels",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Whitehall has basic services including gas and food approximately 8-10 miles north. Jefferson City offers additional supplies.",
+  "accessibility_notes": "Terrain is moderately uneven with rocky footing and loose material common. No wheelchair access to productive collecting areas. Short walks (under 2 miles) to most sites are manageable for families with elementary-age children. Sturdy footwear essential. Minimal shade in sagebrush areas; sun exposure significant.",
+  "alternative_names": [
+    "Whitehall BLM Collecting Area",
+    "Jefferson County Agate Fields"
+  ],
+  "nearest_city": "Whitehall",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/whitehall-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/whitehall-mt/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/whitehall-mt/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can you find rockhounding near Whitehall, Montana?",
+      "answer": "The Whitehall area is known for quality agate and chalcedony specimens, along with quartz and jasper. These form in the silica-rich geology of the Basin and Range province. Most collectors find specimens ranging from thumbnail size to palm-sized pieces on BLM land here."
+    },
+    {
+      "question": "Do you need a permit to collect agates at Whitehall on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Whitehall. Montana BLM allows personal use collection with no permit, though you must follow the 25-pound daily limit and other FLPMA guidelines."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Whitehall, Montana?",
+      "answer": "May through September is ideal. The 5600-foot elevation means winter snow closes access, while spring and fall offer comfortable temperatures. Late spring and early fall avoid summer heat while providing dry collecting conditions."
+    },
+    {
+      "question": "Can families with kids find agates at Whitehall rockhounding sites?",
+      "answer": "Yes, Whitehall is beginner and family-friendly. Kids as young as 6 can enjoy walking washes and hillsides to spot banded agates. The terrain is accessible for day trips, though sturdy boots are essential due to loose rock."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding agate at Whitehall?",
+      "answer": "Bring a good loupe or magnifying glass to examine specimens, a small hammer and chisel for extraction, heavy gloves for protection from sharp edges, and a collection bag. A scale helps track the 25-pound daily limit. Wear sun protection and bring water for the exposed sagebrush terrain."
+    },
+    {
+      "question": "How far is Whitehall rockhounding area from the nearest town with supplies?",
+      "answer": "Whitehall town is approximately 8-10 miles north of the main BLM collecting areas. The town offers gas and basic food services. Plan your trip to resupply before heading to remote sections of the collecting area."
+    }
+  ],
+  "meta_title": "Whitehall Rockhounding - Montana Agate & Chalcedony",
+  "meta_description": "Free BLM rockhounding at Whitehall, MT. Find agate and chalcedony on public land. No permit required, 25 lb daily limit. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-21T19:06:47.235Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:10:04.925Z"
+}

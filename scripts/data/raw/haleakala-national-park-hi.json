@@ -1,0 +1,60 @@
+{
+  "slug": "haleakala-national-park-hi",
+  "name": "Haleakala National Park",
+  "lat": 20.708005,
+  "lng": -156.178469,
+  "state": "Hawaii",
+  "state_slug": "hawaii",
+  "state_code": "HI",
+  "city": "Maui County",
+  "city_slug": "maui-county",
+  "county": "Maui",
+  "county_slug": "maui",
+  "geocoded_city": "Maui County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-hawaii.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Haleakala%20National%20Park%20Hawaii"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Haleakala%20National%20Park",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Haleakala%20National%20Park%20Hawaii"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 7200,
+      "meters": 2194
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:32:55.771Z"
+  },
+  "scraped_at": "2026-04-21T16:32:55.771Z",
+  "scrape_quality": "minimal"
+}

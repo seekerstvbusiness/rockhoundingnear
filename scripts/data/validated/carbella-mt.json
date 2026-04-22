@@ -1,0 +1,97 @@
+{
+  "slug": "carbella-mt",
+  "name": "Carbella",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Carbella",
+  "city_slug": "park-county",
+  "county": "Park",
+  "county_slug": "park",
+  "lat": 45.217457,
+  "lng": -110.927334,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding near Carbella offers accessible collecting of agate and jasper specimens in moderate terrain. Personal use up to 25 lbs daily with no permit required.",
+  "description": "Carbella is a small rockhounding destination on Montana BLM land in Park County, situated at moderate elevation in the northern Rocky Mountain foothills. The area is characterized by moderate slopes and exposed geological formations that yield quality agate, jasper, and chalcedony specimens. This is a relaxed, no-permit recreational collecting opportunity well-suited to families and beginners who want to explore public lands without bureaucratic barriers.\n\nThe geology here reflects the complex volcanic and sedimentary history of southwestern Montana. Tertiary-age volcanic activity and subsequent weathering have exposed silica-rich mineral deposits in outcrop and scattered surface material. Agates and jaspers formed in ancient hydrothermal environments and were brought to the surface through erosion and uplift of the region. The moderate slope terrain makes hiking and specimen hunting manageable for most fitness levels.\n\nExpect to find hand-sized to fist-sized agate nodules, banded jasper fragments, and translucent chalcedony pieces scattered on hillsides and in wash areas. The collection is typically a mix of gem-quality and decorative material - sorting through dozens of pieces to find the best specimens is part of the experience. Water access may be limited, so bring your own supplies.\n\nAs BLM land, this site welcomes recreational rockhounders under the Federal Land Policy and Management Act (FLPMA). The relaxed rules and lack of entrance fees make it an excellent choice for a casual day trip or family outing. Respect the land by staying on established routes where possible and leaving the area as you found it.",
+  "history": "This region of Park County sits within southwestern Montana's volcanic plateau, where Tertiary-age igneous activity (roughly 50 to 20 million years ago) created silica-rich hydrothermal systems that deposited agate and jasper. Subsequent uplift and erosion of the northern Rocky Mountains exposed these mineral-bearing formations, making surface collecting possible today.",
+  "tips": "Search hillside washes and the bases of rocky outcrops where water erosion concentrates heavier mineral specimens. Bring a small hand lens to inspect banding patterns and translucency before collecting - the best agates show strong color and visible chalcedony depth. Look for pieces with vibrant reds, oranges, and earth tones characteristic of Montana jaspers. A small digging bar or pry bar is useful for extracting specimens from loose matrix, but no motorized excavation is permitted.",
+  "terrain_notes": "Moderate slope terrain at 5,583 feet elevation with typical high-elevation Montana vegetation including sagebrush and scattered conifers. Footing is uneven with loose rock and scattered talus. Walking distance from parking to prime collecting areas is typically 0.5 to 2 miles depending on chosen route. Terrain is accessible to hikers with reasonable fitness but not suitable for wheelchair access or those with mobility limitations.",
+  "best_season": "June - September. High elevation (above 5,500 ft) means winter snow and cold temps make access difficult. Late spring through early fall offers the best combination of road access, mild weather, and manageable hiking conditions.",
+  "written_directions": "From Livingston, Montana (nearest significant town), take US 89 south toward Yellowstone approximately 30 miles. Near Carbella, turn onto Park County Road (local forest/ranch roads). GPS coordinates 45.217457, -110.927334 will guide you to the BLM parcel. Road conditions are rough dirt/gravel suitable for high-clearance vehicles; check locally for current road status before visiting. Park at pullouts near the GPS coordinates and hike to exposed slopes and wash areas.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and gravel ranch roads with moderate washboard. High-clearance vehicle recommended; passenger car acceptable in dry conditions but rough in wet weather.",
+  "parking_notes": "Informal pullouts along ranch roads near the collecting area. No developed parking lot. Space for 2-4 vehicles at typical pullout locations.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Hand tools only. Pack out all waste. Stay on established routes where possible.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo open fires\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "wildlife",
+    "remote",
+    "cold"
+  ],
+  "nearest_services": "Livingston, Montana (approximately 30 miles north) has gas, food, lodging, and water supplies.",
+  "accessibility_notes": "Moderate slope terrain with uneven, rocky footing. No wheelchair access. Sturdy hiking boots strongly recommended. Walking distance to prime areas is 0.5 to 2 miles on unmarked terrain. Not suitable for people with limited mobility or young children who cannot hike uneven terrain.",
+  "alternative_names": [],
+  "nearest_city": "Livingston",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/carbella-mt/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Carbella, Montana?",
+      "answer": "The primary specimens at Carbella are agate, jasper, chalcedony, and quartz. Most pieces are hand-sized to fist-sized, ranging from decorative to gem quality. Agates often display banding in reds, oranges, and earth tones. Jasper specimens frequently show color variation and can be polished for jewelry or display."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Carbella?",
+      "answer": "No permit is required. Carbella sits on Montana BLM public land where recreational collecting is allowed under FLPMA rules. Simply arrive, park at a pullout, and begin collecting - no paperwork needed."
+    },
+    {
+      "question": "How much can I collect per day at Carbella BLM land?",
+      "answer": "The legal limit is 25 lbs per day for personal use only. This is a Federal Land Policy and Management Act (FLPMA) standard for BLM rockhounding. Commercial collection is prohibited."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Carbella?",
+      "answer": "June through September is ideal. The site sits at 5,583 feet elevation, so winter brings snow and cold that limit access. Spring runoff can make roads muddy. Late summer offers the most reliable weather and road conditions."
+    },
+    {
+      "question": "Is Carbella rockhounding site suitable for families and beginners?",
+      "answer": "Yes, Carbella is beginner-friendly with no permit requirements and accessible moderate terrain. Families with children ages 6 and up can enjoy surface collecting. No specialized tools are required - a small hand lens and digging bar are helpful but not essential."
+    },
+    {
+      "question": "What should I bring when rockhounding near Carbella, Montana?",
+      "answer": "Bring plenty of water (none available on site), sturdy hiking boots, a small hand lens to inspect specimens, a pry bar or small shovel for extraction, a collection bag, sun protection, and a map with GPS coordinates. Cell service is spotty, so inform someone of your plans. High-clearance vehicle is recommended for the rough ranch roads."
+    }
+  ],
+  "meta_title": "Carbella Rockhounding - Montana Agate & Jasper",
+  "meta_description": "Free BLM rockhounding near Carbella, MT. Find agate, jasper, and chalcedony. No permit needed, 25 lb daily limit. Perfect for families and beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-21T19:07:51.574Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:11:37.620Z"
+}

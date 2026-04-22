@@ -1,0 +1,99 @@
+{
+  "slug": "big-cottonwood-mining-district-ut",
+  "name": "Big Cottonwood mining district",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Salt Lake City",
+  "city_slug": "salt-lake-city",
+  "county": "Salt Lake",
+  "county_slug": "salt-lake",
+  "lat": 40.607741,
+  "lng": -111.651523,
+  "gem_types": [
+    "Gold",
+    "Silver",
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Historic mining district in the Wasatch Range offering public BLM rockhounding for gold, silver, and quartz specimens. No permit required for personal use collection.",
+  "description": "The Big Cottonwood mining district sits high in the Wasatch Mountains southeast of Salt Lake City, an area with nearly 150 years of mining history. This region was heavily prospected and mined during the 1800s and early 1900s, producing significant quantities of precious metals and mineral specimens. Today, BLM-managed public land allows recreational rockhounders to search for quartz, feldspar, mica, and small gold flakes in the weathered outcrops and creek washes throughout the canyon.\n\nThe geology here reflects classic Basin and Range mineralization overlaid with Wasatch Range uplift. Quartz veins cutting through granitic and metamorphic host rock created the conditions for both historic mining and modern collecting opportunities. The higher elevation (around 6,500-8,000 feet depending on exact location within the district) means you are working in alpine and subalpine terrain with seasonal snow and cooler temperatures.\n\nVisitors should expect rocky, uneven terrain with moderate to steep slopes in places. The best collecting is typically found near old mine workings, along creek beds where material has been naturally weathered and sorted, and in exposed hillside outcrops. Gold panning and small-scale hand picking are both viable here. The surrounding scenery is stunning, with views down Big Cottonwood Canyon toward the valley.\n\nThis is a working historic district with both active and abandoned claims. Always respect posted claim boundaries and avoid any structures or equipment that may indicate active mining. The remote location and higher elevation mean weather can change quickly, and services are 30+ minutes away.",
+  "history": "The Big Cottonwood mining district became a major silver and gold producer in the 1870s-1920s, with the discovery of rich ore bodies in quartz veins within the Wasatch Range granitic and metamorphic rocks. These deposits formed during Tertiary-age hydrothermal mineralization when hot, mineral-rich fluids moved through fractures in the uplifting Wasatch block, precipitating quartz, feldspar, and ore minerals that attracted hundreds of miners and prospectors to the canyon.",
+  "tips": "Search the banks and exposed gravels of Big Cottonwood Creek and its tributaries, where natural erosion concentrates heavier minerals and occasionally exposes small gold flakes. Target the quartz-rich hillsides and old mine dumps (avoiding active claim areas), where white quartz crystals and feldspar specimens are most abundant. Bring a small gold pan or classifier if you want to process creek material; a rock hammer and chisel work well for extracting quartz specimens from outcrops. Early morning in late spring or early fall offers the best combination of good weather, longer days, and lower creek flows for wading.",
+  "terrain_notes": "Elevation ranges from 6,500 to 8,000+ feet within the district. Terrain is steep to moderate with mixed conifer forest, talus slopes, and exposed rocky ridges. Walking distance from parking to productive areas varies from 0.5 to 2+ miles depending on which section you access. Footing is uneven with loose talus, rocks, and roots common. No maintained trails in most collecting areas; route finding is necessary.",
+  "best_season": "June - September. The high elevation means snow closes many access roads from October through May. Summer and early fall offer the most reliable access, though afternoon thunderstorms are common in July-August. Late June and early September typically provide the best combination of clear weather and manageable crowds.",
+  "written_directions": "From Salt Lake City, take I-215 south or east to exit onto 6200 South (UT-190), heading east toward the Cottonwoods. Follow 6200 South as it becomes Big Cottonwood Canyon Road. Continue on this road for approximately 12-15 miles into the canyon, passing the town of Brighton. Access points and pullouts are scattered along the canyon road; consult a detailed map or contact the Salt Lake Ranger District for specific collecting areas and current access status. Most productive rockhounding areas are a short walk from pullouts along the main canyon road.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved canyon road in good condition to the ski resort areas. Higher elevation sections may have rough spots. Winter closure common November-April. Check local conditions before traveling in late spring or early fall.",
+  "parking_notes": "Multiple pullouts and informal parking areas along Big Cottonwood Canyon Road. No developed parking lot for rockhounding; use roadside pullouts. Capacity varies; arrive early on weekends during peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection or resale. No motorized excavation or mechanical removal of material. Respect all posted mining claims and claim markers. Do not enter or disturb mine structures, shafts, or equipment. Collection limited to hand tools such as hammers, chisels, picks, and pans. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only - no commercial collection\n25 lb daily limit per FLPMA\nHand tools only - no motorized equipment\nRespect all posted mining claims\nNo disturbance of mine structures or equipment\nPack out all trash\nFollow all BLM regulations for public lands",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Salt Lake City, approximately 20 miles west, has full services including gas, food, lodging, and hospitals. Brighton ski resort area (within the canyon, 15 miles from canyon mouth) has limited services in season.",
+  "accessibility_notes": "Moderate terrain with uneven, rocky footing and loose talus common. No wheelchair access to productive collecting areas. Steep hillsides in many locations. Sturdy hiking boots strongly recommended. High elevation (6,500+ feet) may affect those with respiratory sensitivities. Short walks from parking are possible, but most productive areas require hiking 0.5-2 miles on unmaintained terrain.",
+  "alternative_names": [
+    "Big Cottonwood Canyon mining district"
+  ],
+  "nearest_city": "Salt Lake City",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/big-cottonwood-mining-district-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What minerals and gems can you find rockhounding at Big Cottonwood mining district?",
+      "answer": "Big Cottonwood is known for gold, silver, quartz crystals, feldspar, and mica specimens. Most rockhounders find small gold flakes in creek washes and white quartz veins in hillside outcrops. The historic mining activity here concentrated ore minerals, making it an excellent location for collectors seeking alpine quartz specimens and occasional silver-bearing minerals."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Big Cottonwood mining district in Utah?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Big Cottonwood. The area allows personal-use collection under FLPMA regulations without advance permission. However, you must respect all posted mining claims and stay within the 25 lb per day collection limit. Always check current access status with the Salt Lake Ranger District before visiting."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Salt Lake City at Big Cottonwood?",
+      "answer": "June through September is ideal, as the high elevation (6,500-8,000 feet) experiences heavy snow from October through May that closes canyon access. Late June and early September offer the best combination of clear weather, manageable crowds, and low water in the creeks for wading and panning. Avoid July-August if you prefer fewer people, though afternoon thunderstorms are common then."
+    },
+    {
+      "question": "How do you find gold at Big Cottonwood mining district near Salt Lake City?",
+      "answer": "Gold at Big Cottonwood is typically found as small flakes in creek washes and along exposed stream banks where natural erosion concentrates heavier minerals. Use a gold pan or classifier on material from Big Cottonwood Creek and its tributaries. Check the banks for black sand accumulations (magnetite) which often accompany gold. Small amounts of gold can also be found in the broken quartz and weathered rock from old mine sites."
+    },
+    {
+      "question": "Is Big Cottonwood mining district beginner-friendly for rockhounding?",
+      "answer": "Yes, Big Cottonwood is suitable for beginners with kids age 8 and up. The canyon road provides easy access to pullouts, and short walks from parking lead to productive collecting areas. Hand tools and basic gold pans are all you need. However, the high elevation and uneven terrain require sturdy boots and physical fitness. Respect for mining claims and BLM regulations is essential."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at Big Cottonwood mining district?",
+      "answer": "Bring a rock hammer and chisel for extracting quartz specimens from outcrops, a small gold pan or classifier for creek material processing, and a backpack for collecting. Sturdy hiking boots are essential due to loose talus and steep terrain. A small shovel or trowel is helpful for digging in creek banks. Pack water, sun protection, and a map since cell service is spotty at this remote location."
+    }
+  ],
+  "meta_title": "Big Cottonwood Mining District Rockhounding - Utah",
+  "meta_description": "Find gold, quartz, and feldspar at Big Cottonwood mining district near Salt Lake City. Free BLM rockhounding, no permit required. 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category, written_directions, vehicle_required, road_conditions, parking_notes"
+  ],
+  "enriched_at": "2026-04-22T06:52:05.587Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:59:30.681Z"
+}

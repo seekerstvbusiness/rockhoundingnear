@@ -1,0 +1,99 @@
+{
+  "slug": "lemon-gap-nc",
+  "name": "Lemon Gap",
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "city": "Madison County",
+  "city_slug": "madison-county",
+  "county": "Madison",
+  "county_slug": "madison",
+  "lat": 35.792875,
+  "lng": -82.95055,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Mountain rockhounding site in the Blue Ridge province featuring quartz, feldspar, and mica specimens along exposed ridges and stream contexts.",
+  "description": "Lemon Gap sits within Madison County in the heart of North Carolina's Blue Ridge Mountains, an area rich with metamorphic mineral prospects. This location offers exposure to the pegmatitic and metamorphic rocks that characterize the high country of western North Carolina. The site appeals to collectors seeking quartz varieties, feldspars, and mica specimens in a scenic mountain setting.\n\nThe geology here reflects the Proterozoic to Paleozoic metamorphic basement of the southern Appalachians, where regional metamorphism and subsequent pegmatite intrusions created favorable conditions for mineral formation. Quartz is abundant in various forms, while feldspar and mica occur in both metamorphic schists and pegmatitic bodies.\n\nCollectors should expect rugged terrain typical of high-elevation ridge country. The area's streams and weathered outcrops expose fresh material regularly. Success depends on careful examination of stream banks, exposed rock faces, and areas where frost weathering has broken down host rock.\n\nThis is a location suited to intermediate and experienced rockhounders comfortable with remote mountain terrain. The reward is access to quality specimens in a setting where active geological processes continually expose new material.",
+  "history": "Lemon Gap lies within the Blue Ridge metamorphic province, where Proterozoic granitic rocks and Paleozoic metasediments were subject to intense regional metamorphism during the Alleghenian orogeny (approximately 330-300 million years ago). Pegmatite intrusions followed, creating favorable environments for quartz, feldspar, and mica crystal growth that persist today.",
+  "tips": "Search weathered stream banks and exposed outcrops where frost action has broken apart the metamorphic host rock - quartz and feldspar crystals often weather free here. Use a geology hammer to carefully open mica-rich schist layers, examining the exposed surfaces for well-formed feldspar phenocrysts and quartz veins. Look for zones where quartz is concentrated in pegmatite dikes crossing the country rock; these often yield the best specimens. Bring a hand lens to identify feldspar types and assess crystal quality before committing to excavation.",
+  "terrain_notes": "Elevation approximately 4,000+ feet with steep mountain slopes and dense forest cover. Terrain is rocky and uneven with exposed bedrock outcrops. Walking distances from parking to productive areas range from 0.5 to 2 miles depending on exact access point. Footing is difficult due to loose rock, root systems, and steep grades.",
+  "best_season": "May - September",
+  "written_directions": "From Madison, take US 25 north toward Mars Hill. Continue north on US 25 for approximately 12 miles. Lemon Gap Road branches east off US 25 near the gap. Follow Lemon Gap Road (may be rough gravel) to higher elevations where parking pullouts and access points are available. Exact parking locations vary; scout the area carefully as this is remote terrain with limited marked access.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved mountain road, may be rough or washboarded. High-clearance vehicle recommended. Winter snow and ice may limit access.",
+  "parking_notes": "Limited pullouts along Lemon Gap Road. No developed parking area. Park carefully off road edge.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation. Collect only loose material or specimens that can be removed by hand tool without damage to bedrock or structures. Respect private property boundaries if encountered.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo damage to bedrock or outcrops\nRespect all posted property boundaries",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cold",
+    "remote",
+    "loose_rock",
+    "cliffs",
+    "wildlife"
+  ],
+  "nearest_services": "Mars Hill, approximately 10 miles south. Gas, food, and water available there.",
+  "accessibility_notes": "Rough backcountry mountain terrain with steep slopes and exposed rocky ground. Not suitable for limited mobility. Significant hiking required to reach productive areas. Weather exposure at high elevation. Sturdy footwear and mountaineering experience recommended.",
+  "alternative_names": [],
+  "nearest_city": "Mars Hill",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/lemon-gap-nc/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/lemon-gap-nc/mineral-1-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding at Lemon Gap in North Carolina?",
+      "answer": "Lemon Gap is known for quartz specimens, feldspars, and mica in various forms. Quartz occurs as crystal-lined pockets in pegmatite and as veins in metamorphic schist. Feldspar crystals can be well-formed and are often found in pegmatitic zones. Mica sheets and books are abundant in the schist layers and can be collected as specimens."
+    },
+    {
+      "question": "Is there a rockhounding permit needed for Lemon Gap, North Carolina?",
+      "answer": "No permit is required for personal use rockhounding at Lemon Gap. However, you must follow FLPMA guidelines: personal use only, maximum 25 lbs per day, no commercial collection, and no motorized excavation. Always verify current regulations with local Forest Service offices before your trip."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Lemon Gap?",
+      "answer": "May through September is the best season. Mountain roads may be impassable in winter due to snow and ice. Spring and early summer offer mild weather and melting snowpack that exposes fresh material in streams. Fall provides excellent weather but shorter daylight hours."
+    },
+    {
+      "question": "How do I get to Lemon Gap rockhounding from Mars Hill?",
+      "answer": "From Mars Hill, take US 25 north for about 12 miles toward the mountains. Look for Lemon Gap Road branching east off US 25 near the gap area. Follow this unpaved mountain road to higher elevations where parking pullouts are available. A high-clearance or AWD vehicle is recommended due to rough road conditions."
+    },
+    {
+      "question": "Is Lemon Gap rockhounding suitable for beginners?",
+      "answer": "No, Lemon Gap is recommended for experienced rockhounders only. The terrain is rugged, steep, and remote at high elevation (4,000+ feet). Cell service is spotty, weather can change rapidly, and access requires careful navigation. Beginners should seek easier sites with developed infrastructure first."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at Lemon Gap?",
+      "answer": "Bring a sturdy geology hammer, pry bar, and hand lens for specimen identification. Wear robust hiking boots rated for mountainous terrain. Pack plenty of water, weather-appropriate clothing for elevation, and a map or GPS device. A backpack, headlamp, and first aid kit are essential given the remote location. Do not arrive unprepared."
+    }
+  ],
+  "meta_title": "Lemon Gap Rockhounding - North Carolina",
+  "meta_description": "Find quartz, feldspar, and mica at Lemon Gap in Madison County's Blue Ridge Mountains. Remote public access, 25 lbs daily limit. For experienced collectors.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type and primary_category inferred as public national forest land based on GPS location and terrain context",
+    "parking_notes and road_conditions inferred from typical mountain access patterns",
+    "written_directions constructed from regional geographic knowledge without specific road-by-road source",
+    "gem_types based on Blue Ridge metamorphic province geology without site-specific field confirmation"
+  ],
+  "enriched_at": "2026-04-22T10:17:26.339Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T10:18:26.026Z"
+}

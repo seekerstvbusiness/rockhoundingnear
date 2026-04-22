@@ -1,0 +1,69 @@
+{
+  "slug": "opalescent-river-ny",
+  "name": "Opalescent River",
+  "lat": 44.018066,
+  "lng": -74.047831,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Town of Newcomb",
+  "city_slug": "town-of-newcomb",
+  "county": "Essex",
+  "county_slug": "essex",
+  "geocoded_city": "Town of Newcomb",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Opalescent%20River%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Opalescent%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Opalescent%20River%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1723,
+      "meters": 525
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": [
+      {
+        "name": "High Peaks Wilderness",
+        "type": "protected_area"
+      },
+      {
+        "name": "Vanderwhacker Mountain Wild Forest",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-21T18:37:42.338Z"
+  },
+  "scraped_at": "2026-04-21T18:37:42.338Z",
+  "scrape_quality": "minimal"
+}

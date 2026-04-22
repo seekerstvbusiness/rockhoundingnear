@@ -1,0 +1,101 @@
+{
+  "slug": "shelly-creek-monkey-creek-mines-ca",
+  "name": "Shelly Creek & Monkey Creek Mines",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Del Norte County Area",
+  "city_slug": "del-norte-county",
+  "county": "Del Norte",
+  "county_slug": "del-norte",
+  "lat": 41.961765,
+  "lng": -123.80202,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "Historic gold mining areas in the rugged Del Norte County backcountry. BLM public land open to rockhounders seeking gold and quartz specimens with minimal restrictions.",
+  "description": "Shelly Creek and Monkey Creek Mines represent two of the productive placer and hard rock mining sites in Del Norte County's gold country. Located at moderate elevation in the Klamath Mountains, these creeks have attracted prospectors since the 1800s. The terrain is characterized by dense forest mixed with exposed rock outcrops where mineralization is visible. These BLM lands offer genuine opportunities to search for gold flakes and quartz in creek beds and exposed veins, with the added appeal of exploring genuine mining history. The moderate slope terrain requires some hiking effort but rewards visitors with both geological interest and collecting potential. Water access from the creek systems makes this an excellent location for wet panning and careful creek bed examination.",
+  "history": "The Klamath Mountains of northern California were shaped by complex Mesozoic and Cenozoic geology involving metamorphic rocks and granitic intrusions. The gold mineralization in this region was deposited during multiple episodes of hydrothermal activity associated with batholithic emplacement, creating both placer deposits in creeks and vein gold in surrounding metamorphic host rocks. Historic mining activity dating to the 1800s concentrated on these creek systems where gravity separation naturally concentrated gold in accessible locations.",
+  "tips": "Search the inside bends of Shelly Creek and Monkey Creek where water flow slows and heavier materials settle. Use a gold pan for efficient processing of fine gravels and sand from creek beds; bring a 10-12 inch pan and classifier. Look for quartz outcrops on hillsides above the creeks where weathering exposes veins - break off small specimens only and respect FLPMA limits. The exposed metamorphic rocks often show iron oxidation staining which indicates historical mineralized zones.",
+  "terrain_notes": "Elevation 2352 feet in mixed conifer forest with moderate slopes. Terrain is rocky and uneven with dense vegetation in places. Walking distance from parking areas to productive creeks is typically 0.5 to 2 miles depending on exact access point. Footing is challenging with loose rock, roots, and uneven ground common. Creek access involves steep banks in places.",
+  "best_season": "May - September",
+  "written_directions": "From Crescent City, take US 101 north approximately 25 miles toward the Oregon border. Turn east on one of the backcountry roads accessing the Shelly Creek or Monkey Creek drainages (specific road names vary by access point). Four-wheel drive or high-clearance vehicle recommended. Contact the Arcata BLM Field Office for current road conditions and specific turnoff details, as seasonal road closures may apply.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Dirt roads to trailheads, likely washboard surface. High-clearance or AWD vehicle recommended. Road conditions vary seasonally - verify access before traveling.",
+  "parking_notes": "Pullouts or small parking areas near road access points. Capacity limited, typically space for 2-6 vehicles. No formal parking lot.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection permitted. No motorized excavation. All collection must be non-destructive hand tools only. Respect creek banks and do not create new cuts or disturbances. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo destructive panning or sluicing that damages creek banks\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Crescent City, approximately 25 miles southwest. Gas, food, and lodging available. No services at the mining sites themselves.",
+  "accessibility_notes": "Uneven rocky terrain with roots and loose ground. Steep creek banks in places. No wheelchair access. Sturdy hiking boots essential. Moderate physical fitness required for creek access. Not suitable for those with limited mobility.",
+  "alternative_names": [
+    "Shelly Creek Mine",
+    "Monkey Creek Mine"
+  ],
+  "nearest_city": "Crescent City",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/shelly-creek-monkey-creek-mines-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find at Shelly Creek and Monkey Creek Mines in Del Norte County?",
+      "answer": "You can find placer gold flakes and small nuggets in creek beds, plus quartz specimens in exposed veins on hillsides. The metamorphic host rocks also contain feldspar. This area has genuine historic mining history, making it rewarding for rockhounders interested in gold panning and prospecting."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Shelly Creek and Monkey Creek Mines on BLM land?",
+      "answer": "No permit is required for recreational rockhounding on California BLM land. You can collect for personal use under the FLPMA 25 lb per day limit. The BLM Arcata Field Office manages this area - contact them for current conditions and access details."
+    },
+    {
+      "question": "What is the best time of year to rockhound for gold near Crescent City, California?",
+      "answer": "Late spring through early fall (May - September) offers the best access. Winter rains create high water and hazardous creek conditions. Summer provides the most stable creek levels for panning and prospecting, though water flow is lower."
+    },
+    {
+      "question": "What tools do I need to rockhound at Shelly Creek and Monkey Creek Mines?",
+      "answer": "Bring a 10-12 inch gold pan and classifier for creek work. Pack a small hammer for taking quartz specimens. High-clearance vehicle or AWD is essential for road access. Bring sturdy boots, water, and a headlamp - the area is remote with limited services."
+    },
+    {
+      "question": "Is Shelly Creek and Monkey Creek Mines suitable for beginner rockhounders?",
+      "answer": "Yes, gold panning is beginner-friendly and the area welcomes personal collectors. However, the moderate terrain and remote location require reasonable hiking fitness. Families with children ages 8 and up can participate, though adult supervision is essential in creek areas where water hazards exist."
+    },
+    {
+      "question": "How far is Shelly Creek and Monkey Creek Mines from Crescent City and what roads lead there?",
+      "answer": "The mines are approximately 25 miles north of Crescent City via US 101, then east on backcountry roads to creek access points. Road conditions are seasonal - contact the Arcata BLM Field Office for specific directions and current road status before your trip."
+    }
+  ],
+  "meta_title": "Gold & Quartz at Shelly Creek Mines - California",
+  "meta_description": "Rockhound for gold, quartz & feldspar at Shelly Creek & Monkey Creek Mines on California BLM land near Crescent City. No permit required. Personal use only.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "specific_road_names",
+    "parking_capacity",
+    "faq_answers"
+  ],
+  "enriched_at": "2026-04-21T19:31:12.588Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:33:53.541Z"
+}

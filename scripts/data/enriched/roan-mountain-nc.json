@@ -1,0 +1,98 @@
+{
+  "slug": "roan-mountain-nc",
+  "name": "Roan Mountain",
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "city": "Bakersville",
+  "city_slug": "bakersville",
+  "county": "Mitchell",
+  "county_slug": "mitchell",
+  "lat": 36.101345,
+  "lng": -82.109614,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Garnet"
+  ],
+  "short_description": "High-elevation rockhounding site on Roan Mountain featuring quartz, feldspar, and mica from Precambrian metamorphic rock formations. Scenic alpine meadow setting with moderate hiking access.",
+  "description": "Roan Mountain rises to 6,285 feet and straddles the Tennessee-North Carolina border in the southern Appalachian Mountains. The peak is renowned for its rare natural alpine meadow ecosystem, and the rocky outcrops surrounding the summit area expose excellent metamorphic mineral specimens. Visitors can find quartz veins, feldspar crystals, and mica flakes throughout the exposed bedrock and talus slopes.\n\nThe mountain sits within the Blue Ridge physiographic province, composed primarily of Precambrian metamorphic rocks including gneiss, schist, and quartzite. These rocks were metamorphosed during the Grenville Orogeny (around 1 billion years ago) and later uplifted and tilted during the Alleghenian Orogeny when Africa collided with North America. The mineral-rich outcrops visible today represent deep crustal rocks brought to the surface by these mountain-building events.\n\nThe main access route is the Roan Mountain Carriage Road (Forest Road 230), a gravel road that climbs steadily through red spruce and Fraser fir forest before opening onto the famous balds. The rocky terrain near the summit offers numerous collecting spots along the road edges and in small ravines. The high elevation means cooler temperatures and frequent fog, especially in summer months.\n\nThis is a popular hiking destination, so expect crowds on weekends during peak season. Most rockhounding collectors focus on loose material along roadsides and established trails rather than prying into solid outcrops. The combination of scenic views, accessible collecting, and quality mineral specimens makes Roan Mountain a worthwhile destination for Appalachian rockhounds.",
+  "history": "Roan Mountain's exposed metamorphic rocks formed during the Grenville Orogeny approximately 1 billion years ago, when intense heat and pressure deep in the Earth's crust transformed sedimentary and igneous protoliths into the gneiss and schist visible today. These rocks were later uplifted to their current elevation during the Alleghenian mountain-building event around 300 million years ago, creating the exposure of mineral-rich material that rockhounders access today.",
+  "tips": "Search the gravelly shoulders of Forest Road 230 as you ascend toward the summit, where weathering exposes fresh mineral specimens. Look for quartz veins with white or smoky coloration, clear feldspar crystals in the gneiss matrix, and silvery mica flakes that peel out easily from weathered rock. Bring a small hammer and chisel to carefully extract specimens from loose talus rather than attacking solid outcrops, and focus your efforts in ravines and drainage areas where freeze-thaw cycles have broken down the rock.",
+  "terrain_notes": "Roan Mountain rises sharply from surrounding valleys with the collection area between 5,500 and 6,285 feet elevation. The terrain transitions from dense red spruce-Fraser fir forest at lower elevations to open alpine meadow and rocky outcrops near the summit. The Carriage Road is a well-maintained gravel surface suitable for standard vehicles, with several pullouts and a parking area near the summit. Walking distances from parking range from short (100 yards) to moderate (1-2 miles) depending on where you choose to explore. Footing is generally stable on the road and roadsides, though talus slopes can be loose and uneven.",
+  "best_season": "June - September. High elevation and heavy snow make this site inaccessible during winter months (November - April). Spring conditions can be muddy and wet. Summer offers the best road access and pleasant weather, though expect fog and cool temperatures even in July and August.",
+  "written_directions": "From Bakersville, take NC 226 north toward Carvers Gap. Turn onto Forest Road 230 (Roan Mountain Carriage Road) and follow the gravel road for approximately 8 miles as it climbs steadily up the mountainside. The parking area at the summit is marked; multiple pullouts and informal parking areas are available along the road. The GPS coordinates place you near the summit collecting area.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "passenger",
+  "road_conditions": "Gravel surface, well-maintained but steep grades. High-clearance vehicles recommended during wet conditions. Suitable for standard passenger vehicles during dry weather.",
+  "parking_notes": "Parking area at summit with capacity for 15-20 vehicles. Multiple informal pullouts along Forest Road 230 at lower elevations. No developed lot, but adequate space along roadside.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Collecting permitted on National Forest lands under general recreation guidelines. Maximum 25 lbs of specimens per day. No motorized excavation or mechanical collection equipment. Remove only loose material; do not break open solid rock faces or use power tools. Stay off private property adjacent to Forest Road 230.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized equipment or power tools\nCollect only loose material from roadsides and talus\nNo extraction from solid rock outcrops\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Bakersville, NC - approximately 12 miles away. Limited services (small grocery, gas station). Larger town: Spruce Pine, NC (15 miles) with more restaurants and supply options.",
+  "accessibility_notes": "Moderate difficulty. The summit parking area and main Carriage Road are accessible to most visitors with standard vehicles. The road itself has steep grades but is paved with gravel. Walking terrain near the road is generally stable, though talus slopes can be uneven and rocky. High elevation (6,285 feet) may pose challenges for those with cardiovascular limitations. Sturdy footwear essential for rocky footing.",
+  "alternative_names": [
+    "Roan Balds",
+    "Roan High Bluff"
+  ],
+  "nearest_city": "Bakersville",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/roan-mountain-nc/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/roan-mountain-nc/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals can you find at Roan Mountain in North Carolina?",
+      "answer": "Roan Mountain yields quartz, feldspar, mica, and garnet specimens from its Precambrian metamorphic rock formations. Quartz veins are the most common find, ranging from clear to smoky coloration. Feldspar crystals are abundant in the gneiss, and mica flakes peel easily from weathered rock along the roadsides. Garnet crystals can be found but are less common."
+    },
+    {
+      "question": "How do I reach Roan Mountain rockhounding site near Bakersville?",
+      "answer": "From Bakersville, NC, take NC 226 north toward Carvers Gap and turn onto Forest Road 230 (Roan Mountain Carriage Road). Follow the gravel road for about 8 miles as it climbs the mountain. Multiple pullouts and a parking area at the summit provide collecting access. Standard passenger vehicles can access the road in dry conditions."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Roan Mountain?",
+      "answer": "No permit is required for personal rockhounding on Roan Mountain National Forest lands. However, you must follow Forest Service collection guidelines: collect only loose material, limit yourself to 25 lbs per day, do not use motorized equipment, and do not break open solid rock. Commercial collection is prohibited."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Roan Mountain?",
+      "answer": "June through September offers the best collecting conditions. High elevation (over 6,200 feet) means heavy snow in winter and muddy conditions in spring. Summer provides reliable road access and pleasant weather, though mornings and evenings are cool. Expect fog even during summer months."
+    },
+    {
+      "question": "Is Roan Mountain good for beginners and families?",
+      "answer": "Yes, Roan Mountain is beginner-friendly and family-suitable. No permit is needed, and specimens are easily found along roadside pullouts without extensive hiking. Children ages 8 and up can participate. The main Carriage Road is accessible by vehicle, and loose specimens can be collected without power tools. Dogs are welcome on National Forest lands."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at Roan Mountain?",
+      "answer": "Bring a small hammer or rock chisel to pry specimens from loose talus, a collection bag, and sturdy hiking boots for rocky terrain. The high elevation (6,285 feet) requires warm layers even in summer, and weather can change quickly. Bring water, sunscreen, and a headlamp if planning late-day collecting. Avoid heavy power tools, which are not permitted on National Forest lands."
+    }
+  ],
+  "meta_title": "Roan Mountain Rockhounding - Find Quartz & Mica in NC",
+  "meta_description": "Rockhound for quartz, feldspar, and mica at Roan Mountain near Bakersville, NC. Free public access on National Forest. Best in summer months. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category (inferred as national_forest based on Roan Mountain being part of Cherokee National Forest management), vehicle_required (standard passenger vehicle assumed based on Carriage Road being publicly accessible gravel road), cell_service (spotty - high elevation mountain terrain typically has unreliable coverage), hazards (inferred based on high elevation and loose talus terrain), family_friendly (set true based on beginner-friendly and moderate difficulty rating)"
+  ],
+  "enriched_at": "2026-04-22T10:17:30.343Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T10:18:40.381Z"
+}

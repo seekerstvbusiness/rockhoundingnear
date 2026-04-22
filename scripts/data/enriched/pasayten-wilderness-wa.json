@@ -1,0 +1,102 @@
+{
+  "slug": "pasayten-wilderness-wa",
+  "name": "Pasayten Wilderness",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Whatcom County Area",
+  "city_slug": "whatcom-county",
+  "county": "Whatcom",
+  "county_slug": "whatcom",
+  "lat": 48.731261,
+  "lng": -120.749852,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Garnet"
+  ],
+  "short_description": "Remote North Cascades wilderness offering quartz and feldspar specimens in alpine meadows and creek beds. Backcountry rockhounding requires permit and serious hiking.",
+  "description": "Pasayten Wilderness is a rugged, protected backcountry area in the North Cascades of northern Washington, accessible only on foot. At 4,214 feet elevation in steep alpine terrain, this is a destination for experienced hikers and rockhounds willing to pack in. The area is carved by glaciers and fast-moving creeks including Slate Creek (less than 1 mile away), Barron Creek (3 miles), and the Middle Fork Pasayten River (6+ miles) - all potential collecting areas with exposed streambed minerals.\n\nThe Pasayten lies within the Cascades volcanic arc and metamorphic belt, where granite intrusions and metamorphosed sediments create exposures of quartz, feldspar, and garnet-bearing rocks. Alpine meadows and talus slopes offer moderate collecting opportunities, though the terrain is steep and footing is uneven year-round. Water is abundant but always requires treatment.\n\nThis is a true wilderness experience: no road access, no facilities, and no cell service. Collecting must respect the North Cascades National Forest permit system and wilderness regulations. The reward is solitude and access to pristine alpine geology rarely disturbed by foot traffic. Beginners should strongly consider easier alternatives; this site demands physical fitness, navigation skills, and wilderness self-sufficiency.\n\nStreambeds near trail junctions (especially lower elevation approaches) offer the best chance of finding specimens without excessive climbing. Morning light in alpine meadows helps spot white quartz chips and feldspar fragments against darker soils.",
+  "history": "Pasayten Wilderness sits within the North Cascades orogen, where Cretaceous granitic intrusions (related to the Coast Range batholiths) cut through Paleozoic metasedimentary rocks, creating mineral-rich exposures. Late Pleistocene glaciation shaped the steep valleys and streambed concentrations of quartz and feldspar found here today, the same process that carved Slate Creek and other drainages.",
+  "tips": "Focus on Slate Creek and stream confluences where water has concentrated lighter minerals on benches and gravel bars - quartz and feldspar accumulate in these zones. Look for white to cloudy quartz chunks and pink/tan feldspar crystals on talus slopes and meadow edge deposits. Bring a magnet to test specimens for magnetite (iron oxide) which often accompanies garnet. Pack all specimens out: this is a pack-in-pack-out wilderness, and weight matters on 5+ mile backpacks.",
+  "terrain_notes": "Steep rocky terrain at 4,214 feet elevation in the alpine zone. Trails are well-maintained but gain elevation quickly. Vegetation includes subalpine conifers transitioning to alpine meadows and talus fields. Walking distance from nearest trailhead (likely Pasayten River entrance) is 5-8+ miles depending on approach. Footing is rocky and uneven; loose scree is common on slopes. Streams run cold and fast, fed by snowmelt.",
+  "best_season": "July - September",
+  "written_directions": "From Concrete, Washington (nearest town, roughly 40 miles southwest), drive northeast on WA-20 toward the North Cascades. Continue past Marblemount on WA-20 for approximately 30 miles. Turn north on Forest Road 1013 (near Newhalem) toward Pasayten River and continue approximately 15-20 miles on rough forest road (passenger cars not recommended) to the primary trailhead parking area. Alternatively, from Winthrop, drive west on WA-20 for roughly 35 miles and turn onto FR-1013. The final 5-10 miles require high-clearance or 4WD vehicle. From parking, hike north/northwest into the wilderness toward Slate Creek drainage (approximately 5-8 miles to productive collecting areas). Always check with North Cascades National Forest for current road conditions before driving - some forest roads may be gated seasonally.",
+  "directions": null,
+  "difficulty": "expert",
+  "access_type": "permit",
+  "primary_category": "national_forest",
+  "vehicle_required": "4x4",
+  "road_conditions": "Forest Service road with significant washboard and ruts, especially final 5-10 miles. High-clearance or 4WD vehicle strongly recommended. Road may be gated November-June. Gravel and dirt surface with occasional rocky sections.",
+  "parking_notes": "Rustic pullout or parking area (5-10 vehicle capacity) at trailhead. No amenities, vault toilet may or may not be present. Arrive early in peak season. Overflow parking limited.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": true,
+  "permit_link": "https://www.fs.usda.gov/recarea/okawen/recreation/camping/recarea/?recid=79725",
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Wilderness Permit required from North Cascades National Forest. Personal use collection only. Maximum 25 lbs per day per FLPMA regulations. No mechanized collection, no pick-axes or power tools. No commercial collection. Respect all Leave-No-Trace principles. Pack out all waste. All collected minerals must be hand-sized specimens or smaller. Report any significant mineral deposits to forest service.",
+  "quantity_limits": "25 lbs per day, personal use only",
+  "rules": "Wilderness permit required\nPersonal use collection only\nMaximum 25 lbs per day\nNo mechanized excavation\nNo commercial collection\nPack in, pack out - remove all waste\nCamp only at designated sites\nStay on marked trails where possible\nTreat all water before drinking",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": false,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Concrete, Washington (40 miles southwest) has gas, food, and supplies. Marblemount and Winthrop also offer services approximately 30-40 miles away.",
+  "accessibility_notes": "Extremely remote, steep alpine terrain with no wheelchair access whatsoever. Backcountry hiking required: 5-8+ miles minimum from vehicle, elevation gain of 1,500+ feet typical. Loose scree, rocky footing, and exposed slopes common. River crossings may require wading. Not suitable for anyone with mobility limitations. Experienced mountaineering fitness essential.",
+  "alternative_names": [
+    "Pasayten River Wilderness"
+  ],
+  "nearest_city": "Concrete",
+  "nearest_city_distance": 40,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/pasayten-wilderness-wa/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding in Pasayten Wilderness, Washington?",
+      "answer": "Pasayten Wilderness yields quartz (white to milky), feldspar (pink, tan, white), mica, and garnet in alpine and subalpine settings. The best specimens are found on stream benches in Slate Creek and surrounding talus slopes, where glacial processes have concentrated minerals over thousands of years."
+    },
+    {
+      "question": "Do I need a permit to collect rocks in Pasayten Wilderness?",
+      "answer": "Yes. A Wilderness Permit is required from North Cascades National Forest before entering Pasayten Wilderness. Permits are free or low-cost and can be obtained at ranger stations in Concrete or Marblemount, or online through the Forest Service website. Personal use collection of 25 lbs per day is permitted under FLPMA guidelines."
+    },
+    {
+      "question": "How far is the hike to good collecting areas in Pasayten Wilderness?",
+      "answer": "The primary trailhead is 5-8+ miles from productive collecting zones like Slate Creek. Expect elevation gain of 1,500+ feet and 3-5 hours of hiking depending on your route and fitness level. This is backcountry terrain best suited to experienced wilderness travelers, not casual day hikers."
+    },
+    {
+      "question": "What is the best season for rockhounding near Pasayten Wilderness?",
+      "answer": "July through September is the only practical season for wilderness access. Winter snow closes trailheads from November through June. Forest roads may be gated until late spring. Early July can still have lingering snowfields; September is safest for reliable access before fall weather moves in."
+    },
+    {
+      "question": "Is Pasayten Wilderness rockhounding beginner-friendly?",
+      "answer": "No. Pasayten is strictly for experienced hikers and rockhounds. You need wilderness navigation skills, physical stamina for multi-day backpacking, cold-weather preparedness, and solid orienteering ability. There is zero cell service, no facilities, and exposure to cliffs and wildlife. Beginners should explore fee dig sites or designated public rockhounding areas closer to towns."
+    },
+    {
+      "question": "What tools and gear do I need for collecting quartz and feldspar at Pasayten?",
+      "answer": "Bring a small hand lens, basic hand tools (chisel, small hammer), heavy backpack, water filter, map, compass, and GPS unit. Leave power tools and large excavation equipment at home - mechanized collection is prohibited. Pack a small collection bag (minerals add weight fast) and plan to carry everything out yourself. Wear sturdy hiking boots and bring a magnet to test specimens for magnetic minerals."
+    }
+  ],
+  "meta_title": "Pasayten Wilderness Rockhounding - Washington",
+  "meta_description": "Expert backcountry rockhounding for quartz and feldspar in North Cascades alpine terrain. Wilderness permit required, 5+ mile hike, July-September access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "permit_link (assumed OKAWEN district link, should verify current URL)",
+    "access_type (inferred as permit-required wilderness, not formally fee-based)",
+    "road_conditions (estimated from typical North Cascades Forest Service roads)",
+    "written_directions (estimated route and distances - recommend ground-truth with USFS)",
+    "family_friendly (set false due to extreme remoteness and expertise required)"
+  ],
+  "enriched_at": "2026-04-21T19:25:43.903Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:27:19.255Z"
+}

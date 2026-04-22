@@ -1,0 +1,64 @@
+{
+  "slug": "bainbridge-pa",
+  "name": "Bainbridge",
+  "lat": 40.108072,
+  "lng": -76.669396,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Conoy Township",
+  "city_slug": "conoy-township",
+  "county": "Lancaster",
+  "county_slug": "lancaster",
+  "geocoded_city": "Conoy Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bainbridge%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bainbridge",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bainbridge%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 341,
+      "meters": 104
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Hershey",
+      "distance_mi": 12,
+      "population": 14682
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:56:22.453Z"
+  },
+  "scraped_at": "2026-04-21T18:56:22.453Z",
+  "scrape_quality": "minimal"
+}

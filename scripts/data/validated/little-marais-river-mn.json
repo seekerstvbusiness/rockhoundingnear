@@ -1,0 +1,103 @@
+{
+  "slug": "little-marais-river-mn",
+  "name": "Little Marais River",
+  "state": "Minnesota",
+  "state_slug": "minnesota",
+  "city": "Lake No. 1",
+  "city_slug": "lake-no-1",
+  "county": "Lake",
+  "county_slug": "lake",
+  "lat": 47.414371,
+  "lng": -91.099293,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Smoky Quartz"
+  ],
+  "short_description": "Search for Lake Superior agates and jasper along the scenic Little Marais River in northeastern Minnesota. Public access to this pristine waterway offers excellent rockhounding in a beautiful North...",
+  "description": "The Little Marais River flows through Lake County in Minnesota's Arrowhead region, offering rockhounders excellent opportunities to find Lake Superior agates, jasper, and quartz specimens. This area sits within the Superior Province of the Canadian Shield, where Archean-age metamorphic rocks and Proterozoic basalts have been weathered and tumbled by glacial activity and river action, creating ideal conditions for collecting agate specimens.\n\nThe Little Marais River valley was carved by glaciers during the Pleistocene, and the river continues to work the shorelines and tributary beds, exposing banded agates and colorful jasper specimens that have traveled downslope from the Superior Lopolith formation. The cooler, northern climate of this region means less weathering of specimens compared to southern Minnesota locations, often resulting in well-preserved banding and color in recovered agates.\n\nThis location offers a more rugged, backcountry experience compared to established Lake Superior agate beaches. The river corridor provides access to both active streambed deposits and older glacial outwash benches. Expect to hike through boreal forest with occasional rocky sections and stream crossings. The remote nature of the location means fewer collectors and often fresher material in the streambed.\n\nBest results come from working the river's gravel bars after spring runoff or searching along the banks where recent erosion has exposed new material. The mix of igneous, metamorphic, and sedimentary rock debris provides excellent sorting opportunities for patient rockhounders.",
+  "history": "The Little Marais River valley was carved by Pleistocene glaciation, which deposited and reworked Archean metamorphic basement rocks and Proterozoic-age basalts from the Superior Lopolith formation. The agates and jaspers found here originated as secondary minerals in amygdaloidal basalts and were liberated by weathering and glacial transport, then further tumbled and concentrated by the river's ongoing erosion of glacial deposits and lakeside bluffs.",
+  "tips": "Focus your search on the inside bends of the river where gravel bars accumulate, and work the streambed gravels thoroughly after spring snowmelt when fresh material has been exposed. Look for the distinctive banded patterns of Lake Superior agates - they often show concentric rings or wavy lines of white, orange, and brown chalcedony. Bring a keen eye for color contrast and a small hand lens to spot agate specimens among the quartz and jasper debris. The river channel itself requires careful footing, so wear waterproof hiking boots and bring a walking stick for stream crossings.",
+  "terrain_notes": "The Little Marais River flows through boreal forest and rock outcrops at approximately 630-700 feet elevation. The terrain is uneven and rocky with dense coniferous forest (spruce, fir, pine). The river itself varies from shallow gravel bars to deeper pools. Access typically requires hiking 1-3 miles from the nearest road through mixed forest and along riverbank trails. Footing is often wet and slippery on rocks; stream crossings are necessary. No marked trails in many sections; navigation requires map and compass skills.",
+  "best_season": "June - September. The summer months offer stable water levels, accessible streambed gravels, and passable hiking conditions. Spring runoff (April-May) exposes fresh material but creates dangerous water levels. Winter conditions make hiking difficult and dangerous due to deep snow, ice, and extreme cold.",
+  "written_directions": "From the town of Schroeder (approximately 40 miles northeast), take Minnesota Highway 61 northeast toward Grand Portage for about 15 miles. Watch for Forest Service road access points along the way that provide approach routes to the Little Marais River valley. Access is limited by sparse road development in this remote area - most approach requires hiking from Highway 61 pullouts or Forest Service trailheads. Consult a detailed Lake County map and contact the Superior National Forest office for current access information, as conditions and access points change seasonally.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "hiking",
+  "road_conditions": "Highway 61 is paved. Access to trailheads may involve rough Forest Service roads requiring high-clearance or 4x4 vehicles depending on seasonal conditions and maintenance.",
+  "parking_notes": "Limited pullouts and parking areas along Highway 61. No developed parking lot. Forest Service trailhead parking areas may have 2-6 vehicle capacity depending on location. Arrive early in peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Respect Superior National Forest regulations - camp only in designated areas, pack out all trash, and use established trails where available. Check with the Superior National Forest office for any seasonal closures or special restrictions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect Forest Service regulations\nPack out all trash\nUse established trails where available\nObey any seasonal closures",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "flash_floods",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Schroeder, MN (approximately 40 miles southwest) has limited services. Grand Portage, MN (approximately 30 miles northeast) offers gas, food, lodging, and supplies. Stock up before heading to remote locations.",
+  "accessibility_notes": "Rough backcountry terrain with significant hiking required - not suitable for limited mobility. River crossings, uneven rocky footing, and dense forest navigation demand strong hiking skills and physical fitness. No wheelchair access. Sturdy waterproof hiking boots and trekking poles essential. Route-finding skills and map/compass competency required. Not recommended for families with young children or inexperienced backcountry hikers.",
+  "alternative_names": [
+    "Little Marais River Valley",
+    "Little Marais North Shore"
+  ],
+  "nearest_city": "Grand Portage",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/minnesota/little-marais-river-mn/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/minnesota/little-marais-river-mn/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/minnesota/little-marais-river-mn/mineral-2-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What kind of agates can I find at Little Marais River in Minnesota?",
+      "answer": "Little Marais River is known for Lake Superior agates, which are banded chalcedony specimens often showing concentric rings, wavy lines, and mixed colors of white, orange, brown, and red. You may also find colorful jasper and smoky quartz. These agates originated from Proterozoic basalts in the Superior Lopolith formation and were transported and tumbled by glacial ice and the river's current action."
+    },
+    {
+      "question": "Is rockhounding at Little Marais River free or do I need a permit?",
+      "answer": "Rockhounding at Little Marais River is free and requires no permit. The location is within the Superior National Forest and is open to public collection under FLPMA regulations. You are limited to 25 lbs per day for personal use only. No commercial collection or motorized excavation is allowed."
+    },
+    {
+      "question": "What's the best time of year to rockhound at Little Marais River?",
+      "answer": "June through September is the best season for collecting at Little Marais River. Summer offers stable water levels, accessible streambed gravels, passable hiking conditions, and relatively mild weather. Spring runoff (April-May) exposes fresh material but creates dangerous water conditions and difficult stream crossings. Winter is not feasible due to deep snow, ice, and extreme cold."
+    },
+    {
+      "question": "How difficult is it to reach Little Marais River for rockhounding?",
+      "answer": "Little Marais River is a hard-difficulty site requiring backcountry hiking skills. Access typically involves hiking 1-3 miles from Highway 61 trailheads through boreal forest and along riverbanks. Navigation may require map and compass skills, and stream crossings are common. This is not suitable for families with young children or inexperienced hikers. Strong hiking ability and physical fitness are essential."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at Little Marais River?",
+      "answer": "Bring sturdy waterproof hiking boots with excellent traction, a trekking pole for stream crossings, and a small hand lens or magnifying glass to identify agate specimens. A backpack, map, compass, and GPS device are essential for navigation in this remote area. Bring more water and snacks than you think you'll need, as services are 30+ miles away. A collection bag and chisel may be useful, but check current Forest Service regulations."
+    },
+    {
+      "question": "Is Little Marais River good for beginner rockhounders, or do I need experience?",
+      "answer": "Little Marais River is not recommended for beginner rockhounders. The remote backcountry location, difficult hiking terrain, river crossings, and navigation requirements demand experienced outdoor skills. Beginners should start at more accessible Lake Superior agate beaches near Duluth or along Highway 61's developed pull-offs before attempting this remote location. However, intermediate to advanced rockhounders with strong hiking ability will find excellent specimens and fewer crowds."
+    }
+  ],
+  "meta_title": "Little Marais River Rockhounding - Minnesota Agates",
+  "meta_description": "Hunt Lake Superior agates, jasper, and quartz at Little Marais River in northern Minnesota. Free public access, 25 lbs daily limit, best June-September. Backcountry experience required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - limited publicly available road information for this remote location; specific Forest Service road names and current access points should be verified with Superior National Forest office",
+    "parking_notes - specific parking capacity and exact locations not documented; check Forest Service visitor centers for current conditions",
+    "nearest_services - exact distances estimated based on regional geography; verify current service availability before traveling"
+  ],
+  "enriched_at": "2026-04-21T18:10:15.114Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:13:04.753Z"
+}

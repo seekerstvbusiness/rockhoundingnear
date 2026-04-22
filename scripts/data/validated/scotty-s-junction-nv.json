@@ -1,0 +1,100 @@
+{
+  "slug": "scotty-s-junction-nv",
+  "name": "Scotty's Junction",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Nye County Area",
+  "city_slug": "nye-county",
+  "county": "Nye",
+  "county_slug": "nye",
+  "lat": 37.232906,
+  "lng": -116.976121,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Obsidian",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding site in remote Nye County featuring desert agates, chalcedony, and jasper in flat terrain. Free public access, 25 lbs/day limit.",
+  "description": "Scotty's Junction is a public BLM rockhounding destination in the vast high desert landscape of Nye County, Nevada. Located at 4,077 feet elevation with characteristically flat terrain, this site offers accessible collecting opportunities for both beginners and experienced rockhounds seeking quality agate, chalcedony, and jasper specimens.\n\nThe site sits within Nevada's Basin and Range province, where Miocene-age volcanic activity and subsequent mineralization created abundant silica-rich deposits. Desert weathering and erosion have exposed these secondary minerals in washes, scattered across bajadas, and eroded from nearby outcrops. The flat topography makes navigation straightforward, though the remote location demands preparation and self-sufficiency.\n\nRockhounders typically find colorful banded agates, translucent chalcedony nodules, and patterned jasper pieces scattered across the desert surface and in dry washes. The area's aridity means minimal vegetation obscures your search, and the light-colored desert soil provides good contrast for spotting darker mineral specimens.\n\nThis is quintessential Nevada high desert rockhounding - bring plenty of water, plan for temperature extremes, and respect the 25 lb personal-use limit on BLM land. The remote setting means you'll have solitude and ample room to explore without crowding, though services are distant and cell coverage is unreliable.\n\nScotty's Junction works well for day trips from Pahrump or Tonopah, offering a genuine backcountry collecting experience with minimal crowds and straightforward BLM regulations.",
+  "history": "This region occupies the heart of the Basin and Range geological province, where Miocene volcanic activity (approximately 20-30 million years ago) deposited extensive silica-rich ash flows and volcanic rocks. Subsequent hydrothermal alteration and weathering of these volcanic deposits created the secondary mineral assemblages - agates, chalcedony, and jasper - that collectors find today. The flat terrain here represents an ancient bajada surface, where millennia of desert erosion have concentrated small mineral specimens across the surface.",
+  "tips": "Search the floors and banks of dry washes first, where erosion concentrates heavier mineral material. Look for faint color variation in the light desert soil - even small agate pieces often show banding or color saturation that stands out against neutral sand tones. Bring a classifier or small screen to sift fine material from washes; many quality specimens are fist-sized or smaller. Start your search in early morning to maximize daylight, as the flat terrain offers few landmarks and disorientation risk increases in late afternoon.",
+  "terrain_notes": "Flat high desert terrain at 4,077 feet elevation with minimal slope. Sparse desert vegetation includes low shrubs and yucca. Walking distance from parking to productive collecting areas typically 0.5 to 2 miles. Footing is generally firm on compacted desert soil and gravel, though loose rock and occasional small stones require sturdy footwear. No shade available - full sun exposure.",
+  "best_season": "October - April. Nevada high desert temperatures exceed 100 degrees Fahrenheit during summer months (May-September), making midday collecting dangerous. Winter temperatures are mild during daylight (50-65 degrees Fahrenheit), and clear skies provide excellent visibility. Avoid the summer heat by timing visits for fall and spring.",
+  "written_directions": "From Pahrump, take Nevada State Route 160 north approximately 35 miles toward Tonopah. Continue on NV-160 north for about 50 miles total. Near Scotty's Junction (mile marker reference point), turn east onto a marked BLM access road. Follow the dirt road for 2-3 miles to the collecting area. Roads are generally passable in passenger vehicles during dry conditions. From Tonopah, take US-95 south approximately 60 miles, then turn west on a BLM access road near Scotty's Junction. High-clearance vehicles are recommended after rain.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM access roads, generally firm and passable in passenger vehicles during dry weather. Light washboard texture possible. No high-clearance requirement in normal conditions, but rain may necessitate 4WD.",
+  "parking_notes": "Informal pullouts along BLM access roads near collecting area. No developed parking lot. Space for 3-5 vehicles at various locations. No amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No pick-and-chisel work on in-place bedrock. Surface collecting only. Respect all boundary markers and access gate closures.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo pick-and-chisel work on bedrock\nSurface collecting only\nRespect all boundary markers",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "wildlife",
+    "sharp_material"
+  ],
+  "nearest_services": "Pahrump (approximately 35-40 miles south) offers gas, food, water, and lodging. Tonopah (approximately 60 miles north) provides similar services. No services within 20 miles of the collecting site.",
+  "accessibility_notes": "Flat terrain accessible to most hikers and rockhounders with basic mobility. Minimal elevation change. Unpaved access roads suitable for passenger vehicles in good conditions. No wheelchair accessibility beyond parking area. Sturdy footwear recommended for loose gravel and small rocks. Full sun exposure with no shelter - not suitable for those sensitive to heat or limited outdoor endurance.",
+  "alternative_names": [],
+  "nearest_city": "Pahrump",
+  "nearest_city_distance": 38,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/scotty-s-junction-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/scotty-s-junction-nv/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What kind of agates can you find at Scotty's Junction in Nevada?",
+      "answer": "Scotty's Junction yields colorful banded agates, chalcedony nodules, and fire agate varieties typical of Nevada's Basin and Range province. Most specimens range from thumb-sized to fist-sized, with warm earth tones, banding patterns, and occasional translucent sections. Desert surface weathering makes these pieces easy to spot against light soil."
+    },
+    {
+      "question": "Is Scotty's Junction free rockhounding, and do I need a permit?",
+      "answer": "Yes, Scotty's Junction is completely free. It is public BLM land with no permit requirement for recreational collecting. You only need to follow the 25 lb per-day personal-use limit and avoid commercial activity or motorized excavation."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Scotty's Junction?",
+      "answer": "October through April is ideal. Nevada's high desert summers exceed 100 degrees Fahrenheit and present serious heat risk. Fall and spring offer comfortable daytime temperatures (50-65 degrees Fahrenheit), excellent visibility, and minimal weather interruptions. Winter daylight hours are shorter, so plan for early starts."
+    },
+    {
+      "question": "How far is Scotty's Junction from Pahrump, and what type of vehicle do I need?",
+      "answer": "Scotty's Junction is approximately 38 miles from Pahrump. A standard passenger vehicle can reach the site via Nevada State Route 160 and BLM access roads in dry conditions. High-clearance or 4WD vehicles are recommended after rain or winter storms. Check road conditions before driving the final miles on unpaved BLM roads."
+    },
+    {
+      "question": "Is Scotty's Junction suitable for beginners and families with children?",
+      "answer": "Yes, Scotty's Junction is beginner and family-friendly. Flat terrain with minimal walking distance makes it accessible for children ages 6 and up. Surface collecting of loose specimens requires no special skills or equipment beyond a collection bag. Bring plenty of water, sun protection, and plan for full-day sun exposure in an open desert."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Scotty's Junction?",
+      "answer": "Bring a sturdy collection bag or bucket, long-sleeved shirt for sun protection, wide-brimmed hat, sunscreen, and at least 3-5 gallons of water per person. A loupe or magnifier helps identify quality pieces. Wear robust hiking boots with ankle support for uneven gravel. Consider a GPS device or map, as the remote high desert offers few landmarks and cell service is unreliable."
+    }
+  ],
+  "meta_title": "Scotty's Junction Rockhounding - Nevada",
+  "meta_description": "Find agate, chalcedony, and jasper at Scotty's Junction, Nye County. Free BLM rockhounding, no permit, 25 lbs/day. October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance - estimated from GPS coordinates",
+    "parking_notes - inferred from typical BLM access patterns",
+    "road_conditions - based on general Nevada BLM infrastructure",
+    "written_directions - constructed from geographic knowledge of Nevada highways and Nye County geography"
+  ],
+  "enriched_at": "2026-04-22T09:50:27.381Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:11.893Z"
+}

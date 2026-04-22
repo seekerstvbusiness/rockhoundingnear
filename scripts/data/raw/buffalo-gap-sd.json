@@ -1,0 +1,60 @@
+{
+  "slug": "buffalo-gap-sd",
+  "name": "Buffalo Gap",
+  "lat": 43.488711,
+  "lng": -103.434189,
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "state_code": "SD",
+  "city": "Custer County",
+  "city_slug": "custer-county",
+  "county": "Custer",
+  "county_slug": "custer",
+  "geocoded_city": "Custer County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Buffalo%20Gap%20South%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Buffalo%20Gap",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Buffalo%20Gap%20South%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3931,
+      "meters": 1198
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:39:46.823Z"
+  },
+  "scraped_at": "2026-04-21T17:39:46.823Z",
+  "scrape_quality": "minimal"
+}

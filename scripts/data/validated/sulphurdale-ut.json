@@ -1,0 +1,99 @@
+{
+  "slug": "sulphurdale-ut",
+  "name": "Sulphurdale",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Beaver",
+  "city_slug": "beaver",
+  "county": "Beaver",
+  "county_slug": "beaver",
+  "lat": 38.560079,
+  "lng": -112.581241,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM public rockhounding site in Beaver County featuring quartz, agate, and chalcedony in desert washes and hillside exposures. No permit required, personal use only.",
+  "description": "Sulphurdale is a free public rockhounding site on Bureau of Land Management (BLM) property in southwestern Utah's Beaver County. The area sits within the Great Basin physiographic province, characterized by basin-and-range topography with scattered volcanic and sedimentary formations. Collectors can search desert washes, hillside exposures, and eroded benches for quartz varieties, agate nodules, chalcedony fragments, and jasper specimens without needing permits or paying fees.\n\nThe geology here reflects Tertiary and Quaternary volcanic activity combined with weathering and alluvial processes. Silica-rich fluids from ancient hydrothermal systems deposited minerals in fractures and cavities, while more recent erosion has exposed these specimens in accessible washes and surface locations. The desert climate has naturally weathered specimens free from host rock, making collection straightforward for beginners and experienced rockhounds alike.\n\nThis location is ideal for casual collectors seeking free, no-hassle rockhounding. The terrain is semi-arid with sparse vegetation, making walking easy in most areas. Popular search spots include dried wash beds where specimens accumulate and hillside benches where erosion exposes fresh material. The site is beginner-friendly with minimal hiking required from parking areas.\n\nVisitors should respect the 25-pound daily collection limit and remove only what they plan to keep or display. Early morning or late afternoon visits are most comfortable given the exposed desert setting and limited shade.",
+  "history": "Sulphurdale sits within the Basin and Range physiographic province where Tertiary-age volcanism and hydrothermal activity deposited silica-rich mineralization. The quartz, agate, and chalcedony specimens found here formed as precipitates from hot mineral-rich fluids circulating through fractured rock, followed by millions of years of erosion that freed specimens into modern washes and surface deposits.",
+  "tips": "Search dried wash beds and erosion channels where specimens naturally concentrate - look for translucent or banded material showing white, tan, pink, or purple colors. Use a 10x hand lens to identify agate banding and chalcedony luster before collecting. Bring a small pry bar to carefully work loose material from eroded hillside benches, but never hammer or excavate - surface walking typically yields excellent specimens. Pick your area carefully and move systematically rather than wandering randomly; the most productive zones are where water has exposed fresh material.",
+  "terrain_notes": "Semi-arid desert terrain with low sage brush and scattered pinyon-juniper at higher elevations. Elevation ranges from approximately 5,800 to 6,200 feet. Terrain is gently rolling to moderately steep in some areas, with exposed wash banks and benches. Walking surfaces range from sandy to rocky with scattered loose stones. Footing is generally secure on established routes but requires attention to step placement on steeper slopes. Most productive areas are within 0.5 to 1.5 miles of vehicle parking.",
+  "best_season": "April - June, September - October. Spring offers moderate temperatures and occasionally increased water flow in washes that freshly exposes material. Fall provides clear skies and comfortable daytime temperatures. Avoid July-August due to intense heat with limited shade, and winter months (December-February) when occasional snow and ice can make the unpaved roads challenging.",
+  "written_directions": "From Beaver, head south on Main Street approximately 0.5 miles, then take a right (west) onto a county/BLM access road heading toward the Sulphurdale area. Continue on this road for approximately 8-10 miles, following signs and natural terrain features. The road becomes increasingly unpaved; passenger vehicles can usually navigate in dry conditions but clearance is useful. Watch for BLM boundary markers and established pullouts where other rockhounders park. The GPS coordinates (38.560079, -112.581241) mark the general collecting area - approach on foot from the nearest safe parking area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM access road with washboard and scattered rocks. High-clearance passenger vehicles recommended in dry conditions; avoid after rain when mud becomes slick. Road quality varies seasonally.",
+  "parking_notes": "Informal pullouts and wide spots along the access road serve as parking areas. No developed lot or facilities. Park responsibly to avoid blocking access roads. Capacity varies by season and conditions - expect 3-5 vehicles at popular times.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or power tools. Collect only specimens that are loose, weathered free, or easily removed by hand tools. Do not hammer, drill, or pry material from solid rock faces. Pack out all trash. Respect private property boundaries adjacent to BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs maximum per day per FLPMA\nNo commercial collection\nNo motorized excavation or power equipment\nNo hammering or drilling solid rock\nHand tools only for prying loose material\nPack out all trash\nRespect adjacent private property",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Beaver, Utah - approximately 10 miles northeast. Full services including gas stations, restaurants, water, and lodging. Limited supplies available; plan accordingly for a full day of rockhounding.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers and collectors. Unpaved access road requires careful driving; no wheelchair access to productive collecting areas. Walking surfaces vary from sandy to rocky with scattered loose stones. Sturdy footwear recommended. No shade or facilities on-site; bring water and sun protection. Overall moderate accessibility for persons with limited mobility due to road conditions and uneven terrain.",
+  "alternative_names": [],
+  "nearest_city": "Beaver",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/sulphurdale-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/sulphurdale-ut/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Sulphurdale, Utah?",
+      "answer": "Sulphurdale is known for quartz varieties, agate, chalcedony, and jasper specimens. Most material is found loose in washes or weathered from hillside benches. The agate often displays banding in white, tan, pink, or purple colors. Chalcedony is typically translucent to milky white. Jasper appears in reds, browns, and earth tones."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Sulphurdale BLM land?",
+      "answer": "No permit is required for recreational collecting at Sulphurdale. It is public BLM land managed under the Federal Land Policy and Management Act (FLPMA). Personal use collection is allowed free of charge, with a 25-pound daily limit per person."
+    },
+    {
+      "question": "How far is Sulphurdale rockhounding from Beaver, Utah?",
+      "answer": "Sulphurdale is approximately 10 miles southwest of Beaver. From Beaver's main street, take the county access road west toward the Sulphurdale area for about 8-10 miles on an unpaved BLM road. High-clearance vehicles are recommended, though passenger cars can usually navigate in dry conditions."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Sulphurdale?",
+      "answer": "The best rockhounding season at Sulphurdale is April through June and September through October. Spring temperatures are moderate and occasional water flow in washes exposes fresh material. Fall offers clear skies and comfortable daytime heat. Avoid July-August due to intense desert heat and limited shade, and winter when snow or ice may make the unpaved road difficult."
+    },
+    {
+      "question": "Is Sulphurdale a good rockhounding location for beginners?",
+      "answer": "Yes, Sulphurdale is excellent for beginners. The terrain is relatively easy with gentle slopes, specimens are commonly found loose on the surface or partially weathered from hillsides, and no permits are required. The site needs no special tools beyond a hand lens, bucket, and sturdy shoes. Family groups and youth collectors find it very accessible."
+    },
+    {
+      "question": "What tools and supplies should you bring to rockhound at Sulphurdale?",
+      "answer": "Bring a 10x hand lens for identifying specimens, a small pry bar or flathead screwdriver for loosening material, a collection bucket or backpack, sturdy hiking boots, sun protection (hat, sunscreen, sunglasses), and plenty of water - at least 2-3 liters per person. No shade is available on-site, so early morning or late afternoon visits are most comfortable. A GPS device or smartphone helps locate your vehicle on the BLM access road."
+    }
+  ],
+  "meta_title": "Sulphurdale Rockhounding - Utah",
+  "meta_description": "Free BLM rockhounding in Beaver County for quartz, agate, and chalcedony. No permit required. 25 lb daily limit. Beginner-friendly site near Beaver, Utah.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "terrain_notes",
+    "written_directions",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T10:18:18.362Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:19:30.894Z"
+}

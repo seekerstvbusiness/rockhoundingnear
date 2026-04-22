@@ -1,0 +1,96 @@
+{
+  "slug": "new-point-in",
+  "name": "New Point",
+  "state": "Indiana",
+  "state_slug": "indiana",
+  "city": "Decatur",
+  "city_slug": "decatur",
+  "county": "Decatur",
+  "county_slug": "decatur",
+  "lat": 39.323177,
+  "lng": -85.345025,
+  "gem_types": [
+    "Quartz",
+    "Chert",
+    "Calcite",
+    "Feldspar"
+  ],
+  "short_description": "Small public rockhounding site in southern Indiana offering Quartz, Chert, and Calcite specimens. Gentle terrain ideal for beginners exploring regional glacial and sedimentary deposits.",
+  "description": "New Point is a modest rockhounding location in Decatur County, Indiana, situated within the glaciated landscape of the Ohio River valley region. This site represents the geological heritage of southern Indiana, where Ordovician and Silurian-age limestone and dolomite formations were heavily modified by Pleistocene glaciation. The area's gentle terrain and accessible collecting make it suitable for families and beginners interested in Midwestern geology.\n\nThe primary specimens found here reflect Indiana's sedimentary heritage: secondary Quartz deposits occur in glacial till and weathered limestone; Chert nodules erode from the surrounding Paleozoic bedrock; Calcite crystals can be found in fractures of exposed limestone; and Feldspar fragments appear scattered throughout glacial deposits. The gentle slope and low elevation of 984 feet mean the site remains accessible most of the year, though spring and fall offer the most comfortable collecting conditions.\n\nThis location offers rockhounders a chance to understand how glaciation redistributed and concentrated minerals across the Midwest. The site's modest size and gentle terrain make it ideal for families with young collectors and those new to rockhounding who want to experience Indiana's diverse geological story without requiring specialized equipment or extreme hiking.",
+  "history": "The Quartz, Chert, and Calcite found at New Point derive from Ordovician through Silurian limestone and dolomite formations that were buried and lithified over 400 million years ago. During the Pleistocene epoch, continental glaciers advancing southward into Indiana fragmented these formations and scattered the resulting mineral fragments across the landscape, creating the glacial till deposits where modern collectors find specimens today.",
+  "tips": "Search along exposed banks and eroded areas where glacial till is actively weathering - Chert nodules often concentrate in these zones and appear as smooth, waxy fragments ranging from tan to gray. Use a small hand lens to examine Quartz and Feldspar grains in loose sediment; look for translucent or milky crystals rather than glassy shards. Bring a bucket or cloth bag for heavier specimens and focus your effort where recent erosion or foot traffic has turned over fresh material.",
+  "terrain_notes": "Elevation 984 feet with gentle slope throughout. Grassy and lightly vegetated terrain with scattered exposed soil and weathered sediment. Walking distance from parking area typically under 0.5 miles. Footing is generally stable on grass and packed earth, though seasonal mud and wet conditions are possible in spring.",
+  "best_season": "March - May, September - November. Spring and fall offer comfortable temperatures for outdoor collecting, lower insect activity, and drier conditions than summer. Winter is possible but less productive due to frozen ground and reduced visibility of specimens.",
+  "written_directions": "From downtown Decatur, take US 421 south approximately 8 miles. Turn east onto County Road 150E and proceed 2 miles. New Point is accessible via local roads in the surrounding area; use GPS coordinates 39.323177, -85.345025 to pinpoint the exact location. Road surfaces are paved to the immediate area with possible gravel or dirt approaches depending on current maintenance.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": "Paved roads to vicinity; local approach roads may be gravel or unpaved but passable in standard vehicles",
+  "parking_notes": "Informal pullout or roadside parking near collecting area. Limited capacity; typically accommodates 2-4 vehicles",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal rockhounding use only. Respect private property boundaries. No motorized equipment or large-scale excavation. Remove only loose material and small specimens that will not destabilize terrain. Leave site in good condition.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nNo commercial collection\nRespect property boundaries\nNo motorized equipment\nRemove only loose material\nLeave site undamaged",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "sharp_material"
+  ],
+  "nearest_services": "Decatur, Indiana, approximately 8 miles north. Gas, food, and water available in town.",
+  "accessibility_notes": "Relatively flat terrain with gentle slope accessible to most hikers and families. Unpaved or gravel approach to collecting area. Sturdy casual footwear adequate; no specialized hiking boots required. No wheelchair access to main collecting zone due to uneven ground.",
+  "alternative_names": [],
+  "nearest_city": "Decatur",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/indiana/new-point-in/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at New Point, Indiana?",
+      "answer": "New Point offers Quartz, Chert, Calcite, and Feldspar specimens. Quartz appears as translucent or milky crystals in glacial deposits; Chert nodules are smooth, waxy fragments in shades of tan and gray; Calcite forms small crystals in limestone fractures; and Feldspar grains scatter throughout the glacial till. All are typical of Indiana's Paleozoic bedrock and Pleistocene glacial geology."
+    },
+    {
+      "question": "Is New Point a free rockhounding site or is there a fee?",
+      "answer": "New Point is a free public rockhounding area with no entrance fee, permit requirement, or commercial restrictions. It is open to hobbyists for personal specimen collection year-round."
+    },
+    {
+      "question": "How difficult is rockhounding at New Point for beginners?",
+      "answer": "New Point is an excellent beginner-friendly site with easy terrain, gentle slope, and no specialized equipment required. The short walking distance from parking and accessible collecting areas make it perfect for families with children ages 6 and up. You only need a small hand lens, bucket, and comfortable shoes."
+    },
+    {
+      "question": "What is the best time of year to rockhound at New Point, Indiana?",
+      "answer": "The best seasons are March through May and September through November when temperatures are mild, insect activity is lower, and ground conditions are drier. Summer can be hot and humid; winter collecting is possible but less productive due to frozen ground and reduced specimen visibility."
+    },
+    {
+      "question": "How far is New Point from Decatur, and what are the driving directions?",
+      "answer": "New Point is approximately 8 miles south of downtown Decatur. From Decatur, take US 421 south for 8 miles, then turn east onto County Road 150E and go 2 miles. Use GPS coordinates 39.323177, -85.345025 to locate the exact spot. Standard passenger vehicles can reach the area."
+    },
+    {
+      "question": "What tools and gear do I need to rockhound at New Point?",
+      "answer": "Bring a small hand lens to identify Quartz and Feldspar crystals, a bucket or cloth bag for specimens, and comfortable walking shoes suitable for grassy terrain. A small prying tool can help dislodge Chert nodules, but large excavation tools are not needed or permitted. Long pants and insect repellent are recommended in warmer months."
+    }
+  ],
+  "meta_title": "New Point Rockhounding - Indiana",
+  "meta_description": "Find Quartz, Chert, and Calcite at New Point, Indiana. Free public rockhounding site near Decatur. Beginner-friendly with gentle terrain.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "parking_notes",
+    "collection_rules",
+    "nearest_city"
+  ],
+  "enriched_at": "2026-04-21T16:57:34.408Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:58:42.835Z"
+}

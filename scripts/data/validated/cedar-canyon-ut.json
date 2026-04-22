@@ -1,0 +1,97 @@
+{
+  "slug": "cedar-canyon-ut",
+  "name": "Cedar Canyon",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Cedar City",
+  "city_slug": "cedar-city",
+  "county": "Iron",
+  "county_slug": "iron",
+  "lat": 37.594478,
+  "lng": -112.912362,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding near Cedar City offering agate and jasper specimens in scenic Iron County badlands. Free public collecting with no permits required.",
+  "description": "Cedar Canyon sits on BLM public land in southwestern Utah's high desert, a prime location for collectors seeking quality agate and chalcedony specimens. The area is characterized by colorful badlands terrain with exposed volcanic and sedimentary layers that host scattered agate nodules and banded chalcedony pieces. This is classic Basin and Range geology where Miocene volcanic activity and subsequent mineralization created ideal conditions for silica-rich nodule formation.\n\nThe canyon itself features gentle to moderate slopes with exposed washes and hillsides where specimens weather naturally from host rock. Access is straightforward from Cedar City, making this an excellent destination for rockhounders of all experience levels. The colorful geology - reds, purples, and earth tones - creates a visually striking backdrop while you search.\n\nCollecting here follows standard BLM personal-use rules: no permit needed, no commercial collection, and a 25-pound daily limit. The site is dog-friendly and sees moderate recreational traffic during prime seasons. Most productive collecting occurs in desert washes after seasonal runoff, where new material becomes exposed. Bring water, sun protection, and sturdy footwear - the terrain is rocky but navigable for fit hikers.\n\nBest results come from systematically working wash bottoms and exposed hillsides where erosion naturally concentrates lighter specimens. Look for the characteristic banding and color patterns that distinguish quality agate from common rock. The high-desert setting means excellent visibility and minimal vegetation interference during your search.",
+  "history": "Cedar Canyon lies within the Basin and Range physiographic province where Miocene-era volcanic activity (approximately 25-15 million years ago) deposited extensive rhyolitic ash and tuff layers. Subsequent hydrothermal circulation and weathering created abundant silica-rich nodules and banded chalcedony formations that persist throughout this area today. Local prospectors and rockhounders have worked these badlands for decades, making it a well-established collecting destination on public BLM land.",
+  "tips": "Focus your search in active and recent washes where seasonal water runoff has exposed fresh agate specimens on the surface - the lighter pieces stand out against darker surrounding rock. Use a 10x hand lens to examine potential finds for the banding and color saturation that distinguishes quality agate; many specimens here show purple, red, or banded white patterns. Bring a small pry bar or old flathead screwdriver to carefully work specimens from exposed hillsides, but do not use motorized excavation equipment. Early morning or late afternoon provides better lighting for spotting translucent specimens and reduces midday heat exposure.",
+  "terrain_notes": "Elevation approximately 5,200-5,600 feet with gently rolling badlands topography. Terrain consists of exposed volcanic and sedimentary slopes interspersed with desert washes. Vegetation is sparse high-desert scrub. Walking distances from parking typically range 0.5 to 2 miles. Footing is rocky and uneven but not technically difficult - sturdy hiking boots recommended. Slope angles are moderate; no cliffs or dangerous drop-offs in typical collecting areas.",
+  "best_season": "October - April. The high desert location experiences extreme summer heat (often exceeding 95 degrees Fahrenheit), making spring and fall optimal. Winter is mild at this elevation but early mornings can be cold. Seasonal runoff in spring (March-April) exposes fresh material in washes. Avoid mid-June through August due to heat and occasional afternoon thunderstorms.",
+  "written_directions": "From Cedar City, take Main Street (UT-14) east toward the Markagunt Plateau for approximately 8 miles. Continue on local forest roads as they branch south into the badlands area; specific pullouts appear on the south side of the UT-14 corridor in the Cedar Canyon region. Park at informal pullouts along wash accesses or designated BLM parking areas. GPS coordinates (37.594478, -112.912362) mark the central collecting zone. High-clearance vehicles can access some interior spots via rough dirt roads after winter; passenger vehicles should use main pullouts.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Main access via paved UT-14; secondary access uses well-maintained dirt roads. Some rough dirt roads to interior spots may require high-clearance vehicles after heavy rain, but parking pullouts are accessible to all passenger vehicles.",
+  "parking_notes": "Multiple informal pullouts and designated BLM parking areas along the canyon approaches. Typical capacity 5-15 vehicles per pullout. No facilities (vault toilets, water, or shade structures). Parking is free and unrestricted.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA guidelines. No commercial collection or sale of specimens. No motorized excavation equipment. No collecting within any fenced areas or private holdings. Remove only loose material and weathered specimens; do not blast or hammer native bedrock. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day\nNo commercial collection\nNo motorized excavation\nNo hammering or blasting bedrock\nRemove loose and weathered material only\nNo collection in fenced or private areas\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Cedar City (approximately 12 miles west) offers full services including gas, restaurants, hotels, and grocery stores. Water and supplies should be obtained before heading to the site.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers with moderate fitness. Main parking pullouts are accessible via paved or well-maintained dirt roads. Terrain within collecting areas is rocky and uneven with scattered loose rocks, requiring sturdy footwear. No wheelchair accessibility in backcountry collecting areas. Walking distances are generally short (under 2 miles), making this suitable for families with children and dogs.",
+  "alternative_names": [],
+  "nearest_city": "Cedar City",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/cedar-canyon-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kinds of agates can I find at Cedar Canyon near Cedar City, Utah?",
+      "answer": "Cedar Canyon is known for banded agates, chalcedony specimens, and colorful jasper pieces. Many collectors find purple, red, and white banded agate nodules weathering from the volcanic badlands. Look in washes and exposed hillsides where Miocene-era volcanic activity deposited these silica-rich formations. Quality specimens often show translucency when backlit."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Cedar Canyon on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Cedar Canyon. It is open public BLM land where personal-use collecting is allowed without advance permission. You must follow the 25-pound daily limit and collect only for personal use - no commercial sale of specimens."
+    },
+    {
+      "question": "Is Cedar Canyon rockhounding site good for beginners and families with kids?",
+      "answer": "Yes, Cedar Canyon is an excellent beginner and family destination. The terrain is relatively easy with gentle slopes and no technical climbing. Children ages 6 and up can participate. Parking and initial access are simple, distances are short, and the colorful badlands provide an engaging backdrop. Dogs are welcome on leash."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Cedar Canyon in Iron County?",
+      "answer": "October through April is optimal. Avoid summer heat (June-August) which regularly exceeds 95 degrees. Spring runoff (March-April) exposes fresh agate material in washes. Fall and early winter offer mild conditions and excellent visibility. Winter mornings can be cold but afternoons are pleasant."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Cedar Canyon?",
+      "answer": "Bring sturdy hiking boots, a 10x hand lens for examining specimens, a small pry bar or flathead screwdriver for careful extraction, and a collection bag. Essential supplies include plenty of water (2+ liters), sunscreen, a hat, and a headlamp for early morning or late afternoon collecting. Do not bring motorized equipment or hammers for breaking bedrock."
+    },
+    {
+      "question": "How far from Cedar City is Cedar Canyon rockhounding, and what roads do I take?",
+      "answer": "Cedar Canyon is approximately 12 miles east of Cedar City via Main Street/UT-14. Take UT-14 east for about 8 miles, then turn onto local forest roads branching south into the badlands area. Passenger vehicles can access main pullouts easily. High-clearance vehicles can reach interior spots via rough dirt roads. GPS coordinates 37.594478, -112.912362 mark the primary collecting zone."
+    }
+  ],
+  "meta_title": "Cedar Canyon Rockhounding - Find Agate in Utah",
+  "meta_description": "Find agate and chalcedony at Cedar Canyon, Utah on free BLM public land. No permit required. Perfect for families and beginners near Cedar City.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from county location and state geography; specific pullout locations should be field-verified",
+    "nearest_city_distance - estimated at 12 miles based on Cedar City to Iron County coordinates",
+    "gem_types - agate and chalcedony are typical for Basin and Range volcanic terrain; specific species should be field-verified",
+    "hazards - snakes and heat are standard for southwestern high desert; specific documented hazards should be confirmed with local BLM office"
+  ],
+  "enriched_at": "2026-04-22T06:50:14.530Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:56:43.861Z"
+}

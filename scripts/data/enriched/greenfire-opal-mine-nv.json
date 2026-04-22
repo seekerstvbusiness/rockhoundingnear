@@ -1,0 +1,96 @@
+{
+  "slug": "greenfire-opal-mine-nv",
+  "name": "Greenfire Opal Mine",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "McDermitt",
+  "city_slug": "mcdermitt",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "lat": 41.814825,
+  "lng": -119.007954,
+  "gem_types": [
+    "Opal",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Public BLM rockhounding site in remote northern Nevada producing common and fire opals. Flat terrain at 4900 feet elevation with excellent spring and fall collecting conditions.",
+  "description": "Greenfire Opal Mine is a popular recreational rockhounding location on public BLM land in Humboldt County, Nevada, near the Oregon border. The site sits at 4900 feet elevation on relatively flat terrain, making it accessible to rockhounders of various skill levels. This is one of Nevada's premier opal-producing regions, where collectors can find common opal, fire opal, and chalcedony specimens in weathered volcanic deposits.\n\nThe Humboldt County area has a rich history of opal prospecting dating back over a century. The opals found here formed in volcanic host rocks during the Miocene epoch when silica-rich hot springs and geothermal activity deposited precious and common opal in fractures and cavities. The volcanic geology of the region, combined with the arid climate and subsequent weathering, has exposed these opal-bearing formations at or near the surface.\n\nVisitors to Greenfire typically search exposed outcrops, washes, and sandy areas for loose opal nodules and fragments. The flat terrain means you can cover substantial ground without extreme elevation gain. Early morning and late afternoon light conditions are ideal for spotting translucent opal specimens. The site is remote but well-known in rockhounding circles, and fellow collectors are usually present on weekends during peak season.\n\nAs this is BLM land, collection is free and no permit is required, though you must follow federal collection regulations including the 25-pound daily limit. The remote location and high elevation mean weather can change rapidly, and the nearest services are in McDermitt, over 40 miles away. Bring plenty of water, sun protection, and allow extra time for the drive.",
+  "history": "The Humboldt County opal deposits formed during Miocene-era volcanic activity when silica-rich hydrothermal fluids infiltrated fractures in rhyolitic volcanic rocks, precipitating precious and common opal over millions of years. Prospectors discovered rich opal deposits in this region in the early 1900s, and while commercial mining has been limited, the area remains a productive source for recreational collectors.",
+  "tips": "Search the eroded washes and exposed hillsides where opal nodules weather out of the volcanic host rock - look for translucent white or milky specimens that catch the light. Bring a small rock hammer and chisel to extract specimens from surrounding matrix, and wear heavy gloves as the volcanic rock can be very sharp. The best finds often appear after seasonal storms when erosion exposes fresh material, so visit in spring or fall when weather is stable and visibility is good. Focus on areas with visible volcanic tuff and ash deposits, and do not remove material from in-situ outcrop areas larger than what you can hand-collect.",
+  "terrain_notes": "Flat to gently rolling terrain at 4900 feet elevation with sparse low desert vegetation including sage and rabbitbrush. Volcanic soil and exposed light-colored tuff outcrops. Dirt road access to the general area; final approach may require walking 0.5 to 2 miles depending on parking availability. Footing is moderate - rocky and uneven in places but not steep. No shade available on the open flats.",
+  "best_season": "October - April. The high desert climate brings extreme heat in summer (100+ degrees Fahrenheit), making mid-day collecting uncomfortable. Spring (March-April) and fall (September-October) offer mild temperatures, lower chance of afternoon thunderstorms, and better visibility for spotting opal. Winter occasionally brings snow at this elevation, limiting access.",
+  "written_directions": "From McDermitt, Nevada, take US Route 95 north toward the Oregon border for approximately 35 miles. Turn west onto a marked dirt road leading toward the Opal Mountains (look for rockhounding area signs). Continue on the main dirt track for 4-6 miles to parking areas near historic mining claims. The road is rough and high-clearance may be beneficial after heavy rain, but is typically passable for standard vehicles in dry conditions. Allow 1.5 to 2 hours driving time from McDermitt.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt road, washboard texture, may be rough after rain. High-clearance passenger vehicle or light truck recommended but not required in dry conditions.",
+  "parking_notes": "Informal pullout areas and parking spots along the access road. No designated parking lot. Space for 5-15 vehicles depending on which parking area. Parking is first-come, first-served.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection or sale of material. No mechanized excavation or mining equipment. Hand tools only. Do not remove specimens still firmly embedded in bedrock (in-situ material must remain undisturbed). Respect existing claim markers and posted private property boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or mechanical tools\nHand tools only\nRespect mining claims and private property signs\nNo in-situ removal of material embedded in bedrock",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "McDermitt, Nevada is the nearest town with gas, food, lodging, and water supplies, approximately 40 miles south via US Route 95.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and rockhounders with basic fitness. Uneven rocky and volcanic soil with loose stones underfoot - sturdy hiking boots required. No wheelchair access to collecting areas. The remote location and lack of shade, water, or facilities requires self-sufficiency and careful preparation. Older adults and children should be supervised and well-hydrated.",
+  "alternative_names": [],
+  "nearest_city": "McDermitt",
+  "nearest_city_distance": 40,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/greenfire-opal-mine-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kind of opal can I find at Greenfire Opal Mine in Nevada?",
+      "answer": "Greenfire produces both common opal and fire opal specimens. Common opal appears in white, milky, or cream-colored nodules and fragments, while fire opal displays orange, red, and yellow body colors. You may also find chalcedony and quartz specimens in the surrounding volcanic deposits. Most specimens are small to medium-sized fragments suitable for tumbling, cabochon cutting, or display."
+    },
+    {
+      "question": "Is rockhounding at Greenfire Opal Mine free, and do I need a permit?",
+      "answer": "Yes, rockhounding at Greenfire is completely free - no permit is required for recreational collection on BLM land. However, you must follow BLM regulations: personal use only, maximum 25 pounds per day, and no commercial collection. Hand tools only; no motorized equipment is permitted."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Greenfire Opal Mine?",
+      "answer": "October through April is ideal. Summer temperatures in this high desert region exceed 100 degrees Fahrenheit, making daytime collecting dangerous and uncomfortable. Spring and fall offer mild 50-70 degree weather, stable conditions, and better light for spotting translucent opal specimens. Winter can bring snow at 4900 feet elevation, occasionally closing the access road."
+    },
+    {
+      "question": "How far is Greenfire Opal Mine from the nearest town, and what services are available?",
+      "answer": "Greenfire is located about 40 miles north of McDermitt, Nevada, a remote high desert town with gas stations, restaurants, and lodging. The nearest larger town is Gerlach (70 miles south). Stock up on water, food, and supplies in McDermitt before heading to the site, as there are no services once you leave town. Cell service is non-existent at the mine."
+    },
+    {
+      "question": "What tools and equipment should I bring for rockhounding at Greenfire?",
+      "answer": "Bring a small rock hammer or geology pick, cold chisel, and heavy work gloves - the volcanic rock is very sharp and can cut through thin gloves. You will also need a sturdy backpack, plenty of water (at least 3-4 liters per person), sun protection including hat and sunscreen, a headlamp or flashlight, and a collection bag or bucket. High-clearance footwear is essential on the rocky terrain."
+    },
+    {
+      "question": "Is Greenfire Opal Mine suitable for beginners and families with children?",
+      "answer": "Yes, the flat terrain and accessible surface collecting make Greenfire excellent for beginners and families. Children as young as 6 can participate with supervision. The main challenges are the remote location (40+ miles from services), lack of shade or water at the site, and the need for sturdy footwear due to sharp volcanic rock. Bring ample water, take frequent breaks, and ensure children stay close to adults in this isolated area."
+    }
+  ],
+  "meta_title": "Greenfire Opal Mine Rockhounding - Nevada",
+  "meta_description": "Free BLM rockhounding at Greenfire Opal Mine in Humboldt County, Nevada. Find opal, chalcedony, and quartz. No permit required. 25 lbs/day limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (estimated based on GPS coordinates and typical NV BLM site access patterns)",
+    "nearest_city_distance (estimated from coordinates)",
+    "parking_notes (inferred from typical BLM site infrastructure)",
+    "road_conditions (estimated based on elevation and terrain data)"
+  ],
+  "enriched_at": "2026-04-22T06:43:16.159Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:46:04.738Z"
+}

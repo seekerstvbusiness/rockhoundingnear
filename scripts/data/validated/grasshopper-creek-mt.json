@@ -1,0 +1,99 @@
+{
+  "slug": "grasshopper-creek-mt",
+  "name": "Grasshopper Creek",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Polaris",
+  "city_slug": "polaris",
+  "county": "Beaverhead",
+  "county_slug": "beaverhead",
+  "lat": 45.36476,
+  "lng": -113.124393,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate"
+  ],
+  "short_description": "BLM public land rockhounding along Grasshopper Creek near Polaris. Free collecting of quartz and chalcedony specimens on flat, easy-access terrain.",
+  "description": "Grasshopper Creek in Beaverhead County offers accessible rockhounding on Montana BLM land with no permits required. The site features relatively flat terrain along the creek bed and surrounding washes, making it ideal for families and beginners looking to collect quartz and chalcedony specimens.\n\nThis area sits within southwestern Montana's Basin and Range province, where Tertiary-age volcanic and hydrothermal activity created extensive silica deposits. Grasshopper Creek cuts through quartz-rich country rock, concentrating quality specimens in the creek bed and nearby hillside outcrops. The moderate elevation and open terrain allow year-round access with seasonal advantages.\n\nCollectors should expect to find milky quartz chunks, translucent chalcedony pieces, and occasional banded agate fragments scattered throughout the creek wash and surrounding gravels. The flat topography means less strenuous hiking compared to Montana's steeper mountain rockhounding sites. Water is present year-round in the creek, supporting a riparian zone with willows and cottonwoods.\n\nThis is personal-use only land managed by the BLM, with a 25 lb daily collection limit per FLPMA regulations. The remote location near Polaris offers solitude and excellent collecting without the crowds of fee dig sites. Plan for variable weather and pack accordingly, as elevation and exposure can bring rapid temperature changes even during good seasons.",
+  "history": "Grasshopper Creek's quartz and chalcedony deposits formed during Tertiary-age hydrothermal activity (approximately 55-25 million years ago) when hot, silica-rich fluids circulated through volcanic rocks and pre-existing felsic intrusions. This widespread mineralization created the extensive quartz veins and replacement deposits now exposed along the creek, concentrated further by weathering and stream erosion into the accessible creek-bed collecting areas seen today.",
+  "tips": "Search the main creek wash and dry tributary beds where water flow has concentrated heavy quartz and chalcedony specimens over time. Use a 5-lb crack hammer or cold chisel to break apart larger creek cobbles and access fresh material from recent erosion faces. Look for translucent to milky white quartz pieces and banded or striped chalcedony fragments, typically ranging from marble-sized to fist-sized specimens; the best pieces often occur in clusters along the highest water marks from spring runoff.",
+  "terrain_notes": "Flat to gently rolling terrain at approximately 5,500 feet elevation. The creek bottom is rocky with scattered boulders and cobbles, but the overall slope is minimal. Vegetation includes sagebrush, grasses, and riparian willows along the creek. Walking distance from parking varies but typical collecting areas are within 0.5 to 1.5 miles of access points. Footing is uneven due to loose creek rocks and cobbles; sturdy hiking boots are recommended despite the flat grade.",
+  "best_season": "June - September. Winter snow and spring runoff make access difficult and hazardous; summer and early fall provide dry conditions, passable roads, and comfortable temperatures in this high-elevation valley setting.",
+  "written_directions": "From Polaris, Montana (approximately 20 miles south of Dillon), head south on Montana Highway 278 toward the Beaverhead National Forest boundary. Look for BLM access roads and creek pullouts marked by informal parking areas along or near Highway 278 in the Grasshopper Creek drainage. GPS coordinates 45.36476, -113.124393 pinpoint the main collecting area. Approach via high-clearance vehicle on seasonal BLM roads; verify current road conditions before traveling, as spring runoff and winter weather can close access.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "BLM seasonal roads, high-clearance recommended. Road surfaces may be rough gravel or dirt, passable in dry conditions. Winter closure common.",
+  "parking_notes": "Informal pullouts and parking areas along Highway 278 and BLM access roads near Grasshopper Creek. No developed lot; expect small natural areas suitable for 3-5 vehicles. Parking subject to seasonal availability and road access.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No use of heavy machinery. All collectors must pack out waste and respect wildlife.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 pounds per day\nNo commercial collection permitted\nNo motorized excavation equipment\nNo heavy machinery allowed\nPack out all waste material\nRespect posted closures and wildlife",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "remote",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Polaris, Montana (approximately 20 miles north) has limited services. Dillon, Montana (approximately 40 miles north) offers gas, food, lodging, and supplies.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Loose, uneven creek rocks and cobbles require sturdy footwear. No wheelchair access to the creek bed itself due to rough, rocky ground. Collecting areas are within short walking distances (under 2 miles) from parking. Despite the flat slope, the rocky creek bottom demands caution and steady footing.",
+  "alternative_names": [],
+  "nearest_city": "Polaris",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/grasshopper-creek-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/grasshopper-creek-mt/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Grasshopper Creek near Polaris?",
+      "answer": "Grasshopper Creek is known for quality quartz, chalcedony, and occasional agate specimens. Collectors commonly find milky white quartz chunks, translucent chalcedony pieces, and banded agate fragments in the creek wash and surrounding gravels. Specimens typically range from marble-sized to fist-sized pieces."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Grasshopper Creek in Montana?",
+      "answer": "No permit is required for personal use collecting on this BLM land. However, you must follow the 25 lb per day limit under FLPMA regulations and cannot engage in commercial collection. Always verify current BLM guidelines before visiting."
+    },
+    {
+      "question": "What is the best time of year to rockhound Grasshopper Creek?",
+      "answer": "June through September offers the best conditions. Winter snow and spring runoff make road access difficult and hazardous. Summer and early fall provide dry terrain, passable BLM roads, and comfortable temperatures suitable for creek-bed collecting in this high-elevation valley."
+    },
+    {
+      "question": "Is Grasshopper Creek rockhounding suitable for beginners and families?",
+      "answer": "Yes, Grasshopper Creek is excellent for beginners and families. The flat terrain requires minimal hiking, no permits are needed, and specimens are accessible without advanced skills. Children ages 6 and up can participate. Bring sturdy boots due to loose creek rocks, and plan for variable mountain weather."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Grasshopper Creek?",
+      "answer": "A 5-lb crack hammer or cold chisel works well for breaking apart creek cobbles and accessing fresh quartz. Bring a collection bag or bucket, sturdy hiking boots for rocky creek terrain, plenty of water, sun protection, and a jacket for temperature changes. High-clearance vehicle is recommended for accessing BLM roads."
+    },
+    {
+      "question": "How far is Grasshopper Creek from Polaris, and what services are available nearby?",
+      "answer": "Grasshopper Creek is approximately 20 miles south of Polaris via Montana Highway 278. Polaris offers limited services; for gas, food, lodging, and supplies, head to Dillon (approximately 40 miles north). Pack supplies before heading to this remote BLM location."
+    }
+  ],
+  "meta_title": "Grasshopper Creek Rockhounding - Montana",
+  "meta_description": "Find quartz, chalcedony, and agate at Grasshopper Creek near Polaris, Montana. Free BLM collecting, no permits required. Easy terrain for families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "nearest_city_distance",
+    "parking_notes",
+    "road_conditions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-21T19:06:19.277Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:08:52.242Z"
+}

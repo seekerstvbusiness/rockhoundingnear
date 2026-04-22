@@ -1,0 +1,60 @@
+{
+  "slug": "centerville-gypsum-ia",
+  "name": "Centerville (gypsum)",
+  "lat": 40.765835,
+  "lng": -92.915252,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Appanoose County",
+  "city_slug": "appanoose-county",
+  "county": "Appanoose",
+  "county_slug": "appanoose",
+  "geocoded_city": "Appanoose County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Centerville%20(gypsum)%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Centerville%20(gypsum)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Centerville%20(gypsum)%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 965,
+      "meters": 294
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:55:08.493Z"
+  },
+  "scraped_at": "2026-04-21T17:55:08.493Z",
+  "scrape_quality": "minimal"
+}

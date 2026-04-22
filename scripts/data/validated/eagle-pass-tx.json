@@ -1,0 +1,100 @@
+{
+  "slug": "eagle-pass-tx",
+  "name": "Eagle Pass",
+  "state": "Texas",
+  "state_slug": "texas",
+  "city": "Eagle Pass",
+  "city_slug": "eagle-pass",
+  "county": "Maverick",
+  "county_slug": "maverick",
+  "lat": 28.737347,
+  "lng": -100.471205,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Chert",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Rockhound the Rio Grande region for colorful agate, chalcedony, and jasper specimens. This South Texas location offers easy access to desert gemstones on public and private land near the Mexican bo...",
+  "description": "Eagle Pass sits in the heart of South Texas rockhounding country, where the Rio Grande Valley meets the Chihuahuan Desert. The area is known for producing quality specimens of banded agate, translucent chalcedony, and multicolored jasper found in gravels, washes, and hillsides throughout Maverick County. Collectors have successfully worked this region for decades, taking advantage of both BLM land and permitted private access to hunt for gems weathered from volcanic and sedimentary formations.\n\nThe geology here reflects the Basin and Range structure of southwest Texas, where Cretaceous limestone underlies younger gravels and alluvial deposits. Silica-rich fluids from ancient volcanic activity in the region created the agate nodules and chalcedony seams now exposed in stream beds and erosional surfaces. The flat to gently rolling terrain at 816 feet elevation makes systematic searching practical for rockhounders of all experience levels.\n\nBest collecting occurs in dry washes, arroyo beds, and along hillside exposures where weather has naturally exposed colorful specimens. The area sees less collector traffic than popular West Texas agate fields, meaning good material is still being found. Bring water, sun protection, and expect hot, open desert conditions typical of the Rio Grande Valley.",
+  "history": "The Eagle Pass area sits within the Chihuahuan Desert province where Cretaceous seas deposited thick limestone sequences, later fractured and chemically altered by silica-rich groundwater during the Tertiary. Volcanic activity associated with the Rio Grande rift system left behind silica deposits that formed the agate and chalcedony nodules found in gravels and washes today.",
+  "tips": "Search dry washes and arroyo bottoms after rare rainfall when fresher material becomes exposed and easier to spot against light-colored gravels. Look for translucent to semi-translucent pieces with banding or color zoning - the best specimens show red, orange, tan, and cream striping. Bring a good UV light if hunting at dawn or dusk, as many agate specimens fluoresce under ultraviolet light, making them easier to spot. A small classifier or 5-gallon bucket helps you systematically work gravelly patches and move material efficiently in the heat.",
+  "terrain_notes": "Flat desert terrain at 816 feet elevation with scattered brush and creosote vegetation typical of the Chihuahuan Desert. Most collecting areas are within walking distance of pullouts and parking areas. Footing is sandy to rocky with occasional sharp caliche (lime-cemented gravel), so sturdy boots are essential. No major elevation change; the main challenge is heat and sun exposure rather than hiking difficulty.",
+  "best_season": "October - April. Winter and early spring offer cooler temperatures and lower humidity, making day-long collecting sessions safer and more enjoyable. Summer temperatures regularly exceed 100 degrees Fahrenheit in this region, and afternoon thunderstorms (though rare) can quickly flood low-lying washes.",
+  "written_directions": "From Eagle Pass, head south on US 277 toward the Rio Grande Valley. Access points are scattered along county roads in the flatter areas south and east of town. Local BLM recreation maps and the Eagle Pass Chamber of Commerce can provide specific pullout locations. Private land access may require permission - ask at local rock shops or rockhounding clubs for current fee dig and permitted area information.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mix of paved county roads and maintained dirt roads. Most collector access points reachable by standard passenger vehicles. Some rougher spots may require high clearance after heavy rain.",
+  "parking_notes": "Multiple pullouts and informal parking areas along county roads throughout the region. No developed parking facilities; expect open ground parking near productive washes and hillside exposures.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Public lands: personal use only, maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Respect private property and obtain permission before entering. Check with BLM Eagle Pass Field Office and local authorities for current access restrictions and seasonal closures.",
+  "quantity_limits": "25 lbs per day on public land",
+  "rules": "Personal use collection only on public land\nMaximum 25 lbs per day\nNo commercial collection permitted\nNo motorized excavation allowed\nObtain permission before entering private property\nRespect all posted boundaries and signs\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Eagle Pass (in town) - gas, food, water, and supplies. 0 miles. Groceries and rockhounding supplies available at local stores.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Unpaved roads to some parking areas, but standard passenger vehicles can reach most productive spots. No wheelchair access to collecting areas. Sturdy footwear essential due to sharp caliche and rocky ground. Open desert with no shade - bring sun protection and plenty of water.",
+  "alternative_names": [],
+  "nearest_city": "Eagle Pass",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/texas/eagle-pass-tx/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of gems can I find rockhounding near Eagle Pass, Texas?",
+      "answer": "The Eagle Pass area is known for producing excellent specimens of banded agate, chalcedony, jasper, and chert. You'll find colorful material with red, orange, tan, and cream striping in washes and hillside exposures throughout Maverick County. Many collectors also report finding quality quartz specimens and occasional petrified wood fragments."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Eagle Pass, Texas?",
+      "answer": "No permit is required for personal use rockhounding on public lands in the Eagle Pass area. However, you must follow federal FLPMA regulations: collect only for personal use, limit yourself to 25 lbs per day, and avoid motorized excavation. Always check with the BLM Eagle Pass Field Office for current access rules and any seasonal closures before your trip."
+    },
+    {
+      "question": "What is the best time of year to find agate near Eagle Pass?",
+      "answer": "October through April offers the most comfortable collecting conditions, with cooler temperatures and lower humidity than the intense summer heat. Winter is ideal because temperatures stay below 80 degrees, allowing you to search for extended periods without heat-related concerns. Avoid June through September when temperatures regularly exceed 100 degrees Fahrenheit."
+    },
+    {
+      "question": "Is Eagle Pass rockhounding suitable for beginners and families?",
+      "answer": "Yes, Eagle Pass is excellent for beginners and family outings. The flat terrain requires no technical hiking, and gems are found in accessible washes and surface exposures. Children ages 6 and up can participate safely with proper sun protection and supervision. The straightforward geology makes it easy to learn specimen identification and collecting basics."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Eagle Pass?",
+      "answer": "Bring sturdy boots (the caliche is sharp), a UV light to spot fluorescing specimens, a small pick or chisel for detail work, a 5-gallon bucket or classifier for sorting, and a backpack to carry material. Most importantly, bring 2-3 gallons of water per person, sunscreen, a wide-brimmed hat, and a long-sleeved shirt for sun protection in this exposed desert landscape."
+    },
+    {
+      "question": "How far is Eagle Pass from major Texas rockhounding destinations?",
+      "answer": "Eagle Pass is located 150 miles south of the popular Alpine agate fields and about 90 miles north of the Rio Grande Valley. While not as famous as some West Texas locations, the Eagle Pass area offers advantages: less collector traffic, productive public and private access, and easier terrain. It makes an excellent base for exploring South Texas gemstone hunting."
+    }
+  ],
+  "meta_title": "Eagle Pass Rockhounding - Find Agate in Texas",
+  "meta_description": "Hunt for colorful agate, chalcedony, and jasper near Eagle Pass, Texas. Easy public access, flat desert terrain, no permits required. Family-friendly rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "vehicle_required",
+    "parking_notes",
+    "road_conditions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-21T19:28:08.688Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:28:24.386Z"
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "wisdom-ranch-co",
+  "name": "Wisdom Ranch",
+  "state": "Colorado",
+  "state_slug": "colorado",
+  "city": "Fort Collins",
+  "city_slug": "fort-collins",
+  "county": "Larimer",
+  "county_slug": "larimer",
+  "lat": 40.59778,
+  "lng": -105.36444,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding on gentle slopes near Fort Collins. Hunt for colorful agate, jasper, and quartz specimens in this accessible high-elevation location.",
+  "description": "Wisdom Ranch sits on Colorado BLM land in the foothills north of Fort Collins at 7591 feet elevation. This site offers rockhounders a chance to explore gentle slopes dotted with semi-arid shrubland typical of the Front Range transition zone. The location is beginner-friendly with relatively easy access and manageable terrain that doesn't require technical climbing or backcountry skills.\n\nThe Larimer County area lies within the Rocky Mountain province where Precambrian granite and metamorphic rocks have been weathered and fractured over millions of years. Secondary mineral deposits, particularly agate and jasper nodules, formed in ancient volcanic and sedimentary layers that overlay the basement rock. Quaternary erosion has exposed these colorful specimens on hillsides and in wash areas, making them accessible to surface collectors.\n\nRockhounders typically find small to medium agate specimens with banding in reds, browns, and whites, along with jasper fragments and quartz pieces. The gentle slope makes walking and scanning feasible without exhausting scrambles. No permit is required, and the standard BLM 25-pound daily personal-use limit applies.\n\nBest collecting happens in spring and fall when temperatures are moderate and afternoon thunderstorms are less frequent. Summer heat can be intense at this elevation, while winter snow may limit access. Visit early in the day to maximize daylight and stay aware of afternoon weather changes common to mountain foothills.",
+  "history": "This area sits within the Rocky Mountain front where Precambrian granite basement rocks are overlain by Paleozoic and Mesozoic sedimentary formations. Secondary silica mineralization occurred during hydrothermal activity associated with mountain building, creating agate and jasper deposits that have been exposed by millions of years of erosion along the Front Range.",
+  "tips": "Search along eroded hillsides and shallow washes where gravity and water have concentrated lighter specimens. Look for colorful agate and jasper on south-facing slopes in early morning light, which reveals banding and translucency better than overhead sun. Bring a small backpack, water, and a magnifying glass to inspect specimens for quality before filling your collection limit. The sandy and gravelly surface makes walking easier but can hide sharp edges, so wear sturdy boots.",
+  "terrain_notes": "Elevation 7591 feet with gentle slope throughout the site. Semi-arid shrubland with scattered ponderosa pine and juniper. Mostly exposed hillsides with sandy-gravelly soil. Walking distance from parking is typically less than 1 mile to productive areas. Footing is generally stable but uneven, with scattered small rocks and occasional patches of loose scree.",
+  "best_season": "May - September, with peak season May - June and September - October. Summer afternoon thunderstorms are possible. Avoid December - March when snow and cold make access difficult.",
+  "written_directions": "From Fort Collins, take US 34 northwest toward Estes Park for approximately 15 miles. Turn left (west) onto County Road 7 and drive 3-4 miles to the BLM access area near Wisdom Ranch. Look for a rough dirt pullout on the south side of the road. A high-clearance or four-wheel-drive vehicle is recommended for the final approach road, especially in wet conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Dirt and gravel roads in the final 3-4 miles. Washboard surface typical of BLM roads. High-clearance or 4WD recommended, especially after rain. Passenger vehicles may scrape on rough sections.",
+  "parking_notes": "Informal pullout areas along BLM access road. No developed parking lot. Space for 3-5 vehicles in existing turnouts. No facilities or amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or surface disturbance beyond casual surface collecting. Do not damage rock formations or remove specimens from in-situ layers. Stay on existing roads and trails.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo surface disturbance beyond casual surface collecting\nDo not damage rock formations",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "cold"
+  ],
+  "nearest_services": "Fort Collins, approximately 15-20 miles southeast. Full services including gas stations, restaurants, grocery stores, and emergency medical facilities.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Uneven sandy and gravelly footing requires sturdy boots. No wheelchair access to collecting areas. Walking distances from parking are short (under 1 mile typically). Terrain is suitable for families and beginners with reasonable fitness.",
+  "alternative_names": [],
+  "nearest_city": "Fort Collins",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/wisdom-ranch-co/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/wisdom-ranch-co/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Wisdom Ranch near Fort Collins?",
+      "answer": "Wisdom Ranch is known for colorful agate specimens with red, brown, and white banding. You can also find jasper fragments, quartz pieces, and chalcedony. Most specimens are small to medium sized and lie on the surface of hillsides or in shallow washes."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Wisdom Ranch on Colorado BLM land?",
+      "answer": "No permit is required for recreational rockhounding on Colorado BLM land at Wisdom Ranch. You can collect free of charge under the personal-use exception to FLPMA, which limits you to 25 pounds per day."
+    },
+    {
+      "question": "What is the best time of year to visit Wisdom Ranch for rockhounding?",
+      "answer": "The best rockhounding season at Wisdom Ranch runs from May through September, with peak conditions in May-June and September-October when temperatures are moderate. Avoid summer afternoons due to possible thunderstorms and winter months when snow blocks access to this 7591-foot elevation site."
+    },
+    {
+      "question": "Is Wisdom Ranch rockhounding site beginner friendly and family safe?",
+      "answer": "Yes, Wisdom Ranch is ideal for beginners and families. The terrain features gentle slopes and short walking distances from parking areas. Children ages 6 and up can participate. No special skills or permits are needed, making it perfect for introducing kids to rockhounding."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound at Wisdom Ranch?",
+      "answer": "Bring sturdy boots for uneven terrain, a backpack, plenty of water, sunscreen, and a hat. A small hand lens or magnifying glass helps identify banding in agate specimens. A small pry bar can help with stubborn specimens, but avoid heavy excavation tools as motorized digging is not allowed on BLM land."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Wisdom Ranch?",
+      "answer": "Yes, dogs are allowed at Wisdom Ranch since it is BLM public land. Keep your dog on a leash and bring extra water for pets. Be aware of wildlife including snakes and mountain lions, so supervise dogs closely and avoid letting them explore rocky crevices."
+    }
+  ],
+  "meta_title": "Wisdom Ranch Rockhounding - Colorado Agate & Jasper",
+  "meta_description": "Hunt agate, jasper, and quartz at Wisdom Ranch near Fort Collins. Free BLM rockhounding, easy terrain, no permit required. Open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-21T16:55:31.510Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T16:56:36.127Z"
+}

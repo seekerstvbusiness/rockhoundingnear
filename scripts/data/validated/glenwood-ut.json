@@ -1,0 +1,99 @@
+{
+  "slug": "glenwood-ut",
+  "name": "Glenwood",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Sevier County",
+  "city_slug": "sevier-county",
+  "county": "Sevier",
+  "county_slug": "sevier",
+  "lat": 38.787536,
+  "lng": -111.954709,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land in central Utah offering free rockhounding for agate, jasper, and chalcedony specimens. Easy access with no permits required - perfect for beginners.",
+  "description": "Glenwood sits on productive BLM land in Sevier County, Utah, within the Basin and Range physiographic province. This area is known for scattered surface specimens of colorful agate and jasper, along with quartz and chalcedony nodules exposed in dry washes and on hillside outcrops. The landscape consists of high desert terrain with sagebrush, juniper, and pinyon pine vegetation interspersed with open benches and rocky drainages where specimens concentrate after weathering and erosion.\n\nThe geology here reflects Tertiary volcanism and mineralized flows that deposited silica-rich material across the region. Over millions of years, chemical and physical weathering has freed agate and jasper nodules from their host rock, making them accessible to collectors at the surface. The area's aridity helps preserve exposed specimens and makes walking easier across the terrain.\n\nRockhounding at Glenwood is straightforward: walk the washes and low hillsides, scan for colorful rounded or banded stones, and collect what you find (up to 25 lbs per day). No special equipment is needed beyond a backpack and good boots. The site is beginner-friendly and family-appropriate, with manageable walking distances from parking areas. Collectors often find nice display-quality pieces suitable for cabinets or cutting.",
+  "history": "This area sits within the Basin and Range province where Tertiary volcanic activity (roughly 20-30 million years ago) deposited thick sequences of tuffs and lavas. Subsequent alteration and silica-rich groundwater percolation created agate and jasper nodules within these volcanic host rocks. In the century following the 1880s mining boom in Utah's silver districts, rockhounders discovered the abundant surface agate and jasper deposits in central Utah's BLM lands, making areas like Glenwood popular for recreational collecting.",
+  "tips": "Focus your search on dry washes and erosional drainages where concentrated material accumulates - these are natural collection points. Look for specimens with banding, color variation, or translucency; plain gray or tan pieces are common but colored varieties (reds, oranges, browns, whites) are more desirable and worth the extra effort. Bring a hand lens to examine matrix for quality pieces - chalcedony and agate often show superior color and pattern up close. Peak your walk in early morning or late afternoon to avoid midday heat and maximize visibility across open terrain.",
+  "terrain_notes": "High desert terrain ranging 5,500-6,500 feet elevation with scattered sagebrush, pinyon, and juniper. Relatively flat to gently rolling benches interspersed with shallow washes. Walking surfaces vary from compacted dirt to rocky scree; footing is stable but uneven in places. Most productive areas lie within 0.5-2 miles of parking pullouts. No significant elevation gain. Terrain is navigable in street shoes but sturdy hiking boots are recommended for comfort and safety over rocky ground.",
+  "best_season": "October - April. Cool to mild temperatures make walking comfortable and reduce heat exposure. Late fall and early spring (October-November, March-April) offer the most pleasant conditions. Summer heat (May-September) can be intense in the high desert; July-August temperatures often exceed 90 degrees F and increase risk of overheating and dehydration. Winter (December-February) is cool but manageable on BLM land at this elevation.",
+  "written_directions": "From Sevier, Utah (approximately 20 miles southeast), take US 89 south toward Glenwood. Continue through Glenwood and look for BLM access roads and informal pullouts on both sides of the highway in the low hills surrounding the town. GPS coordinates 38.787536, -111.954709 mark a productive area near the northern approach to Glenwood. Park at any safe pullout and walk upslope into the benches and washes. Local knowledge and consultation with the BLM Richfield Field Office can identify the most productive current access points.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved US 89 provides access. BLM access roads are unpaved dirt, generally passable to standard passenger vehicles in dry conditions. Avoid after rain when surfaces become muddy.",
+  "parking_notes": "Informal pullouts along BLM access roads near Glenwood. Capacity varies; expect small turnouts (1-3 vehicles) rather than developed lots. Park safely off the main road and check local BLM signage for any closure or seasonal restrictions.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or destructive digging. Surface collecting of loose specimens only. Respect surrounding vegetation and do not disturb undisturbed ground. Pack out what you pack in.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation or heavy machinery\nSurface collecting only - no digging\nRespect vegetation\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material"
+  ],
+  "nearest_services": "Sevier, Utah (approximately 20 miles north) has gas, food, lodging, and supplies. Smaller convenience services may be available in Glenwood itself.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Unpaved BLM roads to parking areas; standard passenger vehicles suitable in dry conditions. Hiking distances from parking are generally 0.5-2 miles on manageable slopes. No wheelchair access beyond vehicle parking. Sturdy footwear strongly recommended for stability on rocky surfaces. Not suitable for those with significant mobility limitations.",
+  "alternative_names": [],
+  "nearest_city": "Sevier",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/glenwood-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/glenwood-ut/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/glenwood-ut/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/glenwood-ut/mineral-3-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of gems can you find rockhounding near Glenwood, Utah?",
+      "answer": "Glenwood's BLM land is known for agate, jasper, chalcedony, and quartz specimens. Most pieces are found as surface nodules in washes and on hillside benches. Agate often displays banding and color variation; jasper comes in red, brown, and mixed hues. Specimens range from thumbnail size to fist-sized pieces suitable for display or cutting."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Glenwood on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Glenwood. As BLM public land in Utah, personal use collecting is allowed under the Federal Land Policy and Management Act (FLPMA). You must follow the 25 lb per day limit, collect only loose surface material, and avoid commercial use."
+    },
+    {
+      "question": "Is Glenwood rockhounding site beginner-friendly for families with kids?",
+      "answer": "Yes, Glenwood is excellent for beginners and families. Terrain is relatively flat, walking distances from parking are short (under 2 miles), and no special tools or skills are needed. Children ages 6 and up can participate. The site requires no permits, charges no fees, and allows dogs, making it ideal for family outings."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Glenwood, Utah?",
+      "answer": "October through April is ideal. Cool to mild temperatures make walking comfortable and reduce heat exposure. Avoid May through September when high desert temperatures exceed 90 degrees F, increasing dehydration risk. October-November and March-April offer the most pleasant collecting conditions."
+    },
+    {
+      "question": "What tools and supplies should you bring rockhounding at Glenwood?",
+      "answer": "Bring sturdy hiking boots, a backpack, plenty of water (at least 2-3 liters), sunscreen, and a hat. A hand lens helps evaluate agate and jasper quality before collecting. A small pick or chisel is helpful for extracting loose specimens from soil, but heavy tools are unnecessary since most material is surface-accessible. A small collection bag prevents overloading."
+    },
+    {
+      "question": "How far is Glenwood from Sevier and what are road conditions like?",
+      "answer": "Glenwood is approximately 20 miles southeast of Sevier via US 89. The highway is paved and well-maintained. BLM access roads to productive collecting areas are unpaved dirt roads generally passable to standard passenger vehicles in dry conditions. Avoid these roads after rain when they become muddy."
+    }
+  ],
+  "meta_title": "Glenwood Rockhounding - Free BLM Collecting in Utah",
+  "meta_description": "Find agate, jasper, and chalcedony rockhounding at Glenwood, Utah on public BLM land. No permits required, 25 lb daily limit. Beginner-friendly site near Sevier.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "parking_notes",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-22T06:53:01.539Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:01:37.978Z"
+}

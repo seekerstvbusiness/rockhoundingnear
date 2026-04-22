@@ -1,0 +1,96 @@
+{
+  "slug": "eden-valley-wy",
+  "name": "Eden Valley",
+  "lat": 42.02912,
+  "lng": -109.540508,
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "state_code": "WY",
+  "city": "Sweetwater County",
+  "city_slug": "sweetwater-county",
+  "county": "Sweetwater",
+  "county_slug": "sweetwater",
+  "geocoded_city": "Eden",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wyoming.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Eden%20Valley%20Wyoming"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Eden%20Valley",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Eden%20Valley%20Wyoming"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Wyoming BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 6530,
+      "meters": 1990
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "Highway 28",
+        "ref": "WY 28",
+        "type": "secondary",
+        "dist": 7.1
+      },
+      {
+        "name": "Highway 28",
+        "ref": "WY 28",
+        "type": "secondary",
+        "dist": 7.2
+      },
+      {
+        "name": "US Highway 191",
+        "ref": "US 191",
+        "type": "trunk",
+        "dist": 7.5
+      },
+      {
+        "name": "Highway 28",
+        "ref": "WY 28",
+        "type": "trunk",
+        "dist": 8.8
+      }
+    ],
+    "water_features": [
+      {
+        "name": "Big Sandy River",
+        "type": "river",
+        "dist": 2.9
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:40:44.294Z"
+  },
+  "scraped_at": "2026-04-21T18:40:44.294Z",
+  "scrape_quality": "partial"
+}

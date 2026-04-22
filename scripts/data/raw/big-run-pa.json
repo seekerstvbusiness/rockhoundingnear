@@ -1,0 +1,60 @@
+{
+  "slug": "big-run-pa",
+  "name": "Big Run",
+  "lat": 41.298343,
+  "lng": -76.693352,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Shrewsbury Township",
+  "city_slug": "shrewsbury-township",
+  "county": "Lycoming",
+  "county_slug": "lycoming",
+  "geocoded_city": "Shrewsbury Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Big%20Run%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Big%20Run",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Big%20Run%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 694,
+      "meters": 211
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:43:13.407Z"
+  },
+  "scraped_at": "2026-04-21T18:43:13.407Z",
+  "scrape_quality": "minimal"
+}

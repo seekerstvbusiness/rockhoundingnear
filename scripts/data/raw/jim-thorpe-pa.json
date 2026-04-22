@@ -1,0 +1,60 @@
+{
+  "slug": "jim-thorpe-pa",
+  "name": "Jim Thorpe",
+  "lat": 40.872908,
+  "lng": -75.768816,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Nesquehoning",
+  "city_slug": "nesquehoning",
+  "county": "Carbon",
+  "county_slug": "carbon",
+  "geocoded_city": "Nesquehoning",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Jim%20Thorpe%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Jim%20Thorpe",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Jim%20Thorpe%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 587,
+      "meters": 179
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:43:10.609Z"
+  },
+  "scraped_at": "2026-04-21T18:43:10.609Z",
+  "scrape_quality": "minimal"
+}

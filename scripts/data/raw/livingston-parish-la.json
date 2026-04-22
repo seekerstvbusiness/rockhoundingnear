@@ -1,0 +1,60 @@
+{
+  "slug": "livingston-parish-la",
+  "name": "Livingston Parish",
+  "lat": 30.469261,
+  "lng": -90.698134,
+  "state": "Louisiana",
+  "state_slug": "louisiana",
+  "state_code": "LA",
+  "city": "Livingston Parish",
+  "city_slug": "livingston-parish",
+  "county": "Livingston",
+  "county_slug": "livingston",
+  "geocoded_city": "Livingston Parish",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-louisiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Livingston%20Parish%20Louisiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Livingston%20Parish",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Livingston%20Parish%20Louisiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 19,
+      "meters": 6
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:38:44.211Z"
+  },
+  "scraped_at": "2026-04-21T16:38:44.211Z",
+  "scrape_quality": "minimal"
+}

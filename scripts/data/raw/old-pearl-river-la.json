@@ -1,0 +1,63 @@
+{
+  "slug": "old-pearl-river-la",
+  "name": "Old Pearl River",
+  "lat": 30.467479,
+  "lng": -89.775078,
+  "state": "Louisiana",
+  "state_slug": "louisiana",
+  "state_code": "LA",
+  "city": "St. Tammany Parish",
+  "city_slug": "st-tammany-parish",
+  "county": "St. Tammany",
+  "county_slug": "st-tammany",
+  "geocoded_city": "St. Tammany Parish",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-louisiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Old%20Pearl%20River%20Louisiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Old%20Pearl%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Old%20Pearl%20River%20Louisiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Pearl River",
+        "type": "river",
+        "dist": 3.2
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:40:37.485Z"
+  },
+  "scraped_at": "2026-04-21T16:40:37.485Z",
+  "scrape_quality": "minimal"
+}

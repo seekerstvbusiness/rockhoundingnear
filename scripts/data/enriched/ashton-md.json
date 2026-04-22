@@ -1,0 +1,98 @@
+{
+  "slug": "ashton-md",
+  "name": "Ashton",
+  "state": "Maryland",
+  "state_slug": "maryland",
+  "city": "Poolesville",
+  "city_slug": "poolesville",
+  "county": "Washington",
+  "county_slug": "washington",
+  "lat": 39.620443,
+  "lng": -77.868142,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "Small public collecting site near Poolesville with moderate terrain offering Quartz, Jasper, and Chalcedony specimens. Best visited spring through fall with basic hand tools.",
+  "description": "Ashton is a modest rockhounding location in Washington County, Maryland, situated in the Piedmont region of the state at 226 feet elevation. This area sits within the metamorphic rock belt of northern Maryland, where Precambrian quartzite, schist, and metasedimentary rocks have been uplifted and exposed over millions of years. The moderate slope and mixed woodland terrain provide access to outcrops and streambed deposits that yield quality specimens of Quartz, Jasper, and Chalcedony for patient collectors.\n\nThe geology here reflects the Appalachian orogeny and subsequent weathering of Piedmont formations. Streambeds in this region often concentrate lighter minerals and colorful chalcedony fragments, while hillside exposures occasionally reveal larger Quartz crystals and banded Jasper in situ. The moderate slope means collectors will encounter varied terrain with some scrambling required but nothing extreme.\n\nThis is primarily a walk-and-pick location suitable for beginners and families willing to put in moderate effort. Bring sturdy footwear due to rocky footing, and plan to spend 2-4 hours systematically working streambed deposits and weathered hillside material. Spring rains often expose fresh material, making April through June an especially productive window.",
+  "history": "The Piedmont province of Maryland formed during the Ordovician orogeny and later Alleghanian uplift as the ancestral Appalachian Mountains were built. Quartzite and metamorphosed sedimentary rocks in the Washington County area were deeply buried and compressed during continental collisions, then exhumed and fractured over 300 million years. Modern stream erosion continuously exposes fresh mineral deposits, a process that has been used by collectors and local rockhounds for decades.",
+  "tips": "Focus your search on streambed deposits within 100 yards of the main watercourse - gravity and seasonal runoff concentrate Quartz and Jasper fragments here. Use a 5-10 pound sledge hammer to carefully break weathered hillside exposures along the moderate slope rather than prying, which is harder on rock and hands. Look for pieces with translucent orange, red, or brown chalcedony coloration and white or cloudy Quartz - specimens 1-4 inches are common and of collectible quality. Early morning visits in spring or after rain increase your chances of finding fresh exposed material.",
+  "terrain_notes": "Elevation 226 feet with moderate slope. Mixed woodland with exposed rocky outcrops and seasonal streambed access. Walking distances from parking to productive areas typically 0.25-0.75 miles. Footing is uneven with loose rock, roots, and occasional muddy patches. Sturdy hiking boots strongly recommended. No wheelchair accessibility.",
+  "best_season": "April - October. Moderate mid-Atlantic climate with productive collecting in spring (fresh rain-exposed material), early summer (easier footing), and fall (cooler temps for active hiking). Winter is possible but muddy and less productive.",
+  "written_directions": "From Poolesville, take MD-109 (River Road) northwest for approximately 3 miles. Turn right (east) onto Ashton Road and proceed 1.5 miles to the area near the unnamed creek intersection. Park at roadside pullouts near the bridge or creek crossing. Access is on foot from the road.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": "Ashton Road is paved, well-maintained county road suitable for all passenger vehicles. Roadside parking with limited turnaround.",
+  "parking_notes": "Informal roadside pullout parking near creek crossing on Ashton Road. Space for 2-3 vehicles. No developed parking facility.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Collecting permitted for personal use only on public right-of-way and accessible creek areas. Maximum 25 lbs per visit. No motorized equipment. No specimen sale or commercial use.",
+  "quantity_limits": "25 lbs per visit",
+  "rules": "Personal use collection only\nMaximum 25 lbs per visit\nNo commercial use or sale\nNo motorized excavation equipment\nRespect private property boundaries\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Poolesville - approximately 4 miles west. Gas, food, and water available at convenience stores and restaurants in town.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing, exposed roots, and a 0.5 mile walk from parking to productive areas. No wheelchair access. Sturdy hiking boots essential. Moderate elevation change along slope. Suitable for reasonably fit hikers age 8 and up.",
+  "alternative_names": [],
+  "nearest_city": "Poolesville",
+  "nearest_city_distance": 4,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/maryland/ashton-md/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Ashton, Maryland?",
+      "answer": "Ashton is known for Quartz, Jasper, and Chalcedony specimens. Collectors commonly find white and cloudy Quartz crystals, banded and solid Jasper in orange, red, and brown tones, and translucent chalcedony fragments in streambed deposits. Specimens typically range from 1-4 inches and are suitable for display or cutting."
+    },
+    {
+      "question": "Is rockhounding at Ashton free or do I need to pay a fee?",
+      "answer": "Rockhounding at Ashton is completely free - there are no fees or permits required. This is public roadside collecting on accessible creek areas in Washington County. Collectors just need to follow basic rules: personal use only, maximum 25 lbs per visit, and no commercial use."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Poolesville at Ashton?",
+      "answer": "April through October offers the best collecting conditions. Spring (April-June) is especially productive after rain, which exposes fresh material. Early summer provides easier footing and cooler hiking conditions compared to July-August heat. Fall (September-October) brings comfortable temperatures and reduced humidity."
+    },
+    {
+      "question": "How do I get started rockhounding at Ashton if I am a beginner?",
+      "answer": "Ashton is beginner-friendly. Start with basic hand tools: a 5-10 pound sledge hammer, cold chisel, small pry bar, and collection bags. Focus on streambed areas within 100 yards of the creek where gravity concentrates Quartz and Jasper fragments. Wear sturdy hiking boots and plan 2-4 hours for your first visit. Early morning in spring gives best results."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Ashton, Maryland?",
+      "answer": "Bring a small sledge hammer (5-10 lbs), cold chisel, and small pry bar for breaking weathered hillside exposures. Pack a collection bag or backpack rated for 25 lbs, leather gloves for protection, sturdy hiking boots, water, and a small geologist's loupe (optional, 10x magnification helps identify specimens). A brush or old toothbrush helps clean specimens in the field."
+    },
+    {
+      "question": "Is Ashton rockhounding site suitable for families with children?",
+      "answer": "Yes, Ashton is family-friendly for kids age 8 and up who can handle moderate hiking. The moderate slope terrain and 0.5 mile walks are manageable for most children in reasonable fitness. Streambed collecting is engaging for kids. Bring water, snacks, and first aid. Dogs are welcome. Plan shorter 2-3 hour visits if collecting with young children."
+    }
+  ],
+  "meta_title": "Ashton Rockhounding - Find Quartz & Jasper in Maryland",
+  "meta_description": "Free rockhounding near Poolesville at Ashton. Collect Quartz, Jasper, and Chalcedony from public streambeds. No permits required. Best April-October.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "collection_rules",
+    "nearest_city",
+    "written_directions",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-21T17:53:03.840Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T17:55:54.931Z"
+}

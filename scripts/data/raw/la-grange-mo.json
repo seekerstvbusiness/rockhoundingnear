@@ -1,0 +1,57 @@
+{
+  "slug": "la-grange-mo",
+  "name": "La Grange",
+  "lat": 40.046912,
+  "lng": -91.495841,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "La Grange",
+  "city_slug": "la-grange",
+  "county": "Lewis",
+  "county_slug": "lewis",
+  "geocoded_city": "La Grange",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=La%20Grange%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=La%20Grange",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=La%20Grange%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:02:33.529Z"
+  },
+  "scraped_at": "2026-04-21T19:02:33.529Z",
+  "scrape_quality": "minimal"
+}

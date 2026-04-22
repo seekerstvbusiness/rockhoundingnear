@@ -1,0 +1,80 @@
+{
+  "slug": "trinity-river-gravels-ca",
+  "name": "Trinity River Gravels",
+  "lat": 40.733827,
+  "lng": -123.055356,
+  "state": "California",
+  "state_slug": "california",
+  "state_code": "CA",
+  "city": "Trinity County",
+  "city_slug": "trinity-county",
+  "county": "Trinity",
+  "county_slug": "trinity",
+  "geocoded_city": "Trinity County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-california.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Trinity%20River%20Gravels%20California"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Trinity%20River%20Gravels",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Trinity%20River%20Gravels%20California"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1444,
+      "meters": 440
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Maple Creek",
+        "type": "stream",
+        "dist": 4.5
+      }
+    ],
+    "protected_areas": [
+      {
+        "name": "Shasta-Trinity National Forest",
+        "type": "protected_area"
+      },
+      {
+        "name": "Trinity Alps Wilderness",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-21T19:08:26.385Z"
+  },
+  "scraped_at": "2026-04-21T19:08:26.385Z",
+  "scrape_quality": "partial"
+}

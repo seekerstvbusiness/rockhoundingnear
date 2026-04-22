@@ -1,0 +1,99 @@
+{
+  "slug": "austin-nv",
+  "name": "Austin",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Austin",
+  "city_slug": "austin",
+  "county": "Lander",
+  "county_slug": "lander",
+  "lat": 39.487279,
+  "lng": -117.083056,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Obsidian"
+  ],
+  "short_description": "BLM rockhounding near the historic mining town of Austin. Find quartz, chalcedony, and agate on public land with no permit required. Great for beginners exploring Nevada's high desert geology.",
+  "description": "Austin sits at 6,561 feet elevation in the heart of Nevada's Basin and Range province, offering excellent rockhounding opportunities on nearby BLM land. The area around this historic silver mining town provides access to public land where collectors can search for quartz, chalcedony, agate, and obsidian fragments typical of Nevada's volcanic geology. The gentle slopes and accessible terrain make this an ideal location for beginners and families looking to explore rockhounding without the complexity of fee sites or permit requirements.\n\nThe mineralization here stems from Tertiary-age volcanism and Basin and Range extension that created silica-rich deposits throughout central Nevada. Quartz veins cut through the surrounding mountains, and weathering of volcanic rocks releases jasper and chalcedony nodules that scatter across hillsides and washes. The high elevation and semi-arid climate mean exposure is excellent - you'll see colorful mineral deposits on hillsides and in dry washes year-round.\n\nRockhounders typically work gentle slopes and dry wash bottoms where water erosion has exposed and concentrated specimens. The absence of dense vegetation at this elevation means good visibility for spotting colorful stones. Austin's proximity to several historic mining districts means the geology is well-documented and proven productive.\n\nThis is ideal for getting started in rockhounding: no permit hassles, no daily fees, and straightforward BLM regulations. The town of Austin itself maintains some Old West charm and provides basic services. Plan to spend a half-day to full day exploring the public lands surrounding town.",
+  "history": "The Austin area was the site of significant silver mining activity beginning in the 1860s, with the Toiyabe Range hosting multiple productive claims. The same Tertiary volcanic and hydrothermal systems that created the silver-bearing quartz veins also produced widespread silica deposits - quartz, chalcedony, and agate nodules formed from silica-rich fluids that percolated through volcanic rocks during the Basin and Range extension period, roughly 20-30 million years ago.",
+  "tips": "Focus your search on dry washes and bajada slopes on the BLM land surrounding Austin - these areas concentrate weathered specimens. Bring a 5-gallon bucket and small shovel to dig into wash bottoms where heavier stones settle. Look for translucent quartz chunks, banded chalcedony in cream and rust tones, and smooth agate pebbles in the 1-3 inch size range. Early morning light on east-facing slopes will help you spot the subtle color contrasts that distinguish collectible agate from common rock.",
+  "terrain_notes": "Elevation 6,561 feet with gentle slopes characteristic of Basin and Range topography. Semi-arid sagebrush scrub vegetation typical of high desert Nevada. Access is generally within 0.5 to 2 miles of parking pullouts on dirt roads. Footing is firm packed earth and scattered rock, suitable for regular hiking boots. The terrain is relatively open with good visibility and minimal technical climbing required.",
+  "best_season": "October - April. The high elevation keeps summer temperatures manageable but spring and fall offer the most comfortable conditions for extended rockhounding. Winter snow is possible above 6,500 feet but rare; late fall and early spring provide ideal weather. Avoid summer afternoons when temperatures exceed 80 degrees Fahrenheit in the direct sun.",
+  "written_directions": "From Austin, head north or south on Nevada State Route 305 (the main highway through town) and look for BLM access signs and pullouts. Alternatively, take local dirt roads branching east or west from town - Forest Road 1001 area offers typical BLM access. Park at obvious pullouts along these roads (no formal parking area needed) and hike into gentle slopes and nearby washes. Most productive collecting is within 1-2 miles of town on public BLM land. Check with the Austin Ranger District office on Main Street for current road conditions and specific access points.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt roads passable by passenger vehicle during dry conditions. Some washboard surface possible on secondary access roads. High clearance not required for main BLM pullouts near Austin.",
+  "parking_notes": "Informal pullouts along BLM dirt roads near Austin. No developed parking lot. Multiple pullouts available; expect minimal crowding. Park safely off main roads; standard BLM courtesy applies.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Respect private property boundaries and avoid any mining claim markers or posted areas. All collecting must be on public BLM land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo equipment damage to land\nRespect mining claims and posted boundaries\nCollecting on BLM land only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "remote"
+  ],
+  "nearest_services": "Austin, Nevada has a small general store, gas station, and basic services. 90 miles south to Tonopah for more extensive supplies and dining.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Short walks from parking pullouts (under 2 miles typically) to productive areas. Dirt and packed earth footing; regular hiking boots sufficient. No wheelchair access to collecting areas, but town of Austin is accessible. Suitable for families with school-age children and adults in reasonable fitness.",
+  "alternative_names": [],
+  "nearest_city": "Austin",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/austin-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/austin-nv/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/austin-nv/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Austin, Nevada?",
+      "answer": "The Austin area is known for quartz, chalcedony, agate, and obsidian. The volcanic and hydrothermal geology of the Toiyabe Range produces excellent specimens of translucent quartz chunks and banded chalcedony in cream and rust tones. Smooth agate pebbles are common in washes around town."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Austin, Nevada?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Austin. Personal use collection of up to 25 lbs per day is allowed under FLPMA regulations. Simply park at a BLM pullout and start collecting - no advance paperwork needed."
+    },
+    {
+      "question": "How far is the rockhounding from Austin town center?",
+      "answer": "Most productive BLM collecting areas are within 1-2 miles of Austin on easily accessible dirt roads and gentle slopes. You can park at informal pullouts near town and begin searching within minutes. The close proximity makes this ideal for a half-day rockhounding trip."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Austin?",
+      "answer": "October through April is ideal. The high elevation (6,561 feet) keeps spring and fall temperatures comfortable for outdoor activity. Avoid summer afternoons when heat exceeds 80 degrees Fahrenheit. Winter snow is possible but rare; early spring and late fall offer the most pleasant collecting conditions."
+    },
+    {
+      "question": "Is Austin, Nevada rockhounding suitable for beginners and families?",
+      "answer": "Yes, Austin is excellent for beginners and families. The terrain is gentle and accessible, no permit or fees are required, and the BLM land nearby produces colorful specimens that are easy to spot. Kids ages 6 and up can successfully hunt for agate and quartz on the easy slopes around town."
+    },
+    {
+      "question": "What tools and gear should I bring for rockhounding near Austin?",
+      "answer": "A 5-gallon bucket and small folding shovel are useful for digging in washes where specimens settle. Bring plenty of water (high elevation and semi-arid climate), sunscreen, and a hat. A GPS device is helpful but not necessary on established BLM access roads near Austin. Standard hiking boots provide adequate footing."
+    }
+  ],
+  "meta_title": "Austin Rockhounding - Nevada BLM Quartz & Agate",
+  "meta_description": "Free rockhounding near Austin, Nevada. Find quartz, chalcedony, and agate on public BLM land. No permit required. Beginner-friendly high desert collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "parking_notes",
+    "road_conditions",
+    "written_directions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T06:43:37.069Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:46:58.362Z"
+}

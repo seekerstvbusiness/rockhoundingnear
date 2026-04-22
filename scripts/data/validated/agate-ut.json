@@ -1,0 +1,98 @@
+{
+  "slug": "agate-ut",
+  "name": "Agate",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Moab",
+  "city_slug": "moab",
+  "county": "Grand",
+  "county_slug": "grand",
+  "lat": 39.01757,
+  "lng": -109.247215,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Chert"
+  ],
+  "short_description": "BLM rockhounding site in southeastern Utah's scenic Grand County. Collect colorful agates and chalcedony from desert washes and hillsides with no permit required.",
+  "description": "This BLM location near Moab offers outstanding agate and chalcedony collecting in the heart of Utah's red rock country. The area sits within extensive public lands managed by the Bureau of Land Management, where recreational rockhounding is actively encouraged under simple personal-use guidelines. Collectors can expect to find banded agates in shades of red, orange, white, and cream throughout desert washes and along rocky hillsides. The geological setting reflects the ancient lacustrine and fluvial deposits of the Paradox Basin, where silica-rich fluids moved through Cretaceous and Tertiary formations, depositing cryptocrystalline minerals that weathered into the nodules and specimens visible today.\n\nThe terrain is typical of the Colorado Plateau with scattered juniper and pinyon pine vegetation, red and tan sandstone outcrops, and numerous dry washes that concentrate loose stones during seasonal runoff. Walking distances from parking areas are usually modest, though some of the best agate concentrations require short hikes of 1-3 miles across relatively open terrain. The elevation around 4,500 feet keeps the area accessible year-round, though summer heat and winter cold present different challenges.\n\nBecause this is BLM land, there are no permits, fees, or advance registration needed. Simply follow the 25-pound-per-day personal-use limit and pack out what you pack in. The proximity to Moab means easy access to services, making this an ideal stop for rockhounds exploring the Arches and Canyonlands region. Beginners and families appreciate the straightforward access and abundance of surface specimens.",
+  "history": "This part of Grand County lies within the Paradox Basin, where Miocene and Oligocene volcanic and hydrothermal activity deposited silica-rich fluids into fractures and pores of older sedimentary rocks. Over millions of years, these fluids crystallized into fine-grained quartz varieties - agates, chalcedony, and jasper - that eroded out of their host rocks and concentrated in desert washes. The region has been a known rockhounding destination for decades, with local collectors regularly finding high-quality specimens along the BLM corridors surrounding Moab.",
+  "tips": "Search the bottoms and banks of dry desert washes first, where agates naturally accumulate after seasonal flash floods. Look for smooth, rounded stones with visible banding or color patterns - common colors here are red, orange, white, and translucent varieties. Bring a small hand lens to inspect specimens in bright sunlight and confirm the waxy luster typical of quality agates. Early morning or late afternoon light makes it easier to spot the subtle color contrasts in banded specimens.",
+  "terrain_notes": "Elevation approximately 4,500 feet. Terrain is open desert with scattered juniper and pinyon pine, red sandstone outcrops, and numerous dry washes. Walking surfaces are rocky with loose stones, some sharp edges. Parking pullouts lead to hikes of 0.5 to 3 miles depending on chosen area. Footing is uneven but not steep; sturdy hiking boots recommended.",
+  "best_season": "October - April. Late fall through early spring offers comfortable daytime temperatures (50-70 degrees F) and low humidity. Summer heat (over 95 degrees F) can make midday collecting uncomfortable. Winter months are mild at this elevation, though occasional snow can close high roads.",
+  "written_directions": "From Moab, head north on US 191 for approximately 8 miles. Watch for BLM access points and pullouts along the highway or on side roads heading east or west into the desert. GPS coordinates 39.01757, -109.247215 point to productive agate country east of US 191. Parking areas are typically unmarked pullouts; obtain current BLM maps from the Moab Field Office (82 E Main Street, Moab) for specific site recommendations and to confirm road access conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Most access roads are paved (US 191) or good graded dirt. High-clearance vehicles not required for main approach, though some side roads may be rough after rain. Check BLM website for seasonal closures.",
+  "parking_notes": "Unmarked BLM pullouts along US 191 and side roads. Capacity varies; typically space for 2-4 vehicles. No facilities. Arrive early in peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or power tools. Pack out all trash. Respect archaeological sites and do not disturb artifacts.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 pounds per day\nNo commercial collection\nNo motorized excavation or power tools\nPack out all trash\nLeave no trace\nDo not disturb archaeological sites or artifacts",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "flash_floods",
+    "snakes"
+  ],
+  "nearest_services": "Moab, Utah (8 miles) - gas, food, lodging, water. Full services available. BLM Moab Field Office provides maps and information.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain with uneven rocky footing. No wheelchair access to productive areas. Sturdy hiking boots required. Distance from parking to best collecting areas is 0.5 to 3 miles depending on location. Younger children and those with mobility limitations may find nearby areas productive without long walks.",
+  "alternative_names": [],
+  "nearest_city": "Moab",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/agate-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates can I find rockhounding near Moab, Utah?",
+      "answer": "The Agate location near Moab is known for banded agates in red, orange, white, and cream colors, plus translucent chalcedony specimens. You may also find jasper and chert. Most specimens are found loose on the surface or in desert washes, making them accessible to rockhounds of all skill levels."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land in Grand County?",
+      "answer": "No permit is required for recreational agate collecting on BLM land near Moab. Simply follow the 25-pound-per-day limit per FLPMA and pack out your trash. The land is free and open to the public year-round."
+    },
+    {
+      "question": "How far is the nearest rockhounding to Moab?",
+      "answer": "The Agate site is only about 8 miles north of downtown Moab on US 191, with BLM pullouts and access roads providing easy entry. This makes it convenient for visitors to Arches and Canyonlands who want to combine rockhounding with sightseeing."
+    },
+    {
+      "question": "What is the best season to find agates near Moab?",
+      "answer": "October through April is ideal, with comfortable daytime temperatures between 50-70 degrees F. Summer heat can exceed 95 degrees F, making midday collecting uncomfortable. Winter is mild at this elevation, though occasional snow may close some side roads."
+    },
+    {
+      "question": "Can I bring my family and kids rockhounding for agates at this Utah BLM location?",
+      "answer": "Yes, this is a beginner and family-friendly site. The terrain is not steep, surface specimens are abundant, and kids as young as 6 can participate. Moab has full services nearby, making it easy to combine a rockhounding trip with family vacation activities."
+    },
+    {
+      "question": "What tools and gear should I bring to collect agates in the Grand County desert?",
+      "answer": "Bring sturdy hiking boots for rocky terrain, a small hand lens to inspect specimens, a daypack with water and snacks, and a collection bag for your finds (limit 25 lbs/day). A sun hat and sunscreen are essential. A field guide to Utah agates and a GPS unit are helpful but not required."
+    }
+  ],
+  "meta_title": "Agate Rockhounding Near Moab, Utah",
+  "meta_description": "Find colorful agates, chalcedony, and jasper on free BLM land near Moab. No permit needed. Beginner-friendly with 25 lb/day collecting limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from GPS and region; specific road names should be confirmed with current BLM maps",
+    "parking_notes - typical BLM area description; confirm specific pullout capacity",
+    "cell_service - marked spotty as typical for eastern Utah desert; confirm with carrier",
+    "nearest_city_distance - estimated 8 miles from Moab based on GPS; verify with mapping tools"
+  ],
+  "enriched_at": "2026-04-22T06:49:44.344Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:56:32.685Z"
+}

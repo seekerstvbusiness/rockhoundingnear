@@ -1,0 +1,101 @@
+{
+  "slug": "almo-id",
+  "name": "Almo",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Cassia County Area",
+  "city_slug": "cassia-county",
+  "county": "Cassia",
+  "county_slug": "cassia",
+  "lat": 42.100467,
+  "lng": -113.652606,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM public rockhounding near Almo offers free access to agate and chalcedony specimens in the scenic high desert. No permit required - just 25 lbs per day limit.",
+  "description": "The Almo area in Cassia County sits within Idaho's Basin and Range province, where you can access productive BLM land for rockhounding without fees or permits. This location offers excellent opportunities to find quality agates, chalcedony, and jasper specimens scattered across dry washes and hillsides. The terrain is typical high desert scrubland with sagebrush and scattered rocks - relatively open country that makes spotting colorful specimens easier than heavily forested areas.\n\nThe geology here reflects Miocene-era volcanic and hydrothermal activity that deposited silica-rich fluids in fractures and cavities. Over millions of years, these fluids crystallized into the agate nodules and chalcedony that rockhounders find today. The exposed geological layers and erosion patterns make this area productive for surface collecting.\n\nExpect to spend 2-4 hours working washes and slopes near your parking area. The best specimens tend to concentrate in dried creek beds and erosional gullies where material naturally concentrates. Elevation around 5,000 feet means weather can change quickly, and afternoon winds are common in this high desert zone.\n\nThis is beginner-friendly BLM land with straightforward access and no restrictions beyond the 25 lb daily limit. Bring plenty of water, sun protection, and a field pack for specimens. The landscape is open enough that you won't feel isolated, but remote enough to have productive rockhounding without heavy traffic.",
+  "history": "This region sits within the Basin and Range province where Miocene volcanic activity (roughly 15-20 million years ago) deposited silica-rich hydrothermal fluids through fractures and fault zones. These fluids gradually crystallized into chalcedony and agate nodules, which are now exposed and accessible through natural erosion and weathering of the surrounding host rock.",
+  "tips": "Search dried washes and gullies where water erosion naturally concentrates loose rocks - agates typically stand out with translucent banding or color variation against duller host rock. Bring a rock hammer and chisel to work nodules out of outcrops, or hunt surface-scattered specimens in the streambed. Look for pieces showing characteristic waxy luster and color layers - reds, whites, grays, and browns are common here. Start near the lowest elevation areas where water drainage has exposed more material.",
+  "terrain_notes": "Elevation approximately 5,000 feet in open high desert terrain with sagebrush, scattered juniper, and exposed bedrock. Relatively flat to gently rolling slopes with occasional deeper washes. Walking surfaces are rocky and uneven, requiring sturdy boots. Most productive areas are within 0.5-2 miles of parking pullouts. Sagebrush coverage makes navigation straightforward, though patches of loose volcanic rock require careful footing.",
+  "best_season": "April - October. Spring and fall offer ideal temperatures and lower afternoon wind. Summer heat can be intense at this elevation; early morning is critical. Winter is possible but snow and cold make November - March less reliable.",
+  "written_directions": "From Almo community (northeast of Burley via ID-81), take BLM access roads into the Cassia National Resource Area east and south of town. GPS coordinates 42.100467, -113.652606 mark productive high desert terrain. Consult current BLM Cassia County maps for specific road access points, as secondary roads may be gated seasonally. Most access is via rough dirt roads suitable for high-clearance vehicles.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt and gravel BLM roads, some washboard surfaces. High-clearance or all-wheel-drive recommended. Roads may be soft after precipitation.",
+  "parking_notes": "Dispersed parking at pullouts and turnarounds along BLM roads. No formal facilities. Park well clear of active roads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. Leave claims and mining operations undisturbed. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation\nNo heavy equipment use\nLeave mining claims and active operations undisturbed\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Almo community 5-8 miles northwest (limited services). Burley, Idaho approximately 25-30 miles south has full services including gas, food, water, and supplies.",
+  "accessibility_notes": "Relatively flat to gently rolling high desert terrain accessible to most hikers. Rough dirt roads to parking areas require high-clearance or all-wheel-drive vehicles. Uneven rocky terrain once collecting requires sturdy boots and reasonable fitness. No wheelchair access. Scattered loose rock and sagebrush coverage require careful foot placement.",
+  "alternative_names": [
+    "Cassia County BLM Rockhounding Area"
+  ],
+  "nearest_city": "Burley",
+  "nearest_city_distance": 28,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/almo-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates and chalcedony can I find rockhounding near Almo, Idaho?",
+      "answer": "The Almo area is known for fine to medium-quality agates featuring banded patterns in reds, whites, grays, and browns. Translucent chalcedony specimens and jasper are also common. Most material found is collected from surface scatter in washes and exposed outcrops rather than fresh extractions."
+    },
+    {
+      "question": "Is rockhounding at Almo free, and do I need a permit?",
+      "answer": "Yes, rockhounding at Almo is completely free on BLM public land. No permit is required for recreational collecting. You simply follow the 25 lb per day limit and personal use rules outlined by the Bureau of Land Management."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Almo?",
+      "answer": "April through October is ideal, with spring (April-May) and fall (September-October) offering the most comfortable temperatures and lower winds. Summer can be hot at this 5,000 ft elevation; plan early morning collecting sessions. Winter is possible but less reliable due to cold and occasional snow."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at Almo, Idaho?",
+      "answer": "Bring a rock hammer and chisel for extracting nodules from outcrops, a sturdy backpack for specimens, heavy boots for rocky terrain, sunscreen, a wide-brimmed hat, and 2-3 liters of water per person. A magnifying loupe helps identify chalcedony banding. A GPS device or smartphone map app helps navigation on BLM roads."
+    },
+    {
+      "question": "Is Almo rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, Almo is very beginner and family-friendly. The open terrain makes it easy to spot specimens, no permit hassles exist, and the 25 lb daily limit is forgiving. Kids ages 6+ can participate safely with supervision. The lack of steep cliffs or heavy traffic makes it lower-stress than many sites."
+    },
+    {
+      "question": "What kind of vehicle do I need to reach the rockhounding areas near Almo?",
+      "answer": "High-clearance or all-wheel-drive vehicles are recommended for rough BLM dirt roads in the Cassia County area. Some roads may be washboard or soft after rain. Passenger cars may struggle; plan accordingly and check current road conditions with local BLM office if weather has been wet."
+    }
+  ],
+  "meta_title": "Almo Rockhounding - Idaho Agate & Chalcedony",
+  "meta_description": "Free BLM rockhounding near Almo, Idaho. Find agate and chalcedony. No permits required, 25 lb daily limit. Perfect for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "parking_notes",
+    "road_conditions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T09:49:58.568Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:39.725Z"
+}

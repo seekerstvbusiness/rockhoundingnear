@@ -1,0 +1,82 @@
+Pipeline starting: 1 state(s), 25 locations, stages [3,5,6]
+Force mode: re-processing all locations
+
+════════════════════════════════════════════════════════════
+State: arizona  (25 locations)
+
+────────────────────────────────────────────────────────────
+Stage: Enrich  (25 locations, 5 workers)
+  → enriching: Foothills of Sunset Peak (scrape: partial)
+  → enriching: Canyon to N of road 1 mi. S of Apache Nat. Forest (scrape: partial)
+  → enriching: In pegmatite outcrops on area roadsides (scrape: partial)
+  → enriching: All along both sides of road from Morristown to Castle Hot Springs (scrape: partial)
+  → enriching: Area around hotel (scrape: partial)
+  ✓ Canyon to N of road 1 mi. S of Apache Nat. Forest - 3 gem types - 5 needs_review fields
+  [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1/25  ETA 8m    → enriching: Road along Agua Fria River (scrape: partial)
+  ✓ In pegmatite outcrops on area roadsides - 4 gem types - 4 needs_review fields
+  [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2/25  ETA 4m    → enriching: Emerald Isle Mine (scrape: partial)
+  ✓ Area around hotel - 3 gem types - 7 needs_review fields
+  [████░░░░░░░░░░░░░░░░░░░░░░░░░░] 3/25  ETA 3m    → enriching: BiMetal Gold Mine (scrape: partial)
+  ✓ Foothills of Sunset Peak - 3 gem types - 3 needs_review fields
+  [█████░░░░░░░░░░░░░░░░░░░░░░░░░] 4/25  ETA 2m    → enriching: Kingman Feldspar Mine (scrape: partial)
+  ✓ All along both sides of road from Morristown to Castle Hot Springs - 3 gem types - 7 needs_review fields
+  [██████░░░░░░░░░░░░░░░░░░░░░░░░] 5/25  ETA 2m    → enriching: 15 mi. NW of Kingsman (scrape: partial)
+  ✓ Road along Agua Fria River - 3 gem types - 5 needs_review fields
+  [███████░░░░░░░░░░░░░░░░░░░░░░░] 6/25  ETA 2m    → enriching: Golden Gem & Vanderbilt Mines (scrape: partial)
+  ✓ Emerald Isle Mine - 3 gem types - 6 needs_review fields
+  [████████░░░░░░░░░░░░░░░░░░░░░░] 7/25  ETA 2m    → enriching: Area of Mineral Park & Cerbat (scrape: partial)
+  ✓ BiMetal Gold Mine - 2 gem types - 6 needs_review fields
+  [██████████░░░░░░░░░░░░░░░░░░░░] 8/25  ETA 1m    → enriching: Area near Meadow Creek Pass (scrape: partial)
+  ✓ Kingman Feldspar Mine - 1 gem types - 5 needs_review fields
+  [███████████░░░░░░░░░░░░░░░░░░░] 9/25  ETA 1m    → enriching: On top of steep hill (scrape: partial)
+  ✓ 15 mi. NW of Kingsman - 4 gem types - 6 needs_review fields
+  [████████████░░░░░░░░░░░░░░░░░░] 10/25  ETA 1m    → enriching: Area of old Stanton mining camp (scrape: partial)
+  ✓ Area near Meadow Creek Pass - 3 gem types - 5 needs_review fields
+  [█████████████░░░░░░░░░░░░░░░░░] 11/25  ETA 1m    → enriching: On surface around Rich Hill (scrape: partial)
+  ✓ Golden Gem & Vanderbilt Mines - 3 gem types - 8 needs_review fields
+  [██████████████░░░░░░░░░░░░░░░░] 12/25  ETA 1m    → enriching: Area of old Octave mining camp (scrape: partial)
+  ✓ Area of Mineral Park & Cerbat - 4 gem types - 4 needs_review fields
+  [████████████████░░░░░░░░░░░░░░] 13/25  ETA 56s    → enriching: Congress Mine (scrape: partial)
+  ✓ Area of old Stanton mining camp - 3 gem types - 8 needs_review fields
+  [█████████████████░░░░░░░░░░░░░] 14/25  ETA 56s    → enriching: Under Burro Creek Bridge (scrape: partial)
+  ✓ On surface around Rich Hill - 3 gem types - 7 needs_review fields
+  [██████████████████░░░░░░░░░░░░] 15/25  ETA 52s    → enriching: Date Creek area (scrape: partial)
+  ✓ Area of old Octave mining camp - 3 gem types - 4 needs_review fields
+  [███████████████████░░░░░░░░░░░] 16/25  ETA 45s    → enriching: Oxbow & Silver Butte Mines (scrape: partial)
+  ✓ Congress Mine - 3 gem types - 6 needs_review fields
+  [████████████████████░░░░░░░░░░] 17/25  ETA 38s    → enriching: Along North Creek Trail (scrape: partial)
+  ✓ On top of steep hill - 3 gem types - 6 needs_review fields
+  [██████████████████████░░░░░░░░] 18/25  ETA 33s    → enriching: Area around Diamond Point Lookout (scrape: partial)
+  ✓ Date Creek area - 3 gem types - 4 needs_review fields
+  [███████████████████████░░░░░░░] 19/25  ETA 31s    → enriching: Area around Ellison Creek (scrape: partial)
+  ✓ Oxbow & Silver Butte Mines - 3 gem types - 7 needs_review fields
+  [████████████████████████░░░░░░] 20/25  ETA 25s    → enriching: Area of Natural Bridge (scrape: partial)
+  ✓ Under Burro Creek Bridge - 3 gem types - 6 needs_review fields
+  [█████████████████████████░░░░░] 21/25  ETA 19s    ✓ Area around Diamond Point Lookout - 3 gem types - 9 needs_review fields
+  [██████████████████████████░░░░] 22/25  ETA 14s    ✓ Along North Creek Trail - 3 gem types - 5 needs_review fields
+  [████████████████████████████░░] 23/25  ETA 9s    ✓ Area around Ellison Creek - 3 gem types - 5 needs_review fields
+  [█████████████████████████████░] 24/25  ETA 5s    ✓ Area of Natural Bridge - 3 gem types - 9 needs_review fields
+  [██████████████████████████████] 25/25  ETA 0s  
+  ✓ Enrich: 25/25 done  (120s)
+
+────────────────────────────────────────────────────────────
+Stage: Validate  (25 locations)
+  ✓ Validate: 0 passed, 25 failed
+
+────────────────────────────────────────────────────────────
+Stage: Import
+Found 23 validated locations for arizona
+Batch 1 FAILED: Supabase error 409: {"code":"23505","details":"Key (state_slug, city_slug, slug)=(arizona, apache-junction, goldfield-ghost-town-mineral-area) already exists.","hint":null,"message":"duplicate key value violates unique constraint \"locations_state_slug_city_slug_slug_key\""}
+Slugs in this batch: 15-mi-nw-of-kingsman-az, all-along-both-sides-of-road-from-morristown-to-castle-hot-springs-az, along-north-creek-trail-az, area-around-ellison-creek-az, area-near-meadow-creek-pass-az, area-of-mineral-park-cerbat-az, area-of-natural-bridge-az, area-of-old-octave-mining-camp-az, area-of-old-stanton-mining-camp-az, bimetal-gold-mine-az, canyon-to-n-of-road-1-mi-s-of-apache-nat-forest-az, congress-mine-az, date-creek-area-az, foothills-of-sunset-peak-az, golden-gem-vanderbilt-mines-az, goldfield-ghost-town-mineral-area, in-pegmatite-outcrops-on-area-roadsides-az, kingman-feldspar-mine-az, on-surface-around-rich-hill-az, on-top-of-steep-hill-az, oxbow-silver-butte-mines-az, road-along-agua-fria-river-az, under-burro-creek-bridge-az
+
+✓ Import complete — 0 locations imported
+
+To publish after reviewing, run in Supabase SQL editor:
+  UPDATE locations SET published = true
+  WHERE state_slug = '...' AND published = false
+  AND created_at > NOW() - INTERVAL '2 hours';
+
+════════════════════════════════════════════════════════════
+arizona complete — enrich: 25/25  |  validate: 0/25  |  import: 25/25
+
+All done.

@@ -1,0 +1,60 @@
+{
+  "slug": "licking-muskingum-counties-oh",
+  "name": "Licking & Muskingum Counties",
+  "lat": 40.050367,
+  "lng": -82.387902,
+  "state": "Ohio",
+  "state_slug": "ohio",
+  "state_code": "OH",
+  "city": "Heath",
+  "city_slug": "heath",
+  "county": "Licking",
+  "county_slug": "licking",
+  "geocoded_city": "Heath",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-ohio.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Licking%20%26%20Muskingum%20Counties%20Ohio"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Licking%20%26%20Muskingum%20Counties",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Licking%20%26%20Muskingum%20Counties%20Ohio"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 805,
+      "meters": 245
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:42:18.797Z"
+  },
+  "scraped_at": "2026-04-21T16:42:18.797Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "titians-piazza-hadley-tracksite-ma",
+  "name": "Titian's Piazza, Hadley tracksite",
+  "lat": 42.294674,
+  "lng": -72.598877,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Hadley",
+  "city_slug": "hadley",
+  "county": "Hampshire",
+  "county_slug": "hampshire",
+  "geocoded_city": "Hadley",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Titian's%20Piazza%2C%20Hadley%20tracksite%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Titian's%20Piazza%2C%20Hadley%20tracksite",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Titian's%20Piazza%2C%20Hadley%20tracksite%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 191,
+      "meters": 58
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:30:08.177Z"
+  },
+  "scraped_at": "2026-04-21T19:30:08.177Z",
+  "scrape_quality": "minimal"
+}

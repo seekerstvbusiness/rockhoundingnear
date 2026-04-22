@@ -1,0 +1,60 @@
+{
+  "slug": "carpenter-hollow-and-buffalo-cove-tn",
+  "name": "Carpenter Hollow and Buffalo Cove",
+  "lat": 36.379779,
+  "lng": -84.986143,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Fentress County",
+  "city_slug": "fentress-county",
+  "county": "Fentress",
+  "county_slug": "fentress",
+  "geocoded_city": "Glenobey",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Carpenter%20Hollow%20and%20Buffalo%20Cove%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Carpenter%20Hollow%20and%20Buffalo%20Cove",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Carpenter%20Hollow%20and%20Buffalo%20Cove%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 920,
+      "meters": 280
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:23:06.946Z"
+  },
+  "scraped_at": "2026-04-21T18:23:06.946Z",
+  "scrape_quality": "minimal"
+}

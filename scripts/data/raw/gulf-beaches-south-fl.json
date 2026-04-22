@@ -1,0 +1,60 @@
+{
+  "slug": "gulf-beaches-south-fl",
+  "name": "Gulf Beaches (South)",
+  "lat": 25.941111,
+  "lng": -81.74028,
+  "state": "Florida",
+  "state_slug": "florida",
+  "state_code": "FL",
+  "city": "Marco Island",
+  "city_slug": "marco-island",
+  "county": "Collier",
+  "county_slug": "collier",
+  "geocoded_city": "Marco Island",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-florida.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Gulf%20Beaches%20(South)%20Florida"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Gulf%20Beaches%20(South)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Gulf%20Beaches%20(South)%20Florida"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3,
+      "meters": 1
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:33:29.310Z"
+  },
+  "scraped_at": "2026-04-21T17:33:29.310Z",
+  "scrape_quality": "minimal"
+}

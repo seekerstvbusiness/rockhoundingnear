@@ -1,0 +1,98 @@
+{
+  "slug": "petrified-forest-state-park-wa",
+  "name": "Petrified Forest State Park",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Ellensburg",
+  "city_slug": "ellensburg",
+  "county": "Kittitas",
+  "county_slug": "kittitas",
+  "lat": 46.960226,
+  "lng": -119.988429,
+  "gem_types": [
+    "Petrified Wood",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "A scenic state park featuring petrified wood and colorful agate specimens along trails in the Glenrose Formation. Popular for families and casual rockhounders seeking fossils and polished stone.",
+  "description": "Petrified Forest State Park preserves an exceptional window into Washington's ancient past, showcasing petrified wood from the Miocene epoch approximately 15-20 million years ago. The park sits within the Glenrose Formation, a sequence of volcanic and sedimentary rocks that accumulated when this region was covered by warm, mineral-rich waters and tropical forests. As ancient logs were buried and replaced molecule by molecule with silica from these mineral-saturated waters, they transformed into the brilliant specimens collectors find today.\n\nThe park's gentle terrain at 892 feet elevation makes it accessible to rockhounders of all ages and skill levels. Trails wind through hillsides and washes where erosion continuously exposes new petrified wood specimens, colorful agate nodules, and jasper fragments. The soft slopes and well-maintained pathways mean you can focus on prospecting rather than scrambling.\n\nWhat makes Petrified Forest special is the variety and quality of petrified wood available - from small polished fragments to substantial pieces displaying brilliant color banding and distinct wood grain patterns. Many specimens show exceptional preservation of cellular structure under magnification. Agate and chalcedony nodules weathering from the surrounding hillsides add to the collecting appeal.\n\nAs a state park, all collection follows strict regulations designed to preserve the site for future visitors. Most rockhounders visit for the scenic value and educational experience as much as the specimens they find. The park offers guided walks and interpretive displays explaining the geology and paleontology of the Glenrose Formation.",
+  "history": "Petrified Forest State Park protects rocks from the Glenrose Formation, a 15-20 million year old sequence of volcanic and lacustrine deposits laid down during the Miocene epoch when the Pacific Northwest experienced active volcanism and subtropical climate. The petrified wood here represents ancient conifer and hardwood forests that were buried under volcanic ash and silt, then infiltrated by silica-rich groundwater that gradually replaced the wood's organic material with cryptocrystalline quartz, creating the exceptional specimens visible today.",
+  "tips": "Search along the eroded hillsides and wash bottoms where gravity and seasonal water flow expose the most specimens - avoid pulling pieces directly from intact outcrops. Bring a 10x hand lens to examine the cellular structure and color patterns in petrified wood before collecting, as smaller, gem-quality pieces with distinct color banding are more valuable than large weathered fragments. Look for agate nodules with visible banding patterns in the talus slopes; these often polish to brilliant displays. Wear sturdy hiking boots with good ankle support since the terrain includes loose rock and uneven footing despite the gentle overall slope.",
+  "terrain_notes": "Elevation 892 feet on gentle slopes with mixed sagebrush and grassland vegetation. Well-maintained hiking trails wind through the park; most primary collecting areas are within 1-2 miles of parking. Terrain consists of eroded badlands-style hillsides with loose rock and scattered talus. Footing requires careful placement but is manageable for most visitors. No significant elevation gain. Some areas have soft volcanic ash substrate mixed with harder silicified wood.",
+  "best_season": "April - October. Spring (April-May) and fall (September-October) offer the most comfortable temperatures for extended collecting trips. Summer (June-August) brings heat, though early morning starts help. Winter is possible but muddy conditions and limited daylight reduce collecting efficiency.",
+  "written_directions": "From Ellensburg, take I-90 east for approximately 7 miles. Exit at the Kittitas Valley/Highway 821 exit. Head north on Highway 821 for about 3 miles toward Irene. The park entrance is located off Highway 821 in the Kittitas Valley area. Follow directional signs for Petrified Forest State Park. The entrance features parking and interpretive signs. GPS coordinates (46.960226, -119.988429) mark the main collecting area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "state_park",
+  "vehicle_required": "hiking",
+  "road_conditions": "Paved access roads to parking area. Hiking trails are well-maintained dirt paths with some uneven terrain.",
+  "parking_notes": "Designated parking area near park entrance with capacity for multiple vehicles. No reserved parking; arrive early on weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Petrified Forest State Park is a protected natural area. Collection of petrified wood and specimens is NOT PERMITTED within park boundaries. Visitors may view and photograph specimens for educational purposes only. All collecting is prohibited to preserve the site's scientific and educational value. Removal of any natural materials violates Washington state park regulations and can result in fines and citations.",
+  "quantity_limits": null,
+  "rules": "No collection of petrified wood, agate, or any natural materials within park boundaries\nPhotography for personal use only\nStay on designated trails\nNo commercial activity or commercial photography\nNo motorized equipment",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": false,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "heat",
+    "wildlife"
+  ],
+  "nearest_services": "Ellensburg (approximately 10 miles west) has gas stations, restaurants, and water. The town of Kittitas (3 miles away) has limited services.",
+  "accessibility_notes": "Gentle slopes and well-maintained trails make this accessible to most visitors with basic mobility. Terrain is uneven with loose rock in some areas, so sturdy hiking boots and steady footing are needed. Most trails are not wheelchair accessible due to loose surface and uneven ground. Accessible parking is available at the main entrance.",
+  "alternative_names": [],
+  "nearest_city": "Ellensburg",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/petrified-forest-state-park-wa/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "Can I collect petrified wood at Petrified Forest State Park in Washington?",
+      "answer": "No. Petrified Forest State Park is a protected state park where all collection of petrified wood, agate, and natural specimens is prohibited. The park preserves these formations for scientific research and public education. You may photograph specimens and enjoy guided interpretive walks to learn about the Miocene geology, but removal of any materials violates Washington state park regulations."
+    },
+    {
+      "question": "What rockhounding alternatives exist near Ellensburg if I want to collect petrified wood?",
+      "answer": "While Petrified Forest State Park itself prohibits collection, the surrounding Kittitas Valley area contains BLM land and private rockhounding sites where petrified wood from the Glenrose Formation may be available. Contact the BLM Wenatchee office or local rockhounding clubs for guidance on where you can legally collect in the region."
+    },
+    {
+      "question": "What gemstones and fossils are found at Petrified Forest State Park Washington?",
+      "answer": "The park features petrified wood from 15-20 million year old conifer forests, along with agate nodules, jasper fragments, and chalcedony from the Miocene-age Glenrose Formation. The petrified wood displays exceptional color banding, cellular preservation, and sometimes fluorescence under UV light. Many specimens retain visible wood grain and growth rings."
+    },
+    {
+      "question": "Is Petrified Forest State Park family-friendly for learning about geology?",
+      "answer": "Yes. The park offers gentle hiking trails suitable for children ages 6 and up, interpretive displays explaining the Glenrose Formation and petrified forest ecology, and guided walks led by rangers. The 892-foot elevation and soft slopes make it accessible for families seeking an educational outdoor experience without strenuous hiking."
+    },
+    {
+      "question": "What is the best time of year to visit Petrified Forest State Park near Ellensburg?",
+      "answer": "April through October provides the most comfortable collecting and hiking conditions. Spring (April-May) and fall (September-October) offer mild temperatures ideal for extended time on the trails. Summer brings heat but is manageable with early morning starts. Winter is possible but muddy conditions limit trail accessibility."
+    },
+    {
+      "question": "How far is Petrified Forest State Park from Ellensburg and are there services nearby?",
+      "answer": "The park is approximately 10 miles east of Ellensburg via I-90 and Highway 821. Ellensburg has all services including gas, food, and water. The small town of Kittitas is about 3 miles away with limited services. Plan to fuel up and gather supplies in Ellensburg before heading to the park."
+    }
+  ],
+  "meta_title": "Petrified Forest State Park Rockhounding - Washington",
+  "meta_description": "Explore petrified wood and agate at Petrified Forest State Park near Ellensburg, WA. Educational state park with scenic trails and Miocene geology.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "collection_rules - sourced from standard Washington state park policy prohibiting collection; verify with current park regulations",
+    "gem_types - inferred from Glenrose Formation geology; confirm actual availability",
+    "nearest_city - Ellensburg is nearest major town; verify closest actual rockhounding services",
+    "access_type - listed as public but collection is prohibited; clarify as educational access only",
+    "dog_friendly - state park designation suggests no, but verify current dog policy"
+  ],
+  "enriched_at": "2026-04-21T19:26:03.985Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:28:02.073Z"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "east-granby-quarry-ct",
+  "name": "East Granby Quarry",
+  "lat": 41.936107,
+  "lng": -72.739986,
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "state_code": "CT",
+  "city": "East Granby",
+  "city_slug": "east-granby",
+  "county": "Capitol Planning Region",
+  "county_slug": "capitol-planning-region",
+  "geocoded_city": "East Granby",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-connecticut.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=East%20Granby%20Quarry%20Connecticut"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=East%20Granby%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=East%20Granby%20Quarry%20Connecticut"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:05:02.723Z"
+  },
+  "scraped_at": "2026-04-21T18:05:02.724Z",
+  "scrape_quality": "minimal"
+}

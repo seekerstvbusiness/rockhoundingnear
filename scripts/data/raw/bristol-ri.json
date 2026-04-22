@@ -1,0 +1,60 @@
+{
+  "slug": "bristol-ri",
+  "name": "Bristol",
+  "lat": 41.680357,
+  "lng": -71.27552,
+  "state": "Rhode Island",
+  "state_slug": "rhode-island",
+  "state_code": "RI",
+  "city": "Bristol",
+  "city_slug": "bristol",
+  "county": "Bristol",
+  "county_slug": "bristol",
+  "geocoded_city": "Bristol",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-rhode-island.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bristol%20Rhode%20Island"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bristol",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bristol%20Rhode%20Island"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3,
+      "meters": 1
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:35:30.035Z"
+  },
+  "scraped_at": "2026-04-21T16:35:30.036Z",
+  "scrape_quality": "minimal"
+}

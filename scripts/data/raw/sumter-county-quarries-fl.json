@@ -1,0 +1,60 @@
+{
+  "slug": "sumter-county-quarries-fl",
+  "name": "Sumter County Quarries",
+  "lat": 28.767596,
+  "lng": -82.047159,
+  "state": "Florida",
+  "state_slug": "florida",
+  "state_code": "FL",
+  "city": "Sumter County",
+  "city_slug": "sumter-county",
+  "county": "Sumter",
+  "county_slug": "sumter",
+  "geocoded_city": "Sumterville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-florida.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Sumter%20County%20Quarries%20Florida"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Sumter%20County%20Quarries",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Sumter%20County%20Quarries%20Florida"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 71,
+      "meters": 22
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:34:35.172Z"
+  },
+  "scraped_at": "2026-04-21T17:34:35.172Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "aurora-mine-permission-required-ca",
+  "name": "Aurora Mine (permission required)",
+  "state": "California",
+  "state_slug": "california",
+  "city": "San Benito County Area",
+  "city_slug": "san-benito-county",
+  "county": "San Benito",
+  "county_slug": "san-benito",
+  "lat": 36.394862,
+  "lng": -120.674138,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Aurora Mine on BLM land near San Benito offers rockhounding for quartz, feldspar, and mica in a gentle-slope alpine setting. Personal use collecting permitted with a 25-pound daily limit.",
+  "description": "The Aurora Mine area sits within San Benito County's mineralized belt, where you can collect quartz, feldspar, and mica specimens on public BLM land. This location is accessed with permission and follows standard BLM recreational collecting guidelines. The site sits at 3,837 feet elevation on gentle slopes, making it accessible for most rockhounds seeking high-desert mineral specimens. The surrounding terrain is relatively open with scattered vegetation typical of the California coast ranges. Collectors should expect to find quartz in various forms, including crystalline specimens, alongside feldspar and mica minerals common to granitic bedrock in this region.",
+  "history": "The Aurora Mine area formed during the Mesozoic era when granitic intrusions emplaced through the Salinian block, creating conditions for quartz, feldspar, and mica mineralization. This locality has been known to California mineral collectors for decades as a productive source for specimen-quality minerals from the decomposition of granitic host rock.",
+  "tips": "Search along exposed granitic outcrops and weathered talus slopes where quartz and feldspar crystals are naturally liberated from the host rock. Use a geologist's hammer and small pry bar to carefully extract specimens from partially exposed crystals rather than random pounding. Look for quartz with clean terminations, feldspar with good luster, and mica that splits into thin sheets - avoid heavily weathered or fractured specimens. Bring a GPS unit to navigate the gentle slopes and mark productive collecting spots for future visits.",
+  "terrain_notes": "Elevation 3,837 feet on gentle slopes with sparse vegetation typical of the California foothills. Terrain is relatively easy to navigate with scattered granitic boulders and outcrops. Unpaved road access to parking area. Walking distance from parking to productive collecting zones is typically under 1 mile. Footing is generally stable with scattered loose rock on slopes.",
+  "best_season": "April - June and September - October. Spring offers good access after winter rains have cleared roads and cooler temperatures are ideal for field work. Fall provides pleasant conditions before winter weather closes higher elevations. Summer can be hot and dusty; winter may bring road closures from snow.",
+  "written_directions": "From Hollister (nearest significant town, approximately 25 miles northwest), take California State Route 25 south toward San Benito County. At the appropriate junction, head east on local county roads toward the Aurora Mine area near the coordinates 36.394862, -120.674138. The final approach is via unpaved BLM access road - check current road conditions with the King City BLM Field Office before departing, as seasonal washout can occur. High-clearance vehicle recommended for the final 2-3 miles.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM access road, seasonal washout possible. High-clearance vehicle recommended. Check with King City BLM Field Office for current conditions before visiting.",
+  "parking_notes": "Informal pullout area near mining claim boundary. Limited turnaround space. Capacity 2-4 vehicles. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collecting limited to small hand tools. Respect any posted mining claim boundaries. Do not disturb mine structures or adits.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nSmall hand tools only\nRespect posted mining claim boundaries\nNo disturbance of mine structures or underground workings",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "loose_rock",
+    "heat",
+    "remote"
+  ],
+  "nearest_services": "Hollister, California (approximately 25 miles northwest). Full services including gas, food, water, and supplies.",
+  "accessibility_notes": "Moderate terrain with gentle slopes accessible to most hikers. Unpaved road to parking area requires high-clearance vehicle. Walking to collecting zones involves navigating scattered boulders and loose rock on slopes. Sturdy footwear required. Handheld GPS helpful for route finding. Not suitable for wheelchair access or mobility-limited visitors. Shade is minimal - bring sun protection.",
+  "alternative_names": [],
+  "nearest_city": "Hollister",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/aurora-mine-permission-required-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems and minerals can I find at Aurora Mine near San Benito?",
+      "answer": "Aurora Mine on BLM land yields quartz (including crystalline specimens), feldspar, and mica. The granitic geology of this region produces high-quality specimens of these minerals, particularly quartz with clean terminations and well-formed feldspar crystals. Mica is common and often occurs in splits suitable for collection."
+    },
+    {
+      "question": "Do I need a permit to collect at Aurora Mine in California?",
+      "answer": "No permit is required for recreational collecting at Aurora Mine. It is located on BLM public land in California where personal use collecting is allowed under FLPMA guidelines. You do not need to contact any agency before visiting, but you should follow all posted claim boundaries and respect any active mining claim markers."
+    },
+    {
+      "question": "What is the daily collection limit at Aurora Mine?",
+      "answer": "You may collect up to 25 pounds of specimens per day at Aurora Mine under standard BLM recreational collecting rules. This 25-pound daily limit is set by the Federal Land Policy and Management Act (FLPMA) and applies to all public BLM land in California used for hobby rockhounding."
+    },
+    {
+      "question": "When is the best time to go rockhounding at Aurora Mine?",
+      "answer": "The best seasons are April through June and September through October. Spring offers good road access after winter and cooler temperatures. Fall provides pleasant weather before potential winter snow closes higher elevations. Summer can be extremely hot in San Benito County, and winter weather may make the unpaved access road impassable."
+    },
+    {
+      "question": "Is Aurora Mine suitable for beginners and families with children?",
+      "answer": "Yes, Aurora Mine is beginner-friendly and suitable for families with children ages 8 and up. The gentle slopes and accessible terrain make it easier than many California rockhounding sites. Moderate difficulty is due to unpaved road access and scattered loose rock rather than extreme terrain. Bring plenty of water, sun protection, and GPS for navigation."
+    },
+    {
+      "question": "What tools and supplies should I bring to Aurora Mine rockhounding site?",
+      "answer": "Bring a geologist's hammer, pry bar, and small chisel for careful specimen extraction. Pack a high-capacity water container, sun protection, sturdy hiking boots, and a GPS unit. A hand-written note of your findings and coordinates helps future collectors. Wear gloves for protection against sharp quartz edges. No facilities exist at the site - bring all supplies from Hollister."
+    }
+  ],
+  "meta_title": "Aurora Mine Rockhounding - California BLM",
+  "meta_description": "Find quartz, feldspar and mica at Aurora Mine on BLM land near San Benito, California. No permit required. 25 lb daily limit. Beginner-friendly rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-21T19:32:00.770Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:34:57.428Z"
+}

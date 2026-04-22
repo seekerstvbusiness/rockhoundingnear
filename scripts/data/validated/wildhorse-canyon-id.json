@@ -1,0 +1,97 @@
+{
+  "slug": "wildhorse-canyon-id",
+  "name": "Wildhorse Canyon",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Custer",
+  "city_slug": "custer",
+  "county": "Custer",
+  "county_slug": "custer",
+  "lat": 43.765386,
+  "lng": -114.101687,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public land in central Idaho offering agate and jasper collecting in a scenic canyon setting. Personal use rockhounding with no permit required.",
+  "description": "Wildhorse Canyon sits within Idaho's productive agate and jasper country in the Custer County high desert. This BLM-managed location provides open access for recreational rockhounders seeking quality specimens without the need for permits or fees. The canyon terrain contains scattered nodules and fragments of chalcedony-based materials in washes and eroded hillsides, typical of the silica-rich formations found throughout central Idaho's Basin and Range geology.\n\nThe site is accessible year-round for dedicated rockhounds, though spring and fall offer the most comfortable collecting conditions. Visitors can work the wash bottoms and side slopes where water erosion naturally exposes agate nodules and banded jasper pieces. The landscape features sagebrush and scattered juniper with open views of surrounding ridges, creating an authentic high-desert rockhounding experience.\n\nThis location suits rockhounders of all skill levels. Beginners can easily spot colorful agate fragments in the wash, while experienced collectors may find specimen-quality nodules by working the hillside outcrops more thoroughly. The BLM rules are straightforward: personal use only, 25 pounds per day maximum, and no commercial collection.",
+  "history": "Wildhorse Canyon sits within the northern Basin and Range province where Tertiary-era volcanic and hydrothermal activity deposited silica-rich fluids into fractures and cavities. These fluids gradually crystallized into agate nodules, jasper masses, and chalcedony veins that erode from hillsides and collect in modern washes. The area has long been known to local rockhounders as a reliable source for quality specimens.",
+  "tips": "Search the wash bottom and water-cut banks where erosion naturally exposes nodules - look for banded or brightly colored agate specimens that contrast with surrounding gray rock. Bring a small pry bar or chisel to carefully extract nodules from hillside outcrops; these often weather free but may need gentle leverage. Examine specimens in bright sunlight to assess color and banding quality before committing them to your collection - backlighting shows translucency that indicates higher-quality agate. Wear sturdy boots with good ankle support since the canyon floor contains loose rock and scattered sharp material.",
+  "terrain_notes": "Wildhorse Canyon is moderately rough terrain at approximately 6,000 feet elevation. The canyon floor is sandy wash with scattered rocks, while side slopes feature sagebrush, juniper, and exposed bedrock. Walking is generally easy in the wash but steeper on hillsides. Plan for 0.5 to 2 miles of walking depending on how far into the canyon you explore. Footing is secure but requires attention to loose rocks and uneven surfaces.",
+  "best_season": "May - October. High elevation (6,000+ feet) makes winter collecting difficult; snow and cold dominate November through April. Late spring through early fall provides mild temperatures and reliable access.",
+  "written_directions": "From Custer, Idaho, drive east on ID-75 toward the Sawtooth Valley. Continue on ID-75 for approximately 15 miles northeast. Turn north on a BLM access road (look for public land markers) toward Wildhorse Canyon. Follow this road for 3-4 miles to parking areas and canyon access points. The final approach may be rough; high-clearance vehicles are recommended but passenger cars can often make it in good conditions. Ask at the BLM Salmon District Office in Salmon (40 miles south) for current road conditions and specific access details.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "BLM access road is rough and may be washboarded or rutted depending on season. High-clearance vehicles are recommended. Winter snow may close access.",
+  "parking_notes": "Pullouts and small parking areas near canyon entrances. No developed parking lot. Plan to park along the access road near canyon access points.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No collecting from private inholdings or mining claims.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo use of heavy equipment\nLeave no trace - pack out all trash\nRespect private property and mining claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote",
+    "cold"
+  ],
+  "nearest_services": "Custer, Idaho (30 miles south) has limited services. Salmon, Idaho (40 miles south) has fuel, food, lodging, and water supplies.",
+  "accessibility_notes": "Moderate terrain with uneven canyon floor, loose rocks, and hillside slopes. Sturdy boots required. Not suitable for wheelchair access or limited mobility. Route-finding and scrambling may be needed to reach productive collecting areas.",
+  "alternative_names": [],
+  "nearest_city": "Custer",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/wildhorse-canyon-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates can I find rockhounding at Wildhorse Canyon in Idaho?",
+      "answer": "Wildhorse Canyon produces banded agates, moss agates, and chalcedony specimens. Most specimens are small to medium nodules, typically 1-3 inches. Look for colorful banding in reds, whites, grays, and occasional pastels. The agate forms from ancient silica-rich fluids that crystallized in cavities, making Wildhorse Canyon a reliable source for specimen collectors."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Wildhorse Canyon on BLM land in Idaho?",
+      "answer": "No permit is required for personal use rockhounding at Wildhorse Canyon. This is public BLM land managed under FLPMA regulations. You are allowed to collect up to 25 pounds per day of agate, jasper, and chalcedony at no cost. Commercial collection and motorized excavation are prohibited."
+    },
+    {
+      "question": "What is the best time of year to collect agate at Wildhorse Canyon near Custer?",
+      "answer": "Late May through September provides the most comfortable collecting conditions at this 6,000-foot elevation site. Winter snow and cold temperatures typically close access from November through April. Spring and early fall offer mild temperatures and excellent visibility for spotting specimens in the wash and on hillsides."
+    },
+    {
+      "question": "How do I reach Wildhorse Canyon and what vehicle do I need?",
+      "answer": "From Custer, take ID-75 northeast toward Sawtooth Valley for about 15 miles, then turn north on a BLM access road for 3-4 miles to canyon parking areas. A high-clearance or all-wheel-drive vehicle is recommended, though passenger cars may access in good conditions. Always check with the BLM Salmon District Office for current road conditions before heading out."
+    },
+    {
+      "question": "Is Wildhorse Canyon good for beginner rockhounders looking for their first agate specimens?",
+      "answer": "Yes, Wildhorse Canyon is beginner-friendly. Agate nodules and colorful jasper fragments are visible in the canyon wash, and no special equipment or expertise is required to start collecting. Bring a basic pry bar or chisel, wear sturdy boots, and plan to spend 2-4 hours exploring the wash and lower hillsides for quality specimens."
+    },
+    {
+      "question": "What tools and supplies should I bring to rockhound Wildhorse Canyon effectively?",
+      "answer": "Bring a small pry bar or flat chisel, hammer, and sturdy boots for uneven terrain. A 5-gallon bucket or backpack helps carry your 25-pound daily limit. Bring plenty of water (at least 2 liters), sun protection, and a map since cell service is spotty. A hand lens helps evaluate banding quality and translucency before committing specimens to your collection."
+    }
+  ],
+  "meta_title": "Wildhorse Canyon Rockhounding - Idaho Agate",
+  "meta_description": "Find agate, jasper, and chalcedony at Wildhorse Canyon, Idaho BLM land. Free public rockhounding, no permit required. Best in late spring and fall.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "written_directions specific to unnamed BLM roads",
+    "parking_notes detail level"
+  ],
+  "enriched_at": "2026-04-22T09:49:58.421Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:41.966Z"
+}

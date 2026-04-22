@@ -1,0 +1,89 @@
+{
+  "slug": "luka-ms",
+  "name": "Luka",
+  "lat": 34.796379,
+  "lng": -88.200761,
+  "state": "Mississippi",
+  "state_slug": "mississippi",
+  "state_code": "MS",
+  "city": "Iuka",
+  "city_slug": "iuka",
+  "county": "Tishomingo",
+  "county_slug": "tishomingo",
+  "geocoded_city": "Iuka",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-mississippi.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Luka%20Mississippi"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Luka",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Luka%20Mississippi"
+    },
+    "web_search": {
+      "found": true,
+      "url": "https://duckduckgo.com/?q=%22Luka%22%20Mississippi%20rockhounding%20minerals",
+      "description_snippet": "&quot;Luka&quot; Mississippi rockhounding minerals at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year Rockhounding Mississippi: 11 Places To Hunt Rocks, Crystals, and ... yesdirt.com/rockhounding-mississippi/ 4. Luka Luka , Mississippi , is located in Tishomingo county. It is a small town with a population of 3,028. Just south of the city is the Woodall Mountain, and this is the spot you want to go digging for rocks, crystals, and other minerals . There is an extensive deposit of red and yellow ocher. Luka - Rockhounding Location in MS rockhounding.org/us/ms/luka-ms Find Red Ocher, Yellow Ocher at Luka in MS. Access difficulty: N/A. Get directions, see photos, and read reviews from other rockhounds. Luka - Map View - rockhounding.org rockhounding.org/maps/us/ms/luka-ms View Luka on an interactive map. Rockhounding location map. What are things like in Luka mississippi : r/mississippi - Reddit www.reddit.com/r/mississippi/comments/fjb41s/what_are_things_like_in_luka_mississippi/ Well I&#x27;ve been offered the chance to move to luka mississippi and would like some insight. What is it like there? I know it&#x27;s a small town in the northern part of the state, with a population of around 3,000 and predominantly white. As a young black man would i encounter any problems with the locals? But besides that what is there do in luka ? "
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[web_search] &quot;Luka&quot; Mississippi rockhounding minerals at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year Rockhounding Mississippi: 11 Places To Hunt Rocks, Crystals, and ... yesdirt.com/rockhounding-mississippi/ 4. Luka Luka , Mississippi , is located in Tishomingo county. It is a small town with a population of 3,028. Just south of the city is the Woodall Mountain, and this is the spot you want to go digging for rocks, crystals, and other minerals . There is an extensive deposit of red and yellow ocher. Luka - Rockhounding Location in MS rockhounding.org/us/ms/luka-ms Find Red Ocher, Yellow Ocher at Luka in MS. Access difficulty: N/A. Get directions, see photos, and read reviews from other rockhounds. Luka - Map View - rockhounding.org rockhounding.org/maps/us/ms/luka-ms View Luka on an interactive map. Rockhounding location map. What are things like in Luka mississippi : r/mississippi - Reddit www.reddit.com/r/mississippi/comments/fjb41s/what_are_things_like_in_luka_mississippi/ Well I&#x27;ve been offered the chance to move to luka mississippi and would like some insight. What is it like there? I know it&#x27;s a small town in the northern part of the state, with a population of around 3,000 and predominantly white. As a young black man would i encounter any problems with the locals? But besides that what is there do in luka ? "
+    ],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 578,
+      "meters": 176
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "Allsboro Road",
+        "ref": null,
+        "type": "trunk_link",
+        "dist": 6.7
+      },
+      {
+        "name": "Margerum Annex",
+        "ref": null,
+        "type": "trunk_link",
+        "dist": 7.8
+      },
+      {
+        "name": "Natchez Trace Access Road",
+        "ref": null,
+        "type": "primary_link",
+        "dist": 10.4
+      },
+      {
+        "name": "Natchez Trace Access Road",
+        "ref": null,
+        "type": "primary_link",
+        "dist": 10.6
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:32:25.385Z"
+  },
+  "scraped_at": "2026-04-21T16:32:25.385Z",
+  "scrape_quality": "partial"
+}

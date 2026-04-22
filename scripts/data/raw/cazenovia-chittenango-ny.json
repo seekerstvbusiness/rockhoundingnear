@@ -1,0 +1,60 @@
+{
+  "slug": "cazenovia-chittenango-ny",
+  "name": "Cazenovia & Chittenango",
+  "lat": 43.037481,
+  "lng": -75.871314,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Village of Chittenango",
+  "city_slug": "village-of-chittenango",
+  "county": "Madison",
+  "county_slug": "madison",
+  "geocoded_city": "Village of Chittenango",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cazenovia%20%26%20Chittenango%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cazenovia%20%26%20Chittenango",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cazenovia%20%26%20Chittenango%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 571,
+      "meters": 174
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:44:11.323Z"
+  },
+  "scraped_at": "2026-04-21T18:44:11.323Z",
+  "scrape_quality": "minimal"
+}

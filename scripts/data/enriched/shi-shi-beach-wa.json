@@ -1,0 +1,100 @@
+{
+  "slug": "shi-shi-beach-wa",
+  "name": "Shi Shi Beach",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Neah Bay",
+  "city_slug": "neah-bay",
+  "county": "Clallam",
+  "county_slug": "clallam",
+  "lat": 48.274833,
+  "lng": -124.680694,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Remote Pacific Northwest beach known for agates, jasper, and colorful quartz fragments. Accessible only by hiking through old-growth rainforest to pristine tidal zones rich in collectible specimens.",
+  "description": "Shi Shi Beach is one of Washington's most remote and geologically rich beaches, located on the Olympic Peninsula near the Makah Indian Reservation boundary. The beach stretches for miles along the Pacific coastline and sits at the base of sea cliffs that expose layers of Tertiary sandstone and volcanic material, creating ideal conditions for finding agates, jasper, chalcedony, and quartz specimens.\n\nThe area lies within the Cascade Range physiographic province where Eocene to Oligocene marine deposits and volcanic activity created diverse mineral-bearing formations. The constant wave action and tidal scour of this exposed coast naturally concentrates heavier minerals and polished stones along the beach surface and in tide pools, making surface collecting highly productive.\n\nAccess requires a 1.5 to 2-mile hike through temperate rainforest, passing Elephant Rock (a prominent sea stack), before reaching the expansive sandy and rocky beach. The hike itself is moderately strenuous but well-established. Once on the beach, rockhounders can search the wrack line, tide pools, and exposed rock faces that offer both raw specimens and naturally weathered and polished stones.\n\nThis location is best visited during low tide, when a significantly larger beach area becomes exposed, offering more collecting opportunities among rocks and sediment. The remote nature of the site means fewer collectors compete for specimens, and the constant geological activity keeps fresh material visible after storm events. Be aware that this beach is near Makah tribal lands; respect all posted boundaries and tribal sovereignty.",
+  "history": "Shi Shi Beach sits within the Cascade Range and Puget Sound physiographic province where Tertiary-age marine sedimentation and regional volcanism (roughly 50-30 million years ago) deposited thick sequences of sandstone, siltstone, and volcanic ash. These Eocene and Oligocene formations host abundant silica-rich minerals. The surrounding Olympic Mountains developed through regional tectonic uplift and glaciation, and ongoing wave erosion continuously exposes new mineral-bearing material.",
+  "tips": "Search the wrack line (seaweed and debris line) first, where heavier agates and jasper specimens concentrate during tidal movement. At low tide, examine the exposed sand and gravel bars adjacent to sea cliffs where loose material has naturally fallen and weathered. Look for smooth, banded agate pieces in cream, tan, and orange hues, plus reddish and brown jasper fragments. Bring a small sifting screen or collection bag; the beach offers abundant material, and you can be selective about what you keep.",
+  "terrain_notes": "Elevation is essentially sea level (3 feet). The access hike descends gradually through temperate rainforest with uneven, rooted terrain and muddy sections. The beach itself features a mix of sand, gravel, cobbles, and exposed rock ledges. Tidal range is significant (up to 12 feet), so timing your visit with low tide is essential for safe access and maximum collecting area. Footing on wet rocks and gravel can be slippery; sturdy hiking boots with good traction are essential.",
+  "best_season": "May - September",
+  "written_directions": "From Neah Bay, travel west on Makah Road (also called Highway 112 W) for approximately 8 miles. Proceed to the Makah National Forest trailhead near Cape Flattery Road. Park at the designated lot near the forest entrance (capacity for 15-20 vehicles). Follow the clearly marked trail (Shi Shi Beach Trail) for 1.5 to 2 miles through old-growth forest and past Elephant Rock sea stack. The trail terminates at the beach. Allow 45 minutes to 1 hour for the hike. Be aware that parking is extremely limited; arrive early, especially on weekends.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "hiking",
+  "road_conditions": "Makah Road is paved two-lane highway in good condition. The final mile approaches forest service land with adequate pullouts. No high-clearance vehicle required.",
+  "parking_notes": "Small designated parking area near Makah National Forest trailhead entrance. Capacity approximately 15-20 vehicles. No facilities. Arrive early during peak season (summer) or parking may be unavailable.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Collect from beach surface and tide pools. No motorized excavation or powered tools. Respect tribal land boundaries clearly marked near Cape Flattery and Makah Reservation. Removals must be reasonable and sustainable; take only what you will keep. Pack out all non-mineral trash. No collection of fossils or protected species.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only. Respect Makah tribal land boundaries. No motorized tools or excavation. Search beach surface, tide pools, and wrack line only. Pack out all trash. Do not disturb wildlife or remove fossils.",
+  "beginner_friendly": true,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "flash_floods",
+    "wildlife",
+    "sharp_material",
+    "remote"
+  ],
+  "nearest_services": "Neah Bay, approximately 8 miles east. Limited services; nearest significant food and fuel options are in Port Angeles, about 50 miles away.",
+  "accessibility_notes": "Moderate difficulty hike with uneven, rooted forest terrain and muddy sections. Not wheelchair accessible. Requires sturdy hiking boots with good traction and reasonable fitness level. Beach footing is uneven rock and gravel; assist elderly or mobility-limited visitors carefully. The hike is 1.5 to 2 miles one-way with elevation change of approximately 300 feet.",
+  "alternative_names": [
+    "Cape Flattery Beach"
+  ],
+  "nearest_city": "Neah Bay",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/shi-shi-beach-wa/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Shi Shi Beach in Washington?",
+      "answer": "Shi Shi Beach is best known for agates, jasper, chalcedony, and quartz fragments. Specimens often have natural polish and weathering from wave action. Agate pieces range from cream and tan to orange and red tones, while jasper is typically reddish-brown. Most stones are found as beach pebbles and fragments rather than whole specimens."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Shi Shi Beach?",
+      "answer": "No permit is required for personal use collection at Shi Shi Beach. The beach is public access through Makah National Forest. However, respect all posted tribal land boundaries near the Makah Reservation. Commercial collection and motorized excavation are not allowed."
+    },
+    {
+      "question": "When is the best time to visit Shi Shi Beach for rockhounding?",
+      "answer": "Visit May through September when weather is most stable and the hike is safer. Always plan your beach visit around low tide, when the beach area expands significantly and more stones are exposed. Consult a tide table before your trip; low tide periods vary daily and are critical for maximum collecting opportunity."
+    },
+    {
+      "question": "How difficult is the hike to Shi Shi Beach?",
+      "answer": "The hike is moderate, covering 1.5 to 2 miles through temperate rainforest with uneven, rooted terrain and muddy sections. Allow 45 minutes to 1 hour each way. Sturdy hiking boots with good traction are essential. The route is well-marked and suitable for most adult hikers and families with children age 8 and older."
+    },
+    {
+      "question": "What tools and equipment should I bring to Shi Shi Beach rockhounding?",
+      "answer": "Bring a small collection bag or backpack, sturdy hiking boots with traction, a small shovel or trowel for gentle searching, and a sifting screen or net if you want to process beach material. A tide table is essential for planning your visit. Consider bringing a hand lens to examine specimens for color and banding patterns that indicate quality agates."
+    },
+    {
+      "question": "Is Shi Shi Beach rockhounding beginner friendly and family safe?",
+      "answer": "Yes, Shi Shi Beach is excellent for beginners and families. Surface collecting requires no advanced skill, and agates and jasper are easy to identify. The beach is scenic and the hike is manageable for kids age 8 and older. However, supervise children carefully around tidal zones, sea cliffs, and wet rocks. Always check tide tables and allow plenty of time to exit before the tide returns."
+    }
+  ],
+  "meta_title": "Shi Shi Beach Rockhounding - Washington",
+  "meta_description": "Find agates, jasper, and quartz at remote Shi Shi Beach near Neah Bay, WA. Beginner friendly public beach access with scenic rainforest hike.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "parking_notes",
+    "road_conditions",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-21T19:18:32.948Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:20:04.677Z"
+}

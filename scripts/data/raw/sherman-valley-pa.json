@@ -1,0 +1,60 @@
+{
+  "slug": "sherman-valley-pa",
+  "name": "Sherman Valley",
+  "lat": 40.076424,
+  "lng": -78.273222,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Broad Top Township",
+  "city_slug": "broad-top-township",
+  "county": "Bedford",
+  "county_slug": "bedford",
+  "geocoded_city": "Broad Top Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Sherman%20Valley%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Sherman%20Valley",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Sherman%20Valley%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1078,
+      "meters": 329
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:45:26.920Z"
+  },
+  "scraped_at": "2026-04-21T18:45:26.920Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "torrington-ct",
+  "name": "Torrington",
+  "lat": 41.8572,
+  "lng": -73.11039,
+  "state": "Connecticut",
+  "state_slug": "connecticut",
+  "state_code": "CT",
+  "city": "Torrington",
+  "city_slug": "torrington",
+  "county": "Northwest Hills Planning Region",
+  "county_slug": "northwest-hills-planning-region",
+  "geocoded_city": "Torrington",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-connecticut.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Torrington%20Connecticut"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Torrington",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Torrington%20Connecticut"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1058,
+      "meters": 323
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:02:50.297Z"
+  },
+  "scraped_at": "2026-04-21T18:02:50.297Z",
+  "scrape_quality": "minimal"
+}

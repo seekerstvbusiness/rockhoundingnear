@@ -1,0 +1,101 @@
+{
+  "slug": "salmon-river-id",
+  "name": "Salmon River",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Idaho County Area",
+  "city_slug": "idaho-county",
+  "county": "Idaho",
+  "county_slug": "idaho",
+  "lat": 45.463244,
+  "lng": -115.787031,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Agate",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public rockhounding on the scenic Salmon River in central Idaho. Hunt for quartz, jasper, and chalcedony specimens along river gravels and canyon walls with no permit required.",
+  "description": "The Salmon River in Idaho County offers free, permit-free rockhounding on public BLM lands in one of Idaho's most scenic river canyons. This moderately sloped terrain at 2,027 feet elevation provides excellent access to river-worn minerals and gravels deposited over millennia. The river canyon exposes quartz-rich formations and jasper deposits from the Mesozoic and Precambrian geology underlying the area.\n\nCollectors can search the river bars, gravel banks, and adjacent slopes for agate, chalcedony, and quartz specimens. The moderate terrain and established river access make this suitable for both beginners and experienced rockhounds. Water and shade are available along the river corridor, making it comfortable for full-day collecting trips during cooler months.\n\nPersonal use collecting is unrestricted on these BLM lands - simply follow the 25 lb per day limit and pack out what you pack in. The river setting means specimens often show natural weathering and polishing, making finds especially attractive. Spring runoff can occasionally uncover fresh material on the bars.",
+  "history": "The Salmon River canyon sits within the Salmon River Mountains, an area of Precambrian basement rocks overlain by Mesozoic sedimentary and metamorphic sequences. Quartz veining and jasper formations in this region resulted from hydrothermal activity associated with Cretaceous batholith emplacement and ongoing river erosion over the past 2 million years has concentrated resistant minerals like quartz and jasper in the gravels. This area has a long history of recreational and small-scale prospecting activity, though major commercial mining operations are limited.",
+  "tips": "Search the river bars and gravel beds immediately adjacent to the water - this is where heavier minerals concentrate and weathering exposes new specimens with each seasonal flow. Look for translucent to opaque quartz chunks 1-3 inches across, often with milky white or pink coloration. Jasper specimens here typically display red, brown, or yellow banding and are found embedded in the coarser gravels on inside bends of the river. Bring a digging bar and classifier screen to efficiently process gravel bars - the sandy/silty overburden often conceals quality material underneath.",
+  "terrain_notes": "Moderate slope terrain at 2,027 feet elevation. River canyon with mixed coniferous forest and open gravel bars. Walking distance from parking to productive collecting areas varies from 0.5 to 2 miles depending on access point. Uneven rocky terrain with exposed roots, slippery river rocks, and variable footing. Sturdy hiking boots required. Some sections feature steep canyon walls, so stay alert for loose rock.",
+  "best_season": "May - September. Peak season is June through August when water levels are manageable after spring runoff subsides and weather is most stable. Avoid October through April when snow, ice, and high water make access difficult and dangerous. Early summer offers the best combination of accessible conditions and fresh material exposed by receding water levels.",
+  "written_directions": "From Grangeville (nearest significant town, approximately 35 miles west), take US 95 north toward Riggins. Turn east onto State Route 14 toward the Salmon River canyon. Follow SR 14 as it descends into the river canyon for approximately 20 miles. Multiple pullouts and informal access points exist along the highway where it follows the river. Look for gravel bars visible from the road and pull into any safe turnout. The GPS coordinates point to a mid-canyon location; approach via any accessible point along the SR 14 corridor. Four-wheel drive is not required for highway access, but high-clearance vehicles are helpful for some rough pullouts.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "State Route 14 is paved with occasional rough patches. Access pullouts vary from paved to rough gravel. Standard passenger vehicles can reach most collecting areas, though some rough pullouts benefit from high-clearance or all-wheel drive.",
+  "parking_notes": "Multiple informal pullouts along SR 14 corridor. Most are unpaved gravel areas with capacity for 3-8 vehicles. No facilities or maintained parking lots. Parking is first-come, first-served. Some areas have minimal pullout space, so arrive early during weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or heavy equipment use. Pack out all waste. Do not disturb archaeological sites or cultural resources. Collecting is limited to surface material and exposed formations; do not blast or use explosives.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs per day maximum per FLPMA\nNo commercial collection\nNo motorized excavation\nNo explosives or blasting\nPack out all waste\nRespect archaeological sites",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cliffs",
+    "flash_floods",
+    "loose_rock",
+    "cold",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Grangeville, approximately 35 miles west, has gas, food, lodging, and supplies. Riggins, approximately 25 miles north, offers basic services. Both towns are 45 minutes to 1 hour driving distance.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing along river bars. No wheelchair access to productive collecting areas. Steep canyon walls and slippery river rocks require careful navigation. Sturdy hiking boots essential. Not suitable for those with limited mobility. River access requires scrambling over rocks. Children should be supervised closely near water.",
+  "alternative_names": [],
+  "nearest_city": "Grangeville",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/salmon-river-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/salmon-river-id/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/salmon-river-id/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find at Salmon River in Idaho County?",
+      "answer": "Salmon River is known for quartz, jasper, agate, and chalcedony specimens. Quartz is the most abundant find - typically milky white, pink, or clear chunks. Red, brown, and yellow banded jasper is commonly found in the gravels. Chalcedony occurs as translucent nodules and waxy specimens. All are suitable for collectors of any skill level."
+    },
+    {
+      "question": "Is rockhounding at Salmon River free? Do I need a permit?",
+      "answer": "Yes, rockhounding at Salmon River is completely free. No permit is required on this BLM public land. You only need to follow the 25 lb per day personal use collection limit mandated by the Federal Land Policy and Management Act (FLPMA). Commercial collection is not allowed."
+    },
+    {
+      "question": "When is the best time to rockhound at Salmon River, Idaho?",
+      "answer": "The best season is May through September, with peak conditions in June through August. During this window, water levels are manageable after spring runoff, weather is stable, and recently exposed gravels often reveal fresh specimens. Avoid October through April when snow, ice, and high water make access dangerous."
+    },
+    {
+      "question": "Is Salmon River rockhounding site beginner-friendly and suitable for children?",
+      "answer": "Yes, Salmon River is beginner-friendly with moderate difficulty. Children ages 8 and older can participate comfortably. The free public access, abundant surface material, and scenic river setting make it ideal for family outings. Supervise children closely near the water and on slippery rocks."
+    },
+    {
+      "question": "What tools and equipment should I bring for rockhounding at Salmon River?",
+      "answer": "Bring sturdy hiking boots, a digging bar or pry bar, a classifier screen to sift gravels, a 5-gallon bucket, and a backpack for collecting. A hand lens helps identify specimens. Water bottles, sun protection, and a first aid kit are essential. Pack out all waste you generate."
+    },
+    {
+      "question": "How do I get to Salmon River rockhounding area from Grangeville?",
+      "answer": "From Grangeville, take US 95 north toward Riggins, then turn east onto State Route 14. Follow SR 14 as it descends into the Salmon River canyon for about 20 miles. You will see the river on your left and multiple informal pullouts along the highway. Stop at any safe turnout to access the river bars and start collecting."
+    }
+  ],
+  "meta_title": "Salmon River Rockhounding - Idaho",
+  "meta_description": "Find quartz, jasper, and agate at Salmon River, Idaho on free BLM land. No permit required, 25 lbs/day limit. Best May-September. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types inferred from typical Salmon River canyon geology",
+    "nearest_services distances estimated from geographic knowledge",
+    "written_directions constructed from SR 14 river canyon geography and GPS location"
+  ],
+  "enriched_at": "2026-04-22T06:43:01.136Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:44:42.342Z"
+}

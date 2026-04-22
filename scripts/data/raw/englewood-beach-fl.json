@@ -1,0 +1,60 @@
+{
+  "slug": "englewood-beach-fl",
+  "name": "Englewood Beach",
+  "lat": 26.924196,
+  "lng": -82.361444,
+  "state": "Florida",
+  "state_slug": "florida",
+  "state_code": "FL",
+  "city": "Charlotte County",
+  "city_slug": "charlotte-county",
+  "county": "Charlotte",
+  "county_slug": "charlotte",
+  "geocoded_city": "Charlotte County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-florida.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Englewood%20Beach%20Florida"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Englewood%20Beach",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Englewood%20Beach%20Florida"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4,
+      "meters": 1
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:31:34.248Z"
+  },
+  "scraped_at": "2026-04-21T17:31:34.248Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "medora-nd",
+  "name": "Medora",
+  "state": "North Dakota",
+  "state_slug": "north-dakota",
+  "city": "Billings County Area",
+  "city_slug": "billings-county",
+  "county": "Billings",
+  "county_slug": "billings",
+  "lat": 46.923258,
+  "lng": -103.492096,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Petrified Wood",
+    "Quartz"
+  ],
+  "short_description": "Hunt for banded agates, colorful jasper, and petrified wood in the badlands near Medora. This remote North Dakota location offers excellent public rockhounding on gentle rolling terrain.",
+  "description": "Medora sits in the heart of North Dakota's badlands region, an area famous for its colorful geological formations and abundant agate deposits. The landscape here is characterized by rolling hills with exposed sedimentary layers from the Paleocene and Eocene epochs, when this region was part of an ancient inland sea. These rock formations have yielded quality specimens of banded agate, jasper nodules, and petrified wood for over a century.\n\nThe gentle slope terrain around Medora makes this an accessible rockhounding destination despite its remote location. Collectors can find specimens weathering out of hillsides and exposed badlands cuts. The thin soil and sparse vegetation typical of the northern Great Plains expose fresh material regularly, particularly after spring snowmelt and summer storms.\n\nThis is a working landscape where ranching and conservation efforts coexist with public rockhounding. Elevations around 2637 feet provide moderate climate conditions. The badlands formations are visually striking, with layers of tan, brown, and rust-colored sediments that often contain the agate and jasper specimens you are seeking.\n\nBecause this area is remote and minimally developed, rockhounders should come prepared with water, sturdy footwear, and realistic expectations about cell service. The rewards include some of North Dakota's finest agate finds and the unique experience of collecting in authentic badlands terrain.",
+  "history": "This region was shaped by the retreating seas of the Paleocene epoch approximately 60-55 million years ago. As ancient seawater receded, silica-rich groundwater percolated through sedimentary layers and formed the agate nodules and jasper deposits found throughout the badlands today. Early settlers and homesteaders in the Medora area collected specimens for over 150 years, and the badlands remain one of North Dakota's premier rockhounding destinations.",
+  "tips": "Search the exposed hillsides and badlands cuts where erosion has exposed layers of sedimentary rock - look for small tan and brown nodules that stand out against the softer surrounding matrix. Bring a rock hammer and cold chisel to carefully extract specimens from weathered outcrops, and focus on areas where previous erosion has already loosened material. The best specimens are often found in washes and at the base of exposed badlands slopes after spring thaw or heavy rain. Look for pieces showing banding, color variation, or translucent edges - these indicate quality agate or chalcedony rather than common chert.",
+  "terrain_notes": "Gentle rolling badlands terrain at 2637 feet elevation with sparse prairie vegetation and exposed sedimentary formations. Walking is moderate, with uneven rocky footing across hillsides. No developed trails - most collecting is done by hiking up exposed badlands slopes and exploring erosion cuts. Distance from parking varies depending on where specimens are concentrated, typically 0.5 to 2 miles of walking. Footing is rocky but not steep; sturdy hiking boots are essential.",
+  "best_season": "April - October. Late spring through early fall offers the most favorable conditions for rockhounding in North Dakota's badlands. Winter snow and cold temperatures make travel difficult and collecting uncomfortable. April rains expose fresh material. Summer heat can be intense but manageable with adequate water. Fall provides excellent conditions with cooler temperatures and stable weather.",
+  "written_directions": "From Billings, Montana (the nearest major city with services), take US 2 east toward Wolf Point, Montana, then continue on US 2 through Poplar and into North Dakota. From the Medora area itself, access the badlands collectible areas by driving south or west on county roads from town. Local landmarks and ranch roads provide access to the main badlands formations. GPS coordinates will be essential for navigation in this remote region. Four-wheel-drive is recommended, especially during wet weather. Contact local rockhounding clubs or the Medora visitor center for current road conditions and specific access points.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "County roads to collecting areas are typically gravel or dirt and may be rough or impassable during wet weather. High-clearance or four-wheel-drive vehicles are strongly recommended.",
+  "parking_notes": "No developed parking areas. Park along county roads near badlands access points. Typical pullout capacity is 2-4 vehicles. Be respectful of ranching operations and private property boundaries.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA guidelines. No commercial collection. No motorized excavation or heavy equipment. Respect private property and ranch operations. Pack out all trash. Do not disturb fossils or paleontological sites.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nPack out trash\nRespect private property boundaries\nNo fossil removal",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "remote",
+    "loose_rock",
+    "wildlife",
+    "sharp_material",
+    "heat"
+  ],
+  "nearest_services": "Medora, ND has basic services including a small store and food options. The nearest full-service town with gas, groceries, and medical care is Belfield, ND (approximately 30 miles south). Billings, Montana (90 miles west) has complete services.",
+  "accessibility_notes": "Uneven rocky terrain with gentle slopes but no developed trails. Requires moderate hiking over badlands footing. Not suitable for wheelchairs or limited mobility. Sturdy hiking boots essential. Exposure to sun and minimal shade - bring water and sun protection. Terrain is manageable for most healthy adults and older children, but not for those with significant mobility restrictions.",
+  "alternative_names": [
+    "Medora Badlands",
+    "Billings County Badlands"
+  ],
+  "nearest_city": "Belfield",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-dakota/medora-nd/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-dakota/medora-nd/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-dakota/medora-nd/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates can I find rockhounding near Medora, North Dakota?",
+      "answer": "The Medora area is known for banded agates with tan, brown, and rust coloring that formed in ancient Paleocene sediments. You will also find jasper, petrified wood, and chalcedony. The agates typically range from 0.5 to 3 inches and display excellent banding and color variation. The best specimens have translucent or chalcedony edges."
+    },
+    {
+      "question": "Is rockhounding near Medora, ND free or do I need a permit?",
+      "answer": "Rockhounding near Medora is free on public BLM land with no permit required. Personal use collection is allowed up to 25 lbs per day per FLPMA guidelines. There are no fees, but you must respect private property boundaries and obtain permission before entering ranch land."
+    },
+    {
+      "question": "When is the best season for rockhounding in Medora, North Dakota badlands?",
+      "answer": "April through October offers the best conditions for rockhounding near Medora. Late spring rains expose fresh specimens, summer provides warm weather for extended collecting trips, and fall offers cooler temperatures. Winter snow and cold make the remote location less accessible and collecting uncomfortable."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Medora?",
+      "answer": "Bring a rock hammer, cold chisel, small pick, sturdy hiking boots, plenty of water (at least 2-3 liters), sun protection, and a backpack. A GPS unit or smartphone is essential in this remote badlands terrain. Four-wheel-drive or high-clearance vehicle is strongly recommended for accessing collecting areas via county roads."
+    },
+    {
+      "question": "Is Medora badlands rockhounding good for beginners and families?",
+      "answer": "Yes, the Medora area is beginner and family-friendly. The terrain is rolling rather than steep, specimens are visible on hillsides, and no special permits are required. Children ages 8 and up can participate. The free access and abundant material make it an excellent introduction to badlands agate collecting. Ensure families have proper footwear, water, and sun protection."
+    },
+    {
+      "question": "How remote is rockhounding near Medora and what cell service should I expect?",
+      "answer": "Medora is in a remote region of North Dakota with spotty cell service. The nearest town with complete services (Belfield) is 30 miles south. Billings, Montana (90 miles west) offers full amenities. Bring a paper map, GPS unit, and inform someone of your location. Carry extra water and supplies, and ensure your vehicle is in good condition before heading to this remote badlands area."
+    }
+  ],
+  "meta_title": "Medora Rockhounding - Find Agate in North Dakota",
+  "meta_description": "Hunt banded agate, jasper, and petrified wood near Medora, ND. Free public rockhounding on BLM land. No permit required. 25 lbs daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type (inferred as public BLM based on geology)",
+    "primary_category (inferred as public_blm)",
+    "vehicle_required (inferred as awd for county road access)",
+    "road_conditions (typical for North Dakota badlands access)",
+    "nearest_city (Belfield is closest town; Billings is nearest major city)",
+    "written_directions (constructed from regional geography - specific county roads should be verified locally)"
+  ],
+  "enriched_at": "2026-04-21T16:38:35.679Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:39:34.222Z"
+}

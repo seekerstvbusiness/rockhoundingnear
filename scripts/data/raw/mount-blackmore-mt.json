@@ -1,0 +1,70 @@
+{
+  "slug": "mount-blackmore-mt",
+  "name": "Mount Blackmore",
+  "lat": 45.444727,
+  "lng": -111.003479,
+  "state": "Montana",
+  "state_slug": "montana",
+  "state_code": "MT",
+  "city": "Gallatin County",
+  "city_slug": "gallatin-county",
+  "county": "Gallatin",
+  "county_slug": "gallatin",
+  "geocoded_city": "Gallatin County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-montana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mount%20Blackmore%20Montana"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Montana BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mount%20Blackmore",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mount%20Blackmore%20Montana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Montana BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 10137,
+      "meters": 3090
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": [
+      {
+        "name": "Hyalite-Porcupine-Buffalo Horn Wilderness Study Area",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-21T19:00:13.843Z"
+  },
+  "scraped_at": "2026-04-21T19:00:13.843Z",
+  "scrape_quality": "partial"
+}

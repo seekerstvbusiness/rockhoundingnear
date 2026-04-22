@@ -1,0 +1,102 @@
+{
+  "slug": "las-vegas-lead-area-nv",
+  "name": "Las Vegas (lead area)",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Nye County",
+  "city_slug": "nye-county",
+  "county": "Nye",
+  "county_slug": "nye",
+  "lat": 36.462823,
+  "lng": -116.049023,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Calcite"
+  ],
+  "short_description": "BLM public land near Las Vegas offering free rockhounding for quartz, chalcedony, and jasper specimens. No permit required, 25 lb daily limit applies.",
+  "description": "The Las Vegas lead area in Nye County sits on Nevada BLM public land, making it accessible for recreational rockhounding without permits or fees. This location capitalizes on Nevada's rich mineral deposits formed during extensive volcanic and hydrothermal activity in the Basin and Range province. The terrain surrounding the old lead mining district yields specimens of translucent quartz, colorful chalcedony nodules, and banded jasper in shades of red, yellow, and brown. Collectors typically hike washes and explore exposed hillsides where erosion has weathered specimens free from host rock, particularly after seasonal flooding exposes fresh material. The area remains popular with both novice and experienced rockhounds seeking quality specimens without the cost of fee-dig operations. Summer heat is intense, making spring and fall the optimal collecting seasons for comfort and safety.\n\nGeological conditions here reflect millions of years of silica-rich hydrothermal fluids depositing minerals through fractures and cavities in host rock. The former lead mineralization that named this area indicates deeper porphyry-style deposits, though surface collecting focuses on secondary quartz and chalcedony formed closer to ancient weathering surfaces. Seasonal washes are your best bet for finding loose, thumb-sized to fist-sized specimens that have naturally tumbled free from the surrounding matrix.",
+  "history": "This area sits within the Basin and Range province where Miocene-era volcanic and hydrothermal activity created extensive quartz and chalcedony deposits. Historic lead mining operations in this district during the late 1800s and early 1900s confirmed rich mineral potential, leaving behind exposed geological structures that now yield surface specimens for modern rockhounders.",
+  "tips": "Focus your search in dry washes and arroyos where seasonal flooding has naturally exposed and concentrated loose specimens. Look for translucent to opaque quartz pieces with milky white or faint color, and scan hillsides for banded chalcedony showing reds, yellows, and browns. Bring a small hand pick or rock hammer to free specimens from lighter host material, and a 5-gallon bucket or rock bag to manage your 25 lb daily limit efficiently. Early morning or late afternoon collecting avoids peak heat and provides better light for spotting gem-quality material.",
+  "terrain_notes": "High desert terrain with sparse creosote and yucca vegetation. Elevation approximately 2,000-2,500 feet. Washes and exposed hillsides feature mixed sand, gravel, and scattered rock outcrops. Footing is uneven with loose rock common; sturdy hiking boots essential. Walking distances from parking vary 0.5 to 2+ miles depending on wash access and specimen density.",
+  "best_season": "October - April. Winter temperatures in southern Nevada remain mild, typically 45-65 degrees Fahrenheit during day. Summer heat exceeds 100 degrees Fahrenheit regularly, making midday collecting dangerous and unpleasant. Spring and fall offer ideal conditions with warm days and cool mornings.",
+  "written_directions": "From downtown Las Vegas, take US 95 north approximately 35 miles toward Beatty. Watch for BLM access roads heading northeast toward the old lead district near Sarcobatus Flat. Consult detailed BLM Tonopah Field Office maps or contact the office directly for specific access points and current road conditions, as desert roads can shift seasonally. Passenger vehicles can access some lower-elevation collecting areas, but high-clearance or 4x4 vehicles are recommended for exploring upper washes and remote hillside sites.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM roads with variable conditions. Some access roads are maintained dirt/gravel suitable for passenger cars after dry weather. Upper washes and remote areas require high-clearance or 4x4 vehicles, especially after rain. Washboard texture common on main access roads.",
+  "parking_notes": "Informal pullouts and parking areas along BLM roads near identified collecting zones. No developed parking facilities. Space available for 2-5 vehicles at most locations. No fees or time restrictions.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. No collecting on surrounding private land without permission. Pack out all waste and unused material.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs per day maximum\nNo commercial collection\nNo motorized excavation\nNo trespassing on private land\nLeave no trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "loose_rock",
+    "sharp_material",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Beatty, Nevada approximately 35 miles north on US 95. Gas, food, water, and lodging available. Las Vegas city services 35 miles south.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing and loose aggregate. No wheelchair accessibility. Steep hillsides present in some areas. Flash flood risk in narrow washes during rare heavy rain. Requires sturdy hiking boots and moderate fitness level for extended collecting. Day trips recommended due to remote location and limited services.",
+  "alternative_names": [
+    "Sarcobatus Flat lead area",
+    "Tonopah BLM lead district"
+  ],
+  "nearest_city": "Las Vegas",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/las-vegas-lead-area-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/las-vegas-lead-area-nv/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Las Vegas in the lead area?",
+      "answer": "The Las Vegas lead area BLM site yields quartz, chalcedony, jasper, and calcite specimens. Most finds are thumb to fist-sized milky white quartz pieces and banded chalcedony in reds, yellows, and browns. Specimens are loose or partially weathered from host rock, making collection straightforward for beginners."
+    },
+    {
+      "question": "Do I need a permit to rockhound the Las Vegas lead area on BLM land?",
+      "answer": "No permit is required for recreational rockhounding on this Nevada BLM public land. You need only follow the 25 lb daily limit and personal use rules under FLPMA. Contact the Tonopah Field Office for current access information and any temporary restrictions."
+    },
+    {
+      "question": "How far is the Las Vegas lead area from town and what season is best for collecting?",
+      "answer": "The site is approximately 35 miles north of Las Vegas via US 95. October through April is ideal, with mild daytime temperatures of 45-65 degrees Fahrenheit. Summer heat exceeds 100 degrees Fahrenheit and makes safe collecting impossible during peak hours."
+    },
+    {
+      "question": "What tools and vehicles do I need for rockhounding the Las Vegas lead area?",
+      "answer": "A high-clearance or 4x4 vehicle is recommended for accessing remote washes, though some lower areas may be reachable with passenger cars. Bring a hand pick or rock hammer, 5-gallon bucket or rock bag, sturdy hiking boots, sunscreen, and plenty of water. GPS or detailed BLM maps are essential due to remote location."
+    },
+    {
+      "question": "Is the Las Vegas lead area beginner-friendly and suitable for families with kids?",
+      "answer": "Yes, this BLM site is beginner-friendly with accessible collecting in washes near parking areas. Kids ages 8 and up can safely participate with adult supervision. Loose specimens require minimal extraction effort, making finds rewarding even for first-time rockhounders."
+    },
+    {
+      "question": "How do I find the best rockhounding spots in the Las Vegas lead area?",
+      "answer": "Focus on dry washes and arroyos where seasonal flooding concentrates loose specimens. Scan hillside outcrops for banded chalcedony and translucent quartz. Early morning or late afternoon provides best light and coolest temperatures. Consult BLM Tonopah Field Office maps to identify productive access points and current road conditions."
+    }
+  ],
+  "meta_title": "Las Vegas Lead Area Rockhounding - Nevada",
+  "meta_description": "Free BLM rockhounding for quartz, chalcedony, and jasper near Las Vegas. No permit required. 25 lb daily limit. October-April best season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (limited USGS terrain data provided)",
+    "parking_notes (BLM sites have informal parking)",
+    "road_conditions (subject to seasonal variation)"
+  ],
+  "enriched_at": "2026-04-22T06:44:50.552Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:33.757Z"
+}

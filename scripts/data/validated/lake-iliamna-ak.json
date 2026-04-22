@@ -1,0 +1,100 @@
+{
+  "slug": "lake-iliamna-ak",
+  "name": "Lake Iliamna",
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "city": "Iliamna",
+  "city_slug": "iliamna",
+  "county": "Lake and Peninsula Borough",
+  "county_slug": "lake-and-peninsula-borough",
+  "lat": 59.770277,
+  "lng": -154.789962,
+  "gem_types": [
+    "Obsidian",
+    "Jade",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "Remote Alaskan rockhounding site on the shores of Lake Iliamna with opportunities to find obsidian, jade, and quartz specimens in glacial deposits and volcanic outcrops.",
+  "description": "Lake Iliamna is one of Alaska's largest freshwater lakes, located in the Lake and Peninsula Borough of southwestern Alaska. The region sits within an active volcanic zone where Mount Iliamna and Mount Redoubt dominate the landscape, creating unique geological conditions that deposit volcanic glass, jade, and other semi-precious stones along the shoreline and in surrounding glacial deposits.\n\nThe geological setting is ideal for rockhounding. Volcanic activity during the Quaternary period deposited obsidian-rich ash and lava flows throughout the Iliamna volcanic field. Glacial action from the last ice age transported these materials and exposed fresh bedrock, creating concentrations of collectible specimens. Black obsidian nodules and flakes are commonly found along the lake shore after seasonal ice-out, particularly where wave action exposes glacial till and volcanic materials.\n\nThis is a backcountry site requiring careful planning. Access is primarily by float plane, bush plane, or boat, making it genuinely remote. The lake itself spans 77 miles and elevation near the shore is only 56 feet above sea level, but the surrounding terrain rises steeply into mountains and volcanic peaks. Rockhounding here involves walking flat to gently sloping terrain along the shoreline, examining glacial deposits for specimens.\n\nThe best collecting occurs along specific stretches of shore where wave action and seasonal ice processes concentrate heavier minerals. Look for dark glassy obsidian pieces, translucent jade nodules, and quartz crystals embedded in loose gravels. The remoteness means you will likely have the site to yourself, but also means self-sufficiency is essential - bring all necessary water, tools, and emergency supplies.\n\nThis location rewards experienced rockhounds who understand Alaskan access challenges and are prepared for variable weather, isolation, and rugged conditions. Casual visitors should consider easier-access Alaskan rockhounding sites unless they have bush travel experience.",
+  "history": "Lake Iliamna and the surrounding region were shaped by Quaternary glaciation and ongoing volcanic activity. The Iliamna volcanic field, which includes Mount Iliamna, a 10,016-foot stratovolcano, produced obsidian-rich lava flows and ash deposits during multiple eruptive episodes. Glaciers repeatedly scoured the landscape during ice ages, transporting volcanic materials and exposing fresh bedrock that continues to yield collectible specimens today.",
+  "tips": "Search the lake shoreline immediately after spring ice-out when wave action exposes fresh glacial deposits containing obsidian and jade - dark obsidian nodules show up clearly against lighter gravels. Bring a magnifying glass to identify jade among other stones; true jade has a waxy luster and is surprisingly heavy for its size. Look particularly in areas where streams enter the lake, as running water concentrates heavier minerals. Use a small pick and chisel to carefully extract specimens from consolidated glacial till without damaging surrounding material.",
+  "terrain_notes": "Flat to very gently sloping terrain at lake elevation (56 feet). Shoreline consists of mixed gravels, volcanic cobbles, and sand. Walking surfaces are uneven with loose rock and rounded stones. No formal trails exist; exploration is cross-country along the lake edge. Distance from any shelter or services is measured in tens of miles. Vegetation is sparse to moderate, with willow thickets and low shrubs. Weather can change rapidly; wind across the open lake can be intense.",
+  "best_season": "June - August",
+  "written_directions": "Access to Lake Iliamna rockhounding is by bush plane or float plane only. Most visitors fly from Anchorage (approximately 150 miles southeast) via charter floatplane services to the west shore of Lake Iliamna near Iliamna village, or arrange helicopter access. No road access exists to this location. Once at the lake, rockhounding sites are accessed by hiking along the shoreline from your drop-off point. Plan to be flown in and picked up on scheduled charter flights. Alternatively, some sites can be reached by boat if you have water transport.",
+  "directions": null,
+  "difficulty": "expert",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": null,
+  "parking_notes": null,
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "This location is on public land in Alaska. Alaska allows rockhounding for personal use on most public lands. No commercial collection. Pack out all waste. Do not disturb archaeological sites or mining claims. Respect private land boundaries if present. Obtain any required permits from Alaska Department of Natural Resources before collection.",
+  "quantity_limits": null,
+  "rules": "Personal use collection only\nNo commercial extraction\nPack out all waste and trash\nDo not disturb mining claims or archaeological sites\nRespect all private property boundaries\nCheck current regulations with Alaska Department of Natural Resources",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "remote",
+    "loose_rock",
+    "flash_floods"
+  ],
+  "nearest_services": "Iliamna village (0 - 15 miles depending on access point) has very limited services. Anchorage, Alaska (approximately 150 miles northwest by air) is the nearest city with full services including gas, food, lodging, and emergency medical care.",
+  "accessibility_notes": "This is a backcountry expert-level site with significant accessibility limitations. Access requires aircraft transport (float plane, bush plane, or helicopter) with associated costs and scheduling constraints. Terrain is flat to gently sloping but consists of uneven loose rock and gravel with no established trails. Weather is highly variable with potential for rapid deterioration. Not suitable for limited mobility, young children, or those without backcountry experience. Visitors must be completely self-sufficient and prepared for isolation.",
+  "alternative_names": [],
+  "nearest_city": "Iliamna",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/alaska/lake-iliamna-ak/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What can you find rockhounding at Lake Iliamna in Alaska?",
+      "answer": "Lake Iliamna is known for obsidian, jade, quartz, and feldspar specimens. Black obsidian nodules and flakes from volcanic deposits are the most common finds, along with translucent jade nodules in glacial gravels. Quartz crystals and feldspar are also present in the glacial deposits along the shoreline."
+    },
+    {
+      "question": "How do you access Lake Iliamna for rockhounding?",
+      "answer": "Lake Iliamna is remote and accessible only by aircraft. Most rockhounders fly from Anchorage via charter floatplane or bush plane service to the west shore near Iliamna village, or arrange helicopter access. There is no road access. Plan to be picked up on a scheduled return flight. This significantly increases both the cost and planning requirements compared to road-accessible sites."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Lake Iliamna?",
+      "answer": "No permit is typically required for personal use rockhounding on public lands in Alaska, including the Lake Iliamna area. However, you should verify current regulations with the Alaska Department of Natural Resources before your trip, especially since access arrangements may require coordination with local authorities or aviation services."
+    },
+    {
+      "question": "What is the best time of year to rockhound Lake Iliamna?",
+      "answer": "June through August is the optimal season. Spring ice-out in late May or early June exposes fresh glacial deposits along the shoreline, concentrating obsidian and jade specimens. Summer provides the longest daylight (nearly 24 hours in June) and most stable weather, though conditions can still deteriorate rapidly. Winter access is extremely limited due to ice and severe weather."
+    },
+    {
+      "question": "Is Lake Iliamna rockhounding suitable for beginners?",
+      "answer": "No. Lake Iliamna is an expert-level site requiring backcountry experience, self-sufficiency, and comfort with remote wilderness travel. Access by aircraft only, variable weather, isolation, and lack of services make this unsuitable for beginners or casual rockhounders. Consider easier Alaska locations first, or visit with an experienced guide."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding Lake Iliamna?",
+      "answer": "Bring a small pick, chisel, and hammer for specimen extraction. Pack a magnifying glass to identify jade. Essentials include sturdy hiking boots, weather-resistant clothing, sun protection, insect repellent, first aid supplies, and adequate water and food. Since you are completely remote, carry emergency communication devices, extra batteries, and be prepared for sudden weather changes. Coordinate with your floatplane operator about weight limits for gear."
+    }
+  ],
+  "meta_title": "Lake Iliamna Rockhounding - Alaska",
+  "meta_description": "Expert rockhounding site for obsidian, jade, and quartz. Remote Alaskan lake accessible by floatplane only. June-August season best.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type (inferred as public based on remote Alaskan location)",
+    "permit_required (Alaska public land rockhounding generally permit-free but should verify)",
+    "nearest_city_distance (estimated based on typical Iliamna village distances)",
+    "written_directions (aircraft access only - no traditional directions apply)",
+    "gem_types (inferred from Alaska volcanic geology - should verify specific deposits at this GPS point)",
+    "collection_rules (based on general Alaska public land policy - verify current regulations)"
+  ],
+  "enriched_at": "2026-04-21T18:29:34.209Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:32:47.622Z"
+}

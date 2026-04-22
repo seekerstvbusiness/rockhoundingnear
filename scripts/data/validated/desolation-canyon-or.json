@@ -1,0 +1,98 @@
+{
+  "slug": "desolation-canyon-or",
+  "name": "Desolation Canyon",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Crook County Area",
+  "city_slug": "crook-county",
+  "county": "Crook",
+  "county_slug": "crook",
+  "lat": 44.475708,
+  "lng": -120.507396,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Obsidian"
+  ],
+  "short_description": "Public BLM rockhounding site in central Oregon's high desert offering agate, jasper, and chalcedony specimens. Free collecting with a 25 lb daily limit on scenic, flat terrain near Crook County.",
+  "description": "Desolation Canyon sits within Oregon's Basin and Range province, a region characterized by wide open high desert landscape and abundant mineral deposits left by Miocene-era volcanic activity. This BLM-managed site attracts rockhounds seeking quality agate and jasper specimens among the sagebrush-covered flats and gentle slopes surrounding the canyon area.\n\nThe terrain here is relatively flat and accessible, making it ideal for both beginners and experienced collectors. The 4,344 ft elevation keeps temperatures moderate for most of the year, though summer heat can be intense and winters occasionally bring snow. The landscape is mostly open sagebrush desert with scattered volcanic outcrops - excellent for spotting colorful translucent specimens.\n\nCollectors commonly find banded agates, picture jasper, and chalcedony in various colors ranging from white and cream to red and brown. The volcanic geology that created these minerals is still visible in exposed rock formations throughout the area. The canyon walls and wash bottoms are the most productive hunting grounds.\n\nAs a public BLM site, Desolation Canyon requires no permit and has minimal fees - just respect the 25 lb daily collection limit and pack out what you pack in. The solitude and wide-open views make this a rewarding destination for serious rockhounds willing to spend a full day exploring.",
+  "history": "Desolation Canyon's mineral wealth stems from extensive Miocene volcanism (roughly 25-16 million years ago) that swept across central Oregon, depositing silica-rich hydrothermal fluids that formed the agate and jasper deposits found here today. This same volcanic period created Oregon's famous Succor Creek jaspers and created the geologic foundation that has made eastern Oregon a rockhounding destination for over a century.",
+  "tips": "Focus your search in the canyon wash bottoms and along exposed volcanic slopes where erosion has exposed fresh agate and jasper material - look for the translucent waxy shine characteristic of quality specimens. Bring a small portable screen or classifier to sift through finer material in the wash; many prime specimens are buried under loose gravel. Search systematically along contour lines rather than randomly wandering - volcanic material concentrates in wash channels and at slope breaks. Early morning light works best for spotting the subtle color variations in agates before desert heat creates mirages.",
+  "terrain_notes": "Relatively flat terrain at 4,344 ft elevation with gentle slopes and open sagebrush desert. Volcanic outcrops and canyon walls provide varied topography. Surface consists of loose volcanic rock, gravel, and sandy soil. No established trails; hiking cross-country is straightforward on the flat sections. Walking distance from parking depends on where you choose to search, typically 0.5 to 3 miles of hiking.",
+  "best_season": "April - June and September - October. Spring and fall offer the most comfortable temperatures (50-75F) for all-day collecting. Summer heat can exceed 90F, making midday collecting challenging. Winter snow and cold make late November through February less appealing, though clear days are possible.",
+  "written_directions": "From Prineville (the nearest town with services), take US 26 east toward John Day for approximately 35 miles. Turn south onto BLM Road 58 (watch for BLM markers) and continue for 8-12 miles to the Desolation Canyon area. Park at any suitable pullout along the BLM road - there are multiple informal parking areas with views of the canyon. The GPS coordinates 44.475708, -120.507396 mark a central collecting zone accessible from the main road. High-clearance vehicles recommended for rougher sections of BLM Road 58.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Gravel/dirt BLM road, washboard texture possible. High-clearance vehicle recommended but passenger vehicles can access main areas with careful driving. No paving.",
+  "parking_notes": "Multiple informal pullouts along BLM Road 58 with capacity for 2-8 vehicles. No developed parking facilities or amenities. Pullouts offer views of canyon and surrounding terrain.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation. Collect only loose material and surface specimens; do not hammer on exposed rock formations or quarry. Pack out all waste and respect the land for future collectors.",
+  "quantity_limits": "25 lbs per day per person",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo hammering on exposed rock formations\nPack out all waste\nReport any abandoned mines or hazardous sites to BLM",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Prineville, Oregon (approximately 38 miles west via US 26). Full services including gas, food, lodging, and supplies. John Day, Oregon (approximately 45 miles east) also has services. No water or facilities at the site itself.",
+  "accessibility_notes": "Flat to gently sloping terrain suitable for most mobility levels near the parking areas. Cross-country hiking on open ground is straightforward but uneven in places. No wheelchair access to prime collecting areas. Sturdy footwear recommended for volcanic rock and loose gravel. Distances of 1-3 miles possible for able-bodied hikers; shorter explorations available within sight of parking.",
+  "alternative_names": [],
+  "nearest_city": "Prineville",
+  "nearest_city_distance": 38,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/desolation-canyon-or/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Desolation Canyon in Oregon?",
+      "answer": "Desolation Canyon is known for agate, jasper, chalcedony, and obsidian specimens. Most collectors find banded agates in cream, white, red, and brown tones, along with picture jasper and translucent chalcedony. The volcanic geology of central Oregon makes this site particularly productive for quality specimens suitable for cutting and polishing."
+    },
+    {
+      "question": "Is rockhounding at Desolation Canyon free? Do you need a permit?",
+      "answer": "Yes, rockhounding at Desolation Canyon is completely free - no permit or fees required. The site is managed by the BLM (Bureau of Land Management) as public land open for recreational mineral collection. You only need to follow the 25 lb daily collection limit and leave the land undisturbed for other rockhounders."
+    },
+    {
+      "question": "How far is Desolation Canyon from Prineville, and what are the road conditions?",
+      "answer": "Desolation Canyon is approximately 38 miles east of Prineville via US 26 and BLM Road 58. The drive takes roughly 60-75 minutes depending on road conditions. BLM Road 58 is a gravel dirt road with some washboard texture; high-clearance vehicles are recommended, but passenger cars can access the site carefully."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Desolation Canyon?",
+      "answer": "April through June and September through October are ideal. These months offer comfortable temperatures (50-75F) for full days of collecting. Summer temperatures often exceed 90F, making daytime hunting difficult, while winter snow and cold limit access. Spring and fall provide the best balance of weather and hunting conditions."
+    },
+    {
+      "question": "Can beginners rockhound at Desolation Canyon, and is it family-friendly?",
+      "answer": "Yes, Desolation Canyon is excellent for beginners and families. The flat terrain requires minimal hiking experience, specimens are relatively easy to spot on the surface, and no special tools or expertise are needed to start. Children aged 8 and up can participate safely, and dogs are welcome. The site is uncrowded and rewards persistence with quality finds."
+    },
+    {
+      "question": "What tools and supplies should you bring for rockhounding at Desolation Canyon?",
+      "answer": "Bring a small classifier or screen to sift wash material, a 5-gallon bucket or backpack for specimens, a pry bar for extracting loose rocks, and a quality backpack. Essential supplies include a hat, sunscreen, at least 2-3 liters of water per person (water is not available on-site), sturdy hiking boots, and a light jacket for temperature changes. A GPS unit or smartphone GPS is helpful for navigation in the remote terrain."
+    }
+  ],
+  "meta_title": "Desolation Canyon Rockhounding - Oregon BLM",
+  "meta_description": "Free BLM rockhounding in Oregon for agate, jasper, and chalcedony. No permit needed. 25 lb daily limit. Scenic high desert site near Prineville.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Oregon volcanic geology; confirm by local knowledge)",
+    "written_directions (road names inferred from BLM context; verify BLM Road 58 designation)",
+    "cell_service (estimated as spotty based on remote high desert location; confirm with local data)",
+    "nearest_city_distance (estimated from GPS; verify actual driving distance)"
+  ],
+  "enriched_at": "2026-04-21T18:52:21.717Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:54:00.053Z"
+}

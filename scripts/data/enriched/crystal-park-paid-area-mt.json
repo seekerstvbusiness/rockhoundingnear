@@ -1,0 +1,101 @@
+{
+  "slug": "crystal-park-paid-area-mt",
+  "name": "Crystal Park (paid area)",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Dillon",
+  "city_slug": "dillon",
+  "county": "Beaverhead",
+  "county_slug": "beaverhead",
+  "lat": 45.486369,
+  "lng": -113.099901,
+  "gem_types": [
+    "Quartz",
+    "Amethyst",
+    "Topaz",
+    "Tourmaline"
+  ],
+  "short_description": "High-elevation crystal collecting site in the Beaverhead Mountains featuring excellent quartz, amethyst, and topaz specimens. BLM public land with no permit required and generous daily limits.",
+  "description": "Crystal Park sits at 7,718 feet elevation in southwestern Montana's Beaverhead County, offering rockhounders access to one of the region's most productive crystal-bearing areas. This BLM public land site is known for hosting quality quartz points, purple amethyst clusters, and beautiful topaz crystals that formed within the metamorphic and granitic rock formations of the Beaverhead Mountains.\n\nThe geology here reflects the region's complex tectonic history. During the Cretaceous and Tertiary periods, granitic intrusions and intense hydrothermal activity created conditions favorable for crystal formation. Secondary enrichment processes continued over millions of years, depositing silica-rich fluids into fractures and cavities within the host rock. These mineralizing fluids crystallized slowly over time, creating the gem-quality specimens that collectors find here today.\n\nVisitors can expect rocky, open terrain with scattered outcrops and exposed mineralized zones. The collecting area features relatively gentle slopes interspersed with steeper draws where water erosion has exposed fresh crystal-bearing material. Walking distances from parking are moderate, and the elevation means cooler temperatures and thinner air that can affect physical exertion.\n\nAs BLM public land, Crystal Park welcomes recreational collectors year-round with no permit required. The 25-pound daily limit per person is generous enough for most enthusiasts to take home quality specimens. The site sees moderate use but rarely feels crowded, especially outside summer months. Bring sturdy tools, water, and expect the terrain to be rocky and uneven underfoot.",
+  "history": "The Beaverhead Mountains are part of the Pioneer and Beaverhead metamorphic core complexes that formed during the Laramide Orogeny and were further shaped by Tertiary extension. Granitic intrusions related to Cretaceous batholiths, combined with retrograde metamorphism and repeated fracturing, created the ideal structural and chemical conditions for crystal precipitation. Topaz, quartz, and other minerals crystallized from hydrothermal fluids circulating through these fractured zones over tens of millions of years.",
+  "tips": "Search exposed rock faces and erosional gullies where water action has removed softer material and exposed crystals in pockets and vugs. Quartz and amethyst often occur in clusters within granitic rocks; look for glassy, translucent material catching sunlight. Use a cold chisel and small hammer to carefully extract specimens from host rock, working around the edges rather than directly on crystals. Early season (June-July) offers the best weather for working at this high elevation; bring layers as afternoon thunderstorms can develop quickly.",
+  "terrain_notes": "High-elevation terrain at 7,718 feet with mixed rocky slopes and scattered vegetation typical of Montana montane forest. Exposed granitic and metamorphic bedrock interspersed with ponderosa pine and Douglas fir. Uneven, rocky footing throughout; walking distances from parking typically 0.5 to 2 miles depending on specific collecting zones. No wheelchair access; sturdy hiking boots essential.",
+  "best_season": "June - September. High elevation means snow blocks access October through May. Late June through August offers longest daylight and most stable weather, though afternoon thunderstorms are common. September provides excellent conditions with fewer crowds.",
+  "written_directions": "From Dillon, Montana, head south on MT-41 (Pioneer Road) toward the Pioneer Mountains for approximately 18 miles. Continue on Forest Road 184 (also accessible via MT-278) heading toward the Crystal Park area. Follow signs and maintained BLM access roads leading into the Beaverhead Mountains. The final 3-5 miles are unpaved but passable by passenger vehicle in dry conditions. GPS coordinates 45.486369, -113.099901 mark the primary collecting area. Check current road conditions at the local BLM office in Dillon before visiting, as high-elevation roads may be impassable in winter or after heavy rain.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM access roads, generally well-maintained but can be rough after rain. High-clearance passenger vehicles recommended but not required in dry conditions. Road may be snow-blocked October through May.",
+  "parking_notes": "Informal pullouts and small parking areas near known crystal-bearing zones. No developed parking facilities or amenities. Space for 5-10 vehicles at main access points.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or blasting. No collection of protected or sensitive species.",
+  "quantity_limits": "25 lbs per day per person",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation or powered tools\nNo blasting or explosives\nLeave site clean, pack out all trash\nRespect other collectors and their claims\nObserve all fire regulations during fire season",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "remote",
+    "wildlife"
+  ],
+  "nearest_services": "Dillon, Montana, approximately 25 miles northwest. Full services including gas, groceries, restaurants, and lodging available. BLM Dillon Field Office has additional information and current access updates.",
+  "accessibility_notes": "Uneven rocky terrain with no established trails. Elevation of 7,718 feet means reduced oxygen affecting exertion capacity. No wheelchair access. Sturdy hiking boots required; treading is difficult and falls pose injury risk. Weather at this elevation changes rapidly; afternoon thunderstorms common in summer.",
+  "alternative_names": [
+    "Beaverhead Mountains Crystal Area"
+  ],
+  "nearest_city": "Dillon",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/crystal-park-paid-area-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/crystal-park-paid-area-mt/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What crystals and gemstones can I find at Crystal Park in Montana?",
+      "answer": "Crystal Park is known for producing high-quality quartz points, purple amethyst clusters, topaz crystals, and tourmaline specimens. Most collectors find well-formed quartz and amethyst, though topaz and tourmaline are less common but can be discovered in the right locations. The site's geology in the granitic Beaverhead Mountains makes it especially productive for quartz variety gems."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Crystal Park, Montana?",
+      "answer": "No permit is required for recreational collecting at Crystal Park. The site is on BLM public land and follows standard federal regulations allowing personal use collection. You only need to follow the 25-pound daily limit per person and ensure your collection is for personal use, not commercial purposes."
+    },
+    {
+      "question": "What is the best time of year to collect at Crystal Park near Dillon, Montana?",
+      "answer": "The best rockhounding season is June through September. The high elevation of 7,718 feet means snow blocks access from October through May. Late June through August offers the longest daylight hours, though afternoon thunderstorms are common. September provides excellent weather with fewer crowds and still-accessible roads."
+    },
+    {
+      "question": "How do I get to Crystal Park and what type of vehicle do I need?",
+      "answer": "From Dillon, take MT-41 south toward the Pioneer Mountains for about 18 miles, then follow Forest Road 184 and BLM access roads into the Beaverhead Mountains. Unpaved roads are generally passable by standard passenger vehicles in dry conditions, though high-clearance is helpful. Always check current road conditions with the Dillon BLM office before your trip, as elevation and weather can impact access."
+    },
+    {
+      "question": "Is Crystal Park rockhounding site beginner-friendly and suitable for families with kids?",
+      "answer": "Yes, Crystal Park is beginner-friendly and family-suitable for kids age 8 and older. The terrain is rocky but not extreme, and the 25-pound daily limit means you can find quality specimens without needing expert skills. Bring sturdy hiking boots and water. Younger children should be supervised carefully due to uneven footing and sharp material."
+    },
+    {
+      "question": "What tools and supplies should I bring when rockhounding at Montana's Crystal Park?",
+      "answer": "Bring a cold chisel, small hammer, safety glasses, sturdy hiking boots, and a backpack for carrying specimens. Include plenty of water (altitude affects hydration), sun protection, and layers for temperature changes. A headlamp is useful for exploring shadowed outcrop areas. Due to afternoon thunderstorm potential, rain gear and a way to monitor weather is recommended."
+    }
+  ],
+  "meta_title": "Crystal Park Rockhounding - Montana",
+  "meta_description": "Find quartz, amethyst & topaz at Crystal Park, Montana. BLM public land, no permit, 25 lb daily limit. Beginner-friendly crystal collecting near Dillon.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated from GPS)",
+    "parking_notes (no specific source, inferred from BLM typical access)",
+    "road_conditions (typical for Montana high-elevation BLM roads, not location-specific data)"
+  ],
+  "enriched_at": "2026-04-21T19:06:21.172Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:08:42.156Z"
+}

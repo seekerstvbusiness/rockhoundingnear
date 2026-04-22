@@ -1,0 +1,60 @@
+{
+  "slug": "crowley-quarry-nd",
+  "name": "Crowley Quarry",
+  "lat": 47.334769,
+  "lng": -101.807665,
+  "state": "North Dakota",
+  "state_slug": "north-dakota",
+  "state_code": "ND",
+  "city": "Mercer County",
+  "city_slug": "mercer-county",
+  "county": "Mercer",
+  "county_slug": "mercer",
+  "geocoded_city": "Mercer County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Crowley%20Quarry%20North%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Crowley%20Quarry",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Crowley%20Quarry%20North%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1963,
+      "meters": 598
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:36:54.222Z"
+  },
+  "scraped_at": "2026-04-21T16:36:54.222Z",
+  "scrape_quality": "minimal"
+}

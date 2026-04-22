@@ -1,0 +1,60 @@
+{
+  "slug": "h-d-house-ranch-area-tx",
+  "name": "H.D. House Ranch area",
+  "lat": 28.466485,
+  "lng": -98.225844,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Live Oak County",
+  "city_slug": "live-oak-county",
+  "county": "Live Oak",
+  "county_slug": "live-oak",
+  "geocoded_city": "Live Oak County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=H.D.%20House%20Ranch%20area%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=H.D.%20House%20Ranch%20area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=H.D.%20House%20Ranch%20area%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 196,
+      "meters": 60
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:49:09.543Z"
+  },
+  "scraped_at": "2026-04-21T18:49:09.543Z",
+  "scrape_quality": "minimal"
+}

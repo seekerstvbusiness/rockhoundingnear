@@ -1,0 +1,71 @@
+{
+  "slug": "meyer-s-chapel-general-area-nc",
+  "name": "Meyer’s Chapel & General Area",
+  "lat": 35.001571,
+  "lng": -83.806636,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Clay County",
+  "city_slug": "clay-county",
+  "county": "Clay",
+  "county_slug": "clay",
+  "geocoded_city": "Clay County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Meyer%E2%80%99s%20Chapel%20%26%20General%20Area%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Meyer%E2%80%99s%20Chapel%20%26%20General%20Area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Meyer%E2%80%99s%20Chapel%20%26%20General%20Area%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1941,
+      "meters": 592
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Hiwassee River",
+        "type": "river",
+        "dist": 2.5
+      },
+      {
+        "name": "Keys Branch",
+        "type": "stream",
+        "dist": 3.3
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:38:36.720Z"
+  },
+  "scraped_at": "2026-04-21T19:38:36.720Z",
+  "scrape_quality": "minimal"
+}

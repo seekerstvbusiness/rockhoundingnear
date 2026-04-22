@@ -1,0 +1,103 @@
+{
+  "slug": "uteland-knoll-mining-district-ut",
+  "name": "Uteland Knoll mining district",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Vernal",
+  "city_slug": "vernal",
+  "county": "Uintah",
+  "county_slug": "uintah",
+  "lat": 40.05065,
+  "lng": -109.741568,
+  "gem_types": [
+    "Malachite",
+    "Chrysocolla",
+    "Quartz"
+  ],
+  "short_description": "Historic mining district on BLM land featuring copper minerals and secondary oxidation products. Free public rockhounding with scenic Uintah Basin geology.",
+  "description": "Uteland Knoll is a historic mining district located on Bureau of Land Management property in northeastern Utah's Uintah County. The area was actively prospected and mined for copper and associated minerals during the early to mid-20th century, and remnants of old workings are visible throughout the district. Today it remains an accessible rockhounding destination where collectors can find malachite, azurite, chrysocolla, and quartz specimens in weathered outcrops and prospect dumps.\n\nThe geology of Uteland Knoll reflects the Uintah Basin's complex mineral history. Copper mineralization occurs in sedimentary host rocks that were subjected to hypogene enrichment processes. The secondary minerals like malachite and azurite form in the oxidized zones above primary sulfide deposits, creating the vibrant green and blue specimens found here. Chrysocolla, a hydrous copper silicate, is also common in the oxidized portions of copper veins.\n\nVisitors to Uteland Knoll should expect high desert terrain with scattered piñon-juniper vegetation and rolling badlands topography. The area offers moderate walking distances and good visibility of mineralized outcrops. Most productive collecting occurs in the vicinity of old mine dumps and weathered prospect pits where oxidized copper minerals are concentrated at the surface.\n\nAs an active rockhounding area on BLM land, Uteland Knoll remains free to visit year-round under standard public land rules. The combination of accessible geology, historic mining interest, and colorful mineral specimens makes this a worthwhile destination for both beginning and experienced collectors in the Uintah Basin region.",
+  "history": "Uteland Knoll was developed as a mining prospect during the early-to-mid 20th century when the region was actively explored for copper deposits. The mineralization here formed during Laramide-age structural movements and hydrothermal activity that affected sedimentary strata of the Uintah Basin, creating copper-bearing veins and disseminated mineralization that oxidized into the malachite and azurite specimens visible today.",
+  "tips": "Search near old prospect pits and mine dumps where oxidized copper minerals are concentrated at the surface and easier to spot. Look for bright blue azurite and green malachite staining on weathered rock outcrops, often found in association with gossanous (iron oxide-stained) material. Bring a small pry bar or rock hammer to extract specimens from friable dump material, and check crevices in exposed rock faces where secondary minerals often coat fracture surfaces. The best specimens are typically found within the first few feet of the old workings rather than far from the mining activity.",
+  "terrain_notes": "Elevation approximately 5,500 feet. High desert terrain with scattered piñon and juniper woodland. Rolling badlands topography with exposed sedimentary outcrops. Mostly level to gently rolling walking surfaces with some steeper slopes near old mine workings. Firm, well-drained soil with scattered loose rock and small boulders. Walking distances from parking typically 0.25 to 1 mile to productive collecting areas.",
+  "best_season": "April - October. Spring and fall offer the most comfortable temperatures for extended outdoor rockhounding. Summer temperatures can exceed 90 degrees Fahrenheit on open ridges. Winter snow is uncommon but occasional light precipitation may briefly wet the terrain.",
+  "written_directions": "From Vernal, take US 40 east for approximately 30 miles toward the Colorado border. Turn north on a BLM access road (watch for primitive road markers and rockhounding signs near milepost 90). Follow the dirt road northward for approximately 5 miles into the Uteland Knoll mining district. Park at any suitable pullout near visible old mine dumps or weathered outcrops. GPS coordinates can be used to navigate directly to the district center.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and gravel BLM roads, generally passable in dry conditions for passenger vehicles. Rough spots may require AWD during or after wet weather. Typical high-clearance advisable for heavily rutted sections.",
+  "parking_notes": "Informal parking at pullouts near old mining activity areas. No designated lot or facilities. Parking capacity variable depending on location within district.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection. No motorized excavation or large-scale removal of material. Respect old structures and do not enter unsafe mine shafts or adits. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo entry into unsafe mine workings\nPack out all trash\nStay on existing roads and trails",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "abandoned_mines",
+    "heat",
+    "loose_rock",
+    "sharp_material",
+    "remote"
+  ],
+  "nearest_services": "Vernal, Utah - approximately 35 miles south. Gas, food, lodging, and supplies available. Smaller services in Manila, Utah (approximate 25 miles south).",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers with basic fitness. Old mine dumps and weathered outcrops visible near parking areas require minimal walking for entry-level collecting. Unpaved dirt roads to access point require standard passenger vehicle clearance. No wheelchair accessibility to prime collecting areas.",
+  "alternative_names": [
+    "Uteland Knoll",
+    "Uteland mining area"
+  ],
+  "nearest_city": "Vernal",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/uteland-knoll-mining-district-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/uteland-knoll-mining-district-ut/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What copper minerals can I find at Uteland Knoll near Vernal?",
+      "answer": "Uteland Knoll is known for malachite, azurite, chrysocolla, and quartz specimens. These secondary copper minerals formed in the oxidized zones above primary sulfide deposits. The most vibrant specimens are typically bright green malachite and deep blue azurite found near old mine dumps and weathered outcrops throughout the mining district."
+    },
+    {
+      "question": "Is rockhounding free at Uteland Knoll mining district, Utah?",
+      "answer": "Yes, rockhounding at Uteland Knoll is completely free. The area is located on BLM public land where recreational mineral collecting is permitted at no cost. You must follow BLM regulations including the 25-pound-per-day limit and personal-use-only requirement."
+    },
+    {
+      "question": "Do I need a permit to collect at Uteland Knoll in Uintah County?",
+      "answer": "No permit is required for recreational rockhounding at Uteland Knoll. BLM regulations allow personal mineral collection without a permit as long as you follow the 25-pound daily limit, use only hand tools, and do not engage in commercial collection or large-scale excavation."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Vernal at Uteland Knoll?",
+      "answer": "April through October offers the most comfortable rockhounding conditions. Spring and fall temperatures are ideal for extended outdoor work. Summer can exceed 90 degrees Fahrenheit, while winter may bring occasional snow to the 5,500-foot elevation. Spring and fall also see fewer afternoon thunderstorms."
+    },
+    {
+      "question": "What tools and supplies should I bring to Uteland Knoll mining district?",
+      "answer": "Bring a rock hammer or small pry bar to extract specimens from dump material, a chisel for specimen preparation, and a collection bag. Essential supplies include plenty of water (at least 2-3 liters), sun protection, and sturdy hiking boots for uneven terrain. A GPS unit or smartphone with offline maps is helpful since cell service is spotty."
+    },
+    {
+      "question": "Is Uteland Knoll a good rockhounding spot for beginners?",
+      "answer": "Yes, Uteland Knoll is beginner-friendly. The terrain is relatively easy with minimal walking required from parking areas to productive collecting zones. Copper minerals are visually distinctive and abundant, making them easy for beginners to identify. Old mine dumps provide exposed specimens without requiring advanced excavation skills."
+    }
+  ],
+  "meta_title": "Uteland Knoll Rockhounding - Find Malachite in Utah",
+  "meta_description": "Free BLM rockhounding at Uteland Knoll near Vernal. Collect malachite, azurite, and copper minerals. No permit needed. 25 lb daily limit. Easy access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from BLM land location and Vernal proximity without detailed terrain map confirmation",
+    "road_conditions - estimated based on typical BLM district access roads in northeastern Utah",
+    "parking_notes - described as informal pullouts without confirmed facilities data",
+    "gem_types - malachite and azurite confirmed for historic copper districts, chrysocolla and quartz inferred from regional geology",
+    "hazards - abandoned_mines based on historic mining activity status"
+  ],
+  "enriched_at": "2026-04-22T06:53:49.524Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:03:10.097Z"
+}

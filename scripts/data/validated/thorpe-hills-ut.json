@@ -1,0 +1,101 @@
+{
+  "slug": "thorpe-hills-ut",
+  "name": "Thorpe Hills",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Utah County",
+  "city_slug": "utah-county",
+  "county": "Utah",
+  "county_slug": "utah",
+  "lat": 40.207277,
+  "lng": -112.153673,
+  "gem_types": [
+    "Jasper",
+    "Chalcedony",
+    "Agate",
+    "Chert"
+  ],
+  "short_description": "BLM public land near Provo offering accessible collecting of jasper, chalcedony, and agate specimens. No permit required, 25 lb daily limit.",
+  "description": "Thorpe Hills sits on Utah BLM land in central Utah County, providing rockhounders with free public access to collect semi-precious stones in a semi-arid landscape. This location is popular with beginner and intermediate collectors seeking colorful jasper and chalcedony specimens without the cost of fee dig sites. The rolling hills and exposed geological formations make it easy to spot collecting material across the terrain.\n\nThe area lies within Utah's Transition Zone geology, where Precambrian and Paleozoic rock formations meet Basin and Range province tectonics. Jasper and chalcedony deposits here formed during silica-rich hydrothermal activity in the Proterozoic, with secondary enrichment from weathering exposing specimens in hillside washes and cutbanks. The natural color variation in specimens ranges from red and orange to cream and brown tones.\n\nExpect moderate terrain with scattered outcropping and erosion channels that concentrate collectibles. Parking areas near the site allow quick access to productive ground. The site remains productive year-round but is most comfortable visited during cooler months. Bring sturdy footwear, sun protection, and water - the open terrain offers little shade.",
+  "history": "Thorpe Hills occupies terrain within Utah's historic Wasatch Mountains formation belt, where Proterozoic metasedimentary rocks and Paleozoic carbonate sequences were subjected to Basin and Range extension and uplift. Silica-rich fluids migrating through fractures during the Tertiary created jasper and chalcedony deposits that today weather out onto hillsides and wash beds, making surface collecting possible without excavation.",
+  "tips": "Search actively in hillside washes and small erosion gullies where specimens naturally concentrate after weathering. Look for colorful fragments and nodules ranging from thumbnail to fist size - check the ground around exposed bedrock outcrops for the best material. Bring a magnet to test material and a small geology hammer to test hardness; true chalcedony and jasper will not attract magnets. Early morning or late afternoon provides better lighting to spot the color contrast of specimens against surrounding rock.",
+  "terrain_notes": "Rolling semi-arid hills with sparse sagebrush and juniper. Elevation approximately 5,200 - 5,500 feet. Terrain slopes gently to moderately with exposed ridges and wash bottoms. Ground is firm and well-drained. Walking distance from parking typically 0.25 - 1 mile to productive areas. Footing is uneven with scattered loose rock and scattered stones underfoot.",
+  "best_season": "October - April. The high desert location experiences hot summers (90-100F+) with minimal shade, making spring and fall most comfortable. Winter snows are light but can close roads temporarily. Early spring (March - April) offers ideal conditions with cool mornings and wildflower displays.",
+  "written_directions": "From Provo, take US 189 north approximately 8 miles toward Deer Creek Reservoir. Watch for BLM access roads and signage directing toward Thorpe Hills collecting area. Turn east on the marked BLM access road (typically unimproved dirt, passable with standard vehicles in dry conditions) and proceed approximately 2 miles to dispersed parking pullouts. Do not block any gates or roads. Park in designated pullouts and hike into productive terrain on foot.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unimproved dirt BLM road, washboard texture, generally passable with passenger vehicles in dry weather. High clearance recommended after rain or snow. Not recommended for low-clearance vehicles during wet conditions.",
+  "parking_notes": "Dispersed BLM parking pullouts near site entrance. No formal lot. Capacity approximately 3-5 vehicles per pullout. No amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. BLM land regulations apply. Respect all marked claims and closures.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nRespect marked mining claims\nLeave the site cleaner than you found it\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Provo, approximately 10 miles south. Full services including gas, food, lodging, and water. Smaller services in Vivian Park, approximately 5 miles north.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Unimproved dirt road to parking area requires standard vehicle or high-clearance. Hiking distance from parking is typically 0.25 - 1 mile on open ground with uneven footing and scattered loose rocks. Sturdy footwear required. Limited wheelchair accessibility due to rough road and terrain.",
+  "alternative_names": [],
+  "nearest_city": "Provo",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/thorpe-hills-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/thorpe-hills-ut/mineral-1-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/thorpe-hills-ut/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Thorpe Hills near Provo, Utah?",
+      "answer": "Thorpe Hills is known for jasper, chalcedony, agate, and chert specimens. Jasper ranges from red and orange to cream and brown tones. Chalcedony forms both translucent and opaque nodules. Most specimens are found as loose pieces on hillsides or in erosion washes, ranging from thumbnail to fist size."
+    },
+    {
+      "question": "Is rockhounding at Thorpe Hills free, and do you need a permit?",
+      "answer": "Yes, rockhounding at Thorpe Hills is completely free. No permit is required. It is BLM public land open to personal use collecting under Federal Land Policy and Management Act (FLPMA) regulations. You are limited to 25 lbs per day."
+    },
+    {
+      "question": "What is the best time of year to collect at Thorpe Hills, Utah?",
+      "answer": "October through April is ideal. Summers are hot (90-100F+) with minimal shade. Spring (March - April) and fall (September - October) offer the most comfortable conditions with cool temperatures and good visibility for spotting specimens."
+    },
+    {
+      "question": "How far is Thorpe Hills rockhounding site from Provo, and how do you get there?",
+      "answer": "Thorpe Hills is approximately 10 miles north of Provo. Take US 189 north toward Deer Creek Reservoir for about 8 miles, then turn east on the marked BLM access road and proceed 2 miles to dispersed parking pullouts. A standard passenger vehicle works in dry conditions."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding at Thorpe Hills?",
+      "answer": "Bring sturdy hiking boots for uneven terrain, a small geology hammer to test hardness, a magnet to distinguish specimens, a collection bag, plenty of water, and sun protection (hat and sunscreen). The open terrain offers little shade. A hand lens is helpful for examining color and clarity."
+    },
+    {
+      "question": "Is Thorpe Hills rockhounding site beginner-friendly and good for families with kids?",
+      "answer": "Yes, Thorpe Hills is excellent for beginners and families. The terrain is relatively easy with minimal elevation gain. Specimens are often visible on the surface without digging. Children ages 6 and up can participate. The open landscape and light foot traffic make it safe and fun for learning rockhounding basics."
+    }
+  ],
+  "meta_title": "Thorpe Hills Rockhounding - Utah",
+  "meta_description": "Free BLM rockhounding near Provo. Collect jasper, chalcedony, and agate. No permit, 25 lb limit. Beginner-friendly, family-safe public land.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from typical Utah BLM geology)",
+    "written_directions (constructed from GPS, state knowledge, and BLM access patterns)",
+    "road_conditions (typical BLM road standards inferred)",
+    "nearest_services (based on proximity to Provo)",
+    "hazards (heat and sharp_material typical for semi-arid Utah; abandoned_mines excluded as no historical mining data)",
+    "remoteness_rating (estimated based on 10-mile proximity to Provo)"
+  ],
+  "enriched_at": "2026-04-22T06:54:06.409Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:03:22.531Z"
+}

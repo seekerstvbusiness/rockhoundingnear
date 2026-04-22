@@ -1,0 +1,101 @@
+{
+  "slug": "crane-mountain-or",
+  "name": "Crane Mountain",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Lake County Area",
+  "city_slug": "lake-county",
+  "county": "Lake",
+  "county_slug": "lake",
+  "lat": 42.06875,
+  "lng": -120.290141,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Obsidian",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding site in south-central Oregon with excellent agate and jasper collecting on moderate slopes. Free public access with simple daily limits.",
+  "description": "Crane Mountain is an accessible BLM rockhounding destination in Oregon's high desert region, offering quality agate, jasper, and obsidian specimens to collectors of all skill levels. The site sits within the Basin and Range province where Miocene-era volcanic activity and silica-rich hydrothermal fluids deposited nodules and vein material throughout the surrounding terrain. The moderate slopes and open sagebrush landscape make the area easy to navigate while still offering varied collecting opportunities across different elevations and exposures.\n\nThe geology here reflects Oregon's complex volcanic history. Rhyolitic flows and pyroclastic deposits from the Miocene period host the agate nodules and jasper that draw rockhounders to Crane Mountain. Weathering and erosion have exposed these minerals along washes and hillsides, creating ideal conditions for surface collecting. The volcanic origin of the material means you will often find pieces with glassy luster, banding, and the characteristic color variations that make Oregon agates highly prized.\n\nAccess is straightforward and free for personal use on BLM land. The moderate terrain requires no special equipment, though sturdy hiking boots are recommended for the uneven volcanic ground. Most collectors find productive material within a short walk of parking areas, and the open landscape allows you to spot translucent or colorful specimens from a distance.\n\nThe Lake County area experiences dry, sunny conditions most of the year, making fall through spring the ideal collecting season. Winter snowfall is possible at higher elevations but rare at the base of Crane Mountain. Bring plenty of water, sun protection, and a 5-gallon bucket to stay within the 25-pound daily limit while managing your finds.",
+  "history": "Crane Mountain sits within the Basin and Range physiographic province where Miocene volcanic activity, roughly 20-25 million years ago, created extensive rhyolite and pyroclastic deposits. Silica-rich hydrothermal fluids circulating through these volcanic rocks deposited agate, jasper, and chalcedony nodules that have been exposed by millions of years of erosion. This geological process, combined with the area's long history of prospecting and recreational rockhounding, has made the mountain a well-known collecting site for Oregon agate enthusiasts.",
+  "tips": "Search the washes and gullies cutting through the volcanic slopes where erosion naturally concentrates and exposes agate and jasper nodules. Look for the characteristic banded patterns and translucent edges of quality agates - they often appear as rounded, potato-shaped pieces partially buried in volcanic soil. Bring a backpack and 5-gallon bucket since the 25-pound daily limit accumulates quickly with good finds, and use a basic hammer and chisel to extract nodules from weathered outcrops rather than digging into solid rock. The moderate slope means systematic walking lines uphill and downhill will help you cover productive ground efficiently and spot material before others do.",
+  "terrain_notes": "Moderate volcanic slopes with scattered sagebrush and juniper, elevation approximately 4,800-5,200 feet. Terrain is uneven with loose volcanic rock, pumice, and cinder scattered across the surface. Expect a mix of open exposures and steeper ravines. Walking distances from parking vary but most productive areas are within 0.5 to 2 miles. Footing is rocky and requires attention to avoid twisting ankles on irregular ground.",
+  "best_season": "October - April",
+  "written_directions": "From Lakeview (the largest town in Lake County, approximately 35 miles south), take US 395 north toward the Crane Mountain area. Crane Mountain is accessed via BLM roads branching east from US 395 roughly 15-20 miles north of Lakeview. Follow signs or detailed local maps to BLM parking areas near the base of the mountain. High-clearance or 4WD vehicles are recommended during winter or after rain, as dirt roads can become rutted. Contact the Lakeview BLM office for current road conditions and specific access points.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt BLM roads, can be washboarded or rutted after rain. High-clearance recommended. Passable in dry conditions with standard vehicles.",
+  "parking_notes": "Informal pullouts and small parking areas near BLM road trailheads. No developed facilities. Space for 5-10 vehicles at most locations. Arrive early during peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collecting allowed on designated BLM land - verify boundaries on site or with Lakeview BLM office. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo digging or damaging landscapes\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Lakeview, Oregon, approximately 35 miles south. Full services including gas, food, lodging, and supply stores. Summer Lake, Oregon, approximately 25 miles northwest, offers limited services.",
+  "accessibility_notes": "Moderate slopes with uneven volcanic terrain and loose rock underfoot. No wheelchair access. Sturdy hiking boots strongly recommended. Walking is required to reach productive collecting areas, typically 0.5 to 2 miles from parking. The open terrain is manageable for most hikers in reasonable fitness, but the rocky surface and elevation require caution.",
+  "alternative_names": [],
+  "nearest_city": "Lakeview",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/crane-mountain-or/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Crane Mountain, Oregon?",
+      "answer": "Crane Mountain is best known for high-quality agate and jasper specimens, along with obsidian, quartz, and chalcedony. The volcanic geology produces banded and translucent agates that appeal to both beginners and experienced collectors. Most finds are small nodules ranging from pea-sized to fist-sized pieces."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Crane Mountain, Oregon?",
+      "answer": "No permit is required for personal rockhounding on BLM land at Crane Mountain. You simply need to follow the 25-pound daily collection limit and avoid commercial activities. Contact the Lakeview BLM office if you have questions about specific areas or current regulations."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Lakeview, Oregon?",
+      "answer": "October through April is the ideal season at Crane Mountain. The high desert location experiences cooler temperatures and occasional winter weather that can close roads in snow, so plan accordingly. Summer heat (often exceeding 90 degrees) and afternoon thunderstorms make spring and fall safer and more productive."
+    },
+    {
+      "question": "How far is Crane Mountain rockhounding site from Lakeview, Oregon?",
+      "answer": "Crane Mountain is approximately 35 miles north of Lakeview via US 395 and BLM roads. The drive typically takes 45 minutes to over an hour depending on road conditions and which parking area you choose. Lakeview offers gas, food, and supplies before heading out."
+    },
+    {
+      "question": "Is Crane Mountain rockhounding site beginner-friendly for families with children?",
+      "answer": "Yes, Crane Mountain is very beginner-friendly. The moderate terrain, free access, and abundant surface material make it ideal for families and new rockhounders. Children ages 6 and up can participate, though supervision is needed due to loose rock and the remote location. The 25-pound daily limit is manageable for casual collectors."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Crane Mountain, Oregon?",
+      "answer": "Bring sturdy hiking boots, a 5-gallon bucket for carrying finds, a basic hammer and chisel for extracting specimens, plenty of water (at least 2-3 liters per person), sun protection, and a field guide for identifying agates and jasper. The terrain is rocky, so gloves are recommended. A geological map or GPS helps you stay within BLM boundaries."
+    }
+  ],
+  "meta_title": "Crane Mountain Rockhounding - Oregon Agate & Jasper",
+  "meta_description": "Free BLM rockhounding at Crane Mountain, Oregon. Find agate, jasper, and obsidian. No permit needed, 25 lb daily limit. Lake County public access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - specific BLM road names not provided in source, estimated based on typical Lake County area access",
+    "gem_types - inferred from Oregon volcanic geology, not explicitly sourced for this location",
+    "parking_notes - estimated based on typical BLM site infrastructure",
+    "road_conditions - estimated based on typical BLM dirt road conditions in Oregon high desert",
+    "nearest_services - estimated distance from Lakeview based on regional geography"
+  ],
+  "enriched_at": "2026-04-21T18:52:39.091Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:54:11.662Z"
+}

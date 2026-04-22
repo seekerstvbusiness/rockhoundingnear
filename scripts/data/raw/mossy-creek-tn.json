@@ -1,0 +1,60 @@
+{
+  "slug": "mossy-creek-tn",
+  "name": "Mossy Creek",
+  "lat": 36.110641,
+  "lng": -83.477036,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Jefferson County",
+  "city_slug": "jefferson-county",
+  "county": "Jefferson",
+  "county_slug": "jefferson",
+  "geocoded_city": "Jefferson City",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mossy%20Creek%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mossy%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mossy%20Creek%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1163,
+      "meters": 354
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:29:10.257Z"
+  },
+  "scraped_at": "2026-04-21T18:29:10.258Z",
+  "scrape_quality": "minimal"
+}

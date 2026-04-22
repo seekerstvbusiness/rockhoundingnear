@@ -1,0 +1,96 @@
+{
+  "slug": "russellville-tn",
+  "name": "Russellville",
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "city": "Russellville",
+  "city_slug": "russellville",
+  "county": "Hamblen",
+  "county_slug": "hamblen",
+  "lat": 36.256454,
+  "lng": -83.185598,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Small East Tennessee rockhounding area near Hamblen County known for quartz crystals and feldspar specimens in metamorphic outcrops. Accessible day-trip location for local collectors.",
+  "description": "Russellville sits in the foothills of the Great Smoky Mountains in Hamblen County, Tennessee, a region shaped by ancient metamorphic geology. The area is part of the southern Appalachian region where Precambrian rocks have been uplifted and exposed, creating excellent opportunities for finding quartz, feldspar, and mica specimens in hillside outcrops and along stream beds.\n\nThe local geology features metamorphic rocks including gneiss and schist that formed deep underground during mountain-building events over 300 million years ago. These rocks weather and break apart naturally, exposing fresh mineral faces. Quartz is the most common find here, often appearing as clear or milky crystals in fractures within the host rock. Feldspar specimens, typically pink or white, occur throughout the metamorphic matrix.\n\nThis location offers a moderate rockhounding experience suitable for collectors with some experience navigating uneven terrain and identifying minerals in situ. The terrain is hilly with deciduous forest cover, and collectors often find specimens by examining exposed rock faces and sifting through weathered material at the base of outcrops. Water access in nearby streams can reveal additional specimens rounded by natural erosion.\n\nRussellville is ideal for those seeking a quieter, less-crowded alternative to commercial fee dig sites while still accessing quality mineral specimens. The area rewards patience and careful observation, with the best results coming from systematic examination of exposed bedrock along roadsides and forest clearings.",
+  "history": "Russellville lies within the southern Appalachian metamorphic province, where intense heat and pressure during the Alleghenian orogeny (mountain-building event) around 320-300 million years ago transformed existing sedimentary and igneous rocks into the metamorphic gneiss and schist visible today. This region has been of geological interest since the early 1800s, with local collectors recognizing the abundance of quartz and feldspar specimens in the weathered metamorphic outcrops that dot Hamblen County.",
+  "tips": "Search along hillside outcrops and road cuts where fresh metamorphic rock faces are exposed - look for the layered, banded patterns that indicate schist and gneiss. Use a geology hammer to carefully extract quartz and feldspar crystals from fractures in the parent rock, working slowly to avoid damaging specimens. Focus on areas where the rock has naturally fractured; look for the glassy shine of quartz crystals catching sunlight on south-facing slopes. Stream beds and wash areas at the base of hills often contain naturally weathered fragments worth examining.",
+  "terrain_notes": "Elevation 1289 feet in rolling Appalachian foothills with moderate slopes covered by deciduous forest. Terrain is uneven with exposed bedrock, loose rock, and hilly walking surfaces. Most productive collecting areas are 0.25 to 0.5 miles from parking on foot. Sturdy boots with good ankle support are essential. No wheelchair access to productive areas.",
+  "best_season": "April - May and September - November. Spring and fall offer mild temperatures ideal for hiking and rock work. Summer heat and humidity make fieldwork uncomfortable, and winter weather can make hillsides slippery. These seasons also provide good visibility through less-dense forest canopy.",
+  "written_directions": "From Russellville, head east on Tennessee State Route 93 toward the Hamblen County foothills. Continue approximately 2-3 miles and look for pullouts near exposed rock outcrops on either side of the road, particularly on the south-facing slopes. The most accessible sites are visible directly from the highway; park safely in pullout areas and examine nearby hillsides for exposed metamorphic rock and weathered mineral fragments. Local knowledge of specific productive outcrops is valuable - ask at local hardware stores or join regional rockhounding clubs for current access information.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": "Tennessee State Route 93 is paved. Pullout areas are gravel or dirt. No high-clearance vehicles needed for road access; all collecting is done on foot from safe pullouts.",
+  "parking_notes": "Informal pullout areas along Tennessee State Route 93 near rock outcrops. Limited space - typically 1-3 vehicles per pullout. No developed parking lot. Park completely off the roadway and do not block traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Rockhounding is permitted on public roadside areas and accessible non-posted land. Respect all private property - do not cross posted boundaries. Do not collect on active mining claims or posted mining areas. Remove only hand-sized specimens using hand tools; do not use motorized equipment. Pack out all trash and minimize disturbance to the landscape.",
+  "quantity_limits": null,
+  "rules": "Collect on public access areas only\nNo motorized excavation or equipment\nRespect all private property postings\nUse hand tools only (hammer, chisel, small pick)\nPack out all trash\nMinimize landscape disturbance",
+  "beginner_friendly": false,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "loose_rock",
+    "snakes",
+    "cold"
+  ],
+  "nearest_services": "Russellville has limited services. For gas, food, and supplies, head to nearby Jefferson City (8 miles west) or Morristown (12 miles north) where restaurants, grocery stores, and gas stations are available.",
+  "accessibility_notes": "Uneven rocky terrain with exposed bedrock and loose stone throughout the hillsides. No wheelchair access to productive collecting areas. Sturdy footwear with good ankle support required. Moderate physical fitness needed for hillside navigation. Slopes are manageable for most hikers but not suitable for limited mobility. Rock scrambling may be necessary in some areas.",
+  "alternative_names": [],
+  "nearest_city": "Russellville",
+  "nearest_city_distance": 1,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/tennessee/russellville-tn/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Russellville, Tennessee?",
+      "answer": "The primary specimens found in the Russellville area are quartz crystals (clear and milky varieties), feldspar (pink and white), and mica flakes. These minerals occur naturally in the metamorphic gneiss and schist bedrock that underlies Hamblen County. Quartz is the most abundant find, often appearing as distinct crystals in fractures within hillside outcrops."
+    },
+    {
+      "question": "Is rockhounding free in Russellville, Tennessee, or do I need a permit?",
+      "answer": "Rockhounding in the Russellville area is free with no permit required. You can collect hand-sized specimens from public roadside areas and accessible non-posted land using only hand tools. Always respect posted private property and do not cross property lines. This makes it an affordable alternative to commercial fee dig sites."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Russellville?",
+      "answer": "The best rockhounding seasons are April-May and September-November when temperatures are mild and forest canopy is less dense, making it easier to spot exposed rock outcrops. Avoid summer months due to heat and humidity, and winter when hillsides can be slippery. Spring and fall also offer better visibility along roadside cuts."
+    },
+    {
+      "question": "Is Russellville rockhounding suitable for beginners and families?",
+      "answer": "Russellville is moderate-difficulty rockhounding best suited for collectors with some experience identifying minerals and navigating uneven terrain. The hilly, rocky landscape requires sturdy boots and moderate physical fitness. Children should be at least 12 years old and able to handle rocky slopes safely. Families should start with easy roadside outcrops before attempting hillside exploration."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Russellville?",
+      "answer": "Bring a geology hammer, chisel, and small pry bar for extracting specimens from metamorphic rock. Sturdy hiking boots with ankle support are essential for the uneven, rocky terrain. A hand lens helps identify mineral crystals in the field. A backpack for carrying specimens, water bottle, and a camera for documenting finds are also recommended. Only hand tools are permitted - motorized equipment is not allowed."
+    },
+    {
+      "question": "Where exactly should I look for quartz and feldspar specimens around Russellville?",
+      "answer": "Search along hillside outcrops and road cuts where fresh metamorphic rock faces are exposed, particularly along Tennessee State Route 93. Look for south-facing slopes where weathering exposes mineral-rich surfaces. Stream beds and wash areas at the base of hills contain naturally weathered fragments. Park safely in pullout areas and examine nearby exposed bedrock for the glassy shine of quartz crystals and pink or white feldspar."
+    }
+  ],
+  "meta_title": "Russellville Rockhounding - Find Quartz in Tennessee",
+  "meta_description": "Free rockhounding near Russellville, Tennessee for quartz, feldspar, and mica crystals. Public access metamorphic rock outcrops perfect for collectors of all levels.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "collection_rules",
+    "parking_notes",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-21T18:38:24.053Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:39:42.379Z"
+}

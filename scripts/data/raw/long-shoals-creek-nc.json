@@ -1,0 +1,60 @@
+{
+  "slug": "long-shoals-creek-nc",
+  "name": "Long Shoals Creek",
+  "lat": 36.478946,
+  "lng": -81.411696,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Ashe County",
+  "city_slug": "ashe-county",
+  "county": "Ashe",
+  "county_slug": "ashe",
+  "geocoded_city": "Shatley Springs",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Long%20Shoals%20Creek%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Long%20Shoals%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Long%20Shoals%20Creek%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2748,
+      "meters": 838
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:29:37.769Z"
+  },
+  "scraped_at": "2026-04-21T19:29:37.769Z",
+  "scrape_quality": "minimal"
+}

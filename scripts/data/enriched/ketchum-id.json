@@ -1,0 +1,102 @@
+{
+  "slug": "ketchum-id",
+  "name": "Ketchum",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Sun Valley",
+  "city_slug": "sun-valley",
+  "county": "Blaine",
+  "county_slug": "blaine",
+  "lat": 43.690784,
+  "lng": -114.293862,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Obsidian"
+  ],
+  "short_description": "Free public BLM rockhounding near the scenic Sun Valley resort area. Hunt for quartz, agate, and jasper specimens in the high-elevation volcanic terrain of central Idaho.",
+  "description": "Ketchum sits at 6,785 feet in the Wood River Valley, an excellent base for rockhounding the surrounding Blaine County BLM lands. This region was shaped by intense Tertiary volcanic and hydrothermal activity that produced diverse silica minerals including quartz, agate, and chalcedony. The moderate slopes and mixed sagebrush-pine vegetation create varied collecting opportunities, from wash deposits to exposed hillside outcrops.\n\nThe BLM lands here are open to casual collectors year-round with no permit required. You can legally collect up to 25 pounds per day for personal use, making this ideal for both day trips and multi-day rockhounding vacations. The proximity to Sun Valley's amenities (restaurants, gas, lodging) adds convenience for extended collecting trips.\n\nExpect to find well-formed quartz crystals, colorful agate nodules in cream and rust tones, and translucent chalcedony specimens. Obsidian is also present in some areas, typically in glossy black or reddish varieties. The elevation and terrain mean you'll be walking on sagebrush-covered slopes and through small washes - bring sturdy boots and water.\n\nThe collecting season runs longer here than lower elevations due to the high altitude. Summer and fall offer the most comfortable conditions, though spring collecting is possible after snowmelt. Winter access depends on snow conditions; check local BLM office conditions before visiting.",
+  "history": "The Ketchum area lies within the central Idaho volcanic field, where Eocene to Miocene (roughly 56 to 5 million years ago) volcanic eruptions and associated hydrothermal systems deposited massive quantities of silica-rich fluids. These fluids cooled and crystallized to form the quartz veins, agate nodules, and chalcedony deposits found throughout the surrounding BLM land today. The Wood River Valley sits in a structural depression formed during Basin and Range extension, which further exposed these mineral-rich formations to erosion and surface collecting.",
+  "tips": "Search along wash bottoms and eroded gullies after spring runoff - agate nodules concentrate in stream deposits and are easier to spot on freshly exposed gravels. Look for color hints in the tan and rusty host rock: quartz veins appear as milky white or clear streaks, and agate nodules often show outer weathering rinds contrasting with polished interiors. Use a small crack hammer or chisel to test nodules in-place before collecting; tapping reveals if the specimen is loose or still embedded. Bring a 5-gallon bucket or backpack with padding, as the best specimens are heavy and fragile.",
+  "terrain_notes": "Elevation 6,785 feet with moderate slopes dominated by sagebrush, scattered pine, and aspen stands. Most collecting areas are 0.25 to 1.5 miles from parking via unimproved dirt roads or hiking trails. Footing is rocky and uneven; loose sage, pumice, and volcanic scree are common. No major cliffs, but steep ravines and washes are present. Walking surfaces are dry and well-drained except during spring runoff.",
+  "best_season": "June - September for optimal conditions. High elevation means snow blocks access November through May most years. June can still have snow patches at the highest spots. July and August offer warm, dry days perfect for all-day collecting. September extends the season with cooler temperatures and typically clear skies. Spring (May-June) is possible after snowmelt but roads may be muddy.",
+  "written_directions": "From Sun Valley, head east on ID-75 toward Ketchum (approximately 2 miles). Continue on ID-75 as it becomes Main Street in Ketchum. Near the town center, turn north onto Forest Road 227 or connect to Forest Service roads leading to BLM land parcels north and east of town. GPS coordinates 43.690784, -114.293862 mark the general Ketchum hub area. Specific collecting sites require navigation via detailed BLM maps available at the Ketchum Ranger District office. Most productive areas require 10-15 minutes of driving on rough dirt roads from town, then 0.5 to 2 miles of hiking to prime collecting zones.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved gravel and rough dirt roads to BLM access points. High clearance recommended for rougher spurs. Most main roads suitable for passenger vehicles in dry season. Spring mud and summer washout possible - check conditions before long drives.",
+  "parking_notes": "Informal pullouts and small parking areas along BLM access roads. Capacity 2-6 vehicles per site. No developed parking facilities. Some sites have old mining or dispersed camping spots with minimal improvements.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection or sale of specimens. No motorized excavation or power tools. Hand tools only. Do not damage active mining claims or private land (many parcels in this county are private - verify BLM ownership before collecting). Respect all posted closure signs. Pack out all trash and leave no trace beyond specimen collection.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo collecting on private land or active claims\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "cliffs",
+    "loose_rock",
+    "sharp_material",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Sun Valley (2 miles): restaurants, lodging, gas, groceries, sporting goods. Ketchum (0.5 miles): additional food and supplies.",
+  "accessibility_notes": "Moderate terrain with uneven, rocky footing. Slopes are navigable but require stamina at 6,785 feet elevation - altitude may affect visitors unaccustomed to high elevations. Loose volcanic rock and sagebrush create tripping hazards. Washes have minor drop-offs but no severe cliffs in main collecting areas. Not wheelchair accessible. Sturdy hiking boots strongly recommended. Water carries essential - bring 2+ liters per person.",
+  "alternative_names": [],
+  "nearest_city": "Sun Valley",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/ketchum-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/ketchum-id/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Ketchum, Idaho?",
+      "answer": "The Ketchum area on BLM land is known for high-quality quartz crystals, colorful agate nodules in cream and rust tones, translucent chalcedony, and occasional obsidian specimens in black or reddish varieties. The volcanic origin of the Wood River Valley creates excellent conditions for silica-based minerals. Agate is the most commonly found and most rewarding for collectors of all skill levels."
+    },
+    {
+      "question": "Is rockhounding free at Ketchum, and do I need a permit?",
+      "answer": "Yes, rockhounding on the surrounding BLM land near Ketchum is completely free and requires no permit. You can collect up to 25 pounds per day for personal use under FLPMA regulations. This makes it one of the most accessible and affordable rockhounding destinations in central Idaho, with the bonus of being near the amenities of Sun Valley."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Ketchum?",
+      "answer": "June through September is the optimal season. The high elevation (6,785 feet) means snow blocks access from November through May in most years. July and August offer warm, dry days ideal for all-day collecting. September extends the season with cooler, clear weather. Spring can work after snowmelt but roads may be muddy."
+    },
+    {
+      "question": "How beginner-friendly is rockhounding around Ketchum for first-time collectors?",
+      "answer": "Very beginner-friendly. BLM land near Ketchum offers open collecting with no permit bureaucracy, moderate terrain with accessible parking areas, and abundant visible specimens like agate nodules and quartz. The elevation and sagebrush terrain are not extreme. Kids ages 8 and up can comfortably collect here with adult supervision. Sun Valley's nearby services add convenience."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding near Ketchum, Idaho?",
+      "answer": "Bring sturdy hiking boots (rocky, uneven terrain), a small crack hammer or chisel for testing specimens in-place, a 5-gallon bucket or backpack with padding for heavy quartz and agate, and at least 2 liters of water per person (high elevation dehydration is real). A hand lens helps identify quality specimens. Do NOT use motorized tools - hand collecting only on BLM land."
+    },
+    {
+      "question": "Are there rockhounding spots closer to Ketchum that don't require hiking?",
+      "answer": "Most productive BLM collecting areas require 0.5 to 2 miles of hiking from parking areas, though some pullouts provide access to nearby washes and slopes with minimal walk-in. Check with the Ketchum Ranger District for specific nearby spots and current conditions. Private fee-dig locations exist in the region if you prefer developed facilities, though BLM land offers better value and freedom of exploration."
+    }
+  ],
+  "meta_title": "Ketchum Rockhounding - Free BLM Agate & Quartz",
+  "meta_description": "Collect agate, quartz, and chalcedony on free BLM land near Ketchum, Idaho. No permit required, 25 lbs daily limit. Perfect for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "specific_blm_parcel_ownership_confirmation",
+    "current_road_access_conditions",
+    "exact_distance_to_productive_collecting_zones",
+    "seasonal_snow_closure_details_from_blm_office"
+  ],
+  "enriched_at": "2026-04-22T09:50:02.873Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:39.842Z"
+}

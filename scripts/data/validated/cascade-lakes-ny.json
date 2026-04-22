@@ -1,0 +1,98 @@
+{
+  "slug": "cascade-lakes-ny",
+  "name": "Cascade Lakes",
+  "state": "New York",
+  "state_slug": "new-york",
+  "city": "Town of Keene",
+  "city_slug": "town-of-keene",
+  "county": "Essex",
+  "county_slug": "essex",
+  "lat": 44.224612,
+  "lng": -73.873269,
+  "gem_types": [
+    "Quartz",
+    "Garnet",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "High-elevation Adirondack site in protected wilderness offering quartz, garnets, and feldspar specimens. Steep terrain and alpine setting provide challenging but rewarding rockhounding.",
+  "description": "Cascade Lakes sits at 2,115 feet elevation within the High Peaks Wilderness and Saranac Lakes Wild Forest of the Adirondack Mountains in northern New York. This pristine alpine environment is home to classic metamorphic mineral specimens formed during the Grenville orogeny, when continental collisions created the mineral-rich gneisses and schists that dominate the region. Rockhounders visiting this site will encounter quartz crystals, red garnets, orthoclase feldspar, and mica flakes exposed in rock outcrops and along the steep mountainside slopes.\n\nThe geology here reflects the deep Precambrian roots of ancient mountain-building episodes. Anorthosite, a plagioclase-rich rock, and magnetite-bearing gneiss are common in the High Peaks, making this region historically important for understanding metamorphic processes. Cascade Lakes provides access to these rocks in their natural setting without the heavy mining infrastructure found elsewhere in the Adirondacks.\n\nDue to the wilderness designation and steep terrain, this location is best suited for experienced rockhounders comfortable with backcountry hiking and uneven footing. The area's alpine character means limited soil cover, excellent exposure of bedrock, and consistent access to fresh mineral surfaces. Specimens here tend to be smaller than commercial dig sites, but the geological diversity and pristine setting make this a destination for serious collectors and educators.\n\nAccess is restricted to foot traffic only; motorized collecting, power tools, and large-scale excavation are prohibited. Visitors must respect wilderness boundaries and follow Leave No Trace principles. The reward is genuine field specimens from one of North America's most geologically significant mountain ranges.",
+  "history": "Cascade Lakes lies within the Adirondack High Peaks, a region of Precambrian Grenville-age metamorphic rocks formed between 1.3 and 0.9 billion years ago during massive continental collisions that built ancient supercontinents. The anorthosite and magnetite gneisses here have been studied by geologists for over 150 years as key examples of deep crustal metamorphism, and the steep alpine terrain constantly exposes fresh mineral surfaces.",
+  "tips": "Search along exposed bedrock outcrops and talus slopes where gravity and water erosion naturally expose fresh mineral faces - garnet crystals often weather slightly darker than surrounding feldspar matrix. Use a 10x loupe to identify feldspar striations and mica cleavage planes; bring a geologic hammer and chisel only for careful specimen extraction from loose fragments. The steep slopes mean specimens collect in gullies and boulder fields at lower elevations - work downslope systematically rather than random digging. Peak collecting occurs just after snowmelt when winter freeze-thaw has loosened specimens and exposed new surfaces.",
+  "terrain_notes": "Steep mountainous terrain at 2,115 feet elevation with alpine vegetation, exposed bedrock, talus fields, and boulder-strewn slopes. Hiking distance from parking to productive collecting areas ranges from 2 to 5 miles depending on chosen route. Footing is rocky and uneven throughout; loose rock hazard is significant on steep sections. Limited tree cover at higher elevations; exposed to weather and wind.",
+  "best_season": "June - September. Alpine weather at 2,100+ feet elevation makes snow common October through May, and trail conditions are poor. Summer months offer stable weather, melted trails, and active freeze-thaw cycles that expose fresh specimens.",
+  "written_directions": "From the Town of Keene, take NY 73 north toward Keene Valley for approximately 8 miles. Continue toward the Cascade trailhead area; parking is limited at designated pull-off areas near the base of Cascade Mountain. The actual Cascade Lakes lie at higher elevation requiring additional hiking from this parking area. Four-wheel drive is not necessary for road access, but a high-clearance vehicle is recommended for rougher seasonal approaches.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "hiking",
+  "road_conditions": "Paved highway access to trailhead parking; rough unpaved seasonal roads may lead to alternate access points. Road surface degrades in winter and spring.",
+  "parking_notes": "Limited roadside parking at designated pull-offs near Cascade Mountain trailhead. No developed parking lot; expect 3-6 vehicle capacity at main access point. Additional parking may be found at nearby trailheads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "High Peaks Wilderness and Saranac Lakes Wild Forest allow personal rockhounding for non-commercial use only. No motorized collecting, power tools, or mechanized excavation. Collection limited to hand tools only. Specimens must be reasonable in size and quantity for personal study or modest collection. Leave No Trace principles are mandatory; pack out all waste. Respect all marked trail boundaries and closure areas. Rock art, cairns, and historical structures must not be disturbed. Check DEC website for current access restrictions or trail closures.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nNo commercial collection\nHand tools only - no power equipment\nRespect wilderness boundaries\nLeave No Trace - pack out all waste\nNo rock art or cairn disturbance\nCheck DEC for seasonal closures",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Keene Valley, approximately 8 miles south, offers gas, food, and supplies. Larger services available in Lake Placid, approximately 15 miles north.",
+  "accessibility_notes": "Steep alpine terrain with significant elevation gain, exposed bedrock, and loose talus fields. Not accessible to wheelchairs, mobility devices, or those with limited hiking ability. Sturdy hiking boots with ankle support are essential. Exposed to high winds, cold temperatures even in summer, and rapidly changing weather. Significant climbing required over rough, rocky terrain. Route-finding skills and backcountry experience strongly recommended.",
+  "alternative_names": [],
+  "nearest_city": "Keene Valley",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-york/cascade-lakes-ny/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Cascade Lakes in New York?",
+      "answer": "Cascade Lakes is known for quartz crystals, red and almandine garnets, orthoclase feldspar, and mica specimens. These minerals occur naturally in the Adirondack metamorphic bedrock and are found as loose fragments and in exposed outcrops throughout the alpine slopes. The harsh freeze-thaw cycle constantly exposes fresh surfaces."
+    },
+    {
+      "question": "Is Cascade Lakes rockhounding free or is there a fee?",
+      "answer": "Rockhounding at Cascade Lakes is completely free. The site is public land within the High Peaks Wilderness and Saranac Lakes Wild Forest, with no collection fees. You only need a parking area, which is first-come, first-served at roadside pull-offs."
+    },
+    {
+      "question": "Do I need a permit to collect minerals at Cascade Lakes?",
+      "answer": "No permit is required for non-commercial personal rockhounding at Cascade Lakes. However, you must follow New York Department of Environmental Conservation regulations for wilderness areas, including using hand tools only, respecting trail boundaries, and practicing Leave No Trace principles."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Cascade Lakes?",
+      "answer": "June through September is the best season for Cascade Lakes rockhounding. At 2,115 feet elevation in the Adirondacks, snow blocks access October through May and makes trails impassable. Summer weather is stable, hiking trails are clear, and the spring and early summer freeze-thaw cycles expose the most fresh specimens."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Cascade Lakes?",
+      "answer": "Bring a geologic hammer, small chisel, 10x loupe for specimen identification, and sturdy hiking boots with ankle support. Hand tools only are permitted - no power equipment. A backpack for carrying specimens, sun protection, water, and emergency supplies are essential given the remote alpine location and exposure to weather."
+    },
+    {
+      "question": "Is Cascade Lakes a good rockhounding site for beginners?",
+      "answer": "Cascade Lakes is recommended for experienced rockhounders only, not beginners. The steep alpine terrain, 2+ mile hike from parking, loose rock hazards, and isolated mountain setting require strong hiking skills and backcountry experience. Beginners should seek easier New York rockhounding sites with developed parking and moderate terrain first."
+    }
+  ],
+  "meta_title": "Cascade Lakes Rockhounding - New York",
+  "meta_description": "Hunt quartz, garnet, and feldspar at Cascade Lakes in NY's High Peaks Wilderness. Free public access, hand tools only, June-September season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (no specific road names in source data)",
+    "parking_notes (inferred from wilderness designation)",
+    "nearest_services_distance (estimated)",
+    "accessibility_notes (based on terrain data and wilderness classification)"
+  ],
+  "enriched_at": "2026-04-21T18:50:07.343Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:51:48.152Z"
+}

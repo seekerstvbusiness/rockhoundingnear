@@ -1,0 +1,60 @@
+{
+  "slug": "killen-pond-de",
+  "name": "Killen Pond",
+  "lat": 38.982533,
+  "lng": -75.537796,
+  "state": "Delaware",
+  "state_slug": "delaware",
+  "state_code": "DE",
+  "city": "Kent County",
+  "city_slug": "kent-county",
+  "county": "Kent",
+  "county_slug": "kent",
+  "geocoded_city": "Kent County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-delaware.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Killen%20Pond%20Delaware"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Killen%20Pond",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Killen%20Pond%20Delaware"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 18,
+      "meters": 6
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:34:21.249Z"
+  },
+  "scraped_at": "2026-04-21T16:34:21.249Z",
+  "scrape_quality": "minimal"
+}

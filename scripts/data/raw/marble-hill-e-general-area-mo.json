@@ -1,0 +1,85 @@
+{
+  "slug": "marble-hill-e-general-area-mo",
+  "name": "Marble Hill E General Area",
+  "lat": 37.28212,
+  "lng": -89.923268,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Bollinger County",
+  "city_slug": "bollinger-county",
+  "county": "Bollinger",
+  "county_slug": "bollinger",
+  "geocoded_city": "Bollinger County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Marble%20Hill%20E%20General%20Area%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Marble%20Hill%20E%20General%20Area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Marble%20Hill%20E%20General%20Area%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 377,
+      "meters": 115
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "County Road 402",
+        "ref": "Spur N",
+        "type": "secondary_link",
+        "dist": 2
+      },
+      {
+        "name": "Conrad Avenue",
+        "ref": "MO 34;MO 51",
+        "type": "primary",
+        "dist": 3.3
+      },
+      {
+        "name": "Lutes Street",
+        "ref": "MO 51",
+        "type": "primary",
+        "dist": 3.3
+      },
+      {
+        "name": "West Main Street",
+        "ref": "MO 34;MO 51",
+        "type": "primary",
+        "dist": 3.4
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:09:15.309Z"
+  },
+  "scraped_at": "2026-04-21T19:09:15.309Z",
+  "scrape_quality": "minimal"
+}

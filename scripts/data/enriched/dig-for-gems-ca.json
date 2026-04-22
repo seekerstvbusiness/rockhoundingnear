@@ -1,0 +1,98 @@
+{
+  "slug": "dig-for-gems-ca",
+  "name": "Dig for Gems",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Pala",
+  "city_slug": "pala",
+  "county": "San Diego",
+  "county_slug": "san-diego",
+  "lat": 33.38976263,
+  "lng": -117.0496534,
+  "gem_types": [
+    "Tourmaline",
+    "Feldspar",
+    "Quartz",
+    "Beryl",
+    "Topaz"
+  ],
+  "short_description": "BLM public land rockhounding site near Pala in San Diego County. Collect tourmaline, feldspar, and quartz specimens with no permit required. Personal use only, 25 lbs per day limit.",
+  "description": "Dig for Gems is a public BLM rockhounding location near Pala in San Diego County, California, positioned within one of California's most productive gemstone regions. The area sits within the Pala pegmatite district, famous for producing tourmaline, feldspar, beryl, and other collector gems. This location sits at 1375 feet elevation on gentle terrain, making it accessible for rockhounders of varying skill levels.\n\nThe Pala area has a rich history as a gemstone collecting destination. In the late 1800s and early 1900s, miners extracted tourmaline and kunzite from pegmatite bodies in this region, many of which were shipped to the Tiffany Company in New York. Today, the remaining pegmatite deposits continue to weather and expose fresh gem crystals, making this an excellent spot for recreational collectors to find quality tourmaline specimens and associated minerals.\n\nAt this BLM site, you can expect to find tourmaline (especially pink and green varieties), feldspars, and quartz crystals weathering out of the pegmatite host rock. The gentle slopes and accessible terrain make it suitable for families and beginners, though collectors with some digging experience will have better success. The area requires no permit and allows personal use collection up to 25 lbs per day.\n\nBring sturdy tools for prying material from outcrops and digging in weathered pegmatite. Focus your search on areas where the rock shows color variation and exposed crystal faces. The best specimens typically appear in pockets within the pegmatite where mineral-rich fluids once flowed.",
+  "history": "This area lies within the Pala pegmatite district, where Precambrian granite intrusions were later injected with mineral-rich fluids during regional metamorphism, creating tourmaline and feldspar-rich pegmatite bodies. The Pala district was actively mined for gem tourmaline from the 1890s through the 1920s, with significant specimens exported internationally, and continues to yield fine collector gems today as weathering exposes fresh crystal pockets.",
+  "tips": "Focus your digging on areas where pegmatite is exposed and weathered, especially around small outcrops on the gentle slopes - look for color variation in the rock that indicates mineral pockets. Bring a pry bar, chisel, and hammer to carefully work tourmaline and feldspar crystals from the pegmatite matrix without damaging them. Search for pink, green, and black tourmaline crystals, often found clustered with white or tan feldspars - crystals are typically 1-3 inches long but occasionally larger specimens appear.",
+  "terrain_notes": "Elevation 1375 feet with gentle slopes. Terrain consists of exposed pegmatite outcrops mixed with sandy/granular soil. Vegetation is sparse desert scrub typical of inland San Diego County foothills. Walking distance from parking to productive areas is generally short, under 0.5 miles. Footing is uneven due to scattered rocks and pegmatite fragments, requiring sturdy hiking boots.",
+  "best_season": "October - April. The Pala area experiences very hot, dry summers with temperatures exceeding 95 degrees Fahrenheit, making spring and fall the ideal collecting seasons. Winter temperatures are mild and occasional rain may help expose new material.",
+  "written_directions": "From Pala, take Highway 76 east toward the Pala Reservation boundary area. Continue approximately 2-3 miles and look for accessible BLM land pullouts on the north side of the highway near intermittent washes. Coordinate with local BLM resources or contact the San Diego County BLM office for specific access points, as some areas on the Pala Reservation boundary have restricted access. GPS coordinates provided (33.38976263, -117.0496534) mark the general rockhounding area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Approach roads are paved (Highway 76) with unpaved pullouts and rough access roads to parking areas. High-clearance passenger vehicles acceptable; avoid after rain when unpaved sections may be impassable.",
+  "parking_notes": "Limited pullout parking along Highway 76 or nearby unpaved access roads. No developed parking lot; informal parking at roadside is typical for BLM land in this area. Arrive early during peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection allowed. No motorized excavation. Collect only loose material and surface specimens; do not damage pegmatite outcrops or mine into cliffs. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation or powered tools\nNo damage to rock faces or outcrops\nPack out all trash\nRespect any posted closure signs",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Pala, California (approximately 2-3 miles west) has limited services; Fallbrook, California (approximately 8 miles south) has gas stations, restaurants, and grocery stores.",
+  "accessibility_notes": "Relatively accessible site with gentle slopes and short walking distances from parking. Uneven rocky terrain with pegmatite fragments requires sturdy footwear. No wheelchair access. Terrain is manageable for families with children ages 8 and up in reasonable physical condition.",
+  "alternative_names": [],
+  "nearest_city": "Pala",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/dig-for-gems-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Pala, California?",
+      "answer": "At Dig for Gems near Pala, you can find tourmaline (pink, green, and black varieties), feldspars, quartz crystals, beryl, and topaz. The area is part of the historic Pala pegmatite district, which has produced exceptional tourmaline specimens for over a century. Most collectors find tourmaline crystals 1-3 inches long, with occasional larger specimens."
+    },
+    {
+      "question": "Is a permit required to rockhound at Dig for Gems in San Diego County?",
+      "answer": "No permit is required. Dig for Gems is located on public BLM land where recreational collecting is allowed under FLPMA regulations. You only need to follow the 25 lbs per day personal use limit and avoid commercial collection or motorized excavation."
+    },
+    {
+      "question": "How much can I collect per day at this California rockhounding site?",
+      "answer": "You can collect up to 25 lbs of material per day at Dig for Gems under BLM personal use rules. This limit allows families and individual rockhounders to take home a meaningful collection while preserving the resource for future visitors."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Pala, California?",
+      "answer": "October through April is ideal for rockhounding at Dig for Gems. Summer temperatures in the Pala foothills frequently exceed 95 degrees Fahrenheit, making spring and fall the most comfortable collecting seasons. Winter is also pleasant with mild temperatures and occasional rain that helps expose fresh material."
+    },
+    {
+      "question": "What tools and equipment do I need to find tourmaline at Dig for Gems?",
+      "answer": "Bring a pry bar, cold chisel, and hammer to work tourmaline and feldspar crystals from the pegmatite matrix. A magnifying loupe helps identify gem quality. Pack plenty of water (spring/fall), sunscreen, sturdy hiking boots for uneven rocky terrain, and collection bags. Start early to avoid afternoon heat and crowds."
+    },
+    {
+      "question": "Is Dig for Gems near Pala suitable for beginner rockhounders and families?",
+      "answer": "Yes, Dig for Gems is beginner-friendly with gentle slopes, short walking distances from parking, and exposed pegmatite that doesn't require deep digging. Kids ages 8 and up can participate with supervision. The site requires no permit and allows you to keep what you find, making it an excellent introduction to California rockhounding."
+    }
+  ],
+  "meta_title": "Dig for Gems - Pala, California Rockhounding",
+  "meta_description": "Dig for Gems near Pala, CA offers free rockhounding on BLM land. Find tourmaline, feldspar, and quartz with no permit. 25 lbs/day limit. Perfect for families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - specific pullout locations not confirmed; recommend contacting San Diego County BLM office",
+    "parking_notes - no developed facilities confirmed; estimate based on typical BLM land management",
+    "gem_types - Pala district produces tourmaline primarily; other types inferred from typical pegmatite associations",
+    "vehicle_required - assuming passenger vehicle access based on Highway 76 proximity; high-clearance or AWD may be needed for some access roads"
+  ],
+  "enriched_at": "2026-04-21T19:33:33.196Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:36:52.359Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "jean-ric-edelman-fossil-park-nj",
+  "name": "Jean & Ric Edelman Fossil Park",
+  "lat": 39.762229,
+  "lng": -75.127409,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Mantua Township",
+  "city_slug": "mantua-township",
+  "county": "Gloucester",
+  "county_slug": "gloucester",
+  "geocoded_city": "Mantua Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Jean%20%26%20Ric%20Edelman%20Fossil%20Park%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Jean%20%26%20Ric%20Edelman%20Fossil%20Park",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Jean%20%26%20Ric%20Edelman%20Fossil%20Park%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 28,
+      "meters": 9
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:42:07.608Z"
+  },
+  "scraped_at": "2026-04-21T18:42:07.608Z",
+  "scrape_quality": "minimal"
+}

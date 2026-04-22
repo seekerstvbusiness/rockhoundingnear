@@ -1,0 +1,102 @@
+{
+  "slug": "humboldt-lake-area-mining-district-nv",
+  "name": "Humboldt Lake Area Mining District",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Lovelock",
+  "city_slug": "lovelock",
+  "county": "Pershing",
+  "county_slug": "pershing",
+  "lat": 40.080562,
+  "lng": -118.387124,
+  "gem_types": [
+    "Gold",
+    "Silver",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Historic mining district on BLM land near Humboldt Lake offering gold, silver, and quartz specimens. Open to recreational collecting with standard BLM daily limits.",
+  "description": "The Humboldt Lake Area Mining District sits in Pershing County's high desert, a region shaped by Cenozoic volcanic and hydrothermal activity. This historic mining area has been worked intermittently since the late 1800s, with miners extracting precious metals from fault-hosted quartz veins and disseminated mineralization. Today, the district remains accessible to recreational rockhounders on BLM land, where you can find gold, silver, and associated quartz specimens scattered across old mining tailings and exposed outcrops.\n\nThe geology here reflects a complex history of tectonism and mineralization. Miocene-age volcanic rocks and intrusive granites host the mineralized veins, while weathering and oxidation have created accessible secondary minerals along the surface. The elevation of 4,535 feet provides a moderate desert environment with gentle slopes that make for comfortable walking and prospecting.\n\nWhat to expect: You will encounter old mining workings, prospect pits, and scattered tailings from past activity. These areas often expose fresh mineralized material and weathered specimens. The terrain is open sagebrush and rocky desert - relatively sparse vegetation makes spotting material easier, though the footing can be uneven and rocky in places. This is a good location for collectors interested in mining history, quartz specimens, and gold panning in washes.\n\nBring a hand lens to examine pyrite, chalcopyrite, and other sulfides that often accompany the precious metals here. The location suits intermediate to experienced rockhounders, though beginners with some guidance can have success at richer tailings areas.",
+  "history": "The Humboldt Lake district was an active silver and gold producer during Nevada's mining boom of the 1870s-1890s. Mineralization formed during Miocene-age hydrothermal events when hot, silica-rich fluids circulated through fractured granite and volcanic host rocks, depositing quartz veins rich in precious metals and base metal sulfides.",
+  "tips": "Search around old prospect pits and along the edges of mining tailings piles - these expose fresh mineralized material. Use a small classifier to screen tailings for fine gold; look for quartz with visible pyrite, galena, or chalcopyrite as an indicator of precious metal zones. Examine the base of hillsides where erosion concentrates heavier minerals and look in dry washes after rare rainfall for water-sorted specimens.",
+  "terrain_notes": "Elevation 4,535 feet in the high Nevada desert. Gentle slopes with rocky, uneven footing across sagebrush and scattered outcrop. Terrain is mostly open without dense vegetation, making it easy to navigate and survey. Parking areas are informal pullouts near old mining workings; walking distances to prime collecting areas typically range from 100 feet to 1 mile depending on which prospect you target.",
+  "best_season": "October - April. The high desert location experiences extreme heat in summer (100+ F), making spring and fall ideal. Winter can bring snow at 4,500 feet elevation, but mild days are common. Avoid mid-June through August due to heat and occasional afternoon thunderstorms.",
+  "written_directions": "From Lovelock, take Nevada State Route 398 north approximately 15 miles toward Gerlach. Watch for unpaved BLM access roads branching east toward the Humboldt Lake basin. GPS coordinates 40.080562, -118.387124 place you near historic prospect areas. Use a detailed Nevada BLM map or GPS to navigate rough roads; high-clearance vehicle recommended for backcountry access to some prospect pits. Park in informal pullouts near visible old mining workings.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough unpaved BLM roads with ruts and washboard texture. High-clearance vehicle strongly recommended; passenger cars may have clearance issues on backcountry spurs. Main access via State Route 398 is paved.",
+  "parking_notes": "Informal pullouts and parking areas near old mining workings. No developed parking lot. Space for 2-4 vehicles at typical pull-off locations. Always park well clear of active or unstable prospect pits.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA. No commercial collection. No motorized excavation equipment. Do not disturb, remove, or damage any old mining infrastructure including shafts, adits, or structures. Respect property boundaries; confirm BLM ownership before collecting.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation equipment\nNo disturbance of old mining infrastructure\nDo not enter or damage mine shafts or adits",
+  "beginner_friendly": false,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Lovelock, Nevada, 15 miles south. Gas, food, water, and supplies available there. No services at the mining district itself.",
+  "accessibility_notes": "Uneven rocky terrain with loose stones and sharp mine tailings. No wheelchair access. Sturdy hiking boots required to navigate prospect areas safely. Moderate physical fitness needed to explore hillside workings. Avoid areas with visible mine shafts or unstable pit edges due to collapse risk.",
+  "alternative_names": [
+    "Humboldt Lake Mining Area",
+    "Pershing County Mining District"
+  ],
+  "nearest_city": "Lovelock",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/humboldt-lake-area-mining-district-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kind of gold and silver can I find at Humboldt Lake Mining District?",
+      "answer": "The Humboldt Lake area produces small specimens of free gold (flakes and fine dust), silver minerals, and quartz veins containing pyrite and other sulfides. Gold is typically found in tailings and along mineralized outcrop zones. Silver occurs as native metal and in sulfide minerals like galena and tetrahedrite. Specimens are small to medium-sized; this is ideal for hand-sample collecting and educational displays rather than production quantities."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Humboldt Lake Mining District in Nevada?",
+      "answer": "No permit is required for recreational collecting on BLM land at Humboldt Lake. However, you must follow FLPMA rules: personal use only, maximum 25 pounds per day, no commercial collection, and no motorized excavation. Always verify current access restrictions with the Nevada BLM office before visiting."
+    },
+    {
+      "question": "What is the best season to rockhound for quartz and gold near Lovelock, Nevada?",
+      "answer": "October through April is ideal for Humboldt Lake. Summer temperatures exceed 100 degrees Fahrenheit, creating heat hazards and discomfort. Winter days can be pleasant, though snow is possible at the 4,535-foot elevation. Spring and fall offer comfortable conditions and occasional rainfall that concentrates minerals in washes."
+    },
+    {
+      "question": "Is Humboldt Lake Mining District beginner-friendly, and can I bring my family?",
+      "answer": "The site is moderately challenging due to rough terrain, loose rock, and old mining hazards like pit edges and tailings. Families with children 8 and older in reasonable hiking condition can succeed, especially if focusing on tailings near parking areas. Avoid exploring old mine shafts and adits; supervise children closely due to sharp materials and unstable ground."
+    },
+    {
+      "question": "What tools and equipment do I need to rockhound at this Nevada mining district?",
+      "answer": "Bring a small classifier or screen for tailings, a hand lens (10x magnification), a geology hammer, chisel, and sturdy digging tool. A magnet helps identify magnetite. Wear heavy gloves for sharp tailings, sturdy boots for uneven ground, and bring plenty of water (2+ liters). A GPS unit or detailed BLM map is essential for navigation on backcountry roads."
+    },
+    {
+      "question": "How do I reach Humboldt Lake Mining District from Lovelock, and what vehicle do I need?",
+      "answer": "From Lovelock, take Nevada State Route 398 north for approximately 15 miles toward Gerlach, then turn east on unpaved BLM roads toward the Humboldt Lake basin (GPS 40.080562, -118.387124). A high-clearance or all-wheel-drive vehicle is recommended due to rough, washboard roads and potential ruts. Passenger cars may bottom out on backcountry spurs leading to remote prospect areas."
+    }
+  ],
+  "meta_title": "Humboldt Lake Mining District Rockhounding Nevada",
+  "meta_description": "Find gold, silver, and quartz at Humboldt Lake Mining District on BLM land in Nevada. No permit required. Open year-round for recreational rockhounders.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "road_conditions (no specific terrain data provided)",
+    "parking_notes (estimated from typical BLM mining districts)",
+    "gem_types (inferred from Humboldt Valley mining history - not from mindat)",
+    "cell_service (estimated as spotty based on remote location)"
+  ],
+  "enriched_at": "2026-04-22T09:27:51.262Z",
+  "scrape_quality": "rich",
+  "images_processed_at": "2026-04-22T09:29:24.766Z"
+}

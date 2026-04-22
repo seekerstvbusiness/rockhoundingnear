@@ -1,0 +1,60 @@
+{
+  "slug": "oglala-sd",
+  "name": "Oglala",
+  "lat": 43.296325,
+  "lng": -102.91047,
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "state_code": "SD",
+  "city": "Oglala Lakota County",
+  "city_slug": "oglala-lakota-county",
+  "county": "Oglala Lakota",
+  "county_slug": "oglala-lakota",
+  "geocoded_city": "Oglala Lakota County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Oglala%20South%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Oglala",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Oglala%20South%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3077,
+      "meters": 938
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:47:10.542Z"
+  },
+  "scraped_at": "2026-04-21T17:47:10.542Z",
+  "scrape_quality": "minimal"
+}

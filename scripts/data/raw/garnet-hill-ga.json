@@ -1,0 +1,60 @@
+{
+  "slug": "garnet-hill-ga",
+  "name": "Garnet Hill",
+  "lat": 33.883495,
+  "lng": -84.798152,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Paulding County",
+  "city_slug": "paulding-county",
+  "county": "Paulding",
+  "county_slug": "paulding",
+  "geocoded_city": "Paulding County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Garnet%20Hill%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Garnet%20Hill",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Garnet%20Hill%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1138,
+      "meters": 347
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:02:18.763Z"
+  },
+  "scraped_at": "2026-04-21T19:02:18.764Z",
+  "scrape_quality": "minimal"
+}

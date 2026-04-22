@@ -1,0 +1,60 @@
+{
+  "slug": "charlottesville-va",
+  "name": "Charlottesville",
+  "lat": 37.945379,
+  "lng": -78.468306,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Albemarle County",
+  "city_slug": "albemarle-county",
+  "county": "Albemarle",
+  "county_slug": "albemarle",
+  "geocoded_city": "Albemarle County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Charlottesville%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Charlottesville",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Charlottesville%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 394,
+      "meters": 120
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:02:25.846Z"
+  },
+  "scraped_at": "2026-04-21T19:02:25.847Z",
+  "scrape_quality": "minimal"
+}

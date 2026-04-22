@@ -1,0 +1,110 @@
+{
+  "slug": "nespelem-to-coulee-dam-wa",
+  "name": "Nespelem to Coulee Dam",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Nespelem",
+  "city_slug": "nespelem",
+  "county": "Okanogan",
+  "county_slug": "okanogan",
+  "lat": 48.039464,
+  "lng": -118.982388,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "Hunt for agates and chalcedony nodules along the scenic Columbia River corridor between Nespelem and Coulee Dam. Public BLM access with gentle riverside terrain ideal for families.",
+  "description": "The Nespelem to Coulee Dam area sits along the Columbia River in north-central Washington, a region shaped by catastrophic Pleistocene floods that carved through basalt formations. This stretch offers accessible rockhounding opportunities where agate nodules and chalcedony specimens weathered out of ancient lava flows are scattered throughout washes and exposed riverbanks. The terrain here is relatively gentle with elevation near 1000 feet, making it suitable for rockhounders of varying skill levels. Collectors can expect to find banded agates, translucent chalcedony, and occasional jasper pieces in streambed deposits and along cutbanks. The proximity to Coulee Dam also means services are available, though the backcountry setting requires self-sufficiency.\n\nGeologically, this area underwent extreme erosion during the Missoula floods approximately 12,000 to 15,000 years ago, which exposed and concentrated silica-rich minerals from the underlying Columbia River Basalt Group. The repeated floods scoured channels and deposited sediments that have weathered to reveal agates and other microcrystalline quartz varieties. Modern stream action continues to churn and expose fresh material each season.\n\nRockhounders visiting this location should focus their efforts on riverside washes, gravel bars, and the bases of eroded cutbanks where minerals accumulate. The best specimens typically display banding, translucency, or color variation. Spring runoff and winter floods replenish exposures regularly, so seasonal visits often yield different material. The remoteness and public land access make this a rewarding destination for those willing to hike and explore beyond main roads.",
+  "history": "This region was shaped by the Missoula floods during the late Pleistocene epoch, when catastrophic outburst floods from glacial Lake Missoula carved through the Columbia River Basalt Group and concentrated silica-rich minerals in streambeds and deposits. The exposed basalt formations and subsequent weathering created ideal conditions for agate and chalcedony nodule formation, which continue to be exposed and concentrated by modern stream erosion.",
+  "tips": "Search along the Columbia River shoreline and tributary washes, especially in gravel bars and streambed cutbanks where water erosion has concentrated lighter materials. Look for semi-translucent stones with banding or layering - these are typically agates rather than plain quartz pebbles. Bring a 10x loupe to examine banding patterns in the field; specimens with fine parallel bands or eye-like patterns are highest quality. Use a small rock hammer to carefully test samples, but avoid damaging private or sensitive areas - stick to obvious collecting zones on open terrain.",
+  "terrain_notes": "Elevation approximately 976 feet with gentle slopes along the Columbia River valley. Terrain varies from relatively flat gravel bars to moderate hillsides with sparse sagebrush and ponderosa pine. Walking distances from parking areas range from short 0.25-mile walks to moderate 2-3 mile hikes to reach productive collecting zones. Footing is generally rocky and uneven; sturdy boots recommended. Some areas feature loose cobbles and talus requiring careful foot placement.",
+  "best_season": "April - October. Spring through early fall provides the most comfortable temperatures and accessible terrain. Summer heat can be intense (80-90F); morning/evening collecting preferred. Fall offers cooler conditions and reduced water levels, exposing more streambed material. Winter/early spring floods can make access difficult or dangerous near the river.",
+  "written_directions": "From Nespelem, head north on Highway 155 toward Coulee Dam for approximately 8 miles. Multiple pullouts and informal parking areas appear along the river corridor - look for gravel turnouts on the east side of the road overlooking the Columbia River. The main rockhounding areas are accessible directly from these pullouts with short walks to exposed banks and washes. Coulee Dam town (approximately 12 miles north) offers services if needed.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Highway 155 is paved and well-maintained. Most pullouts are gravel or dirt surfaces suitable for standard vehicles. No high-clearance vehicles required for main collecting areas.",
+  "parking_notes": "Multiple informal pullouts and turnouts exist along Highway 155 throughout the Nespelem to Coulee Dam corridor. No developed parking lots, but spaces are available at numerous scenic overlooks and river access points. Capacity varies from 2-10 vehicles per location. Arrive early on weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use rockhounding allowed on public BLM land. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or powered tools. No collection from private land boundaries. Respect posted closures and archaeological sites.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo powered tools\nRespect private property boundaries\nLeave area clean - pack out what you pack in\nNo collection from archaeological sites or culturally sensitive areas",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "cliffs",
+    "heat",
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Coulee Dam, approximately 10-12 miles north, has gas, food, lodging, and emergency services. Nespelem has limited services. No facilities at rockhounding areas - bring water and supplies.",
+  "accessibility_notes": "Relatively accessible for a public land site. Parking pullouts are at road level with no stairs or barriers. Walking distances to productive collecting zones are short to moderate (0.25-3 miles). Terrain is rocky and uneven with loose cobbles requiring sturdy footwear. Riverside areas may have slippery rocks and steep banks. No wheelchair-accessible trails to main collecting areas. Limited mobility rockhounders should focus on the nearest pullout exposures.",
+  "alternative_names": [
+    "Columbia River rockhounding corridor",
+    "Coulee Dam collecting area"
+  ],
+  "nearest_city": "Coulee Dam",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/nespelem-to-coulee-dam-wa/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/nespelem-to-coulee-dam-wa/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/nespelem-to-coulee-dam-wa/mineral-2-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/nespelem-to-coulee-dam-wa/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and stones can I find rockhounding between Nespelem and Coulee Dam?",
+      "answer": "The primary finds in this area are banded agates, chalcedony nodules, and jasper specimens. These microcrystalline quartz minerals weathered from the ancient Columbia River Basalt formations. You may also find translucent to semi-opaque specimens with eye patterns, moss-like inclusions, or colorful banding. Most specimens range from cherry-sized to fist-sized, though larger pieces are found occasionally."
+    },
+    {
+      "question": "Is rockhounding free on BLM land near Coulee Dam, Washington?",
+      "answer": "Yes, rockhounding is completely free on public BLM land in the Nespelem to Coulee Dam corridor. No fees, no permits, and no advance registration required. You are limited to personal use collection of 25 pounds per day per Federal Land Policy and Management Act regulations. Commercial collection and motorized excavation are prohibited."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Coulee Dam?",
+      "answer": "April through October provides the best rockhounding conditions, with spring and fall offering ideal temperatures and water levels. Summer months can be very hot (80-90F), so morning or evening collecting is recommended. Winter floods can make riverbank access dangerous, and early spring snow may limit access. Fall offers excellent conditions with lower water levels exposing more streambed material."
+    },
+    {
+      "question": "How difficult is the hike to find agates along the Columbia River between Nespelem and Coulee Dam?",
+      "answer": "This is a beginner-friendly location. Multiple pullouts along Highway 155 provide easy access, with some collecting zones just steps from parking areas. Other productive zones require moderate hikes of 1-3 miles on uneven terrain with loose rocks. Sturdy boots are essential. Most rockhounders can collect successfully without extensive hiking, making this suitable for families with children ages 6 and up."
+    },
+    {
+      "question": "What tools and supplies should I bring when rockhounding near Coulee Dam?",
+      "answer": "Bring sturdy hiking boots for rocky terrain, a small rock hammer or chisel for testing specimens, a 10x jeweler's loupe to examine banding and quality, and a collection bag for your finds. Wear sun protection and bring plenty of water - there are no facilities at collecting areas. A headlamp is useful if you plan morning or evening collecting to avoid summer heat. Leave powered tools at home; they are not permitted on BLM land."
+    },
+    {
+      "question": "Can beginners and families successfully collect at Nespelem to Coulee Dam rockhounding?",
+      "answer": "Absolutely. This location is highly beginner and family-friendly with easy access from roadside pullouts and gentle terrain. Children ages 6 and up can participate safely. The abundance of specimens visible in washes and exposed banks means you do not need advanced skills to find quality material. The main challenge is correctly identifying agates versus plain quartz, but the banded specimens here are typically obvious even to newcomers."
+    }
+  ],
+  "meta_title": "Nespelem to Coulee Dam Rockhounding - Washington",
+  "meta_description": "Find agates, chalcedony, and jasper along the Columbia River. Free BLM rockhounding access. Family-friendly collecting near Coulee Dam, Washington.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type (assumed public BLM based on geography and no contradicting data)",
+    "primary_category (inferred as public_blm)",
+    "cell_service (estimated spotty based on remote location)",
+    "hazards (standard for river/remote areas)",
+    "specific collection zones (general knowledge of Columbia River rockhounding areas)"
+  ],
+  "enriched_at": "2026-04-22T09:26:59.584Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T09:32:48.424Z"
+}

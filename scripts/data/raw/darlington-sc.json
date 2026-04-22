@@ -1,0 +1,61 @@
+{
+  "slug": "darlington-sc",
+  "name": "Darlington",
+  "lat": 34.305432,
+  "lng": -79.658924,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "Florence County",
+  "city_slug": "florence-county",
+  "county": "Florence",
+  "county_slug": "florence",
+  "geocoded_city": "Florence County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Darlington%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Darlington",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Darlington%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Wadesboro",
+      "distance_mi": 52,
+      "population": 5275
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:54:56.043Z"
+  },
+  "scraped_at": "2026-04-21T17:54:56.043Z",
+  "scrape_quality": "minimal"
+}

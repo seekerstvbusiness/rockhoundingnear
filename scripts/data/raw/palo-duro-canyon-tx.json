@@ -1,0 +1,60 @@
+{
+  "slug": "palo-duro-canyon-tx",
+  "name": "Palo Duro Canyon",
+  "lat": 34.979446,
+  "lng": -101.705325,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Randall County",
+  "city_slug": "randall-county",
+  "county": "Randall",
+  "county_slug": "randall",
+  "geocoded_city": "Randall County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Palo%20Duro%20Canyon%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Palo%20Duro%20Canyon",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Palo%20Duro%20Canyon%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3169,
+      "meters": 966
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:34:50.027Z"
+  },
+  "scraped_at": "2026-04-21T18:34:50.027Z",
+  "scrape_quality": "minimal"
+}

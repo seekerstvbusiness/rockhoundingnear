@@ -1,0 +1,100 @@
+{
+  "slug": "plains-of-san-agustin-nm",
+  "name": "Plains of San Agustin",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Catron County Area",
+  "city_slug": "catron-county",
+  "county": "Catron",
+  "county_slug": "catron",
+  "lat": 33.883974,
+  "lng": -108.258576,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Explore New Mexico BLM public land in the high desert plains where colorful agate and jasper nodules scatter across flat terrain. Free rockhounding with a 25 lb daily limit.",
+  "description": "The Plains of San Agustin offer rockhounders easy access to productive agate and jasper collecting across wide-open BLM land in western New Mexico. This high elevation basin sits at nearly 7000 feet, providing a cooler collecting environment compared to lower New Mexico desert areas. The terrain is characteristically flat with scattered volcanic nodules weathering out of the soil and exposed washes, making it accessible to collectors of all skill levels.\n\nGeologically, this area is part of the San Agustin basin within the Rio Grande Rift province. Miocene-era volcanic activity and associated hydrothermal systems created abundant silica deposits that later crystallized into the agate and chalcedony nodules found here today. The flat topography and minimal vegetation make spotting these colorful stones straightforward, especially after rainfall when the landscape becomes damper and colors more vibrant.\n\nCollectors should focus their search in the shallow washes, around volcanic outcrop areas, and along the desert floor where nodules have been exposed by wind and water erosion. The open plains allow for extensive coverage, and persistence generally rewards patient rockhounders. Weather conditions at this elevation can change quickly, so preparation is essential even in mild seasons.\n\nAs BLM land, the Plains of San Agustin require no permit and offer completely free access. The 25 pound daily limit per person is generous for typical recreational collecting. This location is ideal for families new to rockhounding and experienced collectors seeking productive, uncrowded ground.",
+  "history": "The San Agustin basin was formed during Miocene volcanism (approximately 30-20 million years ago) when silica-rich magmatic fluids and hydrothermal activity deposited minerals throughout the region. These conditions created extensive agate and chalcedony veins and nodules that continue to erode out of the volcanic host rock and surrounding sediments, making the Plains a natural collecting ground for these secondary mineral deposits.",
+  "tips": "Search shallow washes and the immediate areas surrounding volcanic rock outcrops where water erosion has exposed nodules. Look for the translucent to opaque smooth stones in shades of red, brown, gray, and white - true agate typically shows banding or layering when broken or backlit. Bring a small hand lens or magnifying glass to examine stones in the field and confirm chalcedony or agate characteristics. The flat terrain allows you to cover significant ground, so work systematically across promising areas and return to productive wash sections after rainstorms when new material is exposed.",
+  "terrain_notes": "Elevation 6968 feet in a high desert basin with predominantly flat terrain. Sparse vegetation includes low shrubs and grasses typical of high elevation semi-arid environments. The ground is rocky with volcanic debris scattered across hardpan soil. Walking distances from parking areas vary depending on where you access the plains, but generally range from immediate (roadside collecting) to 1-3 miles of easy walking across open ground. Footing is stable on the flat surface, though loose rocks and cobbles require normal hiking awareness. No shade available - exposure to sun and wind is significant.",
+  "best_season": "April - October. Spring through fall offers the most stable weather at this 7000 foot elevation. Winter snowfall and cold temperatures make access difficult, while summer afternoons can be hot despite the elevation. Late spring (May-June) and early fall (September-October) provide ideal conditions with moderate temperatures and lower afternoon thunderstorm risk.",
+  "written_directions": "From Datil, New Mexico (approximately 20 miles southeast), take NM 52 west toward the San Agustin Plains. The BLM lands begin immediately adjacent to the highway. Multiple pullouts and informal access points are available along NM 52 and connecting county roads. GPS coordinates 33.883974, -108.258576 mark the central plains area. Standard passenger vehicles can access roadside collecting areas; explore deeper into the plains via rougher two-track roads if you have high-clearance vehicle.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "NM 52 is paved. Connecting county roads and two-track access roads are unpaved but generally passable in dry conditions. High-clearance vehicles recommended for exploring deeper into the plains; standard clearance sufficient for roadside access.",
+  "parking_notes": "Multiple informal pullouts along NM 52 and county roads. No designated parking lot. Park responsibly off the roadway. Ample dispersed parking available across the open plains.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. Rockhounders must pack out all waste and leave the site in its natural state.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only, no commercial collecting\n25 lb maximum per day per person\nNo motorized excavation or power tools\nNo material extraction with heavy equipment\nPack out all trash\nLeave site undisturbed\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Datil, New Mexico approximately 20 miles east, offers limited services including a small store. Luna, approximately 25 miles southeast, has a general store. Catron County is remote; plan accordingly with fuel, water, and supplies.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Roadside collecting areas are immediately accessible from parking pullouts. Deeper exploration into the plains involves easy walking on flat, open ground with minimal obstacles. No wheelchair accessibility due to unpaved roads and natural terrain. Sturdy walking shoes recommended for rocky ground, but significant hiking distance is not required.",
+  "alternative_names": [
+    "San Agustin Plains",
+    "San Agustin Basin"
+  ],
+  "nearest_city": "Datil",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/plains-of-san-agustin-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can I find at the Plains of San Agustin in New Mexico?",
+      "answer": "The Plains of San Agustin commonly produce colorful agate nodules in red, brown, gray, and white, along with chalcedony and various jasper varieties. Most specimens are translucent to opaque with natural smooth weathered surfaces. Agates here often display banding or color zoning typical of nodule formation in volcanic host rock."
+    },
+    {
+      "question": "Do I need a permit to rockhound at the Plains of San Agustin?",
+      "answer": "No permit is required. This is BLM public land open to free recreational collecting under the Federal Land Policy and Management Act. You simply need to follow the 25 pound daily limit and personal use rules with no advance registration necessary."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Catron County, New Mexico?",
+      "answer": "April through October offers the best conditions at this 7000 foot elevation. Spring (May-June) and early fall (September-October) provide ideal moderate temperatures. Avoid winter due to potential snowfall and severe cold, and be cautious in summer afternoons when thunderstorms can develop quickly."
+    },
+    {
+      "question": "How far is the Plains of San Agustin from the nearest town and what services are available?",
+      "answer": "Datil is approximately 20 miles east and offers limited services including a small store. Luna is about 25 miles southeast with a general store. Catron County is remote, so bring adequate fuel, water, and supplies before heading out. Cell service is spotty."
+    },
+    {
+      "question": "Is rockhounding at the Plains of San Agustin good for beginners and families with children?",
+      "answer": "Yes, this is an excellent beginner-friendly location. The flat, open terrain requires minimal hiking, colorful agates and jasper are easy to spot on the ground, and kids as young as 6 can participate safely. The BLM access means no fees or permits, making it family-friendly and budget-conscious."
+    },
+    {
+      "question": "What tools and equipment should I bring for collecting agate and chalcedony at San Agustin?",
+      "answer": "Bring a hand lens or magnifying glass to identify agate characteristics in the field, a small rock hammer for testing hardness, a collection bag, and plenty of water. Wear sturdy hiking boots for the rocky ground, sunscreen, and a hat for protection at this high elevation. A GPS device or smartphone with offline maps helps navigate the expansive plains."
+    }
+  ],
+  "meta_title": "Plains of San Agustin Rockhounding - New Mexico",
+  "meta_description": "Free BLM rockhounding for agate, jasper, and chalcedony near Datil, NM. Easy terrain, 25 lb daily limit, no permit required. Open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from typical San Agustin geology)",
+    "nearest_city_distance (estimated from GPS coordinates)",
+    "hazards (inferred from elevation and remoteness)",
+    "cell_service (assumed spotty based on remote location)"
+  ],
+  "enriched_at": "2026-04-22T09:50:15.707Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:04.792Z"
+}

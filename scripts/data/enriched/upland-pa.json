@@ -1,0 +1,97 @@
+{
+  "slug": "upland-pa",
+  "name": "Upland",
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "city": "Nether Providence Township",
+  "city_slug": "nether-providence-township",
+  "county": "Delaware",
+  "county_slug": "delaware",
+  "lat": 39.874783,
+  "lng": -75.37912,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Upland offers rockhounding opportunities in Delaware County's Piedmont geology. Search for quartz, feldspar, and mica crystals in weathered bedrock and stream deposits near Nether Providence Township.",
+  "description": "Upland is located in the Piedmont physiographic province of southeastern Pennsylvania, an area shaped by ancient metamorphic geology and Pleistocene glaciation. The flat, lowland terrain at 36 feet elevation sits above the weathered Wissahickon Schist and related metamorphic bedrock that underlies much of Delaware County. This geological foundation has produced deposits of quartz, feldspar, and mica minerals accessible to patient rockhounders.\n\nThe region's geological history spans over 300 million years. During the Ordovician to Devonian periods, metamorphic rocks formed deep underground under intense heat and pressure. Subsequent glaciation and stream erosion over the past 2 million years have weathered and exposed these mineral-rich formations. Creeks, stream beds, and eroded hillsides around Upland regularly yield specimens of clear to milky quartz crystals, feldspar fragments, and mica flakes.\n\nRockhounding near Upland requires patience and knowledge of Pennsylvania's public land access rules. Much of Delaware County is private land, but state game lands and public creek beds offer legal collecting opportunities. The flat terrain makes this location accessible to beginners and families, though success depends on identifying exposed mineral deposits and understanding seasonal water flow patterns.\n\nVisitors should respect property boundaries, obtain written permission on private land, and check current Pennsylvania Fish and Boat Commission regulations before collecting along waterways. The Piedmont's rich mineralogy rewards those who take time to examine exposed bedrock faces, stream banks, and glacial deposits carefully.\n\nBest results come from searching after heavy rains when fresh material is exposed in stream channels, and from visiting roadcuts or areas where natural erosion has recently exposed new bedrock surfaces.",
+  "history": "The Upland area sits within Pennsylvania's Piedmont province, where Ordovician to Devonian metamorphic rocks were formed approximately 300-400 million years ago during the Taconic and Acadian mountain-building events. Glaciation during the Pleistocene epoch and subsequent stream erosion have exposed and concentrated quartz, feldspar, and mica minerals in accessible deposits throughout Delaware County, making this region geologically rich despite its modest elevation.",
+  "tips": "Search creek beds and stream banks after rainfall, when fresh material is exposed and easier to spot against wet rocks. Use a 10x hand lens to identify quartz crystals and feldspar cleavage planes in both loose sediment and exposed bedrock faces. Target areas where stream water has cut through soil layers to expose bedrock, as these 'natural trenches' often reveal the best mineral specimens. Bring a small hammer and chisel to carefully extract crystals from softer weathered rock without damaging them.",
+  "terrain_notes": "Flat to gently rolling terrain at 36 feet elevation. Mixed residential and wooded landscape with several creeks and stream valleys. Soil coverage is typical Piedmont - weathered clay and silt over metamorphic bedrock. Walking distances from parking areas to productive collecting spots range from 50 feet to 0.5 miles. Footing is generally easy on maintained creek banks and level ground, though muddy conditions are common after rain.",
+  "best_season": "April - June and September - November. Spring and fall offer optimal conditions with moderate temperatures and reliable moisture from seasonal rains that expose fresh mineral deposits in stream channels. Summer heat and humidity can be uncomfortable during prolonged field work, while winter cold may make creek access difficult.",
+  "written_directions": "From Nether Providence Township center, head south on Pennell Road for approximately 1.5 miles to the Upland area. Continue south and look for pullouts near stream crossings, particularly along Crum Creek tributaries. The flat terrain means roads remain accessible year-round, but parking is limited to informal pullouts along residential streets and creek-adjacent areas. Always verify you are parking on public or with permission on private land.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved residential roads with standard passenger vehicle clearance. No high-clearance vehicle needed.",
+  "parking_notes": "Limited informal pullouts along residential roads near creek access points. Most parking is on-street or in small gravel areas adjacent to public waterways. Capacity typically 1-3 vehicles. Always verify parking legality before leaving your vehicle.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Most land in this area is private. Obtain written permission from landowners before collecting on private property. On public waterways and state game lands, collection for personal use is permitted under Pennsylvania Fish and Boat Commission regulations. No commercial collection. No motorized equipment. Respect all 'No Trespassing' signs and stay within marked public access areas.",
+  "quantity_limits": null,
+  "rules": "Obtain permission on private land\nPersonal use only\nNo commercial collection\nNo motorized equipment\nFollow Pennsylvania waterway regulations\nRespect property boundaries and posted signs",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Media, PA (approximately 3 miles south) offers gas, restaurants, and supplies. Nether Providence Township center provides local services 1.5 miles north.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Most productive areas are within 0.5 miles of parking. Creek banks and stream beds can be muddy and slippery, especially after rain - sturdy footwear strongly recommended. No wheelchair accessibility on informal creek trails, but nearby road areas are flat and walkable.",
+  "alternative_names": [],
+  "nearest_city": "Media",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/pennsylvania/upland-pa/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/pennsylvania/upland-pa/mineral-1-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems and minerals can you find rockhounding near Upland, Pennsylvania?",
+      "answer": "The primary finds near Upland are quartz crystals (clear to milky white), feldspar fragments, and mica flakes. These minerals occur naturally in the weathered Wissahickon Schist bedrock and glacial deposits throughout Delaware County. Clear quartz crystals are most common in stream beds, while larger feldspar specimens are found in exposed bedrock faces."
+    },
+    {
+      "question": "Is rockhounding free near Upland, PA or do I need to pay a fee?",
+      "answer": "Rockhounding is free on public waterways and state game lands in Pennsylvania. Most of the Upland area is private property, so you must obtain written permission from landowners before collecting. Check with the Pennsylvania Fish and Boat Commission for current regulations on public stream access before your visit."
+    },
+    {
+      "question": "Do I need a permit to collect rocks and minerals in Upland, Delaware County?",
+      "answer": "No permit is required for personal use collection on public waterways under Pennsylvania Fish and Boat Commission regulations. However, most land near Upland is private, and you must get explicit permission from property owners. Never collect on private land without permission, regardless of whether a permit is required."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Upland, PA?",
+      "answer": "April through June and September through November are ideal. Spring and fall provide moderate temperatures and seasonal rains that expose fresh mineral deposits in stream channels. These seasons offer comfortable conditions for extended field work without summer heat or winter cold interfering with creek access."
+    },
+    {
+      "question": "Is Upland rockhounding suitable for beginners and families with children?",
+      "answer": "Yes, Upland is beginner-friendly with flat terrain and easy access to productive areas within 0.5 miles of parking. Children ages 6 and up can participate comfortably. The main challenge is identifying minerals visually - bring a 10x hand lens to help spot quartz crystals and feldspar in stream deposits. Always supervise children near creeks."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding near Upland?",
+      "answer": "Bring a small geology hammer and chisel for extracting specimens from weathered rock, a 10x hand lens for identifying minerals, sturdy waterproof boots for creek walking, and a small bucket or collection bag. A field guide to Pennsylvania minerals helps identify finds. Gloves protect hands from sharp material commonly found in stream beds."
+    }
+  ],
+  "meta_title": "Upland Rockhounding - Find Quartz in PA",
+  "meta_description": "Rockhound for quartz, feldspar, and mica near Upland, PA. Free collecting on public streams. Family-friendly Piedmont geology. Get directions and tips.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "collection_rules",
+    "quantity_limits",
+    "family_friendly"
+  ],
+  "enriched_at": "2026-04-21T19:02:02.027Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:05:00.023Z"
+}

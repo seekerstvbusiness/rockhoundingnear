@@ -1,0 +1,60 @@
+{
+  "slug": "elizabethtown-in",
+  "name": "Elizabethtown",
+  "lat": 39.165911,
+  "lng": -85.777754,
+  "state": "Indiana",
+  "state_slug": "indiana",
+  "state_code": "IN",
+  "city": "Bartholomew County",
+  "city_slug": "bartholomew-county",
+  "county": "Bartholomew",
+  "county_slug": "bartholomew",
+  "geocoded_city": "Bartholomew County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-indiana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Elizabethtown%20Indiana"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Elizabethtown",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Elizabethtown%20Indiana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 557,
+      "meters": 170
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:51:08.203Z"
+  },
+  "scraped_at": "2026-04-21T16:51:08.203Z",
+  "scrape_quality": "minimal"
+}

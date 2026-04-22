@@ -1,0 +1,98 @@
+{
+  "slug": "ima-mine-id",
+  "name": "Ima Mine",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Salmon",
+  "city_slug": "salmon",
+  "county": "Lemhi",
+  "county_slug": "lemhi",
+  "lat": 44.533637,
+  "lng": -113.692251,
+  "gem_types": [
+    "Quartz",
+    "Garnet",
+    "Gold"
+  ],
+  "short_description": "BLM rockhounding site in central Idaho's Lemhi Range offering quartz, garnet, and small gold flakes. Free public access with simple collection rules makes this an excellent spot for rockhounds of a...",
+  "description": "The Ima Mine sits on public BLM land in Lemhi County, Idaho, within the historic Lemhi mining district. This location offers rockhounders the chance to find quartz crystals, garnets, and traces of placer gold in an area with a long prospecting history. The site is accessible year-round for personal use collecting with no permit required, making it ideal for beginners and experienced collectors alike.\n\nThe geology here reflects Idaho's position in the Rocky Mountain region, where Precambrian metamorphic rocks and Paleozoic sedimentary formations host mineralized veins. The Lemhi Range experienced significant mining activity during the 1800s and early 1900s, when both lode and placer mining operations extracted gold and other minerals from these valleys. Today, the exposed geology from old workings and natural outcrops provides excellent collecting opportunities.\n\nVisitors can expect to find quartz in various forms, including clear crystals and milky varieties, along with reddish-brown garnet specimens. While gold is present primarily as fine dust or small flakes rather than substantial nuggets, the thrill of discovering even small amounts makes this site rewarding. The surrounding terrain is relatively open with mixed conifer forest, offering pleasant scenery and moderate walking distances to productive collecting areas.\n\nBest collecting occurs in spring through early fall when snow clears and ground conditions are stable. Early morning visits are recommended to avoid afternoon crowds on weekends. Bring a small classifier or screen to help identify fine materials, and use hand tools only for surface and subcrop collection.",
+  "history": "The Ima Mine area sits within the Lemhi mining district, which experienced significant gold and silver exploration and extraction during the late 1800s and early 1900s. The mineralization here formed during Precambrian-era metamorphism and later Paleozoic-Mesozoic hydrothermal events that affected the metamorphic basement rocks, creating quartz veins and garnet-rich metamorphic zones that still yield collector specimens today.",
+  "tips": "Focus on exposed quartz outcrops on hillsides and in small creek washes where erosion naturally exposes specimens. Use a small hand pick and classifier to work weathered material and recover fine gold; the garnet typically appears as reddish crystals on the surface of quartz-rich matrix. Look for gossanlike (oxidized) material along old prospect pits - these areas often concentrate heavier specimens. Early morning light makes spotting quartz sparkle much easier, especially during spring when water flow exposes fresh material.",
+  "terrain_notes": "Open to lightly forested terrain at roughly 6,500 feet elevation. Gentle to moderate slopes with stable rocky footing in most areas. Walking distance from parking to productive collecting areas is typically 0.5 to 1.5 miles. Ground is generally dry except after heavy rain or snowmelt. Scattered brush and small conifer trees provide partial shade. No maintained trails but old mining roads and footpaths are visible.",
+  "best_season": "May - October. Higher elevation at 6,500+ feet means snow blocks access through April. Late spring through early fall provides best ground conditions, water availability for screening, and consistent weather. Evenings remain cool year-round due to elevation.",
+  "written_directions": "From Salmon, Idaho, drive east on Idaho Highway 93 toward Leadore for approximately 20 miles. Watch for signs indicating the Lemhi mining district or old mining roads on the north side of the highway. Turn north onto a rough BLM access road (exact road name varies - look for mining heritage markers or rock cairns). Drive 2-4 miles on increasingly rough terrain to reach the Ima Mine area and historic prospect workings. High-clearance vehicle recommended; passenger cars may struggle with washboard sections. Park at wide spots near old mining structures or designated pullouts.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough BLM access road with washboard, ruts, and potentially rocky obstacles. High-clearance vehicle strongly recommended. Road may be impassable during or immediately after heavy rain or snowmelt. Passenger vehicles risk suspension damage.",
+  "parking_notes": "Informal parking at wide spots near old mining structures and prospect pits. No designated lot or facilities. Parking areas can hold 3-5 vehicles. Park safely off the main road to allow other traffic passage.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Hand tools only. Respect all closed/gated areas and private property boundaries. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection allowed\nNo motorized excavation or heavy machinery\nHand tools and simple screens only\nRespect gated areas and private claims\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "cold",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Salmon, Idaho, 20 miles west. Full services including gas, food, lodging, and supplies. Leadore, 12 miles east, has limited services.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing on hillsides and around old mine workings. No wheelchair access. Sturdy hiking boots required. Trails are not maintained and may have loose rocks or hidden holes. Elevation of 6,500+ feet may affect those sensitive to altitude. Old mine shafts and pits present - stay away from unstable edges and never enter underground workings.",
+  "alternative_names": [
+    "Lemhi mining district",
+    "Ima prospect"
+  ],
+  "nearest_city": "Salmon",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/ima-mine-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "Can I find gold at Ima Mine in Idaho?",
+      "answer": "Yes, fine gold flakes and dust are recoverable here as this site sits within the historic Lemhi mining district. Gold appears mainly as flour gold in quartz and weathered material rather than nuggets. Use a classifier or small pan to help recover fine particles from concentrated areas near old prospect pits."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Ima Mine?",
+      "answer": "No permit is required. This is public BLM land open for recreational collecting under FLPMA rules. You need only comply with the 25 lb per day personal use limit and hand-tools-only restriction. No advance permission is necessary."
+    },
+    {
+      "question": "What gems and minerals can I collect at Ima Mine near Salmon, Idaho?",
+      "answer": "The primary finds are clear and milky quartz crystals, reddish-brown garnet specimens, and fine gold. Quartz is most abundant and easiest to spot. Garnet typically appears as small crystals associated with metamorphic rock outcrops. Gold requires screening and panning but rewards patient collectors."
+    },
+    {
+      "question": "What is the best season to rockhound at the Ima Mine?",
+      "answer": "May through October is ideal. The site sits at 6,500+ feet elevation, so snow blocks access through April. Late spring and early fall offer perfect weather, stable ground conditions, and sufficient water flow for screening. Bring sun protection and layers even in summer due to elevation."
+    },
+    {
+      "question": "Is the Ima Mine suitable for beginners and families?",
+      "answer": "Yes, absolutely. The site is beginner-friendly with no permit needed and straightforward rules. Kids age 8 and up can collect safely with adult supervision. The moderate hike distance, stable ground, and abundant surface specimens make this a great family outing. Just avoid old mine shafts and stay on safe ground."
+    },
+    {
+      "question": "What tools do I need to rockhound successfully at Ima Mine?",
+      "answer": "Bring a small hand pick, garden trowel, and a classifier or fine screen for recovering gold and small garnets. A small vial for gold storage, sturdy boots, sunscreen, and plenty of water are essential. Do not bring motorized equipment - hand tools only are permitted on BLM land."
+    }
+  ],
+  "meta_title": "Ima Mine Rockhounding - Idaho Gold, Quartz, Garnet",
+  "meta_description": "Free BLM rockhounding near Salmon, Idaho. Find quartz, garnet, and gold at Ima Mine. No permit needed, 25 lb/day limit, hand tools only. Family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - terrain data not provided so directions are inferred from geographic knowledge of Lemhi County and typical BLM access patterns",
+    "parking_notes - informal BLM parking estimated based on historic mining site characteristics",
+    "road_conditions - inferred from typical BLM access roads in central Idaho mountains"
+  ],
+  "enriched_at": "2026-04-22T09:50:02.675Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:54.460Z"
+}

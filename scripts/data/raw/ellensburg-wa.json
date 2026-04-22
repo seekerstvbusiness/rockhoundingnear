@@ -1,0 +1,60 @@
+{
+  "slug": "ellensburg-wa",
+  "name": "Ellensburg",
+  "lat": 47.089262,
+  "lng": -120.517846,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Kittitas County",
+  "city_slug": "kittitas-county",
+  "county": "Kittitas",
+  "county_slug": "kittitas",
+  "geocoded_city": "Kittitas County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ellensburg%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ellensburg",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ellensburg%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2110,
+      "meters": 643
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:03:46.217Z"
+  },
+  "scraped_at": "2026-04-21T19:03:46.217Z",
+  "scrape_quality": "minimal"
+}

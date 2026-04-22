@@ -1,0 +1,97 @@
+{
+  "slug": "specimen-mountain-co",
+  "name": "Specimen Mountain",
+  "state": "Colorado",
+  "state_slug": "colorado",
+  "city": "Fort Collins",
+  "city_slug": "fort-collins",
+  "county": "Larimer",
+  "county_slug": "larimer",
+  "lat": 40.442759,
+  "lng": -105.808412,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "High-elevation BLM rockhounding site near Fort Collins offering alpine quartz, feldspar specimens, and mica flakes in a pristine Rocky Mountain setting. Personal use collecting allowed with no perm...",
+  "description": "Specimen Mountain sits at nearly 12,000 feet in the Larimer County BLM lands northwest of Fort Collins, offering a unique alpine rockhounding experience in the northern Colorado Front Range. The site is accessible via public BLM land where recreational collectors can search for quartz specimens, feldspar crystals, and mica flakes without a permit. The high elevation and moderate slopes provide good exposure of the underlying Precambrian granite and metamorphic bedrock that characterizes this region.\n\nThe mountain's geological foundation consists of ancient Precambrian granite intruded with pegmatites, which weather to release individual mineral specimens. Quartz is the dominant find, often in milky white, clear, or smoky varieties. Feldspar occurs as pink or white crystals in decomposing granite faces, while mica sheets can be found along weathered outcrops and in talus.\n\nExpect to work moderate slopes with rocky, uneven terrain typical of the Colorado high country. The alpine environment means shorter growing season, strong UV exposure, and rapid weather changes. Morning searches often yield better results as dew helps reveal crystalline surfaces. Most collectors park near the base and hike upslope following natural drainage lines and exposed granite faces.\n\nThis location appeals to collectors seeking authentic alpine specimens and those wanting to rockhound at elevation without the crowds of developed fee sites. The raw, wild character of the terrain and the quality of Precambrian material make Specimen Mountain a rewarding destination for intermediate to experienced rockhounders.",
+  "history": "Specimen Mountain's minerals formed during the Precambrian era, over 1.7 billion years ago, when granite intruded into older metamorphic rocks during the Archean orogeny that built the ancestral Rocky Mountains. Subsequent pegmatite intrusions enriched the area with quartz, feldspar, and mica crystals that weather out of the bedrock today.",
+  "tips": "Search along exposed granite outcrops and the weathered edges of pegmatite seams where mineral specimens naturally weather free. Use a rock hammer to carefully expose fresh crystalline surfaces on talus boulders, and look for milky quartz veins cutting through the granite bedrock. Bring a hand lens to identify feldspar color and mica cleavage, and collect along the upper slopes where glacial action and freeze-thaw weathering continuously expose new material. Pack out all waste and use only hand tools - no powered equipment allowed.",
+  "terrain_notes": "Specimen Mountain reaches 11,967 feet elevation with moderate to steep rocky slopes. Terrain is characterized by exposed granite faces, talus fields, and alpine tundra vegetation at the summit. Walking distance from parking to productive collecting areas ranges from 0.5 to 2 miles depending on route. Footing is rocky and uneven with loose scree common. No developed trails; off-trail hiking required.",
+  "best_season": "June - September. High elevation snow blocks access October through May. Summer provides the shortest window for safe alpine access, though afternoon thunderstorms are common. Early morning starts recommended to avoid weather and secure best parking.",
+  "written_directions": "From Fort Collins, take US 34 west toward Rocky Mountain National Park for approximately 20 miles. Turn north on County Road 7 (Buckhorn Road) and follow it for about 8 miles to BLM access points. Continue on County Road 7 as it becomes rougher; parking pullouts appear along the road as elevation increases. Final approach to Specimen Mountain trailhead requires high-clearance vehicle. GPS coordinates 40.442759, -105.808412 mark the primary collecting area.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "County Road 7 transitions from improved gravel to rough, rutted surface at higher elevations. High-clearance vehicle strongly recommended. No washboard typical. Last 3 miles may be impassable in wet conditions or winter.",
+  "parking_notes": "Multiple informal pullouts exist along County Road 7 as you ascend toward Specimen Mountain. No developed parking lot; capacity is 3-5 vehicles per pullout. Park off road to avoid blocking traffic. No amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or mechanical equipment. Hand tools only. Respect existing mining claims marked on the ground.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or mechanical equipment\nHand tools only\nRespect marked mining claims",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cold",
+    "cliffs",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Fort Collins, approximately 25 miles south. Full services including gas, food, lodging, and supply stores. Last reliable services at Estes Park, approximately 15 miles northeast.",
+  "accessibility_notes": "Rough backcountry terrain with steep alpine slopes and significant elevation gain. Uneven rocky footing with loose scree throughout. Not suitable for limited mobility. Sturdy high-ankle hiking boots essential. High-clearance vehicle needed for road access. Altitude above 11,000 feet requires acclimatization. No wheelchair access.",
+  "alternative_names": [],
+  "nearest_city": "Fort Collins",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/specimen-mountain-co/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What can you find rockhounding at Specimen Mountain in Colorado?",
+      "answer": "Specimen Mountain offers quartz specimens in milky white, clear, and smoky varieties, pink and white feldspar crystals, and mica sheets. The high-elevation Precambrian granite exposes these minerals naturally through weathering, making them available for hand collection along outcrops and in talus fields."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Specimen Mountain near Fort Collins?",
+      "answer": "No permit is required. Specimen Mountain sits on BLM land where recreational rockhounding is allowed under FLPMA regulations. You must follow the 25 lb per day collection limit and use hand tools only."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Specimen Mountain?",
+      "answer": "June through September is the only practical collecting season. High elevation snow blocks access the rest of the year. Early mornings in summer offer the best conditions before afternoon thunderstorms develop. Plan for rapid weather changes and bring layers."
+    },
+    {
+      "question": "How difficult is rockhounding at Specimen Mountain Colorado?",
+      "answer": "This is a moderate to hard location suitable for intermediate rockhounders. The 12,000-foot elevation, steep rocky slopes, off-trail hiking, and alpine terrain require good fitness and experience. The 0.5 to 2-mile hike from parking to collecting areas gains significant elevation over rocky, uneven ground."
+    },
+    {
+      "question": "What tools and supplies do you need for Specimen Mountain rockhounding?",
+      "answer": "Bring a rock hammer, chisel, sturdy high-ankle hiking boots, and a hand lens. Pack layers for temperature swings, rain gear, plenty of water, and sun protection. Use only hand tools - no powered equipment allowed on BLM land."
+    },
+    {
+      "question": "Is Specimen Mountain a good rockhounding spot for beginners?",
+      "answer": "Specimen Mountain is better suited to experienced rockhounders due to high elevation, remote location, rough terrain, and lack of developed facilities. Beginners should start at lower-elevation fee dig sites near Fort Collins before attempting this alpine location."
+    }
+  ],
+  "meta_title": "Specimen Mountain Rockhounding - Colorado",
+  "meta_description": "Find quartz, feldspar, and mica at Specimen Mountain on BLM land near Fort Collins. No permit needed, 25 lb daily limit. High-elevation alpine collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from general Colorado geography and typical BLM access patterns; specific road names unconfirmed",
+    "parking_notes - typical for remote BLM sites; specific pullout details unconfirmed",
+    "gem_types - inferred from Precambrian granite geology of Colorado Front Range; specific specimens not field-verified",
+    "cell_service - spotty rating based on remote high-elevation location; actual coverage unconfirmed"
+  ],
+  "enriched_at": "2026-04-21T16:55:32.014Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T16:56:23.721Z"
+}

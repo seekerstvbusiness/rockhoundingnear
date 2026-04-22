@@ -1,0 +1,60 @@
+{
+  "slug": "sacandaga-river-ny",
+  "name": "Sacandaga River",
+  "lat": 43.467544,
+  "lng": -74.227323,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Town of Wells",
+  "city_slug": "town-of-wells",
+  "county": "Hamilton",
+  "county_slug": "hamilton",
+  "geocoded_city": "Town of Wells",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Sacandaga%20River%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Sacandaga%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Sacandaga%20River%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1203,
+      "meters": 367
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:40:30.354Z"
+  },
+  "scraped_at": "2026-04-21T18:40:30.354Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "elkhorn-mountain-mt",
+  "name": "Elkhorn Mountain",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Jefferson",
+  "city_slug": "jefferson",
+  "county": "Jefferson",
+  "county_slug": "jefferson",
+  "lat": 46.290943,
+  "lng": -111.935909,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding site in the Jefferson County area featuring quartz, agate, and jasper in a high-elevation mountain setting. Free public collecting with no permit required.",
+  "description": "Elkhorn Mountain is a high-elevation rockhounding destination on Bureau of Land Management land in southwestern Montana. Located at 7,490 feet, this site offers excellent opportunities for collectors seeking quartz varieties, agate, jasper, and chalcedony specimens typical of Montana's Basin and Range geology. The area attracts both beginners and experienced rockhounders seeking quality specimens without the cost of fee dig operations.\n\nThe mountain sits within Montana's mineralized zone where Paleozoic and Mesozoic sedimentary formations have been altered and enriched by hydrothermal activity. Silica-rich fluids deposited during the Laramide Orogeny created the excellent conditions for quartz, agate, and jasper formation found throughout this region. Exposed ridges and weathered slopes on Elkhorn Mountain provide natural windows into these mineralized zones.\n\nCollecting here involves hiking across relatively open terrain with good visibility. The elevation provides cooler temperatures and stunning views of the surrounding mountains. Most productive collecting happens on slope wash areas where specimens weather out of the surrounding host rock and accumulate. This is a personal-use BLM site with generous daily limits, making it ideal for serious collectors who want to build collections without commercial pressures.\n\nAccess is straightforward via established roads and hiking trails. The high elevation means the site is seasonal, but spring through fall offers excellent collecting windows. Bring plenty of water as the elevation and exposure create drying conditions. The remoteness adds to the appeal for collectors seeking solitude and authentic rockhounding experiences.",
+  "history": "Elkhorn Mountain sits within the northern Basin and Range province where Laramide-era compression and subsequent extension created extensive fracture systems. Hydrothermal fluids circulating through these fractures deposited silica-rich minerals, forming the quartz, agate, and jasper deposits found here today. The region has a long history of small-scale prospecting and mining, though Elkhorn Mountain itself is primarily known for recreational rockhounding rather than commercial mineral extraction.",
+  "tips": "Search the slope wash areas below exposed ridge outcrops, as weathered specimens accumulate in these natural collection zones. Look for translucent to milky white quartz chunks and banded agate pieces in the 1-3 inch size range, often with reddish or brown iron-oxide staining. Bring a heavy hammer and chisel to carefully work specimens from the outcrop if you locate a productive vein, and always check for solid footing on loose scree before striking. Start searching in the lower drainage areas first where specimens are more accessible, then work higher on the ridges as you gain familiarity with the terrain.",
+  "terrain_notes": "Steep to moderately steep mountain terrain at 7,490 feet elevation with mixed sagebrush and scattered conifer cover. Numerous exposed ridges and weathered slopes create natural collecting opportunities. Walking distance from parking to productive collecting areas ranges from 0.5 to 2 miles depending on where you focus efforts. Footing is variable with solid rock, loose scree, and uneven ground requiring sturdy hiking boots and careful stepping. Expect thin air at this elevation if you are not acclimated.",
+  "best_season": "June - September. Mountain elevation means heavy winter snow and cold temperatures make access difficult or impossible from October through May. Summer months offer mild temperatures, dry conditions, and reliable road access. September can be exceptionally pleasant with low humidity and cool mornings.",
+  "written_directions": "From Jefferson, Montana, head northwest on Montana Highway 287 for approximately 12 miles toward the Madison Range. Turn east onto a BLM access road marked for Elkhorn Mountain area (specific road name varies on maps but is well-signed for public lands access). Continue on this road for 6-8 miles as it climbs toward the mountain. Follow the main BLM track as it gains elevation; the road becomes rougher but remains passable for high-clearance vehicles in good conditions. Look for pullouts and parking areas near the base of Elkhorn Mountain where trails lead upslope into the rockhounding areas. A GPS device or detailed BLM map is highly recommended to confirm the exact access road, as local conditions and road maintenance may vary seasonally.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "BLM access road is well-maintained but unpaved with rough sections. High-clearance vehicle recommended, especially in early season when ruts may be present. Road surface is dirt and gravel with some washboard sections.",
+  "parking_notes": "Pullouts and informal parking areas exist at the base of Elkhorn Mountain along the main BLM road. No developed parking lot. Space is typically available as this is a low-use area. Parking is free and unrestricted.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or power tools. Collection is limited to hand tools and light hammering. Respect BLM markers and closures. Pack out all trash and fill any holes dug during collecting.",
+  "quantity_limits": "25 lbs per day per FLPMA",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools and light hammering only\nRespect all BLM markers and closures\nPack out all trash\nFill any holes dug during collecting",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "loose_rock",
+    "cold",
+    "remote",
+    "wildlife"
+  ],
+  "nearest_services": "Jefferson, Montana, approximately 12-14 miles south. Limited services; stock up on fuel, food, and water before heading to the site.",
+  "accessibility_notes": "Moderate difficulty terrain with steep slopes and loose scree. Hiking boots required. Uneven footing and elevation gain make this unsuitable for young children or those with limited mobility. No wheelchair access. The site involves hiking 0.5-2 miles uphill with significant elevation gain. Be prepared for high-altitude conditions at 7,490 feet.",
+  "alternative_names": [],
+  "nearest_city": "Jefferson",
+  "nearest_city_distance": 13,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/elkhorn-mountain-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/elkhorn-mountain-mt/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Elkhorn Mountain in Montana?",
+      "answer": "Elkhorn Mountain is known for high-quality quartz varieties, agate with banded patterns, jasper, and chalcedony specimens. Most collectors find translucent white quartz chunks and rust-colored to brown banded agate pieces in the 1-3 inch range. These silica-rich minerals formed during the Laramide Orogeny and weathered out of the surrounding rock along slope wash areas."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Elkhorn Mountain BLM land?",
+      "answer": "No permit is required. Elkhorn Mountain is on Bureau of Land Management public lands where recreational collecting is allowed under FLPMA regulations. You can collect free of charge, but you must follow the 25 lb per day personal-use limit and bring hand tools only. No commercial collection or motorized equipment is permitted."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Elkhorn Mountain Montana?",
+      "answer": "June through September is the ideal collecting season. The high elevation of 7,490 feet means heavy snow and cold temperatures make access difficult or impossible in winter. Summer months offer dry conditions, mild temperatures, and reliable road access. September is particularly pleasant with cool mornings and low humidity."
+    },
+    {
+      "question": "How difficult is hiking at Elkhorn Mountain for rockhounding beginners?",
+      "answer": "Elkhorn Mountain is moderately difficult. While beginners can find specimens, the steep terrain, loose scree, and high elevation require sturdy hiking boots and good physical fitness. Expect to hike 0.5-2 miles uphill with significant elevation gain. The site is best suited for kids 8 and older who enjoy hiking. Start in lower drainage areas where specimens are more accessible before exploring higher ridges."
+    },
+    {
+      "question": "What tools and equipment should I bring rockhounding at Elkhorn Mountain?",
+      "answer": "Bring a heavy hammer, chisel, and hand tools for safe specimen extraction. A high-clearance vehicle or AWD is recommended for the BLM access road. Pack plenty of water (at least 3 liters) as the elevation creates drying conditions. Sturdy hiking boots with good ankle support are essential for the uneven scree terrain. Include a backpack, GPS device, and a detailed BLM map to navigate reliably."
+    },
+    {
+      "question": "How far is Elkhorn Mountain from town and are there services nearby?",
+      "answer": "Elkhorn Mountain is approximately 12-14 miles north of Jefferson, Montana. The nearest services including fuel, food, and water are in Jefferson. There are no services at the rockhounding site itself, so plan accordingly and stock up before heading out. Cell service is spotty in the area, so bring offline maps and inform someone of your plans."
+    }
+  ],
+  "meta_title": "Elkhorn Mountain Rockhounding - Montana BLM",
+  "meta_description": "Find quartz, agate, and jasper at Elkhorn Mountain in Jefferson County, Montana. Free BLM rockhounding at 7,490 feet with no permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - specific BLM road name not confirmed from source",
+    "gem_types - inferred from typical Montana Basin and Range mineralization without site-specific confirmation",
+    "nearest_city - used Jefferson as closest named town; county name used as city slug due to town size",
+    "cell_service - estimated as spotty based on elevation and remoteness; not confirmed"
+  ],
+  "enriched_at": "2026-04-21T19:06:50.628Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:09:53.661Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "airpoint-va",
+  "name": "Airpoint",
+  "lat": 37.176054,
+  "lng": -80.110803,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Roanoke County",
+  "city_slug": "roanoke-county",
+  "county": "Roanoke",
+  "county_slug": "roanoke",
+  "geocoded_city": "Airpoint",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Airpoint%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Airpoint",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Airpoint%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2552,
+      "meters": 778
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:01:10.134Z"
+  },
+  "scraped_at": "2026-04-21T19:01:10.134Z",
+  "scrape_quality": "minimal"
+}

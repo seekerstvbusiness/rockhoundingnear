@@ -1,0 +1,99 @@
+{
+  "slug": "santa-rita-nm",
+  "name": "Santa Rita",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Santa Clara",
+  "city_slug": "santa-clara",
+  "county": "Grant",
+  "county_slug": "grant",
+  "lat": 32.80299,
+  "lng": -108.066489,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Public BLM rockhounding site near Santa Clara with excellent agate and jasper deposits. No permit required - collect up to 25 lbs per day for personal use.",
+  "description": "Santa Rita is a productive public BLM rockhounding area in Grant County's high desert terrain, located at 6689 feet elevation in the foothills near Santa Clara. The site offers abundant opportunities to find quality agate, jasper, and chalcedony specimens in washes and surrounding hillsides. This location sits within the Basin and Range province where Miocene-era volcanic activity and subsequent weathering created extensive silica-rich deposits that formed the agate and chalcedony nodules found here today.\n\nThe moderate slopes and exposed rocky terrain make this a relatively accessible rockhounding destination for collectors of all experience levels. Washes cutting through the area expose fresh material, particularly after seasonal rains when erosion brings new specimens to the surface. The elevation provides relief from intense heat, making spring and fall collecting seasons more comfortable than lower desert locations.\n\nCollectors should expect to hike moderate distances from parking areas and work through rocky, uneven terrain. The site rewards patient searching in wash beds and along hillside exposures where weathering has naturally freed specimens from host rock. Most productive areas lie within walking distance of established pullouts, though exploring deeper into side canyons may yield better-quality pieces.\n\nAs BLM land, Santa Rita operates under standard recreational collection rules with no permits required. The 25-pound daily limit encourages sustainable collecting while allowing rockhounders to take home meaningful specimens. Water and services are available in nearby Santa Clara, making this an easy half-day or full-day trip from town.",
+  "history": "This region sits within the classic Basin and Range geology of southwestern New Mexico, where Miocene volcanic eruptions (25-15 million years ago) deposited silica-rich rhyolite and andesite that hosted later hydrothermal activity. Ground and surface waters carrying dissolved silica moved through fractures and cavities in the volcanic rock, gradually depositing agate and chalcedony nodules over millions of years - a process that continues today in microscopic increments.",
+  "tips": "Search wash beds and dry arroyos first, as erosion continuously exposes new material; focus on areas where water has concentrated pebbles and where recent rains have disturbed the surface. Look for translucent banding in agate specimens and the distinctive fire colors in better-quality pieces - the best finds often show internal patterns that become visible when wet or held to sunlight. Use a small hand lens to examine potential specimens before adding them to your collection, as weathered exterior surfaces often hide exceptional agate patterns inside. Bring plenty of water, sun protection, and sturdy boots - the rocky terrain is unforgiving and the elevation means weather can change quickly.",
+  "terrain_notes": "Elevation 6689 feet with moderate slopes across high desert terrain featuring exposed volcanic rock outcrops, sparse juniper and piyon pine vegetation, and multiple wash systems. Walking distances from parking areas typically 0.5 to 2 miles depending on target areas. Rocky, uneven footing throughout with loose talus and scattered sharp volcanic debris. No formal trails - cross-country travel required. Most productive collecting areas lie in wash beds with sandy-gravelly substrate mixed with rounded agates.",
+  "best_season": "April - May and September - November. Spring and fall offer comfortable temperatures at this elevation, with moderate daytime highs (65-75F) and cool mornings. Summer heat and afternoon thunderstorm risk make July-August challenging; winter snow and cold (frequent freezing nights above 6000 ft) limit access November through March.",
+  "written_directions": "From Santa Clara, drive east on NM 152 toward Silver City for approximately 8 miles. Look for pullouts on the north side of the highway near mile marker 40, where wash systems have exposed agate-rich gravels. Park in established turnouts and walk north into the foothills, following washes and rocky slopes. Secondary access via Forest Road 600 from the north provides additional parking and access to higher elevation deposits.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "NM 152 is paved two-lane highway in good condition. Parking pullouts are graded dirt with minor washboard. No high-clearance vehicle required for highway access; optional 4WD for exploring secondary roads.",
+  "parking_notes": "Multiple graded dirt pullouts along NM 152 with capacity for 3-5 vehicles each. No facilities. Best parking near wash access points on north side of highway.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or power tools. Pack out all trash. Stay on established routes where possible to minimize surface disturbance.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\n25 pound daily limit per FLPMA\nNo commercial collection or sales\nNo motorized excavation equipment\nNo power tools or jackhammers\nLeave the area as you found it",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Santa Clara, 8 miles west - gas, food, water, and lodging available. Silver City, 20 miles southeast - full services including rock shops and museums.",
+  "accessibility_notes": "Moderate terrain with rocky, uneven footing throughout. No wheelchair access. Hiking up to 2 miles cross-country from parking. Sturdy boots strongly recommended. Slopes are manageable for reasonably fit hikers. No established trails - navigation by landmarks and wash systems. Not suitable for mobility-limited visitors.",
+  "alternative_names": [],
+  "nearest_city": "Santa Clara",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/santa-rita-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can you find rockhounding at Santa Rita in New Mexico?",
+      "answer": "Santa Rita is known for quality agate, jasper, chalcedony, and quartz specimens. The site's volcanic geology produces banded agates with distinctive color patterns - many pieces show translucent to semi-translucent banding in whites, reds, oranges, and browns. Jasper and chalcedony are also abundant and often found alongside agates in wash beds and hillside exposures."
+    },
+    {
+      "question": "Is a permit required to rockhound at Santa Rita near Santa Clara?",
+      "answer": "No permit is required. Santa Rita sits on public BLM land where recreational collecting is allowed under the Federal Land Policy and Management Act (FLPMA). You can collect up to 25 pounds per day for personal use without any paperwork. However, you must follow all collection rules - no commercial use, no motorized excavation, and pack out all trash."
+    },
+    {
+      "question": "What is the best time to go rockhounding at Santa Rita, New Mexico?",
+      "answer": "April through May and September through November are ideal. Spring and fall offer comfortable daytime temperatures (65-75F) at the 6689-foot elevation, with cool mornings. Summer heat and afternoon thunderstorms make July-August challenging, while winter brings frequent freezing temperatures that can make the high-elevation terrain difficult to navigate."
+    },
+    {
+      "question": "How do you find the best agate specimens at Santa Rita?",
+      "answer": "Focus your search in dry wash beds where water erosion naturally concentrates material, particularly after seasonal rains that expose fresh specimens. Look for translucent banding and hold promising pieces to sunlight to reveal internal patterns - weathered exterior surfaces often hide exceptional color patterns inside. Using a hand lens to examine specimens before collecting helps you identify higher-quality pieces worth the weight limit."
+    },
+    {
+      "question": "Is Santa Rita a good rockhounding site for beginners and families?",
+      "answer": "Yes, Santa Rita is beginner and family-friendly. The moderate terrain and abundant surface material make it easy to find specimens without special tools or experience. No permit requirement eliminates red tape. The 8-mile distance from Santa Clara means you can make it a half-day outing. Kids age 8 and up can comfortably participate with adult supervision, though sturdy boots and sun protection are essential at the higher elevation."
+    },
+    {
+      "question": "What tools and supplies do you need to rockhound at Santa Rita?",
+      "answer": "Bring sturdy hiking boots (rocky terrain is sharp and uneven), a small hammer or pry bar for specimen extraction, a 5-gallon bucket or collection bag, hand lens for examining pieces, sunscreen, hat, and 2-3 liters of water per person. The 25-pound daily limit means you don't need heavy gear, but come prepared for exposed high-desert conditions and potential afternoon temperature drops at 6689-foot elevation."
+    }
+  ],
+  "meta_title": "Santa Rita Rockhounding - Find Agate in New Mexico",
+  "meta_description": "Public BLM rockhounding at Santa Rita, NM. Collect agate, jasper, and chalcedony - 25 lbs daily, no permit. Near Santa Clara, moderate difficulty.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated from GPS and known road distances)",
+    "road_conditions (inferred from typical NM 152 and BLM access roads)",
+    "parking_notes (typical BLM pullout configuration)",
+    "cell_service (spotty - standard for Grant County high desert)",
+    "remoteness_rating (assigned based on 8 miles from town + public highway access)"
+  ],
+  "enriched_at": "2026-04-22T10:17:27.700Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:18:23.780Z"
+}

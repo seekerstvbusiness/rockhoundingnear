@@ -1,0 +1,65 @@
+{
+  "slug": "bear-river-range-ut",
+  "name": "Bear River Range",
+  "lat": 41.63284,
+  "lng": -111.667856,
+  "state": "Utah",
+  "state_slug": "utah",
+  "state_code": "UT",
+  "city": "Cache County",
+  "city_slug": "cache-county",
+  "county": "Cache",
+  "county_slug": "cache",
+  "geocoded_city": "Cache County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-utah.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bear%20River%20Range%20Utah"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Utah BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bear%20River%20Range",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bear%20River%20Range%20Utah"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Utah BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 6283,
+      "meters": 1915
+    },
+    "slope": "steep terrain",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:43:11.947Z"
+  },
+  "scraped_at": "2026-04-21T19:43:11.947Z",
+  "scrape_quality": "partial"
+}

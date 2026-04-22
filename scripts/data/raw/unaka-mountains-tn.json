@@ -1,0 +1,57 @@
+{
+  "slug": "unaka-mountains-tn",
+  "name": "Unaka Mountains",
+  "lat": 36.110236,
+  "lng": -82.381487,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Unicoi County",
+  "city_slug": "unicoi-county",
+  "county": "Unicoi",
+  "county_slug": "unicoi",
+  "geocoded_city": "Unicoi County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Unaka%20Mountains%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Unaka%20Mountains",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Unaka%20Mountains%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:35:20.825Z"
+  },
+  "scraped_at": "2026-04-21T18:35:20.825Z",
+  "scrape_quality": "minimal"
+}

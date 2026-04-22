@@ -1,0 +1,103 @@
+{
+  "slug": "beowawe-nv",
+  "name": "Beowawe",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Eureka",
+  "city_slug": "eureka",
+  "county": "Eureka",
+  "county_slug": "eureka",
+  "lat": 40.576714,
+  "lng": -116.515289,
+  "gem_types": [
+    "Opal",
+    "Chalcedony",
+    "Agate"
+  ],
+  "short_description": "A scenic BLM rockhounding site near the Beowawe Geysers in Nevada's high desert, known for common opal, chalcedony, and agate finds in moderate-slope terrain at 4952 feet elevation.",
+  "description": "Beowawe is a public BLM rockhounding destination located in Eureka County's remote high-desert landscape, approximately 22 miles southeast of Eureka. The area is best known for collectors seeking common opal, chalcedony nodules, and occasional agate specimens. The site sits near the famous Beowawe Geysers, a geothermal feature that hints at the area's rich mineral-forming history.\n\nThe terrain around Beowawe features moderate slopes covered in sagebrush and desert vegetation typical of the Great Basin. At nearly 5000 feet elevation, the area experiences clear, dry conditions most of the year with well-defined seasonal changes. Collectors will find scattered opal and chalcedony deposits in weathered outcrops and wash areas, making it accessible for rockhounders of varying experience levels.\n\nAs BLM public land, Beowawe offers free access for personal use collecting with no permit required. The 25-pound-per-day limit ensures sustainable collection and protects the geological resource. The moderate slope and open terrain make navigation straightforward, though sturdy footwear is recommended for rocky ground.\n\nThe area's gem deposits are part of Nevada's extensive silica-rich mineral formations, created by ancient thermal and volcanic activity that continues to influence the landscape today. Beowawe's proximity to active geothermal features makes it a unique collecting destination where geology and history intersect.",
+  "history": "Beowawe sits within Nevada's Basin and Range province, where Tertiary-age volcanic and hydrothermal activity deposited silica-rich minerals throughout the region. The geysers and hot springs present at Beowawe indicate ongoing geothermal circulation that created favorable conditions for opal and chalcedony formation, with some deposits representing relatively recent mineral precipitation from hot mineral-rich waters.",
+  "tips": "Search wash bottoms and eroded hillsides where chalcedony nodules and common opal naturally collect and weather out of host rock. Bring a small backpack and hand tools (rock hammer, chisel, small pick) to extract specimens from weathered outcrops, but work carefully as the material is brittle. Look for translucent or milky white opal with characteristic waxy luster, and gray-white to tan chalcedony in rounded or angular nodule forms. The moderate slope makes systematic searching practical - work your way upslope from washes where water erosion has exposed fresh material.",
+  "terrain_notes": "Elevation 4952 feet in high desert with moderate slopes and sagebrush-covered terrain. Rocky, uneven footing is typical. No developed trails; rockhounds navigate open desert with scattered outcrops and dry washes. Distance from parking to productive areas generally ranges from 0.25 to 1.5 miles depending on where you stage. Footwear with ankle support recommended due to uneven ground and sharp rock fragments.",
+  "best_season": "April - May and September - October. These shoulder seasons offer mild temperatures and lower chances of afternoon thunderstorms common in summer. Winter (November - March) brings cold temperatures and occasional snow above 5000 feet, making collecting uncomfortable. Summer (June - August) features extreme afternoon heat and brief but intense thunderstorms that create flash flood hazards in washes.",
+  "written_directions": "From Eureka, take Nevada State Route 278 east toward Beowawe for approximately 22 miles. Watch for the Beowawe Geysers turnoff and historic landmarks on your right. Continue past the geysers area and look for informal pullouts along the road in the open desert. Park your vehicle on the shoulder in a stable location with good visibility. From parking, walk onto adjacent BLM land where scattered opal and chalcedony outcrops are visible across the moderate slopes. No maintained access road required; standard passenger vehicles can reach the general area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Nevada State Route 278 is paved highway in good condition. Informal pullouts on desert shoulder; no maintained road to specific collecting areas. Passenger vehicles adequate for road access. Local roads may be rougher during wet weather.",
+  "parking_notes": "Informal shoulder parking along Nevada State Route 278 near Beowawe Geysers area. No developed parking lot or facilities. Limited capacity; pull completely off highway for safety. Ensure vehicle is stable on shoulder and does not obstruct traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation equipment. No collection of plants, wildlife, or cultural artifacts. All mineral collection must be from exposed material or loose specimens; do not remove material from active cliff faces or create new excavations.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day\nNo commercial collection\nNo motorized excavation\nNo plants, wildlife, or artifacts\nCollect from exposed or loose material only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Eureka, Nevada (22 miles northwest) has gas, food, lodging, and supplies. No services available at or near the Beowawe collecting area itself.",
+  "accessibility_notes": "Relatively flat to moderate slope terrain accessible to most recreational rockhounders. Uneven rocky ground requires sturdy footwear and stable footing. No wheelchair access to productive collecting areas. Walking distances of up to 1.5 miles from parking typical. High elevation (4952 feet) and open desert exposure mean sun protection and water are essential.",
+  "alternative_names": [
+    "Beowawe Geysers area",
+    "Eureka County BLM rockhounding"
+  ],
+  "nearest_city": "Eureka",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/beowawe-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/beowawe-nv/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What kind of rocks and gems can I find rockhounding at Beowawe, Nevada?",
+      "answer": "Beowawe is best known for common opal, chalcedony nodules, and occasional agate specimens. The opal typically appears as milky white to translucent material with a waxy luster, while chalcedony forms gray-white to tan rounded or angular nodules. These silica-based minerals are relatively easy to spot on the weathered desert slopes and in dry washes."
+    },
+    {
+      "question": "Is Beowawe rockhounding free, and do I need a permit to collect?",
+      "answer": "Yes, Beowawe is completely free rockhounding on public BLM land with no permit required. You simply need to follow the 25-pound-per-day personal use limit set by the Federal Land Policy and Management Act (FLPMA). Commercial collection and motorized excavation are not allowed."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Beowawe?",
+      "answer": "The best seasons are April through May and September through October. These shoulder months offer mild temperatures ideal for hiking and searching exposed hillsides. Avoid summer (June-August) due to extreme heat and sudden thunderstorms with flash flood risk in washes, and winter brings cold temperatures and occasional snow above 5000 feet."
+    },
+    {
+      "question": "How difficult is rockhounding at Beowawe for beginners?",
+      "answer": "Beowawe is very beginner-friendly. The terrain features moderate slopes with clear visibility across sagebrush desert, making it easy to spot opal and chalcedony outcrops. Walking distances are short (under 1.5 miles from parking), and the collecting method is straightforward - hand tools and patience are sufficient. Families with children ages 6 and up can enjoy this location."
+    },
+    {
+      "question": "What tools and equipment should I bring for Beowawe rockhounding?",
+      "answer": "Bring a small rock hammer, chisel, and hand pick to extract specimens from weathered outcrops. Pack sturdy hiking boots with ankle support for uneven ground, sun protection (hat, sunscreen), and plenty of water - the high-desert elevation of 4952 feet and open terrain mean intense sun exposure. A small backpack, magnifying glass, and specimen bags round out an efficient kit."
+    },
+    {
+      "question": "How far is Beowawe from Eureka, and what services are available?",
+      "answer": "Beowawe is approximately 22 miles southeast of Eureka, Nevada via State Route 278. The collecting area itself has no facilities, but Eureka offers gas stations, restaurants, lodging, and supply shops. Plan to fuel up and gather water and snacks in town before heading to the remote rockhounding site."
+    }
+  ],
+  "meta_title": "Beowawe Rockhounding - Nevada Opal & Chalcedony",
+  "meta_description": "Find opal, chalcedony, and agate at Beowawe, Nevada. Free BLM public land rockhounding near Eureka with no permit required. Best April-May and September-October.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Nevada geology and geothermal area characteristics)",
+    "terrain_notes (slope and elevation from provided data, vegetation inferred from Great Basin climate)",
+    "parking_notes (informal shoulder parking inferred from remote BLM location)",
+    "cell_service (spotty estimated based on rural Nevada elevation and distance from town)"
+  ],
+  "enriched_at": "2026-04-22T06:43:14.202Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:46:00.648Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "chikaskia-river-ks",
+  "name": "Chikaskia River",
+  "lat": 37.437755,
+  "lng": -98.05277,
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "state_code": "KS",
+  "city": "Kingman County",
+  "city_slug": "kingman-county",
+  "county": "Kingman",
+  "county_slug": "kingman",
+  "geocoded_city": "Kingman County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chikaskia%20River%20Kansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chikaskia%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chikaskia%20River%20Kansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1414,
+      "meters": 431
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:47:14.841Z"
+  },
+  "scraped_at": "2026-04-21T17:47:14.841Z",
+  "scrape_quality": "minimal"
+}

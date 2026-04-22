@@ -1,0 +1,57 @@
+{
+  "slug": "straight-creek-mines-tn",
+  "name": "Straight Creek Mines",
+  "lat": 36.389165,
+  "lng": -83.642652,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Claiborne County",
+  "city_slug": "claiborne-county",
+  "county": "Claiborne",
+  "county_slug": "claiborne",
+  "geocoded_city": "New Tazewell",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Straight%20Creek%20Mines%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Straight%20Creek%20Mines",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Straight%20Creek%20Mines%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:29:15.218Z"
+  },
+  "scraped_at": "2026-04-21T18:29:15.218Z",
+  "scrape_quality": "minimal"
+}

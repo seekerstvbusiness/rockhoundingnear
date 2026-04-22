@@ -1,0 +1,100 @@
+{
+  "slug": "old-nye-picnic-area-mt",
+  "name": "Old Nye Picnic Area",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Mountain View",
+  "city_slug": "mountain-view",
+  "county": "Stillwater",
+  "county_slug": "stillwater",
+  "lat": 45.388251,
+  "lng": -109.900503,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "Free BLM rockhounding at this high-elevation Montana site offering agate, chalcedony, and quartz specimens. No permit required - just follow the 25 lb daily limit and enjoy year-round access on gen...",
+  "description": "Old Nye Picnic Area sits at 6,759 feet elevation in the Absaroka-Beartooth foothills of south-central Montana, offering accessible rockhounding on Bureau of Land Management property. The gentle slopes and proximity to mineral-rich geological formations make this a popular spot for collectors seeking agate, chalcedony, and quartz specimens without the cost or restrictions of fee dig sites.\n\nThe area benefits from the region's complex geology, where Precambrian metamorphic rocks and Paleozoic sedimentary sequences have been exposed and weathered over millions of years. Silica-rich fluids from ancient hydrothermal activity have deposited agate nodules and chalcedony in the surrounding hillsides and wash areas. The elevation provides cooler collecting conditions and access to multiple microenvironments where different mineral varieties concentrate.\n\nRockhounders typically work the gentle slopes surrounding the picnic area and explore nearby drainages where erosion naturally exposes fresh material. The terrain is relatively forgiving with good footing in most areas, making this suitable for families and those new to rockhounding. Multiple collecting zones means you are not confined to a single spot - exploration and systematic searching across the property increase your chances of quality finds.\n\nThe picnic area infrastructure provides basic amenities and a staging point for day trips. Being at moderate elevation, the site remains accessible through most of the year, though summer months can present afternoon thunderstorm risk. The gentle slopes and open terrain offer natural shade in some areas, helping manage heat exposure during longer collecting sessions.",
+  "history": "This area lies within the Absaroka-Beartooth Mountains of the Northern Rocky Mountains, a region uplifted during the Laramide Orogeny approximately 80 to 55 million years ago. Extensive hydrothermal alteration and silica mineralization associated with ancient igneous systems created the agate and chalcedony deposits found here today, with weathering and erosion continuously exposing fresh specimens throughout the surrounding hillsides.",
+  "tips": "Focus your search on the washes and drainage bottoms where water erosion naturally exposes nodules and collects loose material. Carry a loupe to inspect chalcedony banding patterns and agate 'eyes' - many pieces worth collecting show bright banding or translucence when backlit. Use a light hammer and cold chisel to carefully extract specimens from weathered host rock, working systematically from the hillsides downslope into the washes where water action concentrates material. Screen or sift material from wash bottoms to find smaller agates and chalcedony fragments that indicate larger deposits nearby.",
+  "terrain_notes": "Elevation 6,759 feet with gentle rolling slopes and mixed sagebrush-grassland vegetation typical of high mountain valleys. Walking distance from parking to productive collecting areas ranges from 50 feet to 0.5 miles. Footing is generally stable on packed earth and grass, with scattered small rocks. Washes contain larger stone but remain walkable. No steep drop-offs or major obstacles.",
+  "best_season": "May - September. High elevation (6,759 ft) limits access during heavy snow months. Late spring through early fall provides safe hiking conditions, stable ground, and manageable weather. Summer afternoons may bring thunderstorms common to mountain terrain - plan morning collecting sessions.",
+  "written_directions": "From Mountain View, take US Highway 191 north for approximately 18 miles toward the Absaroka-Beartooth Mountains. Turn east onto the gravel road marked for Old Nye Picnic Area (Forest Service Road or similar designation). Follow this road for approximately 2-3 miles as it climbs gently into the foothills. The picnic area parking pullout will be marked on your right. Passenger vehicles can access the parking area during dry conditions, though the gravel road may be rough. High clearance is recommended, and 4WD is necessary during wet weather or snow.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Gravel county/BLM road, washboard surface likely, possible ruts after rain. High clearance recommended. Impassable during heavy snow (typically November - April at this elevation).",
+  "parking_notes": "Informal pullout parking at the picnic area. Space for 4-6 vehicles. No paved lot. Picnic tables and pit toilets available.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection permitted. No motorized excavation or heavy equipment. Pack out all waste. Stay within designated public lands - respect private property boundaries. Leave no trace principles apply.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs maximum per day per person\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nPack out all trash\nRespect private property boundaries\nLeave no trace",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Mountain View, approximately 18 miles south. Limited services - plan to bring water, snacks, and fuel. Nearest full services (grocery, gas, restaurant) in larger towns further south.",
+  "accessibility_notes": "Relatively flat and gently sloping terrain accessible to most hikers and families. Unpaved gravel road to parking area with minimal elevation gain to productive collecting zones. Loose rocks and uneven wash bottoms require sturdy footwear. No wheelchair access to collecting areas. Suitable for families with children ages 6 and up with adult supervision.",
+  "alternative_names": [],
+  "nearest_city": "Mountain View",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/old-nye-picnic-area-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/old-nye-picnic-area-mt/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/old-nye-picnic-area-mt/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/old-nye-picnic-area-mt/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of gemstones can I find at Old Nye Picnic Area in Montana?",
+      "answer": "Old Nye Picnic Area is known for agate, chalcedony, quartz, and jasper specimens. Agate nodules are the most common finds, ranging from small 0.5 inch stones to larger 2-3 inch pieces with distinctive banding or 'eye' patterns. Chalcedony often appears as smooth, translucent pebbles in shades of white, gray, and tan. The geological formations in this Absaroka-Beartooth region produce high-quality specimens suitable for displays or cabochon cutting."
+    },
+    {
+      "question": "Is there a permit or fee to rockhound at Old Nye Picnic Area?",
+      "answer": "No permit is required and there is no fee to collect at Old Nye Picnic Area. It is free, public Bureau of Land Management (BLM) property open to recreational rockhounding. You must follow the 25 lb per day personal use limit under FLPMA regulations. This makes it an excellent low-cost rockhounding option compared to fee dig sites."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Mountain View, Montana?",
+      "answer": "The best rockhounding season at Old Nye Picnic Area is May through September. The site sits at 6,759 feet elevation, which limits access during heavy snow months (November - April). Late spring through early fall provides safe hiking conditions, stable ground, and manageable weather. Summer afternoons may bring thunderstorms typical of mountain terrain, so plan morning collecting sessions."
+    },
+    {
+      "question": "How difficult is it to access Old Nye Picnic Area for rockhounding?",
+      "answer": "Old Nye Picnic Area is an easy-to-moderate rockhounding destination suitable for families and beginners. The terrain features gentle slopes and grassland with good footing. Access is via a gravel county road that requires high clearance vehicles but is passable by most sedans during dry conditions. Children ages 6 and up can collect with adult supervision. The walk from parking to productive areas is typically less than 0.5 miles."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Old Nye Picnic Area?",
+      "answer": "Bring a small hammer and cold chisel for extracting specimens from weathered host rock. A jeweler's loupe helps identify agate banding and chalcedony quality. Pack a collection bag (25 lb limit per day), sturdy hiking boots, sun protection, and 2-3 liters of water. A screen or sifter is useful for processing wash material. The gentle terrain does not require specialized climbing gear or advanced tools."
+    },
+    {
+      "question": "Can I bring my family and dog to Old Nye Picnic Area rockhounding site?",
+      "answer": "Yes, Old Nye Picnic Area is family and dog friendly. It is ideal for rockhounding with children ages 6 and up, featuring gentle slopes, easy walking, and picnic area amenities including tables and pit toilets. Dogs are welcome on public BLM land but should be controlled and respect wildlife. The open terrain and shade patches make it comfortable for half-day family collecting trips."
+    }
+  ],
+  "meta_title": "Old Nye Picnic Area Rockhounding - Montana",
+  "meta_description": "Free BLM rockhounding for agate, chalcedony, and quartz near Mountain View, Montana. No permit needed. Family-friendly, easy terrain at 6,759 ft elevation.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "road_conditions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-21T19:08:00.193Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:12:09.008Z"
+}

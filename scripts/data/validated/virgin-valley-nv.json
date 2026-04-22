@@ -1,0 +1,92 @@
+{
+  "slug": "virgin-valley-nv",
+  "name": "Virgin Valley",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Gerlach",
+  "city_slug": "gerlach",
+  "county": "Humboldt",
+  "county_slug": "humboldt",
+  "lat": 41.830163,
+  "lng": -119.000171,
+  "gem_types": [
+    "Opal"
+  ],
+  "short_description": "BLM public land famous for Virgin Valley Fire Opal and precious opal specimens. Collect up to 25 lbs daily on public land with no permit required.",
+  "description": "Virgin Valley is one of Nevada's premier rockhounding destinations, known worldwide for its exceptional fire opal and precious opal deposits. This remote high-desert location sits at nearly 5,000 feet elevation in Humboldt County, offering accessible collecting on BLM public land. The valley's unique geology has produced some of the finest opals found anywhere in North America, with bright red, orange, and yellow specimens prized by collectors and lapidaries alike.\n\nThe area's opal deposits formed during the Miocene epoch when volcanic activity and silica-rich groundwater created ideal conditions for opal crystallization in rhyolite and other volcanic rocks. Ancient hot springs and geothermal systems deposited hydrated silica that hardened into the colorful opal bodies found throughout the valley today. The volcanic parent rocks are still visible in hillsides and washes, making this an excellent location to learn about volcanic-hosted opal formation.\n\nVirgin Valley offers relatively gentle terrain compared to many Nevada rockhounding sites, with exposed opal in washes, hillside outcrops, and around weathered volcanic features. You can search the ground surface and dig shallow into loose material without requiring heavy excavation equipment. The best specimens often emerge from erosion in seasonal washes and along gentle slopes where weathering has exposed the opal-bearing rock.\n\nCollecting here is straightforward and beginner-friendly. Walk the washes, examine the volcanic rhyolite outcrops, and look for the characteristic translucent or glassy appearance of opal specimens. Many people find quality pieces within the first few hours of searching. The personal-use limit of 25 lbs per day is generous enough to keep meaningful finds without requiring a permit or paying fees.\n\nBe prepared for the remote location by bringing plenty of water, sun protection, and basic tools. Cell service is spotty, so plan accordingly. The season runs October through April when temperatures are mild; summer heat in this high-desert valley can exceed 100 degrees Fahrenheit.",
+  "history": "Virgin Valley's opal deposits formed during the Miocene epoch (approximately 20-25 million years ago) when silica-rich hydrothermal fluids from volcanic activity deposited opal in fractures and cavities within rhyolite flows and tuffs. The area was extensively prospected and mined from the early 1900s onward, with significant commercial opal production occurring in the mid-20th century; today it remains one of Nevada's most productive opal fields for amateur collectors.",
+  "tips": "Search the bottoms and banks of seasonal washes where erosion has exposed fresh opal material and weathered the surrounding rhyolite away. Use a small hand pick or chisel to carefully loosen specimens from the volcanic host rock, and examine fresh-broken surfaces for the translucent glow characteristic of fire opal. Look for specimens showing the red, orange, or yellow color that distinguishes fire opal from common opal, often found clustered in pocket-like formations within the rhyolite. Bring a 5-gallon bucket to transport your finds and use a loupe to assess color and clarity before committing effort to extracting a specimen.",
+  "terrain_notes": "Virgin Valley sits at 4,954 feet elevation with gentle to rolling slopes and scattered volcanic outcrops. The landscape is sparse high-desert shrubland with sagebrush and low vegetation. Walking distances from parking areas typically range from a few hundred feet to 1-2 miles depending on where you choose to explore. Footing is generally stable on compacted dirt and loose rock, though some areas have scattered sharp volcanic fragments. Parking areas are informal pullouts along access roads.",
+  "best_season": "October - April. Daytime temperatures are mild and comfortable for outdoor work; nights are cool but manageable with layers. Summer (May - September) brings extreme heat exceeding 100 degrees Fahrenheit with little shade, making midday collecting dangerous. Winter is possible but early morning frost and occasional snow can make the ground hard to work.",
+  "written_directions": "From Gerlach, Nevada, take NV 34 north for approximately 18 miles toward the Black Rock Desert region. Turn northeast on the BLM access road leading toward Virgin Valley (look for informal rockhounding parking areas and signs along this route). The final approach involves unpaved BLM roads passable by high-clearance passenger vehicles and light trucks; ATVs and 4x4 vehicles are recommended for accessing more remote collecting areas. GPS coordinates 41.830163, -119.000171 will bring you to the heart of the Virgin Valley collecting area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM roads, moderate washboard in some sections, high-clearance vehicle recommended but not strictly required for main areas",
+  "parking_notes": "Informal pullouts and flat areas along BLM access roads; no developed parking lot. Multiple parking areas available depending on which section of Virgin Valley you wish to explore.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection or sale of specimens. No motorized excavation equipment. No dynamite or explosives. Respect existing claims and other collectors' working areas. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or resale\nNo motorized excavation\nNo explosives\nRespect existing claims\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material"
+  ],
+  "nearest_services": "Gerlach, Nevada, approximately 18 miles south; limited services (small store, basic supplies). More complete services (gas, food, lodging) in Lovelock, approximately 85 miles southeast.",
+  "accessibility_notes": "Relatively easy terrain with gentle slopes and minimal hiking required. Unpaved road to main collecting areas; high-clearance vehicle recommended. Informal parking with no developed facilities. Minimal elevation gain. Most collecting done on ground surface or shallow digging, accessible to able-bodied collectors of all ages. Full sun exposure with no shade; bring adequate water and sun protection.",
+  "alternative_names": [
+    "Virgin Valley Fire Opal Field"
+  ],
+  "nearest_city": "Gerlach",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/virgin-valley-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kind of opal can I find at Virgin Valley, Nevada?",
+      "answer": "Virgin Valley is famous for fire opal and precious opal specimens, particularly the bright red, orange, and yellow fire opals that command high prices among collectors. You may also find common opal. The fire opal typically displays translucent to semi-translucent colors with a glassy luster, often embedded in rhyolite host rock."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Virgin Valley in Nevada?",
+      "answer": "No permit is required for personal use collection on Virgin Valley BLM land. You can collect up to 25 lbs per day without any paperwork or fees. This makes it an accessible option for casual collectors and families."
+    },
+    {
+      "question": "What is the best time of year to collect opal at Virgin Valley Nevada?",
+      "answer": "October through April offers the best collecting conditions with mild daytime temperatures and low precipitation. Summer temperatures regularly exceed 100 degrees Fahrenheit with minimal shade, making it dangerous to spend long hours collecting. Late fall and early spring provide the most comfortable outdoor conditions."
+    },
+    {
+      "question": "How do I find fire opal in Virgin Valley washes and outcrops?",
+      "answer": "Search the bottoms and banks of seasonal washes where erosion has exposed fresh opal material. Look for the translucent, glassy appearance and red to orange coloring that distinguishes fire opal. Examine rhyolite outcrops and hillsides for pocket-like formations. Use a hand pick to carefully loosen specimens from the volcanic host rock."
+    },
+    {
+      "question": "Is Virgin Valley rockhounding suitable for beginners and families with children?",
+      "answer": "Yes. Virgin Valley is beginner-friendly with accessible terrain, no permit requirements, and abundant surface specimens. Children ages 6 and up can participate with adult supervision. The gentle slopes and straightforward collecting method make it ideal for families learning to rockhound, and the opal finds are immediately rewarding."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Virgin Valley Nevada?",
+      "answer": "Bring a small hand pick or chisel for loosening specimens, a loupe for examining color and clarity, and a 5-gallon bucket for transport. Wear sturdy footwear due to sharp volcanic fragments. Most importantly, bring 2-3 gallons of water per person, sun protection (hat, sunscreen, sunglasses), and layers for temperature changes. Cell service is spotty, so consider carrying a satellite messenger or letting someone know your location."
+    }
+  ],
+  "meta_title": "Virgin Valley Opal - Rockhounding Near Gerlach, NV",
+  "meta_description": "Find fire opal and precious opal at Virgin Valley, Nevada. BLM public land, no permit required, 25 lb daily limit. Best October - April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated from GPS), road_conditions (inferred from BLM access road type), written_directions (reconstructed from general Nevada geography and typical BLM access patterns)"
+  ],
+  "enriched_at": "2026-04-22T06:43:13.134Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:56.119Z"
+}

@@ -1,0 +1,108 @@
+{
+  "state_slug": "rhode-island",
+  "total": 16,
+  "stages": {
+    "scrape": {
+      "done": [
+        "tiverton-ri",
+        "providence-ri",
+        "west-greenwich-ri",
+        "bristol-ri",
+        "johnston-ri",
+        "warwick-ri",
+        "jamestown-bridge-ri",
+        "mt-hope-bay-ri",
+        "north-providence-ri",
+        "moosup-river-ri",
+        "cumberland-hill-ri",
+        "pawtuxet-ri",
+        "narragansett-ri",
+        "sneech-pond-ri",
+        "westerly-ri"
+      ],
+      "failed": []
+    },
+    "enrich": {
+      "done": [
+        "johnston-ri",
+        "jamestown-bridge-ri",
+        "moosup-river-ri",
+        "bristol-ri",
+        "tiverton-ri",
+        "providence-ri",
+        "warwick-ri",
+        "mt-hope-bay-ri",
+        "west-greenwich-ri",
+        "cumberland-hill-ri",
+        "narragansett-ri",
+        "sneech-pond-ri",
+        "westerly-ri",
+        "north-providence-ri",
+        "pawtuxet-ri"
+      ],
+      "failed": []
+    },
+    "images": {
+      "done": [
+        "warwick-ri",
+        "bristol-ri",
+        "west-greenwich-ri",
+        "jamestown-bridge-ri",
+        "johnston-ri",
+        "tiverton-ri",
+        "providence-ri",
+        "moosup-river-ri",
+        "sneech-pond-ri",
+        "cumberland-hill-ri",
+        "north-providence-ri",
+        "pawtuxet-ri",
+        "narragansett-ri",
+        "westerly-ri",
+        "mt-hope-bay-ri"
+      ],
+      "failed": []
+    },
+    "validate": {
+      "done": [
+        "bristol-ri",
+        "warwick-ri",
+        "johnston-ri",
+        "west-greenwich-ri",
+        "jamestown-bridge-ri",
+        "tiverton-ri",
+        "providence-ri",
+        "mt-hope-bay-ri",
+        "moosup-river-ri",
+        "cumberland-hill-ri",
+        "sneech-pond-ri",
+        "pawtuxet-ri",
+        "north-providence-ri",
+        "narragansett-ri",
+        "westerly-ri"
+      ],
+      "failed": []
+    },
+    "import": {
+      "done": [
+        "bristol-ri",
+        "warwick-ri",
+        "johnston-ri",
+        "west-greenwich-ri",
+        "jamestown-bridge-ri",
+        "tiverton-ri",
+        "providence-ri",
+        "mt-hope-bay-ri",
+        "moosup-river-ri",
+        "cumberland-hill-ri",
+        "sneech-pond-ri",
+        "pawtuxet-ri",
+        "north-providence-ri",
+        "narragansett-ri",
+        "westerly-ri"
+      ],
+      "failed": []
+    }
+  },
+  "started_at": "2026-04-21T16:34:42.579Z",
+  "updated_at": "2026-04-22T10:13:34.209Z"
+}

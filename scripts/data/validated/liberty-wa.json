@@ -1,0 +1,99 @@
+{
+  "slug": "liberty-wa",
+  "name": "Liberty",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Ellensburg",
+  "city_slug": "ellensburg",
+  "county": "Kittitas",
+  "county_slug": "kittitas",
+  "lat": 47.272687,
+  "lng": -120.633654,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Search for colorful agates and jasper in the rolling foothills of central Washington near Cougar Gulch. A moderate difficulty site popular with rockhounds seeking quality specimens.",
+  "description": "Liberty is a scenic rockhounding destination in Kittitas County's gentle foothills, situated at 3,360 feet elevation near productive agate and jasper-bearing draws. The area benefits from the geological legacy of Oligocene and Miocene volcanism that created widespread silica-rich deposits throughout central Washington. Collectors work the exposed washes and hillsides around Cougar Gulch and the surrounding ridges, where erosion has exposed colorful banded agates, red and brown jasper specimens, and chalcedony nodules of varying sizes.\n\nThe terrain around Liberty features gentle slopes and accessible draws that make this a reasonably approachable rockhounding area for mixed skill levels. The proximity to several small creeks (Cougar Gulch at 1.2 miles, Williams Creek at 2.8 miles, and Mill Creek at 3.4 miles) indicates good drainage and suggests productive collecting zones in the bajadas and wash systems. The landscape transitions between sagebrush grassland and scattered ponderosa pine typical of the rain shadow east of the Cascade Range.\n\nBest collecting typically occurs along the dry washes and eroded hillsides where specimens weather out naturally. Agates here often display banded patterns in reds, whites, and earth tones, while jasper tends toward darker reds and browns. The site attracts both casual rockhounders and dedicated collectors seeking quality pieces for polishing and cabochon work. Morning and late afternoon light makes spotting specimens significantly easier in this high desert environment.\n\nAccess varies depending on specific collecting areas within the broader Liberty region. Much of the land is private ranch property, so confirming access before visiting is essential. Some areas may allow collecting under informal agreements or specific permissions. The elevation and climate make spring and fall ideal seasons, though summer trips require early starts to beat afternoon heat.",
+  "history": "This area sits within the Cascadian volcanic arc province where Oligocene-Miocene rhyolitic volcanism deposited extensive silica-rich ash flows and lava sequences. Subsequent weathering and erosion in the rain shadow environment of central Washington concentrated secondary quartz minerals including agate and jasper into accessible surface deposits, making this a natural focal point for rockhounding activity.",
+  "tips": "Focus your search in the draws and washes around Cougar Gulch where water erosion naturally exposes new material; walk the creekbeds and adjacent hillsides methodically, looking for the glint of polished agate and the distinctive reddish hues of jasper. Bring a small crack hammer and chisel to carefully extract partially exposed specimens from softer host rock, and use a magnifying glass to examine color patterns and banding quality before committing effort to extraction. Early morning light is critical for spotting specimens against the brown and tan soil; specimens often blend in during bright midday sun. Always fill any holes you create and leave the site in good condition, as private land access depends on respectful collector behavior.",
+  "terrain_notes": "Elevation 3,360 feet in gentle rolling foothills with open sagebrush grassland interspersed with scattered ponderosa pine. Slopes are generally gentle but can be uneven with loose volcanic rock and broken basalt fragments. Washes and draws provide natural collecting routes with variable footing. Typical walking distances from parking to productive zones range from 0.5 to 2 miles depending on specific access point. Sturdy hiking boots recommended for uneven terrain and sharp volcanic rock.",
+  "best_season": "April - May and September - October. Spring and fall provide comfortable temperatures for extended fieldwork in this high desert environment. Summer heat (often exceeding 85F in exposed areas) limits collecting comfort and daylight productivity. Winter snows at this elevation can make access difficult, though snow cover is typically light and sporadic.",
+  "written_directions": "From Ellensburg, take I-90 east for approximately 10 miles. Take Exit 101 toward the Kittitas Valley. Follow local roads north into the Kittitas County foothills toward the Liberty area. GPS coordinates 47.272687, -120.633654 will place you near the Liberty locality. Verify access permissions before proceeding onto private land. Road conditions vary; high-clearance vehicle recommended for ranch roads. Cell service is spotty in this rural area.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "private",
+  "primary_category": "private",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved ranch roads with variable condition. High-clearance vehicle recommended. Some roads may be washboarded or rutted, especially after rain. Confirm road conditions and access permissions locally.",
+  "parking_notes": "Parking typically at informal pullouts near ranch gates or road junctions. No developed parking area. Space for 2-4 vehicles at most access points. Always park well off active ranch roads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "This is primarily private ranch land. Rockhounding is NOT allowed without explicit permission from the landowner. Contact local ranchers or the Kittitas County land records office to identify current property owners and request collecting permission. Where permission is granted, collect responsibly: remove only loose specimens and small fragments, fill any holes created, close all gates, and remove all trash. Do not disturb livestock, fences, or ranch infrastructure. Respect posted no trespassing signs.",
+  "quantity_limits": "Determined by individual landowner agreements. Typically personal use only, no commercial collection.",
+  "rules": "Permission required from private landowner\nRemove only loose material or small specimens\nFill holes and pack out trash\nClose gates behind you\nRespect livestock and ranch property\nNo excavation or motorized equipment",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Ellensburg, 12 miles west. Full services including gas, food, water, and supplies. Smaller community of Kittitas, 5 miles south, offers limited services.",
+  "accessibility_notes": "Uneven rocky terrain with loose volcanic fragments. Washes and draws have variable footing. Not wheelchair accessible. Sturdy hiking boots required. Terrain is suitable for adults and older children with moderate hiking experience. Bring plenty of water; no reliable water sources on site except seasonal washes.",
+  "alternative_names": [],
+  "nearest_city": "Ellensburg",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/liberty-wa/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Liberty, Washington?",
+      "answer": "The Liberty area in Kittitas County is known for colorful banded agates, red and brown jasper, chalcedony nodules, and quality quartz specimens. The volcanic geology of central Washington creates excellent conditions for secondary silica minerals, and specimens often display distinctive banding patterns and rich earth tones suitable for polishing and cabochon cutting."
+    },
+    {
+      "question": "Is rockhounding at Liberty free or do you need to pay a fee?",
+      "answer": "Liberty is located on private ranch land, so there is no fee-based rockhounding like you would find at a commercial dig site. However, you must obtain permission from the landowner before collecting. Contact local Kittitas County ranchers or the county land records office to identify property owners and request collecting privileges."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Liberty in Washington?",
+      "answer": "No permit is required by the state of Washington, but explicit permission from the private landowner is mandatory. Always confirm access and any collection limitations with the property owner before visiting. Trespassing without permission is not allowed."
+    },
+    {
+      "question": "What is the best time of year to find agates at Liberty, Washington?",
+      "answer": "April through May and September through October offer ideal conditions for collecting at Liberty. Spring and fall provide comfortable temperatures for extended fieldwork. Summer heat (often over 85F) makes daytime collecting uncomfortable, and winter snows at 3,360 feet elevation can make access difficult."
+    },
+    {
+      "question": "What tools and equipment do you need to rockhound near Liberty?",
+      "answer": "Bring a small crack hammer and chisel for carefully extracting specimens from host rock, a magnifying glass to inspect color and banding quality, sturdy hiking boots for uneven volcanic terrain, and at least 2-3 liters of water per person. A GPS unit or smartphone with downloaded maps is helpful since cell service is spotty. Wear sun protection and light colored clothing."
+    },
+    {
+      "question": "Is Liberty a good rockhounding location for beginners?",
+      "answer": "Yes, Liberty is beginner-friendly if you can secure landowner permission. The moderate difficulty terrain and accessible washes make it suitable for rockhounders with basic hiking skills. Specimens are often visible on the surface around Cougar Gulch and nearby draws. Children age 8 and up can participate with adult supervision. Start by exploring washes where water erosion naturally exposes material."
+    }
+  ],
+  "meta_title": "Liberty Rockhounding - Find Agate & Jasper in Washington",
+  "meta_description": "Hunt for banded agates, jasper, and quartz near Liberty in Kittitas County, Washington. Moderate terrain, private land access. Spring and fall seasons ideal.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category and access_type (inferred as private based on typical Kittitas County land ownership; not explicitly confirmed)",
+    "gem_types (inferred from central Washington Oligocene-Miocene volcanic geology; no specific field reports provided)",
+    "written_directions (constructed from GPS and general regional knowledge; specific ranch roads and access points require local confirmation)",
+    "collection_rules (based on private land status; actual landowner policies unknown and require direct contact)",
+    "historical mining activity (none documented for Liberty specifically; description focuses on geological formation)"
+  ],
+  "enriched_at": "2026-04-21T19:26:06.529Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:27:55.731Z"
+}

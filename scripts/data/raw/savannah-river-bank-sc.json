@@ -1,0 +1,60 @@
+{
+  "slug": "savannah-river-bank-sc",
+  "name": "Savannah River bank",
+  "lat": 34.345635,
+  "lng": -82.80151,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "Anderson County",
+  "city_slug": "anderson-county",
+  "county": "Anderson",
+  "county_slug": "anderson",
+  "geocoded_city": "Hart County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Savannah%20River%20bank%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Savannah%20River%20bank",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Savannah%20River%20bank%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 478,
+      "meters": 146
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:51:28.329Z"
+  },
+  "scraped_at": "2026-04-21T17:51:28.329Z",
+  "scrape_quality": "minimal"
+}

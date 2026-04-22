@@ -1,0 +1,60 @@
+{
+  "slug": "point-shirley-massachusetts-pleistocene-ma",
+  "name": "Point Shirley, Massachusetts (Pleistocene)",
+  "lat": 42.359722,
+  "lng": -70.970276,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Winthrop",
+  "city_slug": "winthrop",
+  "county": "Suffolk",
+  "county_slug": "suffolk",
+  "geocoded_city": "Winthrop",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Point%20Shirley%2C%20Massachusetts%20(Pleistocene)%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Point%20Shirley%2C%20Massachusetts%20(Pleistocene)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Point%20Shirley%2C%20Massachusetts%20(Pleistocene)%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 13,
+      "meters": 4
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:31:16.077Z"
+  },
+  "scraped_at": "2026-04-21T19:31:16.077Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "wisemans-view-nc",
+  "name": "Wiseman's View",
+  "lat": 35.903479,
+  "lng": -81.905032,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Burke County",
+  "city_slug": "burke-county",
+  "county": "Burke",
+  "county_slug": "burke",
+  "geocoded_city": "Burke County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Wiseman's%20View%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Wiseman's%20View"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Wiseman's%20View%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:25:12.957Z"
+  },
+  "scraped_at": "2026-04-22T02:25:12.957Z",
+  "scrape_quality": "minimal"
+}

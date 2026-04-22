@@ -1,0 +1,102 @@
+{
+  "slug": "haines-ak",
+  "name": "Haines",
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "city": "Haines",
+  "city_slug": "haines",
+  "county": "Haines Borough",
+  "county_slug": "haines-borough",
+  "lat": 59.317627,
+  "lng": -135.724137,
+  "gem_types": [
+    "Jade",
+    "Garnet",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "Rockhound the glacially-carved valleys and stream beds of Southeast Alaska near Haines for jade, garnet, and quartz specimens in one of North America's most scenic mountain settings.",
+  "description": "Haines is located in Southeast Alaska's Chilkat Valley, a region shaped by extensive glaciation and rich mineral deposits left behind during the Pleistocene ice ages. The area is renowned for high-quality jade finds, particularly in stream gravels and exposed bedrock along the Chilkat and Klehini Rivers and their tributaries. The surrounding Saint Elias Mountains are composed of metamorphic and igneous rocks that weather and break down into collectible specimens including garnets, feldspars, and clear quartz crystals.\n\nThe geological setting here is exceptional: ancient metamorphic basement rocks and Mesozoic metasedimentary formations have been thrust upward and heavily glaciated, exposing fresh mineral-bearing surfaces. Glacial outwash streams continually deliver new material downslope, making stream beds and alluvial fans productive collecting zones year after year.\n\nRockhounders visiting Haines typically focus on accessible stream gravels near valley floors and pullouts along scenic highways. The Haines Highway (Alaska Route 7) provides access to multiple collecting areas, and several Forest Service roads lead to promising locations. Jade found here ranges from pale green to rich emerald, often mixed with serpentine and other metamorphic minerals.\n\nThis is a remote location that rewards patient, methodical searching. Unlike commercial mines, public collecting requires hiking to promising stream sections and carefully examining gravels. The reward is authentic Alaskan jade and garnets in a world-class wilderness setting.\n\nAlways check with the Alaska Department of Fish and Game and the Tongass National Forest before collecting. Most accessible areas near Haines fall under Forest Service or state management, where personal use collection is typically permitted within the bounds of established regulations.",
+  "history": "Haines lies within the Tintina Gold Belt and the Saint Elias orogen, where plate convergence during the Mesozoic and Cenozoic drove metamorphism and mineral concentration. Glaciation over the past 2 million years carved the Chilkat Valley and deposited glacial outwash containing jade, garnet, and other metamorphic minerals. Indigenous peoples of the region, the Tlingit and Kwakwaka'wakw, have harvested jade and other materials from these lands for millennia, recognizing the area's mineral richness long before European contact.",
+  "tips": "Focus your search on active and recent stream gravels in the Chilkat River drainage and tributary creeks, where water action concentrates heavy minerals including jade and garnet. Use a hand screen or classifier to process gravels efficiently - jade specimens often appear as pale green to bright green rounded or angular fragments mixed with quartz and serpentine. Look for jade along the inside bends of streams where heavier material accumulates, and check exposed gravel bars after high water events when fresh material is exposed. Bring sturdy hiking boots with good ankle support, as stream beds are uneven and potentially unstable.",
+  "terrain_notes": "Haines sits at sea level to 300 feet elevation in the valley floor, with surrounding peaks exceeding 10,000 feet. Terrain is heavily forested with Sitka spruce and hemlock in the lower valleys, transitioning to alpine tundra at higher elevations. Most collecting areas are accessed via short to moderate hikes through brush and forest, with some areas requiring stream wading. Stream beds are rocky and uneven with slick cobbles; footing is challenging and requires careful movement. Mosquitoes and biting flies are prolific in summer months.",
+  "best_season": "June - September. Winter brings heavy snowfall, short daylight hours, and hazardous travel conditions. Spring snowmelt causes dangerous stream flooding. Summer provides long daylight (nearly 24 hours in late June), manageable creek levels, and access to backcountry collecting sites. Early June and late August are optimal for fewer insects and stable water levels.",
+  "written_directions": "From Haines downtown, drive north on the Haines Highway (Alaska Route 7) for approximately 5 miles. Look for informal pullouts and Forest Service access points along the Chilkat River corridor. The Chilkat River parallels the highway; prime collecting areas begin around mile 5-15 northbound. For Klehini River access, continue on the Haines Highway approximately 18-25 miles north from downtown Haines. Several rough spur roads and marked Forest Service trails provide access to tributary creeks and alluvial fans. A high-clearance or all-terrain vehicle is recommended for some spur roads; verify access conditions locally before driving remote spurs.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "awd",
+  "road_conditions": "The Haines Highway (AK-7) is paved but narrow in sections with minimal shoulders. Many spur roads leading to collecting sites are gravel or rough dirt with washboard surfaces and potential water crossings during high runoff. High-clearance or all-terrain vehicles are strongly recommended for backcountry access.",
+  "parking_notes": "Limited informal pullouts exist along the Haines Highway near the Chilkat and Klehini Rivers. No developed parking lots or facilities at most collecting sites. Park safely off the roadway and respect private property boundaries.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use collection of small specimens is permitted on Tongass National Forest lands without a permit, provided you follow Alaska Department of Fish and Game regulations and Forest Service guidelines. Collect only what you can personally carry and reasonably use. Do not remove specimens from sensitive archaeological or ecological sites. No motorized excavation or mechanical collection devices. Respect posted closures and private property boundaries. Consult with the Haines Ranger District of the Tongass National Forest before collecting to confirm current regulations and access.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nNo commercial collection\nNo motorized excavation\nRespect private property boundaries\nFollow Forest Service and Alaska DFG regulations\nCheck with Haines Ranger District before collecting",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "remote",
+    "loose_rock",
+    "cliffs",
+    "flash_floods"
+  ],
+  "nearest_services": "Haines, 5-25 miles south. Limited services including gas, groceries, and lodging in town. No fuel or facilities at remote collecting sites.",
+  "accessibility_notes": "Stream-bed collecting requires moderate physical fitness and ability to navigate uneven, slippery rocky terrain. Frequent stream wading and scrambling over cobbles is necessary. No wheelchair or mobility aid access to productive collecting areas. Sturdy waterproof hiking boots are essential. Weather can change rapidly; dress in layers and prepare for rain and cold.",
+  "alternative_names": [
+    "Chilkat River collecting",
+    "Southeast Alaska jade hunting"
+  ],
+  "nearest_city": "Haines",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/alaska/haines-ak/cover.png",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kinds of jade and gemstones can I find rockhounding near Haines, Alaska?",
+      "answer": "The Haines area is best known for high-quality jade in shades of pale to deep green, often mixed with serpentine. You will also find garnets (red to brown), quartz crystals, and feldspars in stream gravels and along the Chilkat and Klehini Rivers. Jade specimens typically range from small pebbles to hand-sized pieces suitable for polishing or carving."
+    },
+    {
+      "question": "Do I need a permit to rockhound for jade in the Haines, Alaska area?",
+      "answer": "No permit is required for personal use collection of small specimens on Tongass National Forest lands near Haines. However, you should contact the Haines Ranger District before collecting to confirm current regulations, access conditions, and any posted closures. Always respect private property boundaries and follow Alaska Department of Fish and Game guidelines."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding for jade near Haines?",
+      "answer": "The best season is June through September. Summer provides long daylight hours (nearly 24 hours in late June), manageable creek levels, and access to backcountry areas. Avoid winter due to heavy snow and short days, and spring due to dangerous snowmelt flooding. Early June and late August offer optimal conditions with fewer insects and stable water levels."
+    },
+    {
+      "question": "Where exactly should I search for jade in the Haines area?",
+      "answer": "Focus on active and recent stream gravels in the Chilkat River drainage and tributary creeks accessible from the Haines Highway (AK-7) north of downtown. Check inside bends of streams and exposed gravel bars where water action concentrates heavy minerals. Stream sections at mile 5-15 northbound and near the Klehini River (mile 18-25) are productive. Use a hand screen or classifier to process gravels efficiently."
+    },
+    {
+      "question": "Is rockhounding near Haines beginner-friendly, and can families with kids rockhound there?",
+      "answer": "Yes, Haines rockhounding is suitable for beginners and families with children age 8 and older. Stream bed collecting requires moderate fitness and comfort wading on uneven terrain, but no special experience is needed. Bring sturdy hiking boots, dress in layers for cold and rain, and prepare for mosquitoes in summer. Keep children close due to cold water and slippery rocks."
+    },
+    {
+      "question": "What tools and gear do I need to rockhound for jade in the Haines, Alaska area?",
+      "answer": "Bring a hand screen or classifier to process stream gravels, a small pry bar or rock hammer for examining specimens, sturdy waterproof hiking boots, warm layered clothing, and rain gear. A backpack to carry specimens is essential. A magnifying glass helps identify jade versus serpentine and other green minerals. Given remote location and variable weather, also pack a first aid kit, map, and communication device."
+    }
+  ],
+  "meta_title": "Haines Rockhounding - Find Jade in Alaska",
+  "meta_description": "Rockhound for jade, garnet, and quartz near Haines, Alaska on Tongass National Forest lands. Personal use collecting allowed. Best season June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "land_type was unknown; inferred Tongass National Forest based on location and Alaska geography",
+    "specific fee amounts could not be verified",
+    "exact trail names and spur road designations require local Forest Service confirmation",
+    "quantity limits not specified in available sources; standard personal use assumptions applied"
+  ],
+  "enriched_at": "2026-04-21T18:32:29.176Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:33:34.601Z"
+}

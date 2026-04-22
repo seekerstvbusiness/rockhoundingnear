@@ -1,0 +1,102 @@
+{
+  "slug": "mount-blackmore-mt",
+  "name": "Mount Blackmore",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Bozeman",
+  "city_slug": "bozeman",
+  "county": "Gallatin",
+  "county_slug": "gallatin",
+  "lat": 45.444727,
+  "lng": -111.003479,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Garnet"
+  ],
+  "short_description": "High-elevation alpine rockhounding on BLM land in the Hyalite-Porcupine-Buffalo Horn Wilderness Study Area. Search for quartz, feldspar, and garnet in rocky alpine meadows and exposed outcrops.",
+  "description": "Mount Blackmore sits at 10,137 feet in the northern Gallatin Range, offering rockhounders access to pristine alpine terrain within a federally protected wilderness study area. This BLM location features typical Northern Rockies granite and metamorphic exposures where quartz veins, feldspar crystals, and scattered garnets can be found in talus fields and along eroded streambanks.\n\nThe site lies within the Hyalite-Porcupine-Buffalo Horn Wilderness Study Area, which preserves sensitive alpine ecology while allowing personal-use rockhounding under standard BLM regulations. Collectors should expect moderate alpine terrain with loose rock, variable weather, and limited services. The high elevation means snow can persist into June and return by October.\n\nThis location is best suited for experienced rockhounders comfortable with high-altitude hiking and self-sufficiency. The moderate slope and rocky footing require proper footwear and steady hiking skills. Quartz specimens tend to be abundant in the talus and wash areas; feldspar and mica can be found in weathered granite outcrops. Garnets are less common but present in metamorphic zones.\n\nAccess is unrestricted for personal use up to 25 lbs per day. There are no facilities, water sources are limited, and weather can change rapidly at this elevation. A detailed topographic map and reliable navigation tools are essential. The remote setting and high altitude make this a destination for serious rockhounders rather than casual family visits.",
+  "history": "Mount Blackmore sits within the Gallatin Range, part of the Northern Rocky Mountains province where Archean and Proterozoic metamorphic basement rocks are exposed alongside younger Laramide-age granitic intrusions. Quaternary glaciation heavily sculpted this area, creating the steep terrain and abundant talus fields that today expose fresh mineral specimens. Early geological surveys of the Gallatin Range documented significant granite bodies and metamorphic complexes, which are the source of the quartz, feldspar, and garnet found here.",
+  "tips": "Search talus fields and active stream channels where freeze-thaw weathering continuously exposes fresh specimens. Quartz veins are most visible on south-facing slopes where snow melts early and weathering is most active. Bring a rock hammer and chisel to extract specimens from granite outcrops; loose pieces are easier to find in wash areas but often show less defined form. Look for feldspar in lighter-colored granite faces and garnets in darker metamorphic zones with visible mica flakes.",
+  "terrain_notes": "Elevation 10,137 feet with moderate alpine slope. Loose talus, exposed bedrock, and tundra vegetation. Terrain is rocky with variable footing; no maintained trail to the summit area. Walking distance from typical parking is 2-4 miles depending on approach route. Footing is uneven and demanding; proper alpine hiking boots essential. Exposed to weather with no shelter.",
+  "best_season": "June - September",
+  "written_directions": "From Bozeman, take Montana Highway 191 south toward West Yellowstone for approximately 25 miles. Turn east on Forest Road 740 (Hyalite Canyon Road) near Hyalite Reservoir and follow it approximately 8 miles to the Hyalite Creek trailhead parking area. Mount Blackmore is accessed via alpine routes from the Hyalite drainage system; consult a detailed Gallatin National Forest map and consider hiring a guide for first-time visitors. High-clearance vehicle recommended for access roads, which are rough and may be snow-covered into June.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "hiking",
+  "road_conditions": "Forest Service road to trailhead is rough gravel, may have washboard and rocks. High-clearance recommended. Can be snow-packed or muddy into June.",
+  "parking_notes": "Limited parking at Hyalite Creek trailhead. Small gravel area with capacity for approximately 10-15 vehicles. No facilities. Arrive early during peak season.",
+  "cell_service": "spotty",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. Specimens must be hand-collected. Site is within Hyalite-Porcupine-Buffalo Horn Wilderness Study Area; respect closure notices and seasonal restrictions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\n25 lb per day limit\nNo commercial collection\nNo motorized equipment or excavation\nHand collection only\nRespect wilderness study area designations\nLeave no trace - pack out all waste",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cold",
+    "remote",
+    "loose_rock",
+    "cliffs",
+    "wildlife"
+  ],
+  "nearest_services": "Bozeman has full services (gas, food, lodging, water). Located approximately 30-35 miles northwest of Mount Blackmore.",
+  "accessibility_notes": "Steep alpine terrain with significant elevation gain, loose talus, and exposed rock. Not suitable for limited mobility. Requires strong hiking ability and high-altitude acclimatization. Weather exposure is extreme. No maintained trail to most productive collecting areas. Sturdy alpine boots and trekking poles strongly recommended.",
+  "alternative_names": [
+    "Blackmore Peak"
+  ],
+  "nearest_city": "Bozeman",
+  "nearest_city_distance": 32,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/mount-blackmore-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/mount-blackmore-mt/mineral-1-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding at Mount Blackmore in Montana?",
+      "answer": "Mount Blackmore primarily yields quartz, feldspar, mica, and garnets. Quartz is most abundant and found in veins and talus fields; feldspar appears in lighter granite outcrops; garnets are rarer but present in metamorphic zones with visible mica. The high-altitude granite and metamorphic rocks of the Gallatin Range are ideal for these mineral types."
+    },
+    {
+      "question": "Is rockhounding at Mount Blackmore free or do I need a permit?",
+      "answer": "Rockhounding at Mount Blackmore is free and requires no permit. It is BLM public land where personal use collection is allowed under FLPMA. You are limited to 25 lbs per day and collection must be by hand with no motorized equipment."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Mount Blackmore Montana?",
+      "answer": "The best rockhounding season is June through September. Snow typically persists above 10,000 feet until mid-June and returns by late September or October. July and August offer the most stable weather, though afternoon thunderstorms are common. Spring and fall access is unreliable due to snow."
+    },
+    {
+      "question": "How difficult is rockhounding at Mount Blackmore and is it suitable for beginners?",
+      "answer": "Mount Blackmore is a difficult, expert-level site suitable only for experienced rockhounders comfortable with high-altitude alpine hiking. The 10,137-foot elevation, loose talus, exposed ridges, and remote location require strong fitness, navigation skills, and self-sufficiency. Beginners should seek lower-elevation Gallatin County sites instead."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Mount Blackmore?",
+      "answer": "Essential gear includes sturdy alpine hiking boots, a detailed topographic map, compass or GPS, rock hammer and chisel for specimen extraction, a pack for carrying up to 25 lbs, weather-appropriate clothing for rapid temperature changes, and sun protection. Trekking poles help on steep terrain. Bring your own water; natural sources are limited and unreliable for drinking."
+    },
+    {
+      "question": "How far is Mount Blackmore from Bozeman and what is the drive like?",
+      "answer": "Mount Blackmore is approximately 32 miles south of Bozeman via Montana Highway 191 and Forest Road 740 to the Hyalite Creek trailhead. The drive takes about 1 hour. Forest Service roads are rough gravel with washboard and rocks; high-clearance vehicles are recommended. Roads may be snow-packed or muddy until June."
+    }
+  ],
+  "meta_title": "Mount Blackmore Rockhounding - Montana",
+  "meta_description": "Find quartz, feldspar, and garnets at Mount Blackmore on BLM land near Bozeman. Free personal use rockhounding in the Gallatin Range.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Gallatin Range geology - no specific specimen reports in source)",
+    "hazards (inferred from alpine terrain and remoteness)",
+    "nearest_city_distance (estimated from GPS coordinates)",
+    "written_directions (based on typical Hyalite area access routes - verify current road conditions)"
+  ],
+  "enriched_at": "2026-04-21T19:07:31.164Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:11:03.024Z"
+}

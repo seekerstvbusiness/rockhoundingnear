@@ -1,0 +1,60 @@
+{
+  "slug": "fowler-ny",
+  "name": "Fowler",
+  "lat": 44.288171,
+  "lng": -75.381463,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Town of Fowler",
+  "city_slug": "town-of-fowler",
+  "county": "Saint Lawrence",
+  "county_slug": "saint-lawrence",
+  "geocoded_city": "Town of Fowler",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Fowler%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Fowler",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Fowler%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 572,
+      "meters": 174
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:45:45.847Z"
+  },
+  "scraped_at": "2026-04-21T18:45:45.848Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "la-madera-nm",
+  "name": "La Madera",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Española",
+  "city_slug": "espanola",
+  "county": "Rio Arriba",
+  "county_slug": "rio-arriba",
+  "lat": 36.397844,
+  "lng": -106.021157,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land in the Rio Arriba highlands offering agate and jasper collecting on gentle slopes at 6,746 feet elevation. Personal use rockhounding with no permit required.",
+  "description": "La Madera sits within the Rio Arriba County BLM lands in the high desert region of northern New Mexico, at an elevation of 6,746 feet. This area is part of the Espanola Basin, a geologically rich region where Tertiary-age volcanic and sedimentary formations have produced excellent agate, jasper, and chalcedony specimens. The terrain features gentle slopes covered with piñon-juniper woodland, making it accessible for collectors of varying experience levels.\n\nThe geology here reflects millions of years of basin development and volcanic activity. Silica-rich fluids percolating through Tertiary rocks created the nodular agates and banded jaspers found scattered across the surface and in weathered washes. The high elevation and gentle topography make this an excellent location for family outings and beginner rockhounds looking to find quality specimens without extreme physical demands.\n\nVisitors should expect to find agate nodules in shades of gray, tan, and reddish-brown, often with attractive banding patterns. Jasper specimens range from solid colors to landscape varieties. The open BLM landscape provides multiple collecting areas, and the gentle slopes allow for methodical surface searching. Morning and afternoon light work particularly well for spotting translucent agate nodules among the rocky outcrops.\n\nAs public BLM land, La Madera welcomes personal use collectors under standard FLPMA regulations. The lack of permit requirements and reasonable daily limits make this an ideal location for weekend rockhounding trips. The high elevation and woodland setting offer a pleasant collecting environment distinct from lower-elevation desert sites in New Mexico.",
+  "history": "This region sits within the Rio Arriba Basin, shaped by Tertiary-age volcanism and basin subsidence that created thick deposits of volcanic ash, tuff, and silica-rich sediments. Agates and jaspers formed when silica-bearing groundwater percolated through these rocks over millions of years, gradually replacing original minerals and creating the nodular and banded specimens found at the surface today.",
+  "tips": "Search in and around dry washes and along hillsides where erosion has exposed colorful agate and jasper nodules. Look for pieces with translucent edges or banding patterns - hold suspect stones up to light to identify true agate from common quartz. Use a 5-pound hand sledge and cold chisel to carefully crack open partially exposed nodules, but check that specimens are on BLM land before extracting. Early morning or late afternoon light reveals the colorful bands and translucency of quality pieces more effectively than midday sun.",
+  "terrain_notes": "Elevation 6,746 feet with gentle slopes and open piñon-juniper woodland. Terrain is relatively rocky with scattered exposures and washes. Walking distance from parking is typically short to moderate - most productive areas are within 0.5 mile of vehicle access. Footing is generally stable with scattered rocks and loose material. The gentle slope means no steep climbs required.",
+  "best_season": "May - October. The high elevation (6,746 feet) means this area is most accessible during late spring through early fall when snow and frost are minimal. Summer afternoons can be warm, but the elevation provides relief from lower desert heat. May and June offer excellent conditions with mild temperatures and good visibility.",
+  "written_directions": "From Española, take NM 503 north for approximately 18 miles toward Ojo Caliente. Continue on the main road as it winds through Rio Arriba County. Look for BLM access points and informal pullouts on either side of the road in the La Madera area. Park at any designated BLM pullout or wide spot safe from traffic. GPS coordinates (36.397844, -106.021157) mark the general collecting area - use a GPS device or mapping app to navigate to the site.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "NM 503 is paved in most sections with potential rough or washboarded stretches near collecting areas. High-clearance vehicles recommended for accessing pullouts, but standard passenger vehicles can reach main areas. Check road conditions seasonally.",
+  "parking_notes": "Multiple informal BLM pullouts and wide spots along NM 503 in the La Madera area. No developed parking lot. Pullouts accommodate 2-5 vehicles. Park safely off the road away from traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation allowed. Collect only from BLM land - verify boundaries. Leave gates as found. Pack out all trash. Respect private property boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo permit required\nCollect from BLM land only\nPack out all trash\nLeave gates as found",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "cold",
+    "wildlife",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Española, approximately 18 miles south. Full services including gas, groceries, restaurants, and water. Ojo Caliente, approximately 12 miles north, offers limited services and hot springs resort.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers. Rocky footing with scattered loose material requires sturdy footwear. Informal pullouts along NM 503 provide parking; walking from parking to productive collecting areas is typically under 1 mile on gentle terrain. Not wheelchair accessible due to uneven rocky ground, but mobile collectors should find the gentle slopes manageable.",
+  "alternative_names": [],
+  "nearest_city": "Española",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/la-madera-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/la-madera-nm/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/la-madera-nm/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at La Madera in New Mexico?",
+      "answer": "La Madera is known for high-quality agate, jasper, chalcedony, and quartz. You'll find agate nodules in gray, tan, and reddish-brown colors, often with attractive banding patterns. Jasper specimens range from solid colors to landscape varieties. The specimens here are typically small to medium-sized and suitable for collectors at all levels."
+    },
+    {
+      "question": "Do I need a permit to rockhound at La Madera BLM land?",
+      "answer": "No permit is required for personal use rockhounding at La Madera. This is public BLM land administered under FLPMA regulations that allow recreational collecting without advance permission. You are limited to 25 pounds per day and personal use only - no commercial collection."
+    },
+    {
+      "question": "What is the best time of year to find agates at La Madera, Rio Arriba County?",
+      "answer": "The best rockhounding season at La Madera is May through October. The high elevation (6,746 feet) means summer is ideal - daytime temperatures are mild and most washes and slopes are snow-free. May and June offer the most comfortable conditions with lower crowds and excellent visibility for spotting translucent agate nodules."
+    },
+    {
+      "question": "Is La Madera rockhounding site beginner-friendly and suitable for families with children?",
+      "answer": "Yes, La Madera is excellent for beginners and families. The gentle slopes and short walks from parking make it accessible for all fitness levels. Kids ages 6 and up can successfully find agate and jasper specimens. The BLM landscape is open and safe, and the no-permit requirement makes planning easy. Bring water, sunscreen, and sturdy shoes."
+    },
+    {
+      "question": "What tools do I need to collect agate and jasper at La Madera?",
+      "answer": "For surface collecting, bring a small backpack, collection bags, and a hand lens to inspect specimens for quality. A 5-pound hand sledge and cold chisel are useful for carefully opening partially exposed nodules. Wear sturdy hiking boots for the rocky terrain. A GPS device or smartphone app helps you navigate to productive areas along NM 503."
+    },
+    {
+      "question": "How far is La Madera from Española, and what are driving conditions like?",
+      "answer": "La Madera is approximately 18 miles north of Española via NM 503. The drive takes about 25-30 minutes. NM 503 is paved but can have rough or washboarded sections near collecting areas. High-clearance vehicles are recommended for accessing some pullouts, though standard passenger cars can reach the main BLM areas. Check road conditions seasonally."
+    }
+  ],
+  "meta_title": "La Madera Rockhounding - Rio Arriba County, NM",
+  "meta_description": "Find agate, jasper, and chalcedony at La Madera BLM land. No permit required, 25 lbs/day limit. Beginner-friendly rockhounding near Española.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from GPS and county location; specific road access details not provided in source",
+    "nearest_city_distance - estimated based on geographic knowledge; not confirmed by source",
+    "gem_types - inferred as typical for Rio Arriba Basin geology; specific specimens not documented in source",
+    "cell_service - estimated as spotty based on rural northern New Mexico; not explicitly verified",
+    "hazards - inferred from terrain and region; snakes and wildlife typical for this elevation/habitat"
+  ],
+  "enriched_at": "2026-04-22T06:46:00.246Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:49:43.777Z"
+}

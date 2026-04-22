@@ -1,0 +1,101 @@
+{
+  "slug": "rattlesnake-mountain-wy",
+  "name": "Rattlesnake Mountain",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Cody",
+  "city_slug": "cody",
+  "county": "Park",
+  "county_slug": "park",
+  "lat": 44.527326,
+  "lng": -109.24111,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM land near Cody offering agate and jasper collecting in high-elevation Wyoming terrain. Free public rockhounding with scenic mountain views and abundant material.",
+  "description": "Rattlesnake Mountain sits at 7111 feet in Park County's rugged landscape, part of the transition zone between the Absaroka Range and the Bighorn Basin. This BLM site offers public rockhounding access to volcanic and sedimentary formations rich in agate, jasper, and chalcedony specimens. The area's geology reflects Eocene-era volcanic activity followed by Basin and Range extension, creating fractures and subsurface conditions ideal for silica-rich mineral deposition. Collectors can expect to find colorful banded agates, striped jasper, and quartz specimens weathering out of hillsides and wash bottoms across the property.\n\nThe terrain combines open sagebrush flats with rocky hillsides and intermittent drainage washes. Access is straightforward from nearby Cody, making this a practical day trip for rockhounds of all skill levels. The elevation means cooler temperatures and shorter seasons compared to lower Wyoming sites, but also means less competition and quieter collecting conditions.\n\nWalking distances are moderate - most productive areas lie within 1-2 miles of parking. The material is scattered across the surface and in wash beds rather than requiring deep digging. This makes Rattlesnake Mountain accessible to beginners while still offering quality finds for experienced collectors. Summer thunderstorms can make roads muddy, so timing your visit for drier months maximizes enjoyment.",
+  "history": "Rattlesnake Mountain sits within the Absaroka volcanic field, where Eocene-era pyroclastic flows and lavas (roughly 50 million years ago) laid down silica-rich volcanic rocks. Subsequent weathering, groundwater circulation, and hydrothermal alteration concentrated silica into the agate and jasper nodules found here today. The region saw sporadic mining and prospecting activity in the late 1800s and early 1900s, though primary interest focused on metallic deposits rather than silica gemstones.",
+  "tips": "Search wash bottoms and erosional gullies where water has exposed and concentrated heavier agates and jasper - these areas often yield the best specimens. Look for banded or striped coloring rather than plain gray; Wyoming agates typically display red, brown, and white banding patterns. Bring a 5-gallon bucket or collection bag - material is abundant but scattered, so you will easily reach the 25-pound daily limit if you focus on quality pieces rather than small fragments. Early morning or late afternoon light helps spot translucent pieces; hold suspected agates up to sunlight to check for banding patterns.",
+  "terrain_notes": "Elevation 7111 feet with rolling terrain combining sagebrush flats and rocky hillsides. Footing is uneven with loose volcanic rock and shale fragments scattered across the surface. No maintained trails; walking distances from parking typically 0.5 to 2 miles depending on where you choose to search. Vegetation is sparse high-desert sagebrush with scattered juniper. Terrain is moderately steep in places but navigable for hikers of average fitness. Watch for loose rock and unstable banks in wash beds.",
+  "best_season": "June - September. The high elevation (7111 ft) means significant snow and cold temperatures from October through May. Summer monsoon activity brings occasional thunderstorms that can muddy access roads, so early June through mid-August offers the most reliable conditions. Spring months (May-early June) can work if snow has cleared, but sudden weather changes are common at this elevation.",
+  "written_directions": "From Cody, take WY-120 southwest toward the Absaroka Range for approximately 15 miles. Continue on Forest Service roads heading toward the Rattlesnake Creek drainage area in Park County. GPS coordinates 44.527326, -109.24111 mark the primary collecting zone. Road conditions vary - high-clearance vehicle recommended, especially after rain. No maintained parking lot; pull off on wide sections of access road. Verify current road status locally in Cody before traveling, as mountain roads can close seasonally.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough mountain BLM roads, high-clearance or all-wheel-drive recommended. Roads can be impassable when wet or muddy. Washboard surface typical. 2WD passenger cars may struggle in wet conditions.",
+  "parking_notes": "Informal pullouts along BLM access roads near collecting areas. No developed parking lot. Space for 3-5 vehicles at typical pull-off locations. No facilities or signage.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or powered tools. Only surface collecting and hand-tool digging permitted. Pack out all trash. Stay on existing roads and trails to minimize impact.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection or sale of material\nNo motorized excavation or powered equipment\nHand tools only (picks, shovels, screens)\nNo removal of vegetation\nPack out all trash\nRemain on existing roads and established areas",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "cliffs",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Cody, WY approximately 20 miles northeast. Full services including gas, food, water, and supplies. No services at the site itself.",
+  "accessibility_notes": "Uneven rocky terrain with loose volcanic material. No wheelchair access. Sturdy hiking boots and good balance required. Moderate walking distances (0.5 - 2 miles) across sloping terrain. Not suitable for limited mobility or young children without supervision. Some areas involve minor scrambling over rocks.",
+  "alternative_names": [],
+  "nearest_city": "Cody",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/rattlesnake-mountain-wy/cover.png",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/rattlesnake-mountain-wy/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/rattlesnake-mountain-wy/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can I find at Rattlesnake Mountain near Cody?",
+      "answer": "Rattlesnake Mountain produces banded agates with red, brown, tan, and white striping typical of Wyoming volcanic deposits. You will also find striped jasper, chalcedony, and opaque quartz specimens. Most pieces range from 1-3 inches in size, though larger specimens are possible. The banding patterns are the most distinctive feature - look for contrasting color layers rather than plain gray material."
+    },
+    {
+      "question": "Is rockhounding at Rattlesnake Mountain free or do I need a permit?",
+      "answer": "Rockhounding at Rattlesnake Mountain is completely free. No permit is required. The site is on BLM public land managed under FLPMA (Federal Land Policy and Management Act) regulations, which allow personal-use collecting without fees. Your only limit is 25 pounds per day - this is the only requirement."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Rattlesnake Mountain, Wyoming?",
+      "answer": "June through September is optimal. The 7111-foot elevation means snow persists into spring and returns early in fall. Summer months offer stable weather and reliable road access, though afternoon thunderstorms are possible in July-August. Avoid May and earlier due to snow and mud; avoid October through April due to snow, cold, and impassable roads. Early June or September provide good conditions with fewer crowds."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Rattlesnake Mountain?",
+      "answer": "Bring a pick or small mattock for working wash bottoms, a shovel for moving loose material, and a 5-gallon bucket or collection bag. You will need sturdy hiking boots, sun protection, and plenty of water - the high elevation and exposed terrain offer little shade. A hand screen helps separate small fragments from keepers. Bring a backpack for carrying specimens, especially since you will easily reach the 25-pound daily limit with quality material."
+    },
+    {
+      "question": "Is Rattlesnake Mountain a good rockhounding spot for beginners?",
+      "answer": "Yes, Rattlesnake Mountain is beginner-friendly. Material is abundant and lies on the surface or in wash bottoms - you do not need advanced digging skills. No permit or fee requirements eliminate bureaucracy. The main challenge is identifying quality agates versus common quartz, but the banding patterns of Wyoming agates are distinctive once you see a few examples. Bring photos or sample specimens to help identify keepers on-site."
+    },
+    {
+      "question": "Can I bring my family and dogs rockhounding to Rattlesnake Mountain, Wyoming?",
+      "answer": "Yes, both family and dogs are welcome. The terrain is navigable for kids age 8 and up with supervision - younger children may struggle with loose rock and moderate walking distances. Dogs are allowed on BLM land. The main considerations are the remote location, spotty cell service, high elevation cold (especially early/late season), and loose rock hazards. Bring extra water and snacks for kids and pets, and ensure everyone has sturdy footwear."
+    }
+  ],
+  "meta_title": "Rattlesnake Mountain Rockhounding - Wyoming BLM",
+  "meta_description": "Find agate, jasper, and chalcedony at Rattlesnake Mountain near Cody on free BLM land. No permit needed, 25 lbs daily limit. Best June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - based on general Park County geography and typical BLM access patterns; specific current road names and conditions should be verified locally",
+    "nearest_city_distance - estimated from GPS coordinates and typical Cody-area road distances; verify with local sources",
+    "cell_service - inferred as spotty based on high elevation and remote Park County location; actual coverage varies by provider"
+  ],
+  "enriched_at": "2026-04-22T06:40:17.531Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:42:10.629Z"
+}

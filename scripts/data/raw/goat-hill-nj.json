@@ -1,0 +1,60 @@
+{
+  "slug": "goat-hill-nj",
+  "name": "Goat Hill",
+  "lat": 40.34578,
+  "lng": -74.937394,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "West Amwell Township",
+  "city_slug": "west-amwell-township",
+  "county": "Hunterdon",
+  "county_slug": "hunterdon",
+  "geocoded_city": "West Amwell Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Goat%20Hill%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Goat%20Hill",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Goat%20Hill%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 453,
+      "meters": 138
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:37:09.322Z"
+  },
+  "scraped_at": "2026-04-21T18:37:09.322Z",
+  "scrape_quality": "minimal"
+}

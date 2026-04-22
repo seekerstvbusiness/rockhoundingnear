@@ -1,0 +1,99 @@
+{
+  "slug": "sulphur-nv",
+  "name": "Sulphur",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Lander County Area",
+  "city_slug": "lander-county",
+  "county": "Lander",
+  "county_slug": "lander",
+  "lat": 40.6025,
+  "lng": -117.246484,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding site in central Nevada's high desert offering agate, jasper, and chalcedony at 5,563 feet elevation. Gentle terrain and year-round access make this a rewarding spot for collectors.",
+  "description": "Sulphur is a public BLM rockhounding destination in Lander County, Nevada, situated in the Basin and Range physiographic province at 5,563 feet elevation. The site features gently sloping terrain typical of Nevada's high desert landscape, providing accessible collecting opportunities for rockhounds of varying experience levels. The area is known for producing quality specimens of agate, jasper, chalcedony, and clear quartz in various colors and formations.\n\nThe geology here reflects the region's Tertiary volcanic history and Basin and Range extension, where ancient hydrothermal and silica-rich processes created favorable conditions for microcrystalline mineral deposition. Erosion over millions of years has exposed these colorful gemstone deposits at the surface, making them accessible to rockhounders without heavy excavation.\n\nUnder Nevada BLM regulations, this site welcomes recreational rockhounders for personal use collection. The gentle slopes and exposed geology make it ideal for surface collecting - you can typically spot specimens weathering out of hillsides and washes. Bring water, sun protection, and tools for extracting specimens from softer matrix material.\n\nThe site's elevation and location in the high desert mean cooler temperatures and lower humidity compared to Nevada's lower elevations, creating more comfortable collecting conditions during spring and fall months. Winter can bring cold temperatures and occasional snow, while summer remains quite warm but more bearable than desert valleys.\n\nParking is available at informal pullouts near the collecting area. The gentle terrain means most rockhounders can walk to productive zones within reasonable distances, though sturdy footwear and basic hiking ability are still recommended due to loose rock and uneven ground.",
+  "history": "This area sits within the Basin and Range province where Tertiary-age volcanic activity and associated hydrothermal systems deposited silica-rich fluids that crystallized into agate, jasper, and chalcedony nodules and veins. The surrounding high desert landscape reflects millions of years of erosion that has exposed these colorful gemstone deposits at or near the surface, making them accessible to modern rockhounders.",
+  "tips": "Search the gentle hillsides and erosional washes where colorful agate and jasper naturally weather out of the volcanic host rock - these areas often show concentrated material where runoff has concentrated heavier specimens. Use a small chisel and hammer to carefully extract specimens from softer surrounding rock matrix, or look for naturally separated pieces in washes. Focus on areas showing different color bands and patterns, as these often indicate higher-quality agate and jasper; look for translucent edges or banding that distinguishes gem-quality material from common quartz. Work early morning or late afternoon to avoid the strongest sun, and bring at least 2-3 liters of water given the high desert setting.",
+  "terrain_notes": "Elevation 5,563 feet with gentle, open slopes typical of Nevada's high desert. Sparse desert vegetation including low shrubs and grasses. Walking distance from parking to productive collecting areas is typically less than half a mile. Footing is moderate with loose volcanic rock, small boulders, and uneven ground requiring sturdy hiking boots. No wheelchair accessibility. Views extend across the surrounding high desert basin.",
+  "best_season": "October - May. Fall and spring offer mild temperatures ideal for outdoor collecting, with October through November and March through May being optimal. Winter (December-February) is possible but can bring cold temperatures, occasional snow, and reduced visibility. Summer (June-September) is hot with temperatures regularly exceeding 85 degrees Fahrenheit.",
+  "written_directions": "From Battle Mountain (approximately 35 miles northwest), take Nevada State Route 305 south toward Lander. Continue on NV-305 for approximately 25 miles. Near the Sulphur area in Lander County, look for BLM access roads branching east or west from the highway. The GPS coordinates 40.6025, -117.246484 mark the collecting area. Use detailed topographic maps or GPS units for final navigation as road signage in this remote area may be minimal. High-clearance vehicles are recommended for accessing some of the smaller spur roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and gravel BLM access roads in variable condition. Some washboard texture possible. Passenger vehicles can access main areas, but high-clearance is recommended for some spur roads.",
+  "parking_notes": "Informal pullouts near the collecting area. No developed parking facilities. Parking capacity is unlimited at various spots along access roads. Vehicles should be parked safely off active roads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or heavy machinery. Recreational surface collecting of specimens is permitted. Remove only loose material or carefully extracted specimens; do not damage outcrop surfaces or blast.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nSurface collecting permitted\nCarefully extract specimens without damaging outcrop",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Battle Mountain (approximately 35 miles northwest) offers gas, food, water, and lodging. Smaller communities may be found closer along Nevada State Route 305.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most rockhounders with basic hiking ability. Loose volcanic rock and uneven ground require sturdy footwear. No wheelchair access. Walking distances to productive areas are generally short (under one mile), making this site suitable for families with children and moderate fitness levels.",
+  "alternative_names": [],
+  "nearest_city": "Battle Mountain",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/sulphur-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/sulphur-nv/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Sulphur rockhounding site in Nevada?",
+      "answer": "Sulphur is known for producing agate, jasper, chalcedony, and clear quartz. The agate and jasper often display beautiful color banding and patterns typical of Nevada's volcanic regions. Most specimens are found weathering out of hillsides or in washes where erosion concentrates the material."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Sulphur, Nevada?",
+      "answer": "No permit is required for recreational rockhounding at Sulphur. The site is on Nevada BLM land where personal use collection is allowed under FLPMA regulations. You are limited to 25 pounds per day and must not engage in commercial collection or motorized excavation."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Lander County, Nevada?",
+      "answer": "October through May offers the best conditions, with October-November and March-May being ideal. These months provide mild temperatures perfect for outdoor collecting. Summer heat regularly exceeds 85 degrees Fahrenheit, while winter can bring cold temperatures and occasional snow."
+    },
+    {
+      "question": "Is Sulphur rockhounding site suitable for beginners and families with kids?",
+      "answer": "Yes, Sulphur is beginner and family-friendly. The gentle terrain, short walking distances to productive areas, and surface-level collecting make it ideal for rockhounds of all skill levels. Children ages 6 and up can participate with adult supervision. The site requires only basic hiking ability."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Sulphur?",
+      "answer": "Bring a small chisel and hammer for extracting specimens from softer matrix rock, a sturdy backpack, and 5-gallon bucket for specimens. Essential supplies include at least 2-3 liters of water (the high desert can be dry), sun protection, sturdy hiking boots for loose rock, and a GPS unit or detailed topographic map for navigation in this remote area."
+    },
+    {
+      "question": "How far is Sulphur rockhounding site from Battle Mountain and what are the road conditions?",
+      "answer": "Sulphur is approximately 35 miles south of Battle Mountain via Nevada State Route 305. Access is via dirt and gravel BLM roads that can be washboard in places. High-clearance vehicles are recommended for some spur roads, though passenger vehicles can access the main collecting areas. Cell service is spotty, so bring a GPS unit."
+    }
+  ],
+  "meta_title": "Sulphur Rockhounding - Nevada Agate & Jasper",
+  "meta_description": "Find agate, jasper, and chalcedony at Sulphur on Nevada BLM land. No permit required. Free public rockhounding near Lander County. Beginner-friendly site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "road_conditions",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-22T06:43:35.245Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:47:15.598Z"
+}

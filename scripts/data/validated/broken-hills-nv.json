@@ -1,0 +1,100 @@
+{
+  "slug": "broken-hills-nv",
+  "name": "Broken Hills",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Nye County Area",
+  "city_slug": "nye-county",
+  "county": "Nye",
+  "county_slug": "nye",
+  "lat": 39.04532,
+  "lng": -117.975774,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Obsidian"
+  ],
+  "short_description": "BLM-managed rockhounding site in central Nevada with excellent agate and jasper collecting. Flat terrain at 5,289 ft elevation makes this accessible for all skill levels.",
+  "description": "Broken Hills is a popular rockhounding destination on Nevada BLM land in Nye County, located in the high desert of central Nevada. The site sits within the Great Basin physiographic province, an area rich in silica-rich mineral deposits left by ancient volcanic activity and hot spring circulation. This relatively flat location at moderate elevation offers excellent opportunities to find banded agates, colorful jasper, and chalcedony specimens without the extreme heat of lower desert locations.\n\nThe terrain here is typical high desert scrubland with scattered sagebrush, creosote, and rocky outcrops. Collectors typically work the washes, hillsides, and exposed geological formations where weathering has naturally exposed agate and jasper nodules. Because this is BLM land, recreational collecting is permitted under federal law with minimal restrictions, making it ideal for both beginners and experienced rockhounds.\n\nThe 5,289-foot elevation means this location is cooler than Nevada's lowest deserts, particularly important during spring and fall collecting seasons. Visitors should expect mostly rocky, uneven ground with scattered loose rocks, but no major elevation changes or technical terrain. The area sees moderate visitation from rockhounders, so expect to find worked areas with visible picks and digging marks.\n\nBroken Hills offers good value for rockhounding enthusiasts - no fees, no permits, and straightforward BLM access rules make this an excellent choice for a rockhounding road trip. Bring plenty of water, wear sturdy boots, and plan to spend several hours working multiple areas to find quality specimens.",
+  "history": "Broken Hills lies within the Basin and Range province, where Tertiary-age volcanic activity and associated hydrothermal systems deposited silica-rich fluids that formed the agate, chalcedony, and jasper deposits found here today. The area saw prospecting activity during Nevada's mining booms, and while not a major commercial mining district, the exposed geology makes it an ideal location for modern recreational rockhounding.",
+  "tips": "Search along dry washes and erosional channels where water action has naturally exposed and rounded agate specimens - look for waxy luster and banded patterns in whites, grays, browns, and reds. Bring a hand lens to inspect rocks in place; quality agates often show translucence at thin edges and distinctive chalcedony banding. Work both loose surface material and carefully examine exposed hillside outcrops, but avoid hard digging with powered tools on BLM land. Early morning visits are best to avoid afternoon heat and to find undisturbed specimens before other collectors work the area.",
+  "terrain_notes": "Flat to gently rolling terrain at 5,289 feet elevation. Desert scrubland with scattered sagebrush, creosote bush, and exposed rocky areas. Loose rocks, uneven footing, and sandy washes are common. Walking distances from parking typically 0.25 to 1 mile to productive collecting areas. No significant elevation gains. Ground surface is rocky and uneven but not technical.",
+  "best_season": "October - April. The high elevation (5,289 ft) makes summers hot, and winter can bring occasional snow or cold nights. Fall through spring offers ideal collecting temperatures, clear skies, and the most comfortable hiking conditions. Avoid mid-summer (June - August) when afternoon heat can exceed 95F.",
+  "written_directions": "From Pahrump, Nevada, take Nevada State Route 160 north toward Tonopah for approximately 35 miles. Continue on US Highway 95 north for about 25 miles past Tonopah. Look for BLM access roads and markers indicating rockhounding areas in the Broken Hills vicinity. GPS coordinates 39.04532, -117.975774 will guide you to the primary collecting area. Final approach is typically on unpaved BLM roads suitable for high-clearance vehicles. Confirm current road conditions with the Tonopah BLM field office before visiting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM roads, generally passable for passenger vehicles with reasonable ground clearance in dry conditions. Can be rough and rutted after rain. Check current conditions with BLM office.",
+  "parking_notes": "Informal pullouts and parking areas along BLM roads near productive collecting zones. No designated parking lot. Capacity varies by location - typically accommodate 3-8 vehicles per area.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. Hand tools only. Collect only loose material and small specimens that do not require mechanical extraction. Pack out all trash. Do not disturb archaeological sites or cultural resources.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collecting\nNo motorized excavation - hand tools only\nNo mechanical digging equipment\nPack out all trash\nAvoid archaeological and cultural sites",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes",
+    "remote"
+  ],
+  "nearest_services": "Pahrump, Nevada approximately 40 miles south. Limited services (fuel, food, water) also available in Tonopah, Nevada approximately 30 miles north.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and rockhounders with basic fitness. Unpaved roads to parking areas may challenge low-clearance vehicles. Uneven rocky footing throughout collecting areas. No wheelchair accessibility. Sturdy hiking boots and sun protection essential. Not suitable for those with severe mobility limitations due to rocky, uneven ground and distance from parking to best collecting zones.",
+  "alternative_names": [],
+  "nearest_city": "Pahrump",
+  "nearest_city_distance": 40,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/broken-hills-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/broken-hills-nv/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of agates and jasper can I find at Broken Hills in Nevada?",
+      "answer": "Broken Hills is known for banded agates in whites, grays, browns, and reds, along with colorful jasper specimens and chalcedony. Many pieces show translucent banding and waxy luster typical of high-quality Nevada agates. Specimens typically range from thumbnail to palm-sized, though larger pieces are occasionally found."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Broken Hills BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Broken Hills. It is Nevada BLM land open to public collecting under the Federal Land Policy and Management Act (FLPMA). You simply need to follow the 25 lb per day personal use limit and hand-tools-only rule."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Pahrump and Tonopah Nevada?",
+      "answer": "October through April is ideal for Broken Hills rockhounding. The high elevation (5,289 ft) keeps summer temperatures manageable, but daytime highs can exceed 95F from June to August. Fall and spring offer comfortable collecting temperatures, clear skies, and better visibility of agate specimens."
+    },
+    {
+      "question": "How far is Broken Hills from Pahrump and what roads do I take?",
+      "answer": "Broken Hills is approximately 40 miles north of Pahrump. Take Nevada State Route 160 north toward Tonopah, continue on US Highway 95 north past Tonopah, then follow BLM access roads marked for rockhounding areas. GPS coordinates 39.04532, -117.975774 will guide you to the main collecting zone."
+    },
+    {
+      "question": "Is Broken Hills in Nevada suitable for beginner rockhounders and families?",
+      "answer": "Yes, Broken Hills is excellent for beginners and families. The flat terrain at 5,289 feet elevation is accessible to most hikers, no specialized skills are needed, and hand tool collecting is straightforward. Children ages 6 and up can participate. The site is BLM land with no fees or permits required, making it affordable for family trips."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Broken Hills?",
+      "answer": "Bring a rock hammer or small pick, a hand lens for inspecting specimens, heavy work gloves, and a sturdy backpack or bucket for collecting. Most importantly, bring 2+ gallons of water per person - the high desert offers no reliable water sources. Sunscreen, a wide-brimmed hat, sturdy hiking boots, and a headlamp are essential. Leave motorized tools at home - hand tools only on BLM land."
+    }
+  ],
+  "meta_title": "Broken Hills Rockhounding - Nevada BLM Agate",
+  "meta_description": "Find banded agate, jasper, and chalcedony at Broken Hills on Nevada BLM land. No permit needed, 25 lb daily limit. Free rockhounding near Pahrump.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - based on regional geography and BLM location inference",
+    "nearest_city_distance - estimated from GPS coordinates",
+    "road_conditions - typical for BLM access in this region",
+    "parking_notes - inferred from typical BLM rockhounding site patterns"
+  ],
+  "enriched_at": "2026-04-22T06:44:07.472Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:50:05.489Z"
+}

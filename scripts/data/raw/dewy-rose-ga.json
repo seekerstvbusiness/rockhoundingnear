@@ -1,0 +1,60 @@
+{
+  "slug": "dewy-rose-ga",
+  "name": "Dewy Rose",
+  "lat": 34.193798,
+  "lng": -82.958154,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Elbert County",
+  "city_slug": "elbert-county",
+  "county": "Elbert",
+  "county_slug": "elbert",
+  "geocoded_city": "Elbert County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Dewy%20Rose%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Dewy%20Rose",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Dewy%20Rose%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 620,
+      "meters": 189
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:14:19.412Z"
+  },
+  "scraped_at": "2026-04-21T19:14:19.412Z",
+  "scrape_quality": "minimal"
+}

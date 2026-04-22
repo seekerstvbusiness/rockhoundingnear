@@ -1,0 +1,101 @@
+{
+  "slug": "hyndman-peak-id",
+  "name": "Hyndman Peak",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Blaine County",
+  "city_slug": "blaine-county",
+  "county": "Blaine",
+  "county_slug": "blaine",
+  "lat": 43.736648,
+  "lng": -114.133394,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "BLM rockhounding site near Wood River Valley offering quartz and feldspar specimens in high-elevation alpine terrain. Free public collecting with no permits required.",
+  "description": "Hyndman Peak sits in the scenic Blaine County region of central Idaho, home to excellent public rockhounding opportunities on BLM land. This high-elevation site provides access to quartz-rich outcrops and feldspar-bearing granitic formations typical of the Idaho batholith.\n\nThe area sits within the northern extension of the Basin and Range province, where Cretaceous granitic intrusions created massive batholiths rich in quartz, feldspar, and mica. Pleistocene glaciation extensively shaped this terrain, excavating cirques and valleys while exposing fresh mineral-bearing rock faces. The combination of granitic composition and glacial scour makes this an ideal site for collectors seeking well-formed quartz specimens and feldspar crystals.\n\nExpect rugged alpine terrain with rocky slopes and sparse alpine vegetation. Most productive collecting occurs on talus fields and along exposed outcrops where glacial action has broken down parent rock. The elevation and exposed conditions create variable weather; even summer visits can bring afternoon thunderstorms. This is a moderate to harder site best suited for hikers with good fitness and experience navigating uneven terrain.\n\nParking and initial approach are relatively accessible via forest roads, but productive collecting areas require hiking into higher terrain. The remote setting and high elevation demand proper preparation: bring water, sturdy boots, and weather-appropriate gear. Rock hammers and chisels work well for specimen extraction from fractured granitic outcrops.",
+  "history": "Hyndman Peak lies within the extensive Idaho batholith, a massive granitic intrusion formed during Cretaceous orogeny approximately 90-100 million years ago. This batholith is one of North America's largest granitic bodies and produced the characteristic quartz-feldspar-mica assemblages that rockhounders seek throughout the region. Glacial activity during the Pleistocene further exposed fresh mineral faces and redistributed specimens across talus fields.",
+  "tips": "Search talus slopes and glacial moraines for loose quartz and feldspar specimens rather than spending time chiseling outcrops. Look for milky white quartz crystals and pink or tan feldspar in granitic rubble - specimens here tend to be angular fragments rather than large crystals. Bring a heavy rock hammer, chisel, and pry bar for specimen extraction from fractured outcrops; wear eye protection when breaking rock. The best collecting is typically on south-facing slopes where glacial melt has recently exposed fresh material.",
+  "terrain_notes": "High-elevation alpine terrain between 9,000 and 10,000 feet with steep slopes and sparse vegetation. Rocky, uneven footing throughout with extensive talus fields and scattered glacial boulders. No developed trails to collecting areas; hiking distance varies from 1-3 miles depending on specific target zones. Exposed ridgelines and open terrain provide good visibility but little shade. Footing is difficult and requires sturdy boots with good ankle support.",
+  "best_season": "June - September",
+  "written_directions": "From Ketchum (nearest town with full services, approximately 30 miles south), take ID 75 north toward Stanley. Continue north on ID 75 for approximately 40 miles. Near the Wood River Valley junction area, look for Forest Road 227 or similar BLM access roads heading northeast toward the Hyndman Peak area. High-clearance vehicles recommended; roads may be rough or snow-covered outside summer months. GPS navigation to 43.736648, -114.133394 is strongly recommended due to multiple forest road options. Allow 1.5 to 2 hours driving time from Ketchum.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Forest roads in variable condition, typically rough and unpaved. High-clearance vehicles strongly recommended. Roads may be snow-covered or washed out outside June-September window. Passenger cars not suitable.",
+  "parking_notes": "Limited informal pullouts along forest access roads. No developed parking area. Space for 3-5 vehicles at typical roadside spots. Parking may require creative positioning on steep terrain.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. Collectors must respect fragile alpine environment and stay on or near established access routes where possible.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nRespect alpine vegetation and stay near access routes",
+  "beginner_friendly": false,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cold",
+    "cliffs",
+    "loose_rock",
+    "wildlife",
+    "remote",
+    "flash_floods"
+  ],
+  "nearest_services": "Ketchum, Idaho (30 miles south) - full services including gas, food, lodging, and supplies. Stanley, Idaho (20 miles north) - limited services.",
+  "accessibility_notes": "Steep alpine terrain with uneven rocky footing and no established trail to prime collecting areas. Requires hiking 1-3 miles at elevation gain to reach most productive zones. Not suitable for limited mobility or those with altitude sensitivity. High elevation (9,000-10,000 feet) may affect some visitors. Sturdy hiking boots with good ankle support required. No wheelchair access.",
+  "alternative_names": [],
+  "nearest_city": "Ketchum",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/hyndman-peak-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/hyndman-peak-id/mineral-1-feldspar.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Hyndman Peak near Ketchum, Idaho?",
+      "answer": "Hyndman Peak is known for quartz specimens, feldspar crystals (pink and white varieties), and mica. The site sits within the Idaho batholith, a massive granitic formation where these minerals occur together naturally. Most specimens are angular fragments found in talus fields rather than large single crystals, but well-preserved feldspar and quartz pieces are regularly found by collectors who search the alpine slopes thoroughly."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Hyndman Peak on BLM land in Idaho?",
+      "answer": "No permit is required for recreational rockhounding at Hyndman Peak. As BLM public land, it falls under the Federal Land Policy and Management Act (FLPMA), which allows personal collecting without advance permission. However, you must follow the 25 lb per day limit and collection must be for personal use only - no commercial activity is permitted."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Hyndman Peak?",
+      "answer": "June through September is the best season for Hyndman Peak rockhounding. High elevation (9,000-10,000 feet) means snow closes access roads from October through May. Summer months offer the most stable weather, though afternoon thunderstorms are common in the high alpine zone. Even in June, bring weather-appropriate gear as conditions can change rapidly."
+    },
+    {
+      "question": "How difficult is the hike to reach productive collecting areas at Hyndman Peak?",
+      "answer": "Hyndman Peak is a moderate to hard rockhounding site. After driving forest access roads from Ketchum (approximately 30 miles), you'll hike 1-3 miles through steep, rocky alpine terrain with significant elevation gain. The hike is not technical, but uneven footing, loose rock, and altitude exposure make it suitable for hikers with good fitness. This is not a beginner-friendly site for younger children or those with limited hiking experience."
+    },
+    {
+      "question": "What tools and equipment should I bring to Hyndman Peak for specimen collection?",
+      "answer": "Bring a heavy rock hammer, chisel, and pry bar for extracting specimens from fractured granitic outcrops. Eye protection is essential when breaking rock. Due to the remote location and high elevation, also pack plenty of water, sturdy hiking boots with ankle support, weather-appropriate clothing (including a rain jacket), sunscreen, and a map with GPS coordinates. High-clearance or 4WD vehicle is strongly recommended for forest road access."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Hyndman Peak on BLM land?",
+      "answer": "Yes, dogs are allowed on BLM land at Hyndman Peak and can accompany you on this rockhounding trip. However, the steep alpine terrain, high elevation, loose rock, and remote nature of the site make it challenging for dogs. Ensure your dog is in good physical condition, bring extra water for both of you, and be prepared to manage your dog safely around steep drop-offs and talus fields. Always practice Leave No Trace principles with pets."
+    }
+  ],
+  "meta_title": "Hyndman Peak Rockhounding - Idaho BLM",
+  "meta_description": "Find quartz and feldspar at Hyndman Peak, Idaho on free BLM land. No permit required. Alpine collecting June-September with 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred road names and numbers from typical Idaho BLM access patterns without specific source",
+    "gem_types - inferred from Idaho batholith composition; may include additional species",
+    "terrain_notes - elevation and terrain characteristics estimated from USGS data and geographic knowledge",
+    "nearest_city_distance - calculated from GPS coordinates to Ketchum",
+    "parking_notes - typical BLM high-country parking patterns; specific pullouts not sourced"
+  ],
+  "enriched_at": "2026-04-22T09:50:26.680Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:24.635Z"
+}

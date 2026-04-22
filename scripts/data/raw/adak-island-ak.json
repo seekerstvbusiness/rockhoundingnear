@@ -1,0 +1,57 @@
+{
+  "slug": "adak-island-ak",
+  "name": "Adak Island",
+  "lat": 51.953056,
+  "lng": -176.670175,
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "state_code": "AK",
+  "city": "Unorganized Borough",
+  "city_slug": "unorganized-borough",
+  "county": "Unorganized Borough",
+  "county_slug": "unorganized-borough",
+  "geocoded_city": "Unorganized Borough",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-alaska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Adak%20Island%20Alaska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Adak%20Island",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Adak%20Island%20Alaska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:18:03.662Z"
+  },
+  "scraped_at": "2026-04-21T18:18:03.662Z",
+  "scrape_quality": "minimal"
+}

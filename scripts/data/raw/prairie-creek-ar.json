@@ -1,0 +1,60 @@
+{
+  "slug": "prairie-creek-ar",
+  "name": "Prairie Creek",
+  "lat": 34.03604,
+  "lng": -93.681774,
+  "state": "Arkansas",
+  "state_slug": "arkansas",
+  "state_code": "AR",
+  "city": "Pike County",
+  "city_slug": "pike-county",
+  "county": "Pike",
+  "county_slug": "pike",
+  "geocoded_city": "Murfreesboro",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-arkansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Prairie%20Creek%20Arkansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Prairie%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Prairie%20Creek%20Arkansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 324,
+      "meters": 99
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:12:25.530Z"
+  },
+  "scraped_at": "2026-04-21T17:12:25.530Z",
+  "scrape_quality": "minimal"
+}

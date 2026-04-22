@@ -1,11 +1,9 @@
 ﻿import type { Metadata } from 'next'
 import Link from 'next/link'
-import { MapPin, ChevronRight, Gem, Clock } from 'lucide-react'
+import { ChevronRight } from 'lucide-react'
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '@/components/ui/breadcrumb'
-import { LocationCard } from '@/components/locations/LocationCard'
 import { BreadcrumbSchema } from '@/components/seo/JsonLd'
-import { getLocations } from '@/lib/supabase'
-import { US_STATES, SITE_URL, SITE_NAME } from '@/lib/constants'
+import { US_STATES, SITE_URL } from '@/lib/constants'
 
 export const metadata: Metadata = {
   title: 'All Rockhounding Locations',
@@ -30,8 +28,6 @@ const STATE_REGIONS: { label: string; states: string[] }[] = [
 ]
 
 export default async function LocationsPage() {
-  const locations = await getLocations(12)
-
   const breadcrumbItems = [
     { name: 'Home', url: SITE_URL },
     { name: 'Locations', url: `${SITE_URL}/locations` },
@@ -73,9 +69,6 @@ export default async function LocationsPage() {
         <section className="mb-14">
           <div className="flex items-center justify-between mb-5">
             <h2 className="font-heading text-2xl font-bold text-foreground">Browse by State</h2>
-            <Link href="/states" className="text-sm text-primary hover:underline flex items-center gap-1">
-              All 50 states <ChevronRight className="w-3.5 h-3.5" />
-            </Link>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -120,31 +113,6 @@ export default async function LocationsPage() {
               ))}
             </div>
           </div>
-        </section>
-
-        {/* Featured locations */}
-        <section>
-          <div className="flex items-center justify-between mb-6">
-            <h2 className="font-heading text-2xl font-bold text-foreground">Featured Locations</h2>
-            <div className="flex items-center gap-1.5 text-sm text-muted-foreground">
-              <Clock className="w-3.5 h-3.5" />
-              Updated weekly
-            </div>
-          </div>
-
-          {locations.length > 0 ? (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-              {locations.map((location) => (
-                <LocationCard key={location.id} location={location} />
-              ))}
-            </div>
-          ) : (
-            <div className="text-center py-20 border border-dashed border-border rounded-xl text-muted-foreground">
-              <MapPin className="w-10 h-10 mx-auto mb-3 text-ruby-200" />
-              <p className="text-lg font-medium mb-1">Locations coming soon</p>
-              <p className="text-sm">We&apos;re verifying our first batch of rockhounding sites. Check back shortly!</p>
-            </div>
-          )}
         </section>
 
         {/* CTA strip */}

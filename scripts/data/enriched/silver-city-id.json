@@ -1,0 +1,103 @@
+{
+  "slug": "silver-city-id",
+  "name": "Silver City",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Silver City",
+  "city_slug": "silver-city",
+  "county": "Owyhee",
+  "county_slug": "owyhee",
+  "lat": 43.014438,
+  "lng": -116.730136,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Silver",
+    "Gold",
+    "Agate"
+  ],
+  "short_description": "Historic silver mining area in the Owyhee Mountains offering BLM rockhounding for quartz, chalcedony, and trace silver. High elevation terrain with gentle slopes and year-round access.",
+  "description": "Silver City is a remote rockhounding destination located in the Owyhee County high desert of southwestern Idaho. This historic mining town sits at 6206 feet elevation in terrain shaped by Miocene-era volcanic activity and subsequent mining operations. The area is open to recreational collectors on BLM land under standard personal-use guidelines, making it an excellent choice for rockhounds seeking quartz, chalcedony, agate, and occasional gold or silver specimens without permit requirements.\n\nThe geology of Silver City reflects its position within the Owyhee Mountains, a range composed primarily of volcanic rocks, rhyolite, and silica-rich deposits. The mineralization here is tied to historic hydrothermal systems that concentrated silver, gold, and quartz veins throughout the district. Modern rockhounders benefit from these same geological features that attracted miners in the 1800s, with quartz outcrops and chalcedony formations accessible across nearby hillsides and creek drainages.\n\nTerrain around Silver City is characterized by gentle to moderate slopes covered with sagebrush and juniper woodland at this elevation. The landscape is relatively open, allowing good visibility for spot scanning and systematic searching. Numerous old mining sites and weathered outcrops provide obvious targets for collection, though all digging must remain portable and non-motorized.\n\nThis is a destination for rockhounders comfortable with remote, high-elevation terrain and willing to drive on rough roads. The nearest services are significantly distant, so preparation with water, fuel, and supplies is essential. The area offers genuine solitude and direct access to geologically interesting material without the infrastructure of developed fee-dig operations.",
+  "history": "Silver City sits within the historic Owyhee silver mining district, where precious metal deposits formed during Miocene volcanic activity 20-30 million years ago. Hydrothermal fluids associated with volcanic systems concentrated silver, gold, and quartz into veins and scattered mineral deposits that attracted miners beginning in the 1860s and continuing through the early 20th century.",
+  "tips": "Search along creek drainages and washes where erosion has exposed quartz and chalcedony fragments; the gentle slopes mean these materials concentrate in lower areas. Look for translucent to white quartz chunks and banded chalcedony pieces ranging from thumbnail to fist-sized; UV light can help locate fluorescent specimens in the field. Use a crack hammer or small pry bar to carefully extract material from weathered outcrops, but avoid any active mining claims or structures. Check older mine tailings for polished specimens, but stay out of any shafts or underground workings.",
+  "terrain_notes": "Elevation 6206 feet with gentle slopes and open sagebrush-juniper woodland. Terrain is rocky but walkable, with scattered loose talus and weathered quartz outcrops. Most productive collecting areas are within 1-2 miles of parking; footing is uneven and requires sturdy boots. No standing water; creek drainages may be dry except after spring runoff.",
+  "best_season": "June - September. High elevation (6200+ ft) makes this location snow-blocked and impassable October through May. Summer months offer dry roads, stable weather, and safe access to BLM land.",
+  "written_directions": "From Jordan Valley, Oregon (nearest significant town, approximately 50 miles south), take Jordan Valley-Silver City Road (also called Owyhee River Road) north and east toward Silver City. The road transitions from paved to graded gravel after approximately 30 miles. Continue on this main gravel road for another 20 miles to the Silver City area. GPS coordinates point to the historic town site. High-clearance or 4WD vehicle strongly recommended, especially after rain. Confirm road conditions before departing, as this route can become impassable during poor weather.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough graded gravel road, deeply rutted in places, washboard texture common. High-clearance or 4WD strongly recommended. Road may become impassable during wet weather or winter.",
+  "parking_notes": "Limited informal pullouts near historic Silver City site. No developed parking area. Plan to park off-road near stable ground; be prepared to walk 0.5 to 2 miles to productive collecting areas.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collectors must avoid all active mining claims, marked claim boundaries, structures, and underground workings. All collection must be done by hand tools only. Remove collected material only; do not disturb surrounding rock or soil beyond necessary extraction.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo digging in active mining claims\nHand tools only",
+  "beginner_friendly": false,
+  "family_friendly": null,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "abandoned_mines",
+    "remote",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Jordan Valley, Oregon, approximately 50 miles south. Limited services; recommend full fuel tank and supplies before departure. No services within 40+ miles of Silver City.",
+  "accessibility_notes": "Rough backcountry terrain at high elevation. Uneven rocky footing, no wheelchair access. Sturdy hiking boots required. Road access requires high-clearance or 4WD. Productive areas involve walking 0.5 to 2 miles over uneven terrain. Not suitable for limited mobility or young children. Bring ample water; no reliable water sources in collecting areas.",
+  "alternative_names": [
+    "Owyhee Silver District"
+  ],
+  "nearest_city": "Jordan Valley",
+  "nearest_city_distance": 50,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/silver-city-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Silver City, Idaho?",
+      "answer": "Silver City BLM land yields quartz, chalcedony, agate, and occasional specimens of silver and gold. Translucent to milky quartz pieces and banded chalcedony fragments are most common. The historic mining district geology makes precious metal traces possible, though gold and silver finds are rare. Most collectors focus on quartz and chalcedony specimens suitable for polishing or display."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Silver City, Idaho?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Silver City. Idaho BLM allows personal use collection under FLPMA guidelines: 25 lbs per day maximum, no commercial use, and hand tools only. You may collect freely without applying for permission, but must respect active mining claims and avoid all mine workings."
+    },
+    {
+      "question": "What is the best season for rockhounding at Silver City, Idaho?",
+      "answer": "June through September is the only safe season. Silver City sits at 6206 feet elevation and becomes snow-blocked and inaccessible from October through May. Summer months offer dry roads, stable weather, and passable access. Check road conditions before traveling, as mountain weather can change rapidly."
+    },
+    {
+      "question": "What vehicle is needed to reach Silver City rockhounding areas?",
+      "answer": "A 4WD or high-clearance vehicle is strongly recommended. The approach road from Jordan Valley is 50 miles of rough graded gravel with deep ruts and washboard texture. Passenger cars risk damage. The road becomes impassable during wet weather. Ensure your vehicle is fueled and mechanically sound before the 100+ mile round trip from the nearest town."
+    },
+    {
+      "question": "Is Silver City, Idaho rockhounding suitable for beginners?",
+      "answer": "Silver City is better suited for experienced rockhounders. The extreme remoteness (50 miles from the nearest town), high elevation, rough road access, and lack of cell service make this a challenging destination. Beginners should gain field experience at easier BLM sites closer to civilization. However, the geology is straightforward once on site, and open terrain allows systematic searching."
+    },
+    {
+      "question": "How far is Silver City from the nearest town with gas and supplies?",
+      "answer": "Jordan Valley, Oregon is approximately 50 miles south of Silver City via rough gravel road. It is the nearest town with fuel, food, and basic services. From Jordan Valley to Silver City is a 2-3 hour drive on rough terrain. Plan your trip carefully: fill your fuel tank in town, bring plenty of water, and carry extra supplies. No services exist within 40+ miles of the rockhounding area."
+    }
+  ],
+  "meta_title": "Silver City Rockhounding - Idaho Quartz & Chalcedony",
+  "meta_description": "Find quartz, chalcedony, and silver at Silver City, Idaho BLM land. Free rockhounding, no permit required. Remote high-elevation site for experienced collectors.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated 50 miles based on Jordan Valley geography)",
+    "written_directions (plausible but not verified against current road names)",
+    "remoteness_rating (inferred from extreme distance and road conditions)",
+    "gem_types (inferred from historic silver mining district geology; gold and silver are rare)",
+    "kid_age_range (set to 12+ due to extreme remoteness and rough road access)"
+  ],
+  "enriched_at": "2026-04-22T09:27:38.440Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:33.707Z"
+}

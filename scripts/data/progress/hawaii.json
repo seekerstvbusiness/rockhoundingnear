@@ -1,0 +1,78 @@
+{
+  "state_slug": "hawaii",
+  "total": 9,
+  "stages": {
+    "scrape": {
+      "done": [
+        "manele-bay-hi",
+        "olowalu-valley-hi",
+        "pohakea-pass-hi",
+        "wahiawa-hi",
+        "kailua-area-north-hi",
+        "haleakala-national-park-hi",
+        "kailua-area-south-hi",
+        "papakolea-green-sand-beach-other-beaches-hi",
+        "kapa-a-quarry-private-area-obtain-permission-first-hi"
+      ],
+      "failed": []
+    },
+    "enrich": {
+      "done": [
+        "manele-bay-hi",
+        "pohakea-pass-hi",
+        "haleakala-national-park-hi",
+        "wahiawa-hi",
+        "papakolea-green-sand-beach-other-beaches-hi",
+        "kapa-a-quarry-private-area-obtain-permission-first-hi",
+        "kailua-area-north-hi",
+        "kailua-area-south-hi",
+        "olowalu-valley-hi"
+      ],
+      "failed": []
+    },
+    "images": {
+      "done": [
+        "manele-bay-hi",
+        "papakolea-green-sand-beach-other-beaches-hi",
+        "kailua-area-north-hi",
+        "wahiawa-hi",
+        "olowalu-valley-hi",
+        "kailua-area-south-hi",
+        "haleakala-national-park-hi",
+        "pohakea-pass-hi",
+        "kapa-a-quarry-private-area-obtain-permission-first-hi"
+      ],
+      "failed": []
+    },
+    "validate": {
+      "done": [
+        "manele-bay-hi",
+        "papakolea-green-sand-beach-other-beaches-hi",
+        "olowalu-valley-hi",
+        "kailua-area-north-hi",
+        "kailua-area-south-hi",
+        "haleakala-national-park-hi",
+        "wahiawa-hi",
+        "pohakea-pass-hi",
+        "kapa-a-quarry-private-area-obtain-permission-first-hi"
+      ],
+      "failed": []
+    },
+    "import": {
+      "done": [
+        "manele-bay-hi",
+        "papakolea-green-sand-beach-other-beaches-hi",
+        "olowalu-valley-hi",
+        "kailua-area-north-hi",
+        "kailua-area-south-hi",
+        "haleakala-national-park-hi",
+        "wahiawa-hi",
+        "pohakea-pass-hi",
+        "kapa-a-quarry-private-area-obtain-permission-first-hi"
+      ],
+      "failed": []
+    }
+  },
+  "started_at": "2026-04-21T16:31:54.793Z",
+  "updated_at": "2026-04-22T10:13:29.644Z"
+}

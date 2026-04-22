@@ -1,0 +1,60 @@
+{
+  "slug": "louisville-quarry-area-ky",
+  "name": "Louisville (quarry area)",
+  "lat": 38.240483,
+  "lng": -85.834765,
+  "state": "Kentucky",
+  "state_slug": "kentucky",
+  "state_code": "KY",
+  "city": "Louisville",
+  "city_slug": "louisville",
+  "county": "Jefferson",
+  "county_slug": "jefferson",
+  "geocoded_city": "Louisville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kentucky.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Louisville%20(quarry%20area)%20Kentucky"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Louisville%20(quarry%20area)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Louisville%20(quarry%20area)%20Kentucky"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 391,
+      "meters": 119
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:19:05.900Z"
+  },
+  "scraped_at": "2026-04-21T17:19:05.900Z",
+  "scrape_quality": "minimal"
+}

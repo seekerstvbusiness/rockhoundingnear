@@ -1,0 +1,60 @@
+{
+  "slug": "craigsville-ny",
+  "name": "Craigsville",
+  "lat": 41.3841,
+  "lng": -74.233413,
+  "state": "New York",
+  "state_slug": "new-york",
+  "state_code": "NY",
+  "city": "Town of Blooming Grove",
+  "city_slug": "town-of-blooming-grove",
+  "county": "Orange",
+  "county_slug": "orange",
+  "geocoded_city": "Town of Blooming Grove",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-york.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Craigsville%20New%20York"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Craigsville",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Craigsville%20New%20York"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 403,
+      "meters": 123
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:35:05.462Z"
+  },
+  "scraped_at": "2026-04-21T18:35:05.462Z",
+  "scrape_quality": "minimal"
+}

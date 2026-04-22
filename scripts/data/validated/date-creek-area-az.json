@@ -1,0 +1,100 @@
+{
+  "slug": "date-creek-area-az",
+  "name": "Date Creek area",
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "city": "Prescott",
+  "city_slug": "prescott",
+  "county": "Yavapai",
+  "county_slug": "yavapai",
+  "lat": 34.212639,
+  "lng": -113.049795,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Prescott offering accessible rockhounding for agate, chalcedony, and jasper specimens. No permit required; 25 lbs per day personal use collecting allowed.",
+  "description": "Date Creek area sits on Bureau of Land Management (BLM) property in central Arizona's Yavapai County, roughly 40 miles northeast of Prescott. This is a beginner-friendly location where rockhounds can collect agate, chalcedony, and jasper specimens without needing a permit. The landscape is semi-arid desert with scattered brush and exposed geological formations typical of the Basin and Range province.\n\nThe site offers relatively flat terrain at around 2773 feet elevation, making it accessible for most visitors willing to do moderate hiking and exploring wash areas. You will encounter loose volcanic rock and desert scrub vegetation. The collecting potential is highest in seasonal washes and along hillsides where erosion has exposed colorful quartz-based materials.\n\nThis location is ideal for families, beginners, and casual rockhounders who want to experience productive collecting without the cost of a commercial fee dig. The proximity to US Route 93 (just 1 mile away) makes access straightforward. Afternoon thunderstorms are possible in summer months, so timing your visit for cooler seasons maximizes comfort and safety.\n\nCollectors should bring plenty of water, sun protection, and sturdy footwear for navigating rocky terrain. The 25-pound daily limit under Federal Land Policy and Management Act (FLPMA) regulations is generous enough for a full day of productive collecting. Most visitors spend 3-5 hours working the area and depart with quality specimens.",
+  "history": "Date Creek area lies within the Basin and Range province of central Arizona, where Miocene-age volcanic activity and hydrothermal alteration deposited silica-rich minerals that crystallized into agate nodules, chalcedony seams, and jasper formations. This region has a long history of prospecting and small-scale mining for quartz and semi-precious stones dating back to the late 1800s, with modern recreational rockhounders continuing to find attractive specimens in weathered washes and eroded hillsides.",
+  "tips": "Search in seasonal washes and arroyo beds where water erosion has exposed and tumbled colorful quartz specimens - focus on areas with exposed tan, brown, and red volcanic rock. Use a small digging bar or pick to work around the base of rocks and along ledges where agate nodules often form in vesicular basalt. Look for translucent or banded patterns in chalcedony and the distinctive red, brown, and golden colors of desert jasper; specimens typically range from thumbnail-size to fist-sized. Bring a magnifying glass to identify quality pieces in the field and avoid wasting weight allowance on common pale quartz.",
+  "terrain_notes": "Elevation 2773 feet with flat to gently rolling terrain. Exposed volcanic rock formations, sparse desert shrubs, and sandy/gravelly washes characterize the landscape. Hiking distance from parking to productive collecting areas is typically 0.5 to 2 miles. Footing is uneven due to scattered rocks and loose volcanic debris; sturdy boots with good ankle support are essential. No shade available; sun exposure is intense year-round.",
+  "best_season": "October - April. Desert heat is excessive May through September (daytime highs often exceed 95 degrees F), and summer thunderstorms bring flash flood risk to washes. Late fall, winter, and early spring offer comfortable temperatures (50-75 degrees F), clear skies, and low precipitation - ideal for full-day collecting sessions.",
+  "written_directions": "From Prescott, take Highway 69 south for approximately 15 miles toward Wickenburg. Turn right (west) onto US Route 93 and continue for about 8 miles. The Date Creek area access points are marked pullouts along US 93 on both sides of the highway - look for exposed volcanic ridges and wash entrances. Park at any suitable turnout near rocky outcrops or seasonal drainage areas. GPS coordinates 34.212639, -113.049795 mark the primary collecting zone. High-clearance vehicles are not required, but rough dirt side roads may need awd for wet winter conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US Route 93 is a well-maintained paved highway. Access to specific collecting areas via short dirt pullouts and unmaintained two-track roads; passenger vehicles are adequate for main highway access. Avoid side roads immediately after heavy rain.",
+  "parking_notes": "Informal pullouts along US Route 93 with space for 2-6 vehicles per location. No developed parking area. Multiple access points along the highway allow visitors to sample different sections. Always park safely off the travel lanes.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or power tools. Collecting restricted to surface materials and hand-tool excavation only. Pack out all trash. Respect any posted closure signs or seasonal restrictions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools and pick only\nPack out all trash\nRespect posted closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Wickenburg, approximately 25 miles southwest via US 93. Gas, food, lodging, and supplies available. No services at the collection site itself.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers with basic fitness. Uneven rocky ground requires sturdy footwear; no wheelchair access to productive collecting areas. Informal parking pullouts are ground-level. Walking distances of 0.5 to 2 miles on natural terrain. Heat exposure is significant; shade is not available. Not suitable for visitors with limited mobility.",
+  "alternative_names": [],
+  "nearest_city": "Prescott",
+  "nearest_city_distance": 40,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/date-creek-area-az/mineral-1-agate.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/date-creek-area-az/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Date Creek near Prescott?",
+      "answer": "Date Creek area offers excellent collecting opportunities for agate, chalcedony, jasper, and quartz specimens. These semi-precious stones are found in exposed volcanic formations and seasonal washes throughout the BLM land. Agate nodules and banded chalcedony are the most prized finds, often displaying attractive tan, brown, red, and golden colors typical of central Arizona's geology."
+    },
+    {
+      "question": "Do I need a permit to collect at Date Creek, Arizona?",
+      "answer": "No permit is required for recreational rockhounding at Date Creek BLM land. This is public land managed under FLPMA regulations that allow personal use collecting without a permit. You must follow the 25-pound daily limit and collect only surface materials and hand-tool excavations. Commercial collection is prohibited."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Prescott?",
+      "answer": "October through April is ideal for collecting at Date Creek. Daytime temperatures range from 50-75 degrees F, providing comfortable working conditions. Summer months (May-September) are extremely hot with temperatures exceeding 95 degrees F and afternoon thunderstorm risk that can trigger flash floods in washes. Spring and fall offer the best combination of pleasant weather and clear skies."
+    },
+    {
+      "question": "How far is Date Creek from Prescott and what are the driving directions?",
+      "answer": "Date Creek area is approximately 40 miles northeast of Prescott. From downtown Prescott, take Highway 69 south for 15 miles toward Wickenburg, then turn right onto US Route 93 and continue 8 miles. Multiple roadside pullouts mark access points along US 93 where you can park and begin rockhounding. The drive takes about one hour from Prescott."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Date Creek?",
+      "answer": "Bring a small digging bar or pick, magnifying glass, sturdy boots, sun protection (hat and sunscreen), and at least 2-3 liters of water per person. A small rock hammer, chisel, and backpack are helpful for collecting. The terrain has sharp volcanic rock, so heavy gloves are recommended. Pack out all trash and bring a marker to identify quality specimens before reaching your 25-pound limit."
+    },
+    {
+      "question": "Is Date Creek rockhounding suitable for families and children?",
+      "answer": "Yes, Date Creek is beginner and family-friendly. The flat terrain, close proximity to parking (0.5-2 mile walks), and abundance of accessible surface specimens make it ideal for children ages 6 and up. No permit is needed, and the 25-pound daily limit allows kids to actively collect. Bring extra water, sun protection, and plan visits during cooler months (October-April) to maximize safety and enjoyment."
+    }
+  ],
+  "meta_title": "Date Creek Rockhounding - Find Agate & Jasper in Arizona",
+  "meta_description": "BLM public land rockhounding near Prescott. Collect agate, chalcedony, and jasper. No permit needed. 25 lbs per day. Easy access on US 93.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from geology of central Arizona BLM land; no specific field data source",
+    "specific_wash_or_outcrop_names - no detailed location names provided in source material",
+    "exact_parking_capacity - estimated based on typical BLM pullouts; not confirmed"
+  ],
+  "enriched_at": "2026-04-21T15:37:53.562Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T15:49:31.423Z"
+}

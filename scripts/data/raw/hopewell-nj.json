@@ -1,0 +1,66 @@
+{
+  "slug": "hopewell-nj",
+  "name": "Hopewell",
+  "lat": 40.457794,
+  "lng": -74.720689,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Hillsborough Township",
+  "city_slug": "hillsborough-township",
+  "county": "Somerset",
+  "county_slug": "somerset",
+  "geocoded_city": "Hillsborough Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hopewell%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hopewell",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hopewell%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 438,
+      "meters": 134
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Beden Brook",
+        "type": "stream",
+        "dist": 4.2
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:37:06.849Z"
+  },
+  "scraped_at": "2026-04-21T18:37:06.849Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "bear-paw-mountains-mt",
+  "name": "Bear Paw Mountains",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Havre",
+  "city_slug": "havre",
+  "county": "Hill",
+  "county_slug": "hill",
+  "lat": 48.237115,
+  "lng": -109.58201,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Public BLM rockhounding in the Bear Paw Mountains offers free access to agate and jasper deposits. No permit required - just follow the 25 lb daily limit and enjoy Montana's scenic high desert.",
+  "description": "The Bear Paw Mountains near Havre, Montana provide excellent free rockhounding opportunities on BLM public land. This moderately elevated range sits at approximately 4590 feet and features the geological diversity typical of Montana's north-central region. The landscape combines open hillsides with scattered vegetation, offering both scenic views and productive collecting areas for agates, jaspers, and chalcedony specimens. Rockhounders of all experience levels can find quality material here without the expense of fee dig sites. The moderate slope and mixed terrain make this a good location for day trips, though the remote setting requires self-sufficiency and proper preparation.\n\nThe Bear Paw Mountains formed through complex geological processes involving Laramide-era uplift and older metamorphic and igneous basement rocks. Silica-rich minerals including agate, jasper, and chalcedony occur in scattered deposits throughout the range, often found in weathered outcrops, dry washes, and hillside scatters. The arid climate has naturally exposed these specimens over millennia, making surface collecting viable for patient rockhounders. The area's geology reflects Montana's position in the Northern Rocky Mountain province, where ancient mineralization meets younger erosional processes.\n\nBest collecting involves walking the dry washes and exposed ridges where gravity and weather have naturally concentrated lighter specimens. Early morning starts allow you to cover more ground before afternoon heat builds. The moderate elevation means weather can change quickly, particularly in spring and fall, so layered clothing is essential. This location rewards systematic searching - walking parallel to washes and examining exposed banks often yields better specimens than random searching on open flats.\n\nThe remote setting and BLM access make this a true rockhounding destination rather than a casual attraction. Cell service is spotty, so inform others of your plans and carry water and first aid supplies. The lack of developed facilities means you must be entirely self-sufficient - this is part of what keeps the area uncrowded and productive for serious hobbyists.",
+  "history": "The Bear Paw Mountains are part of Montana's Laramide uplift province, where Cretaceous and Tertiary tectonic activity raised metamorphic and igneous basement rocks to their current elevation. Silica-rich fluids circulating through fractures during this period deposited the agate, jasper, and chalcedony that rockhounders find today, with erosion over millions of years exposing these minerals at the surface.",
+  "tips": "Focus your search on dry washes and exposed ridge faces where specimens naturally concentrate due to erosion and weathering. Look for banded agate in earth tones (browns, tans, reds) and translucent to opaque jasper; most quality pieces here are palm-sized to fist-sized. Bring a small hand rake or brush to clear surface debris and expose fresh material in shallow washes. Collect in early morning or late afternoon to avoid midday heat and to benefit from lower-angle sunlight that makes color variations in agates and jaspers more visible.",
+  "terrain_notes": "The site sits at 4590 feet elevation on moderate slope terrain typical of the Bear Paw high desert. Vegetation is sparse to scattered - sagebrush, grasses, and scattered low shrubs. Rocky footing is common; sturdy boots with ankle support are essential. Most productive areas are within 0.5 to 2 miles of parking, though the remote setting means hiking to collect sites is normal. The terrain is rough but not technical - steady pace and careful footing required, no scrambling or rope work.",
+  "best_season": "June - September. Montana mountain weather above 4500 feet is unpredictable before June and after September. Summer months offer stable weather, minimal snow risk, and long daylight hours. July and August can experience afternoon thunderstorms; late June and early September are often ideal. Winter and spring access is severely hampered by snow, mud, and sudden weather changes.",
+  "written_directions": "From Havre, take US 2 east for approximately 18 miles toward Malta. Turn south onto a marked BLM access road (check current BLM Montana maps for exact turnoff - road names may vary). Follow this road south for 8-12 miles to reach the primary collecting areas in the Bear Paw foothills. The final approach may be rough and unpaved; high-clearance vehicles recommended. Park at any safe pullout and hike to exposed ridges and wash areas. GPS coordination recommended given the remote setting.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unpaved BLM access road; may be rough, rutted, or washed out depending on recent weather. High-clearance recommended. Not suitable for low-clearance passenger cars. Passable most of the year but check with Havre BLM office for current conditions.",
+  "parking_notes": "Informal pullouts along access roads. No developed parking area. Park safely off the road; capacity is essentially unlimited as there are multiple access points. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection allowed. No motorized excavation or use of power tools. Hand tools and simple collection methods only. Respect existing claims and leave the area in good condition.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools only\nRespect existing mining claims\nLeave no trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "wildlife",
+    "remote",
+    "cold",
+    "loose_rock"
+  ],
+  "nearest_services": "Havre, Montana - approximately 18-25 miles northwest. Gas, food, lodging, and water available. Limited services in Malta (20+ miles east).",
+  "accessibility_notes": "Uneven rocky terrain with moderate slope. No wheelchair access. Sturdy boots with ankle support essential. Hiking distances 0.5 to 2+ miles from parking. Rough footing common but no technical climbing required. Not recommended for those with limited mobility or significant joint issues.",
+  "alternative_names": [],
+  "nearest_city": "Havre",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/bear-paw-mountains-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/bear-paw-mountains-mt/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/bear-paw-mountains-mt/mineral-2-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding in the Bear Paw Mountains near Havre?",
+      "answer": "The Bear Paw Mountains are known for agate, jasper, chalcedony, and quartz. Most specimens are palm to fist-sized with natural banding and color variation. Agates here often display earth tones - browns, tans, reds, and cream - while jaspers tend toward solid reds and oranges. These are surface finds requiring patient searching along washes and exposed hillsides."
+    },
+    {
+      "question": "Is there a fee to rockhound at Bear Paw Mountains, and do I need a permit?",
+      "answer": "No - Bear Paw Mountains are on BLM public land with free access. No permit is required for recreational rockhounding. You do not pay an entry fee or collection fee. You simply must follow BLM rules: 25 lbs per day personal use limit, no commercial collection, and hand tools only."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Havre in the Bear Paw Mountains?",
+      "answer": "June through September is ideal. Montana mountain weather above 4500 feet is unstable before June and after September. July and August offer the longest daylight but can have afternoon thunderstorms. Late June and early September often provide the most stable weather. Winter and spring access is severely limited by snow and mud."
+    },
+    {
+      "question": "How far is the drive from Havre and what vehicle do I need?",
+      "answer": "Havre is about 18-22 miles northwest of the main collecting areas. You'll need a high-clearance vehicle (AWD or 4WD recommended) because the BLM access roads are unpaved and can be rough or rutted. Passenger cars risk undercarriage damage. Check with the Havre BLM office before going for current road conditions."
+    },
+    {
+      "question": "Is Bear Paw Mountains good for beginners and families with kids?",
+      "answer": "Yes. The terrain is moderate - no technical climbing or rope work needed - and surface collecting is straightforward. Kids age 8 and up can manage the hikes. However, the remote setting means you must be self-sufficient: bring plenty of water, food, first aid, and let others know your plans. Cell service is spotty, so this is not for first-time rockhounders who lack confidence in wilderness navigation."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding the Bear Paw Mountains?",
+      "answer": "Bring sturdy hiking boots, a hand rake or brush, a small chisel or pick (for prying specimens from soft rock), collection bags, and plenty of water (at least 2-3 liters per person). Sun protection, a hat, and layered clothing are essential. A GPS unit or smartphone with offline maps is highly recommended given the remote location and spotty cell service. A small first aid kit and high-energy snacks are also wise."
+    }
+  ],
+  "meta_title": "Bear Paw Mountains Rockhounding - Montana",
+  "meta_description": "Free BLM rockhounding near Havre, MT. Find agate, jasper, and quartz. No permit required. 25 lb daily limit. Moderate hiking. Best June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "specific_access_road_names"
+  ],
+  "enriched_at": "2026-04-21T19:07:36.648Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:11:06.313Z"
+}

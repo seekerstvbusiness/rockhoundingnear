@@ -1,0 +1,102 @@
+{
+  "slug": "south-pass-city-wy",
+  "name": "South Pass City",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Atlantic City",
+  "city_slug": "atlantic-city",
+  "county": "Fremont",
+  "county_slug": "fremont",
+  "lat": 42.470488,
+  "lng": -108.769204,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Gold"
+  ],
+  "short_description": "High-elevation BLM rockhounding near the historic South Pass mining district. Find quartz, feldspar, and mica in gentle slopes around this 8,152 ft elevation site.",
+  "description": "South Pass City sits in the heart of Wyoming's South Pass mining region, an area with deep significance in North American mining history. This BLM-managed location offers rockhounders access to exposed mineralized terrain at 8,152 feet elevation with gentle slopes that make collecting accessible to most skill levels. The area surrounding the historic mining town produces quartz veins, feldspar deposits, and mica specimens, along with occasional gold flakes in weathered material.\n\nThe geology here reflects the Archean basement rocks of the Wind River Range and overlying Proterozoic metasedimentary sequences. Hydrothermal alteration associated with historical gold mining created excellent collecting opportunities - quartz veins are abundant, and feldspar-rich pegmatites weather out of the surrounding country rock. Mica sheets can be found in schist outcrops, often alongside quartz.\n\nThis location combines rockhounding with historical interest - the old mining town ruins are nearby, offering context for why minerals are so abundant here. The gentle slope and moderate elevation make it suitable for families and less experienced collectors, though the high altitude requires conditioning for some visitors. Because this is BLM land, personal use collection is straightforward: take what you find up to the daily limit.\n\nThe best collecting is found along weathered ridges and old mine tailings areas where centuries of erosion have exposed fresh material. Quartz specimens range from small milky pieces to larger transparent fragments. Feldspar is often cream to pink-colored and can be collected in substantial chunks from feldspar-rich zones.",
+  "history": "South Pass City was the site of major gold discoveries in the 1860s-1880s, making it one of Wyoming's most important mining camps. The area's mineralization stems from Archean-age basement rocks and associated hydrothermal systems that created quartz veins and gold-bearing structures; these same processes concentrated feldspar and mica throughout the region, making it a productive collecting site more than a century after major mining ceased.",
+  "tips": "Search along the ridgelines and weathered outcrop areas east and west of the town site - these have the best exposed quartz and feldspar. Bring a 5-pound hammer or chisel to break quartz from vein material, and wear gloves because sharp quartz edges are common. Look for cream to pink feldspar in coarse-grained zones and milky white to transparent quartz fragments; specimens in the 2-4 inch range are most abundant and collectible.",
+  "terrain_notes": "Elevation 8,152 feet with gentle slopes and scattered sagebrush and conifer vegetation typical of Wyoming high country. Terrain is rocky with exposed outcrops and old mining disturbance, providing good access to mineralized rock. Walking distances from parking are typically short (under 1 mile) to productive areas. Footing is generally stable on slopes, though loose talus and weathered rock fragments require careful stepping.",
+  "best_season": "June - September. High elevation means snow closes the area from November through May. Summer months offer stable weather and accessible terrain, though afternoon thunderstorms are common in July-August.",
+  "written_directions": "From Atlantic City, take State Road 28 north toward South Pass for approximately 8 miles. Continue on SR 28 as it climbs toward South Pass City. The town site and surrounding BLM land access points are marked. Park near the old town ruins or at pullouts along SR 28 on the east side of the pass. From the parking area, walk upslope to the east or west to reach mineralized ridges and old mining disturbance areas where quartz and feldspar are exposed.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "State Road 28 is paved and well-maintained year-round. Access roads to parking areas are gravel or dirt but passable for standard vehicles. Washboard surface possible in spots; high clearance not required.",
+  "parking_notes": "Several informal pullouts exist along SR 28 near the South Pass City site. The main parking area is near the historic town ruins on the south side of the road. Capacity is limited (3-5 vehicles per pullout), and during peak season parking may be tight.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Respect old mining structures and do not disturb historic artifacts or mine shafts. Stay on or near existing trails and parking areas.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial use\nNo motorized excavation\nRespect historic structures and artifacts\nStay clear of dangerous mine shafts and abandoned mines",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "abandoned_mines",
+    "cold",
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Atlantic City, approximately 8 miles south. Limited services (general store, lodging). Larger services (gas, restaurants, supplies) in Farson or Pinedale, 25-35 miles away.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Uneven rocky ground with scattered loose talus requires sturdy footwear. No wheelchair access to collecting areas. High elevation (8,152 ft) may affect visitors unaccustomed to altitude.",
+  "alternative_names": [
+    "South Pass",
+    "South Pass District"
+  ],
+  "nearest_city": "Atlantic City",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/south-pass-city-wy/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/south-pass-city-wy/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/south-pass-city-wy/mineral-2-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at South Pass City, Wyoming?",
+      "answer": "South Pass City BLM land yields quartz (milky white to transparent), feldspar (cream to pink), mica sheets, and occasional gold flakes. Quartz veins are most abundant and easiest to collect. Specimens typically range from 1-4 inches and are ideal for beginners."
+    },
+    {
+      "question": "Do you need a permit to rockhound at South Pass City?",
+      "answer": "No permit is required. This is BLM land open to personal use rockhounding under FLPMA regulations. You can collect up to 25 lbs per day at no cost, making it an excellent free rockhounding site near Atlantic City."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near South Pass City?",
+      "answer": "June through September is ideal. The site sits at 8,152 feet elevation, so snow blocks access from November through May. Summer weather is stable and terrain is accessible, though afternoon thunderstorms are possible in July-August."
+    },
+    {
+      "question": "How do you find quartz and feldspar at South Pass City rockhounding site?",
+      "answer": "Search along weathered ridgelines east and west of the old town site. Quartz veins and feldspar-rich zones are exposed on hillsides due to historical mining and natural erosion. Bring a hammer and chisel to break material from outcrops. Focus on areas with white (quartz) and cream-colored (feldspar) exposed rock."
+    },
+    {
+      "question": "Is South Pass City rockhounding site suitable for families and beginners?",
+      "answer": "Yes. The site is beginner-friendly with easy to moderate terrain and gentle slopes. Kids ages 6 and up can collect successfully. Specimens are abundant and easy to extract, requiring only basic tools. High elevation (8,152 ft) is the main consideration for young children."
+    },
+    {
+      "question": "How far is South Pass City from Atlantic City, and what are the driving directions?",
+      "answer": "South Pass City is approximately 8 miles north of Atlantic City via State Road 28. Drive north on SR 28 toward South Pass for 8 miles until you reach the town site and surrounding BLM land. Pullouts and parking areas are marked near the historic ruins. Paved road access makes it accessible for any vehicle."
+    }
+  ],
+  "meta_title": "South Pass City Rockhounding - Wyoming",
+  "meta_description": "Find quartz, feldspar, and gold at South Pass City BLM land near Atlantic City. Free rockhounding with 25 lb daily limit. High elevation collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from South Pass mining district geology; quartz and feldspar are typical but not explicitly confirmed for this exact location",
+    "terrain_notes - inferred from 8,152 ft elevation and Wyoming high country characteristics",
+    "hazards - abandoned_mines inferred from historic mining activity at South Pass City"
+  ],
+  "enriched_at": "2026-04-22T06:40:10.186Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:42:34.021Z"
+}

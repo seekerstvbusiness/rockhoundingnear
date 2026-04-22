@@ -1,0 +1,101 @@
+{
+  "slug": "fallon-mt",
+  "name": "Fallon",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Fallon",
+  "city_slug": "fallon",
+  "county": "Prairie",
+  "county_slug": "prairie",
+  "lat": 46.852986,
+  "lng": -105.078216,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Fallon offering accessible rockhounding for agate, jasper, and chalcedony. Flat terrain and no permits required make this an ideal beginner-friendly site in eastern Montana.",
+  "description": "Fallon sits on productive BLM land in Prairie County, eastern Montana, where you can hunt for quality agate, jasper, and chalcedony specimens without permits or fees. The area lies within the Missouri River drainage system, where Tertiary-aged volcanic and sedimentary deposits have created excellent conditions for silica-based mineral formation. The flat terrain at roughly 2,142 feet elevation makes access straightforward compared to many Montana rockhounding sites.\n\nThis location is particularly attractive because it requires no special permits and allows personal collection up to 25 pounds per day under federal regulations. The landscape is typical of the northern Great Plains, with low vegetation and rolling prairie that makes spotting exposed mineral deposits easier than in heavily forested areas. You can drive close to productive areas, reducing the need for extensive hiking.\n\nCollectors typically find weathered agate nodules in prairie washes and exposed gravels, along with colorful jasper fragments and chalcedony specimens. The best material often appears after spring runoff or heavy rains expose fresh material along drainage channels. Expect to spend several hours systematically walking likely areas rather than doing intensive digging.\n\nThe site works well for families and beginners because the flat, open terrain poses minimal hazards, and you do not need specialized equipment beyond basic hand tools. More experienced rockhounds appreciate the quantity and variety available across the broader BLM land base in this county.",
+  "history": "This region sits within the northern Great Plains section of the Cretaceous Interior Seaway heritage zone. Tertiary volcanic activity and subsequent weathering of ancient silica-rich deposits created the agate and jasper formations found here today. The open prairie landscape has allowed natural erosion to expose these minerals at the surface, making them accessible to recreational collectors without requiring deep excavation.",
+  "tips": "Search along prairie washes and drainage channels where water erosion has concentrated weathered agate and jasper specimens; focus on areas with exposed gravel and discolored soil. Bring a small hand rake or garden trowel to gently work loose material and expose fresh nodules just below the surface. Look for translucent or banded agate with reddish, white, or gray tones, and solid-colored jasper ranging from red to brown; avoid heavily fractured pieces unless you plan to cut and polish them yourself. Check weather forecasts and avoid the area immediately after heavy rains when muddy conditions can make vehicle access difficult.",
+  "terrain_notes": "Elevation 2,142 feet with flat to gently rolling prairie terrain. Low sagebrush and grass vegetation with scattered exposed gravels and light soil. Walking distance from parking to productive collecting areas typically 0.5 to 2 miles. Footing is generally stable on compacted earth and gravel, though some areas may be soft or boggy after rain. No significant elevation changes or steep grades.",
+  "best_season": "April - June and September - October. Spring brings cooler temperatures and increased water flow that exposes fresh material, while avoiding the height of summer heat. Fall offers mild conditions and dry ground that is easier to traverse. Avoid winter (November - March) when snow cover and cold make rockhounding unpleasant, and mid-summer (July - August) when prairie heat becomes intense.",
+  "written_directions": "From Fallon, take local roads heading north or east onto BLM-managed prairie land. The area is dispersed public land without a single official trailhead; use GPS coordinates 46.852986, -105.078216 as a starting point. Standard passenger vehicles can access most areas via ranch roads and two-track routes, though conditions vary seasonally. Consult a Montana BLM map or contact the Malta Field Office for current road conditions and recommended access routes. Allow 15-45 minutes from town depending on your target area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Two-track ranch roads and improved dirt roads in variable condition. Typical two-wheel-drive clearance usually sufficient during dry months; high-clearance or 4x4 recommended after heavy rain or spring snowmelt. Some sections may have washboard texture.",
+  "parking_notes": "No developed parking facilities. Park off existing road shoulders or use wide two-track turnouts. Space is generally available for several vehicles. Always park on land you have confirmed is accessible to the public and away from active ranch operations.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or heavy equipment. Leave no trash. Do not disturb cultural or archaeological resources. Respect private property boundaries and existing ranch operations.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs maximum per day per person\nNo commercial collection or sale\nNo motorized excavation or machinery\nNo removal of vegetation or disturbance of wildlife\nLeave no trash\nRespect posted boundaries and private land",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "sharp_material",
+    "heat"
+  ],
+  "nearest_services": "Fallon, approximately 5-10 miles, has limited services. Malta, approximately 20-25 miles northeast, offers gas, food, and lodging. For supplies and information, contact Malta or other nearby towns.",
+  "accessibility_notes": "Relatively flat terrain accessible to most fitness levels. No wheelchair access on rough roads, but able-bodied individuals of all ages can participate. Sturdy footwear recommended for walking over uneven prairie ground. No significant elevation gain or technical obstacles. Bring adequate water, sun protection, and weather-appropriate clothing.",
+  "alternative_names": [],
+  "nearest_city": "Fallon",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/fallon-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/fallon-mt/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/fallon-mt/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/fallon-mt/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Fallon, Montana?",
+      "answer": "The Fallon BLM area is known for agate, jasper, chalcedony, and quartz specimens. Agate nodules are the most common find, appearing in banded or translucent varieties with colors ranging from white and gray to reddish-brown. Jasper is abundant as solid-colored fragments, and chalcedony appears as both nodules and loose material in prairie washes."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Fallon?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Fallon. You can collect personal use specimens under FLPMA regulations with a limit of 25 pounds per day, no fees, and no paperwork. Commercial collection and motorized excavation are prohibited."
+    },
+    {
+      "question": "What is the best time of year to hunt for agate and jasper at Fallon?",
+      "answer": "April through June and September through October are ideal. Spring brings cooler temperatures and water runoff that exposes fresh material in washes, while fall offers mild weather and dry ground. Avoid winter snow cover and summer heat, which make the flat prairie uncomfortable and less productive."
+    },
+    {
+      "question": "How far is Fallon rockhounding from town, and do I need high-clearance vehicle?",
+      "answer": "The BLM collecting area begins just 5-10 miles from Fallon. Most areas are accessible by standard passenger vehicles on two-track roads during dry months, though high-clearance or 4x4 is recommended after rain or spring snowmelt. Actual driving time is typically 15-45 minutes depending on your target spot."
+    },
+    {
+      "question": "Is Fallon rockhounding good for beginners and families?",
+      "answer": "Yes, Fallon is excellent for beginners and families. The flat prairie terrain requires no technical skills, minimal hiking, and no special equipment beyond a small hand rake or trowel. Children as young as six can participate, and the accessible landscape means you avoid steep grades and dangerous footing. No permits or fees make starting simple."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Fallon?",
+      "answer": "Bring a small hand rake or garden trowel to loosen surface material, a bucket or bag for specimens, sturdy walking shoes, and weather-appropriate clothing. Sun protection and at least two liters of water per person are essential on the exposed prairie. A GPS device or phone with offline maps helps navigate the dispersed BLM land. A small magnifying glass helps identify chalcedony and differentiate quality specimens."
+    }
+  ],
+  "meta_title": "Fallon Rockhounding - Montana Agate & Jasper",
+  "meta_description": "Find agate, jasper, and chalcedony on BLM public land near Fallon, Montana. No permit required, 25 lbs per day. Beginner-friendly rockhounding on flat prairie terrain.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from regional BLM geology; specific specimens not independently verified",
+    "written_directions - constructed from GPS coordinates and general Montana BLM access patterns; exact road names not provided in source data",
+    "nearest_services - estimated distance based on typical Prairie County geography",
+    "cell_service - estimated as spotty based on rural Montana location; not independently verified",
+    "road_conditions - inferred from typical BLM two-track conditions in eastern Montana"
+  ],
+  "enriched_at": "2026-04-21T19:08:16.513Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:12:42.419Z"
+}

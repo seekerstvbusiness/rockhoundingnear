@@ -1,0 +1,57 @@
+{
+  "slug": "medusa-quarry-in-sylvania-oh",
+  "name": "Medusa Quarry in Sylvania",
+  "lat": 41.70055,
+  "lng": -83.747443,
+  "state": "Ohio",
+  "state_slug": "ohio",
+  "state_code": "OH",
+  "city": "Lucas County",
+  "city_slug": "lucas-county",
+  "county": "Lucas",
+  "county_slug": "lucas",
+  "geocoded_city": "Lucas County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-ohio.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Medusa%20Quarry%20in%20Sylvania%20Ohio"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Medusa%20Quarry%20in%20Sylvania",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Medusa%20Quarry%20in%20Sylvania%20Ohio"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:42:04.935Z"
+  },
+  "scraped_at": "2026-04-21T16:42:04.935Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "beach-petoskey-area-1-mi",
+  "name": "Beach (Petoskey area 1)",
+  "lat": 45.369979,
+  "lng": -85.001638,
+  "state": "Michigan",
+  "state_slug": "michigan",
+  "state_code": "MI",
+  "city": "Petoskey",
+  "city_slug": "petoskey",
+  "county": "Emmet",
+  "county_slug": "emmet",
+  "geocoded_city": "Petoskey",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-michigan.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Beach%20(Petoskey%20area%201)%20Michigan"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Beach%20(Petoskey%20area%201)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Beach%20(Petoskey%20area%201)%20Michigan"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 587,
+      "meters": 179
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:44:04.272Z"
+  },
+  "scraped_at": "2026-04-21T16:44:04.272Z",
+  "scrape_quality": "minimal"
+}

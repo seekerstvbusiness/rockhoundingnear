@@ -1,0 +1,100 @@
+{
+  "slug": "corbin-mt",
+  "name": "Corbin",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Whitehall",
+  "city_slug": "whitehall",
+  "county": "Jefferson",
+  "county_slug": "jefferson",
+  "lat": 46.392653,
+  "lng": -112.083119,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "BLM public land in Jefferson County offering rockhounding for agate and jasper specimens. Free access with 25 lb daily collection limit makes this an accessible spot for collectors of all levels.",
+  "description": "Corbin is a small community in Jefferson County, Montana, surrounded by BLM public lands that offer excellent rockhounding opportunities for agate, jasper, and quartz specimens. The area sits within the northern Basin and Range province at moderate elevation, where Tertiary-age volcanic and hydrothermal activity created the colorful nodules and banded silicate deposits found throughout the region. The terrain is characterized by rolling sagebrush-covered hills with scattered outcrops and wash areas where collectors can find specimens weathering out of hillsides and eroded stream channels.\n\nThis location is ideal for beginner to intermediate rockhounders seeking free public access without permits or fees. The moderate slope and relatively accessible terrain allow hikers to cover ground efficiently while searching exposed rock surfaces and draw beds. Specimens here range from small thumb-sized nodules to larger 2-4 inch banded agate and jasper pieces, with occasional translucent chalcedony.\n\nThe BLM designation means you can collect for personal use year-round, though late spring through early fall offers the most comfortable weather and best visibility of specimens against the hillsides. The remoteness of the area and lack of developed infrastructure make this a quiet spot away from heavily trafficked rockhounding sites, though you should come prepared with water and be aware of the moderate elevation and exposure.",
+  "history": "This region is part of the Northern Basin and Range province, where Tertiary volcanic activity (approximately 65-25 million years ago) deposited silica-rich hydrothermal fluids that crystallized into agate nodules, jasper beds, and chalcedony veins now exposed in the hillsides. Natural erosion and weathering over millennia have broken these deposits free, creating the collectable specimens found in surface scatters and drainage washes.",
+  "tips": "Search the walls and floors of small drainages and arroyos where water erosion has concentrated lighter-colored specimens; agate and chalcedony specimens often stand out against darker soil. Use a geologist's hammer to carefully test suspect nodules on hillsides - the characteristic waxy luster and conchoidal fracture patterns of chalcedony are your best field indicators. Look for banded and fortification patterns within agate nodules; specimens with strong color contrast and distinct layering are more collectible than dull gray pieces. Bring plenty of water, a GPS unit or detailed map, and wear sturdy boots - the terrain is moderate but can be ankle-turning in places.",
+  "terrain_notes": "Elevation 5,701 feet with moderate slopes across sagebrush-covered hills and gentle draws. Terrain is mostly uneven rocky ground with scattered boulders and exposed bedrock outcrops. Walking distances from parking are typically 0.5 to 2 miles depending on where you access the BLM land. Footing can be loose in places, and the exposed terrain offers little shade.",
+  "best_season": "May - September. While the area is accessible year-round on BLM land, late spring through early fall provides the best weather, most comfortable hiking conditions, and best light for spotting specimens on hillsides. Winter and early spring can bring snow and mud at this elevation that limits access.",
+  "written_directions": "From Whitehall (approximately 12 miles south), take US Highway 287 south toward Corbin. Continue past the Corbin area and look for BLM access points along county roads and informal pullouts on the east and west sides of the highway. A detailed USGS map or Garmin/OnX mapping app is essential, as access varies by specific parcels. Local inquiry in Whitehall or Corbin may yield better current directions to productive areas.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "County roads and rough forest roads accessing BLM parcels; passenger vehicle passable during dry conditions, though some pullouts may require high clearance during wet periods",
+  "parking_notes": "Informal pullouts along county roads and near BLM boundary markers. No developed parking lot or facilities. Park safely off the road and note landmarks for return.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. All collection must be by hand tools only. Specimens must be removed by rockhounding; no trenching or blasting. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo trenching or blasting\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Whitehall (12 miles north) has gas stations, restaurants, and basic supplies. Larger services available in nearby towns.",
+  "accessibility_notes": "Moderate terrain with uneven rocky ground and scattered boulders. No wheelchair access. Sturdy hiking boots required. Moderate elevation (5,700 ft) may affect those with respiratory issues. Terrain involves 0.5 to 2+ mile hikes from parking areas across open hillsides with minimal shade.",
+  "alternative_names": [],
+  "nearest_city": "Whitehall",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/corbin-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/corbin-mt/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Corbin, Montana?",
+      "answer": "The primary gemstones found at Corbin are agate, jasper, chalcedony, and quartz. These silicate minerals occur as nodules and banded deposits throughout the BLM land in the area. Agate specimens often display attractive banding and fortification patterns, while jasper can range from red to tan to mottled colors. Most specimens found are 0.5 to 4 inches in size."
+    },
+    {
+      "question": "Is rockhounding free at Corbin, Montana, or do you need a permit?",
+      "answer": "Rockhounding at Corbin is completely free and requires no permit. The area is BLM public land open to recreational collecting under the Federal Land Policy and Management Act (FLPMA). You simply need to follow the 25 lb per day collection limit and avoid commercial operations."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Corbin, Montana?",
+      "answer": "The best rockhounding season at Corbin is May through September. During these months, weather is mild, hiking is comfortable, and visibility of specimens on hillsides is excellent. Winter and early spring can bring snow and mud at the 5,700 ft elevation, making access difficult."
+    },
+    {
+      "question": "Can beginners find agate at Corbin, Montana rockhounding site?",
+      "answer": "Yes, Corbin is beginner-friendly. The moderate terrain and accessible BLM land make it easy for newcomers to learn rockhounding. Agate and jasper specimens are visible on the surface and in eroded wash areas, so you do not need advanced prospecting skills. The free access and lack of permit requirements make it an ideal starter location."
+    },
+    {
+      "question": "What tools and supplies do you need for rockhounding at Corbin?",
+      "answer": "For Corbin, bring a geologist's hammer or small pry bar for testing nodules, a backpack, plenty of water (at least 2 liters), a GPS unit or detailed map, and sturdy hiking boots. A hand lens helps identify chalcedony and quartz luster in the field. Avoid motorized tools - all collection must be by hand only on this BLM land."
+    },
+    {
+      "question": "How far is Corbin from Whitehall, and what are nearby amenities?",
+      "answer": "Corbin is approximately 12 miles south of Whitehall, Montana. Whitehall offers gas stations, restaurants, lodging, and basic supplies for rockhounding trips. Larger services and equipment shops are available in nearby towns, making it easy to resupply before heading to the field."
+    }
+  ],
+  "meta_title": "Corbin Rockhounding - Free BLM Agate & Jasper in Montana",
+  "meta_description": "Free rockhounding on BLM land near Corbin, Montana. Find agate, jasper, and chalcedony. No permit required, 25 lb daily limit. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city",
+    "nearest_city_distance",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-21T19:06:44.581Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:09:51.594Z"
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "lake-clark-ak",
+  "name": "Lake Clark",
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "city": "Lake and Peninsula Borough",
+  "city_slug": "lake-and-peninsula-borough",
+  "county": "Lake and Peninsula Borough",
+  "county_slug": "lake-and-peninsula-borough",
+  "lat": 60.181693,
+  "lng": -154.833896,
+  "gem_types": [
+    "Obsidian",
+    "Jade",
+    "Garnet"
+  ],
+  "short_description": "Remote Alaskan rockhounding site near Lake Clark National Park offering obsidian, jade, and garnet in pristine wilderness terrain accessible primarily by float plane or boat.",
+  "description": "Lake Clark sits in one of Alaska's most remote regions, within the Lake and Peninsula Borough at an elevation of 274 feet near the shores of Lake Clark itself. This location offers access to volcanic obsidian deposits and jade-bearing streams characteristic of Alaska's Pacific Rim geology. The area is surrounded by the Lake Clark National Park and Preserve, a region shaped by active volcanism and glaciation that has exposed minerals through ongoing erosion and stream activity. Rockhounding here requires significant planning, as the site is accessible only by float plane, boat, or helicopter from the nearest hub communities. The terrain is rugged subarctic wilderness with limited trails, dense vegetation in summer, and exposed rock during colder months. Collectors should expect raw, undeveloped sites with no facilities or marked collecting areas. The remote location means you are entirely self-sufficient and should be prepared for rapid weather changes and wildlife encounters.",
+  "history": "Lake Clark National Park sits within Alaska's volcanic arc, created by subduction zone volcanism along the Aleutian convergence zone. Tertiary and Quaternary basaltic lava flows and rhyolitic volcanic deposits in this region host both obsidian and associated minerals. The obsidian found here formed from rapid cooling of silica-rich lava during past eruptions, while jade and garnets occur in metamorphic rocks exposed by glacial erosion and active stream systems.",
+  "tips": "Search along streambeds and erosional gullies where spring runoff exposes fresh material - this is where jade and garnet specimens are most likely to surface. Look for dark glassy obsidian fragments on volcanic outcrops and in pumice-rich soils, particularly on south-facing slopes where snow melts earliest. Bring a small magnet to identify garnet-bearing concentrations in stream gravel. Pack high-quality rain gear and a satellite communicator - cell service is non-existent and weather can change rapidly in this subarctic environment.",
+  "terrain_notes": "Elevation 274 feet in a boreal forest and tundra transition zone. Terrain is rough and hilly with exposed bedrock, muskegs (wetlands), and dense vegetation including spruce, alder, and willow. Walking is difficult except along established game trails and streambeds. Summer brings mosquitoes and wet, boggy ground; winter and early spring offer better footing but shorter daylight and cold temperatures. All access is via float plane, boat, or helicopter - no road access exists.",
+  "best_season": "June - September. June through August offers longer daylight, reduced snow, and accessible terrain for exploring. July and August are warmest but bring peak mosquito season and possible rain. May and early June have longer daylight but cold temperatures and lingering snow. October through April are extremely challenging with short daylight, heavy snow, and sub-zero temperatures, though winter offers better ground footing.",
+  "written_directions": "Access Lake Clark only by air or water transportation. From Anchorage, book a float plane charter service through Lake Clark Air or similar operators (approximately 100 miles southwest). Flight time is roughly 1-1.5 hours. Alternatively, take a boat from Port Alsworth or other Lake and Peninsula Borough communities. Once at Lake Clark, rockhounding areas are accessed by hiking from float plane landing zones or boat drop-off points. No road network connects to this location.",
+  "directions": null,
+  "difficulty": "expert",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "hiking",
+  "road_conditions": null,
+  "parking_notes": "No traditional parking. Float plane landing zones and boat landing areas serve as staging points. Work with air/water transport operators to arrange landing and pickup logistics.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use collection only. Federal public land - rockhounding is permitted on public lands within Lake Clark National Park and surrounding areas for personal, non-commercial use in accordance with National Park Service guidelines. No motorized excavation. Pack out all waste. Respect park boundaries and protected zones. Do not collect from marked archaeological or biological study areas.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nNo commercial collection\nNo motorized excavation\nPack out all waste\nRespect marked protected areas\nFollow NPS regulations for national park lands",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "remote",
+    "flash_floods",
+    "cliffs",
+    "loose_rock"
+  ],
+  "nearest_services": "Port Alsworth or Iliamna, approximately 30-50 miles by water/air. These small communities have limited supplies. Anchor Point or Soldotna (Kenai Peninsula), approximately 100-150 miles, offer better services including gas, food, and emergency medical care.",
+  "accessibility_notes": "This is a highly remote expert-level site with no established trails or infrastructure. Terrain is extremely rugged - steep hillsides, muskegs, exposed bedrock outcrops, and tundra vegetation make hiking difficult even for experienced backpackers. No wheelchair access possible. Requires excellent physical fitness, navigation skills, cold-weather experience, and self-rescue capability. Float plane or boat access is mandatory. Weather can be severe and change rapidly.",
+  "alternative_names": [],
+  "nearest_city": "Port Alsworth",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/alaska/lake-clark-ak/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Lake Clark, Alaska?",
+      "answer": "Lake Clark offers obsidian, jade, and garnet in streams and volcanic outcrops. Obsidian appears as glassy dark fragments on exposed volcanic deposits and in pumice-rich soils. Jade occurs in stream gravel and eroded metamorphic exposures, while garnets concentrate in certain stream beds. Specimens range from small pebbles to hand-sized pieces depending on location and seasonal runoff."
+    },
+    {
+      "question": "How do you access Lake Clark for rockhounding - what transportation is required?",
+      "answer": "Lake Clark has no road access. You must charter a float plane from Anchorage (companies like Lake Clark Air serve the area, roughly 100 miles southwest, 1-1.5 hour flight) or arrange boat transportation from Port Alsworth or other Lake and Peninsula Borough communities. Float plane services typically cost $300-600 per person for charter flights. Budget for accommodation and meal logistics as well."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Lake Clark, Alaska?",
+      "answer": "No permit is required for personal, non-commercial rockhounding on public lands at Lake Clark. However, parts of the area fall within Lake Clark National Park, which has specific NPS regulations. Respect marked protected zones and do not collect from archaeological or biological study areas. Contact Lake Clark National Park headquarters in Anchorage for current regulations before your trip."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Lake Clark?",
+      "answer": "June through September is best. July and August offer warmest temperatures and longest daylight, though mosquitoes peak during these months. May and June have longer daylight but colder temperatures and lingering snow. October through April are extremely challenging with short daylight, heavy snow, and sub-zero temperatures. June-September provides the only practical rockhounding window."
+    },
+    {
+      "question": "What tools and gear do experienced collectors bring to Lake Clark rockhounding trips?",
+      "answer": "Bring a small magnet to identify garnet-bearing stream gravels, a hand lens for specimen inspection, and a rock hammer for collecting. Pack high-quality rain and wind gear, insulated clothing suitable for subarctic conditions, waterproof boots, and a satellite communicator (cell service does not exist). Bring topographic maps, a compass or GPS unit, and bear spray. Stream waders are useful for searching riverbeds."
+    },
+    {
+      "question": "Is Lake Clark rockhounding suitable for beginners or families?",
+      "answer": "No. Lake Clark is an expert-level site requiring significant wilderness skills, excellent physical fitness, navigation experience, and self-rescue capability. Access is only by float plane or boat, terrain is extremely rugged with muskegs and exposed rock, and the climate is harsh with rapid weather changes. Remote location means no cell service or immediate emergency support. This site is for experienced rockhounders and mountaineers only, not suitable for families or beginners."
+    }
+  ],
+  "meta_title": "Lake Clark Rockhounding - Alaska Obsidian Jade",
+  "meta_description": "Expert rockhounding at Lake Clark, Alaska. Find obsidian, jade, and garnet in remote wilderness. Float plane access, NPS regulations apply. June-September season.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from Alaska Pacific Rim volcanism - no specific source for Lake Clark deposits)",
+    "access_type (assumed public based on proximity to national park)",
+    "permit_required (assumed false for national park public lands - verify with NPS)",
+    "collection_rules (based on standard NPS guidelines - obtain specific Lake Clark park regulations)",
+    "nearest_services (Port Alsworth distance estimated from geography)",
+    "float_plane_cost_range (market estimate only - actual charter pricing varies)"
+  ],
+  "enriched_at": "2026-04-21T18:29:33.076Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:32:39.431Z"
+}

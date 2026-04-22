@@ -1,0 +1,60 @@
+{
+  "slug": "banks-of-llano-river-tx",
+  "name": "Banks of Llano River",
+  "lat": 30.659791,
+  "lng": -99.324361,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Mason County",
+  "city_slug": "mason-county",
+  "county": "Mason",
+  "county_slug": "mason",
+  "geocoded_city": "Mason County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Banks%20of%20Llano%20River%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Banks%20of%20Llano%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Banks%20of%20Llano%20River%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1368,
+      "meters": 417
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:43:21.815Z"
+  },
+  "scraped_at": "2026-04-21T18:43:21.815Z",
+  "scrape_quality": "minimal"
+}

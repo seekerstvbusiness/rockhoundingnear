@@ -1,0 +1,60 @@
+{
+  "slug": "large-area-btwn-camden-and-chester-tx",
+  "name": "Large area btwn Camden and Chester",
+  "lat": 30.915542,
+  "lng": -94.654802,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Polk County",
+  "city_slug": "polk-county",
+  "county": "Polk",
+  "county_slug": "polk",
+  "geocoded_city": "Polk County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Large%20area%20btwn%20Camden%20and%20Chester%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Large%20area%20btwn%20Camden%20and%20Chester",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Large%20area%20btwn%20Camden%20and%20Chester%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 230,
+      "meters": 70
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:45:50.020Z"
+  },
+  "scraped_at": "2026-04-21T18:45:50.020Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "keweenaw-point-mi",
+  "name": "Keweenaw Point",
+  "lat": 47.407923,
+  "lng": -87.711506,
+  "state": "Michigan",
+  "state_slug": "michigan",
+  "state_code": "MI",
+  "city": "Grant Township",
+  "city_slug": "grant-township",
+  "county": "Keweenaw",
+  "county_slug": "keweenaw",
+  "geocoded_city": "Grant Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-michigan.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Keweenaw%20Point%20Michigan"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Keweenaw%20Point",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Keweenaw%20Point%20Michigan"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 605,
+      "meters": 184
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:42:18.500Z"
+  },
+  "scraped_at": "2026-04-21T16:42:18.501Z",
+  "scrape_quality": "minimal"
+}

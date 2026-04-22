@@ -1,0 +1,60 @@
+{
+  "slug": "area-surfaces-all-around-smithville-tx",
+  "name": "Area surfaces all around Smithville",
+  "lat": 30.015989,
+  "lng": -97.147817,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Smithville",
+  "city_slug": "smithville",
+  "county": "Bastrop",
+  "county_slug": "bastrop",
+  "geocoded_city": "Smithville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Area%20surfaces%20all%20around%20Smithville%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Area%20surfaces%20all%20around%20Smithville",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Area%20surfaces%20all%20around%20Smithville%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 273,
+      "meters": 83
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:40:31.000Z"
+  },
+  "scraped_at": "2026-04-21T18:40:31.000Z",
+  "scrape_quality": "minimal"
+}

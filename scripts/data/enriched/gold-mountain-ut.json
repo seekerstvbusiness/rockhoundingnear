@@ -1,0 +1,99 @@
+{
+  "slug": "gold-mountain-ut",
+  "name": "Gold Mountain",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Junction",
+  "city_slug": "junction",
+  "county": "Piute",
+  "county_slug": "piute",
+  "lat": 38.442299,
+  "lng": -112.393397,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Feldspar"
+  ],
+  "short_description": "BLM rockhounding site in Piute County where collectors can find gold and quartz specimens. Personal use collecting on public land with no permit required.",
+  "description": "Gold Mountain sits on Utah BLM land in the remote Piute County region, offering rockhounders the chance to search for gold and quartz specimens in a lightly explored area. The site is accessible to experienced collectors willing to travel on rough roads to reach the high desert terrain. This location represents genuine public rockhounding opportunity on federal land managed for multiple uses, including mineral collection.\n\nThe geology of this region reflects Utah's position within the Basin and Range province, where Tertiary-age hydrothermal systems circulated through metamorphic and granitic host rocks. Gold mineralization in the Piute County area is associated with quartz veining and feldspar-rich intrusions that formed during periods of regional extension and crustal thinning. The mountain itself exposes these mineralized zones where weathering and erosion have exposed quartz-hosted gold specimens at or near the surface.\n\nExpect high desert terrain with sparse vegetation, rocky slopes, and open views across the surrounding mountains. The area receives minimal visitor pressure, meaning specimens are less picked over than more famous sites, but access requires careful route-finding and self-reliance. Collectors should come prepared for isolation, variable weather, and the physical demands of backcountry rockhounding. Success requires understanding quartz vein systems and knowing where to spot mineralized outcrops on the hillsides.\n\nThe BLM manages this land under standard recreational collection rules: personal use only, no permits needed, and a 25-pound daily limit. This makes Gold Mountain an ideal destination for serious collectors seeking authentic prospecting experience on public land without the expense or crowds of commercial dig sites.",
+  "history": "Gold mineralization in the Piute County area formed during Tertiary hydrothermal activity when extensional tectonics and crustal thinning created favorable conditions for mineral-bearing fluids to circulate through granitic and metamorphic host rocks. Prospectors have worked the region intermittently since the late 1800s, though no major mining operations developed here, leaving the area relatively understudied and under-collected compared to more famous Utah gold districts.",
+  "tips": "Search hillsides and ridges for exposed quartz veins weathering white against darker host rock; gold specimens often occur as flakes or small nuggets within or adjacent to these quartz bodies. Use a small hammer and chisel to extract samples from vein material rather than loose specimens, and look for areas where erosion has exposed fresh quartz faces. Check dry washes and bajadas for quartz chips and fragments weathered from higher elevations, which can indicate nearby vein systems upslope. Bring a jeweler's loupe to examine quartz samples in the field; gold flakes are visible at 10x magnification and confirm you are working productive material.",
+  "terrain_notes": "Gold Mountain sits at approximately 8,000 to 9,000 feet elevation in high desert terrain with sparse pinyon-juniper scrub and open rocky slopes. Footing is uneven and rocky with loose talus common on steeper sections. Terrain slopes moderately to steeply depending on approach route. Parking areas are primitive pullouts; walking distances from vehicle to productive collecting areas typically range from 0.5 to 3 miles depending on where you access quartz outcrops.",
+  "best_season": "June - September. High elevation (8,000+ feet) experiences heavy snow and cold temperatures October through May. Summer months offer stable weather, passable high-elevation roads, and comfortable conditions for backcountry rockhounding. Avoid late fall through early spring due to snow closure of rough access roads.",
+  "written_directions": "From Junction, Utah (approximately 35 miles south), take US 89 north toward Salina for about 25 miles. Turn east on County Road 54 (also marked as a road to Piute Reservoir area) and follow this unpaved road approximately 10 miles northeast into higher elevation terrain. Continue on rough Forest Service/BLM roads toward the general coordinates. GPS navigation is essential; mark waypoints and be prepared for multiple rough turns on unsigned roads. Cell service is unreliable, so download offline maps and bring paper topographic maps. The final approach involves high-clearance driving on primitive tracks; ask at the BLM office in Salina for current road conditions before attempting access.",
+  "directions": null,
+  "difficulty": "hard",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Unpaved BLM roads with rough sections, potential washboard, high-clearance required. Roads may be impassable in winter and muddy after rain. Route-finding challenging without GPS.",
+  "parking_notes": "Primitive pullouts and cleared areas scattered throughout BLM land near productive collecting zones. No developed parking facilities. Space for 2-6 vehicles at typical pullouts.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. Collect only loose material or samples directly from exposed formations. Do not damage cryptogamic soil crusts or vegetation. Pack out all trash. Respect all posted closures and restrictions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection or sales\nNo motorized excavation or heavy equipment\nNo damage to vegetation or biological soil crusts\nPack out all trash\nRespect all posted closures and mining claims",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "16+",
+  "hazards": [
+    "remote",
+    "cold",
+    "heat",
+    "abandoned_mines",
+    "loose_rock",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Junction, Utah (approximately 35 miles south) has limited services including fuel and basic supplies. Salina, Utah (approximately 50 miles south) offers more comprehensive services including gas, food, and lodging.",
+  "accessibility_notes": "Rough backcountry terrain at high elevation with steep hillsides, uneven rocky footing, and loose talus. No wheelchair access. Requires strong hiking fitness, scrambling ability on talus slopes, and comfort with route-finding in remote terrain. Not suitable for limited mobility or inexperienced backcountry travelers. Elevation (8,000+ feet) may cause altitude adjustment issues for some visitors.",
+  "alternative_names": [],
+  "nearest_city": "Junction",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/gold-mountain-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "Can I find gold at Gold Mountain near Piute County Utah without a permit?",
+      "answer": "Yes. Gold Mountain sits on BLM land where recreational collection is allowed without a permit under FLPMA personal use rules. You can collect up to 25 pounds of gold and quartz specimens daily. No commercial use or motorized excavation is permitted."
+    },
+    {
+      "question": "What is the best way to find gold and quartz at this Utah rockhounding site?",
+      "answer": "Search exposed quartz veins on hillsides and ridges, especially where white quartz outcrops contrast against darker host rock. Use a jeweler's loupe to examine quartz in the field for visible gold flakes. Focus on dry washes and bajadas where weathered quartz fragments accumulate downslope from vein systems."
+    },
+    {
+      "question": "Is Gold Mountain in Utah suitable for beginner rockhounders?",
+      "answer": "No. This is an expert-level site requiring high-clearance 4x4 vehicles, GPS navigation, backcountry hiking skills, and comfort with remote terrain at 8,000+ feet elevation. Bring paper maps, offline GPS, and be fully self-sufficient. Beginners should visit developed BLM sites or fee dig locations closer to towns."
+    },
+    {
+      "question": "When is the best season to rockhound at Gold Mountain Utah?",
+      "answer": "June through September. The site sits at high elevation (8,000-9,000 feet) and experiences heavy snow October through May. Rough access roads are impassable or extremely difficult in winter. Summer offers stable weather and passable roads."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Gold Mountain?",
+      "answer": "Bring a reliable 4x4 vehicle, GPS unit with offline maps, paper topographic maps, small hammer and chisel, jeweler's loupe (10x magnification), sturdy boots, plenty of water, food, and a headlamp. Pack a first aid kit and let someone know your planned route. Cell service is unreliable, so self-reliance is critical."
+    },
+    {
+      "question": "How far is Gold Mountain from towns in Piute County Utah?",
+      "answer": "Gold Mountain is approximately 35 miles north of Junction, Utah and 50 miles north of Salina, Utah. Both towns offer fuel and basic supplies. This is a remote location requiring significant drive time from populated areas. Allow full day trips and come prepared with supplies and navigation tools."
+    }
+  ],
+  "meta_title": "Gold Mountain Rockhounding - Utah BLM",
+  "meta_description": "Find gold and quartz at Gold Mountain on Utah BLM land near Piute County. No permit required, 25 lb daily limit. Expert rockhounders only.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T06:51:46.951Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:59:02.104Z"
+}

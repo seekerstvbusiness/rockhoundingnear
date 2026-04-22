@@ -1,0 +1,99 @@
+{
+  "slug": "kingman-feldspar-mine-az",
+  "name": "Kingman Feldspar Mine",
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "city": "Kingman",
+  "city_slug": "kingman",
+  "county": "Mohave",
+  "county_slug": "mohave",
+  "lat": 35.269609,
+  "lng": -114.06112,
+  "gem_types": [
+    "Feldspar",
+    "Quartz",
+    "Mica"
+  ],
+  "short_description": "Public BLM rockhounding site near Kingman featuring feldspar crystals and mica in historic mining areas. Free collecting with 25 lb daily limit.",
+  "description": "The Kingman Feldspar Mine is a popular BLM recreational collecting area located on the western edge of the Cerbat Mountains near Kingman, Arizona. This historic mining site sits at moderate elevation in the Mojave Desert transition zone, where collectors can search for feldspar crystals, quartz, and mica specimens along exposed outcrops and in mine tailings. The area has a rich mining heritage dating back to the late 1800s when feldspar and other minerals were actively extracted for industrial use.\n\nThe geology here reflects the Basin and Range province, where Precambrian granitic rocks are exposed through Tertiary mountain-building activity. Feldspar minerals crystallized within these granitic bodies millions of years ago and remain accessible in weathered zones, along wash banks, and in the tailings of historical mining operations. Quartz veins and mica schist layers also occur throughout the area, making it a diverse collecting location.\n\nVisitors should expect moderate to steep hillside terrain with exposed bedrock and loose talus in many areas. The site is best accessed via high-clearance vehicle due to rough mining roads, though short day hikes from pullouts are also possible. Most collectors focus on tailings piles and weathered rock outcrops where specimens are more easily extracted without excavation equipment.\n\nThis location is ideal for collectors interested in industrial minerals and crystal specimens. The nearby Kingman area offers full services, making it a convenient addition to a longer rockhounding trip in Mohave County. Always pack water and sun protection, as this desert environment offers minimal shade and high daytime temperatures most of the year.",
+  "history": "The Kingman area has a long history of mineral extraction dating back to the 1880s-1920s when feldspar, mica, and other minerals were mined commercially for use in ceramics, glass, and electrical insulators. The feldspar deposits here formed during Precambrian granitic intrusions, creating large crystals within cooling magma bodies that are still exposed today in the weathered Cerbat Mountains.",
+  "tips": "Search the old mine tailings piles and weathered granite outcrops on south-facing hillsides where feldspar crystals are often exposed and easier to extract. Use a small rock pick or cold chisel to carefully work specimens from weathered granite matrix, focusing on areas with visible crystal terminations rather than trying to dig deep into solid rock. Look for tan, white, and pink feldspar crystals often associated with clear quartz and silver mica flakes. Check seasonal wash banks after flash rain events, as water erosion frequently exposes fresh specimens.",
+  "terrain_notes": "Elevation 3873 feet on moderate slope terrain typical of the Cerbat Mountains foothills. Rocky, uneven ground with scattered granite boulders, loose talus, and sparse desert shrubland. Walking distance from rough parking areas typically ranges from 0.25 to 1 mile to productive collecting zones. Footing is uneven and requires sturdy hiking boots; some areas have loose rock hazards.",
+  "best_season": "October - April. Daytime temperatures in the Kingman area exceed 95 degrees Fahrenheit May through September, making desert rockhounding dangerous without exceptional early morning or evening trips. Winter months offer comfortable collecting weather with cool mornings and mild afternoons.",
+  "written_directions": "From Kingman, take East Anson Smith Road south and east for approximately 3.5 miles. Look for BLM access roads branching north toward mining areas near the Cerbat Mountain foothills. Several rough mining roads and pullouts provide vehicle access; high-clearance vehicles are strongly recommended. GPS coordinates 35.269609, -114.06112 mark a primary collecting area. Bring a detailed map or GPS device as road signage is minimal.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough mining roads with washboard surface and deep ruts common. High-clearance vehicles essential; low-clearance passenger cars not recommended. Some pullouts may be impassable during or after heavy rain.",
+  "parking_notes": "Multiple informal pullouts and parking areas along mining roads. No developed parking facilities. High-clearance vehicle access required to reach most productive areas. Plan for 4-8 parking spots at main access points.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. Respect all posted mine closure signs and do not enter unstable mine structures. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day\nNo commercial collection\nNo motorized excavation\nNo entry into closed mine structures\nPack out all trash\nFLPMA regulations apply",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "heat",
+    "remote",
+    "abandoned_mines"
+  ],
+  "nearest_services": "Kingman, approximately 6 miles northwest. Full services including gas, restaurants, lodging, and water. Limited supplies at any closer location.",
+  "accessibility_notes": "Moderate terrain difficulty with uneven rocky ground and loose talus. Sturdy hiking boots required. No wheelchair accessible areas; rough vehicle roads require high-clearance 4WD or similar. Steep hillsides in some collecting zones not suitable for limited mobility. Shade is minimal throughout the site.",
+  "alternative_names": [
+    "Kingman Mining District",
+    "Cerbat Mountains Feldspar Site"
+  ],
+  "nearest_city": "Kingman",
+  "nearest_city_distance": 6,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/arizona/kingman-feldspar-mine-az/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Kingman Feldspar Mine?",
+      "answer": "The primary collectibles are feldspar crystals in tan, white, and pink varieties, along with clear quartz and silver mica. Feldspar is the most abundant and sought-after specimen here due to the site's location in historic mining areas. Quartz veins and occasional tourmaline also occur in the granitic bedrock."
+    },
+    {
+      "question": "Is a permit required to rockhound at Kingman Feldspar Mine in Arizona?",
+      "answer": "No permit is required. This is BLM public land open for recreational rockhounding under FLPMA regulations. You simply need to follow the 25-pound daily collection limit, use no motorized excavation equipment, and collect for personal use only."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Kingman, Arizona?",
+      "answer": "October through April offers the most comfortable conditions with mild temperatures ideal for desert rockhounding. May through September temperatures regularly exceed 95 degrees Fahrenheit, making midday collecting dangerous. Plan early morning or evening trips during summer if you visit then."
+    },
+    {
+      "question": "How difficult is rockhounding at Kingman Feldspar Mine for beginners?",
+      "answer": "This site is moderately beginner-friendly. While no permit or fee is required, the terrain is rocky with loose talus and rough mining roads requiring high-clearance vehicles. Most of the work involves surface collecting from tailings and weathered outcrops rather than difficult extraction, making it suitable for families and rockhounds aged 8 and up."
+    },
+    {
+      "question": "What tools and equipment do I need for collecting at Kingman Feldspar Mine?",
+      "answer": "Bring a small rock pick, cold chisel, and heavy hammer for careful specimen extraction from weathered granite. Essential items include sturdy hiking boots, plenty of water, sun protection, a GPS device or detailed map, and a collection bag or bucket. High-clearance vehicle is necessary to access the site."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Kingman Feldspar Mine?",
+      "answer": "Yes, dogs are welcome on BLM public land, but bring extra water for your pet in this hot desert environment. Watch for hazards like sharp rock fragments, loose talus, and snakes. Keep your dog close and avoid letting it roam near abandoned mine structures or unstable hillsides."
+    }
+  ],
+  "meta_title": "Kingman Feldspar Mine Rockhounding - Arizona",
+  "meta_description": "Free BLM rockhounding near Kingman, Arizona. Find feldspar, quartz, and mica. No permit needed. 25 lb daily limit. Moderate hiking terrain required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "parking_notes (inferred from BLM site typical characteristics)",
+    "road_conditions (inferred from rough mining road descriptions)",
+    "cell_service (estimated as spotty for remote desert location)"
+  ],
+  "enriched_at": "2026-04-21T15:33:03.331Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T15:55:25.973Z"
+}

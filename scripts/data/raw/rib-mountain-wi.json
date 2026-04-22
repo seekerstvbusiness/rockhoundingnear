@@ -1,0 +1,60 @@
+{
+  "slug": "rib-mountain-wi",
+  "name": "Rib Mountain",
+  "lat": 44.919208,
+  "lng": -89.679102,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Rib Mountain",
+  "city_slug": "rib-mountain",
+  "county": "Marathon",
+  "county_slug": "marathon",
+  "geocoded_city": "Rib Mountain",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Rib%20Mountain%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Rib%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Rib%20Mountain%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1709,
+      "meters": 521
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:08:08.628Z"
+  },
+  "scraped_at": "2026-04-21T18:08:08.628Z",
+  "scrape_quality": "minimal"
+}

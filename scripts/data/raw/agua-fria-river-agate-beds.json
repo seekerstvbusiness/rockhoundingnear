@@ -1,0 +1,90 @@
+{
+  "slug": "agua-fria-river-agate-beds",
+  "name": "Agua Fria River Agate Beds",
+  "lat": 34.0234,
+  "lng": -112.2345,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": "Prescott",
+  "city_slug": "prescott",
+  "county": "Yavapai",
+  "county_slug": "yavapai",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/agua-fria-river-agate-beds"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Agua%20Fria%20River%20Agate%20Beds%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Agua%20Fria%20River%20Agate%20Beds",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Agua%20Fria%20River%20Agate%20Beds%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2472,
+      "meters": 753
+    },
+    "slope": null,
+    "nearest_city": {
+      "name": "Black Canyon City",
+      "distance_mi": 6,
+      "population": 2677
+    },
+    "roads": [
+      {
+        "name": "Phoenix–Cordes Junction Highway",
+        "ref": "I 17",
+        "type": "motorway",
+        "dist": 5
+      },
+      {
+        "name": "West New River Road",
+        "ref": null,
+        "type": "secondary",
+        "dist": 9
+      },
+      {
+        "name": "North Black Canyon Highway",
+        "ref": null,
+        "type": "secondary",
+        "dist": 10.5
+      },
+      {
+        "name": "Black Canyon Freeway",
+        "ref": "I 17",
+        "type": "motorway",
+        "dist": 11.6
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T17:31:06.130Z"
+  },
+  "scraped_at": "2026-04-20T17:31:06.130Z",
+  "scrape_quality": "partial"
+}

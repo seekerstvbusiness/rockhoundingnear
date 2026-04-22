@@ -1,0 +1,60 @@
+{
+  "slug": "sandy-beach-mud-lakes-wi",
+  "name": "Sandy Beach & Mud Lakes",
+  "lat": 46.11086,
+  "lng": -89.96272,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Town of Sherman",
+  "city_slug": "town-of-sherman",
+  "county": "Iron",
+  "county_slug": "iron",
+  "geocoded_city": "Town of Sherman",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Sandy%20Beach%20%26%20Mud%20Lakes%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Sandy%20Beach%20%26%20Mud%20Lakes",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Sandy%20Beach%20%26%20Mud%20Lakes%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1600,
+      "meters": 488
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:10:13.817Z"
+  },
+  "scraped_at": "2026-04-21T18:10:13.818Z",
+  "scrape_quality": "minimal"
+}

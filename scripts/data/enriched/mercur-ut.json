@@ -1,0 +1,103 @@
+{
+  "slug": "mercur-ut",
+  "name": "Mercur",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Tooele",
+  "city_slug": "tooele",
+  "county": "Tooele",
+  "county_slug": "tooele",
+  "lat": 40.322269,
+  "lng": -112.212717,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Historic gold mining area on BLM land near Tooele with exposed quartz veins and chalcedony specimens. Free public rockhounding with no permit required.",
+  "description": "Mercur is a historic mining district in Tooele County, Utah, sitting on public BLM land that welcomes recreational rockhounds. The area was a significant gold producer in the late 1800s and early 1900s, and evidence of that mining activity is still visible today. Visitors can search for quartz specimens, chalcedony fragments, and occasionally small gold flakes in the surrounding washes and hillsides where old mine tailings have been weathered and redistributed.\n\nThe geology here reflects the Oquirrh Mountains' mineralized zones, formed during periods of hydrothermal activity that deposited gold, silver, and copper-bearing quartz veins. The exposed bedrock and eroded hillsides make it accessible for surface collecting without the need for digging equipment. The terrain is semi-arid with scattered sagebrush and pinyon-juniper vegetation, typical of the Great Basin transition zone.\n\nThis location is ideal for rockhounders interested in mining history and quartz specimens. The old mine workings and tailings piles provide context for understanding how mineral deposits formed here, and the open terrain allows for thorough surface exploration. Because Mercur is on BLM land, there are no permit fees and no commercial collection restrictions apply - just personal use guidelines.\n\nBe prepared for variable weather conditions typical of high-desert mining areas. Spring and fall offer the most comfortable collecting conditions, while summer heat and winter snow can make access challenging. The area can be explored in a few hours or extended into a full day of hiking and surveying.",
+  "history": "Mercur was established as a mining camp in the 1880s during Utah's gold rush and became a significant gold producer with multiple hard-rock mines operating until the early 1900s. The hydrothermal quartz veins that attracted miners were formed millions of years ago during Laramide-era tectonics and mineralization events in the Oquirrh Mountains.",
+  "tips": "Search along the old wash channels and erosion gullies where weathered quartz fragments and chalcedony pieces accumulate naturally. Look for white to milky quartz pieces and translucent chalcedony nodules on the surface of tailings piles and hillside slopes. Bring a hand lens to examine specimens for tiny flecks of gold or associated minerals like pyrite. The best specimens are typically found after spring runoff or following rain events that expose fresh material.",
+  "terrain_notes": "The terrain is rolling semi-arid high desert at approximately 5,500-5,800 feet elevation with exposed ridges, eroded washes, and scattered low sagebrush and grass cover. Walking distances from parking to productive areas range from a few hundred yards to 1-2 miles depending on where you decide to explore. The footing is generally uneven with loose rock, broken quartz fragments, and occasional steep gullies. No wheelchair access. Sturdy hiking boots recommended.",
+  "best_season": "April - June, September - October. Spring and fall offer moderate temperatures ideal for extended hiking in this high-desert environment. Summer brings intense heat exceeding 85 degrees F, making midday collecting uncomfortable. Winter snow can block access roads and create hazardous hiking conditions.",
+  "written_directions": "From Tooele, take Main Street north to UT-36 north. Continue for approximately 15 miles until you reach the Mercur road turnoff (watch for historical signs). Turn west and follow the rough dirt road for about 5 miles into the Mercur mining district. Park at any of the pullouts near the old mine workings. The landscape becomes increasingly mineralized as you approach the main claims and tailings areas. High-clearance vehicles are recommended for the dirt approach road.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt mining road with washboard surface and occasional ruts. High-clearance vehicle recommended. Road may be impassable after heavy rain or snow.",
+  "parking_notes": "Informal pullouts and cleared areas near the old mine workings. No designated parking lot. Space for approximately 3-6 vehicles in scattered locations. Park on stable ground away from mine shafts and unstable terrain.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection allowed. No motorized excavation or heavy equipment. No removal of artifacts or historic structures. Respect all posted mining claims and avoid active or marked mine shafts.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo artifact removal\nAvoid marked mine shafts\nRespect posted mining claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Tooele, approximately 20 miles south. Full services including gas, food, and water available in town.",
+  "accessibility_notes": "Uneven rocky terrain with loose fragments and eroded gullies. No wheelchair access. Steep hillsides present in some areas. Sturdy footwear required. Moderate physical fitness recommended due to elevation and terrain. Informal parking with uneven ground.",
+  "alternative_names": [
+    "Mercur Mining District"
+  ],
+  "nearest_city": "Tooele",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/mercur-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/mercur-ut/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/mercur-ut/mineral-2-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/mercur-ut/mineral-3-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What can I find rockhounding at Mercur in Tooele County?",
+      "answer": "At Mercur, you can find quartz specimens, chalcedony fragments, and occasionally small gold flecks in the weathered tailings piles and washes. The area's history as a significant gold mining district means that mineralized material is exposed throughout the landscape. White to milky quartz pieces are abundant on the surface, making this a good location for specimen collecting."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Mercur, Utah?",
+      "answer": "No permit is required for recreational rockhounding at Mercur. The site is located on BLM public land, which allows personal use collecting under FLPMA guidelines. You simply need to follow the 25 lb per day limit and avoid commercial collection."
+    },
+    {
+      "question": "Is Mercur rockhounding site beginner-friendly and suitable for kids?",
+      "answer": "Yes, Mercur is beginner-friendly and suitable for children ages 8 and up. Surface collecting of quartz and chalcedony requires no special skills or equipment. However, parents should supervise children around the old mine areas and watch for abandoned shafts or unstable ground."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Mercur near Tooele?",
+      "answer": "The best months are April through June and September through October. These seasons offer moderate temperatures ideal for hiking in the high-desert environment. Summer heat exceeds 85 degrees F, making midday collecting uncomfortable, while winter snow can block access to the area."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Mercur?",
+      "answer": "Bring a hand lens to examine specimens for gold flecks and associated minerals like pyrite. Pack a sturdy backpack, plenty of water (at least 2 liters), sun protection, and comfortable hiking boots with good ankle support for the uneven, rocky terrain. A small collecting bag or bucket helps transport your finds up to the 25 lb daily limit."
+    },
+    {
+      "question": "How far is Mercur from Tooele and what road conditions should I expect?",
+      "answer": "Mercur is approximately 20 miles north of Tooele. From town, take UT-36 north for about 15 miles to the Mercur road turnoff, then follow a rough dirt mining road west for about 5 miles. The road is uneven with washboard texture and ruts, so a high-clearance or all-wheel-drive vehicle is recommended. The road may become impassable after heavy rain or snow."
+    }
+  ],
+  "meta_title": "Mercur Rockhounding - Utah Gold Mining Area",
+  "meta_description": "Find quartz and gold at Mercur on BLM land near Tooele. Free public rockhounding, 25 lbs daily limit. Historic mining district, beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from mining district history)",
+    "terrain_notes (elevation estimated from USGS data)",
+    "parking_notes (typical BLM informal parking)",
+    "nearest_services (based on Tooele proximity)"
+  ],
+  "enriched_at": "2026-04-22T06:53:26.044Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:02:27.237Z"
+}

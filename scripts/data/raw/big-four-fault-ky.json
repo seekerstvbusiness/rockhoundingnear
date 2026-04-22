@@ -1,0 +1,60 @@
+{
+  "slug": "big-four-fault-ky",
+  "name": "Big Four Fault",
+  "lat": 37.349717,
+  "lng": -88.192605,
+  "state": "Kentucky",
+  "state_slug": "kentucky",
+  "state_code": "KY",
+  "city": "Crittenden County",
+  "city_slug": "crittenden-county",
+  "county": "Crittenden",
+  "county_slug": "crittenden",
+  "geocoded_city": "Crittenden County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kentucky.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Big%20Four%20Fault%20Kentucky"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Big%20Four%20Fault",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Big%20Four%20Fault%20Kentucky"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 502,
+      "meters": 153
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:15:28.133Z"
+  },
+  "scraped_at": "2026-04-21T17:15:28.133Z",
+  "scrape_quality": "minimal"
+}

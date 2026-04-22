@@ -1,0 +1,96 @@
+{
+  "slug": "lakeside-mountains-ut",
+  "name": "Lakeside Mountains",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Tooele",
+  "city_slug": "tooele",
+  "county": "Tooele",
+  "county_slug": "tooele",
+  "lat": 40.974966,
+  "lng": -112.870091,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM public land in the Basin and Range province offering free rockhounding for quartz, agate, and jasper. No permit required, 25 lb daily limit applies.",
+  "description": "The Lakeside Mountains in Tooele County sit within Utah's active Basin and Range physiography, where Tertiary-age volcanic and alluvial deposits have created ideal conditions for silica-based mineral formation. This area is managed by the Bureau of Land Management and is open to recreational rockhounders at no cost. The surrounding terrain features exposed rhyolite flows, volcanic ash deposits, and weathered tuff formations that have broken down over millennia to expose colorful agate nodules, jasper fragments, and quartz specimens in surface gravels and hillside washes.\n\nRockhounders can expect to find small to medium-sized agate pieces in shades of white, tan, red, and banded varieties scattered across the hillsides and in dry washes. Chalcedony and jasper are also common in the eroded volcanic material. The landscape is typical high desert with sparse sagebrush and rabbitbrush, moderate elevation between 5,000 and 6,000 feet, and open vistas.\n\nThis location is ideal for beginner to intermediate collectors looking for free public collecting opportunities near the Tooele area. The land is well-accessed by standard roads, and parking areas are available near collecting zones. Being BLM land, personal use collection is permitted under standard regulations - no commercial activity, no motorized excavation, and a 25 lb per day limit per the Federal Land Policy and Management Act.\n\nThe area can get crowded on weekends, especially in spring and fall. Early morning visits on weekdays yield the best experience. Bring plenty of water, as shade is minimal and the desert sun is intense even in cooler months. Sharp volcanic rock is common, so sturdy boots and gloves are essential.",
+  "history": "The Lakeside Mountains are part of the Tooele Valley's volcanic arc, formed during intense Tertiary volcanism (35-20 million years ago) when rhyolitic magma erupted across the region. Over geological time, weathering and erosion of these volcanic deposits exposed silica-rich agates, chalcedony, and jasper nodules that had precipitated from hydrothermal fluids within the cooled lava and tuff formations.",
+  "tips": "Search the dry washes and eroded hillsides where winter runoff has exposed fresh material - look for colorful agate and jasper fragments in tan, red, and white tones partially buried in the volcanic gravel. Use a small pick or geology hammer to test the surface layer of hillsides, and screen larger piles of wash material to find smaller gemstones. The best specimens are often found on south-facing slopes where exposure to weather is greatest; early morning light makes spotting colorful stones easier against the tan background. Avoid collecting near visible archaeological sites or historic mining scars.",
+  "terrain_notes": "Elevation ranges from 5,000 to 6,000 feet with rolling sagebrush-covered hills and several shallow washes. Terrain is generally open with sparse vegetation. Walking distances from parking areas range from a few hundred feet to 1-2 miles depending on the specific collecting zone. Footing is uneven with loose rocks and some sandy washes; sturdy footwear is required.",
+  "best_season": "October - April. The high desert climate makes summer months (June-August) extremely hot, often exceeding 95 degrees Fahrenheit with intense sun and minimal shade. Spring (March-May) and fall (September-November) offer comfortable temperatures, lower UV exposure, and occasional moisture that can help expose fresh material in washes. Winter collecting is possible but early morning frosts and occasional snow can limit access.",
+  "written_directions": "From Tooele, take Main Street north toward the Tooele Valley. Continue north on UT-36 toward Grantsville for approximately 8-10 miles. Look for BLM land access points and informal pullouts on the east side of the highway near the base of the Lakeside Mountains. GPS coordinates (40.974966, -112.870091) mark the primary collecting area. Standard passenger vehicles can access the parking areas; high-clearance vehicles are recommended for deeper exploration of rough mining roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "UT-36 is paved and well-maintained. Access roads to parking areas are unpaved but passable by passenger cars. Some rough mining roads in the area require high-clearance or 4WD; stick to main BLM-maintained routes.",
+  "parking_notes": "Several informal pullouts and parking areas are available along the base of the Lakeside Mountains near UT-36. Capacity varies from 2-10 vehicles per pullout. No developed lot; arrive early on weekends.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation or heavy equipment. Rockhounds must remove all trash and leave the site in good condition. Respect any closures or restrictions posted by the BLM.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day\nNo commercial collection allowed\nNo motorized excavation\nNo heavy equipment\nPack out all trash\nRespect all posted BLM closures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Tooele, approximately 12 miles south. Full services including gas, food, water, and supplies available.",
+  "accessibility_notes": "Relatively flat to rolling terrain with uneven, rocky footing. No wheelchair access to collecting areas. Loose volcanic rock is common and can be sharp. Sturdy boots, long pants, and gloves are highly recommended. Distances from parking to main collecting areas are short (under 1 mile), making this accessible for most hikers with moderate fitness.",
+  "alternative_names": [],
+  "nearest_city": "Tooele",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/lakeside-mountains-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Lakeside Mountains near Tooele, Utah?",
+      "answer": "The Lakeside Mountains are best known for agate, chalcedony, jasper, and quartz. Agates are found in multiple colors including white, tan, red, and banded varieties. Jasper fragments are common in the weathered volcanic material. Most specimens are small to medium-sized pieces found scattered in surface gravels and dry washes."
+    },
+    {
+      "question": "Is there a fee to rockhound at Lakeside Mountains, and do I need a permit?",
+      "answer": "No, rockhounding at Lakeside Mountains is completely free. The area is managed by the Bureau of Land Management (BLM) and open to the public for recreational collecting. No permit is required, though you must follow BLM collection rules including the 25 lb per day personal use limit."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Lakeside Mountains?",
+      "answer": "October through April is ideal. Summer months are too hot (over 95 degrees with intense sun), while fall and spring offer comfortable temperatures and better weather for collecting. Winter is possible but can be cold and icy. Early morning visits in spring and fall provide the best light and coolest temperatures."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Lakeside Mountains?",
+      "answer": "Bring a small geology hammer or pick for testing hillsides, a screen or classifier for sorting wash material, sturdy boots with ankle support, heavy gloves for sharp volcanic rock, and a collection bag. A hat, sunscreen, and at least 3 liters of water per person are essential - shade is minimal in the desert. A headlamp is useful for early morning collecting."
+    },
+    {
+      "question": "Is Lakeside Mountains a good rockhounding spot for beginners?",
+      "answer": "Yes, Lakeside Mountains is excellent for beginners. The terrain is relatively accessible, no permit is required, collection is free, and agate and jasper specimens are abundant and easy to spot. The rolling hills are not steep, and parking areas are close to productive collecting zones. It is an ideal introduction to rockhounding in Utah."
+    },
+    {
+      "question": "Where exactly should I search for agates and jasper at Lakeside Mountains?",
+      "answer": "Focus on dry washes and eroded hillsides, especially south-facing slopes where weathering is most active. Look for colorful agate and jasper fragments in the tan volcanic gravel and tuff. Early morning light makes spotting colored stones easier. Test the surface layer of hillsides with a pick, and screen larger piles of wash material for smaller specimens. Avoid disturbing archaeological sites or old mining scars."
+    }
+  ],
+  "meta_title": "Lakeside Mountains Rockhounding - Utah",
+  "meta_description": "Free rockhounding on BLM land near Tooele. Find agate, jasper, and quartz. No permit required. 25 lb daily limit. Open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "cell_service",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T06:53:31.511Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:02:16.101Z"
+}

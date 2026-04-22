@@ -1,0 +1,60 @@
+{
+  "slug": "autry-mill-nature-preserve-ga",
+  "name": "Autry Mill Nature Preserve",
+  "lat": 34.02016,
+  "lng": -84.233324,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Johns Creek",
+  "city_slug": "johns-creek",
+  "county": "Fulton",
+  "county_slug": "fulton",
+  "geocoded_city": "Johns Creek",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Autry%20Mill%20Nature%20Preserve%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Autry%20Mill%20Nature%20Preserve",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Autry%20Mill%20Nature%20Preserve%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 988,
+      "meters": 301
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:14:39.049Z"
+  },
+  "scraped_at": "2026-04-21T19:14:39.050Z",
+  "scrape_quality": "minimal"
+}

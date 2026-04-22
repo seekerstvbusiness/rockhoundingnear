@@ -1,0 +1,63 @@
+{
+  "slug": "oshkosh-wi",
+  "name": "Oshkosh",
+  "lat": 44.043004,
+  "lng": -89.098138,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Redgranite",
+  "city_slug": "redgranite",
+  "county": "Waushara",
+  "county_slug": "waushara",
+  "geocoded_city": "Redgranite",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Oshkosh%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Oshkosh",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Oshkosh%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Willow Creek",
+        "type": "stream",
+        "dist": 0.8
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:16:28.502Z"
+  },
+  "scraped_at": "2026-04-21T18:16:28.502Z",
+  "scrape_quality": "minimal"
+}

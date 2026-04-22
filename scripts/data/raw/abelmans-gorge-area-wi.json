@@ -1,0 +1,57 @@
+{
+  "slug": "abelmans-gorge-area-wi",
+  "name": "Abelman's Gorge area",
+  "lat": 43.490367,
+  "lng": -89.917446,
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "state_code": "WI",
+  "city": "Town of Excelsior",
+  "city_slug": "town-of-excelsior",
+  "county": "Sauk",
+  "county_slug": "sauk",
+  "geocoded_city": "Town of Excelsior",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-wisconsin.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Abelman's%20Gorge%20area%20Wisconsin"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Abelman's%20Gorge%20area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Abelman's%20Gorge%20area%20Wisconsin"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:21:08.612Z"
+  },
+  "scraped_at": "2026-04-21T18:21:08.612Z",
+  "scrape_quality": "minimal"
+}

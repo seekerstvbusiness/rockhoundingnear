@@ -1,0 +1,60 @@
+{
+  "slug": "milledgeville-ga",
+  "name": "Milledgeville",
+  "lat": 33.006923,
+  "lng": -83.224188,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Baldwin County",
+  "city_slug": "baldwin-county",
+  "county": "Baldwin",
+  "county_slug": "baldwin",
+  "geocoded_city": "The Colony",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Milledgeville%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Milledgeville",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Milledgeville%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 359,
+      "meters": 110
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:08:56.410Z"
+  },
+  "scraped_at": "2026-04-21T19:08:56.410Z",
+  "scrape_quality": "minimal"
+}

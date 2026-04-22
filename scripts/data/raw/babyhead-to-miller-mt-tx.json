@@ -1,0 +1,60 @@
+{
+  "slug": "babyhead-to-miller-mt-tx",
+  "name": "Babyhead to Miller Mt",
+  "lat": 30.799488,
+  "lng": -98.640989,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Llano County",
+  "city_slug": "llano-county",
+  "county": "Llano",
+  "county_slug": "llano",
+  "geocoded_city": "Llano County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Babyhead%20to%20Miller%20Mt%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Babyhead%20to%20Miller%20Mt",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Babyhead%20to%20Miller%20Mt%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1276,
+      "meters": 389
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:42:29.289Z"
+  },
+  "scraped_at": "2026-04-21T18:42:29.289Z",
+  "scrape_quality": "minimal"
+}

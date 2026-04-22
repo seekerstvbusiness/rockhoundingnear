@@ -1,0 +1,71 @@
+{
+  "slug": "brasstown-nc",
+  "name": "Brasstown",
+  "lat": 35.074212,
+  "lng": -83.996452,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Cherokee County",
+  "city_slug": "cherokee-county",
+  "county": "Cherokee",
+  "county_slug": "cherokee",
+  "geocoded_city": "Cherokee County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Brasstown%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Brasstown",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Brasstown%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1750,
+      "meters": 533
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": [
+      {
+        "name": "Peachtree Creek",
+        "type": "stream",
+        "dist": 2.5
+      },
+      {
+        "name": "Clabber Branch",
+        "type": "stream",
+        "dist": 5.1
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:38:15.268Z"
+  },
+  "scraped_at": "2026-04-21T19:38:15.268Z",
+  "scrape_quality": "minimal"
+}

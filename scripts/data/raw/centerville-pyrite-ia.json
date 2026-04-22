@@ -1,0 +1,60 @@
+{
+  "slug": "centerville-pyrite-ia",
+  "name": "Centerville (pyrite)",
+  "lat": 40.710578,
+  "lng": -92.848385,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Appanoose County",
+  "city_slug": "appanoose-county",
+  "county": "Appanoose",
+  "county_slug": "appanoose",
+  "geocoded_city": "Centerville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Centerville%20(pyrite)%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Centerville%20(pyrite)",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Centerville%20(pyrite)%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 971,
+      "meters": 296
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:55:28.774Z"
+  },
+  "scraped_at": "2026-04-21T17:55:28.774Z",
+  "scrape_quality": "minimal"
+}

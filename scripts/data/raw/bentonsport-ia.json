@@ -1,0 +1,60 @@
+{
+  "slug": "bentonsport-ia",
+  "name": "Bentonsport",
+  "lat": 40.705368,
+  "lng": -91.864852,
+  "state": "Iowa",
+  "state_slug": "iowa",
+  "state_code": "IA",
+  "city": "Van Buren County",
+  "city_slug": "van-buren-county",
+  "county": "Van Buren",
+  "county_slug": "van-buren",
+  "geocoded_city": "Vernon",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-iowa.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bentonsport%20Iowa"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bentonsport",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bentonsport%20Iowa"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 636,
+      "meters": 194
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:00:43.641Z"
+  },
+  "scraped_at": "2026-04-21T18:00:43.641Z",
+  "scrape_quality": "minimal"
+}

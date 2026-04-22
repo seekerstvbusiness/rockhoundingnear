@@ -1,0 +1,98 @@
+{
+  "slug": "clay-city-wa",
+  "name": "Clay City",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Eatonville",
+  "city_slug": "eatonville",
+  "county": "Pierce",
+  "county_slug": "pierce",
+  "lat": 46.928434,
+  "lng": -122.236806,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Clay City offers accessible rockhounding for agate, jasper, and quartz specimens in gentle terrain near Eatonville. This productive site combines easy access with solid finds in volcanic deposits.",
+  "description": "Clay City is a popular rockhounding destination in Pierce County, Washington, located on public land near the foothills of the Cascade Range. The site sits at approximately 692 feet elevation with gentle slopes that make it accessible to rockhounds of all skill levels. The area is known for producing quality agate, jasper, and quartz specimens that weather out of the surrounding volcanic geology.\n\nThe geology here reflects the Cascade volcanic province, where Tertiary-age volcanic rocks and associated silica-rich deposits have created ideal conditions for microcrystalline gem formation. The exposed clay banks and weathered volcanic outcrops along washes and hillsides are the primary collecting zones. Over decades of rockhounding activity, Clay City has proven itself as a reliable source for colorful agates and jasper with good banding and patterns.\n\nVisitors should expect to walk moderate distances from parking to active collecting areas, searching through clay banks, washes, and loose material at the surface. The gentle slope makes walking comfortable, though the ground can be soft and muddy after rain. Most productive collecting occurs in areas where erosion has exposed fresh material or along seasonal water runs that help expose new specimens.\n\nThe site benefits from being relatively close to Eatonville while maintaining a semi-remote character. Cell service can be spotty depending on your exact location within the claim area. Bring plenty of water and sun protection, as the open terrain offers limited shade. The combination of ease of access, consistent finds, and beginner-friendly terrain makes Clay City a destination worth the drive from the Seattle-Tacoma area.",
+  "history": "Clay City sits within the Cascade volcanic province, where extensive Tertiary-age volcanism (roughly 50-30 million years ago) deposited thick sequences of basaltic and andesitic lavas interbedded with pyroclastic materials. These volcanic rocks, altered and weathered over millions of years, released silica that crystallized into agate, jasper, and chalcedony in cavities and fractures. The area has a long history of recreational rockhounding, with collectors having worked the exposed banks and washes here for decades.",
+  "tips": "Search along the clay banks and eroded hillsides where weather has already freed specimens from the matrix - this is where the best finds concentrate. Look for colorful banding in agates and the translucent to opaque quality of local jasper; specimens here tend toward earth tones (reds, oranges, browns, grays) rather than bright colors. Bring a small hammer and chisel to work clay banks carefully, but most material comes loose with hand work. After rain, new material is exposed and older finds wash to the surface, making wet season and post-rain visits especially productive.",
+  "terrain_notes": "Elevation 692 feet with gentle slopes throughout the collecting area. Terrain is mostly open with sparse vegetation, clay banks, and exposed volcanic rock outcrops. Walking distance from parking to primary collecting areas is typically 0.25 to 0.75 miles. Footing can be uneven on loose volcanic material and soft in clay areas, especially after rain. No formal trails, but established use routes are obvious. Sturdy footwear is recommended.",
+  "best_season": "October - May. Late fall through early spring provides the most comfortable temperatures for outdoor collecting and the highest probability of post-rain exposed material. Summer can be hot and dry with less exposed fresh material. Avoid heavy rain days when clay becomes impassable, but collect shortly after moderate rain when new specimens are exposed.",
+  "written_directions": "From Eatonville, take State Route 7 east toward the Cascade foothills for approximately 3 miles. Turn north on unpaved forest road (watch for rockhounding site markers and informal turnouts). Continue on this road for 1 to 2 miles. Clay City collecting areas are accessed via pullouts and informal parking zones along the road. GPS coordinates 46.928434, -122.236806 mark the primary area. High-clearance vehicle recommended after wet weather, but passenger cars can usually reach the main zones.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved forest service road, washboard surface typical. High-clearance vehicle recommended after heavy rain. Passenger cars generally passable in dry conditions.",
+  "parking_notes": "Multiple informal pullouts and parking areas along the collecting road. No formal parking lot. Capacity varies by pullout, typically 3-6 vehicles per zone. No facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or power tools. Hand tools only. Respect claim markers and posted boundaries. Pack out all trash. Leave no digging scars or holes.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nHand tools only\nRespect claim markers\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Eatonville, approximately 5 miles. Gas, food, water, and supplies available at local businesses.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Unpaved road to parking areas. Soft clay ground and uneven volcanic material require sturdy footwear. No wheelchair accessibility. Walking distances of 0.25 to 0.75 miles from parking to active collecting zones. Open terrain with minimal shade.",
+  "alternative_names": [],
+  "nearest_city": "Eatonville",
+  "nearest_city_distance": 5,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/clay-city-wa/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Clay City near Eatonville?",
+      "answer": "Clay City is known for agate, jasper, quartz, and chalcedony specimens. Agates here typically show banding in earth tones (reds, oranges, browns, grays), and jasper is commonly found in opaque and translucent forms. Specimens are usually small to medium sized but of good quality for lapidary work."
+    },
+    {
+      "question": "Is Clay City free rockhounding or do you need a permit?",
+      "answer": "Clay City is free public land rockhounding with no permit required. It is managed under BLM regulations allowing personal use collection. You only need to follow the 25-pound-per-day limit and hand-tools-only rule."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Clay City, Washington?",
+      "answer": "October through May is ideal. Late fall and winter offer comfortable temperatures and the highest chance of post-rain exposed material. Summer heat and dry conditions make fewer fresh specimens visible. Collect shortly after moderate rain for the best results."
+    },
+    {
+      "question": "How far is Clay City from Seattle, and is it suitable for beginners?",
+      "answer": "Clay City is approximately 50-60 miles south of Seattle near Eatonville. It is very beginner-friendly with gentle terrain, easy hand-collecting, and no permit requirements. Agates and jasper are accessible at the surface, making it perfect for families and first-time rockhounders."
+    },
+    {
+      "question": "What tools do you need for rockhounding agate and jasper at Clay City?",
+      "answer": "Bring a small hand hammer, cold chisel, and rock pick for working clay banks. Most material comes loose with hand tools alone. A bucket or backpack for carrying finds, digging gloves, and a brush for cleaning specimens are useful. Avoid power tools, which are not allowed."
+    },
+    {
+      "question": "Can you bring dogs rockhounding at Clay City in Washington?",
+      "answer": "Yes, dogs are allowed on public BLM land at Clay City. Keep them under control and bring extra water for them, especially in dry seasons. The open terrain and multiple access points make it dog-friendly for outdoor enthusiasts."
+    }
+  ],
+  "meta_title": "Clay City Rockhounding - Washington",
+  "meta_description": "Find agate, jasper, and quartz at Clay City near Eatonville, Washington. Free public land rockhounding with easy terrain and beginner-friendly collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type",
+    "primary_category",
+    "cell_service",
+    "written_directions",
+    "road_conditions",
+    "parking_notes"
+  ],
+  "enriched_at": "2026-04-22T09:27:21.701Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T09:30:48.652Z"
+}

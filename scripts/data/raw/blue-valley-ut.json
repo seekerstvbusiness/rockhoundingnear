@@ -1,0 +1,65 @@
+{
+  "slug": "blue-valley-ut",
+  "name": "Blue Valley",
+  "lat": 38.174454,
+  "lng": -112.61561,
+  "state": "Utah",
+  "state_slug": "utah",
+  "state_code": "UT",
+  "city": "Beaver County",
+  "city_slug": "beaver-county",
+  "county": "Beaver",
+  "county_slug": "beaver",
+  "geocoded_city": "Beaver",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-utah.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Blue%20Valley%20Utah"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Utah BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Blue%20Valley",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Blue%20Valley%20Utah"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Utah BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 6406,
+      "meters": 1952
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:22:23.559Z"
+  },
+  "scraped_at": "2026-04-22T02:22:23.560Z",
+  "scrape_quality": "partial"
+}

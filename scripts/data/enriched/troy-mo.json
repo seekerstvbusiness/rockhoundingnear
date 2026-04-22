@@ -1,0 +1,99 @@
+{
+  "slug": "troy-mo",
+  "name": "Troy",
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "city": "Troy",
+  "city_slug": "troy",
+  "county": "Lincoln",
+  "county_slug": "lincoln",
+  "lat": 38.918543,
+  "lng": -90.938608,
+  "gem_types": [
+    "Quartz",
+    "Chert",
+    "Jasper",
+    "Calcite"
+  ],
+  "short_description": "Public rockhounding near Troy in the Missouri River valley. Hunt for quartz, chert, and jasper fragments in creek beds and hillside exposures on gentle terrain perfect for families.",
+  "description": "Troy sits in Lincoln County along the eastern edge of the Ozark Plateau, where the Missouri River has carved through sedimentary bedrock for millions of years. This area offers accessible rockhounding on public and private land, with creek beds and exposed hillsides yielding a variety of quartz varieties, colorful chert nodules, and jasper specimens. The gentle slope and moderate elevation make this location ideal for beginners and families looking for quality collecting without extreme terrain challenges.\n\nThe region's geology reflects Mississippian and Pennsylvanian limestone and dolomite formations interlayered with chert nodules - a common feature of mid-continent Paleozoic sequences. Weathering and stream action have exposed these deposits along creek valleys, where collectors can find loose fragments and occasionally work weathered hillside exposures. The Missouri River drainage has been a natural rockhounding corridor for generations, and Troy's proximity to these formations makes it a productive local spot.\n\nBest collecting happens in creek beds after seasonal runoff, when fresh material is exposed and easier to access. Hillside collecting is also productive year-round. The terrain is forgiving - mostly gentle slopes with scattered vegetation - making this suitable for rockhounders of all experience levels. Always scout multiple locations and ask for permission before entering private property.",
+  "history": "The Ozark Plateau in this region formed during the Paleozoic Era when shallow seas deposited limestone, dolomite, and silica-rich sediments across the continental interior. These formations were later exposed and weathered by the Missouri River system, which has been scouring and concentrating chert nodules and quartz fragments for the past several million years, making the creek valleys here natural repositories of collectible specimens.",
+  "tips": "Focus on active creek beds and recent erosional banks where seasonal water flow exposes fresh material - chert nodules often weather free from the host limestone. Use a small hammer and pry bar to carefully work loose fragments from hillside exposures; never use explosive force or motorized tools. Look for translucent quartz varieties, banded or mottled chert in reds and browns, and cream to tan jasper pieces - these are the most common quality finds here.",
+  "terrain_notes": "Gentle slope with elevation near 554 feet. Mostly open to semi-forested terrain with scattered oak and hickory. Creek beds have sandy and rocky footing. Hillsides are stable with good walking access. Most productive areas within 0.5 to 1.5 miles of parking. Sturdy shoes recommended for rocky creek beds.",
+  "best_season": "April - October",
+  "written_directions": "From Troy, take Highway 61 south toward the Missouri River valley. Access points vary - check local maps for creek road pull-offs and parking areas along tributaries south of town. Most productive areas are within 2-5 miles of downtown Troy along lower elevation creek beds. Contact Lincoln County Parks or local rockhounding clubs for current access information and best producing sites.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highways to town; creek access roads may be unpaved but generally passable by passenger vehicles in dry conditions",
+  "parking_notes": "Informal pull-offs along creek access roads; no developed parking facilities. Arrive early during peak season",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal collection only. Respect private property - always ask permission before entering private land. No motorized excavation. No commercial collection. Keep collection reasonable for personal use.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nRespect private property boundaries\nNo commercial collection\nNo motorized equipment\nLeave areas as you found them",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "flash_floods",
+    "sharp_material"
+  ],
+  "nearest_services": "Troy has gas, food, and water services. Full amenities available within town limits.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Creek beds have rocky and sandy footing requiring sturdy shoes. No wheelchair access to productive collecting areas. Short walks (under 1 mile) to most sites from parking.",
+  "alternative_names": [],
+  "nearest_city": "Troy",
+  "nearest_city_distance": 1,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/missouri/troy-mo/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/missouri/troy-mo/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of quartz and chert can I find rockhounding near Troy, Missouri?",
+      "answer": "Troy's creek beds and hillsides yield milky quartz, clear quartz fragments, and abundant colorful chert nodules in reds, browns, and tans. Jasper specimens also appear regularly. The area's Paleozoic limestone formations naturally weather to release these silica-rich minerals, making them consistent finds for collectors of all levels."
+    },
+    {
+      "question": "Is rockhounding near Troy Missouri free and do I need a permit?",
+      "answer": "Yes, rockhounding near Troy is free on public land and creek beds. No permit is required for personal collection. However, always ask permission before entering private property, as much productive land is privately owned. Contact local Lincoln County authorities or rockhounding clubs for current access recommendations."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Troy, Missouri?",
+      "answer": "April through October offers the most comfortable collecting conditions. Spring runoff (April-May) is excellent for creek bed collecting when fresh material is exposed by water flow. Fall months provide pleasant weather and good visibility on hillside exposures. Avoid winter due to cold and wet conditions."
+    },
+    {
+      "question": "Are there beginner-friendly rockhounding sites near Troy that don't require hiking?",
+      "answer": "Yes. Troy's creek bed access points are ideal for beginners - mostly gentle terrain with short walks from parking areas. Loose chert nodules and quartz fragments are abundant on the surface, requiring minimal digging. Family groups with children ages 6 and up can successfully collect without specialized equipment."
+    },
+    {
+      "question": "What tools do I need for rockhounding chert and quartz in the Troy Missouri area?",
+      "answer": "A small hammer and chisel work well for hillside collecting, though many specimens are found loose on creek surfaces requiring no tools at all. Bring a bucket or mesh bag for transport, sturdy hiking shoes for rocky creek beds, and a hand lens to inspect specimens. Always work safely - never strike toward yourself."
+    },
+    {
+      "question": "Can I bring my dog rockhounding with me in the Troy Missouri area?",
+      "answer": "Dogs are generally permitted on public land and creek areas in the Troy region. Keep pets under control around water and other collectors. Creek beds can be hot in summer - bring extra water. Always verify access policies on any private property before bringing pets onto posted land."
+    }
+  ],
+  "meta_title": "Troy Missouri Rockhounding - Quartz & Chert",
+  "meta_description": "Hunt quartz, chert, and jasper near Troy, Missouri. Free public creek bed collecting on gentle terrain. Perfect for beginners and families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "access_type",
+    "vehicle_required",
+    "parking_notes",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-21T19:17:47.203Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:20:22.666Z"
+}

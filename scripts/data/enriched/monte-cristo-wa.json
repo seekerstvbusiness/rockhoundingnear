@@ -1,0 +1,104 @@
+{
+  "slug": "monte-cristo-wa",
+  "name": "Monte Cristo",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Snohomish County Area",
+  "city_slug": "snohomish-county",
+  "county": "Snohomish",
+  "county_slug": "snohomish",
+  "lat": 47.985855,
+  "lng": -121.393945,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica",
+    "Tourmaline"
+  ],
+  "short_description": "Historic mining town area in the North Cascades foothills with metamorphic rock outcrops. Search for quartz, feldspar, and tourmaline among weathered mining debris and stream banks.",
+  "description": "Monte Cristo sits at 2765 feet elevation in Snohomish County's mountainous terrain, accessible via the scenic Mountain Loop Highway. This former silver mining camp, established in the 1880s, offers rockhounders access to metamorphic rock formations rich in quartz veins, feldspar, mica, and tourmaline. The area's geology reflects its origins in the Cascade metamorphic complex, where regional metamorphism and hydrothermal activity created mineral-rich schists and gneisses.\n\nThe landscape features gentle to moderate slopes with mixed conifer forest, rocky outcrops, and stream channels where erosion continuously exposes fresh mineral specimens. Historic mining tailings and waste rock piles remain visible throughout the area, providing excellent hunting grounds for collectors willing to explore responsibly. The elevation and Cascade Range location mean this site experiences seasonal access limitations.\n\nBest collecting occurs along stream banks where heavy minerals settle naturally, and in weathered outcrop areas where metamorphic minerals are exposed. The combination of historical mining infrastructure and natural erosion creates ideal conditions for finding quality quartz clusters, feldspar crystals, and mica sheets. Water access and varied geology make this a rewarding destination for collectors seeking Pacific Northwest alpine specimens.\n\nRespect remains critical at this location: stay on established paths, avoid entering any abandoned mine structures or tunnels, and pack out all trash. The remote mountain setting and weather variability demand preparation and caution.",
+  "history": "Monte Cristo developed as a major silver mining center during the 1880s-1890s Cascade Range silver rush, with its peak prosperity driven by high-grade ore discoveries in the surrounding metamorphic bedrock. The area's geology originates from Mesozoic metamorphism of sedimentary and volcanic rocks during Sevier and Laramide mountain building, creating the quartz-rich schists and gneisses that host both ore minerals and collector specimens today.",
+  "tips": "Search along Skokomish River and tributary streams where heavy minerals concentrate in gravel bars and benches - this is where the best quartz clusters and tourmaline specimens turn up. Focus on decomposing granite and metamorphic outcrops on gentle slopes; use a small hammer and chisel to carefully extract crystals from weathered rock rather than applying force. Look for glassy quartz, creamy feldspar, and black tourmaline rods; avoid any active mining areas or closed structures marked by signs.",
+  "terrain_notes": "Elevation 2765 feet with gentle to moderate slopes covered in dense conifer forest (Douglas fir, western hemlock, red cedar). Terrain transitions from old mining roads to trail-like access with uneven footing over roots and loose rock. Stream crossings are required to reach prime collecting areas. Walking distance from road parking to productive zones ranges from 0.5 to 2 miles depending on access point.",
+  "best_season": "June - September. Higher elevation and Cascade Range snowpack make spring access unreliable, and fall rains create stream hazards and muddy conditions. Summer months provide the most stable weather and lowest water levels for safe stream-bank collecting.",
+  "written_directions": "From Snohomish, head northeast on State Route 92 toward Lake Sultan for approximately 8 miles. Continue on Mountain Loop Highway (FS Road 20) eastbound. After passing Granite Falls, stay on FS 20 toward the Cascades. The town of Monte Cristo is approximately 30 miles from Snohomish via this route. Parking areas are available near the old town site and along pullouts on FS 20 near stream access points. The final 5-10 miles of FS 20 to Monte Cristo may have seasonal closures, washboard surfaces, and narrow passages.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "awd",
+  "road_conditions": "Mountain Loop Highway (FS 20) transitions from paved to unpaved forest service road with washboard surface and occasional rough sections. High-clearance vehicle recommended. Road may close seasonally due to snow or maintenance.",
+  "parking_notes": "Limited pullouts and informal parking areas near Monte Cristo townsite and along FS 20. No developed parking lot. Capacity roughly 10-15 vehicles total at main access points.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "National Forest land - personal use collection only. Maximum 25 lbs per day per USDA Forest Service regulations. No motorized excavation. No commercial collection. Avoid all abandoned mine structures and marked hazard areas. Pack out all trash. Respect posted closures.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day\nNo motorized excavation or heavy equipment\nNo commercial collection or resale\nAvoid abandoned mine shafts, tunnels, and structures\nNo hammering or blasting\nPack out all trash\nStay on established access routes",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "abandoned_mines",
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Granite Falls has limited services (gas, basic food) approximately 15 miles west via FS 20 and SR 92. Snohomish offers full services approximately 30 miles away.",
+  "accessibility_notes": "Moderate terrain with uneven forest floor, exposed roots, loose rock, and stream crossings. No wheelchair access. Sturdy waterproof hiking boots required. Several miles of hiking on unmaintained paths may be necessary to reach productive collecting areas. High elevation and mountain weather create additional hazards.",
+  "alternative_names": [
+    "Monte Cristo Mining Area",
+    "Monte Cristo Townsite"
+  ],
+  "nearest_city": "Snohomish",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/monte-cristo-wa/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Monte Cristo, Washington?",
+      "answer": "Monte Cristo's metamorphic rock formations host quartz, feldspar, mica, and tourmaline. Quartz typically appears as clear to milky clusters in old mining tailings and stream beds. Black tourmaline rods and feldspar crystals are found in weathered outcrop areas. This is a mineral collector's site rather than a gemstone location."
+    },
+    {
+      "question": "Do I need a permit to collect rocks at Monte Cristo near Snohomish County?",
+      "answer": "No permit is required for personal rockhounding at Monte Cristo, which sits on USDA National Forest land. You may collect up to 25 lbs per day under FLPMA regulations. Commercial collection and motorized excavation are prohibited."
+    },
+    {
+      "question": "What is the best time of year for rockhounding near Monte Cristo, Washington?",
+      "answer": "June through September offers the most reliable access and best collecting conditions. Higher elevation snowpack makes spring unpredictable, and fall rains create stream hazards and muddy terrain. Summer provides stable weather and lower water levels for safe stream-bank searching."
+    },
+    {
+      "question": "How do I get to Monte Cristo rockhounding sites from Snohomish?",
+      "answer": "From Snohomish, take State Route 92 northeast about 8 miles toward Lake Sultan, then continue on Mountain Loop Highway (FS Road 20) eastbound past Granite Falls. Monte Cristo is approximately 30 miles total. The final section is unpaved forest service road suitable for high-clearance or all-wheel drive vehicles."
+    },
+    {
+      "question": "Is Monte Cristo good for beginner rockhounders?",
+      "answer": "Monte Cristo suits experienced collectors rather than beginners due to its remote location, moderate hiking terrain, and need to identify metamorphic minerals in field conditions. The 12+ difficulty rating reflects the elevation, stream crossings, and distance from parking areas. Consider easier Cascade foothills sites if you are new to rockhounding."
+    },
+    {
+      "question": "What tools and safety gear do I need for rockhounding at Monte Cristo?",
+      "answer": "Bring sturdy waterproof hiking boots, a rock hammer or small chisel, magnifying lens, water, first aid kit, and map. Wear layers for mountain weather changes. Bring a headlamp, as remote collecting can extend into dim light. Avoid entering any mine tunnels or structures, which pose serious hazards."
+    }
+  ],
+  "meta_title": "Monte Cristo Rockhounding - Washington",
+  "meta_description": "Find quartz, feldspar, and tourmaline at Monte Cristo in Washington's North Cascades. National Forest access, 25 lb daily limit, best June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "history_mining_dates",
+    "primary_category",
+    "accessibility_notes",
+    "hazards_list"
+  ],
+  "road_name": "Mountain Loop Highway / FS 20",
+  "enriched_at": "2026-04-21T19:25:39.638Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:27:29.155Z"
+}

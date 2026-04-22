@@ -1,0 +1,60 @@
+{
+  "slug": "cabotville-tracksite-ma",
+  "name": "Cabotville tracksite",
+  "lat": 42.127979,
+  "lng": -72.610413,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Springfield",
+  "city_slug": "springfield",
+  "county": "Hampden",
+  "county_slug": "hampden",
+  "geocoded_city": "Springfield",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cabotville%20tracksite%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cabotville%20tracksite",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cabotville%20tracksite%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 98,
+      "meters": 30
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:33:01.796Z"
+  },
+  "scraped_at": "2026-04-21T19:33:01.796Z",
+  "scrape_quality": "minimal"
+}

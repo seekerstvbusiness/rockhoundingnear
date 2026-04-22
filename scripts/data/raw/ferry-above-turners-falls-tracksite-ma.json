@@ -1,0 +1,60 @@
+{
+  "slug": "ferry-above-turners-falls-tracksite-ma",
+  "name": "Ferry above Turners Falls, tracksite",
+  "lat": 42.612213,
+  "lng": -72.549606,
+  "state": "Massachusetts",
+  "state_slug": "massachusetts",
+  "state_code": "MA",
+  "city": "Gill",
+  "city_slug": "gill",
+  "county": "Franklin",
+  "county_slug": "franklin",
+  "geocoded_city": "Gill",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-massachusetts.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Ferry%20above%20Turners%20Falls%2C%20tracksite%20Massachusetts"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Ferry%20above%20Turners%20Falls%2C%20tracksite",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Ferry%20above%20Turners%20Falls%2C%20tracksite%20Massachusetts"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 143,
+      "meters": 44
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:27:23.377Z"
+  },
+  "scraped_at": "2026-04-21T19:27:23.377Z",
+  "scrape_quality": "minimal"
+}

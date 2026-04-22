@@ -1,0 +1,102 @@
+{
+  "slug": "lone-mountain-nv",
+  "name": "Lone Mountain",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Esmeralda County Area",
+  "city_slug": "esmeralda-county",
+  "county": "Esmeralda",
+  "county_slug": "esmeralda",
+  "lat": 38.071834,
+  "lng": -117.48474,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper",
+    "Obsidian"
+  ],
+  "short_description": "BLM public land near Esmeralda County offering opportunity to collect quartz, chalcedony, and agate specimens in high desert terrain. No permit required - bring 25 lbs per day home.",
+  "description": "Lone Mountain sits on Nevada BLM land in the rugged Basin and Range province of western Nevada, offering rockhounders easy access to collect gemstone specimens without permits. The moderate slope terrain at 5,304 feet elevation provides good access for rockhounding while maintaining the natural character of the area. This location is known for producing quality quartz and chalcedony specimens, with agate and jasper commonly found in surface deposits and washes. The high desert environment means minimal vegetation, making it easier to spot specimens against the exposed rocky terrain. Collectors should plan for the typical BLM personal use limits and appreciate the solitude this remote location offers compared to heavily trafficked fee dig sites.\n\nThe area benefits from typical Nevada basin geology where ancient volcanic and sedimentary rock layers weather to expose colorful specimens. Morning and late afternoon visits provide the best lighting for spotting material, while the open terrain allows you to cover ground efficiently. Bring plenty of water, as services are distant and the elevation combined with dry conditions creates real heat stress even in cooler months.",
+  "history": "Lone Mountain lies within Nevada's Basin and Range geological province, where Cenozoic volcanic activity and extension created thick sequences of silica-rich volcanic rocks and alluvial deposits. The quartz and chalcedony specimens found here result from millions of years of weathering and hydrothermal alteration of these volcanic formations, with surface exposure making them accessible to modern rockhounders.",
+  "tips": "Search rocky washes and the moderate slopes where runoff concentrates weathered material - look for white, gray, and translucent quartz chunks and banded chalcedony pieces along drainage lines. Use a hand lens to spot the subtle banding in agate specimens before removing them. Bring a sturdy pick or pry bar to extract specimens from compacted soil, and work early morning hours to maximize visibility in the high desert light. Fill your water containers at the nearest services in Esmeralda County or prepare to pack sufficient water for the day.",
+  "terrain_notes": "Moderate rocky slope terrain at 5,304 feet elevation. Sparse high desert vegetation with exposed bedrock and loose scree common. Uneven footing with scattered angular rock fragments. Most productive collecting areas within 0.5 to 2 miles from parking pullouts. Terrain is walkable but requires sturdy footwear and attention to footing on unstable slope material.",
+  "best_season": "October - April",
+  "written_directions": "From Tonopah, Nevada (the nearest town with services), take US 95 south approximately 50 miles. Near Esmeralda County, look for BLM access roads branching east toward Lone Mountain. The exact pullout will depend on which flank you approach - consult detailed BLM maps or GPS coordinates. High-clearance vehicle recommended for final approach roads, which may be rough or washed out seasonally.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt roads with possible washboard texture. Some seasonal washout potential on approach roads. High-clearance vehicle strongly recommended.",
+  "parking_notes": "Informal pullouts and turnarounds typical of BLM land. No developed parking facilities. Space for several vehicles at pullout locations. Park safely away from active washes.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or heavy equipment. Collect only loose surface material - do not break rock faces. Pack out all waste. Respect any existing mining claims marked on the land.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 pounds per day per person\nNo commercial collection or export\nNo motorized excavation or dredging\nNo blasting or heavy equipment\nCollect loose specimens only\nPack out all trash\nRespect marked mining claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "remote",
+    "loose_rock",
+    "sharp_material"
+  ],
+  "nearest_services": "Tonopah, Nevada - approximately 50 miles north. Full services including gas, restaurants, and lodging available. Esmeralda County area offers limited services; plan accordingly.",
+  "accessibility_notes": "Moderate rocky terrain with uneven footing and loose scree common. No wheelchair access. Sturdy hiking boots required. Moderate slope makes prolonged standing and walking demands. Not suitable for visitors with limited mobility. The 5,304 foot elevation is moderate but may affect those with altitude sensitivity.",
+  "alternative_names": [],
+  "nearest_city": "Tonopah",
+  "nearest_city_distance": 50,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/lone-mountain-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/lone-mountain-nv/mineral-1-chalcedony.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/lone-mountain-nv/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Lone Mountain in Nevada?",
+      "answer": "Lone Mountain is known for producing quartz, chalcedony, agate, and jasper specimens. White and gray quartz chunks are most common, while banded agate pieces and colorful jasper are found regularly. Surface material is accessible without excavation, making these finds suitable for beginning and intermediate collectors."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Lone Mountain on BLM land?",
+      "answer": "No permit is required for recreational rockhounding on this Nevada BLM land. Personal use collection is allowed freely under FLPMA regulations. You must follow the 25-pound daily limit and refrain from commercial collecting or motorized excavation."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Esmeralda County?",
+      "answer": "October through April is ideal for rockhounding at Lone Mountain. Winter temperatures are moderate compared to extreme summer heat, and the clarity of high desert air in fall and spring provides excellent visibility for spotting specimens. Summer months exceed 90 degrees regularly and create heat stress."
+    },
+    {
+      "question": "How far is Lone Mountain from the nearest town with services?",
+      "answer": "Tonopah, Nevada is approximately 50 miles north and offers the nearest reliable services including gas stations, restaurants, and lodging. Plan accordingly as Lone Mountain is remote - bring ample water, snacks, and check vehicle condition before departing Tonopah."
+    },
+    {
+      "question": "Is Lone Mountain rockhounding site suitable for families and children?",
+      "answer": "Yes, Lone Mountain is family-friendly for children age 8 and up who can manage moderate rocky terrain and uneven footing. The open high desert environment and straightforward surface collecting make it accessible to families. Always supervise children and watch for loose rock and potential wildlife."
+    },
+    {
+      "question": "What tools and equipment should I bring for rockhounding at Lone Mountain?",
+      "answer": "Bring a hand lens for examining specimens, a sturdy pick or pry bar for extracting material from compacted soil, heavy gloves, and a collection bag. Most importantly, pack 2-3 gallons of water per person due to extreme remoteness and high elevation. Sturdy hiking boots are essential on the loose scree. Sunscreen and a wide-brimmed hat protect against intense desert sun."
+    }
+  ],
+  "meta_title": "Lone Mountain Rockhounding - Nevada BLM",
+  "meta_description": "Collect quartz, agate, and chalcedony at Lone Mountain on Nevada BLM land. No permit needed, 25 lbs per day. Open desert terrain, October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - exact BLM access road names not verified in source; directions based on geographic inference from GPS and Tonopah proximity",
+    "gem_types - inferred from typical Basin and Range volcanic geology; specific to Lone Mountain not explicitly confirmed",
+    "parking_notes - typical BLM informal parking assumed; no specific parking facility data provided",
+    "nearest_city_distance - estimated at 50 miles based on Tonopah location and GPS; not measured precisely"
+  ],
+  "enriched_at": "2026-04-22T09:50:00.770Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:33.012Z"
+}

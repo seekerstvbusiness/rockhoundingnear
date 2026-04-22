@@ -1,0 +1,60 @@
+{
+  "slug": "btwn-groveton-trinity-tx",
+  "name": "Btwn Groveton & Trinity",
+  "lat": 31.033129,
+  "lng": -95.222041,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Trinity County",
+  "city_slug": "trinity-county",
+  "county": "Trinity",
+  "county_slug": "trinity",
+  "geocoded_city": "Trinity County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Btwn%20Groveton%20%26%20Trinity%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Btwn%20Groveton%20%26%20Trinity",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Btwn%20Groveton%20%26%20Trinity%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 177,
+      "meters": 54
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:45:57.037Z"
+  },
+  "scraped_at": "2026-04-21T18:45:57.037Z",
+  "scrape_quality": "minimal"
+}

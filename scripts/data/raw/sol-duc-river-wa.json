@@ -1,0 +1,60 @@
+{
+  "slug": "sol-duc-river-wa",
+  "name": "Sol Duc River",
+  "lat": 47.934705,
+  "lng": -124.495966,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Clallam County",
+  "city_slug": "clallam-county",
+  "county": "Clallam",
+  "county_slug": "clallam",
+  "geocoded_city": "Clallam County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Sol%20Duc%20River%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Sol%20Duc%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Sol%20Duc%20River%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 101,
+      "meters": 31
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:58:11.172Z"
+  },
+  "scraped_at": "2026-04-21T18:58:11.172Z",
+  "scrape_quality": "minimal"
+}

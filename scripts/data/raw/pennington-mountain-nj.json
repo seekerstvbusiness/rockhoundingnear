@@ -1,0 +1,60 @@
+{
+  "slug": "pennington-mountain-nj",
+  "name": "Pennington Mountain",
+  "lat": 40.361645,
+  "lng": -74.806315,
+  "state": "New Jersey",
+  "state_slug": "new-jersey",
+  "state_code": "NJ",
+  "city": "Hopewell Township",
+  "city_slug": "hopewell-township",
+  "county": "Mercer",
+  "county_slug": "mercer",
+  "geocoded_city": "Hopewell Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-new-jersey.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pennington%20Mountain%20New%20Jersey"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pennington%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pennington%20Mountain%20New%20Jersey"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 221,
+      "meters": 67
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:37:10.042Z"
+  },
+  "scraped_at": "2026-04-21T18:37:10.042Z",
+  "scrape_quality": "minimal"
+}

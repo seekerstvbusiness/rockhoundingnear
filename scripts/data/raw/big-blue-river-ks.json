@@ -1,0 +1,60 @@
+{
+  "slug": "big-blue-river-ks",
+  "name": "Big Blue River",
+  "lat": 39.691018,
+  "lng": -96.654618,
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "state_code": "KS",
+  "city": "Blue Rapids",
+  "city_slug": "blue-rapids",
+  "county": "Marshall",
+  "county_slug": "marshall",
+  "geocoded_city": "Blue Rapids",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Big%20Blue%20River%20Kansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Big%20Blue%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Big%20Blue%20River%20Kansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1105,
+      "meters": 337
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:48:46.830Z"
+  },
+  "scraped_at": "2026-04-21T17:48:46.830Z",
+  "scrape_quality": "minimal"
+}

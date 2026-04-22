@@ -1,0 +1,60 @@
+{
+  "slug": "little-lucy-creek-tx",
+  "name": "Little Lucy Creek",
+  "lat": 31.158774,
+  "lng": -98.161201,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Lampasas County",
+  "city_slug": "lampasas-county",
+  "county": "Lampasas",
+  "county_slug": "lampasas",
+  "geocoded_city": "Lampasas County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Little%20Lucy%20Creek%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Little%20Lucy%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Little%20Lucy%20Creek%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1034,
+      "meters": 315
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:42:20.209Z"
+  },
+  "scraped_at": "2026-04-21T18:42:20.209Z",
+  "scrape_quality": "minimal"
+}

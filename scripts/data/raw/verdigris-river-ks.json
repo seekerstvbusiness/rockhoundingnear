@@ -1,0 +1,60 @@
+{
+  "slug": "verdigris-river-ks",
+  "name": "Verdigris River",
+  "lat": 37.657063,
+  "lng": -95.776252,
+  "state": "Kansas",
+  "state_slug": "kansas",
+  "state_code": "KS",
+  "city": "Wilson County",
+  "city_slug": "wilson-county",
+  "county": "Wilson",
+  "county_slug": "wilson",
+  "geocoded_city": "Wilson County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-kansas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Verdigris%20River%20Kansas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Verdigris%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Verdigris%20River%20Kansas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 831,
+      "meters": 253
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:50:37.218Z"
+  },
+  "scraped_at": "2026-04-21T17:50:37.218Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "red-shirt-sd",
+  "name": "Red Shirt",
+  "lat": 43.674132,
+  "lng": -102.899086,
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "state_code": "SD",
+  "city": "Oglala Lakota County",
+  "city_slug": "oglala-lakota-county",
+  "county": "Oglala Lakota",
+  "county_slug": "oglala-lakota",
+  "geocoded_city": "Red Shirt",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Red%20Shirt%20South%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Red%20Shirt",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Red%20Shirt%20South%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2669,
+      "meters": 813
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:47:37.574Z"
+  },
+  "scraped_at": "2026-04-21T17:47:37.574Z",
+  "scrape_quality": "minimal"
+}

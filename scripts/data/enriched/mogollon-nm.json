@@ -1,0 +1,108 @@
+{
+  "slug": "mogollon-nm",
+  "name": "Mogollon",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Mogollon",
+  "city_slug": "mogollon",
+  "county": "Catron",
+  "county_slug": "catron",
+  "lat": 33.38986,
+  "lng": -108.802233,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Jasper",
+    "Opal",
+    "Chalcedony"
+  ],
+  "short_description": "High-elevation BLM rockhounding in the Mogollon Range. Hunt for agate, quartz, and jasper specimens in this scenic mountain terrain near the historic mining town.",
+  "description": "Mogollon sits at 6,923 feet in the heart of the Mogollon Range, part of New Mexico's mineral-rich Black Range province. This BLM-managed area offers rockhounders the chance to search for silica-rich gemstones including agate, quartz varieties, jasper, and chalcedony in steep mountain terrain surrounded by ponderosa pine and mixed conifer forest.\n\nThe geological foundation here traces back to Tertiary volcanic activity and subsequent hydrothermal alteration that deposited quartz and chalcedony throughout fractures and seams. The higher elevation and cooler mountain climate preserve these mineral deposits better than lower desert regions, making Mogollon a productive site year-round for patient collectors.\n\nAccess is free on BLM land with no permit required. The 25 lb/day personal use limit applies. Expect steep slopes, rocky washes, and mixed terrain that rewards hikers willing to work. The historic mining heritage in the region means old prospects and outcrops are visible, though actual mining areas should be avoided.\n\nBest collecting occurs along drainage washes where erosion exposes fresh material, and on exposed hillsides where weathering has loosened specimens. The remoteness of the location means fewer collectors, but also requires careful planning and self-reliance.",
+  "history": "The Mogollon Range is part of the Basin and Range volcanic province shaped by intense Tertiary volcanism (35-25 million years ago) that produced extensive rhyolite and ash-flow tuffs. Silica-rich hydrothermal fluids associated with this volcanism precipitated quartz, chalcedony, and opal in veins and fractures throughout the range. Local mining activity in the late 1800s and early 1900s focused on silver and gold, but exposed many quartz-rich outcrops that remain productive for rockhounders today.",
+  "tips": "Search drainage washes and arroyos first, where running water has concentrated loose specimens and exposed new material in stream cuts. Look for banded agate in shades of white, gray, and rust - these often weather out of hillside slopes and collect in washes. Bring a 10x loupe to examine chalcedony for color zoning and translucency; specimens here range from opaque to semi-translucent. The high elevation means cooler temperatures and occasional afternoon thunderstorms even in summer - start early and leave by early afternoon.",
+  "terrain_notes": "Steep mountain terrain at 6,923 feet elevation with slopes exceeding 25-30 degrees in many areas. Vegetation includes ponderosa pine, Douglas fir, and Gambel oak. Rocky, uneven footing throughout with exposed ledges and loose talus common. Parking pullouts are limited; most collecting requires hiking 0.5 to 2 miles from vehicle access. Elevation gain/loss of 300-600 feet typical for productive collecting routes. Well-maintained boots strongly recommended.",
+  "best_season": "June - September. Higher elevation means winters bring snow and cold that restrict access November through March. Spring months can be muddy. Summer monsoon storms are possible but typically brief; July-August see occasional afternoon thunderstorms. June and September offer the best window with stable weather, comfortable temperatures in the 60s-70s, and minimal precipitation.",
+  "written_directions": "From Mogollon town center, head east on NM-35 approximately 2 miles. Look for BLM access roads and pullouts along the highway and side roads branching north and south. Popular collecting areas can be reached via unmarked dirt roads; GPS coordinates are essential. The steep terrain means high-clearance vehicles are helpful but not required for initial pullouts. Allow extra time for navigation - roads are not always clearly marked.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt and gravel roads, some washboard sections. High-clearance or AWD helpful but passenger vehicles can reach initial pullouts. Road maintenance varies seasonally.",
+  "parking_notes": "Informal pullouts along NM-35 and side roads. Limited capacity, typically 1-3 vehicles per location. No developed parking facilities; park respectfully off the roadway.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Respect private property boundaries - do not trespass. Avoid active mining claims and areas marked as off-limits. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo trespassing on private property\nAvoid active mining claims\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cliffs",
+    "abandoned_mines",
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Mogollon town (2 miles) has limited services including a general store. For full services (gas, restaurants, lodging), Silver City is 35 miles southwest.",
+  "accessibility_notes": "Steep mountain terrain with uneven, rocky footing. No wheelchair access. Requires hiking ability and sturdy footwear. Elevation of 6,923 feet may affect those sensitive to altitude. Parking pullouts are generally accessible, but collecting sites require 0.5-2 mile hikes over rough terrain.",
+  "alternative_names": [
+    "Mogollon Range",
+    "Black Range"
+  ],
+  "nearest_city": "Mogollon",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/mogollon-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/mogollon-nm/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Mogollon, New Mexico?",
+      "answer": "The primary gemstones found at Mogollon include banded agate, quartz varieties (smoky quartz and clear quartz), jasper, chalcedony, and occasionally opal. Specimens range from small tumble-quality pieces to larger display-worthy sections. The agate here typically shows white, gray, and rust-brown banding and weathers out of hillsides in the mountain terrain."
+    },
+    {
+      "question": "Do I need a permit to rockhound on BLM land near Mogollon?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Mogollon. Personal use collection is free and open to the public. You must follow the 25 lb/day limit per FLPMA, collect only for personal use (no commercial sale), and avoid motorized excavation."
+    },
+    {
+      "question": "What is the best season for rockhounding at Mogollon, New Mexico?",
+      "answer": "June through September is optimal. The high elevation (6,923 feet) means winter brings snow and cold that restrict access. Summer monsoons can produce brief afternoon thunderstorms, but June and September offer stable weather, comfortable 60s-70s temperatures, and the best collecting conditions."
+    },
+    {
+      "question": "Is Mogollon rockhounding suitable for beginners and families with kids?",
+      "answer": "Yes, Mogollon is beginner and family-friendly. The steep terrain is moderate difficulty, suitable for kids 8 and older with hiking experience. BLM land is free access with no permits. Start with pullouts near NM-35 before attempting longer hikes into steeper terrain, and bring plenty of water and sun protection."
+    },
+    {
+      "question": "How far is Mogollon from Silver City, and what supplies should I bring?",
+      "answer": "Mogollon is approximately 35 miles northeast of Silver City, New Mexico. Cell service is spotty, so bring a map and GPS. Supplies are very limited in Mogollon proper; stock up in Silver City. Bring water, sun protection, sturdy hiking boots, a small hammer or pick, a 10x loupe, and containers for specimens."
+    },
+    {
+      "question": "Can I take my dog rockhounding at Mogollon?",
+      "answer": "Yes, dogs are allowed on BLM land at Mogollon. The steep mountain terrain and rocky terrain may be challenging for older dogs or those not used to hiking. Bring extra water for your pet, watch for wildlife including snakes, and keep your dog under control around loose rock and steep slopes."
+    }
+  ],
+  "meta_title": "Mogollon Rockhounding - Find Agate & Quartz in NM",
+  "meta_description": "Free BLM rockhounding near Mogollon, NM. Hunt agate, quartz, and jasper at 6,923 ft elevation. No permit required, 25 lb/day limit. June-September best.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from typical geology of Mogollon Range)",
+    "history (geological formation based on Basin and Range volcanism)",
+    "best_season (inferred from high elevation climate)",
+    "hazards (abandoned_mines based on historical mining activity in region)",
+    "cell_service (spotty - typical for remote NM mountain areas)",
+    "remoteness_rating (4 - estimated based on distance from major towns and road conditions)"
+  ],
+  "enriched_at": "2026-04-22T09:50:38.327Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:24.014Z"
+}

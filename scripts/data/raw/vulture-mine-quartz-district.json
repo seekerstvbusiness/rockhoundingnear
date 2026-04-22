@@ -1,0 +1,106 @@
+{
+  "slug": "vulture-mine-quartz-district",
+  "name": "Vulture Mine Quartz District",
+  "lat": 33.8734,
+  "lng": -112.8901,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": "Wickenburg",
+  "city_slug": "wickenburg",
+  "county": "Maricopa",
+  "county_slug": "maricopa",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/vulture-mine-quartz-district"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Vulture%20Mine%20Quartz%20District%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Vulture%20Mine%20Quartz%20District",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Vulture%20Mine%20Quartz%20District%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2577,
+      "meters": 785
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Sun City West",
+      "distance_mi": 34,
+      "population": 25806
+    },
+    "roads": [
+      {
+        "name": "North Vulture Mine Road",
+        "ref": null,
+        "type": "secondary",
+        "dist": 4
+      },
+      {
+        "name": "North Vulture Mine Road",
+        "ref": null,
+        "type": "secondary",
+        "dist": 5.2
+      },
+      {
+        "name": "South Vulture Mine Road",
+        "ref": null,
+        "type": "secondary",
+        "dist": 6.2
+      },
+      {
+        "name": "North Vulture Mine Road",
+        "ref": null,
+        "type": "secondary",
+        "dist": 7.7
+      }
+    ],
+    "water_features": [
+      {
+        "name": "Syndicate Wash",
+        "type": "stream",
+        "dist": 4.4
+      },
+      {
+        "name": "Twin Peaks Wash",
+        "type": "stream",
+        "dist": 5.4
+      },
+      {
+        "name": "Hartman Wash",
+        "type": "stream",
+        "dist": 6.1
+      }
+    ],
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T05:39:13.181Z"
+  },
+  "scraped_at": "2026-04-21T05:39:13.221Z",
+  "scrape_quality": "partial"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "sweet-id",
+  "name": "Sweet",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Gem County Area",
+  "city_slug": "gem-county",
+  "county": "Gem",
+  "county_slug": "gem",
+  "lat": 44.033515,
+  "lng": -116.310213,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz",
+    "Jasper"
+  ],
+  "short_description": "BLM public land in central Idaho offering easy rockhounding for agate and chalcedony. Free access with simple collection rules makes this an excellent beginner site near Gem County.",
+  "description": "Sweet is a public BLM rockhounding site located in Gem County, Idaho, at moderate elevation of 2,921 feet. This location sits within Idaho's productive agate and chalcedony belt, where volcanic activity during the Tertiary period created silica-rich deposits that weathered into collectible specimens. The terrain features gentle slopes and accessible collecting areas ideal for families and beginners seeking quality agates without the cost of commercial dig sites.\n\nThe site's geology reflects classic Basin and Range mineralization, with ancient lava flows and hydrothermal activity depositing chalcedony and agate in fractures and cavities. Collectors typically find specimens ranging from small nodules to larger pieces suitable for display or cutting. The open BLM land format means you're free to explore and search across the property within the regulations.\n\nAccess is straightforward - no permits required and no fees charged. The gentle slope terrain makes walking and searching comfortable for most skill levels. Peak collecting season runs through late spring and early fall when weather is mild. Many rockhounders visit this area as part of a broader exploration of Gem County's producing zones.\n\nBring basic tools like a crack hammer, chisel, and small backpack to haul specimens. Water and sun protection are essential even at this elevation during warm months. The site rewards careful surface searching and selective digging in weathered areas where nodules naturally weather free.",
+  "history": "This area sits within the Tertiary volcanic and hydrothermal belt that characterizes central Idaho's geology. Miocene-age silica-rich fluids precipitated within cooling lava flows and associated fracture systems, creating the agate and chalcedony deposits found here today. The gentle erosion and weathering of these volcanic strata over millions of years has naturally exposed collectible specimens on the surface.",
+  "tips": "Search hillside gullies and wash bottoms where water erosion naturally exposes and collects heavier agate nodules. Look for white, tan, red, and banded specimens ranging from marble-sized to fist-sized - these weather free from host rock. Use a 2-3 pound crack hammer to carefully test weathered edges of outcrop exposures; avoid digging into solid bedrock. Pack out all waste material and mark any hazardous holes to protect other users.",
+  "terrain_notes": "Gentle slopes with sagebrush and scattered ponderosa pine at 2,921 feet elevation. Footing is stable on compacted soil with scattered loose rock typical of high desert terrain. Walking distance from parking to productive collecting areas is generally short to moderate, under one mile. The terrain is rocky but not steep, making it suitable for most hikers with basic fitness.",
+  "best_season": "April - June, September - November. Spring and fall provide mild temperatures ideal for extended searching. Summer heat can be intense at this elevation, and winter snow may limit access.",
+  "written_directions": "From Emmett, Idaho (nearest town with full services), take ID 16 east toward Donnelly for approximately 12 miles. Continue on local roads toward the Gem County BLM lands. GPS coordinates 44.033515, -116.310213 mark the Sweet area. Look for BLM boundary markers and open land access points. Passenger vehicles can reach nearby parking areas on improved dirt roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt road to parking area, generally passable year-round in dry conditions. Some washboard surface possible.",
+  "parking_notes": "Informal pullouts and parking areas typical of BLM land access. Space for 2-4 vehicles at main access points.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect only loose material and naturally weathered specimens. Leave the site clean and restore any disturbed areas.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day\nNo commercial collection\nNo motorized excavation\nNo digging into bedrock\nLeave site clean\nFill in any holes created",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock"
+  ],
+  "nearest_services": "Emmett, Idaho, approximately 15-18 miles northwest. Full services including gas, food, water, and supplies available.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers with basic fitness. Unpaved dirt roads lead to parking areas. Sturdy hiking shoes or boots recommended for rocky footing. No wheelchair access to productive collecting areas. Shaded rest areas available under scattered pines.",
+  "alternative_names": [],
+  "nearest_city": "Emmett",
+  "nearest_city_distance": 16,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/sweet-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of gems can you find rockhounding at Sweet, Idaho?",
+      "answer": "Sweet is known for agate, chalcedony, jasper, and quartz specimens. Most collectors find banded and solid-colored agates ranging from marble to fist-sized, plus translucent chalcedony pieces suitable for cutting or display. The volcanic geology of Gem County produced excellent quality material."
+    },
+    {
+      "question": "Is rockhounding at Sweet free and do you need a permit?",
+      "answer": "Yes, rockhounding at Sweet is completely free. It's public BLM land with no permit required for personal use collecting. You only need to follow the 25-pound daily collection limit and standard BLM regulations for public land use."
+    },
+    {
+      "question": "What's the best season to go rockhounding at Sweet near Gem County?",
+      "answer": "The best seasons are April through June and September through November. Spring and fall offer mild temperatures perfect for extended searching. Summer can be hot and dry, while winter snow may block access to the site."
+    },
+    {
+      "question": "Is Sweet a good beginner rockhounding location in Idaho?",
+      "answer": "Absolutely. Sweet is ideal for beginners and families. The terrain is gentle, access is easy without permits, and specimens are accessible on the surface. You can find quality agates without special tools or expertise, making it perfect for learning basic rockhounding skills."
+    },
+    {
+      "question": "What tools and supplies do you need to rockhound at Sweet?",
+      "answer": "Bring a 2-3 pound crack hammer, cold chisel, small backpack, water bottle, sun protection, and sturdy hiking boots. A field bag to carry specimens is helpful. Snacks are optional but recommended given the distance from town services."
+    },
+    {
+      "question": "How far is Sweet from Emmett and what rockhounding sites are nearby?",
+      "answer": "Sweet is approximately 16 miles east of Emmett, Idaho. Gem County has numerous other producing agate and chalcedony locations on public and fee land, making it an excellent destination for multi-day rockhounding trips exploring the region's volcanic mineral deposits."
+    }
+  ],
+  "meta_title": "Sweet Rockhounding - Agate Hunting in Idaho BLM",
+  "meta_description": "Free BLM rockhounding for agate, chalcedony, and quartz near Gem County, Idaho. No permit required. Perfect for beginners. Open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "written_directions",
+    "parking_notes",
+    "road_conditions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T09:27:08.632Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:28:36.699Z"
+}

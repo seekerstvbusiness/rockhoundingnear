@@ -1,0 +1,60 @@
+{
+  "slug": "pannell-ridge-tn",
+  "name": "Pannell Ridge",
+  "lat": 35.530021,
+  "lng": -86.385544,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Bedford County",
+  "city_slug": "bedford-county",
+  "county": "Bedford",
+  "county_slug": "bedford",
+  "geocoded_city": "Bedford County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Pannell%20Ridge%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Pannell%20Ridge",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Pannell%20Ridge%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 990,
+      "meters": 302
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:20:53.471Z"
+  },
+  "scraped_at": "2026-04-21T18:20:53.471Z",
+  "scrape_quality": "minimal"
+}

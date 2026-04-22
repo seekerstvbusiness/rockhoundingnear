@@ -1,0 +1,101 @@
+{
+  "slug": "lincoln-hill-nv",
+  "name": "Lincoln Hill",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Lovelock",
+  "city_slug": "lovelock",
+  "county": "Pershing",
+  "county_slug": "pershing",
+  "lat": 40.292256,
+  "lng": -118.212178,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Free BLM rockhounding site near Lovelock featuring agate and chalcedony specimens. Located at 5746 ft elevation with moderate terrain and easy vehicle access.",
+  "description": "Lincoln Hill is a popular public BLM rockhounding location in Pershing County, Nevada, offering accessible collecting opportunities for both beginners and experienced rockhounders. The site sits at 5746 feet elevation on lands managed by the Nevada Bureau of Land Management, where recreational mineral collecting is permitted under federal guidelines. Collectors frequently find quality agate, chalcedony, jasper, and quartz specimens scattered across the moderate slopes and washes typical of the high desert terrain.\n\nThe geological setting reflects Nevada's Basin and Range province geology, where ancient volcanic and hydrothermal activity deposited silica-rich fluids and minerals throughout the region. Lincoln Hill's rocks formed during Tertiary-era geological processes that created abundant secondary mineralization. The agate and chalcedony deposits here are characteristic of the silica-rich environments that defined much of north-central Nevada's mineral evolution.\n\nTerrain at Lincoln Hill features moderate slopes with sandy and rocky footing, making it suitable for collectors of varying experience levels. The elevation keeps temperatures relatively mild during spring and fall months. Most productive collecting occurs in exposed washes, erosional areas, and around rock outcrops where weathering naturally exposes fresh material. The open terrain allows easy scanning for colorful specimens.\n\nAs a BLM public land site, Lincoln Hill requires no permits and involves no fees, making it an economical choice for desert rockhounding. Collectors should plan to bring standard tools such as small hammers, chisels, and collecting bags. The moderate slope and elevation mean good visibility across the landscape, allowing efficient searching for the characteristic banded and translucent stones this area produces.",
+  "history": "Lincoln Hill sits within the Basin and Range province where Tertiary-era volcanic and hydrothermal activity deposited silica-rich fluids that formed the agate, chalcedony, and jasper specimens found here today. The region's geological history of crustal extension and mineralization created ideal conditions for secondary silicate development throughout northern Nevada.",
+  "tips": "Search the main washes and erosional gullies where water action has exposed fresh material and concentrated heavier stones. Look for semi-translucent chalcedony and agate showing white, gray, or rust-colored banding, often palm-sized or smaller. Bring a small sledgehammer and chisel to work exposed outcrops and test rock quality before collecting. Early morning collecting provides better visibility and cooler temperatures on the moderate slopes.",
+  "terrain_notes": "Moderate slopes at 5746 ft elevation with mixed sandy and rocky footing. Sparse high desert vegetation including sagebrush and low shrubs. Washes provide easier walking and concentrated collecting opportunities. Most productive areas lie within 0.5 to 1.5 miles of parking. Terrain requires sturdy boots but is suitable for reasonably fit hikers.",
+  "best_season": "October - April. Mild daytime temperatures, morning frost adds visual contrast to specimens, and reduced summer heat makes extended collecting sessions comfortable. Winter storms can create newly exposed material in washes.",
+  "written_directions": "From Lovelock, take NV-399 (Battle Mountain Road) southeast approximately 18 miles toward the high desert. Continue on county roads and 4WD trails heading northeast into the Lincoln Hill area. Contact the Winnemucca BLM Field Office for current road conditions and specific access points, as routes may vary seasonally. GPS coordinates 40.292256, -118.212178 mark the approximate site center. Allow 45 minutes to 1 hour drive time from Lovelock depending on road conditions.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Unimproved dirt and wash crossings typical of BLM access roads. High-clearance or all-wheel-drive vehicle recommended, especially after rain. Some rocky sections and potential wash crossings. Road maintenance varies seasonally.",
+  "parking_notes": "Informal pullouts and parking areas along access roads. No developed parking lot. Space for 3-5 vehicles at typical stopping points. Parking is first-come, first-served.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or powered tools. Dig only exposed material; do not blast or create large excavations. Pack out all trash. Respect any posted closures or environmental restrictions.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or powered tools\nDig only exposed material; no blasting or large excavations\nPack out all trash\nRespect posted closures and environmental restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Lovelock, Nevada approximately 18-25 miles west. Full services including gas stations, restaurants, motels, and grocery stores. Water and restrooms available in town.",
+  "accessibility_notes": "Moderate slopes and uneven rocky terrain with no wheelchair access. Sparse sagebrush offers minimal shade. Sturdy footwear with good ankle support essential. Terrain requires reasonable fitness and mobility. Not suitable for limited mobility visitors.",
+  "alternative_names": [],
+  "nearest_city": "Lovelock",
+  "nearest_city_distance": 22,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/lincoln-hill-nv/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gems and minerals can I find at Lincoln Hill near Lovelock, Nevada?",
+      "answer": "Lincoln Hill is known for high-quality agate, chalcedony, jasper, and quartz specimens. Most finds are hand-sized with characteristic white, gray, rust, and brown banding typical of Basin and Range mineralization. Semi-translucent chalcedony and banded agate are the most commonly collected specimens here."
+    },
+    {
+      "question": "Is rockhounding at Lincoln Hill free, or do I need to pay a fee?",
+      "answer": "Lincoln Hill is located on Nevada BLM public land where recreational rockhounding is completely free. No permits, fees, or advance registration is required. You can collect under the 25-pound-per-day personal use limit established by federal land management regulations."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Lincoln Hill, Nevada?",
+      "answer": "October through April is ideal. Daytime temperatures range from cool to mild, morning frost makes specimens visually distinct, and you avoid summer heat that can exceed 95 degrees. Winter rains also expose fresh material in washes, improving collecting success."
+    },
+    {
+      "question": "Can I bring my family and kids to rockhound at Lincoln Hill?",
+      "answer": "Yes, Lincoln Hill is family-friendly and suitable for kids ages 8 and up. The moderate terrain is manageable for families with reasonable fitness, dogs are welcome, and no special permits are needed. The open landscape allows kids to search for colorful specimens while staying visible to parents."
+    },
+    {
+      "question": "What tools and equipment should I bring for rockhounding at Lincoln Hill?",
+      "answer": "Bring a small sledgehammer, chisel, and cold chisel for working exposed rock. Pack collecting bags, a backpack with water, sun protection, and sturdy boots with good ankle support. A small handheld pick or pry bar helps extract specimens from washes. High-clearance or 4WD-capable vehicle is necessary for road access."
+    },
+    {
+      "question": "How far is Lincoln Hill from Lovelock, and what are road conditions like?",
+      "answer": "Lincoln Hill is approximately 18-22 miles southeast of Lovelock, Nevada. Access requires driving unimproved BLM dirt roads and potential wash crossings. An all-wheel-drive or high-clearance vehicle is strongly recommended. The drive takes 45 minutes to 1 hour depending on conditions. Contact the Winnemucca BLM Field Office for seasonal road status before visiting."
+    }
+  ],
+  "meta_title": "Lincoln Hill Rockhounding - Nevada Agate & Chalcedony",
+  "meta_description": "Free BLM rockhounding at Lincoln Hill, Nevada. Find agate, chalcedony, and quartz. No permit needed. Moderate terrain near Lovelock. Family friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "vehicle_required",
+    "road_conditions",
+    "parking_notes",
+    "remoteness_rating"
+  ],
+  "enriched_at": "2026-04-22T09:27:31.014Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:23.439Z"
+}

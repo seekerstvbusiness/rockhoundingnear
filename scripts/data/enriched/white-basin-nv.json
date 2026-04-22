@@ -1,0 +1,103 @@
+{
+  "slug": "white-basin-nv",
+  "name": "White Basin",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Las Vegas",
+  "city_slug": "las-vegas",
+  "county": "Clark",
+  "county_slug": "clark",
+  "lat": 36.35019,
+  "lng": -114.589389,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Agate",
+    "Jasper",
+    "Calcite"
+  ],
+  "short_description": "BLM public land near Las Vegas offering free rockhounding for quartz, chalcedony, and agate specimens. No permit required, 25 lb daily limit on personal use collection.",
+  "description": "White Basin is an accessible BLM rockhounding site in Clark County, Nevada, located in the Mojave Desert basin-and-range geology typical of southern Nevada. The area offers free public rockhounding on BLM-managed land with no permit required, making it an excellent destination for rockhounds of all experience levels. The site is known for quartz and chalcedony specimens, along with agate and jasper fragments scattered across the desert floor and exposed in small washes.\n\nThe geology of White Basin reflects the extensive silica-rich mineralization common to the Great Basin region. During the Tertiary period, volcanic activity and subsequent hydrothermal alteration created abundant quartz veining and silica deposits throughout this area. The exposed desert pavement and weathered hillsides frequently reveal white and milky quartz crystals, banded chalcedony, and colorful jasper pieces that have weathered from larger primary deposits.\n\nVisitors should expect a desert environment with sparse vegetation, rocky terrain, and excellent visibility for spotting specimens. The basin layout makes it relatively easy to scan large areas for collectible material. Early morning or late afternoon collection yields the best viewing conditions due to the angle of sunlight across the rocky slopes.\n\nAs a BLM site, White Basin follows standard recreational collecting regulations: personal use only, maximum 25 pounds per day, and no commercial operations. The terrain is generally walkable but requires sturdy footwear due to sharp rock fragments. Water, supplies, and services are available in Las Vegas, approximately 30-40 miles away.",
+  "history": "White Basin sits within the Basin and Range physiographic province, formed during Tertiary extension when tectonic forces stretched the crust and created alternating fault-bounded basins and mountain ranges. Miocene-age silica-rich hydrothermal fluids percolated through fractured rocks, precipitating abundant quartz veins and microcrystalline silica deposits that weather and scatter across the desert surface today, creating the secondary quartz and chalcedony specimens rockhounds find here.",
+  "tips": "Search the small washes and bajadas (alluvial slopes) where eroded quartz and chalcedony fragments accumulate - white and milky quartz will reflect sunlight even in shadow. Use a hand lens to identify banded chalcedony and distinguish quality specimens from common quartz before filling your bag; focus on translucent pieces rather than opaque white material for better display quality. Bring a small backpack and sturdy digging bar to probe soft desert soil around outcropping quartz veins - many specimens are partially buried and easily freed with light leverage.",
+  "terrain_notes": "White Basin elevation ranges from 3,200 to 3,600 feet. Terrain consists of desert bajadas with sparse creosote bush and yucca, rocky hillsides with exposed quartz outcrops, and small ephemeral washes. Walking distances from parking are typically 0.5 to 2 miles across relatively flat to gently sloping desert floor with scattered rocks and sharp desert pavement. Footing is uneven and rocky; expect loose cobbles and sharp silica-rich gravel that can be hazardous to ankles.",
+  "best_season": "October - April. Southern Nevada desert heat becomes dangerous from May through September, with temperatures regularly exceeding 110 degrees Fahrenheit. Cool fall through spring weather makes daylong rockhounding pleasant and safe.",
+  "written_directions": "From Las Vegas, take US 95 north approximately 20 miles toward Indian Springs. Watch for BLM access points and informal pullouts on the east side of the highway near mile marker 90. White Basin is accessed via secondary unpaved desert roads; high-clearance or four-wheel-drive vehicles are recommended for full access to productive areas. Alternatively, park at public pullouts along US 95 and walk east into the basin. Detailed local knowledge or GPS coordinates are essential for locating the most productive collecting zones.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved highway (US 95) to site; unpaved dirt roads and wash crossings in basin. Standard passenger vehicles can access main pullouts, but high-clearance or 4WD recommended for deeper access. Washboard roads common after rain.",
+  "parking_notes": "Informal pullouts along US 95 and scattered BLM parking areas throughout the basin. No developed facilities. Capacity varies from 2-3 vehicles at small pullouts to 10-15 at larger turnouts. No fees or reservations.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection, sale, or export of specimens. No motorized excavation or heavy equipment. No removal of archaeological or paleontological resources. Respect all mining claims and private land boundaries. Leave the land as you found it.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nRespect mining claims\nNo archaeological or fossil removal",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "snakes",
+    "remote"
+  ],
+  "nearest_services": "Las Vegas, Nevada - 30-40 miles south. Full services including gas, food, water, and lodging. Indian Springs has limited services approximately 20 miles north.",
+  "accessibility_notes": "Relatively flat desert terrain accessible to most hikers from parking pullouts. Main collecting areas lie 0.5-2 miles from parking via uneven rocky ground. No wheelchair access. Sparse vegetation provides minimal shade. Sharp desert pavement and loose rocks require sturdy, closed-toe hiking footwear. Not suitable for limited mobility due to distance and uneven footing.",
+  "alternative_names": [],
+  "nearest_city": "Las Vegas",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/white-basin-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/white-basin-nv/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/white-basin-nv/mineral-2-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/white-basin-nv/mineral-3-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at White Basin near Las Vegas?",
+      "answer": "White Basin is known for quartz, chalcedony, agate, and jasper specimens. The most common finds are milky and white quartz crystals and fragments, translucent chalcedony pieces, and occasional banded agate and jasper material scattered across the desert floor and in small washes."
+    },
+    {
+      "question": "Do I need a permit to rockhound at White Basin, Nevada?",
+      "answer": "No permit is required. White Basin is BLM public land open for free recreational rockhounding under the Federal Land Policy and Management Act (FLPMA). You only need to follow the 25-pound daily limit and personal use rules."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at White Basin?",
+      "answer": "October through April is ideal. Southern Nevada's desert heat becomes dangerous May-September with temperatures exceeding 110 degrees. Fall through spring provides comfortable daytime temperatures for spending several hours searching for specimens."
+    },
+    {
+      "question": "How far is White Basin rockhounding site from Las Vegas?",
+      "answer": "White Basin is approximately 30-40 miles north of Las Vegas, accessible via US 95 toward Indian Springs. Drive time is about 45 minutes to an hour depending on which access point you choose along the highway."
+    },
+    {
+      "question": "Is White Basin rockhounding site beginner-friendly and suitable for families?",
+      "answer": "Yes, White Basin is very beginner-friendly. The terrain is relatively flat, no permit is needed, and specimens are accessible without special equipment or experience. Children ages 6 and up can participate, though younger children should stay close to adults due to sparse shade and desert heat hazards."
+    },
+    {
+      "question": "What tools and supplies should I bring rockhounding at White Basin?",
+      "answer": "Bring sturdy closed-toe hiking boots, a small hand lens or magnifier to identify quality specimens, a backpack for carrying found material, a small digging bar or pry bar to extract partially buried pieces, sun protection (hat, sunscreen, sunglasses), and 2-3 liters of water per person. The site has no shade or facilities."
+    }
+  ],
+  "meta_title": "White Basin Rockhounding - Free BLM Near Las Vegas",
+  "meta_description": "Find quartz, chalcedony, and agate at White Basin, free BLM rockhounding site near Las Vegas. No permit required. Best October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - inferred from proximity to US 95 and general basin geography; specific access roads not provided in source data",
+    "nearest_services - estimated distance to Las Vegas based on GPS coordinates",
+    "parking_notes - inferred as informal BLM pullouts; no source specified detailed parking infrastructure",
+    "cell_service - rated as spotty based on remote desert location in Clark County; no specific carrier data provided"
+  ],
+  "enriched_at": "2026-04-22T06:44:49.297Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:00.093Z"
+}

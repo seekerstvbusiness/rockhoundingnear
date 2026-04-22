@@ -1,0 +1,95 @@
+{
+  "slug": "victor-mine-ca",
+  "name": "Victor Mine",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Funner",
+  "city_slug": "funner",
+  "county": "San Diego",
+  "county_slug": "san-diego",
+  "lat": 33.264189,
+  "lng": -116.939199,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "BLM public land near Funner offering recreational rockhounding for quartz, feldspar, and mica specimens. Gentle slopes and accessible terrain make this a moderate collecting site in San Diego County.",
+  "description": "Victor Mine is a public BLM rockhounding site located in the foothills east of Funner in San Diego County. The site sits at approximately 1,310 feet elevation on gently sloping terrain, making it accessible to rockhounds of varying experience levels. The area is part of the Peninsular Ranges geologic province, where Mesozoic and Cenozoic igneous activity created granite and pegmatite formations rich in quartz, feldspar, and mica minerals.\n\nThe gentle slopes and rocky outcrops provide excellent opportunities to search for quartz crystals, feldspar specimens, and mica sheets in weathered granite formations. The terrain is relatively open with scattered boulders and exposed bedrock, allowing good visibility for spotting specimens. Most collectors focus on the wash areas and hillside outcrops where erosion has exposed fresh material.\n\nAs BLM public land, Victor Mine is free to access under recreational use guidelines. There are no permits required, making this an ideal location for casual rockhounders and families new to the hobby. The moderate difficulty rating reflects the need for sturdy footwear and some scrambling over rocky terrain, though the overall accessibility is good compared to more remote sites.\n\nBest collecting occurs after seasonal rains when erosion has exposed fresh specimens and cleaned existing surfaces. The site can be productive year-round but is most comfortable during the cooler months from October through April when heat is not a concern.",
+  "history": "Victor Mine sits within the Peninsular Ranges batholith, a massive granitic intrusion formed during Mesozoic-Cenozoic subduction of the Farallon Plate beneath the North American continent. The granite and pegmatite formations here contain quartz, feldspar, and mica crystals that formed as the magma slowly cooled, and subsequent weathering has exposed these minerals on hillsides and in washes where collectors can find them today.",
+  "tips": "Focus your search in the sandy washes and along exposed granite outcrops where weathering has exposed quartz and feldspar crystals. Bring a 5-gallon bucket and small hammer to carefully extract specimens from decomposing granite - the feldspar often separates cleanly from the host rock. Look for milky quartz crystals and tan to pink feldspar faces on the hillsides; mica sheets can be found in weathered pegmatite patches, particularly where the granite shows coarse crystal structure.",
+  "terrain_notes": "Elevation 1,310 feet with gentle slopes throughout the site. Rocky terrain with scattered boulders, exposed granite outcrops, and sandy washes. Vegetation is typical Sonoran Desert scrub with scattered shrubs and small trees. Walking distance from parking areas is typically under one mile to productive collecting zones. Footing is generally stable but requires sturdy footwear due to rocky surface and occasional loose material.",
+  "best_season": "October - April. The San Diego County lowlands experience hot, dry summers (regularly exceeding 95 degrees Fahrenheit) that make midday collecting uncomfortable and increase heat-related hazards. Fall through spring offers mild temperatures, occasional rains that expose fresh specimens, and the most pleasant collecting conditions.",
+  "written_directions": "From Funner, head east on the local roads toward the foothills. Victor Mine is accessible via dirt roads that branch from the Anza-Borrego region approach. GPS coordinates 33.264189, -116.939199 will guide you to the site. Expect unpaved roads suitable for most vehicles in dry conditions, though high clearance may be beneficial after rain. Check locally for current road conditions before visiting, as seasonal washouts can occur.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved dirt road, generally passable for standard vehicles in dry conditions. High clearance recommended after rain. Road may be rough with washboard texture.",
+  "parking_notes": "Informal pullout areas near collecting zones. No developed parking lot; park off the main dirt road in designated or previously used areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or power tools. Collect only from loose material and weathered surfaces; do not break into solid rock formations or use explosives.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo power tools or explosives\nCollect from loose material only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Funner is approximately 10 miles west with limited services. Julian, about 20 miles northeast, offers gas, food, water, and supplies.",
+  "accessibility_notes": "Uneven rocky terrain with loose material and scattered boulders. No wheelchair access. Sturdy hiking boots or work boots strongly recommended. The gentle overall slope makes this moderate difficulty rather than hard - most people with basic fitness can manage the terrain, though scrambling over rocks is necessary.",
+  "alternative_names": [],
+  "nearest_city": "Funner",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/victor-mine-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Victor Mine near Funner?",
+      "answer": "Victor Mine is known for quartz crystals, feldspar specimens, and mica sheets. The site's granite and pegmatite formations produce milky and clear quartz, tan to pink feldspar, and thin mica flakes that can be found in washes and along exposed rock outcrops."
+    },
+    {
+      "question": "Is rockhounding free at Victor Mine, and do you need a permit?",
+      "answer": "Yes, rockhounding is completely free at Victor Mine. It is BLM public land with no permit requirement for recreational collecting. You can collect up to 25 lbs per day per FLPMA regulations at no cost."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Victor Mine in San Diego County?",
+      "answer": "October through April is ideal. San Diego County lowlands get very hot in summer, often exceeding 95 degrees Fahrenheit. Fall through spring offers mild temperatures, occasional rains that expose fresh specimens, and the most comfortable collecting conditions."
+    },
+    {
+      "question": "How difficult is rockhounding at Victor Mine for beginners and families?",
+      "answer": "Victor Mine is beginner and family-friendly. The terrain is on gentle slopes at 1,310 feet elevation with relatively good accessibility. While the rocky surface requires sturdy footwear and some scrambling, it does not demand advanced hiking skills. Kids ages 8 and up can typically manage the site comfortably."
+    },
+    {
+      "question": "What tools and supplies should you bring for collecting at Victor Mine?",
+      "answer": "Bring sturdy hiking or work boots, a 5-gallon bucket, a small hammer, a chisel, gloves, sunscreen, and plenty of water. A headlamp is useful if collecting late in the day. Avoid power tools and excavation equipment, which are not permitted on BLM land."
+    },
+    {
+      "question": "Are there hazards to watch for when rockhounding at Victor Mine?",
+      "answer": "Main hazards include intense heat during summer months, sharp edges on quartz and feldspar fragments, loose rock underfoot, and occasional wildlife. Wear protective gloves, sturdy boots, and bring adequate water. Visit during cooler months to minimize heat risk."
+    }
+  ],
+  "meta_title": "Victor Mine Rockhounding - California",
+  "meta_description": "Free BLM rockhounding at Victor Mine near Funner. Find quartz, feldspar, and mica. No permit required, 25 lbs daily limit. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_services",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-21T19:32:44.255Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:35:54.586Z"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "american-bar-mt",
+  "name": "American Bar",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Old Weiss and French Place",
+  "city_slug": "lewis-and-clark-county",
+  "county": "Lewis and Clark",
+  "county_slug": "lewis-and-clark",
+  "lat": 46.813057,
+  "lng": -111.929225,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "Free BLM rockhounding site near the Missouri River offering agate and chalcedony specimens. Gentle terrain with easy access for collectors of all skill levels.",
+  "description": "American Bar is a public BLM rockhounding location in Lewis and Clark County, Montana, positioned along the gentle slopes above the Missouri River drainage. This site provides free access to collectors seeking quality agate and chalcedony specimens typical of the region's Cretaceous and Tertiary deposits. The area's modest elevation of 3671 feet and gentle slope make it accessible to most rockhounders without requiring specialized climbing or technical skills. The location sits within Montana's productive agate-bearing region, where historical alluvial and colluvial processes have concentrated silica-rich minerals in accessible surface deposits. Collectors often find well-formed agates weathering out of hillside material and exposed washes, with colors ranging from white and gray to occasional banded specimens. The nearby Missouri River has long been central to regional mining and prospecting history, and American Bar reflects the broader mineral-rich character of the Clark Fork and Missouri River corridors. This is an ideal destination for beginners and families exploring Montana rockhounding without permit fees or equipment requirements.",
+  "history": "The American Bar locality sits within the northern Montana Basin and Range province, where Cretaceous sedimentary formations and Tertiary volcanic activity deposited silica-rich minerals. Alluvial and colluvial weathering along the Missouri River drainage has concentrated agate and chalcedony nodules in accessible surface positions over millions of years, creating the prolific collecting conditions found here today.",
+  "tips": "Search the gentle hillsides and wash bottoms where rainfall erosion exposes agate nodules in tan and gray matrix material; focus on areas with visible white or banded stone fragments. Bring a geologist's hammer or small pry bar to crack open weathered nodules - many specimens are partially exposed but require light percussion to extract cleanly. Look for the subtle waxy luster and translucent edges characteristic of quality agate rather than plain chalky quartz. Best results come from visiting after spring runoff when fresh material is exposed in drainages and hillside cuts.",
+  "terrain_notes": "Elevation 3671 feet on gentle slopes typical of foothills terrain. The site features rolling hills with sagebrush scrub and scattered exposed rock outcrops. Walking distance from parking is typically short (under 1 mile), with uneven but manageable footing. No significant elevation change required for productive collecting areas. Loose rock and uneven surface are minor concerns but suitable for most hikers in reasonable fitness.",
+  "best_season": "May - September. Spring through early fall offers the most pleasant weather, with dry conditions ideal for hillside and wash exploration. Winter snow and spring mud make access difficult; late summer heat is manageable at this elevation.",
+  "written_directions": "From Helena, take US 191 north toward Canyon Creek for approximately 25 miles. The American Bar location is accessed via local roads near Old Weiss and French Place in the Missouri River drainage area. Follow local signage toward the Missouri River access points. A high-clearance vehicle is recommended for final approach roads, which may be rough and seasonal. Contact the BLM Butte District office or local rockhounding clubs for current road conditions and specific parking coordinates.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved approach roads, potentially rough or seasonal. High-clearance vehicle recommended for final miles to parking area.",
+  "parking_notes": "Limited pullout parking along access road. Space for 2-3 vehicles. No formal lot or amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. All collectors must pack out trash and leave no disturbance.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nPack out all trash\nNo disturbance to vegetation or structures",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Helena, Montana approximately 25 miles south. Gas, food, water, and supplies available in Helena.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Unpaved road to parking area requires high-clearance vehicle but terrain itself involves minimal elevation change. Sturdy footwear recommended for uneven rocky ground. No wheelchair access to productive collecting areas.",
+  "alternative_names": [],
+  "nearest_city": "Helena",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/american-bar-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/american-bar-mt/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What kind of agates and minerals can I find at American Bar in Montana?",
+      "answer": "American Bar is known for quality agate and chalcedony specimens, including banded agates in gray, white, and occasional brown tones. Specimens typically range from small pebbles to fist-sized nodules. The site's Tertiary deposits have produced many translucent to semi-translucent agates suitable for display or cabochon cutting."
+    },
+    {
+      "question": "Is there a permit or fee required for rockhounding at American Bar, Montana?",
+      "answer": "No. American Bar is on BLM public land, so no permit is required and there is no fee to collect. You may collect up to 25 lbs per day for personal use under FLPMA regulations. Commercial collection and motorized excavation are not allowed."
+    },
+    {
+      "question": "What is the best season to go rockhounding at American Bar near Helena?",
+      "answer": "May through September is ideal. Spring and fall offer moderate temperatures and dry conditions perfect for hillside and wash collecting. Winter snow and spring mud make access difficult. Summer heat at 3671 feet elevation is manageable, with conditions typically excellent in August and early September."
+    },
+    {
+      "question": "How difficult is American Bar to access, and what vehicle do I need?",
+      "answer": "American Bar is easy to moderate in difficulty, with gentle terrain requiring no technical climbing or advanced hiking. A passenger car can reach the general area, but a high-clearance or all-wheel-drive vehicle is recommended for the final approach roads. Parking is limited but nearby, with short walks to productive collecting zones."
+    },
+    {
+      "question": "What tools should I bring for rockhounding agate at American Bar?",
+      "answer": "A geologist's hammer or small pry bar is essential for extracting nodules from matrix material. Bring a collection bag, sturdy work gloves, and a brush to inspect specimens. A headlamp or flashlight is helpful for examining stone detail. A field guidebook for agate identification will improve your collecting success."
+    },
+    {
+      "question": "Is American Bar a good rockhounding location for beginners and families?",
+      "answer": "Yes. American Bar is beginner-friendly with easy terrain, free access, no permits, and abundant surface specimens requiring minimal tools. Kids as young as 6 can participate safely with adult supervision. The short walks and productive digging make it ideal for introducing families to Montana rockhounding."
+    }
+  ],
+  "meta_title": "American Bar Rockhounding - Montana",
+  "meta_description": "Free BLM agate and chalcedony rockhounding near Helena, MT. Easy access, 25 lb daily limit, no permit required. Perfect for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_services",
+    "cell_service",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-21T19:07:47.417Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:11:24.411Z"
+}

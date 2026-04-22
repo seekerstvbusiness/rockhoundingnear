@@ -1,0 +1,103 @@
+{
+  "slug": "chesapeake-delaware-canal-de",
+  "name": "Chesapeake & Delaware Canal",
+  "state": "Delaware",
+  "state_slug": "delaware",
+  "city": "New Castle",
+  "city_slug": "new-castle",
+  "county": "New Castle",
+  "county_slug": "new-castle",
+  "lat": 39.558454,
+  "lng": -75.589809,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Chert",
+    "Feldspar"
+  ],
+  "short_description": "Search tidal mudflats and spoil banks along Delaware's historic canal for quartz, jasper, and chert fragments. Low elevation estuary geology offers accessible rockhounding year-round.",
+  "description": "The Chesapeake & Delaware Canal connects the Delaware River to the Chesapeake Bay, passing through New Castle County at sea level. This man-made waterway has exposed glacial deposits and Coastal Plain sediments that yield quartz pebbles, jasper chips, and chert nodules. Rocky spoil banks created during dredging operations offer concentrated collecting areas, especially at low tide when mudflats widen.\n\nThe geology here reflects Delaware's position in the Atlantic Coastal Plain. Quaternary glacial outwash and reworked sediments dominate the canal cuts, with occasional Cretaceous clay lenses exposing fossils and mineral-rich layers. The tidal nature of the canal means deposits are constantly being turned over by water action, refreshing collecting spots seasonally.\n\nThis location is ideal for beginners and families seeking convenient rockhounding without long drives or remote hiking. Access is relatively easy along canal towpaths and managed public areas. Spring and fall tides expose the richest deposits, and the cool season eliminates summer heat and insect pressure. Most finds are small to medium, making this perfect for building a collection or introducing children to field geology.\n\nBring a bucket for sorting muddy material and wear waterproof boots - the canal environment is wet and muddy. Low angle slopes and water access mean stable footing but occasional slippery surfaces. The canal supports active boat traffic, so stay alert and away from navigation channels.",
+  "history": "The Chesapeake & Delaware Canal was constructed in the early 1800s and substantially enlarged in the 20th century, exposing thick sequences of Quaternary glacial and Coastal Plain sediments. These glacial deposits were transported southward by ice sheets during the Pleistocene and now form the parent material for quartz and chert fragments found along the canal walls and tidal flats.",
+  "tips": "Walk the spoil banks on the east and west sides of the canal during low tide - exposed mud and gravel concentrate the best specimens. Use a small hand screen or sifter to process canal sediment; most gem material is pea-sized to marble-sized. Look for translucent quartz chunks with milk-white or smoky tones, reddish-brown jasper fragments, and grey-black chert nodules - these weather out of the clay and are easy to spot against darker mud.",
+  "terrain_notes": "Elevation 6 feet at sea level. Flat terrain with gentle sloping banks. Muddy, often wet ground typical of tidal estuary. Walking distance from parking typically under half a mile to productive spoil banks. Footing can be slippery and muddy; waterproof boots essential. Sparse vegetation - mostly grass and low shrubs on banks.",
+  "best_season": "March - May, September - November. Winter and early spring offer best tidal exposure and cooler conditions. Summer brings heat, humidity, and insect pressure. Late fall and early winter provide access to freshly exposed spoil after seasonal water level changes.",
+  "written_directions": "From downtown New Castle, take US Route 40 East toward the canal. Signs for the C&D Canal State Service Center will direct you to public access areas and parking lots. The canal towpath system has multiple public pull-off points. Consult the Delaware Canal Authority website for specific public access parking areas - the main visitor area is approximately 2 miles northeast of New Castle town center off DE-273.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved roads to parking areas. Unpaved but maintained towpath access. No high-clearance vehicle needed.",
+  "parking_notes": "Delaware Canal Authority maintains multiple parking pull-offs along the canal. Check C&D Canal website for official public access parking. Generally small unpaved or gravel lots with capacity for 5-15 vehicles.",
+  "cell_service": "reliable",
+  "remoteness_rating": 1,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Public access is permitted along designated towpath areas and spoil banks managed by the Delaware Canal Authority. Personal collection only - do not remove material from sensitive habitat or dredge/excavate from stable banks. Respect posted closures and stay clear of active navigation channels. Leave fossils in situ if discovered and report significant paleontological finds to the state.",
+  "quantity_limits": null,
+  "rules": "Personal collection only\nNo commercial use\nStay off private property and marked closures\nAvoid active navigation channels\nDo not dredge or excavate from stable banks\nReport fossil discoveries to Delaware Department of Natural Resources",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "wildlife",
+    "sharp_material",
+    "flash_floods"
+  ],
+  "nearest_services": "New Castle has gas, restaurants, and water supplies approximately 1-2 miles from canal access points. Wilmington (5 miles south) offers full services.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Muddy and wet conditions require waterproof footwear and careful footing. No wheelchair access on spoil banks due to mud and slope. Well-maintained paved parking areas. Short walking distances (under 0.5 miles) to productive collecting areas make this suitable for limited mobility with assistance.",
+  "alternative_names": [
+    "C&D Canal",
+    "Chesapeake and Delaware Canal"
+  ],
+  "nearest_city": "New Castle",
+  "nearest_city_distance": 2,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/delaware/chesapeake-delaware-canal-de/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/delaware/chesapeake-delaware-canal-de/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/delaware/chesapeake-delaware-canal-de/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find at the Chesapeake & Delaware Canal in Delaware?",
+      "answer": "The canal's glacial and Coastal Plain deposits yield quartz pebbles (both clear and smoky varieties), reddish-brown jasper fragments, grey chert nodules, and feldspar chips. Most specimens are small to medium (pea-sized to marble-sized). The tidal action continuously exposes fresh material, especially on spoil banks created during dredging."
+    },
+    {
+      "question": "Is rockhounding free at the Chesapeake & Delaware Canal?",
+      "answer": "Yes, rockhounding is free on public towpath areas and designated spoil banks managed by the Delaware Canal Authority. No permit or fee is required for personal collection. Simply access the canal via public parking areas and follow posted guidelines."
+    },
+    {
+      "question": "When is the best time to rockhound at the C&D Canal near New Castle?",
+      "answer": "March through May and September through November offer ideal conditions. Spring and fall tidal cycles expose mudflats and spoil banks most effectively. Cooler temperatures reduce summer heat and insects. Winter can be productive but muddy conditions worsen. Avoid summer heat and humidity."
+    },
+    {
+      "question": "How do I access the Chesapeake & Delaware Canal for rockhounding?",
+      "answer": "The Delaware Canal Authority maintains public parking pull-offs along the canal towpath system near New Castle. From downtown New Castle, take US Route 40 East toward the canal and follow signs to public access points - the main visitor area is about 2 miles northeast off DE-273. No permit is required."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding the C&D Canal?",
+      "answer": "Bring waterproof boots, as the area is muddy and wet year-round. A hand screen or sifter is useful for processing canal sediment and sorting quartz and chert from mud. A bucket helps carry material. Gloves protect hands from sharp chert and muddy conditions. A small hand shovel aids in sorting spoil piles."
+    },
+    {
+      "question": "Is the Chesapeake & Delaware Canal good for beginner rockhounders?",
+      "answer": "Yes, it is excellent for beginners and families. The terrain is flat and easy to navigate, access is free and convenient near New Castle, and no permit is needed. Specimens are relatively easy to spot on muddy banks. It is a perfect introduction to rockhounding without long hikes or remote conditions."
+    }
+  ],
+  "meta_title": "Chesapeake & Delaware Canal Rockhounding - Delaware",
+  "meta_description": "Hunt quartz, jasper, and chert at the C&D Canal near New Castle, Delaware. Free public access, easy terrain, ideal for beginners. Best March-November.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types",
+    "primary_category",
+    "hazards",
+    "collection_rules",
+    "written_directions"
+  ],
+  "enriched_at": "2026-04-21T16:35:16.832Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:35:53.108Z"
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "interior-sd",
+  "name": "Interior",
+  "lat": 43.731957,
+  "lng": -101.945383,
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "state_code": "SD",
+  "city": "Jackson County",
+  "city_slug": "jackson-county",
+  "county": "Jackson",
+  "county_slug": "jackson",
+  "geocoded_city": "Jackson County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-dakota.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Interior%20South%20Dakota"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Interior",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Interior%20South%20Dakota"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2413,
+      "meters": 736
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Kadoka",
+      "distance_mi": 23,
+      "population": 677
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": [
+      {
+        "name": "Buffalo Gap National Grassland",
+        "type": "protected_area"
+      },
+      {
+        "name": "Badlands National Park",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-21T17:47:36.612Z"
+  },
+  "scraped_at": "2026-04-21T17:47:36.612Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "coaly-wash-ut",
+  "name": "Coaly Wash",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Wayne County",
+  "city_slug": "wayne-county",
+  "county": "Wayne",
+  "county_slug": "wayne",
+  "lat": 38.281412,
+  "lng": -110.860558,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Chert"
+  ],
+  "short_description": "BLM rockhounding site near Hanksville known for colorful agate and jasper specimens found in desert wash gravels. Free public collecting with 25 lb daily limit.",
+  "description": "Coaly Wash is a public BLM rockhounding area in central Utah's Wayne County, offering accessible collecting opportunities for agate, jasper, and chalcedony specimens. The site sits within the Colorado Plateau, where ancient Cretaceous sandstones and Tertiary volcanic deposits have weathered into desert washes loaded with quality gemstones. Collectors work the gravels and exposed wash banks year-round, searching for banded agates, colorful jasper nodules, and translucent chalcedony pieces in shades of red, brown, yellow, and white.\n\nThe terrain is typical of Utah's high desert - open sagebrush scrubland with scattered pinyon and juniper, rolling between 5,000 and 6,000 feet elevation. Coaly Wash proper runs through a wide, gentle drainage with minimal sloping, making it physically manageable for most skill levels. The wash bed is rocky with loose stones and occasional larger boulders, but footing is generally stable. Access from nearby Hanksville is straightforward via improved dirt road.\n\nThis location is popular with beginner and intermediate rockhounders because specimens are visible on the surface and digging is unnecessary - careful eyes and a small hand rake will recover most finds. The BLM designation means no permits, no fees, and no commercial restrictions on personal use collecting. Expect to spend 2-4 hours working the wash, with realistic chances of finding 10-20 quality pieces in a good session. The site sees moderate traffic but rarely feels crowded due to its size.",
+  "history": "Coaly Wash lies within the Colorado Plateau, where Cretaceous sandstones host abundant silica-rich deposits from ancient marine and fluvial environments. Tertiary volcanic activity in the region added chalcedony and agate-forming fluids to fractures and vugs, which subsequently weathered and concentrated in modern wash gravels - a process that has produced the colorful specimens found here for millennia.",
+  "tips": "Work the main wash centerline and inside bends where heavier stones accumulate after floods; this is where the best agates and jasper settle. Bring a small hand rake or claw tool to gently disturb surface gravels without damaging specimens - many pieces are loose and require minimal excavation. Look for glossy, banded agate in reds and browns, mottled jasper with earthy tones, and translucent chalcedony that catches sunlight; avoid dull, porous rocks that are likely common chert. Visit after spring or monsoon rains (May-June and August-September) when fresh material is exposed in the wash.",
+  "terrain_notes": "High desert elevation 5,000-6,000 feet with open sagebrush and scattered pinyon-juniper cover. Coaly Wash itself is a wide, gentle drainage with a rocky but stable bed free of major obstacles. Walking distance from parking is typically under 0.5 miles to productive collecting areas. Terrain is mostly level to gently rolling with no steep slopes or cliffs. Ground footing is rocky but not treacherous; sturdy hiking boots recommended but not essential for short visits.",
+  "best_season": "April - May and September - October. Spring brings fresh material exposed by winter runoff and cooler temperatures before intense summer heat. Fall offers comfortable conditions after monsoon rains refresh the wash. Summer (June-August) is possible but expect temperatures 85-95F and intense sun. Winter (November-March) is viable but nights drop below freezing and occasional snow can limit access.",
+  "written_directions": "From Hanksville, drive east on UT 24 for approximately 12 miles toward the Henry Mountains. Turn left (north) onto a marked BLM dirt road signed for rockhounding or wash access - this junction is near milepost 120. Follow the dirt road north for 3-4 miles; the road quality is good with minor washboard. Park in the unsigned pullout area near where the road approaches Coaly Wash proper. From the parking area, walk north into the wash bed - the productive collecting zone extends upstream for 1-2 miles.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt road with minor washboard. Passenger cars can access in dry conditions; after heavy rain, high-clearance recommended but not required.",
+  "parking_notes": "Unsigned pullout area near road terminus with space for 4-8 vehicles. No facilities. No designated lot - park along road shoulder in safe pullout zone.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation or power tools. Hand tools only. Remove all trash; leave the site cleaner than you found it. Respect private property boundaries if any appear marked.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs maximum per day\nNo commercial collection\nHand tools only - no power tools or motorized equipment\nNo motorized excavation\nRemove all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "snakes"
+  ],
+  "nearest_services": "Hanksville, Utah - approximately 15 miles west. Full services including gas, food, lodging, and emergency medical. Small market and supplies available.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and families. Walking distance from parking to productive areas is short (under 0.5 miles). Rocky wash bed requires sturdy footwear but presents no major obstacles. No wheelchair access to wash proper, but parking area is accessible. Minimal elevation gain. Suitable for young children and older adults with normal mobility.",
+  "alternative_names": [],
+  "nearest_city": "Hanksville",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/coaly-wash-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/coaly-wash-ut/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Coaly Wash near Hanksville?",
+      "answer": "Coaly Wash is known for colorful agate, jasper, chalcedony, and chert. Specimens typically display banded patterns in reds, browns, yellows, and whites. Most finds are nodules or cobbles ranging from marble to fist size, suitable for cabochons or collection display. Surface specimens are abundant and require no digging."
+    },
+    {
+      "question": "Is Coaly Wash free to rockhound, and do I need a permit?",
+      "answer": "Yes, Coaly Wash is completely free. It sits on public BLM land with no permits required for recreational collecting. You are limited to 25 lbs of material per day under FLPMA rules, and collection is for personal use only - no commercial sales."
+    },
+    {
+      "question": "How do I find Coaly Wash from Hanksville, Utah?",
+      "answer": "From Hanksville, take UT 24 east for 12 miles toward the Henry Mountains. Turn left on a marked BLM dirt road near milepost 120, then drive north 3-4 miles on improved dirt road to the parking pullout. The productive wash area is accessed on foot from the road terminus, typically under 0.5 miles walk."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Coaly Wash?",
+      "answer": "April - May and September - October offer ideal conditions with cooler temperatures and fresh material exposed by spring runoff or monsoon rains. Summer is possible but expect intense heat (85-95F). Winter is viable but nights freeze and occasional snow can block access. Year-round collecting is technically possible given the elevation and climate."
+    },
+    {
+      "question": "Is Coaly Wash rockhounding site suitable for kids and families?",
+      "answer": "Yes, Coaly Wash is very beginner and family friendly. The terrain is relatively flat with short walking distances from parking. No digging or power tools needed - surface collecting with a hand rake will yield quality specimens. Children as young as 6 can participate safely with supervision. Sturdy shoes and sun protection are essential."
+    },
+    {
+      "question": "What tools and supplies do I need to rockhound at Coaly Wash?",
+      "answer": "Bring a small hand rake, claw tool, or rock hammer to gently disturb surface gravels. A 5-gallon bucket or backpack helps carry your daily limit (25 lbs). Sun protection including hat, sunscreen, and plenty of water are critical in the high desert. Sturdy hiking boots or work shoes protect feet from sharp stones. Magnifying glass helps identify specimens in the field."
+    }
+  ],
+  "meta_title": "Coaly Wash Rockhounding - Utah",
+  "meta_description": "Free BLM rockhounding near Hanksville. Find agate, jasper and chalcedony. No permit needed. 25 lb daily limit. Easy family site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred road name and mileage - verify UT 24 approach and BLM access road designation)",
+    "nearest_city_distance (estimated 15 miles based on Hanksville location)",
+    "parking_notes (inferred pullout - verify current parking infrastructure)",
+    "cell_service (estimated spotty based on remote location in Wayne County)",
+    "specific gem type distribution (agate and jasper inferred from regional Colorado Plateau geology - field confirmation recommended)"
+  ],
+  "enriched_at": "2026-04-22T06:54:22.735Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T07:04:10.890Z"
+}

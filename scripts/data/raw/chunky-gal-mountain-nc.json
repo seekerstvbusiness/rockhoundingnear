@@ -1,0 +1,57 @@
+{
+  "slug": "chunky-gal-mountain-nc",
+  "name": "Chunky Gal Mountain",
+  "lat": 35.036196,
+  "lng": -83.573039,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Clay County",
+  "city_slug": "clay-county",
+  "county": "Clay",
+  "county_slug": "clay",
+  "geocoded_city": "Clay County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chunky%20Gal%20Mountain%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chunky%20Gal%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chunky%20Gal%20Mountain%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:38:32.582Z"
+  },
+  "scraped_at": "2026-04-21T19:38:32.583Z",
+  "scrape_quality": "minimal"
+}

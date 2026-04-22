@@ -1,0 +1,60 @@
+{
+  "slug": "mt-holly-springs-pa",
+  "name": "Mt. Holly Springs",
+  "lat": 40.109064,
+  "lng": -77.239094,
+  "state": "Pennsylvania",
+  "state_slug": "pennsylvania",
+  "state_code": "PA",
+  "city": "Dickinson Township",
+  "city_slug": "dickinson-township",
+  "county": "Cumberland",
+  "county_slug": "cumberland",
+  "geocoded_city": "Dickinson Township",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-pennsylvania.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Mt.%20Holly%20Springs%20Pennsylvania"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Mt.%20Holly%20Springs",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Mt.%20Holly%20Springs%20Pennsylvania"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 631,
+      "meters": 192
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:54:11.688Z"
+  },
+  "scraped_at": "2026-04-21T18:54:11.688Z",
+  "scrape_quality": "minimal"
+}

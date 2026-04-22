@@ -1,0 +1,98 @@
+{
+  "slug": "mound-city-sd",
+  "name": "Mound City",
+  "state": "South Dakota",
+  "state_slug": "south-dakota",
+  "city": "Hillside Township",
+  "city_slug": "hillside-township",
+  "county": "Campbell",
+  "county_slug": "campbell",
+  "lat": 45.720637,
+  "lng": -100.237231,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding in northern South Dakota's prairie badlands. Search for colorful agates and jasper in this remote, wide-open terrain.",
+  "description": "Mound City sits in the heart of Campbell County, a geologically rich area of northeastern South Dakota where the Missouri River breaks through prairie grassland. This public BLM land offers excellent opportunities to hunt for common Western agates, jasper, and quartz specimens scattered across rolling terrain and eroded badland outcrops. The landscape is characterized by sparse vegetation, soft clay hills, and occasional exposures of sedimentary rock that have weathered to reveal colorful gem material.\n\nThe geology here is dominated by Cretaceous and Paleocene sedimentary rocks that have been deeply weathered by erosion and seasonal freeze-thaw cycles. These processes expose agate nodules and jasper fragments that were originally deposited in ancient marine and fluvial environments millions of years ago. The relatively flat to gently rolling terrain makes this site accessible for rockhounds of varying skill levels.\n\nExpect a true backcountry collecting experience with minimal facilities and wide vistas across grassland and badland formations. The remote nature of Campbell County means you'll have plenty of elbow room to explore without crowds. Bring plenty of water, a map, and sturdy footwear - the terrain can be deceptive, with hidden washouts and uneven footing common after rain.",
+  "history": "This region sits within the edge of the Great Plains province where late Cretaceous seas deposited thick sequences of sandstone, shale, and siltstone. Subsequent uplift and erosion by the Missouri River system exposed these formations and allowed agate and jasper nodules to weather free at the surface - a process that continues today as spring snowmelt and summer storms reshape the badlands.",
+  "tips": "Search the bases of eroded hillsides and along draws where water runoff naturally concentrates heavier gem material. Look for colorful agate pieces showing bands of white, brown, red, and gray - these often indicate larger nodules buried nearby. Bring a small pickaxe or pry bar to test exposed clay banks, and always inspect the ground carefully after rain when fresh material is revealed. The best specimens are found where sedimentary layers are actively eroding; mark productive spots with GPS for follow-up visits.",
+  "terrain_notes": "Elevation 1755 ft in rolling prairie-badland transition zone. Flat to gently rolling slope with sparse grass, occasional sagebrush, and exposed sedimentary outcrops. Soft clay and silt soil with hidden erosion gullies. Walking distances from parking are variable depending on where you position yourself; plan for 0.5 to 3 miles of hiking over uneven, sometimes muddy terrain.",
+  "best_season": "April - May, September - November. Spring offers fresh exposure of material after snowmelt and rainfall, but roads can be muddy. Fall provides dry conditions, cooler temperatures, and stable ground access. Summer heat and occasional flash flooding in draws make collection harder.",
+  "written_directions": "From Morristown in Campbell County, head east on SD State Highway 212 for approximately 12 miles. Watch for BLM access points and informal pullouts on both sides of the road near the badland exposures. GPS coordinates 45.720637, -100.237231 mark the primary collecting area. Four-wheel-drive or high-clearance vehicle strongly recommended for accessing secondary roads and parking areas during wet conditions.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Graded BLM roads and informal dirt tracks. Washboard surface common. High-clearance vehicle recommended year-round; 4WD necessary after rain or during spring thaw.",
+  "parking_notes": "Informal pullouts along BLM roads. No designated parking area. Space for 2-4 vehicles at most informal spots. Some areas allow camping nearby; verify current regulations with BLM Campbell County office.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or destructive mining. Respect all boundary markers and posted restrictions. Pack out all waste. Stay clear of any active mining claims.",
+  "quantity_limits": "25 lbs per day per person",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection permitted\nNo motorized excavation\nNo destructive mining techniques\nPack out all waste\nRespect claim markers and posted signs\nNo motorized vehicles off designated roads",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote",
+    "cold"
+  ],
+  "nearest_services": "Lemmon, SD (approximately 20 miles south) has gas, food, and lodging. No services at the collecting site itself.",
+  "accessibility_notes": "Moderate difficulty terrain with uneven, rolling badland slopes. No wheelchair access. Soft clay and silt soil becomes slippery when wet. Sturdy hiking boots required. Terrain includes hidden gullies and erosion channels that can surprise walkers. Not suitable for visitors with limited mobility or balance problems.",
+  "alternative_names": [],
+  "nearest_city": "Morristown",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/south-dakota/mound-city-sd/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What agates can I find rockhounding near Mound City, South Dakota?",
+      "answer": "Mound City and Campbell County yield colorful banded agates with white, brown, red, and gray coloring. Most pieces are small to medium nodules weathered from Cretaceous sedimentary formations. Jasper and chalcedony are also common. Specimens typically range from thumbnail to fist-sized, though larger nodules can occasionally be found partially buried in clay banks."
+    },
+    {
+      "question": "Is rockhounding at Mound City free or do I need a permit?",
+      "answer": "Rockhounding on BLM public land near Mound City is completely free. No permit is required for personal, non-commercial collecting under the Federal Land Policy and Management Act (FLPMA). You can collect up to 25 lbs per day per person without permission."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Mound City, South Dakota?",
+      "answer": "The best seasons are April-May and September-November. Spring snowmelt and rain expose fresh material, but roads can be muddy. Fall offers dry, stable conditions and cooler temperatures ideal for hiking. Summer heat and potential flash flooding in draws make collecting difficult. Winter is generally inaccessible due to snow."
+    },
+    {
+      "question": "What tools and gear do I need for collecting near Mound City?",
+      "answer": "Bring a small pickaxe or pry bar, heavy gloves, and a sturdy backpack for carrying specimens. Wear closed-toe hiking boots with good grip for muddy clay terrain. Pack plenty of water (2+ liters), a detailed map or GPS unit, sunscreen, and a first aid kit. High-clearance or 4WD vehicle is essential for accessing remote BLM roads."
+    },
+    {
+      "question": "Is Mound City rockhounding site beginner friendly and family-safe?",
+      "answer": "Yes, Mound City is suitable for beginners and families with children ages 8 and up. The relatively flat to rolling terrain and abundant surface material make it accessible to novice collectors. However, the remote location and uneven badland terrain require proper footwear, supervision of children, and awareness of flash flood risks in draws."
+    },
+    {
+      "question": "How remote is the Mound City rockhounding area and what precautions should I take?",
+      "answer": "Mound City is moderately remote with spotty cell service - plan accordingly. Nearest full services (gas, food, hospital) are in Lemmon, SD, about 20 miles away. Always tell someone where you are going, carry extra water and supplies, bring a GPS unit, and check weather forecasts before visiting. The badland terrain includes hidden gullies where flash flooding can occur rapidly after rain."
+    }
+  ],
+  "meta_title": "Mound City Rockhounding - South Dakota BLM",
+  "meta_description": "Find agate, jasper, and quartz at Mound City, SD on free BLM public land. No permit required. April-November collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city",
+    "terrain_notes",
+    "geology details"
+  ],
+  "enriched_at": "2026-04-21T18:35:11.757Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T18:36:35.545Z"
+}

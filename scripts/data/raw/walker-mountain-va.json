@@ -1,0 +1,60 @@
+{
+  "slug": "walker-mountain-va",
+  "name": "Walker Mountain",
+  "lat": 37.050506,
+  "lng": -81.225612,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Bland County",
+  "city_slug": "bland-county",
+  "county": "Bland",
+  "county_slug": "bland",
+  "geocoded_city": "Eagle Oak",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Walker%20Mountain%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Walker%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Walker%20Mountain%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3212,
+      "meters": 979
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:56:43.431Z"
+  },
+  "scraped_at": "2026-04-21T18:56:43.431Z",
+  "scrape_quality": "minimal"
+}

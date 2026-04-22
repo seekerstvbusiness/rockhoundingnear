@@ -1,0 +1,100 @@
+{
+  "slug": "orogrande-id",
+  "name": "Orogrande",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Idaho County Area",
+  "city_slug": "idaho-county",
+  "county": "Idaho",
+  "county_slug": "idaho",
+  "lat": 45.696832,
+  "lng": -115.558461,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Chalcedony",
+    "Agate"
+  ],
+  "short_description": "BLM rockhounding site in central Idaho's mountainous terrain. Hunt for quartz, jasper, and chalcedony on public land with no permit required.",
+  "description": "Orogrande is a public BLM rockhounding location in the Idaho County area, situated at 5,142 feet elevation in the transition zone between the Salmon River Mountains and the Wallowa-Whitman volcanic plateau. This area is part of Idaho's rich mineralized belt where Tertiary-era volcanic and hydrothermal activity created abundant quartz deposits, jasper, and chalcedony formations. The moderate slopes and mixed conifer forest provide a scenic backdrop for recreational collecting, with moderate terrain that is accessible to most rockhounds willing to hike away from improved roads.\n\nThe geology here reflects the complex interplay of Columbia River Basalt flows, granitic intrusions, and epithermal mineral systems that deposited silica-rich minerals throughout central Idaho. Quartz crystals, milky and clear varieties, are commonly found in weathered outcrops and stream gravels. Jasper specimens range from red and brown to mottled varieties, and chalcedony often appears as nodules and banded formations in the decomposing volcanic host rock.\n\nRockhounds should expect variable ground conditions typical of montane forest terrain: some open hillsides with exposed bedrock and scree, mixed with forested areas where mineralized material accumulates in drainages. The elevation and latitude mean snow is possible even into May, so spring conditions can be muddy. Summer brings reliable access and pleasant collecting conditions, though afternoon thunderstorms are common.\n\nThis location is ideal for those seeking a combination of scenic mountain rockhounding without the crowds of fee-dig operations. The BLM allows personal use collection with no permits, making it perfect for weekend prospectors exploring Idaho's mineral diversity. Bring sturdy boots, as the moderate slopes include loose rock and uneven footing.",
+  "history": "Orogrande lies within the Idaho mineral belt, a region of Tertiary-age (approximately 50-25 million years ago) volcanic and epithermal hydrothermal activity that created widespread silica deposits throughout central Idaho. The quartz and jasper found here formed when hot, mineral-laden fluids circulated through fractures in the cooling volcanic rocks, depositing cryptocrystalline and crystalline silica minerals that later weathered into accessible surface deposits.",
+  "tips": "Search weathered hillsides and exposed ridgelines where quartz outcrops break through thin soil; the white milky quartz is easy to spot. Check the bottoms of washes and small drainages where heavier jasper and agate specimens accumulate after winter erosion - use a hand lens to examine rounded stones for hidden chalcedony banding. Bring a geologist's pick or small pry bar to carefully extract specimens from decomposing volcanic rock, but avoid heavy hammering which damages the site for future collectors.",
+  "terrain_notes": "Elevation 5,142 feet with moderate slopes in mixed conifer forest. Terrain transitions between open hillsides with exposed bedrock and scree to forested drainages. Walking distance from parking to productive areas typically 0.5 to 2 miles. Footing is uneven with loose rock common; sturdy boots essential. Exposure increases with elevation gain; afternoon thunderstorms occur regularly in summer.",
+  "best_season": "June - September",
+  "written_directions": "From Grangeville (nearest town with services, approximately 25 miles west), take US Highway 95 north toward Riggins. Continue approximately 15-20 miles and turn east toward the Salmon River drainage following Forest Service roads into Idaho County. GPS coordinates 45.696832, -115.558461 mark the general area. Access is via BLM land, but confirm current road status with Salmon River District BLM office before visiting, as seasonal closures and fire restrictions affect access. The final approach road is typically a rough dirt/gravel road passable by high-clearance vehicles in dry conditions.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt and gravel forest service roads in final 3-5 miles. Some washboard surface, high-clearance vehicle recommended. Impassable during heavy rain or winter snowmelt. Confirm road status with local BLM office.",
+  "parking_notes": "Limited informal parking at road pullouts. No developed lot or facilities. Park well off the road to avoid blocking forest service traffic.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Pack out all trash. Do not disturb archaeological sites or mining claims. Respect private property boundaries. Seasonal closures may apply due to fire danger or road conditions - check with Salmon River District BLM office before visiting.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nPack out all trash\nDo not disturb archaeological sites or mining claims\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "flash_floods",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Grangeville, Idaho (approximately 25 miles west) - gas, food, water, lodging. Riggins, Idaho (approximately 20 miles west) - limited services.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing and loose rock common. No wheelchair access to productive collecting areas. Sturdy boots and moderate hiking fitness required. Slopes are manageable but exposure increases with elevation gain. Not suitable for limited mobility. Some areas accessible by high-clearance vehicle, but best material requires short to moderate hikes of 0.5-2 miles from parking.",
+  "alternative_names": [],
+  "nearest_city": "Grangeville",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/orogrande-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding at Orogrande, Idaho?",
+      "answer": "Orogrande is known for quartz (milky and clear varieties), jasper (red, brown, and mottled specimens), chalcedony, and agate. These minerals formed from Tertiary-age epithermal hydrothermal activity in central Idaho's volcanic belt. Quartz crystals are commonly found in weathered outcrops, while jasper nodules and chalcedony tend to accumulate in drainage bottoms where erosion concentrates heavier materials."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Orogrande BLM land?",
+      "answer": "No permit is required. Orogrande sits on public BLM land where personal use collection is allowed without a permit under FLPMA regulations. However, you must follow the 25 lb per day limit, collect only for personal use (no commercial sales), and avoid disturbing mining claims, archaeological sites, or private property boundaries. Check with the Salmon River District BLM office before visiting for seasonal closures."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Idaho County at this location?",
+      "answer": "June through September is optimal. The high elevation (5,142 feet) means snow persists into May and can return in October. Summer offers reliable road access, pleasant temperatures, and lower mud on the rough forest service roads. Be prepared for afternoon thunderstorms, which are common during summer months in this mountainous terrain."
+    },
+    {
+      "question": "How difficult is the terrain and hiking at Orogrande rockhounding site?",
+      "answer": "The terrain is moderate in difficulty. The site features moderate slopes with loose rock and uneven footing throughout. Productive collecting areas typically require short to moderate hikes of 0.5 to 2 miles from parking pullouts. Sturdy boots are essential, and some exposure to cliff-like terrain exists at higher elevations. The area is not wheelchair accessible but is suitable for most hikers with reasonable fitness."
+    },
+    {
+      "question": "What tools and equipment should I bring to Orogrande for rockhounding?",
+      "answer": "Bring sturdy hiking boots, a geologist's hammer and pry bar for carefully extracting specimens from decomposing volcanic rock, a hand lens for examining chalcedony banding and fine details, and a collection bag (remember the 25 lb daily limit). Also carry water, sun protection, a map, and in summer, rain gear for afternoon thunderstorms. A high-clearance vehicle is recommended for the rough forest service roads."
+    },
+    {
+      "question": "Is Orogrande rockhounding site beginner-friendly and good for families with kids?",
+      "answer": "Yes, Orogrande is beginner-friendly with no permits required and straightforward collecting rules. Kids ages 8 and up can enjoy the moderate terrain and the hunt for colorful quartz and jasper specimens. The site is remote (bring snacks, water, and a map), so plan a full-day outing. Dogs are welcome on BLM land, making it suitable for family camping or day trips combined with hiking in the scenic Idaho County mountains."
+    }
+  ],
+  "meta_title": "Orogrande Rockhounding - Idaho BLM Site",
+  "meta_description": "Find quartz, jasper, and chalcedony at Orogrande, Idaho. Free BLM rockhounding with no permit required. Moderate mountain terrain, 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "parking_notes",
+    "nearest_city_distance",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-22T06:43:05.268Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:44:57.646Z"
+}

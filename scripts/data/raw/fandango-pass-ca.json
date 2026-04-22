@@ -1,0 +1,65 @@
+{
+  "slug": "fandango-pass-ca",
+  "name": "Fandango Pass",
+  "lat": 41.802066,
+  "lng": -120.206778,
+  "state": "California",
+  "state_slug": "california",
+  "state_code": "CA",
+  "city": "Modoc County",
+  "city_slug": "modoc-county",
+  "county": "Modoc",
+  "county_slug": "modoc",
+  "geocoded_city": "Modoc County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-california.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Fandango%20Pass%20California"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Fandango%20Pass",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Fandango%20Pass%20California"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] California BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 6140,
+      "meters": 1871
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:13:37.404Z"
+  },
+  "scraped_at": "2026-04-21T19:13:37.404Z",
+  "scrape_quality": "partial"
+}

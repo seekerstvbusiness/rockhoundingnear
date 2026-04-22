@@ -1,0 +1,90 @@
+{
+  "slug": "cracker-box-creek-mt",
+  "name": "Cracker Box Creek",
+  "lat": 46.913106,
+  "lng": -104.920913,
+  "state": "Montana",
+  "state_slug": "montana",
+  "state_code": "MT",
+  "city": "Dawson County",
+  "city_slug": "dawson-county",
+  "county": "Dawson",
+  "county_slug": "dawson",
+  "geocoded_city": "Dawson County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-montana.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Cracker%20Box%20Creek%20Montana"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Montana BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Cracker%20Box%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Cracker%20Box%20Creek%20Montana"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Montana BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2121,
+      "meters": 646
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "Lewis and Clark Trail",
+        "ref": "I 94",
+        "type": "motorway",
+        "dist": 8
+      },
+      {
+        "name": "Lewis and Clark Trail",
+        "ref": "I 94",
+        "type": "motorway",
+        "dist": 8
+      },
+      {
+        "name": "Lewis and Clark Trail",
+        "ref": "I 94",
+        "type": "motorway",
+        "dist": 10.1
+      },
+      {
+        "name": "Lewis and Clark Trail",
+        "ref": "I 94",
+        "type": "motorway",
+        "dist": 10.1
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:04:58.722Z"
+  },
+  "scraped_at": "2026-04-21T19:04:58.723Z",
+  "scrape_quality": "partial"
+}

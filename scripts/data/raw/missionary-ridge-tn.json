@@ -1,0 +1,57 @@
+{
+  "slug": "missionary-ridge-tn",
+  "name": "Missionary Ridge",
+  "lat": 35.039053,
+  "lng": -85.251032,
+  "state": "Tennessee",
+  "state_slug": "tennessee",
+  "state_code": "TN",
+  "city": "Chattanooga",
+  "city_slug": "chattanooga",
+  "county": "Hamilton",
+  "county_slug": "hamilton",
+  "geocoded_city": "Chattanooga",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-tennessee.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Missionary%20Ridge%20Tennessee"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Missionary%20Ridge",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Missionary%20Ridge%20Tennessee"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:23:01.631Z"
+  },
+  "scraped_at": "2026-04-21T18:23:01.631Z",
+  "scrape_quality": "minimal"
+}

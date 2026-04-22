@@ -1,0 +1,60 @@
+{
+  "slug": "bald-butte-wa",
+  "name": "Bald Butte",
+  "lat": 46.631565,
+  "lng": -117.08787,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Whitman County",
+  "city_slug": "whitman-county",
+  "county": "Whitman",
+  "county_slug": "whitman",
+  "geocoded_city": "Whitman County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Bald%20Butte%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Bald%20Butte",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Bald%20Butte%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3282,
+      "meters": 1000
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:12:23.196Z"
+  },
+  "scraped_at": "2026-04-21T19:12:23.196Z",
+  "scrape_quality": "minimal"
+}

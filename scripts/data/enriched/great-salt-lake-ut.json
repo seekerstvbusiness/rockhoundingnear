@@ -1,0 +1,97 @@
+{
+  "slug": "great-salt-lake-ut",
+  "name": "Great Salt Lake",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Box Elder County Area",
+  "city_slug": "box-elder-county",
+  "county": "Box Elder",
+  "county_slug": "box-elder",
+  "lat": 41.524509,
+  "lng": -112.78331,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony"
+  ],
+  "short_description": "Collect selenite crystals, salt deposits, and quartz specimens on the shores and flats surrounding the Great Salt Lake. BLM public land with no permit required and generous 25 lb daily limits.",
+  "description": "The Great Salt Lake basin offers unique rockhounding opportunities in one of North America's largest inland salt bodies. The lake's mineral-rich waters and surrounding evaporative flats have deposited distinctive crystals and mineral formations that make this area geologically significant and accessible to collectors. The Box Elder County area provides excellent access to shore zones and salt flat deposits where selenite crystals, halite (salt), and secondary quartz specimens accumulate naturally. This is beginner-friendly terrain on mostly flat ground, making it ideal for families and first-time rockhounders. The landscape is stark and beautiful, offering both mineral collecting and scenic desert vistas.\n\nThe Great Salt Lake is the remnant of ancient Lake Bonneville, a massive inland sea that covered much of Utah during the Pleistocene epoch. As Lake Bonneville receded over thousands of years, it left behind concentrated mineral deposits. The current lake's extremely high salinity (nearly 10 times saltier than ocean water) creates ideal conditions for mineral precipitation, particularly selenite, halite, and other evaporite minerals. Groundwater seepage and subsurface mineral dissolution continuously replenish the surface deposits you can find today.\n\nRockhounders visiting this area typically find selenite crystals in clusters or individual specimens, often with a clear to white appearance. Salt deposits range from fine powder to chunky halite pieces. Quartz and chalcedony specimens occur in the surrounding washes and fault-line outcrops. The collecting is most productive along the shoreline after seasonal water level changes and in the exposed salt flats north and south of the main body of water.\n\nAccess is straightforward from Box Elder County roads, and the flat terrain requires minimal hiking. Most productive sites are within walking distance of pullouts and rough access roads. The area is sparsely populated and offers solitude, though cell service can be unreliable in some zones. Bring plenty of water, sunscreen, and wind protection - the exposed flats offer no shade and can be windy.",
+  "history": "The Great Salt Lake basin sits within the Basin and Range physiographic province, shaped by Cenozoic extension and crustal thinning. Ancient Lake Bonneville (pluvial lake) filled this basin during the Pleistocene, reaching depths of over 1,000 feet; its recession left behind evaporite mineral deposits including selenite, halite, and other salts that concentrated as brines evaporated. Historical mining and salt harvesting in the region dates back to the 1800s, with modern commercial operations still active on certain portions, though public BLM lands remain open for personal collecting.",
+  "tips": "Focus your search along the exposed shoreline and in the shallow salt flats east and north of the main lake body, where seasonal water fluctuations leave mineral-rich deposits. Use a hand shovel or small pick to gently extract selenite crystals from encrusting salt deposits; they often come out as clean, transparent specimens. Look for the clear to white tabular or prismatic crystals on or just below the surface of dried flats - avoid digging deep, as best specimens are typically in the top 6 inches. Bring a sifter or mesh screen to sort salt and fine particles from larger quartz and selenite pieces.",
+  "terrain_notes": "Elevation 4,197 feet on flat to gently rolling terrain. The landscape is predominantly exposed salt flats, sandy washes, and rocky shoreline with minimal vegetation. Footing is generally stable on salt crusts and packed earth, but some areas have soft, powdery salt or sand that can be slow to walk through. Parking areas are typically unpaved pullouts near access roads; walking distance to productive zones ranges from immediate (right at parking area) to 0.5 miles across open flats.",
+  "best_season": "October - April. The cooler months avoid extreme summer heat (temperatures exceed 95 F from June through August on the salt flats). Winter winds are strong but manageable; spring and fall offer the most pleasant conditions. Summer visits are possible early morning or late evening, but midday heat and glare make collecting difficult.",
+  "written_directions": "From Brigham City (nearest major town, approximately 20 miles south), take US 89 north toward Idaho. Turn west onto Box Elder County roads toward the lake (exact road varies by target site - consult BLM maps for specific access points). Most productive shoreline sites are accessed via rough dirt roads north of Brigham City near the Box Elder/Cache County line. GPS coordinates point to a central access zone; refer to BLM Utah maps for current road conditions and alternative entry points. High-clearance vehicle recommended but not required for main routes.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Rough unpaved roads with washboard common. High-clearance vehicles (passenger cars with ground clearance 8+ inches) can navigate main routes; some secondary roads may require 4x4 or ATV after wet weather. Check current conditions with BLM Brigham City Field Office.",
+  "parking_notes": "Unpaved pullouts and wide areas along access roads serve as parking. No designated lot; parking is dispersed. Capacity varies from 2-6 vehicles per pullout depending on location. Some areas have natural stone or salt barriers marking informal parking zones.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No explosives or power tools. Remove only loose or surficial material. Do not disturb active salt harvesting operations or marked private claims.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\n25 lbs per day maximum\nNo commercial collection\nNo motorized excavation or power tools\nNo explosives\nRemove only loose or surficial material\nAvoid marked private operations and active harvesting zones",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "wildlife"
+  ],
+  "nearest_services": "Brigham City, Utah - approximately 20 miles south. Full services including gas, groceries, restaurants, lodging, and medical care. Smaller communities of Box Elder and Thiokol also have basic services.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers and those with limited mobility. Unpaved roads to parking areas; parking pullouts are ground-level with minimal elevation change. Walking from parking to productive collecting zones is typically under 0.5 miles on flat or gently sloping ground. Soft salt or sand in some areas may challenge wheeled mobility aids. No wheelchair-accessible facilities; sturdy walking shoes recommended due to sharp salt crystals and uneven ground.",
+  "alternative_names": [
+    "Great Salt Lake Shoreline",
+    "Box Elder Salt Flats"
+  ],
+  "nearest_city": "Brigham City",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/great-salt-lake-ut/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What crystals and minerals can I find at Great Salt Lake in Utah?",
+      "answer": "The primary collectibles are selenite crystals (clear to white tabular specimens), halite (rock salt) ranging from fine powder to chunky pieces, and secondary quartz and chalcedony. Selenite is the most prized; it forms as the lake's hypersaline water evaporates. Most specimens are found in the upper few inches of exposed salt flats and along the shoreline."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Great Salt Lake on BLM land?",
+      "answer": "No permit is required for recreational rockhounding on Utah BLM land around the Great Salt Lake. Personal use collection is allowed up to 25 lbs per day per FLPMA. You do not need to contact the BLM office in advance, but checking conditions with the Brigham City Field Office is recommended for current road access status."
+    },
+    {
+      "question": "What is the best time of year to collect selenite at Great Salt Lake?",
+      "answer": "October through April is ideal due to cooler temperatures and lower wind. Summer heat on the exposed salt flats exceeds 95 F and offers no shade. Spring and fall provide the most pleasant conditions. Winter is productive but windy; bring wind protection. Seasonal water level fluctuations expose fresh deposits in fall and spring."
+    },
+    {
+      "question": "Is rockhounding at Great Salt Lake beginner-friendly for families with young children?",
+      "answer": "Yes, this is an excellent beginner location. The flat terrain requires no hiking or climbing, and children ages 6 and up can participate safely. Parking is close to collecting zones, and the landscape is open with good visibility. Bring plenty of water, sunscreen, and hats; there is no shade on the salt flats. Sharp salt crystals and intense sun are the main hazards."
+    },
+    {
+      "question": "What tools do I need to collect selenite crystals at Great Salt Lake?",
+      "answer": "A small hand shovel or garden trowel, a hand pick or chisel, and a sifter or mesh screen are ideal. Selenite crystals often come out cleanly if you gently pry them from encrusting salt deposits. A brush for clearing away fine salt powder helps expose specimens. Wear gloves to protect hands from sharp salt edges and carry bags or buckets for collecting within your 25 lb daily limit."
+    },
+    {
+      "question": "How far is Great Salt Lake rockhounding from Brigham City, and what are the driving conditions?",
+      "answer": "Great Salt Lake is approximately 20 miles north of Brigham City via US 89 and Box Elder County roads. The final access roads are rough and unpaved with washboard common. Passenger vehicles with 8+ inches of ground clearance can navigate main routes; some secondary roads require high-clearance or 4x4 vehicles, especially after wet weather. Check BLM road conditions before visiting."
+    }
+  ],
+  "meta_title": "Great Salt Lake Rockhounding - Utah Selenite & Salt",
+  "meta_description": "Collect selenite crystals, halite, and quartz at Great Salt Lake, Utah. BLM public land, no permit, 25 lb daily limit. Beginner-friendly flat terrain near Brigham City.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - salt and selenite are evaporite deposits; confirmation that public rockhounding targets these specifically would strengthen accuracy",
+    "written_directions - specific Box Elder County road names require current BLM map consultation for precision",
+    "cell_service - marked spotty based on remote location; local confirmation recommended",
+    "road_conditions - washboard and access variability inferred from typical Utah BLM terrain; current conditions should be verified with Brigham City Field Office"
+  ],
+  "enriched_at": "2026-04-22T06:48:34.731Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:54:39.735Z"
+}

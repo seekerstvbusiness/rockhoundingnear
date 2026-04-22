@@ -1,0 +1,98 @@
+{
+  "slug": "sheep-creek-or",
+  "name": "Sheep Creek",
+  "state": "Oregon",
+  "state_slug": "oregon",
+  "city": "Crook County Area",
+  "city_slug": "crook-county",
+  "county": "Crook",
+  "county_slug": "crook",
+  "lat": 44.301673,
+  "lng": -120.462876,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Obsidian"
+  ],
+  "short_description": "BLM public land rockhounding site in central Oregon offering agate, jasper, and chalcedony in a gentle high-desert setting. No permit required for personal collecting.",
+  "description": "Sheep Creek is a public BLM rockhounding area in Crook County that offers excellent opportunities for collectors seeking agates, jasper, and chalcedony. The site sits at 4158 feet elevation with gentle slope terrain that makes it accessible to most rockhounders. This region of central Oregon lies within the Basin and Range province where Miocene-age volcanic and hydrothermal activity deposited silica-rich minerals throughout rhyolite flows and surrounding sediments, creating ideal conditions for agate and jasper formation.\n\nThe collecting here focuses on surface finds and exposed material along washes and hillside outcrops. The landscape features typical high-desert vegetation with sagebrush and juniper. Rockhounders can expect to find quality specimens ranging from small thumb-sized pieces to larger nodules, with the best material showing vibrant color banding and translucency. The gentle slope means you can walk the area without extreme exertion, though sturdy footwear is recommended due to loose rock.\n\nAs BLM land, Sheep Creek allows personal use collection with no permit required. The 25-pound daily limit per rockhound means serious collectors can gather meaningful specimens in a day visit. The area receives moderate visitation, so you are unlikely to encounter crowds while still having access to established collecting zones. Spring and fall offer the most comfortable conditions, though the high elevation provides cooler temperatures even in summer months.",
+  "history": "This area sits within the Basin and Range province where Miocene volcanic activity and subsequent hydrothermal alteration deposited extensive silica-rich minerals, including agate nodules and chalcedony veins that formed within cooling rhyolite flows and surrounding pyroclastic deposits. The central Oregon high desert has a rich rockhounding history dating back decades, with amateur collectors regularly working public lands in Crook County to recover specimens from this productive volcanic terrain.",
+  "tips": "Search along wash bottoms and exposed hillside cuts where erosion has already exposed the best material - look for banded agate nodules partially embedded in tan and gray rhyolite host rock. Bring a small pry bar or hammer-chisel to carefully extract specimens; the host rock can be hard and wedged pieces often require patience. Look for translucent or milky white chalcedony with fine color banding, and scan the surface where lighter-colored pieces stand out against darker host rock. Early morning or late afternoon light helps reveal the subtle color variations that distinguish quality agates from plain quartz.",
+  "terrain_notes": "Elevation 4158 feet with gentle slope throughout the site. High-desert terrain with sagebrush, juniper, and scattered rocky outcrops. Walking distance from parking to best collecting areas is typically less than half a mile. Footing is uneven with scattered loose rock and volcanic debris requiring sturdy hiking boots. No significant elevation gain within main collecting areas. The gentle slope makes this accessible compared to steeper mountain sites, though the rocky surface demands attention to foot placement.",
+  "best_season": "April - May and September - October offer ideal conditions with cool temperatures and low precipitation. Summer months (June - August) are hot and can be uncomfortable at midday despite the elevation; early morning collecting is recommended. Winter (November - March) brings occasional snow at this elevation that can limit access. Spring collecting is particularly productive as winter rains help expose fresh material.",
+  "written_directions": "From Prineville (nearest town), take US 26 east toward John Day for approximately 20 miles. Near the community of Crook, look for BLM access roads heading north - specific coordinates can be entered into GPS (44.301673, -120.462876) to locate the site precisely. Passenger vehicles can typically reach the main collecting area on dirt roads, though some years higher clearance may be needed after wet weather. Park in natural pullouts near the access points and walk into collecting zones.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM access roads, typically passable for passenger cars under dry conditions. May require high clearance or 4WD during or immediately after rain or snow.",
+  "parking_notes": "Natural pullouts and informal parking areas near BLM access roads. No developed parking lot. Space for 2-4 vehicles at typical spots. No facilities or amenities available.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA. No commercial collection. No motorized excavation. Collect only hand-held specimens you can carry. Leave the area in its natural condition. Respect any temporary closures or restrictions posted by the BLM.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nCollect hand-held specimens only\nNo vehicles off designated roads\nLeave area in natural condition\nRespect all posted BLM notices",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife"
+  ],
+  "nearest_services": "Prineville, approximately 20 miles southwest, has gas, food, water, and supplies. John Day, approximately 35 miles east, also offers full services.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers. Unpaved dirt road access from US 26 to parking areas. Rocky, uneven footing in collecting zones requires sturdy footwear. No wheelchair accessibility. Walking distances typically under one mile from parking to productive collecting areas. Not suitable for visitors with significant mobility limitations due to uneven terrain and loose rock.",
+  "alternative_names": [],
+  "nearest_city": "Prineville",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/oregon/sheep-creek-or/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kinds of rocks and gems can I find rockhounding at Sheep Creek in Oregon?",
+      "answer": "Sheep Creek is known for producing quality agate, jasper, chalcedony, and obsidian specimens. The agates here show excellent banding and translucency, typically found as nodules within rhyolite host rock. Most finds range from thumbnail-sized pieces to palm-sized specimens, making this an excellent location for both beginners and experienced collectors."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Sheep Creek, Oregon?",
+      "answer": "No permit is required. Sheep Creek sits on BLM public land where personal use collection is allowed under FLPMA regulations. You can collect without filing any paperwork, though you must follow the 25-pound daily limit and personal use only restrictions."
+    },
+    {
+      "question": "How much can I collect per day at Sheep Creek rockhounding site?",
+      "answer": "You can collect up to 25 pounds per day per person under BLM personal use rules. This limit allows serious collectors to gather meaningful specimens while protecting the resource. The weight restriction is based on what one person can reasonably carry out."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Sheep Creek in Crook County?",
+      "answer": "April through May and September through October offer ideal conditions with comfortable temperatures and low precipitation. These spring and fall periods make for pleasant all-day collecting. Summer months can be hot despite the 4158-foot elevation, while winter snow occasionally closes access."
+    },
+    {
+      "question": "Is Sheep Creek rockhounding site suitable for families with young children?",
+      "answer": "Yes, Sheep Creek is beginner and family-friendly with gentle terrain and no permit requirements. The short walking distances (typically under half a mile) and easy collecting make it ideal for children ages 6 and older. Supervision is recommended due to loose rock and uneven footing, and the site has no facilities, so bring water and supplies."
+    },
+    {
+      "question": "What tools and equipment should I bring rockhounding at Sheep Creek, Oregon?",
+      "answer": "Bring a small pry bar or hammer-chisel to extract agates from the rhyolite host rock, along with a backpack for carrying specimens up to your 25-pound limit. Wear sturdy hiking boots with good grip for the rocky terrain. Bring plenty of water (no services at the site), a hat for sun protection, and a field guide for identifying quality specimens. A hand lens helps you examine color banding in potential finds before extracting them."
+    }
+  ],
+  "meta_title": "Sheep Creek Rockhounding - Oregon Agate & Jasper",
+  "meta_description": "Find agate, jasper, and chalcedony at Sheep Creek BLM land near Crook County, Oregon. No permit required. 25 lbs daily limit. Beginner-friendly high-desert rockhounding.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from central Oregon volcanic geology, specific species not mentioned in source",
+    "nearest_city - Prineville is closest major town to this GPS coordinate",
+    "written_directions - no specific road names provided, directions inferred from regional geography and proximity to US 26",
+    "hazards - snakes and wildlife typical for high-desert Oregon, heat and sharp_material inferred from terrain type"
+  ],
+  "enriched_at": "2026-04-21T18:52:18.827Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:53:50.673Z"
+}

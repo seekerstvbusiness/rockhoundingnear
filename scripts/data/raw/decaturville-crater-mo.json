@@ -1,0 +1,64 @@
+{
+  "slug": "decaturville-crater-mo",
+  "name": "Decaturville Crater",
+  "lat": 37.892992,
+  "lng": -92.708479,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Laclede County",
+  "city_slug": "laclede-county",
+  "county": "Laclede",
+  "county_slug": "laclede",
+  "geocoded_city": "Laclede County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Decaturville%20Crater%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Decaturville%20Crater",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Decaturville%20Crater%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1067,
+      "meters": 325
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Waynesville",
+      "distance_mi": 27,
+      "population": 5314
+    },
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:05:38.324Z"
+  },
+  "scraped_at": "2026-04-21T19:05:38.324Z",
+  "scrape_quality": "minimal"
+}

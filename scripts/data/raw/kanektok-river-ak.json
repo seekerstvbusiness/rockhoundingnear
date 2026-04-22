@@ -1,0 +1,57 @@
+{
+  "slug": "kanektok-river-ak",
+  "name": "Kanektok River",
+  "lat": 59.785418,
+  "lng": -161.79439,
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "state_code": "AK",
+  "city": "Unorganized Borough",
+  "city_slug": "unorganized-borough",
+  "county": "Unorganized Borough",
+  "county_slug": "unorganized-borough",
+  "geocoded_city": "Unorganized Borough",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-alaska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Kanektok%20River%20Alaska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Kanektok%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Kanektok%20River%20Alaska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:23:34.268Z"
+  },
+  "scraped_at": "2026-04-21T18:23:34.268Z",
+  "scrape_quality": "minimal"
+}

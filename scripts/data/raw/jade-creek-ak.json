@@ -1,0 +1,60 @@
+{
+  "slug": "jade-creek-ak",
+  "name": "Jade Creek",
+  "lat": 67.164655,
+  "lng": -158.171252,
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "state_code": "AK",
+  "city": "Northwest Arctic Borough",
+  "city_slug": "northwest-arctic-borough",
+  "county": "Northwest Arctic Borough",
+  "county_slug": "northwest-arctic-borough",
+  "geocoded_city": "Northwest Arctic Borough",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-alaska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Jade%20Creek%20Alaska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Jade%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Jade%20Creek%20Alaska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 189,
+      "meters": 58
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:22:04.312Z"
+  },
+  "scraped_at": "2026-04-21T18:22:04.313Z",
+  "scrape_quality": "minimal"
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "yadkin-river-nc",
+  "name": "Yadkin River",
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "city": "Taylorsville",
+  "city_slug": "taylorsville",
+  "county": "Alexander",
+  "county_slug": "alexander",
+  "lat": 35.934507,
+  "lng": -81.069899,
+  "gem_types": [
+    "Quartz",
+    "Jasper",
+    "Agate",
+    "Garnet"
+  ],
+  "short_description": "Popular Piedmont river site for quartz, jasper, and garnet hunting along streambanks. Public access with easy collecting on gentle slopes.",
+  "description": "The Yadkin River in Alexander County offers rockhounds excellent access to Piedmont-region gemstones along productive streambanks and gravel bars. This site sits in North Carolina's Piedmont geological province, where ancient metamorphic rocks and alluvial deposits have concentrated quartz, jasper, garnet, and other minerals in the river channel and adjacent areas. The gentle slope and accessible terrain make this an ideal location for beginners and families looking to collect along a major river system without technical climbing or remote backcountry travel.\n\nStreamside collecting here focuses on the gravel bars, bedrock exposures, and alluvial fans where flowing water naturally concentrates heavier minerals. Garnet is particularly common in this region due to the metamorphic schists and gneisses that dominate the Piedmont bedrock. Clear quartz, milky quartz, and rose quartz specimens regularly turn up in the gravel. Jasper nodules and agate fragments are also found, typically weathered and polished by river action.\n\nAccess is straightforward with multiple pullouts and parking areas along the river corridor. The relatively low elevation (945 feet) and gentle slopes mean you can walk the streambanks without scrambling or technical navigation. Water levels vary seasonally, so plan your visit accordingly - lower water in late summer and fall exposes more gravel bars and collecting areas.\n\nThis location is ideal for day trips from nearby Taylorsville or Statesville. Bring a classifier or mesh screen to process gravel efficiently, and wear sturdy boots since the river rocks can be sharp and slippery when wet. The combination of easy access, productive gemstone deposits, and beginner-friendly terrain makes Yadkin River a core destination for North Carolina rockhounders.",
+  "history": "The Yadkin River drainage lies within the Piedmont province, formed by ancient metamorphic rocks that underwent intense folding and mineralization during the Alleghenian orogeny (mountain-building event) roughly 300 million years ago. These metamorphic terranes - schists, gneisses, and amphibolites rich in garnet and other minerals - have been exposed to weathering and erosion for millions of years, with the Yadkin River system concentrating the resistant minerals into productive gravel deposits that rockhounds work today.",
+  "tips": "Walk the exposed gravel bars and low water areas along the main channel where heavier minerals settle; focus on bends in the river where material accumulates. Bring a 5-gallon bucket and classifier screen to process gravel efficiently and separate garnets and quartz from lighter material. Look for small red/dark red garnet grains (often 2-5 mm) mixed in the black sand layers, and clear to milky quartz chunks of various sizes; jasper typically appears as reddish or brown polished fragments. Best collecting occurs after water levels drop in fall or early summer when more gravel bars are exposed.",
+  "terrain_notes": "Elevation 945 feet with gentle slope along the river corridor. Terrain is mostly open streambank and gravel bars with mixed vegetation. Walking distance from parking typically 100-300 feet to productive collecting areas. Footing is uneven with river rocks and gravel; wear sturdy boots for traction on wet or slippery surfaces. Water crossings may be necessary during high flow periods.",
+  "best_season": "May - October. Late summer through fall (August - October) offers the lowest water levels, exposing maximum gravel bar area for collecting. Spring (May - June) can be productive but higher water may limit access. Avoid winter months when water is cold and rock scrambling is hazardous.",
+  "written_directions": "From Taylorsville, take NC 16 north approximately 3 miles toward the Alexander County/Catawba County line. Multiple pullouts and river access points exist along NC 16 and local roads (Stony Mountain Road, Hiddenite Road) that parallel the Yadkin River. Park at designated pullouts near the river and walk down the bank to accessible gravel bars and streamside areas. GPS coordinates 35.934507, -81.069899 mark a central access point; check local conditions before visiting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved roads (NC 16) provide primary access. Local roads in decent condition. No high-clearance vehicle required for standard access points.",
+  "parking_notes": "Multiple pullouts along NC 16 and parallel roads near the river. Informal parking areas with space for several vehicles. No developed parking lot; use roadside pullouts.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Public access along the Yadkin River for personal rockhounding use. Collect quartz, garnet, jasper, and other gemstones from exposed gravel bars and streambanks. No commercial collection. Respect private property boundaries and obtain permission where necessary. Do not trespass on adjacent private land. Stay within public river corridor and access points.",
+  "quantity_limits": null,
+  "rules": "Personal use only\nNo commercial collection\nRespect private property lines\nCollect from exposed streambanks and gravel bars only\nNo motorized equipment\nDo not dig into river banks",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "flash_floods",
+    "cold"
+  ],
+  "nearest_services": "Taylorsville, approximately 3 miles south. Gas, food, and water available in town.",
+  "accessibility_notes": "Relatively flat terrain accessible to most hikers. Streambanks and gravel bars require walking on uneven surfaces with loose rock and potentially slippery footing. Not wheelchair accessible. Sturdy boots essential due to sharp rocks and wet conditions. Good for families with children ages 6 and up who can manage uneven ground.",
+  "alternative_names": [],
+  "nearest_city": "Taylorsville",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/yadkin-river-nc/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/yadkin-river-nc/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Yadkin River in North Carolina?",
+      "answer": "The Yadkin River is known for garnet, quartz, jasper, and agate. Garnets are particularly abundant - you'll find small red to dark red grains mixed in black sand layers along gravel bars. Clear, milky, and rose quartz chunks are common, and weathered jasper fragments are regularly recovered after water level drops."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Yadkin River in Alexander County?",
+      "answer": "No permit is required for personal rockhounding at Yadkin River. It is open to the public for casual gemstone collecting along the river corridor. However, respect private property boundaries and do not trespass on adjacent land. Always verify access at your chosen spot before collecting."
+    },
+    {
+      "question": "Is Yadkin River rockhounding suitable for beginners and families?",
+      "answer": "Yes, Yadkin River is excellent for beginners and families. The terrain is gentle with easy access from parking areas to productive collecting spots. Children ages 6 and up can participate with proper footwear. The streambank environment is straightforward to work, and you need only basic tools like a bucket and classifier screen."
+    },
+    {
+      "question": "When is the best time to rockhound at Yadkin River?",
+      "answer": "Late summer through fall (August - October) is ideal because water levels drop and expose more gravel bars. Spring (May - June) can be productive but higher water may limit access. Avoid winter when cold water and slippery rocks pose hazards."
+    },
+    {
+      "question": "What tools and equipment do I need for Yadkin River collecting?",
+      "answer": "Bring a sturdy pair of hiking boots with good traction, a 5-gallon bucket, and a classifier or mesh screen to process gravel. A small hand shovel is useful for moving material but not required. Wear weather-appropriate clothing and bring water. A headlamp is helpful if you plan an early-morning or late-afternoon visit."
+    },
+    {
+      "question": "How far is Yadkin River from Taylorsville and what is the drive like?",
+      "answer": "Yadkin River access points are approximately 3 miles north of Taylorsville via NC 16. The drive is easy on paved roads with no high-clearance vehicle needed. Multiple pullouts along NC 16 and parallel roads provide convenient parking within a few hundred feet of productive gravel bars."
+    }
+  ],
+  "meta_title": "Yadkin River Rockhounding - North Carolina",
+  "meta_description": "Find garnet, quartz, and jasper at Yadkin River, Alexander County NC. Public access, beginner-friendly streamside collecting. Open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type and primary_category inferred as public based on river location and typical NC public waterway policies",
+    "collection_rules inferred from standard North Carolina public river access norms without specific source",
+    "parking_notes inferred from typical Piedmont river access characteristics"
+  ],
+  "enriched_at": "2026-04-22T06:46:10.490Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T06:49:49.452Z"
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "howes-gulch-mines-co",
+  "name": "Howes Gulch Mines",
+  "state": "Colorado",
+  "state_slug": "colorado",
+  "city": "Fort Collins",
+  "city_slug": "fort-collins",
+  "county": "Larimer",
+  "county_slug": "larimer",
+  "lat": 40.59111,
+  "lng": -105.225,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Public BLM rockhounding site in the Colorado Front Range foothills near Fort Collins. Collect quartz, feldspar, and mica specimens from historic mining areas in gentle mountain terrain.",
+  "description": "Howes Gulch Mines sits on public BLM land in Larimer County's picturesque Front Range foothills at 6,824 feet elevation. This location offers rockhounders access to mineralized areas that attracted historic prospectors and miners seeking valuable mineral deposits. The site features relatively gentle slopes and accessible terrain, making it suitable for rockhounders of varying experience levels.\n\nThe geology of this area reflects the Precambrian granite and metamorphic rocks that form the core of the Colorado Front Range. Quartz veins, feldspar crystals, and mica sheets occur within these ancient granitic formations, the result of Proterozoic igneous activity and subsequent weathering that exposed mineral-rich outcrops. The gentle slopes and presence of old mining scars indicate where collectors and prospectors have previously worked productive areas.\n\nVisitors can expect to find quartz specimens ranging from clear to smoky varieties, along with well-formed feldspar crystals and sheets of mica. The relatively accessible terrain and moderate elevation make this a rewarding site for both beginning and experienced collectors. The area's historical significance adds educational value, as visitors can observe mining techniques and mineralization patterns that made this location noteworthy during Colorado's mining era.\n\nAlways respect the 25-pound daily collection limit and leave the site in good condition for future rockhounders. The BLM designation means no permits are required, but personal use only is strictly enforced. Bring adequate water, sun protection, and sturdy hiking boots for the gentle but uneven terrain.",
+  "history": "Howes Gulch Mines represents part of the Colorado Front Range's Precambrian basement rocks, where Proterozoic granite intrusions and metamorphic complexes were uplifted and exposed by tectonic activity. Historic mining and prospecting in this region targeted quartz veins and associated mineral deposits that formed during deep crustal magmatic processes over 1.7 billion years ago.",
+  "tips": "Focus your search on areas around old mining scars and exposed granite outcrops where weathering has loosened quartz and feldspar crystals from the parent rock. Use a small chisel and hammer to carefully extract specimens from loose material at the base of outcrops rather than hammering into solid rock. Look for clear or smoky quartz crystals in veins and milky feldspar with glassy luster on fracture surfaces; mica sheets often peel away naturally from weathered granite.",
+  "terrain_notes": "Elevation 6,824 feet with gentle slopes and exposed granite outcrops. Terrain consists of rocky foothills with scattered vegetation. Walking distances from parking to productive areas typically range from 0.25 to 1 mile. Footing is uneven and rocky but not steep; sturdy hiking boots recommended.",
+  "best_season": "June - September. Higher elevation (above 6,800 ft) makes this site most accessible during summer and early fall months when snow has melted and trails are clear. May and October can work with caution regarding lingering snow or early storms.",
+  "written_directions": "From Fort Collins, take US 287 north approximately 8 miles toward Wyoming. Turn west onto County Road 27G and continue about 3 miles into the foothills. Look for BLM access markers and a rough pullout area near old mining scars visible from the road. Park safely off the roadway and hike upslope to the mineralized areas marked by historic diggings.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "County Road 27G is unpaved and may be rough or rutted depending on season. Passenger vehicles can typically access the general area, but high-clearance or 4WD recommended after heavy rain or snow melt.",
+  "parking_notes": "Rough pullout area near the site. No developed parking lot. Space is limited; arrive early during peak season. Park completely off roadway to allow passage of other vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No explosives. Respect any posted closure areas or mining claims.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo explosives\nRespect posted areas and mining claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "abandoned_mines",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Fort Collins, approximately 12-15 miles south. Gas, food, water, and supplies available there.",
+  "accessibility_notes": "Relatively flat terrain with gentle slopes accessible to most hikers. Unpaved road to parking area. Uneven rocky terrain and old mining scars require sturdy footwear. Not wheelchair accessible. Hikes of 0.25 to 1 mile from parking to productive areas.",
+  "alternative_names": [],
+  "nearest_city": "Fort Collins",
+  "nearest_city_distance": 13,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/howes-gulch-mines-co/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/howes-gulch-mines-co/mineral-1-mica.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/howes-gulch-mines-co/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/colorado/howes-gulch-mines-co/mineral-2-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals can I find at Howes Gulch Mines near Fort Collins?",
+      "answer": "You can collect quartz, feldspar, and mica at Howes Gulch Mines. Quartz ranges from clear to smoky varieties in veins throughout the granite. Feldspar crystals with glassy luster are common, and mica sheets often peel naturally from weathered rock. All are typical of Colorado Front Range Precambrian granite formations."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Howes Gulch Mines BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Howes Gulch Mines. It is public BLM land managed under FLPMA. You only need to follow the 25-pound daily collection limit and personal use rules. No fees apply."
+    },
+    {
+      "question": "How much can I collect per day at Howes Gulch Mines?",
+      "answer": "You can collect a maximum of 25 pounds per day at Howes Gulch Mines under BLM FLPMA regulations. This limit applies to all personal use rockhounding on this public land. Commercial collection is not permitted."
+    },
+    {
+      "question": "Is Howes Gulch Mines beginner-friendly for rockhounding in Colorado?",
+      "answer": "Yes, Howes Gulch Mines is beginner-friendly. The terrain is relatively flat with gentle slopes, and specimens are accessible without advanced climbing skills. Old mining scars show where to focus your search, and quartz and feldspar are easy to identify. Bring a small chisel and hammer for basic collecting."
+    },
+    {
+      "question": "What is the best time of year to rockhound at Howes Gulch Mines?",
+      "answer": "June through September is ideal for visiting Howes Gulch Mines. The 6,824-foot elevation means snow can linger into May and return in October. Summer and early fall offer the most reliable access, clear trails, and comfortable temperatures for a full day of collecting."
+    },
+    {
+      "question": "How far is Howes Gulch Mines from Fort Collins and what should I bring?",
+      "answer": "Howes Gulch Mines is approximately 13 miles north of Fort Collins, about 20-30 minutes by vehicle. Bring plenty of water, sun protection, sturdy hiking boots, a small chisel and hammer, a collection bag, and a scale to track your 25-pound daily limit. Cell service is spotty, so plan ahead."
+    }
+  ],
+  "meta_title": "Howes Gulch Mines Rockhounding - Colorado BLM",
+  "meta_description": "Collect quartz, feldspar, and mica at Howes Gulch Mines on Colorado BLM land near Fort Collins. No permit required, 25 lb daily limit. Beginner-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "parking_notes",
+    "road_conditions",
+    "cell_service"
+  ],
+  "enriched_at": "2026-04-21T16:55:30.156Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T16:56:58.543Z"
+}

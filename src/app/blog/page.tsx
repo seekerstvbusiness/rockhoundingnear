@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { SITE_NAME, SITE_URL } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'Rockhounding Blog & Tips',
+  title: 'Rockhounding Blog',
   description: `Guides, tips, and news for rockhounds. Learn where to find gems, how to identify minerals, and get the most out of your rockhounding trips.`,
   alternates: { canonical: `${SITE_URL}/blog` },
 }
@@ -38,7 +38,7 @@ export default function BlogPage() {
       <section className="bg-ruby-gradient py-16">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="font-heading text-4xl md:text-5xl font-bold text-white mb-4">
-            Blog &amp; Guides
+            Rockhounding Blog
           </h1>
           <p className="text-white/75 text-xl max-w-2xl mx-auto leading-relaxed">
             Tips, guides, and field notes for rockhounds at every level. Coming soon.

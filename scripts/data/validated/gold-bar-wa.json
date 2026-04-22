@@ -1,0 +1,97 @@
+{
+  "slug": "gold-bar-wa",
+  "name": "Gold Bar",
+  "state": "Washington",
+  "state_slug": "washington",
+  "city": "Gold Bar",
+  "city_slug": "gold-bar",
+  "county": "Snohomish",
+  "county_slug": "snohomish",
+  "lat": 47.85662,
+  "lng": -121.710075,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "Historic gold prospecting area along the Skykomish River in the Cascade foothills. Pan for gold and search for quartz and jasper specimens in accessible streamside locations.",
+  "description": "Gold Bar is a small town in Snohomish County named for its rich placer gold deposits discovered during the late 1800s gold rushes. The Skykomish River valley remains a prime location for recreational gold panning and rockhounding, with glacially-fed streams that expose new mineral deposits seasonally. The terrain around Gold Bar features mixed coniferous forest at relatively low elevation (175 ft), making this one of the most accessible gold prospecting areas in western Washington. Visitors can search stream bars and benches for small gold flakes and flour gold, along with quartz veins, colorful jasper, and agate specimens common to the region. The accessibility, historic significance, and year-round potential make Gold Bar appealing for beginners and experienced prospectors alike.",
+  "history": "Gold Bar sits in the Cascadian geological province where Late Cretaceous granitic intrusions and associated quartz veins were exposed by glacial erosion and river incision. Placer gold deposits in the Skykomish River drainage accumulated from weathering of these high-grade lode sources, attracting prospectors in the 1890s and creating the community.",
+  "tips": "Focus your search on inside bends of the river where heavier materials concentrate, and on old gravel benches 5-15 feet above current water level - these often hold the most gold. Use a gold pan in the finest material near bedrock and behind large rocks in the streambed; flour gold and small flakes are common finds. Look for quartz outcrops and veins on exposed hillsides and stream banks - jasper and agate often occur as water-worn pebbles in the stream itself. Spring runoff (March-May) exposes fresh material and is the best season for finding specimens.",
+  "terrain_notes": "Low elevation (175 ft) with mixed evergreen forest dominated by Douglas fir and western red cedar. Terrain slopes moderately toward the Skykomisk River. Access varies from easy streamside walks to moderate scrambling over stream boulders and loose rock. Stream substrate is primarily rounded cobbles and sand with fine material in eddies. Distance from parking to productive areas typically 0.25 to 1 mile.",
+  "best_season": "March - October. Peak season is April through June when spring snowmelt brings fresh glacial material and exposes new ground. Fall (September-October) offers excellent conditions with lower water levels and good weather. Winter is possible but frequent rain and high water levels make access difficult.",
+  "written_directions": "From Gold Bar town center (intersection of Main Street and US-2), head east on US-2 toward the Skykomish River. Continue approximately 1-2 miles and look for pullouts along the highway near the river. Alternatively, take Road 60 (Forest Service Road) south from downtown Gold Bar toward riverside access points. Several informal parking areas and stream access points exist near old mining claims and public riverbank stretches.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "other",
+  "vehicle_required": "passenger",
+  "road_conditions": "US-2 is well-maintained asphalt. Forest Service Road 60 and local roads are unpaved but passable for standard vehicles in dry conditions. May be muddy during rainy periods.",
+  "parking_notes": "Multiple informal pullouts along US-2 near the river and access roads. Capacity varies from 2-8 vehicles per location. No developed parking lot; pull completely off the highway.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Recreational rockhounding and gold panning are permitted on public riverbanks and Forest Service land in this area. Respect private property and posted claims. No motorized equipment. Keep disturbance minimal. Check with Snohomish County or local Forest Service office for current access restrictions. Do not dig into hillsides; surface collection only.",
+  "quantity_limits": null,
+  "rules": "Recreational use only - no commercial collection\nRespect private property and posted mining claims\nNo motorized equipment or heavy excavation\nSurface collection only - do not dig into banks\nPack out all trash\nCheck local access status before visiting",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "flash_floods",
+    "cold",
+    "wildlife",
+    "loose_rock"
+  ],
+  "nearest_services": "Gold Bar town center has basic services (gas, food, lodging). Approximately 0.5-2 miles from most rockhounding access points.",
+  "accessibility_notes": "Generally accessible terrain with easy to moderate walking. Streamside locations require scrambling over boulders and wet rocks - sturdy footwear essential. No wheelchair access to productive areas. Low elevation and mild climate make this accessible year-round compared to higher elevation Cascade locations. Watch for slippery moss-covered rocks and swift current if wading.",
+  "alternative_names": [
+    "Skykomish River Diggings",
+    "Gold Bar Placer Fields"
+  ],
+  "nearest_city": "Gold Bar",
+  "nearest_city_distance": 0,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/washington/gold-bar-wa/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gold panning opportunities exist at Gold Bar Washington for beginners?",
+      "answer": "Gold Bar is one of Washington's most beginner-friendly gold panning locations. The Skykomish River contains fine flour gold and small flakes accessible by simple panning in streamside material. No special permits are required for recreational panning on public riverbanks, making it ideal for families and first-time prospectors. Visit in spring (April-May) when snowmelt brings fresh deposits."
+    },
+    {
+      "question": "Can I find quartz and jasper specimens near Gold Bar besides gold?",
+      "answer": "Yes. The Cascade granitic geology surrounding Gold Bar produces abundant quartz veins exposed on hillsides and in stream cuts. Colorful jasper and agate pebbles commonly appear in the Skykomish River streambed as water-worn specimens. These are easier to find than gold and excellent for collectors interested in mineral specimens rather than just placer material."
+    },
+    {
+      "question": "Is rockhounding at Gold Bar Washington free or do I need permits?",
+      "answer": "Recreational rockhounding and gold panning at Gold Bar is free and requires no permits for personal use on public riverbanks and Forest Service land. However, always check for posted claims and respect private property. Contact the local Snohomish County Forest Service office if uncertain about access to a specific area."
+    },
+    {
+      "question": "What is the best season for rockhounding and finding gold in Gold Bar?",
+      "answer": "Spring through early fall (March-October) offers the best rockhounding conditions. Peak season is April through June when spring snowmelt brings fresh material and exposes new ground. Summer and fall provide excellent weather, though fall brings lower water levels that expose more stream bars. Winter rainfall causes high water levels making access difficult."
+    },
+    {
+      "question": "What tools and equipment do I need to pan for gold at Gold Bar?",
+      "answer": "A 12-14 inch gold pan, small snuffer bottle or tweezers to collect fine gold, and waterproof boots are essential. Bring a small vial to store specimens, a sieve or classifier to speed sorting, and a backpack. Wear layers as the low elevation area is cool and damp even in summer. Sturdy gloves help protect hands on sharp rocks."
+    },
+    {
+      "question": "Is Gold Bar Washington rockhounding suitable for kids and families?",
+      "answer": "Absolutely. The low elevation (175 ft), easily accessible riverside terrain, and abundance of colorful specimens make Gold Bar ideal for families with children ages 6 and up. Kids enjoy finding small gold flakes and colorful jasper pebbles. Spring and summer offer the safest conditions with stable weather and moderate water levels. Always supervise children near the river."
+    }
+  ],
+  "meta_title": "Gold Bar Rockhounding - Washington Gold Panning",
+  "meta_description": "Find gold, quartz, and jasper at Gold Bar WA. Free recreational panning on the Skykomish River. Best spring-fall. Family-friendly Cascade foothill site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "access_type and primary_category (inferred as public river access), parking_notes (informal pullouts assumed based on typical river access), collection_rules (assumed recreational use permitted on public land - verify with local Forest Service)"
+  ],
+  "enriched_at": "2026-04-21T19:25:38.505Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T19:27:13.233Z"
+}

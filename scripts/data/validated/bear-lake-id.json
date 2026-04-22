@@ -1,0 +1,97 @@
+{
+  "slug": "bear-lake-id",
+  "name": "Bear Lake",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Bear Lake County",
+  "city_slug": "bear-lake-county",
+  "county": "Bear Lake",
+  "county_slug": "bear-lake",
+  "lat": 42.11343,
+  "lng": -111.445907,
+  "gem_types": [
+    "Agate",
+    "Quartz",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "Public BLM land around Bear Lake offers scenic rockhounding for agate, quartz, and jasper in the Bear Lake Valley. Free collecting with no permit required - perfect for families and beginners.",
+  "description": "Bear Lake is a stunning alpine setting in southeastern Idaho's Bear Lake Valley, surrounded by publicly accessible BLM lands rich with mineral deposits. The area sits at the intersection of the Rocky Mountains and the Basin and Range province, creating diverse geological conditions ideal for rockhounding. Collectors can search open BLM terrain for chalcedony nodules, colorful jasper fragments, and quartz specimens that eroded from ancient volcanic and sedimentary formations.\n\nThe lake itself is a natural focal point for outdoor recreation, and the surrounding public lands offer numerous locations to search without requiring permits or fees. The exposed ridges, washes, and hillsides around Bear Lake have yielded quality specimens for decades of casual rockhounders. Water access and scenic views make this a family-friendly destination where you can combine rockhounding with hiking and camping.\n\nWashout areas near intermittent streams and exposed benches on the lower slopes produce the best material. Look for colorful fragments concentrated in deflation zones where wind and water have eroded overlying soil, exposing the underlying gemstone-bearing layers. The terrain is generally accessible to hikers of moderate fitness, though elevation changes require steady legs and proper footwear.",
+  "history": "Bear Lake Valley lies within the Tertiary volcanic and lacustrine deposit zone created during Eocene to Miocene time, when extensive volcanic activity and shallow lake systems deposited silica-rich materials that transformed into chalcedony, agate, and jasper nodules. The basin's geological structure, shaped by Basin and Range extension, exposed these mineral-bearing formations to surface weathering and erosion, concentrating collectible specimens in washes and hillside deflation zones.",
+  "tips": "Search wash bottoms and exposed benches on south-facing slopes where water erosion and wind deflation concentrate lighter specimens. Bring a crack hammer to test nodules - good agate and chalcedony will ring clearly when struck, unlike worthless limestone. Look for translucent or banded edges on specimens; the best pieces often have color layering from iron oxide staining ranging from tan and brown to red and orange.",
+  "terrain_notes": "Elevation ranges from approximately 5,900 feet at the lake level to 6,500 feet on surrounding benches. Rolling to steep sagebrush-covered hillsides with exposed rocky outcrops and gravelly washes. Footing is uneven with scattered loose rock and small basalt fragments. Walking distances from parking areas typically range from 0.5 to 3 miles depending on selected location. Terrain is open and generally navigable for experienced hikers but requires sturdy footwear and careful stepping.",
+  "best_season": "June - September. High elevation (5,900 - 6,500 ft) means spring snowmelt persists into June and winter weather returns by October. Summer months offer stable weather, melted snow access to high-elevation washes, and extended daylight for safe exploration.",
+  "written_directions": "From Montpelier, Idaho (the nearest town), take US 89 north approximately 30 miles toward the Bear Lake area. Turn east on Bear Lake Road (County Road) and continue toward the lake. Public BLM land begins at multiple points around the lake perimeter. Popular rockhounding areas are accessible from pullouts and informal parking areas along the east and north shores. Look for unsigned gravel parking areas near wash mouths and exposed ridge systems on the north side of the lake.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved gravel roads accessing primary parking areas. High-clearance vehicle recommended but passenger cars can reach most public parking pullouts. Some secondary roads may be rough after winter or heavy rain.",
+  "parking_notes": "Multiple informal pullouts and parking areas scattered around Bear Lake BLM land. No developed parking lot. Capacity varies from 2-5 vehicles per pullout. Best parking along north and east shores near visible wash systems.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation. No power tools or explosives. Hand tools only (crack hammer, chisel, bucket). Leave no holes or damage to living vegetation. Pack out all waste and excess material.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nNo power tools or explosives\nLeave no holes or visible damage\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Montpelier, Idaho - approximately 30 miles southwest. Has gas, groceries, restaurants, and lodging. Bear Lake itself has a small resort area with limited services.",
+  "accessibility_notes": "Relatively accessible for easy to moderate hikers. Uneven rocky terrain with loose stone footing requires sturdy boots. Rolling hillsides with elevation gain of 200 - 500 feet from parking areas. No wheelchair access. Some parking pullouts are at the same elevation as productive collecting areas, minimizing walk distance. Families with young children should stick to lower-elevation wash areas near parking.",
+  "alternative_names": [],
+  "nearest_city": "Montpelier",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/bear-lake-id/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What types of gemstones can you find rockhounding at Bear Lake, Idaho?",
+      "answer": "Bear Lake BLM land yields agate, chalcedony, quartz, and jasper specimens. The most prized finds are banded agates and translucent chalcedony nodules in tan, brown, red, and orange colors. Most material is found as nodules or fragments in washes and on exposed benches rather than whole pieces."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Bear Lake, Idaho?",
+      "answer": "No permit is required for recreational rockhounding on BLM land at Bear Lake. Collection is free under FLPMA personal use regulations. You must follow the 25 lb per day limit and hand tool only restrictions."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Bear Lake, Idaho?",
+      "answer": "June through September is optimal. The high elevation (5,900 - 6,500 ft) means spring snow persists into early summer and winter weather returns by October. Summer months offer stable weather, accessible washes, and safe daylight hours for exploration."
+    },
+    {
+      "question": "How far is Bear Lake rockhounding from the nearest town?",
+      "answer": "Bear Lake is approximately 30 miles north of Montpelier, Idaho, which is the closest town with gas, food, and lodging services. The scenic drive takes about 45 minutes from Montpelier to reach the main BLM rockhounding areas."
+    },
+    {
+      "question": "Is Bear Lake good for beginner rockhounders and families?",
+      "answer": "Yes, Bear Lake is beginner and family-friendly. The terrain is accessible, no permits are required, and collecting is free. The lower elevation washes near parking provide short walks for young children while the higher benches suit experienced hikers. Many specimens are visible on the surface, making finds quick for new collectors."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at Bear Lake?",
+      "answer": "Bring a crack hammer and cold chisel for testing nodules and breaking specimens. A 5 gallon bucket is useful for carrying 25 lb daily limit. Wear sturdy hiking boots for uneven, rocky terrain. Bring plenty of water - at least 2 liters per person - as the sagebrush terrain offers no shade. A backpack, sunscreen, and a hat are essential for the high elevation exposure."
+    }
+  ],
+  "meta_title": "Bear Lake Rockhounding - Idaho BLM Land",
+  "meta_description": "Find agate, quartz, and chalcedony at Bear Lake, Idaho. Free BLM public land rockhounding near Montpelier - no permit required. Perfect for beginners.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance",
+    "written_directions",
+    "parking_notes",
+    "road_conditions"
+  ],
+  "enriched_at": "2026-04-22T09:50:23.258Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:14.719Z"
+}

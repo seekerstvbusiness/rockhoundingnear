@@ -1,0 +1,100 @@
+{
+  "slug": "henderson-nv",
+  "name": "Henderson",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Henderson",
+  "city_slug": "henderson",
+  "county": "Clark",
+  "county_slug": "clark",
+  "lat": 35.973965,
+  "lng": -115.057361,
+  "gem_types": [
+    "Quartz",
+    "Chalcedony",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "BLM public land in the Las Vegas Valley offering accessible rockhounding for quartz, chalcedony, and jasper. Free collecting with daily limits on common desert minerals.",
+  "description": "Henderson sits within Clark County's extensive BLM holdings in the Mojave Desert region of southern Nevada. This area is popular with both beginners and experienced rockhounders due to easy access and reliable finds of common desert minerals. The landscape consists of bajadas and alluvial fans typical of the Basin and Range province, where weathered volcanic and sedimentary materials have concentrated collectible specimens across exposed washes and hillsides.\n\nThe primary gems found here are quartz varieties, chalcedony, jasper, and agate nodules that weather out of the surrounding geology. These minerals are abundant in the region due to millions of years of volcanic activity and subsequent chemical weathering. Most collecting occurs in accessible desert washes and on gentle slopes where winter rains and flash flooding have exposed new material each season.\n\nThis is an ideal location for families and newcomers to rockhounding. The terrain is relatively open, parking is straightforward, and you can find specimens on the first day. Because it is BLM land managed for multiple uses, there are minimal restrictions - no permits required and no fees. The main limitation is the 25-pound daily personal use limit set by federal law.\n\nThe area can get very hot during summer months, so planning visits for fall through spring is essential. Winter temperatures are mild and ideal for extended collecting sessions. The proximity to Henderson means you are never far from services, water, or emergency assistance.",
+  "history": "This region lies within the Mojave Desert section of the Basin and Range physiographic province. Miocene-age volcanism (approximately 20-15 million years ago) deposited rhyolitic and andesitic materials across the landscape. Subsequent erosion and chemical weathering of these volcanic rocks, combined with silica-rich groundwater percolation, created the quartz, chalcedony, and jasper varieties found abundantly in surface washes and pediment gravels today.",
+  "tips": "Search in dry washes and bajada fans where water flow during winter storms has concentrated lighter minerals - look for glassy quartz pieces and banded chalcedony nodules. Bring a small hand pick or rock hammer to break weathered nodules open; many specimens are hidden inside dull-looking exteriors. Scan the ground after sunrise when low-angle light reveals color contrasts; white and translucent quartz stands out against darker desert soil. Always collect in early morning or late afternoon to avoid midday heat, and bring extra water even in winter.",
+  "terrain_notes": "Elevation around 2,000-2,500 feet. Terrain is predominantly open desert with gentle to moderate slopes, scattered creosote and bursage vegetation, and numerous dry washes cutting through alluvial fans. Ground is rocky with loose cobbles and fine sand. Walking distance from parking to productive areas ranges from 50 feet to 1-2 miles depending on which wash or bajada you explore. Footing is uneven but not technical; sturdy hiking boots are recommended but not required on main trails.",
+  "best_season": "October - April. Winter and early spring offer mild daytime temperatures (60-75 degrees Fahrenheit) ideal for extended rockhounding. Summer heat regularly exceeds 110 degrees, making midday collecting dangerous. Late winter rains expose fresh material in washes.",
+  "written_directions": "From Henderson city center, take US 95 south toward Boulder City for approximately 8-10 miles. Watch for BLM access signs and pullouts on the west side of the highway near wash crossings. Alternatively, from the intersection of Lake Mead Boulevard and Boulder Highway, drive south on Boulder Highway for 6-7 miles; BLM land access points appear on both sides of the road. Park at any designated pullout or wash crossing and walk into the bajada or up dry wash channels. GPS coordinates point to a central area; multiple access points exist throughout this BLM district.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 95 and Boulder Highway are paved. Secondary access roads to specific pullouts are unpaved but passable to passenger vehicles in good weather. Winter rains may temporarily close some dirt access spurs; check local conditions before visiting.",
+  "parking_notes": "Multiple unsigned pullouts and wide shoulders along US 95 and Boulder Highway serve as parking. Capacity varies from 2-3 vehicles per small pullout to 10+ at larger gathering areas near productive washes. No formal parking lot. Do not block traffic or private driveways.",
+  "cell_service": "reliable",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or powered tools. Hand tools such as picks, hammers, chisels, and screens are allowed. All collection must be non-destructive to landscape and mineral deposits. Respect active mining claims if marked.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools permitted\nNon-destructive collecting methods only\nRespect marked mining claims",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "loose_rock",
+    "flash_floods"
+  ],
+  "nearest_services": "Henderson city center, approximately 8-10 miles north via US 95. Full services including gas stations, restaurants, water, and emergency clinics. Boulder City, approximately 10 miles south, offers additional supplies and visitor services.",
+  "accessibility_notes": "Terrain is relatively flat to gently sloping and accessible to most hikers and families with basic fitness. Unpaved parking pullouts and loose rocky ground require sturdy footwear but present no major barriers. No wheelchair accessibility on natural terrain, though accessible parking exists near highway. Short walks to productive areas (under 1 mile) keep physical demands low. Summer heat is the primary accessibility concern; winter visits are strongly recommended.",
+  "alternative_names": [
+    "Clark County BLM",
+    "Henderson BLM District"
+  ],
+  "nearest_city": "Henderson",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/henderson-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/henderson-nv/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can you find rockhounding near Henderson Nevada?",
+      "answer": "Henderson BLM land is rich in quartz, chalcedony, jasper, and agate. Quartz is the most abundant and comes in both clear and milky varieties. Chalcedony often forms banded nodules in earth tones of brown, tan, and cream. Jasper appears as solid opaque specimens with varied coloring, and agate nodules are prized for their banded interior patterns that emerge when cracked open."
+    },
+    {
+      "question": "Is rockhounding free at Henderson Nevada BLM land?",
+      "answer": "Yes, rockhounding on BLM land near Henderson is completely free. No permits are required and there are no fees. The only restriction is the 25-pound daily limit per person for personal use collection, which is federal law under FLPMA."
+    },
+    {
+      "question": "What is the best season to go rockhounding at Henderson Nevada?",
+      "answer": "October through April is ideal. Winter and early spring offer comfortable daytime temperatures between 60-75 degrees Fahrenheit, making it safe and enjoyable to spend hours in the desert. Summer temperatures frequently exceed 110 degrees and pose a serious heat hazard. Late winter rains also expose fresh material in washes."
+    },
+    {
+      "question": "How do you find quartz and chalcedony in Henderson Nevada washes?",
+      "answer": "Search in dry washes and bajada fans where winter runoff concentrates lighter minerals. Look for glassy translucent quartz pieces and banded chalcedony nodules. Many specimens hide inside dull-looking weathered exteriors, so use a hand pick or rock hammer to split open nodules. Early morning light makes color contrasts easier to spot."
+    },
+    {
+      "question": "Is Henderson Nevada rockhounding suitable for kids and beginners?",
+      "answer": "Absolutely. Henderson is an excellent beginner and family location. The terrain is relatively flat with gentle slopes, parking is easy, and you will find specimens on your first visit. No permits or special knowledge are required. Kids ages 6 and up can participate safely, and the short walks to productive areas make it manageable for families with young children."
+    },
+    {
+      "question": "What tools and equipment do you need to rockhound at Henderson Nevada?",
+      "answer": "Bring a hand pick or small rock hammer to break open nodules and extract specimens. A cold chisel helps split stubborn rocks. Wear sturdy hiking boots for the rocky, uneven terrain. Always carry plenty of water even in winter, and sunscreen. A small backpack keeps your hands free during collection. In summer, bring extra water and visit only in early morning or late afternoon to avoid dangerous heat."
+    }
+  ],
+  "meta_title": "Henderson Rockhounding - Find Quartz & Agate in Nevada",
+  "meta_description": "Free rockhounding on BLM land near Henderson, Nevada. Collect quartz, chalcedony, jasper, and agate. Beginner-friendly with no permits required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance"
+  ],
+  "enriched_at": "2026-04-22T06:45:03.093Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:30.837Z"
+}

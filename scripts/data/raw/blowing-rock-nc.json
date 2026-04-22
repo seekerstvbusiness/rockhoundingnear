@@ -1,0 +1,56 @@
+{
+  "slug": "blowing-rock-nc",
+  "name": "Blowing Rock",
+  "lat": 36.145051,
+  "lng": -81.676797,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Watauga County",
+  "city_slug": "watauga-county",
+  "county": "Watauga",
+  "county_slug": "watauga",
+  "geocoded_city": "Watauga County",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Blowing%20Rock%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Blowing%20Rock"
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Blowing%20Rock%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": null,
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-22T02:26:51.666Z"
+  },
+  "scraped_at": "2026-04-22T02:26:51.667Z",
+  "scrape_quality": "minimal"
+}

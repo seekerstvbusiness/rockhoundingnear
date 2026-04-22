@@ -1,0 +1,98 @@
+{
+  "slug": "mockingbird-gap-nm",
+  "name": "Mockingbird Gap",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Socorro",
+  "city_slug": "socorro",
+  "county": "Socorro",
+  "county_slug": "socorro",
+  "lat": 33.545826,
+  "lng": -106.452684,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Socorro offering excellent agate and jasper collecting in high desert terrain. Free rockhounding with a 25 lb daily limit and no permit required.",
+  "description": "Mockingbird Gap is a productive rockhounding area managed by the Bureau of Land Management in Socorro County, New Mexico. The site sits within the Basin and Range physiographic province, where Miocene-era volcanic and hydrothermal activity deposited silica-rich minerals that crystallized into the agates, jaspers, and chalcedony specimens collectors seek today. The landscape is typical of central New Mexico's high desert - exposed volcanic ridges, wash gravels, and bajada flats scattered with colorful nodules and fragments.\n\nThis location is particularly appealing to rockhounders because it requires no permit, charges no fees, and allows personal collection up to 25 pounds per day under Federal Land Policy and Management Act (FLPMA) guidelines. The terrain is accessible to most hikers and vehicles, making it suitable for families and beginners as well as experienced collectors. The combination of public access, abundant material, and scenic desert setting makes Mockingbird Gap a reliable destination.\n\nCollectors typically find agate nodules in varying colors - reds, browns, whites, and grays - along with banded jasper and translucent chalcedony pieces. Material ranges from small polishable specimens to larger nodules worth cracking open at home. The gap itself and surrounding wash areas are the most productive zones, where water erosion has concentrated heavier stones over time.\n\nBring plenty of water, sun protection, and sturdy digging tools. The area can be windy and exposure is significant, so dress in layers and plan your visit during the cooler months. The remoteness and open terrain mean cell service may be spotty, so carry a map and let someone know your plans.",
+  "history": "Mockingbird Gap lies within the Socorro Magnesite District, an area where Miocene volcanism (roughly 15-20 million years ago) created extensive rhyolitic tuffs and silica-rich hydrothermal deposits. The nodular agates and jaspers found here formed as silica precipitated from groundwater circulating through fractured volcanic rock, creating the hard, colorful specimens visible today in desert washes and eroded hillsides.",
+  "tips": "Search along the dry wash bottoms and gentle bajada slopes where water erosion naturally concentrates the heavier agate and jasper nodules. Look for partial exposures on the surface - often a small colored fragment protruding from the soil signals a larger nodule beneath. A small pry bar or rock hammer is essential for extracting specimens from hard-packed soil and caliche layers. Collect in early morning or late afternoon to avoid peak heat; the exposed terrain offers almost no shade.",
+  "terrain_notes": "Elevation around 4,200-4,400 feet. Gently rolling high desert terrain with sparse creosote bush and desert scrub vegetation. Most productive collecting occurs within a half-mile of the gap and along nearby wash systems. Walking distance from parking typically one-quarter to one-half mile. Footing is generally firm but uneven due to rocks and caliche - sturdy hiking boots recommended. No significant elevation gain.",
+  "best_season": "October - April. The high desert summers are extremely hot (often exceeding 95 F) with intense sun exposure and minimal shade. Winter months offer comfortable daytime temperatures and lower dehydration risk, though nights can be cold. Late fall and early spring provide ideal conditions.",
+  "written_directions": "From Socorro, take US 60 east toward Magdalena for approximately 12 miles. Turn north (left) onto a well-maintained dirt road near the Mockingbird Gap marking. Follow this road for about 2-3 miles; you will pass through typical basin terrain with volcanic ridges visible to the east. Park at the designated BLM pullout area near the gap entrance. The main collecting area is accessible on foot from the parking area.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Dirt road in good condition, passable to standard passenger vehicles when dry. May become washboard and rough during heavy rain. High-clearance or 4WD recommended after heavy precipitation.",
+  "parking_notes": "Small unpaved pullout at the gap entrance. Space for 4-6 vehicles. No facilities or maintained lot. Shade is minimal to none.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or digging equipment. Pack out all trash. Do not damage natural features or vegetation.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo vehicles off marked roads\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Socorro, approximately 12 miles south. Full services including gas stations, restaurants, grocery stores, and medical care.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers and families with young children. Uneven rocky footing and exposed terrain in places. No wheelchair access to the main collecting areas. Sturdy footwear strongly recommended. Significant sun exposure with virtually no shade - sun protection essential.",
+  "alternative_names": [],
+  "nearest_city": "Socorro",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/mockingbird-gap-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/mockingbird-gap-nm/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find at Mockingbird Gap near Socorro, New Mexico?",
+      "answer": "Mockingbird Gap is known for producing agate nodules in reds, browns, whites, and grays, along with banded jasper and translucent chalcedony. Most specimens are small to medium-sized and suitable for cutting, polishing, or cabbing. The material here is high-quality desert agate typical of central New Mexico's volcanic belt."
+    },
+    {
+      "question": "Is there a permit or fee required to rockhound at Mockingbird Gap?",
+      "answer": "No permit or fee is required. Mockingbird Gap is on BLM public land open to free recreational rockhounding. You must follow FLPMA guidelines: personal use only, 25 lb daily limit, no commercial collection, and no motorized digging equipment."
+    },
+    {
+      "question": "What is the best time of year to visit Mockingbird Gap for rockhounding?",
+      "answer": "October through April is ideal. Summer temperatures in the high desert exceed 95 F with intense sun and minimal shade, creating heat stress and dehydration risks. Fall, winter, and early spring offer comfortable daytime temperatures and safer collecting conditions on the exposed terrain."
+    },
+    {
+      "question": "How do I find agate at Mockingbird Gap and what tools do I need?",
+      "answer": "Search along dry wash bottoms and bajada slopes where erosion concentrates heavier stones. Look for colored fragments protruding from the soil - they often indicate larger nodules beneath. Bring a pry bar, rock hammer, chisel, and a sturdy backpack. Wear gloves to protect your hands from sharp material and caliche."
+    },
+    {
+      "question": "Is Mockingbird Gap rockhounding site beginner-friendly and suitable for families?",
+      "answer": "Yes, Mockingbird Gap is excellent for beginners and families. The terrain is relatively flat and accessible to most hikers, no permit is required, and material is abundant on the surface. Bring plenty of water, sun protection, and dress for the exposed desert. Children ages 6 and up can participate comfortably."
+    },
+    {
+      "question": "What should I bring when rockhounding at Mockingbird Gap New Mexico?",
+      "answer": "Essential items include abundant water (at least 2-3 liters per person), sun protection (sunscreen, hat, sunglasses), digging tools (pry bar, hammer, chisel), a backpack, sturdy hiking boots, and a map or GPS. The area is remote with spotty cell service, so inform someone of your plans. No shade is available, so plan for early morning or late afternoon collecting."
+    }
+  ],
+  "meta_title": "Mockingbird Gap Rockhounding - Socorro, New Mexico",
+  "meta_description": "Free BLM rockhounding at Mockingbird Gap, Socorro County. Find agate, jasper, and chalcedony. No permit needed, 25 lb daily limit. Best October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions - estimated based on Socorro County geography and typical BLM access patterns",
+    "parking_notes - typical for BLM high desert sites without specific facility data",
+    "nearest_services - distance estimated from Socorro to Mockingbird Gap GPS coordinates"
+  ],
+  "enriched_at": "2026-04-22T09:28:31.098Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:29:12.497Z"
+}

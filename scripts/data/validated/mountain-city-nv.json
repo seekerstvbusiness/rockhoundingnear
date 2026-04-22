@@ -1,0 +1,102 @@
+{
+  "slug": "mountain-city-nv",
+  "name": "Mountain City",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Mountain City",
+  "city_slug": "mountain-city",
+  "county": "Elko",
+  "county_slug": "elko",
+  "lat": 41.841869,
+  "lng": -115.965708,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz",
+    "Opal"
+  ],
+  "short_description": "BLM public rockhounding near Mountain City in northeastern Nevada's high desert. Find agate, jasper, and chalcedony with no permit required and 25 lb daily limit.",
+  "description": "Mountain City sits in the heart of Elko County's high desert rockhounding country, where BLM land provides excellent public access for recreational mineral collecting. This area is part of Nevada's Basin and Range province, characterized by gentle slopes and scattered volcanic outcrops that have produced fine specimens of agate, jasper, and chalcedony for generations of rockhounds. The elevation of nearly 5700 feet creates a temperate collecting environment much of the year, with open terrain that allows you to cover significant ground while searching for specimens.\n\nThe geological setting here reflects millions of years of volcanic activity and hydrothermal alteration. Silica-rich fluids associated with Basin and Range extension created abundant nodules and seams of fine-quality agate and jasper throughout the region. Many collectors report finding nice banded specimens with good color variation, from creams and tans to reds and browns. The gentle slope of the terrain makes walking surveys productive, and you can often spot specimens weathering out of hillsides and wash banks.\n\nThis is a classic high-desert rockhounding experience: open country with excellent visibility, manageable terrain, and legitimate public access with straightforward rules. The lack of crowds makes it appealing for both beginners learning the hobby and experienced rockhounds seeking a quieter alternative to heavily trafficked sites. You'll need basic hand tools and a good eye for color and texture changes in the rock, but no special equipment or experience is required.\n\nThe BLM designation means you collect under standard federal regulations: personal use only, no commercial operations, and a 25 lb per day limit. This keeps the resource sustainable and preserves the site for future visitors. Nearby Mountain City offers minimal services, so plan accordingly with fuel and supplies.",
+  "history": "This region sits within Nevada's classic Basin and Range geological province, where Miocene-era volcanic activity (roughly 20-30 million years ago) deposited extensive silica-rich fluids through fracture zones and fault systems. These hydrothermal processes created the nodular agate and chalcedony deposits found throughout the area today. The gentle slopes and accessible terrain reflect the region's mature basin-and-range topography, shaped by millions of years of erosion exposing these mineralized zones.",
+  "tips": "Search actively along hillside washes and erosional gullies where water has exposed fresh material - these are the most productive areas. Look for subtle color changes and glossy luster in rocks; agate and chalcedony can appear nondescript in situ, so handle and examine potential specimens closely. Bring a 5-gallon bucket and sturdy gloves since sharp edges are common; a small pry bar helps extract specimens wedged in rocky banks. Work early morning or late afternoon when low-angle light makes color variations easier to spot in the pale desert rocks.",
+  "terrain_notes": "Elevation 5697 feet with gentle overall slope. Open high-desert terrain with scattered sagebrush, juniper, and low vegetation typical of northeastern Nevada. Terrain is rocky but walkable with good footing; no extreme scrambling required. Distance from parking depends on where you access BLM land, but most productive collecting is within 0.5-2 miles of pullouts. Footing is firm desert hardpan and loose rock; wear sturdy boots with ankle support.",
+  "best_season": "April - October. Spring (April-May) and early fall (September-October) offer ideal temperatures and clear skies for extended rockhounding days. Summer (June-August) can be hot but is manageable at this elevation; avoid midday heat and work dawn to mid-morning. November-March sees occasional snow and freezing nights that can make access difficult.",
+  "written_directions": "From Elko, Nevada, drive northeast on Nevada State Route 227 toward Mountain City for approximately 45 miles. Continue through Mountain City proper. BLM land surrounds the area; look for unpaved pullouts and rough access roads on both sides of the highway in the foothills east and south of town. Popular collecting areas are accessed via informal pullouts where you can see evidence of previous rockhounding activity. No formal parking area exists; use roadside pullouts on public land. A high-clearance vehicle is useful but not required to reach the best sites from main roads.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Nevada State Route 227 is paved and well-maintained. Access roads from the highway are unpaved dirt/gravel with possible washboard. Passenger vehicles are acceptable on main approaches; high-clearance may be beneficial for side roads.",
+  "parking_notes": "Informal pullouts along Nevada State Route 227 and nearby access roads. No designated parking lot. Pull completely off the highway and check that you are on public BLM land before collecting.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection or sale of specimens. No motorized excavation or heavy equipment. No removing specimens from private property without permission. Collect only on public BLM land. Pack out all waste and respect the landscape.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nStay on public BLM land only\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Mountain City offers limited services; nearest full services (fuel, food, lodging) in Elko, approximately 45 miles southwest.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers with moderate fitness. No wheelchair access to collecting areas. Loose rock and sharp edges require sturdy footwear. Unpaved access roads and informal pullouts. Heat exposure is a factor in summer. Water sources are limited; bring adequate supply.",
+  "alternative_names": [],
+  "nearest_city": "Elko",
+  "nearest_city_distance": 45,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/mountain-city-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/mountain-city-nv/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Mountain City Nevada?",
+      "answer": "The primary gems at Mountain City are agate, jasper, chalcedony, and quartz. You'll find nodular specimens in cream, tan, red, and brown colors weathering from hillsides and wash banks. Opal is also present but less common. Most specimens are hand-sized to fist-sized, making them ideal for collectors at all levels."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Mountain City BLM land?",
+      "answer": "No permit is required. Mountain City sits on public BLM land where recreational collecting is allowed under FLPMA regulations. Simply follow the collection rules: personal use only, 25 lb daily limit, no commercial use, and stay on public land."
+    },
+    {
+      "question": "How far is Mountain City rockhounding from Elko Nevada?",
+      "answer": "Mountain City is approximately 45 miles northeast of Elko via Nevada State Route 227. The drive takes about one hour. Once there, productive collecting areas are accessed from informal pullouts near the town, typically within 0.5-2 miles of parking."
+    },
+    {
+      "question": "What is the best time to rockhound at Mountain City?",
+      "answer": "The best seasons are April through October. Spring (April-May) and early fall (September-October) offer ideal temperatures around 60-75 degrees. Summer is hot but workable if you collect early morning or late afternoon. Winter snow and freezing temperatures make access unreliable November through March."
+    },
+    {
+      "question": "Can kids rockhound at Mountain City near Elko?",
+      "answer": "Yes, Mountain City is beginner and kid-friendly. The gentle terrain, easy-to-spot colorful agate and jasper, and simple rules make it perfect for children age 6+. Family groups often work together on hillsides, and the manageable distances from parking mean kids don't need extensive hiking experience."
+    },
+    {
+      "question": "What tools and preparation do I need for rockhounding at Mountain City?",
+      "answer": "Bring sturdy boots, work gloves, a 5-gallon bucket, a small pry bar or rock hammer, a magnifying lens to inspect color and patterns, and plenty of water (at least 2-3 liters). Sunscreen and a hat are essential. No specialized equipment is needed, but good light during early morning or late afternoon helps spot specimens among pale desert rocks."
+    }
+  ],
+  "meta_title": "Mountain City Rockhounding - Find Agate & Jasper in Nevada",
+  "meta_description": "Public BLM rockhounding near Mountain City, Nevada. Collect agate, jasper, and chalcedony. No permit, 25 lb daily limit. Easy family-friendly access.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from typical Basin and Range Nevada BLM sites without location-specific verification",
+    "written_directions - constructed from geographic knowledge; actual pullout locations should be verified with current BLM maps",
+    "road_conditions - estimated based on typical Nevada backcountry access; verify current conditions locally",
+    "cell_service - estimated as spotty based on remote Nevada location; carrier coverage varies"
+  ],
+  "enriched_at": "2026-04-22T06:43:15.355Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:39.216Z"
+}

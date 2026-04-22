@@ -1,0 +1,95 @@
+{
+  "slug": "unnamed-location-jade-ca",
+  "name": "Unnamed Location (Jade)",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Mariposa",
+  "city_slug": "mariposa",
+  "county": "Mariposa",
+  "county_slug": "mariposa",
+  "lat": 37.646349,
+  "lng": -120.117672,
+  "gem_types": [
+    "Jade"
+  ],
+  "short_description": "BLM rockhounding site in the Sierra Nevada foothills offering opportunities to collect jade. This public land location near Mariposa provides accessible collecting for all skill levels.",
+  "description": "Located in Mariposa County's BLM lands at 2,661 feet elevation, this unnamed site sits within the eastern Sierra Nevada foothills where jade deposits occur in metamorphic rock formations. The area features moderate slopes typical of the region's mountainous terrain, with scattered oak and pine woodland vegetation. Rockhounders can search the surrounding slopes and washes for jade specimens, which typically appear as green, pale green, or occasionally white stones embedded in the metamorphic host rock.\n\nThe collecting area offers relatively unobstructed access across public land managed by the Bureau of Land Management. Parking and walking distances are moderate, making this site suitable for rockhounders of varying experience levels. The moderate slope terrain requires sturdy footwear and reasonable hiking fitness, but does not demand technical climbing or specialized equipment.\n\nAs a personal use collecting site on public BLM land, this location operates under standard California recreational rockhounding regulations. The site is best visited during California's spring and fall months when temperatures are moderate and water availability in nearby streams may aid spot identification. Beginners should expect to spend 2-4 hours searching the immediate area, while experienced collectors may expand their search across the broader BLM parcel.",
+  "history": "This area lies within the Sierra Nevada's metamorphic belt, where Mesozoic metasedimentary and metavolcanic rocks were subjected to regional metamorphism during the Cretaceous orogeny. Jade deposits in this region form in metamorphic rocks where silica-rich fluids altered existing rock masses, creating the nephrite and jadeite minerals found in Mariposa County's BLM lands today. Local prospecting history throughout the 20th century documented jade occurrences in this general region, though detailed mining records for this specific unnamed location are not widely documented.",
+  "tips": "Search the rocky washes and slopes for rounded or angular jade boulders and cobbles that have weathered out of the metamorphic bedrock - green coloration and translucence when held to light are good field identifiers. Use a geologist's hammer or rock chisel to carefully extract specimens from loose talus slopes rather than attempting to break jade from solid outcrops, which requires excessive force. Focus efforts on areas where water has historically washed down from higher elevations, as these tend to concentrate heavier jade specimens. Bring a small field guide specific to California jade or a magnifying lens to confirm color and compare specimens with known examples before collecting.",
+  "terrain_notes": "Elevation 2,661 feet with moderate slopes across BLM-managed public land. Terrain consists of rocky foothill slopes with scattered oak and coniferous woodland. Loose rock and exposed metamorphic outcrops are common. Walking distance from parking to productive collecting areas ranges from 0.25 to 1 mile depending on exact parking location and collecting targets. Footing is uneven with frequent exposed bedrock and talus slopes requiring careful foot placement.",
+  "best_season": "October - April. The Sierra Nevada foothills experience hot, dry summers (July-August often exceed 90 degrees F) that make midday collecting uncomfortable. Spring (March-April) and fall (September-October) provide moderate temperatures and occasional moisture from weather systems that can help spot jade specimens. Winter months are cooler but accessible, though higher elevation areas may see occasional snow.",
+  "written_directions": "From Mariposa, take CA-140 east toward Yosemite for approximately 12 miles. Watch for BLM access points and pullouts on the north and south sides of the highway in the foothills east of town. The exact location (37.646349, -120.117672) sits roughly 8-10 miles northeast of Mariposa town center. Look for dirt pullouts or informal parking areas near the coordinates. A high-clearance or all-wheel-drive vehicle is recommended for accessing secondary dirt roads that may lead closer to productive collecting areas, though the main highway provides access to nearby BLM parcels.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "CA-140 is a well-maintained two-lane highway. Secondary access roads to nearby BLM parcels may be unpaved dirt or gravel with washboard surfaces; all-wheel-drive or high-clearance vehicles recommended for rough secondary roads, but passenger vehicles can access main highway pullouts.",
+  "parking_notes": "Informal pullouts and parking areas along CA-140 and nearby BLM access roads. Capacity varies by location; plan for 2-6 vehicles at most pullouts. No developed parking lots at this location.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA (Federal Land Policy and Management Act). No commercial collection. No motorized excavation. No use of explosives. Remove only loose specimens; do not damage rock outcrops or remove material from solid bedrock faces. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collecting only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection permitted\nNo motorized excavation or heavy equipment\nNo explosives\nDo not damage bedrock outcrops\nRemove only loose, weathered specimens\nPack out all trash\nRespect all BLM closures and seasonal restrictions",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "loose_rock",
+    "heat",
+    "wildlife",
+    "sharp_material"
+  ],
+  "nearest_services": "Mariposa, approximately 8-10 miles west. Town provides gas, groceries, water, and limited dining. No services at or near the collecting site itself.",
+  "accessibility_notes": "Uneven rocky terrain with moderate slopes and loose talus. No wheelchair access to productive collecting areas. Sturdy hiking boots or work boots strongly recommended. Slopes are not excessively steep but require careful foot placement due to loose rock. Walking distance of 0.25 to 1 mile from parking to collecting areas. Suitable for hikers in moderate fitness; not recommended for people with significant mobility limitations.",
+  "alternative_names": [],
+  "nearest_city": "Mariposa",
+  "nearest_city_distance": 9,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/unnamed-location-jade-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What kind of jade can I find at this BLM site near Mariposa?",
+      "answer": "This location yields nephrite jade, the most common jade variety found in California's Sierra Nevada foothills. Look for pale green to dark green specimens, typically found as loose boulders and cobbles in washes and talus slopes. Specimens range from thumb-sized to fist-sized at this site. You'll also encounter partially translucent jade pieces that reveal their true color when held to light."
+    },
+    {
+      "question": "Is rockhounding free at this Mariposa County BLM location, and do I need a permit?",
+      "answer": "Yes, rockhounding is completely free on this BLM land with no permit required. California allows personal use collecting on public BLM parcels under FLPMA regulations. You are limited to 25 lbs per day and must not engage in commercial activity, but casual collectors can visit anytime during daylight hours without advance permission or fees."
+    },
+    {
+      "question": "How do I identify jade versus other green stones in this Sierra Nevada foothills area?",
+      "answer": "Jade has a distinctive waxy luster and is extremely tough - it's difficult to scratch with a regular rock and won't easily break when struck. Hold suspected jade pieces up to light; nephrite jade often shows a subtle pale green translucence. Compare specimens with a field guide specific to California minerals, or bring a magnifying lens to inspect crystal structure - jade lacks visible crystals and appears smoothly solid."
+    },
+    {
+      "question": "What is the best time of year to rockhound for jade near Mariposa?",
+      "answer": "October through April is ideal, when Sierra Nevada foothills temperatures range from 40-70 degrees F. Avoid July-August when daytime heat commonly exceeds 90 degrees F in this elevation zone. Spring (March-April) and fall (September-October) are particularly favorable, offering moderate temperatures and occasional moisture that helps spot specimens in washes."
+    },
+    {
+      "question": "What tools should I bring to collect jade at this unnamed Mariposa BLM site?",
+      "answer": "Bring a geologist's hammer, cold chisel, and small pry bar for extracting specimens from talus and loose areas. A 5-gallon bucket or small backpack helps carry specimens up to the 25-lb daily limit. Wear heavy work gloves and safety glasses when breaking rock. Include a field guide, magnifying lens, water bottle, and sturdy hiking boots. Do not attempt to extract jade from solid bedrock outcrops - focus on loose, weathered pieces."
+    },
+    {
+      "question": "Is this California BLM jade site suitable for beginners and families with children?",
+      "answer": "Yes, this site is beginner and family-friendly. Access is easy from CA-140, no permit is required, and the moderate terrain suits children ages 8 and up in reasonable physical condition. The area has no hazardous cliffs or abandoned mines. Keep children supervised around loose rocks and watch for snakes in warm months. A 2-4 hour outing in spring or fall allows families to find jade specimens while enjoying the Sierra Nevada foothills landscape."
+    }
+  ],
+  "meta_title": "Jade Rockhounding at Mariposa County BLM, California",
+  "meta_description": "Free jade rockhounding on Mariposa County BLM land near California's Sierra Nevada foothills. 25 lbs daily limit, no permit required. Best October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "cover_photo",
+    "specific_access_roads_from_terrain_data"
+  ],
+  "enriched_at": "2026-04-21T19:32:10.728Z",
+  "scrape_quality": "rich",
+  "images_processed_at": "2026-04-21T19:35:12.683Z"
+}

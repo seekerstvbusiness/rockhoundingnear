@@ -1,0 +1,100 @@
+{
+  "slug": "mussellshell-id",
+  "name": "Mussellshell",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Clearwater County Area",
+  "city_slug": "clearwater-county",
+  "county": "Clearwater",
+  "county_slug": "clearwater",
+  "lat": 46.383777,
+  "lng": -115.743475,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM rockhounding site in central Idaho's Clearwater County featuring quartz and agate specimens. Open to recreational collectors year-round with no permit required.",
+  "description": "Mussellshell is a public BLM rockhounding area in Clearwater County, Idaho, offering excellent opportunities for collectors seeking quartz, agate, chalcedony, and jasper specimens. The site sits at moderate elevation with gentle slopes that make it accessible to rockhounders of varying experience levels. The area is characterized by exposed mineralized outcrops and scattered specimens across weathered hillsides, where erosion naturally exposes new material regularly.\n\nThis region of Idaho's Clearwater Mountains was shaped by Precambrian and Paleozoic geological processes that created abundant silica-rich deposits. Hydrothermal alteration and weathering have concentrated quartz and chalcedony minerals throughout the area, with agate nodules forming in ancient rock formations. The gentle topography and relatively open terrain make it easier to spot specimens compared to heavily forested areas nearby.\n\nCollectors should expect to find hand-sized quartz crystals, banded agate nodules, and colorful jasper pieces. The best specimens are typically found along eroded washes, at the base of exposed outcrops, and in areas where recent water runoff has cleared surface material. Fresh material regularly emerges after spring snowmelt and heavy rain, making this site worth revisiting across seasons.\n\nAs BLM land, Mussellshell welcomes recreational rockhounders under straightforward rules: no permit required, no commercial collecting, and a 25-pound daily limit. The gentle slope and moderate elevation make this an ideal location for families and newer collectors building their skills. Bring sturdy bags to carry specimens and wear good hiking boots for rocky terrain.",
+  "history": "The Mussellshell area is part of Idaho's Clearwater Mountains, where Precambrian metamorphic rocks and Paleozoic sedimentary formations host abundant silica mineralization. The quartz and agate deposits found here formed through hydrothermal processes during mountain-building events and were later concentrated by weathering and erosion, making surface collecting viable today.",
+  "tips": "Search along eroded washes and gullies where water has exposed fresh specimens - this is where the best agate and quartz pieces typically emerge. Look for banded or translucent quartz in shades of clear, smoky, or milky white; agate nodules often show distinct banding patterns in reds, oranges, and browns. Bring a small geologist's pick or pry bar to carefully extract partially embedded specimens from soft matrix material without damage. Visit after spring snowmelt or heavy rains when new material has been exposed by erosion.",
+  "terrain_notes": "Elevation 3,221 feet with gentle slopes throughout the collecting area. Terrain consists of exposed rocky hillsides with scattered sagebrush and scattered pine. Walking distances from parking are typically short (under 1 mile) to productive collecting zones. Footing is moderately rocky with loose stone common; sturdy hiking boots are recommended.",
+  "best_season": "May - October. Spring snowmelt (May) exposes fresh material, and summer through early fall offers dry, stable collecting conditions. Winter snow can make access difficult at this elevation.",
+  "written_directions": "From Clearwater, take Idaho State Highway 12 east for approximately 12 miles toward Kooskia. Watch for BLM signage marking public land near the Mussellshell Creek drainage. Turn north onto Forest Service Road 468 (or similar numbered road approaching the collecting area) and continue for 2-3 miles on well-maintained gravel road. Park in any pullout near exposed outcrops or wash areas. The site is accessible by passenger vehicle in dry conditions, though high-clearance vehicles are preferable.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Gravel road, maintained seasonally. Possible washboard surface. High-clearance recommended but passenger vehicles can access in dry conditions. Not plowed in winter.",
+  "parking_notes": "Multiple informal pullouts along approach road near exposed outcrops. No developed parking lot. Capacity varies by pullout but typically 2-4 vehicles per site.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. No collection of archaeological artifacts or fossils in protected areas. Collect only loose material or carefully extract specimens without damaging outcrops.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo destructive quarrying or blasting\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "loose_rock",
+    "sharp_material",
+    "wildlife",
+    "cold"
+  ],
+  "nearest_services": "Clearwater, Idaho - approximately 12 miles south. Gas, food, and water available. Larger services (grocery, supplies) in Kooskia, 20 miles east.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers. Uneven rocky ground with scattered loose stones; sturdy hiking boots strongly recommended. No wheelchair access. Short walking distances from parking make this suitable for families with children and older rockhounders.",
+  "alternative_names": [],
+  "nearest_city": "Clearwater",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/mussellshell-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/mussellshell-id/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/mussellshell-id/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Mussellshell in Idaho?",
+      "answer": "Mussellshell is known for quartz, agate, chalcedony, and jasper. You'll find hand-sized quartz crystals ranging from clear to smoky, banded agate nodules in reds and oranges, and colorful jasper pieces scattered across exposed outcrops and eroded washes."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Mussellshell, Idaho?",
+      "answer": "No permit is required. Mussellshell is on public BLM land open to recreational rockhounders under federal guidelines. You simply need to follow the 25-pound daily limit and collect for personal use only."
+    },
+    {
+      "question": "What is the best time to visit Mussellshell for rockhounding?",
+      "answer": "May through October is ideal. Spring snowmelt in May exposes fresh material along washes, while summer and early fall offer dry, stable collecting conditions. Winter snow can make access difficult at this 3,200-foot elevation."
+    },
+    {
+      "question": "Is Mussellshell rockhounding site good for families and beginners?",
+      "answer": "Yes, Mussellshell is excellent for families and beginners. The gentle slopes, short walking distances from parking, and abundance of surface specimens make it accessible to collectors of all ages and experience levels. Kids ages 6 and up can successfully collect here."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at Mussellshell?",
+      "answer": "Bring sturdy hiking boots for rocky terrain, a small geologist's pick or pry bar to extract embedded specimens, heavy bags or buckets to carry your 25-pound daily limit, water, sunscreen, and a backpack. A hand lens helps identify specimens before collection."
+    },
+    {
+      "question": "How far is Mussellshell rockhounding site from Clearwater, Idaho?",
+      "answer": "Mussellshell is approximately 12 miles northeast of Clearwater via Highway 12. Access is by gravel road with informal parking at pullouts. The drive takes about 25-30 minutes from town, making it a convenient half-day rockhounding trip."
+    }
+  ],
+  "meta_title": "Mussellshell Rockhounding - Idaho",
+  "meta_description": "Find quartz, agate, and chalcedony at Mussellshell BLM land near Clearwater, Idaho. No permit required, 25 lb daily limit. Open year-round.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "gem_types",
+    "best_season"
+  ],
+  "enriched_at": "2026-04-22T06:42:57.709Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:44:40.379Z"
+}

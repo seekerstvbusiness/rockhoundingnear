@@ -1,0 +1,100 @@
+{
+  "slug": "gold-butte-nv",
+  "name": "Gold Butte",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Mesquite",
+  "city_slug": "mesquite",
+  "county": "Clark",
+  "county_slug": "clark",
+  "lat": 36.275706,
+  "lng": -114.186874,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Jasper",
+    "Agate"
+  ],
+  "short_description": "Remote BLM rockhounding site in northeast Clark County featuring gold panning opportunities and colorful quartz specimens. Free public access with scenic desert vistas.",
+  "description": "Gold Butte is a sprawling BLM-managed site in the remote high desert of northeast Clark County, Nevada, near the Arizona border. This area has a rich prospecting history dating back to the early 1900s when miners pursued gold deposits throughout the region. Today it remains one of Nevada's most accessible public lands for recreational gold panning and quartz specimen collecting.\n\nThe landscape features rugged volcanic terrain with exposed quartz veins, jasper outcrops, and accessible washes where gold and colorful mineral specimens can be found. The butte itself rises prominently above the surrounding bajada, offering panoramic views of the Virgin River Valley and distant mountains. Elevation ranges from approximately 2,100 to 3,000 feet, with scattered Joshua trees and desert shrubs providing minimal shade.\n\nThis is prime territory for both beginners and experienced rockhounders. Gold-bearing quartz veins are visible in several wash cuts, and the sandy/gravelly stream bottoms are ideal for panning. Jasper specimens in reds, browns, and yellows can be found weathering out of hillside exposures. The area sees relatively light foot traffic compared to popular southern Nevada sites, making it feel like genuine backcountry prospecting.\n\nBest collecting occurs after winter rains when washes are cleaner and mineral concentrations are more visible. Summer heat is extreme, often exceeding 110 degrees Fahrenheit. The remoteness demands careful planning: bring adequate water, fuel, and communication devices. Cell service is spotty at best, so inform someone of your itinerary before departing.",
+  "history": "Gold Butte sits within the Mojave Desert's vast metamorphic and volcanic province, where Precambrian basement rocks were intruded by Tertiary granitic plutons and overlain by extensive basalt flows. Hydrothermal activity associated with these igneous events deposited gold-bearing quartz veins throughout the region, attracting prospectors during Nevada's mining booms of the 1900s. Small-scale mining operations and claim stakes remain visible today, testament to the geological richness that still draws rockhounders.",
+  "tips": "Focus your search on the main wash bottoms and tributary cuts where water action concentrates heavier gold flakes and garnet-rich sand. Bring a reliable gold pan and fine classifier; material here often requires 15-30 minutes of panning per bucket to see visible gold dust. Look for exposed quartz veins on hillsides above washes - break off small samples (respecting the 25 lb daily limit) where quartz is milky white or shows iron oxide staining. Early morning or late afternoon collecting is strongly advised in warm months to avoid peak heat exposure.",
+  "terrain_notes": "High desert bajada with scattered volcanic rock outcrops, loose caliche, and sandy washes. Terrain is uneven but generally walkable; most productive areas are within 0.5 to 1.5 miles of parking pullouts. Vegetation is sparse - primarily creosote and occasional Joshua trees. Footing is sandy to rocky; sturdy boots are essential. Elevation gain from parking to most productive zones is typically less than 300 feet, though some exploration may involve steeper side slopes.",
+  "best_season": "October - April",
+  "written_directions": "From Mesquite, Nevada, drive south on Nevada State Route 169 toward the Arizona border for approximately 12 miles. Turn east on Gold Butte Road (unsigned but marked on BLM maps) and follow it for roughly 8 miles as it winds through the desert. Multiple pullouts and informal parking areas appear along this road and its side spurs; the road becomes progressively rougher the farther you travel. Park at any obvious turnout and explore nearby washes and hillsides on foot. GPS navigation is recommended as signage is minimal. High-clearance vehicles are helpful but not always required, depending on recent weather and which spur roads you attempt.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt and gravel road with washboard texture. High-clearance or AWD recommended, especially after rain. Some side spurs become impassable without 4x4. Main Gold Butte Road is navigable by careful passenger car drivers during dry weather.",
+  "parking_notes": "Informal pullouts and small dirt parking areas scattered throughout the site. No developed parking facilities. Capacity is minimal at any single pullout, but multiple areas exist. Always park well off active roads.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. No collectors' clubs with organized group collection. Respect all claim markers and posted no-trespassing signs if private claims border the area.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Mesquite, Nevada (approximately 20 miles northwest) has gas stations, restaurants, and grocery stores. No services exist at or near the site.",
+  "accessibility_notes": "Moderate terrain with uneven, rocky footing and sandy washes. No wheelchair access. Sturdy hiking boots required. Most productive collecting areas are reachable on foot within 1-2 miles of parking, but steep hillsides and loose rock present challenges. Not suitable for limited mobility or those uncomfortable with rough, exposed desert terrain.",
+  "alternative_names": [],
+  "nearest_city": "Mesquite",
+  "nearest_city_distance": 20,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/gold-butte-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/gold-butte-nv/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "Can I find real gold at Gold Butte near Mesquite?",
+      "answer": "Yes. Gold Butte has a documented prospecting history, and small amounts of gold are present in quartz veins and stream washes. Most collectors recover fine gold dust and small flakes when panning carefully in wash bottoms. This is recreational gold panning on BLM land, not commercial mining, so expect modest returns but genuine gold-bearing material."
+    },
+    {
+      "question": "Is rockhounding at Gold Butte free or do I need a permit?",
+      "answer": "Rockhounding at Gold Butte is completely free and requires no permit. It is BLM public land open for recreational collecting under federal regulations. You must follow the 25 lb per day personal-use limit and cannot engage in commercial collection. No fees or applications are necessary."
+    },
+    {
+      "question": "What is the best season to collect at Gold Butte, Nevada?",
+      "answer": "October through April is ideal for Gold Butte rockhounding. Winter and early spring bring cooler temperatures and occasional rain that freshens washes and exposes new material. Avoid May through September when desert heat regularly exceeds 110 degrees Fahrenheit, making extended field work dangerous without exceptional preparation."
+    },
+    {
+      "question": "What tools do I need for rockhounding at Gold Butte?",
+      "answer": "Bring a gold pan, fine classifier, and small collecting hammer for Gold Butte work. A geotracker or GPS is recommended because signage is minimal. Sturdy boots, a hat, sunscreen, and 2-3 gallons of water per person are essential. A 4WD or high-clearance vehicle helps, though careful drivers in passenger cars can access main pullouts during dry periods."
+    },
+    {
+      "question": "Is Gold Butte rockhounding suitable for beginners and families with children?",
+      "answer": "Yes, Gold Butte is beginner and family-friendly. The terrain is moderate - uneven but not technical - and children ages 8 and up can participate under adult supervision. Focus on accessible wash bottoms for panning rather than steep hillsides. Always bring plenty of water and plan your visit for cooler months to keep kids safe from heat exposure."
+    },
+    {
+      "question": "How far is Gold Butte from Las Vegas and can I reach it in a day trip?",
+      "answer": "Gold Butte is approximately 75-80 miles northeast of Las Vegas, roughly a 90-minute to 2-hour drive from the Strip. Yes, it is easily reachable as a day trip. Depart early to maximize daylight collecting hours, and allow extra time for the rough road access. Bring water and a full tank of gas, as services are minimal."
+    }
+  ],
+  "meta_title": "Gold Butte Rockhounding - Nevada Gold Panning",
+  "meta_description": "Free BLM rockhounding at Gold Butte, Nevada. Find gold, quartz, and jasper near Mesquite. No permit required. 25 lb daily limit.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city",
+    "nearest_city_distance",
+    "written_directions",
+    "gem_types"
+  ],
+  "enriched_at": "2026-04-22T06:44:50.834Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:01.770Z"
+}

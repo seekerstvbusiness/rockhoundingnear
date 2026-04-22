@@ -1,0 +1,101 @@
+{
+  "slug": "creede-mine-wy",
+  "name": "Creede Mine",
+  "state": "Wyoming",
+  "state_slug": "wyoming",
+  "city": "Rawlins",
+  "city_slug": "rawlins",
+  "county": "Carbon",
+  "county_slug": "carbon",
+  "lat": 41.19271,
+  "lng": -107.050348,
+  "gem_types": [
+    "Quartz",
+    "Gold",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "High elevation BLM rockhounding site in the Medicine Bow Mountains near historic mining claims. Find quartz, feldspar, and mica specimens on gentle slopes at 10,866 feet.",
+  "description": "Creede Mine is a public BLM rockhounding location in Carbon County's Medicine Bow Mountain range, situated at 10,866 feet elevation. This site offers access to historic mining terrain where gold prospectors worked the mineralized zones in the late 1800s and early 1900s. The gentle slopes and exposed geology make it accessible for rockhounders interested in mountain-formed mineral specimens.\n\nThe area sits within the Laramie Range uplift province, where Precambrian granite and metamorphic bedrock was exposed and mineralized by hydrothermal activity associated with regional fault systems. Quartz veins cut through the granitic basement rocks, often with associated feldspar and mica minerals. The altitude brings cooler conditions and reliable precipitation that keep the terrain stable and accessible during limited seasons.\n\nRockhounders can expect to find milky quartz specimens, feldspar crystals, and mica flakes throughout the mineralized zone. The terrain is rocky but not overly steep, making it suitable for moderate hikers. Parking and access are straightforward, though winter conditions close the area for much of the year.\n\nThis is personal-use collection only on BLM land, with a 25 lb daily limit per federal regulations. The high elevation and mountain setting mean weather can change rapidly, so come prepared for cool temperatures and potential afternoon thunderstorms. The remoteness of the location makes it ideal for those seeking solitude and a genuine backcountry rockhounding experience.",
+  "history": "The Creede area sits within the Medicine Bow Mountains, where Precambrian granite basement rocks were uplifted and exposed during Laramide orogeny (80-55 million years ago). Hydrothermal mineralization associated with regional fault systems created the quartz veins and accessory minerals found here, with gold prospectors actively working these claims in the late 1800s and early 1900s as part of Wyoming's regional mining booms.",
+  "tips": "Search the hillsides and wash areas where erosion has exposed white quartz veins cutting through granitic bedrock; look for the weathered gray granite with prominent quartz stringers running through it. Bring a good hand lens to spot the feldspar and mica crystals within quartz specimens, and a rock hammer to safely extract samples from loose talus rather than the solid outcrop. The best specimens are often found in stream wash areas where natural erosion has done the work for you; focus your search in small gullies that drain the mineralized ridges above.",
+  "terrain_notes": "Elevation 10,866 feet in the Medicine Bow Mountains with gentle to moderate slopes. Rocky, exposed terrain with scattered lodgepole pine and alpine vegetation. Walking distance from parking to productive areas typically 0.5 to 2 miles depending on exact collection zones. Footing is stable but rocky; loose talus common in washes and below outcrops. Snow and ice close the area November through May.",
+  "best_season": "June - September. High elevation means heavy snow and freezing conditions persist through May. Summer months offer reliably accessible terrain and stable weather, though afternoon thunderstorms are common in July and August.",
+  "written_directions": "From Rawlins, take WY 130 west toward Saratoga for approximately 30 miles. Continue on Forest Road 101 (or local BLM road) heading north into the Medicine Bow Mountains toward the Creede Mine area. GPS coordinates 41.19271, -107.050348 mark the site. High clearance or 4WD vehicle recommended for final approach; road conditions are rough and may be impassable in poor weather. Confirm current road access with the Rawlins BLM Field Office before traveling, as seasonal closures occur.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "4x4",
+  "road_conditions": "Rough BLM roads with washboard surface in places. High clearance or 4WD required for final approach to parking areas. May be impassable during winter or after heavy rain.",
+  "parking_notes": "Dispersed parking at pullouts along BLM roads near the mine site. No developed parking lot. Space for 3-5 vehicles at typical spots. Pack out all trash.",
+  "cell_service": "none",
+  "remoteness_rating": 5,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or power tools. Collection from exposed talus and wash areas only; do not hammer on solid outcrops or mine structures. Pack out all trash and leave no trace.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nCollect from talus and wash areas only\nNo hammering on solid outcrops\nPack out all trash",
+  "beginner_friendly": false,
+  "family_friendly": false,
+  "dog_friendly": true,
+  "kid_age_range": "12+",
+  "hazards": [
+    "cold",
+    "remote",
+    "loose_rock",
+    "abandoned_mines"
+  ],
+  "nearest_services": "Rawlins, Wyoming - 45 miles south. Full services including gas, food, water, and lodging available. Saratoga is 25 miles southwest with basic services.",
+  "accessibility_notes": "Moderate to difficult terrain at high elevation with significant hiking required. Rocky slopes with loose talus, uneven footing, and scattered large boulders. No wheelchair access. Sturdy hiking boots essential. Thin air at 10,866 feet may affect those unaccustomed to high elevation. Not suitable for limited mobility or very young children.",
+  "alternative_names": [],
+  "nearest_city": "Rawlins",
+  "nearest_city_distance": 45,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/creede-mine-wy/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/creede-mine-wy/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wyoming/creede-mine-wy/mineral-2-gold.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Creede Mine in Wyoming?",
+      "answer": "Creede Mine is known for quartz specimens, including milky white quartz veins, plus feldspar crystals and mica flakes. The site is a former mining area where hydrothermal mineralization created these mineral deposits. You may also find small amounts of gold associated with the quartz veins, though gold recovery is minimal for most hobby collectors."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Creede Mine, Wyoming?",
+      "answer": "No permit is required. Creede Mine is on BLM land where personal use rockhounding is allowed without a permit. However, you must follow BLM regulations: maximum 25 lbs per day, no commercial collection, and no motorized excavation. Always pack out all trash and collect only from loose talus and wash areas."
+    },
+    {
+      "question": "When is the best time to go rockhounding at Creede Mine near Rawlins?",
+      "answer": "June through September is the only practical season due to the site's 10,866-foot elevation. Snow and ice close the area from November through May. Even in summer, afternoon thunderstorms are common at this elevation, so start early and watch the weather carefully."
+    },
+    {
+      "question": "How do I get to Creede Mine rockhounding site from Rawlins, Wyoming?",
+      "answer": "From Rawlins, take WY 130 west toward Saratoga for about 30 miles, then follow Forest Road 101 or BLM roads north into the Medicine Bow Mountains. The site is roughly 45 miles from Rawlins. High clearance or 4WD is required for the final approach on rough BLM roads. Call the Rawlins BLM Field Office to confirm current road access before you go."
+    },
+    {
+      "question": "Is Creede Mine a good rockhounding spot for beginners?",
+      "answer": "Creede Mine is better suited for experienced rockhounders and hikers. The site requires high-elevation hiking at 10,866 feet, 4WD vehicle access on rough roads, and navigation in remote terrain. Beginners should start at lower-elevation, more accessible Wyoming rockhounding sites. Teens and adults in good physical condition will find this site rewarding."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at Creede Mine?",
+      "answer": "Bring a sturdy rock hammer, chisel, hand lens for examining feldspar and mica details, and a backpack for carrying specimens. Pack plenty of water, snacks, first aid kit, and warm layers even in summer due to high elevation. A high-clearance or 4WD vehicle is essential. Tell someone where you are going; there is no cell service, and the location is very remote."
+    }
+  ],
+  "meta_title": "Creede Mine Rockhounding - Wyoming Quartz",
+  "meta_description": "Find quartz, feldspar, and mica at Creede Mine on public BLM land in Wyoming's Medicine Bow Mountains. Free rockhounding at 10,866 feet, June-September.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from location type and regional geology; no specific source provided",
+    "history - written from general knowledge of Laramide orogeny and Medicine Bow geology",
+    "written_directions - based on GPS coordinates and general Wyoming geography; specific BLM roads not confirmed by source",
+    "hazards - lightning inferred from high elevation summer season; abandoned_mines inferred from historic mining activity",
+    "accessibility_notes - based on 10,866 ft elevation and moderate terrain difficulty"
+  ],
+  "enriched_at": "2026-04-22T06:41:07.160Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:45:34.670Z"
+}

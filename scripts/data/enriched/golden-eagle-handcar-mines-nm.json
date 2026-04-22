@@ -1,0 +1,101 @@
+{
+  "slug": "golden-eagle-handcar-mines-nm",
+  "name": "Golden Eagle & Handcar Mines",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Cooney",
+  "city_slug": "cooney",
+  "county": "Catron",
+  "county_slug": "catron",
+  "lat": 33.415028,
+  "lng": -108.809521,
+  "gem_types": [
+    "Gold",
+    "Quartz",
+    "Silver"
+  ],
+  "short_description": "Historic mining area on BLM land near Cooney offering opportunities to find gold, quartz, and silver specimens. Personal use rockhounding permitted with no permit required.",
+  "description": "The Golden Eagle and Handcar Mines represent some of the most accessible historic mining claims in southwestern New Mexico's Mogollon district. Located in the rugged Catron County landscape at 6,537 feet elevation, these abandoned mines showcase the region's rich mining heritage while offering modern rockhounders a chance to collect small specimens of native gold, quartz, and silver in a relatively undisturbed setting.\n\nThis area sits within the New Mexico portion of the Basin and Range geological province, where late Cretaceous to Tertiary mineralization created productive gold and silver deposits. The mines were worked intermittently from the late 1800s through the early 1900s, with miners extracting ore from quartz veins that cut through metamorphic host rock. The same quartz and mineral-bearing formations that attracted historic prospectors remain visible today, making this an excellent location for understanding New Mexico's mining geology.\n\nRockhounders typically search the mine dumps, adjacent hillsides, and mineralized outcrops for small gold flakes, quartz specimens with visible mineralization, and occasional silver pieces. The moderate slope terrain and moderate elevation make this site accessible to most collectors, though the remote location and abandoned mine infrastructure require caution and respect for the historical structures. Most collectors spend 2-4 hours searching the area effectively.\n\nBecause these are BLM lands managed for multiple uses including recreation, personal use collection is permitted without a permit. However, the 25-pound daily limit and prohibition on motorized excavation apply. The site rewards patient collectors who carefully examine the mine dumps and surrounding mineralized ground rather than those seeking large pieces.",
+  "history": "The Golden Eagle and Handcar Mines were developed during the Mogollon district mining boom of the 1880s-1920s, when prospectors discovered rich gold and silver veins in this region. The mineralization here formed during Cretaceous to Tertiary hydrothermal activity as hot mineral-laden fluids deposited gold, silver, and quartz along fractures in metamorphic bedrock, creating the quartz veins that miners exploited.",
+  "tips": "Search the mine dumps and tailings piles carefully - these concentrated areas often yield small gold flakes and quartz specimens that miners passed over. Use a small hand lens to spot gold in white quartz; even tiny flecks are common here and worth collecting. Focus on exposed mineralized outcrop on the hillsides surrounding the mines where quartz veins are visible at the surface. Bring a small pick and chisel to carefully extract specimens from the vein material, but never attempt to enter the mine shafts themselves.",
+  "terrain_notes": "Located at 6,537 feet elevation on moderate slope terrain with typical piney woods and brush vegetation of the Mogollon Plateau. The site is accessible via rough dirt road that may require high-clearance vehicles depending on recent weather and road maintenance. Parking is available near the historic mine structures. Walking distance to productive collecting areas is typically 0.25-1 mile from parking. The rocky, uneven terrain with loose stones and scattered wood debris requires sturdy footwear and careful footing.",
+  "best_season": "May - October. Higher elevation (6,537 ft) means winters bring snow and cold temperatures that can make the rough road inaccessible December through March. Late spring through early fall provides the most reliable road conditions and comfortable collecting weather.",
+  "written_directions": "From Cooney, travel south on New Mexico State Road 59 toward Mogollon for approximately 12 miles. Watch for unsigned BLM access roads on the east side of the highway in the Mogollon mining district. The Golden Eagle and Handcar Mines area is accessed via rough dirt roads; a high-clearance vehicle is recommended. GPS coordinates (33.415028, -108.809521) will guide you to the mine location. Allow 30-45 minutes of driving time from Cooney, and plan for slow speeds on the final approach road.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt road with potential washboard texture. High-clearance vehicle recommended, especially after wet weather. Road maintenance varies seasonally.",
+  "parking_notes": "Informal parking area near the historic mine structures. Space for 3-5 vehicles. No developed facilities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection permitted. No motorized excavation or heavy equipment. Respect historic structures and do not enter mine shafts. Pack out all non-collected material and leave no trace.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment or blasting\nDo not enter mine shafts\nRespect historic mining infrastructure\nPack out all waste material",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "abandoned_mines",
+    "cold",
+    "loose_rock",
+    "sharp_material",
+    "remote"
+  ],
+  "nearest_services": "Cooney, approximately 18 miles north. Limited services; recommend bringing food, water, and fuel. Larger services available in Mogollon (approximately 25 miles south) and Glenwood (approximately 35 miles northeast).",
+  "accessibility_notes": "Moderate difficulty terrain. Uneven rocky ground with loose stones requires careful footing and sturdy hiking boots. No wheelchair accessibility. Route to productive areas involves short to moderate hiking over undeveloped terrain. The rough access road and parking area are not accessible to standard passenger vehicles; high-clearance or four-wheel-drive vehicles recommended. Not suitable for visitors with limited mobility.",
+  "alternative_names": [
+    "Mogollon Mining District",
+    "Cooney Mining Area"
+  ],
+  "nearest_city": "Cooney",
+  "nearest_city_distance": 18,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/golden-eagle-handcar-mines-nm/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can you find at the Golden Eagle and Handcar Mines in New Mexico?",
+      "answer": "You can find native gold flakes, quartz specimens (often with visible mineralization), and occasional silver pieces at these historic mines. Most collectors focus on the mine dumps and tailings, where small specimens are common. The site is best known for gold recovery, ranging from fine flakes to small nuggets visible with a hand lens."
+    },
+    {
+      "question": "Do you need a permit to rockhound at the Golden Eagle and Handcar Mines?",
+      "answer": "No permit is required. These BLM lands are open to personal use rockhounding under Federal Land Policy and Management Act (FLPMA) guidelines. However, you must follow the 25-pound daily collection limit and cannot use motorized equipment."
+    },
+    {
+      "question": "What is the best time of year to rockhound near Cooney, New Mexico?",
+      "answer": "May through October is ideal. The site sits at 6,537 feet elevation, where winter snow and cold temperatures can make the rough access road impassable. Spring through early fall provides reliable road conditions and comfortable collecting weather."
+    },
+    {
+      "question": "Can you bring kids to the Golden Eagle and Handcar Mines for rockhounding?",
+      "answer": "Yes, this is a good family-friendly site for children ages 8 and up. The moderate difficulty and relatively accessible mine dumps make it suitable for families. However, parents must supervise closely and enforce the strict rule of never entering mine shafts. The rough road access and loose terrain require careful attention to safety."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at this New Mexico mining site?",
+      "answer": "Bring a small pick and chisel for careful specimen extraction, a hand lens to spot gold flakes in quartz, and sturdy gloves for handling sharp material. A backpack, water, sun protection, and a field notebook are essential. Since the site is remote and access roads are rough, high-clearance or four-wheel-drive vehicles are recommended."
+    },
+    {
+      "question": "Is the Golden Eagle and Handcar Mines site beginner-friendly rockhounding?",
+      "answer": "Yes, beginners can collect successfully here because gold and quartz are relatively easy to spot on mine dumps, and no special skills are required. However, the remote location, rough access road, abandoned mine hazards, and rugged terrain mean you should bring proper equipment, inform someone of your plans, and follow all safety guidelines around the old mine structures."
+    }
+  ],
+  "meta_title": "Golden Eagle & Handcar Mines - Rockhound New Mexico",
+  "meta_description": "Find gold, silver, and quartz at Golden Eagle & Handcar Mines on BLM land near Cooney, NM. Personal use rockhounding, no permit required.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city_distance (estimated from GPS)",
+    "geology_notes (inferred from Mogollon district geology)",
+    "written_directions (constructed from geography knowledge - no specific source provided)",
+    "road_conditions (typical for BLM mining area roads)",
+    "cell_service (estimated as spotty based on remote location)"
+  ],
+  "enriched_at": "2026-04-22T06:47:11.219Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T06:51:31.888Z"
+}

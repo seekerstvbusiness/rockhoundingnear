@@ -1,0 +1,100 @@
+{
+  "slug": "bair-canyon-ut",
+  "name": "Bair Canyon",
+  "state": "Utah",
+  "state_slug": "utah",
+  "city": "Farmington",
+  "city_slug": "farmington",
+  "county": "Davis",
+  "county_slug": "davis",
+  "lat": 41.032175,
+  "lng": -111.892898,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM public land in Davis County offering easy access to quartz, agate, and chalcedony specimens. Personal use collecting with no permit required makes this a beginner-friendly Utah rockhounding des...",
+  "description": "Bair Canyon sits on Utah BLM land in Davis County, providing free public access for recreational rockhounding. This location is known for producing quality quartz crystals, colorful agate specimens, and chalcedony formations typical of the Wasatch Range foothills. The canyon wash and surrounding hillsides expose sedimentary and metamorphic rock units that have weathered to expose collectible mineral specimens. Collectors typically work the canyon bottom and adjacent washes where material naturally accumulates and becomes easier to spot.\n\nThe geology here reflects the transition zone between the Basin and Range province and the Wasatch thrust belt. Ancestral groundwaters deposited silica-rich minerals into fractures and voids over millions of years, creating the quartz veins and agate nodules found throughout the canyon. The exposed strata range from Precambrian metamorphic rock to Paleozoic limestone and quartzite, all of which contribute to the mineral diversity at this site.\n\nBecause this is BLM land, there are no permits required and no fees. The 25 lb per day personal use limit keeps this site sustainable for all rockhounders. Most collectors spend 2-4 hours working the main canyon wash and nearby side drainages. The terrain is accessible year-round, though spring and fall offer the most comfortable collecting conditions. Bring plenty of water, sturdy boots, and a small pick or chisel for extracting specimens from exposed matrix.",
+  "history": "Bair Canyon's mineral deposits formed during multiple phases of silica-rich fluid circulation along fractures in Precambrian and Paleozoic bedrock. The Wasatch Range, of which this area is a part, underwent significant uplift and faulting during the Laramide Orogeny (70-55 million years ago), creating pathways for hydrothermal solutions that precipitated quartz and chalcedony. The easily accessible specimens exposed in the canyon represent weathering products of these ancient mineral-bearing veins.",
+  "tips": "Work the main canyon wash first, where rounded specimens are easier to spot against darker host rock. Use a small pry bar or chisel to carefully extract quartz crystals and agate nodules from weathered vein material rather than hammering - this preserves better specimens. Look for white, milky quartz clusters and translucent chalcedony with color banding in washes after seasonal runoff has scoured new material loose. The higher side canyons often contain fresher exposures with less-picked-over material.",
+  "terrain_notes": "Bair Canyon features a main wash approximately 200-400 feet wide with moderate slopes (15-25 degrees) on either side. Elevation ranges from roughly 5,200 to 5,800 feet. The terrain is rocky with scattered sagebrush and juniper woodland. Footing in the wash is uneven with numerous rocks and boulders. Walking distance from parking to productive collecting areas is typically 0.25 to 1 mile depending on which section you choose to work. Late summer and fall often expose fresh material in the wash from spring runoff.",
+  "best_season": "April - October. Spring and early summer (April - May) and fall (September - October) offer the most comfortable temperatures in the 5,200-5,800 ft elevation zone. Summers can be warm but not extreme at this elevation. Winter snow is possible but uncommon, though morning frost can make rocks slippery in winter months.",
+  "written_directions": "From Farmington, take US 89 north approximately 8 miles toward Ogden. Watch for signs indicating BLM access or use GPS coordinates (41.032175, -111.892898) to locate Bair Canyon Road. Turn east onto the unsigned BLM access road and proceed approximately 2-3 miles on improved dirt road to the canyon parking area. High-clearance vehicles are recommended after winter, though passenger cars can usually access the main pullout during dry months.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Improved dirt road to parking area, washboard surface possible after rain. Dry conditions required for passenger vehicle access year-round.",
+  "parking_notes": "Informal pullout area near canyon mouth with space for 3-5 vehicles. No facilities. Park off the main road to allow other traffic to pass.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection permitted. No motorized excavation or heavy equipment. Collect loose material and weathered specimens only - do not blast or break large rock formations. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo blasting or heavy equipment\nCollect weathered material only\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "sharp_material",
+    "loose_rock",
+    "cold",
+    "heat"
+  ],
+  "nearest_services": "Farmington, approximately 8 miles south, has gas, food, and lodging. Water should be brought from town.",
+  "accessibility_notes": "Relatively flat canyon wash terrain with uneven rocky footing. No wheelchair access. Sturdy hiking boots required. Slopes adjacent to wash are moderate and generally hikeable for those with basic fitness. Suitable for families with children 6 and up.",
+  "alternative_names": [],
+  "nearest_city": "Farmington",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/bair-canyon-ut/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/bair-canyon-ut/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/utah/bair-canyon-ut/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Bair Canyon near Farmington?",
+      "answer": "Bair Canyon is productive for quartz crystals, colorful agate nodules, chalcedony specimens, and jasper fragments. Most specimens are found loose in the main canyon wash or can be carefully extracted from weathered vein material on the hillsides."
+    },
+    {
+      "question": "Do I need a permit to collect at Bair Canyon on BLM land in Utah?",
+      "answer": "No permit is required for recreational rockhounding at Bair Canyon. It is open BLM public land. However, you must follow the 25 lb per day personal use limit and cannot conduct commercial collection. The site is free to access."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Bair Canyon, Utah?",
+      "answer": "The best months are April through October, with spring (April - May) and fall (September - October) offering the most comfortable temperatures at this 5,200-5,800 ft elevation. Summer is warm but manageable. Winter snow is uncommon but possible."
+    },
+    {
+      "question": "Is Bair Canyon rockhounding site beginner friendly and suitable for kids?",
+      "answer": "Yes, Bair Canyon is excellent for beginners and families. The main canyon wash is easy to navigate, specimens are relatively accessible, and the site requires no special skills or permits. Children 6 and up can participate with adult supervision."
+    },
+    {
+      "question": "What tools and equipment do I need to collect quartz and agate at Bair Canyon?",
+      "answer": "Bring a small pry bar or cold chisel, a 3-5 lb hammer, safety glasses, and a collecting bag. Sturdy hiking boots, a hat, sunscreen, and at least 2 liters of water are essential. A camera helps document good specimens before extraction."
+    },
+    {
+      "question": "How far is Bair Canyon from Farmington and what are road conditions like?",
+      "answer": "Bair Canyon is approximately 8 miles northeast of Farmington via US 89 and a BLM access road. The dirt road to the parking area is passable by passenger car during dry months, though high-clearance vehicles are recommended after winter. Check road conditions locally before visiting."
+    }
+  ],
+  "meta_title": "Bair Canyon Rockhounding - Utah BLM",
+  "meta_description": "Find quartz, agate, and chalcedony at Bair Canyon near Farmington, Utah. Free BLM public land, no permit required. Beginner-friendly collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (BLM road name not confirmed from terrain data)",
+    "parking_notes (exact capacity inferred)",
+    "cell_service (spotty assumed based on rural location)",
+    "nearest_city_distance (estimated from GPS)"
+  ],
+  "enriched_at": "2026-04-22T10:18:16.838Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:19:42.005Z"
+}

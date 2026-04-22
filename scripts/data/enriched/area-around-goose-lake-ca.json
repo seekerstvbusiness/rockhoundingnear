@@ -1,0 +1,105 @@
+{
+  "slug": "area-around-goose-lake-ca",
+  "name": "Area around Goose Lake",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Modoc County Area",
+  "city_slug": "modoc-county",
+  "county": "Modoc",
+  "county_slug": "modoc",
+  "lat": 41.950774,
+  "lng": -120.425357,
+  "gem_types": [
+    "Agate",
+    "Obsidian",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Goose Lake offers excellent rockhounding for agate, obsidian, and jasper in a high desert setting. No permit required for personal collecting.",
+  "description": "The area surrounding Goose Lake in Modoc County sits at roughly 4700 feet elevation in California's remote northeastern plateau region. This public BLM land is known for scattered deposits of colorful agates, black and mahogany obsidian, and banded jasper specimens exposed across flat to gently sloping terrain covered in sagebrush and volcanic rock. The lake itself offers scenic views and camping opportunities, making this a popular destination for rockhounds seeking solitude and productive collecting in a pristine high desert environment.\n\nThe terrain here is relatively easy to navigate, with flat to slightly undulating ground covered in volcanic rock debris. Most collecting occurs along washes, hillsides with exposed volcanic flows, and around eroded benches where surface material is visible. The area receives low precipitation and experiences significant temperature swings between seasons, so planning your visit for mild weather months is important.\n\nThis location is beginner-friendly because specimens are often visible on the surface and do not require extensive digging. The main challenge is the remote location and the need to scout different spots to find the best material. Unlike fee dig sites, you have unlimited area to explore across the BLM lands, though you are limited to 25 pounds of material per day per federal regulations.\n\nBring plenty of water, sun protection, and wear sturdy boots suitable for rough volcanic terrain. Cell service is spotty in this remote area, so inform someone of your travel plans and carry emergency supplies. The landscape can appear barren but is ecologically sensitive, so collect responsibly and leave no trace.",
+  "history": "Goose Lake sits within the Modoc Plateau, a region shaped by extensive Miocene and Pliocene volcanic activity that deposited thick layers of basalt, rhyolite, and related volcanic rocks. These lava flows and ash beds weathered over millions of years, creating the agate, obsidian, and jasper deposits found today across exposed hillsides and ancient river channels. The area has a long history of rockhounding activity dating back to early 20th-century mineral collectors and amateur geologists exploring California's volcanic zones.",
+  "tips": "Search along washes and eroded hillsides where water and wind have exposed fresh material - these areas typically yield the best specimens. Look for pieces of dark black obsidian and bands of red, orange, and yellow agate in desert pavement and volcanic debris fields. Bring a rock hammer and chisel to extract specimens from partially embedded locations, and a 5-gallon bucket to carry your daily 25-pound limit. Early morning or late afternoon light helps spot translucent agate and glossy obsidian that reflects differently than surrounding basalt.",
+  "terrain_notes": "Elevation 4698 feet with flat to gently rolling terrain dominated by sagebrush and volcanic rock outcrops. The landscape is open high desert with minimal tree cover. Walking distances from parking areas typically range from 0.5 to 3 miles depending on the specific BLM access point chosen. Footing is moderately rocky with volcanic basalt pieces scattered across the surface; sturdy hiking boots are necessary. No water sources are reliably available in the collection areas, so carry sufficient water.",
+  "best_season": "April - June and September - November. Late spring and early fall offer mild daytime temperatures and reduced risk of severe heat or early snow. Summer temperatures can exceed 85 degrees Fahrenheit in afternoon hours, while winter months bring freezing nights and possible snow at this elevation. These shoulder seasons provide comfortable rockhounding conditions while minimizing heat-related hazards.",
+  "written_directions": "From Alturas (approximately 30 miles southwest), take CA-299 east toward Cedarville for about 20 miles. Continue on CA-299 as it curves northeast toward the Oregon border. Goose Lake lies along the California-Oregon boundary; access points are available via Forest Service Road 3 or similar BLM access roads branching north from CA-299. Look for small turnouts and parking areas marked for recreation access. Exact coordinates are 41.95, -120.43. Contact the Bureau of Land Management Alturas Field Office for current road conditions and specific access point recommendations, as some roads may be seasonal.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Access roads vary from paved highway (CA-299) to unpaved dirt and gravel BLM roads. Most BLM access roads are passable by passenger vehicles during dry season but may become rough or muddy during wet weather. High-clearance or four-wheel-drive vehicles recommended for some side roads; check current conditions with BLM before traveling.",
+  "parking_notes": "Small unpaved pullouts and parking areas scattered along BLM access roads near Goose Lake. Capacity typically 2-5 vehicles per pullout. No developed parking lot; parking is informal at roadside turnouts. Arrive early during popular season to secure a spot.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA federal regulations. No commercial collection permitted. No motorized excavation or mechanical collection methods allowed. Collect only loose surface material; do not extract material from solid rock outcrops using power tools. Leave no trace: backfill any holes you dig and pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use collection only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation or power tools\nNo extraction from solid rock using mechanical means\nLeave no trace - backfill holes and pack out trash\nRespect wildlife and sensitive habitat",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "cold",
+    "sharp_material",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Alturas, California (approximately 30 miles south) has gas, groceries, restaurants, and lodging. Smaller supply options may be available in Cedarville (approximately 20 miles south). Bring all necessities including water, food, and first aid supplies before heading to the remote rockhounding areas.",
+  "accessibility_notes": "Terrain is relatively flat and easy to navigate for most hikers. Uneven volcanic rock surface requires sturdy footwear and moderate fitness. No wheelchair access to collection areas. Trails and access roads are unmarked and informal. The remote location and lack of development mean no restroom facilities, water sources, or emergency services nearby. This site is suitable for families with children ages 6 and older who are comfortable walking on rocky terrain for 0.5-3 mile distances.",
+  "alternative_names": [
+    "Goose Lake BLM Rockhounding Area",
+    "Modoc Plateau Collecting Area"
+  ],
+  "nearest_city": "Alturas",
+  "nearest_city_distance": 30,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/area-around-goose-lake-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Goose Lake in Modoc County?",
+      "answer": "The Goose Lake area is known for agate, obsidian, jasper, and quartz specimens. Black and mahogany obsidian is particularly common, along with banded red, orange, and yellow agate. You will also find translucent quartz and mixed jasper pieces scattered across the volcanic terrain. Most material is found as loose surface specimens in washes and along eroded hillsides."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Goose Lake on BLM land?",
+      "answer": "No permit is required for recreational rockhounding on BLM land near Goose Lake. Personal use collecting is allowed under federal regulations. However, you must follow the 25-pound per day limit and collect only surface material - no motorized excavation or power tools are permitted. Commercial collection and sale is prohibited."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Goose Lake, California?",
+      "answer": "The best seasons are April through June and September through November. Late spring and early fall offer mild daytime temperatures (typically 60-75 degrees) and low risk of extreme heat or early snow. Summer temperatures can exceed 85 degrees in the afternoon, while winter brings freezing nights and possible snow at the 4700-foot elevation. Avoid July-August heat and December-March cold."
+    },
+    {
+      "question": "How far is Goose Lake rockhounding area from the nearest town with supplies?",
+      "answer": "Alturas, California is approximately 30 miles south and offers gas, food, lodging, and supplies. Cedarville is about 20 miles south with limited services. The rockhounding area itself is remote with no facilities, water sources, or cell service. Plan ahead and bring all necessary water, food, first aid supplies, and emergency equipment before heading to the collecting sites."
+    },
+    {
+      "question": "Is Goose Lake a good rockhounding destination for beginners and families?",
+      "answer": "Yes, the Goose Lake area is beginner-friendly because agate, obsidian, and jasper specimens are often visible on the surface without extensive digging. The flat terrain is easy to navigate for families with children ages 6 and up. However, the remote location, lack of facilities, and sparse cell service require careful planning. Beginners should bring plenty of water, wear sun protection, and stay with a buddy in this isolated area."
+    },
+    {
+      "question": "What tools and gear do I need for rockhounding at Goose Lake near Modoc County?",
+      "answer": "Bring a rock hammer and chisel to extract embedded specimens, a 5-gallon bucket for carrying your 25-pound daily limit, sturdy hiking boots for rocky terrain, and a backpack. Essential supplies include at least 2-3 gallons of water per person, sun protection (hat, sunscreen), a first aid kit, and emergency supplies like a whistle or mirror. Consider bringing a camera for spot identification and a GPS device since cell service is spotty in this remote area."
+    }
+  ],
+  "meta_title": "Goose Lake Rockhounding - Modoc County, CA",
+  "meta_description": "Find agate, obsidian, and jasper at Goose Lake on public BLM land in Modoc County. No permit needed for personal collecting on this remote California high desert site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from typical Modoc Plateau volcanic deposits; specific species list not provided in source",
+    "written_directions - constructed from general geographic knowledge of Alturas-Cedarville-Goose Lake triangle and CA-299 routing; specific BLM road names not provided",
+    "hazards - inferred from remote high desert environment and terrain type",
+    "parking_notes - typical BLM informal access; specific pullout details not provided",
+    "best_season - derived from standard high desert climate patterns at 4700 feet elevation",
+    "nearest_services - estimated based on county geography; verify current business status"
+  ],
+  "enriched_at": "2026-04-21T19:31:46.618Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:34:34.558Z"
+}

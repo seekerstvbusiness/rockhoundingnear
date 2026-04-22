@@ -1,0 +1,102 @@
+{
+  "slug": "mount-pisgah-nc",
+  "name": "Mount Pisgah",
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "city": "Waynesville",
+  "city_slug": "waynesville",
+  "county": "Haywood",
+  "county_slug": "haywood",
+  "lat": 35.422701,
+  "lng": -82.750012,
+  "gem_types": [
+    "Quartz",
+    "Mica",
+    "Feldspar",
+    "Tourmaline"
+  ],
+  "short_description": "High-elevation Blue Ridge site at 4,959 feet with exposed mica schist and granite rich in feldspars and tourmaline. Gentle slopes make this accessible for collectors of all levels.",
+  "description": "Mount Pisgah sits within the Blue Ridge Mountains, one of North Carolina's premier rockhounding regions. This location benefits from gentle terrain and significant geological exposure due to past erosion and natural weathering of the mountainside. The area is known for producing quality specimens of quartz, mica sheets, feldspar, and tourmaline crystals embedded in metamorphic host rock.\n\nThe site occupies elevations around 4,959 feet, placing it in the heart of the southern Appalachian mountain chain. Collectors here work gentle slopes characteristic of higher Blue Ridge elevations, where bedrock and talus provide steady access to fresh material without requiring extensive hiking or technical climbing.\n\nExpect to find mica flakes and sheets of various sizes, milky and clear quartz crystals, pink and white feldspar chunks, and occasional tourmaline specimens in shades of black and green. The combination of metamorphic rock exposure and accessible terrain makes this a favorite for both beginners learning to identify mineral specimens and experienced collectors seeking quality display pieces.\n\nBest results come from working along eroded banks, examining loose talus piles, and carefully extracting specimens from weathered rock faces. The gentle slope means you can cover ground efficiently while still examining individual pieces thoroughly. Bring proper tools to safely pry specimens from matrix rock.",
+  "history": "Mount Pisgah's minerals formed during the Alleghenian orogeny, when tectonic plate collision metamorphosed ancestral sediments and granitic intrusions into the mica schist and gneiss visible today. Approximately 300 million years ago, intense heat and pressure transformed simple feldspathic rocks into the mineral-rich metamorphic complex that collectors prize, with subsequent erosion exposing fresh material to the surface.",
+  "tips": "Work the talus fields on the lower slopes first, where gravity has naturally concentrated loose specimens and weathering has freed crystals from matrix rock. Bring a jeweler's loupe to identify feldspar versus quartz in the field, as both are common here. Target small erosion gullies and seasonal wash areas where water moves fine material; larger specimens often rest just downslope from these channels. Use a small pry bar and chisel to carefully extract matrix-bound specimens from exposed bedrock outcrops, but never hammer indiscriminately into the mountainside.",
+  "terrain_notes": "Elevation 4,959 feet with gentle slopes throughout the collecting area. Terrain consists of exposed metamorphic bedrock with scattered talus fields. Mixed deciduous and coniferous forest typical of high Blue Ridge elevations. Walking distance from parking varies by route taken; most productive areas are within 0.5 to 1.5 miles of road access. Footing is generally stable on established trails and talus fields, though loose rocks are common and careful stepping is necessary.",
+  "best_season": "May - October. Late spring through early fall provides the most comfortable temperatures for high-elevation collecting. Winter snows and icing can make 4,959-foot elevations hazardous; early spring remains unpredictable. Summer heat is moderate at this elevation, and fall offers excellent visibility with lower humidity.",
+  "written_directions": "From Waynesville, take US 276 north toward Pisgah National Forest. Continue approximately 8 miles as the highway climbs toward Mount Pisgah. Look for the Mount Pisgah parking area and trailhead access on the right (east) side of US 276. Park in the designated area and proceed on foot to the exposed mineral zones on the lower slopes. GPS coordinates 35.422701, -82.750012 mark the primary collecting zone.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 276 is paved and well-maintained. Parking area accessible via short paved or gravel pullout. No high-clearance vehicle needed.",
+  "parking_notes": "Designated parking area at the Mount Pisgah trailhead. Capacity approximately 20-30 vehicles. Parking is free and typically available year-round.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation. Specimens must be removed by hand tools only. Do not damage living trees or vegetation. Stay on established trails and designated areas. Leave no trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nHand tools only\nDo not damage vegetation\nStay on established areas\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "cliffs"
+  ],
+  "nearest_services": "Waynesville, approximately 8 miles south. Full services including gas, restaurants, lodging, and water available in town.",
+  "accessibility_notes": "Relatively easy terrain overall. Gentle slopes and stable talus fields accessible to most hikers. Paved road access to parking area. Walking to main collecting zones is moderate effort on established trails, with uneven rocky footing requiring sturdy footwear. Not wheelchair accessible beyond parking area, but suitable for families and older collectors with basic fitness.",
+  "alternative_names": [
+    "Pisgah"
+  ],
+  "nearest_city": "Waynesville",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/mount-pisgah-nc/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-carolina/mount-pisgah-nc/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding at Mount Pisgah North Carolina?",
+      "answer": "Mount Pisgah is known for mica sheets and flakes, quartz crystals (milky and clear varieties), feldspar (pink and white), and tourmaline specimens in black and green. The gentle slopes and exposed metamorphic bedrock make these minerals accessible to collectors of all experience levels. Specimens range from small crystal fragments to larger display-quality pieces suitable for mineral collections."
+    },
+    {
+      "question": "Is rockhounding free at Mount Pisgah and do I need a permit?",
+      "answer": "Yes, rockhounding at Mount Pisgah is completely free and no permit is required. This is National Forest land open to public mineral collection under FLPMA regulations, which allow personal use collection of up to 25 lbs per day at no cost. Simply park at the trailhead and begin collecting on the lower slopes."
+    },
+    {
+      "question": "What is the best season to rockhound Mount Pisgah?",
+      "answer": "May through October is ideal, when temperatures at the 4,959-foot elevation are comfortable and weather is stable. Winter snow and ice can make high-elevation collecting hazardous, while early spring remains unpredictable. Summer heat is moderate at this elevation, and fall offers excellent visibility with low humidity for identifying specimens in the field."
+    },
+    {
+      "question": "How do I get to Mount Pisgah rockhounding site from Waynesville?",
+      "answer": "Take US 276 north from Waynesville for approximately 8 miles as the road climbs into Pisgah National Forest. Look for the Mount Pisgah parking area and trailhead on the right (east) side of the highway. The designated parking area is free and accessible to standard passenger vehicles. From there, walk to the exposed mineral zones on the lower slopes."
+    },
+    {
+      "question": "Is Mount Pisgah beginner-friendly for rockhounding in North Carolina?",
+      "answer": "Yes, Mount Pisgah is excellent for beginners. The gentle terrain, easy road access, and abundant loose specimens on talus fields make it ideal for learning to identify mica, quartz, feldspar, and tourmaline. No special permits or equipment are required, and the accessible slopes mean less physical strain than many mountain collecting sites. Families and children can collect successfully here with basic hand tools."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at Mount Pisgah?",
+      "answer": "Bring a small hammer and chisel or pry bar for extracting matrix-bound specimens from bedrock. A jeweler's loupe helps identify feldspar versus quartz in the field. Wear sturdy hiking boots for uneven, rocky footing on talus fields. Bring a backpack to carry your finds (25 lb limit), water, and sun protection. A field guide to Appalachian minerals is helpful for specimen identification."
+    }
+  ],
+  "meta_title": "Mount Pisgah Rockhounding - North Carolina",
+  "meta_description": "Free rockhounding at Mount Pisgah NC. Collect quartz, mica, feldspar, and tourmaline on gentle slopes. No permit required. Blue Ridge Mountain site.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "primary_category",
+    "vehicle_required",
+    "road_conditions",
+    "parking_notes",
+    "nearest_services"
+  ],
+  "enriched_at": "2026-04-22T06:46:27.021Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-22T06:51:27.364Z"
+}

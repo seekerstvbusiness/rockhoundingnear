@@ -1,0 +1,98 @@
+{
+  "slug": "panaca-nv",
+  "name": "Panaca",
+  "state": "Nevada",
+  "state_slug": "nevada",
+  "city": "Panaca",
+  "city_slug": "panaca",
+  "county": "Lincoln",
+  "county_slug": "lincoln",
+  "lat": 37.760519,
+  "lng": -114.367397,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony",
+    "Jasper"
+  ],
+  "short_description": "BLM public rockhounding site in Lincoln County featuring quartz varieties and chalcedony specimens in flat desert terrain. No permit required for personal use collecting.",
+  "description": "Panaca is a public BLM rockhounding location in the high desert of northeastern Nevada, situated at 4,851 feet elevation in Lincoln County. The area offers accessible collecting opportunities for quartz, agate, chalcedony, and jasper specimens typical of the Great Basin region. The relatively flat terrain makes this site suitable for rockhounders of varying skill levels, with good vehicle access to productive collecting areas. The location sits within Nevada's historic mining belt, where mineralization from ancient hydrothermal activity created abundant secondary minerals and silica-rich formations still visible in washes and exposed geology today.\n\nThe desert environment around Panaca features typical Great Basin landscape with scattered sagebrush, rocky outcrops, and dry washes where specimens are commonly found. Quartz in various forms - clear, milky, and purple amethyst - occurs throughout the area, along with banded agate and chalcedony pieces that weather out of host rock. The collecting here represents opportunities to find quality specimens without the crowding of more famous Nevada sites.\n\nVisitors should plan for desert conditions including strong sun exposure and minimal shade. The flat terrain minimizes elevation stress but requires attention to footing on rocky ground. Water availability is limited, so bring adequate supplies. Early morning collecting often yields better results as afternoon heat builds in the desert.\n\nThis BLM site follows standard public lands regulations with no permits required and a 25-pound daily collection limit. Commercial collecting is prohibited, making this a personal use location only. The accessibility and lack of fees make Panaca an excellent choice for beginners and budget-conscious rockhounds exploring Nevada's mineral wealth.",
+  "history": "The Panaca area sits within the Great Basin province of Nevada, where Miocene-era volcanic and hydrothermal activity deposited silica-rich mineral solutions that formed the quartz veins, agate nodules, and chalcedony specimens found here today. This region has a history of small-scale prospecting for precious metals and gemstones, contributing to the known mineral locations still productive for recreational rockhounding.",
+  "tips": "Search dry washes and arroyos where water erosion has exposed and weathered quartz and agate specimens from surrounding rock formations. Focus on rocky hillsides and outcrop areas where chalcedony pieces naturally break free from weathering. Bring a 5-gallon bucket to carry your finds up to the 25-pound daily limit, and use a small pry bar or rock hammer to test loose specimens without damaging adjacent material. Early morning collecting avoids peak desert heat and provides better visibility for spotting translucent quartz pieces against the lighter-colored surrounding rock.",
+  "terrain_notes": "Elevation 4,851 feet in flat high desert terrain. Vegetation consists of sparse sagebrush and desert scrub. Rocky ground with scattered loose stone typical of basin-and-range landscape. Walking distances from parking are generally short to moderate (under 1 mile to productive areas). Footing requires sturdy boots due to sharp rocks and uneven desert soil.",
+  "best_season": "October - April. The high desert climate makes summer months extremely hot (100+ degrees F), while winter brings potential snow and cold. Fall and spring offer mild temperatures ideal for extended collecting sessions.",
+  "written_directions": "From Panaca town center, take Nevada State Route 319 north toward the BLM public lands. Continue approximately 3 miles north from town. Look for pullouts and access points along the eastern side of the road where the terrain transitions to open desert. Productive collecting areas begin within walking distance of these pullouts. GPS coordinates (37.760519, -114.367397) mark a central collecting zone. Passenger vehicles can access the immediate area, though high-clearance vehicles provide better access to secondary collecting locations.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Paved state route with dirt pullouts and informal parking areas. Road surface in good condition for standard passenger vehicles.",
+  "parking_notes": "Multiple informal pullouts along Nevada State Route 319. No designated parking lot; expect flat, open desert pullouts with space for several vehicles. No facilities available.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection. No motorized excavation or heavy equipment. Collect only loose specimens or fragments; do not hammer at outcrops or remove material from intact rock formations. Pack out all waste and leave the site clean.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo hammering at outcrops or intact formations\nCollect loose specimens only\nPack out all waste",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Panaca town (approximately 3 miles south) has limited services. Lincoln, Nevada (approximately 20 miles west) offers more complete amenities including gas, food, and supplies.",
+  "accessibility_notes": "Relatively flat desert terrain accessible to most hikers with basic mobility. Informal pullout parking requires short walks to collecting areas (under 1 mile). Rocky ground and scattered loose stone require sturdy footwear. No wheelchair access due to uneven desert terrain and lack of maintained trails. Not suitable for visitors with limited mobility or significant walking difficulties.",
+  "alternative_names": [],
+  "nearest_city": "Panaca",
+  "nearest_city_distance": 3,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/panaca-nv/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/nevada/panaca-nv/mineral-1-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Panaca, Nevada?",
+      "answer": "Panaca is known for quartz varieties, agate, chalcedony, and jasper specimens. Clear and milky quartz are the most common finds, with occasional amethyst pieces and banded agate specimens weathering out in desert washes. Chalcedony fragments are abundant throughout the collecting area. The desert erosion naturally exposes these silica-rich minerals from ancient hydrothermal formations."
+    },
+    {
+      "question": "Is there a fee or permit required for rockhounding at Panaca BLM land?",
+      "answer": "No permit is required and there is no fee for personal use rockhounding at Panaca. The site is on public BLM land governed by FLPMA (Federal Land Policy and Management Act). You simply need to follow the 25-pound daily collection limit and avoid commercial activity. This makes it an excellent free rockhounding destination in Nevada."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding in Panaca, Nevada?",
+      "answer": "October through April is ideal for collecting at Panaca. High desert summers reach 100+ degrees F making outdoor rockhounding dangerous, while winter can bring snow. Spring and fall offer mild temperatures, clear skies, and comfortable conditions for spending several hours searching washes and hillsides for specimens."
+    },
+    {
+      "question": "How do I find agate and quartz at Panaca rockhounding site?",
+      "answer": "Search dry washes and arroyos where water erosion naturally exposes specimens. Look along rocky hillsides and areas with exposed outcrops where weathering has freed agate and chalcedony pieces. Early morning provides best visibility. Focus on areas where lighter-colored quartz and translucent pieces contrast against darker desert soil. A 5-gallon bucket and pry bar are helpful for collecting your finds efficiently."
+    },
+    {
+      "question": "Is Panaca rockhounding site suitable for beginners and families with children?",
+      "answer": "Yes, Panaca is very beginner-friendly. The flat terrain, easy access from the highway, lack of permit requirements, and abundant specimens make it ideal for first-time rockhounders. The site is family-friendly with children age 6 and up able to participate comfortably. No special skills or equipment beyond sturdy boots and a collection bucket are needed to find quality quartz and agate specimens."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding near Panaca?",
+      "answer": "Bring sturdy boots for rocky desert terrain, a 5-gallon bucket for carrying specimens, a small pry bar or rock hammer, and a backpack. Most importantly, bring plenty of water (2+ gallons per person) as the high desert offers no shade and can be extremely hot even in cooler months. A hat and sunscreen are essential. A small geology guide helps identify specimens. Avoid heavy equipment as motorized excavation is prohibited on BLM land."
+    }
+  ],
+  "meta_title": "Panaca Rockhounding - Nevada",
+  "meta_description": "Free BLM rockhounding at Panaca, Nevada. Find quartz, agate, and chalcedony. No permit required, 25 lb daily limit. Easy terrain, family-friendly.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (no specific source confirms all four types at this exact location; based on regional Great Basin geology)",
+    "written_directions (inferred from GPS coordinates and Nevada geography; no named access road provided)",
+    "cell_service (assessed as spotty based on remote desert location; not confirmed by specific carrier data)"
+  ],
+  "enriched_at": "2026-04-22T09:50:06.288Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:51:54.816Z"
+}

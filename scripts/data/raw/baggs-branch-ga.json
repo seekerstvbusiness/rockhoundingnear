@@ -1,0 +1,60 @@
+{
+  "slug": "baggs-branch-ga",
+  "name": "Baggs Branch",
+  "lat": 34.439511,
+  "lng": -84.032257,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Lumpkin County",
+  "city_slug": "lumpkin-county",
+  "county": "Lumpkin",
+  "county_slug": "lumpkin",
+  "geocoded_city": "Lumpkin County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Baggs%20Branch%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Baggs%20Branch",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Baggs%20Branch%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1114,
+      "meters": 339
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:05:32.709Z"
+  },
+  "scraped_at": "2026-04-21T19:05:32.709Z",
+  "scrape_quality": "minimal"
+}

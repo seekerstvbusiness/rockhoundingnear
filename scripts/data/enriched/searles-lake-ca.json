@@ -1,0 +1,95 @@
+{
+  "slug": "searles-lake-ca",
+  "name": "Searles Lake",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Trona",
+  "city_slug": "trona",
+  "county": "San Bernardino",
+  "county_slug": "san-bernardino",
+  "lat": 35.731554,
+  "lng": -117.329364,
+  "gem_types": [
+    "Calcite"
+  ],
+  "short_description": "Historic saline lake bed rich in evaporite minerals including borax, halite, and trona crystals. BLM public land offers free rockhounding with 25 lb daily limit.",
+  "description": "Searles Lake represents one of California's most unique and mineralogically rich saline basins, located in the Mojave Desert between the Sierra Nevada and Death Valley regions. The dry lake bed and surrounding playa contain abundant evaporite minerals deposited over millions of years as ancient lakes evaporated, concentrating dissolved salts and minerals. This area has been heavily mined commercially for borax and other salts since the 1920s, making it both historically significant and actively productive for small-scale rockhounders.\n\nThe lake basin sits at approximately 1,619 feet elevation in a flat, wide-open desert environment. The exposed mineral deposits include pristine trona crystals (monoclinic sodium carbonate bicarbonate), halite (rock salt), and secondary calcite formations. The white, tan, and occasionally pink mineral crusts across the playa are visually striking and accessible to collectors who understand proper BLM collection protocols.\n\nThis location offers a genuine desert mineralogy experience distinct from typical quartz or feldspar rockhounding. The flat terrain and expansive views make it accessible to beginners, though the extreme heat, minimal shade, and caustic mineral dust require proper preparation. Rockhounders can walk freely across designated public areas of the lake bed and collect individual specimens, though the BLM strictly enforces its 25 lb per day personal use limit.\n\nThe best approach is to target the exposed mineral veins, crystal clusters, and secondary deposits visible along the lake margins and wash systems. Crystal quality varies seasonally; winter rains can reveal fresh mineral surfaces. Many collectors focus on trona and halite specimens in the 2-6 inch range, which are more common than larger pieces.",
+  "history": "Searles Lake sits within the Basin and Range province where Tertiary volcanic activity and Quaternary fault systems created this closed evaporite basin. The lake has undergone multiple cycles of filling and evaporation, with each phase concentrating sodium carbonate, borax, and chloride minerals through solar evaporation. Large-scale mining operations beginning in the 1920s extensively studied the mineral stratigraphy, confirming trona deposits 600+ feet thick in places. This makes Searles Lake one of North America's most important sources of borax and trona minerals, and the exposed accessible portions offer rockhounders a chance to collect in a truly world-class evaporite deposit.",
+  "tips": "Target the visible white and tan mineral crusts and veins exposed along the lake bed perimeter and in seasonal wash channels where recent erosion has exposed fresh crystal faces. Bring a small chisel or flathead screwdriver to carefully extract specimen clusters from the soft mineral matrix; do not use a hammer or power tools. Look for clear to translucent trona crystals with orthorhombic or monoclinic forms, and collect pieces showing good termination or color zoning. The intense desert sun and alkaline mineral dust require sun protection, a dust mask, and extra water - plan a 2-3 hour morning session rather than full-day exposure.",
+  "terrain_notes": "Flat, open playa and lake bed terrain at 1,619 feet elevation with minimal vegetation. Hard-packed alkaline soil interspersed with mineral crusts, loose crystal fragments, and occasional salt flats. Walking is generally easy across the level ground, but footing can be uneven near exposed mineral deposits. No shade available. Visibility extends for miles across the open desert. Summer temperatures exceed 110 degrees F; winter highs around 60-70 degrees F.",
+  "best_season": "October - April. Searles Lake sits in the low Mojave Desert where summer heat (110-120 F) makes extended rockhounding dangerous. Fall and winter offer mild daytime temperatures (60-75 F) with minimal precipitation. Spring (March-April) can be windy and dusty. Avoid June-September entirely due to extreme heat and dehydration risk.",
+  "written_directions": "From Trona, California (approximately 12 miles southwest of the Searles Lake epicenter), take California State Route 178 southeast toward Ridgecrest. Continue approximately 8-10 miles and look for unsigned BLM access roads and pullouts along the lake basin margins. GPS navigation to 35.731554, -117.329364 is recommended as formal signed access points are limited. Park at any pullout along the lake perimeter and walk directly onto the exposed playa. Verify current access status with the Ridgecrest BLM Field Office before visiting, as mining operations and seasonal closures can affect specific collection zones.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Variable. State Route 178 is paved. Access roads to lake margin pullouts are typically unpaved dirt roads in fair condition, passable by standard passenger vehicles during dry conditions. Winter rains may create temporary washout sections.",
+  "parking_notes": "Informal pullouts along CA-178 and lake perimeter roads. No designated parking lot. Space available for 5-15 vehicles per pullout. No facilities or amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or heavy equipment. Collectors must stay on public BLM land and respect any posted closures or mining operation boundaries. No collecting within active mining claims or posted private mineral leases.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nStay on designated public BLM land\nRespect posted closures and private mining claims\nNo removal of entire mineral exposures or bulk material",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "remote",
+    "sharp_material"
+  ],
+  "nearest_services": "Trona, California (approximately 12 miles north) has limited services: small grocery store, gas station, and basic food options. Ridgecrest, California (approximately 30 miles northeast) offers full services including major supermarkets, restaurants, and medical facilities. No water or facilities at the rockhounding site itself.",
+  "accessibility_notes": "Relatively flat, level terrain accessible to most hikers and those with moderate mobility. Unpaved dirt roads lead to parking pullouts; vehicles must have reasonable ground clearance for rough road conditions. No wheelchair accessibility on the playa itself. Once parked, walking across the lake bed is straightforward with no steep grades or obstacles, though the soft mineral crust can be uneven underfoot. Extreme heat presents the primary accessibility challenge; elderly visitors or those with heat sensitivity should collect only in early morning hours.",
+  "alternative_names": [
+    "Searles Dry Lake",
+    "Searles Valley"
+  ],
+  "nearest_city": "Trona",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/searles-lake-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What minerals can I find rockhounding at Searles Lake, California?",
+      "answer": "Searles Lake is famous for evaporite minerals including trona (sodium carbonate bicarbonate) crystals, halite (rock salt), and secondary calcite. Trona is the primary collectible, with specimens ranging from tiny crystals to clusters several inches across. The white, tan, and occasionally pink mineral crusts visible across the playa make specimen identification straightforward for beginners."
+    },
+    {
+      "question": "Is rockhounding at Searles Lake free or is there a fee?",
+      "answer": "Searles Lake rockhounding is free on public BLM land. No permit is required for personal use collection. However, the federal 25 lb per day limit applies. This makes it an excellent low-cost rockhounding destination, though you should verify current access status with the Ridgecrest BLM Field Office before your trip."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Searles Lake?",
+      "answer": "October through April is ideal. Summer temperatures exceed 110 degrees F and present serious dehydration risks. Fall and winter offer comfortable daytime temperatures between 60-75 degrees F. Morning visits between 7 AM and noon provide the safest conditions. Avoid June through September entirely."
+    },
+    {
+      "question": "How do I find trona crystals at Searles Lake?",
+      "answer": "Target the visible white and tan mineral crusts and veins exposed along the lake bed perimeter and in seasonal wash channels. Use a small chisel or flathead screwdriver to gently extract specimen clusters from the soft mineral matrix. Look for clear to translucent crystals with good termination, typically in the 2-6 inch range. Winter rains expose fresh crystal faces by eroding the overlying material."
+    },
+    {
+      "question": "Is Searles Lake good for beginner rockhounders?",
+      "answer": "Yes, the flat terrain, visible mineral deposits, and large collection area make Searles Lake beginner-friendly. Mineral identification is straightforward since evaporite minerals are visually distinctive. However, beginners must come prepared for extreme desert conditions: bring extra water, sun protection, a dust mask, and plan shorter morning sessions rather than full-day collecting."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Searles Lake?",
+      "answer": "Bring a small chisel or flathead screwdriver for extracting specimens from the soft mineral matrix. Essential supplies include: 2-3 liters of water per person, wide-brimmed hat, sunscreen, and a dust mask (the alkaline mineral dust can irritate respiratory systems). Pack a collection bag or backpack, and a GPS unit or smartphone for navigation. Heavy digging tools and power equipment are prohibited on BLM land."
+    }
+  ],
+  "meta_title": "Searles Lake Rockhounding - Find Trona in CA",
+  "meta_description": "Free BLM rockhounding at Searles Lake for trona, halite, and calcite. Flat desert playa, 25 lb daily limit. Best October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - limited available data; inferred from Searles Lake mineral deposit composition",
+    "written_directions - based on geographic inference; verify current access status with BLM",
+    "nearest_city - Trona chosen as closest named settlement; alternative is Ridgecrest 30 miles distant"
+  ],
+  "enriched_at": "2026-04-21T19:33:17.315Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:36:36.351Z"
+}

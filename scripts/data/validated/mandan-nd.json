@@ -1,0 +1,95 @@
+{
+  "slug": "mandan-nd",
+  "name": "Mandan",
+  "state": "North Dakota",
+  "state_slug": "north-dakota",
+  "city": "Mandan",
+  "city_slug": "mandan",
+  "county": "Morton",
+  "county_slug": "morton",
+  "lat": 46.817356,
+  "lng": -100.935263,
+  "gem_types": [
+    "Agate",
+    "Petrified Wood",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "Rockhound the badlands region of central North Dakota near Mandan for agates, petrified wood, and jasper specimens. Gentle terrain and public land access make this ideal for family collecting.",
+  "description": "The Mandan area sits within North Dakota's unique geological transition zone between the Great Plains and the badlands, offering rockhounders access to diverse mineral specimens across public and private lands. This region is known for producing quality agates, colorful jasper, and petrified wood specimens that weathered out of Paleocene-era sedimentary formations. The gentle rolling prairie slopes make collecting accessible to families and beginners, though serious rockhounders can venture into more rugged badlands terrain for premium finds. The Missouri River valley nearby has historically been a source of quality specimens, and local knowledge of specific wash areas and hillside exposures significantly improves your chances of productive collecting. Morton County's combination of public access areas and supportive local rockhounding community makes this a rewarding destination for both casual collectors and more experienced prospectors.",
+  "history": "The Mandan area lies within the Williston Basin, where Paleocene sedimentary rocks (62-56 million years ago) were deposited in shallow marine and fluvial environments. Subsequent erosion by the Missouri River and its tributaries exposed these ancient layers, creating the badlands topography where agates, jasper nodules, and petrified wood weathered out of their host rocks and accumulated in stream beds and hillside gravels.",
+  "tips": "Search along dry creek beds and washes where erosion has concentrated heavier specimens - look for colorful agate nodules with banding patterns and petrified wood showing grain structure. Bring a hand lens to identify jasper colors (red, yellow, brown) and examine surface weathering patterns that indicate fresh specimens. After rain, newly exposed material appears on slopes and wash banks, making spring and early summer productive seasons. Work hillside exposures systematically from top to bottom, watching for color contrasts against the lighter prairie soil.",
+  "terrain_notes": "Gently rolling prairie with elevations around 1660 feet. Terrain transitions from flat grassland to moderate badlands slopes depending on specific collecting area. Most accessible sites require 0.5 to 2 miles of walking on uneven, grassy terrain with scattered rocks underfoot. Summer vegetation can be dense; winter and early spring offer better visibility of specimens on bare ground. No significant water obstacles, but stream beds may be muddy after rainfall.",
+  "best_season": "April - June, September - October. Spring offers fresh erosion after snowmelt and cool temperatures for active collecting. Fall provides excellent weather and increased specimen visibility as summer vegetation dies back. Summer heat can be intense on exposed prairie; winter snow makes access challenging.",
+  "written_directions": "From Mandan, head south and east into Morton County badlands areas accessible via local county roads. The main rockhounding zones are scattered across BLM lands and public access areas within 15-25 miles of Mandan. Specific productive locations require local knowledge - contact Morton County Parks or local rockhounding clubs for current access information and detailed directions to active collecting areas. Road conditions vary from gravel to dirt depending on recent weather; high-clearance vehicle recommended for remote badlands access.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mix of paved county roads and gravel/dirt roads leading to collecting areas. High-clearance vehicle recommended for remote badlands access. Roads can become muddy after rain.",
+  "parking_notes": "Informal pullouts along county roads and designated parking areas at BLM access points. No developed parking facilities; park responsibly and do not block gates or private driveways.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation. Respect private property boundaries - obtain permission before entering private land. Do not collect from badlands formations themselves; collect only weathered specimens from the surface and stream beds.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo collecting from formation faces\nRespect private property - obtain permission required\nCollect weathered specimens from surface and washes only",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "snakes",
+    "remote",
+    "heat",
+    "sharp_material"
+  ],
+  "nearest_services": "Mandan, approximately 5-15 miles. Full services including gas stations, restaurants, and grocery stores available in town.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Uneven grassy slopes with scattered rocks; sturdy footwear strongly recommended. Most productive areas require 0.5 to 2 miles of walking from parking areas. No wheelchair access to remote collecting zones. Badlands terrain can be unstable near eroded banks - use caution when walking near steep slopes.",
+  "alternative_names": [],
+  "nearest_city": "Mandan",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/north-dakota/mandan-nd/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What agate and petrified wood can I find rockhounding near Mandan, North Dakota?",
+      "answer": "The Mandan area produces banded agates with red, white, and brown patterns, colorful jasper in reds and yellows, and quality petrified wood specimens showing clear grain structure. Most finds are from weathered nodules in stream beds and prairie hillsides rather than direct excavation. Specimens typically range from golf-ball to fist-sized, though larger nodules are occasionally found."
+    },
+    {
+      "question": "Is rockhounding near Mandan, ND free and what are the collection rules?",
+      "answer": "Yes, rockhounding is free on most public BLM and accessible lands near Mandan. You may collect up to 25 pounds per day for personal use only under federal FLPMA regulations. No commercial collection or motorized excavation is permitted. You must obtain permission before entering private property."
+    },
+    {
+      "question": "Do I need a permit to rockhound in the Morton County badlands?",
+      "answer": "No permit is required for personal collecting on public BLM lands near Mandan. However, it is wise to contact Morton County Parks or local rockhounding clubs for current access information and to identify productive collecting areas. Always respect private property boundaries and posted closures."
+    },
+    {
+      "question": "When is the best time to rockhound near Mandan, North Dakota?",
+      "answer": "April through June and September through October are ideal. Spring offers fresh erosion after snowmelt; fall provides excellent weather and vegetation dies back for better visibility. Summer heat is intense on exposed prairie, and winter snow makes access difficult. After rainfall, newly exposed material appears on slopes and wash banks."
+    },
+    {
+      "question": "What tools and equipment do I need for Mandan area rockhounding?",
+      "answer": "Bring a sturdy backpack, hand lens for specimen inspection, small rock hammer or chisel, carrying bags, plenty of water, and sun protection. Wear sturdy hiking boots for uneven prairie terrain. A GPS device or smartphone with offline maps is helpful for remote areas with spotty cell service. A vehicle with high clearance is recommended for accessing remote badlands areas."
+    },
+    {
+      "question": "Is rockhounding near Mandan beginner-friendly and family-safe?",
+      "answer": "Yes, the Mandan area is excellent for beginners and families. The terrain is gently rolling and accessible, specimens are relatively common on the surface, and no special skills are required to find quality agates and petrified wood. Children ages 6 and up can participate. Watch for prairie snakes in warmer months, wear sun protection, and bring adequate water. Always supervise children near badlands edges and eroded slopes."
+    }
+  ],
+  "meta_title": "Mandan Rockhounding - Find Agate & Petrified Wood, ND",
+  "meta_description": "Free rockhounding near Mandan, ND for agates, petrified wood, and jasper. Public BLM access, family-friendly, 25 lbs/day limit. Best April-October.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "specific_access_areas"
+  ],
+  "enriched_at": "2026-04-21T16:38:30.182Z",
+  "scrape_quality": "minimal",
+  "images_processed_at": "2026-04-21T16:39:43.848Z"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "shoshone-id",
+  "name": "Shoshone",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Lincoln",
+  "city_slug": "lincoln",
+  "county": "Lincoln",
+  "county_slug": "lincoln",
+  "lat": 42.951845,
+  "lng": -114.462235,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public rockhounding on flat terrain near Shoshone with access to agate and chalcedony deposits. No permit required, 25 lbs per day limit.",
+  "description": "Shoshone sits in the heart of Idaho's productive rockhounding country on public BLM land in Lincoln County. This location offers easy access to silica-rich formations where agates, chalcedony, and jasper specimens can be found in washes and along exposed hillsides. The relatively flat terrain at 3,859 feet elevation makes this site accessible for rockhounders of varying experience levels.\n\nThe geological setting here reflects the Basin and Range province geology of central Idaho. Miocene volcanic activity and subsequent hydrothermal alteration deposited silica-rich fluids that filled fractures and cavities, creating the agate nodules and chalcedony layers found throughout the area. Erosion has exposed these formations in surface wash areas and scattered them across the landscape.\n\nVisitors should expect semi-arid terrain with scattered sagebrush and exposed rocky ground. The flat slope makes walking and specimen hunting straightforward, though you'll still encounter loose rock and uneven footing. Material tends to concentrate in dry washes where water runoff has naturally sorted lighter debris.\n\nThis is a personal-use collecting area managed under standard BLM recreation rules. The 25-pound daily limit encourages sustainable rockhounding while allowing you to take home a respectable collection. Early season visits (fall and early spring) offer the best conditions before summer heat arrives.",
+  "history": "The Shoshone area sits within Idaho's Basin and Range province where Miocene-age volcanic activity and subsequent hydrothermal systems deposited silica-rich fluids that created the agate and chalcedony occurrences found here today. Historical mining activity in the broader Lincoln County region targeted precious metals, but the widespread silica deposits have long been attractive to recreational rockhounders.",
+  "tips": "Search in dry washes and arroyos where erosion naturally concentrates agate and chalcedony nodules - these are your highest-yield areas. Look for translucent or banded stones with reddish, orange, or cream coloring, typically ranging from 1 to 4 inches. Bring a 5-gallon bucket and sturdy digging bar to extract specimens from weathered outcrops and hardpan. Early morning visits minimize heat exposure and improve visibility of color variations in specimens.",
+  "terrain_notes": "Flat terrain at 3,859 feet elevation with scattered sagebrush, loose rocks, and exposed ground. Unpaved roads provide access to parking areas and collection zones. Walking distances from parking are typically short (under 0.5 miles). Footing is generally easy on flat ground, though loose rock and small drop-offs require normal hiking care.",
+  "best_season": "April - June and September - October. Spring and fall offer moderate temperatures ideal for fieldwork. Summer heat (July-August) can be intense in this high desert environment. Winter snow and cold make access difficult.",
+  "written_directions": "From Lincoln, Idaho, take US Highway 93 south approximately 8 miles toward Shoshone. Look for BLM access roads marked with standard signage on the east and west sides of the highway in the Shoshone vicinity. Park at designated pullouts near rocky outcrops or in established turnouts. GPS coordinates (42.951845, -114.462235) mark the general collecting area. Always check current BLM access status and road conditions before visiting.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Unpaved BLM roads in varying condition. Standard passenger vehicles can access main areas, though higher-clearance or 4WD vehicles are preferable after rain.",
+  "parking_notes": "Parking available at informal pullouts and established BLM turnouts near the collecting areas. No developed parking lot; parking is along road shoulders in designated areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Take only specimens you intend to keep. Do not damage surrounding rocks or vegetation unnecessarily. Pack out all trash.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo unnecessary damage to surrounding areas\nPack out all trash",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "loose_rock",
+    "sharp_material",
+    "snakes"
+  ],
+  "nearest_services": "Lincoln, Idaho (approximately 8 miles north) has basic services including fuel and limited food options. Arco, Idaho (approximately 20 miles south) offers more services.",
+  "accessibility_notes": "Flat terrain accessible to most hikers and rockhounders. Unpaved roads and informal parking may be challenging for very low-clearance vehicles. No wheelchair accessibility in collection areas. Standard hiking boots recommended for loose rock terrain.",
+  "alternative_names": [],
+  "nearest_city": "Lincoln",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/shoshone-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/shoshone-id/mineral-1-agate.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/shoshone-id/mineral-2-chalcedony.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What types of gems can I find rockhounding near Shoshone, Idaho?",
+      "answer": "The Shoshone area is known for agate, chalcedony, jasper, and quartz specimens. Agates are the most commonly found and often display beautiful banding in reddish, orange, or cream colors. Most specimens range from 1 to 4 inches in size, making them ideal for collectors of all levels."
+    },
+    {
+      "question": "Is a permit required to rockhound at Shoshone on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Shoshone. As public BLM land, it falls under standard federal land regulations allowing personal-use collecting without advance permits. You simply need to follow the 25-pound daily limit and personal-use-only guidelines."
+    },
+    {
+      "question": "How much can I collect per day at Shoshone, Idaho?",
+      "answer": "You are limited to 25 pounds of rock material per day under FLPMA (Federal Land Policy and Management Act) regulations. This applies to all personal collectors on BLM land and ensures sustainable rockhounding practices for everyone."
+    },
+    {
+      "question": "When is the best time to go rockhounding at Shoshone, Idaho?",
+      "answer": "The best months are April through June and September through October. Spring and fall temperatures are ideal for fieldwork in this high desert environment. Summer heat (July-August) can be intense, and winter snow makes road access difficult or impossible."
+    },
+    {
+      "question": "Is Shoshone rockhounding site beginner-friendly and good for families with kids?",
+      "answer": "Yes, Shoshone is excellent for beginners and families. The flat terrain requires minimal hiking, the collecting sites are accessible from parking areas, and specimens are relatively easy to spot. Children as young as 6 can participate comfortably with proper supervision and sun protection."
+    },
+    {
+      "question": "What tools and supplies should I bring for rockhounding at Shoshone?",
+      "answer": "Bring a 5-gallon bucket, sturdy digging bar or pry bar, rock hammer, and chisel for extracting specimens. Pack plenty of water (at least 2-3 liters), sun protection, sturdy hiking boots, and a field guide to agate identification. Bring trash bags to pack out all waste, as required on BLM land."
+    }
+  ],
+  "meta_title": "Shoshone Rockhounding - Idaho Agate & Chalcedony",
+  "meta_description": "Find agate, chalcedony, and jasper at Shoshone, Idaho on public BLM land. No permit needed, 25 lbs/day limit. Beginner-friendly rockhounding near Lincoln.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types inferred from Lincoln County Idaho geology",
+    "parking_notes inferred as informal BLM pullouts",
+    "road_conditions inferred as typical BLM access roads"
+  ],
+  "enriched_at": "2026-04-22T09:27:08.869Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:28:31.168Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "chattaroy-wa",
+  "name": "Chattaroy",
+  "lat": 47.887224,
+  "lng": -117.356467,
+  "state": "Washington",
+  "state_slug": "washington",
+  "state_code": "WA",
+  "city": "Spokane County",
+  "city_slug": "spokane-county",
+  "county": "Spokane",
+  "county_slug": "spokane",
+  "geocoded_city": "Chattaroy",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-washington.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chattaroy%20Washington"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chattaroy",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chattaroy%20Washington"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1692,
+      "meters": 516
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:11:05.496Z"
+  },
+  "scraped_at": "2026-04-21T19:11:05.497Z",
+  "scrape_quality": "minimal"
+}

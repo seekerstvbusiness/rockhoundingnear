@@ -1,0 +1,91 @@
+{
+  "slug": "canyon-to-n-of-road-1-mi-s-of-apache-nat-forest-az",
+  "name": "Canyon to N of road 1 mi. S of Apache Nat. Forest",
+  "lat": 33.155034,
+  "lng": -109.373695,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/canyon-to-n-of-road-1-mi-s-of-apache-nat-forest"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Canyon%20to%20N%20of%20road%201%20mi.%20S%20of%20Apache%20Nat.%20Forest%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Canyon%20to%20N%20of%20road%201%20mi.%20S%20of%20Apache%20Nat.%20Forest",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Canyon%20to%20N%20of%20road%201%20mi.%20S%20of%20Apache%20Nat.%20Forest%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 5302,
+      "meters": 1616
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "Coronado Trail",
+        "ref": "US 191",
+        "type": "primary",
+        "dist": 0.1
+      },
+      {
+        "name": "Coronado Trail",
+        "ref": "US 191",
+        "type": "primary",
+        "dist": 0.4
+      },
+      {
+        "name": "Coronado Trail",
+        "ref": "US 191",
+        "type": "primary",
+        "dist": 6.6
+      },
+      {
+        "name": "Coronado Trail",
+        "ref": "US 191 Temp",
+        "type": "primary",
+        "dist": 6.9
+      }
+    ],
+    "water_features": null,
+    "protected_areas": [
+      {
+        "name": "Apache-Sitgreaves National Forests",
+        "type": "protected_area"
+      }
+    ],
+    "analyzed_at": "2026-04-20T16:52:21.223Z"
+  },
+  "scraped_at": "2026-04-20T16:52:21.223Z",
+  "scrape_quality": "partial"
+}

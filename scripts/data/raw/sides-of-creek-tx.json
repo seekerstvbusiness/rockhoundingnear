@@ -1,0 +1,60 @@
+{
+  "slug": "sides-of-creek-tx",
+  "name": "Sides of creek",
+  "lat": 32.445528,
+  "lng": -96.922066,
+  "state": "Texas",
+  "state_slug": "texas",
+  "state_code": "TX",
+  "city": "Midlothian",
+  "city_slug": "midlothian",
+  "county": "Ellis",
+  "county_slug": "ellis",
+  "geocoded_city": "Midlothian",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-texas.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Sides%20of%20creek%20Texas"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Sides%20of%20creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Sides%20of%20creek%20Texas"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 600,
+      "meters": 183
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:35:13.126Z"
+  },
+  "scraped_at": "2026-04-21T18:35:13.126Z",
+  "scrape_quality": "minimal"
+}

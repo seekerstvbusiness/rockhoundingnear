@@ -1,0 +1,85 @@
+{
+  "slug": "gumlog-mountain-ga",
+  "name": "Gumlog Mountain",
+  "lat": 34.940464,
+  "lng": -83.926317,
+  "state": "Georgia",
+  "state_slug": "georgia",
+  "state_code": "GA",
+  "city": "Union County",
+  "city_slug": "union-county",
+  "county": "Union",
+  "county_slug": "union",
+  "geocoded_city": "Ebenezer",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-georgia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Gumlog%20Mountain%20Georgia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Gumlog%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Gumlog%20Mountain%20Georgia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 3455,
+      "meters": 1053
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": [
+      {
+        "name": "Gumlog Road",
+        "ref": null,
+        "type": "secondary",
+        "dist": 2.1
+      },
+      {
+        "name": "Gumlog Road",
+        "ref": null,
+        "type": "secondary",
+        "dist": 3.3
+      },
+      {
+        "name": "Murphy Street",
+        "ref": "GA 66",
+        "type": "secondary",
+        "dist": 4.3
+      },
+      {
+        "name": "Main Street",
+        "ref": "US 76;GA 2;GA 515",
+        "type": "trunk",
+        "dist": 4.4
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:07:34.839Z"
+  },
+  "scraped_at": "2026-04-21T19:07:34.839Z",
+  "scrape_quality": "minimal"
+}

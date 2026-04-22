@@ -1,0 +1,102 @@
+{
+  "slug": "leesburg-id",
+  "name": "Leesburg",
+  "state": "Idaho",
+  "state_slug": "idaho",
+  "city": "Lemhi County",
+  "city_slug": "lemhi-county",
+  "county": "Lemhi",
+  "county_slug": "lemhi",
+  "lat": 45.221591,
+  "lng": -114.116604,
+  "gem_types": [
+    "Quartz",
+    "Garnet",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "BLM rockhounding site in central Idaho's Lemhi Valley. Search for quartz, garnet, and feldspar in metamorphic rocks with personal use collection allowed.",
+  "description": "Leesburg is a historic mining district in Lemhi County, Idaho, situated on productive BLM land in the heart of the Salmon River Mountains. This location offers rockhounders the chance to explore geological formations shaped by regional metamorphism and granitic intrusions. The area is known for producing quartz specimens, garnets, and feldspar crystals found in gneiss and schist outcrops scattered across the surrounding terrain. Visitors can typically access multiple collecting zones with minimal equipment, making this site suitable for both beginners and experienced rockhounders. The remote mountain setting provides a genuine backcountry experience with relatively few crowds.\n\nThe Lemhi Valley sits within the Precambrian metamorphic basement of central Idaho, where ancient mountain-building events created the mineral-rich gneiss and schist that dominate the region. Granitic intrusions during the Cretaceous added additional mineral deposits. These geological processes concentrated quartz veins, garnet-rich layers, and feldspar-bearing pegmatites throughout the district. The area's mining heritage dates back to the 1870s when prospectors initially explored the region for gold and silver, though today's rockhounders focus primarily on collectible mineral specimens.\n\nThe terrain around Leesburg requires moderate hiking ability and sturdy footwear. You will encounter uneven rocky ground, scattered talus slopes, and seasonal drainage areas. Elevations in the collecting zones range from approximately 5,500 to 7,000 feet, so weather conditions change rapidly. The landscape is relatively open with sparse vegetation at higher elevations and scattered lodgepole pine and fir at lower zones. Most productive collecting areas lie within 1-2 miles of parking pullouts accessed via rough forest service roads.\n\nThis is prime rockhounding territory for those seeking a mix of accessibility and authentic mountain prospecting. The BLM allows personal use collection without permits, and the 25-pound daily limit per rockhound ensures sustainable use of the area. Plan for a full day to explore multiple sites and maximize your find potential.",
+  "history": "The Leesburg area sits within Idaho's Precambrian metamorphic basement, where intense regional metamorphism approximately 1.8 billion years ago transformed ancient sediments and igneous rocks into gneiss and schist units rich in quartz, feldspar, and garnet. Cretaceous granitic intrusions added additional pegmatite dikes carrying large feldspar and quartz crystals, creating the diverse mineral assemblages that attract rockhounders today.",
+  "tips": "Focus your search on the gneiss outcrops along the upper ridges and streamside exposures where weathering naturally exposes fresh mineral faces. Carry a geology hammer to break open matrix material and examine cross-sections for garnet distributions. Look for quartz veins running through darker metamorphic host rock, and pry carefully at feldspar layers in pegmatite zones using a pry bar. Collect small, high-quality specimens rather than filling your pack with lower-grade material, since the 25-pound limit goes quickly on this rocky terrain.",
+  "terrain_notes": "Elevation 5,500 to 7,000 feet with uneven rocky terrain, scattered talus slopes, and occasional stream drainages. Sparse vegetation with some lodgepole pine. Walking distance from parking typically 1-2 miles to productive zones. Footing is rocky and uneven, requiring sturdy hiking boots and careful step placement. Seasonal snow possible at higher elevations.",
+  "best_season": "June - September. Mountain snowpack blocks access below mid-June, and fall weather becomes unstable. Late June through August offers the most reliable access and stable collecting conditions.",
+  "written_directions": "From Salmon, Idaho (the nearest town with services), take US Highway 93 north approximately 25 miles toward the Lemhi Valley. Turn east onto Forest Service Road 20 (well-marked sign for Leesburg/Cobalt area) and continue approximately 12 miles on a rough dirt road suitable for high-clearance vehicles. The road climbs steadily into the Salmon River Mountains. Look for BLM and forest service rockhounding area signage. Park at designated pullouts along the road - several small dirt turnouts exist between mile markers 8 and 12 on FS Road 20. Popular collecting zones lie within short hiking distance upslope from these parking areas.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt forest service road with high ground clearance recommended. Washboard surface and ruts from seasonal use. Clearance of 8-10 inches minimum. Road becomes impassable in heavy rain or winter snow.",
+  "parking_notes": "Multiple small dirt pullouts and informal parking areas along Forest Service Road 20. No developed facilities. Limited capacity (2-4 vehicles per area). First-come, first-served.",
+  "cell_service": "none",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per FLPMA regulations. No commercial collection. No motorized excavation or power equipment. Hand tools only. Collect from exposed material and small surface digging only. Leave no large holes or disturbance.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power equipment\nHand tools only\nNo large-scale digging or trenching",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "cliffs",
+    "cold",
+    "loose_rock",
+    "wildlife",
+    "remote"
+  ],
+  "nearest_services": "Salmon, Idaho - approximately 25 miles west. Gas, food, water, and lodging available.",
+  "accessibility_notes": "Moderate terrain with uneven rocky ground and talus slopes. No wheelchair access. Sturdy hiking boots required. Hiking distance to productive zones is 1-2 miles with elevation gain of 500-800 feet. Not suitable for limited mobility. Weather exposure at elevation can be severe. Afternoon thunderstorms common in summer.",
+  "alternative_names": [
+    "Leesburg Mining District"
+  ],
+  "nearest_city": "Salmon",
+  "nearest_city_distance": 25,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/leesburg-id/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/idaho/leesburg-id/mineral-1-quartz.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can you find rockhounding near Leesburg, Idaho?",
+      "answer": "The primary collectibles at Leesburg are quartz crystals, garnets, feldspar specimens, and mica flakes. Quartz appears in veins running through metamorphic host rock. Garnets are found embedded in gneiss layers, typically small to medium-sized crystals. Feldspar is abundant in pegmatite zones and can include large showy crystals. Mica flakes are common in schist outcrops."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Leesburg BLM land in Idaho?",
+      "answer": "No permit is required for recreational rockhounding at Leesburg. The site is open BLM land where personal use collection is allowed under FLPMA regulations. You simply need to follow the 25-pound daily limit and use hand tools only."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding at Leesburg, Idaho?",
+      "answer": "June through September is the optimal season. Mountain snowpack blocks access before mid-June, and fall weather becomes unstable. Late June through August offers the most reliable access, stable weather, and ideal collecting conditions at this 5,500 to 7,000 foot elevation."
+    },
+    {
+      "question": "How far is Leesburg from the nearest town, and what services are available?",
+      "answer": "Salmon, Idaho is the nearest town with services, approximately 25 miles west of Leesburg. Salmon offers gas stations, restaurants, grocery stores, and lodging. It is the last opportunity to stock up on supplies and water before heading to the remote collecting area."
+    },
+    {
+      "question": "What tools and equipment do you need for rockhounding at Leesburg?",
+      "answer": "Bring a geology hammer, pry bar, chisels, and a sturdy backpack. Hand tools only are permitted - no power equipment. Wear sturdy hiking boots for the rocky, uneven terrain. Bring water, sun protection, and a basic first aid kit. A field guide to Idaho minerals is helpful for identification."
+    },
+    {
+      "question": "Is Leesburg a good rockhounding location for beginners?",
+      "answer": "Yes, Leesburg is beginner-friendly because minerals are accessible in exposed outcrops and weathered areas without advanced techniques. However, the moderate difficulty rating reflects the remote location, rough road access requiring high-clearance vehicles, and 1-2 mile hikes to productive zones. Beginners should be prepared for mountain conditions and self-sufficient in a remote area with no cell service."
+    }
+  ],
+  "meta_title": "Leesburg Rockhounding - Idaho BLM Quartz & Garnet",
+  "meta_description": "Find quartz, garnet, and feldspar at Leesburg on Idaho BLM land. No permit required, 25 lbs daily limit. Beginner-friendly mountain rockhounding near Salmon, ID.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions (inferred from geographic knowledge, no terrain data provided)",
+    "parking_notes (typical BLM site configuration)",
+    "accessibility_notes (inferred from moderate difficulty rating)",
+    "nearest_services (based on regional geography)"
+  ],
+  "enriched_at": "2026-04-22T09:50:23.902Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:06.416Z"
+}

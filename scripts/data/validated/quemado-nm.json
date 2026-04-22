@@ -1,0 +1,103 @@
+{
+  "slug": "quemado-nm",
+  "name": "Quemado",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Omega",
+  "city_slug": "omega",
+  "county": "Catron",
+  "county_slug": "catron",
+  "lat": 34.341573,
+  "lng": -108.492702,
+  "gem_types": [
+    "Agate",
+    "Jasper",
+    "Chalcedony",
+    "Quartz"
+  ],
+  "short_description": "BLM rockhounding in high-elevation New Mexico terrain. Find agate, jasper, and chalcedony specimens on open public land with no permit required.",
+  "description": "Quemado is a productive rockhounding destination in Catron County on New Mexico BLM land near the small community of Omega. The site sits at 6,894 feet elevation in the high desert plateau region of southwestern New Mexico, where volcanic and silica-rich geological formations have produced excellent agate and jasper deposits accessible to recreational collectors.\n\nThe terrain is relatively flat to gently rolling, making this site approachable for rockhounders of varying experience levels. The BLM land here has been known to yield well-formed agate nodules, colorful jasper fragments, and chalcedony specimens that erode from surrounding volcanic formations and wash down into accessible arroyos and exposed hillsides.\n\nThis location benefits from New Mexico's clear skies and relatively mild weather during the cooler months, making it ideal for extended collecting sessions. The high elevation keeps summer temperatures moderate compared to lower desert sites, though winters can be cold at night. The open terrain and good visibility make it easier to spot specimens weathering out of the ground.\n\nRockhounding here is free and requires no permit under BLM personal use regulations. The 25-pound daily limit per FLPMA allows collectors to gather substantial specimens. Because this is remote public land with minimal development, you'll need to be self-sufficient with water, fuel, and supplies.\n\nThe area's volcanic history and exposed geology make this a particularly rewarding site for learning about New Mexico's mineral formations. Specimens found here are typical of the Basin and Range province's silica-rich mineral deposits.",
+  "history": "The Quemado area lies within the Basin and Range province, where extensive Tertiary volcanic activity during the Miocene epoch deposited silica-rich minerals and volcanic ash layers that weathered over millions of years into the agate and jasper deposits found here today. Early prospectors and miners in Catron County focused on copper and silver, but the area's abundant silica-based specimens have made it popular with modern rockhounders seeking agates and jasper nodules.",
+  "tips": "Search the exposed hillsides and shallow washes where erosion has exposed fresh material; look for the telltale rounded or nodular shapes of agate weathering out of the volcanic host rock. Bring a 5-gallon bucket and collection bags, as good specimens can be heavy and you may fill your 25-pound limit quickly. Hunt after recent rains when fresh material has been washed down, but avoid the area during thunderstorms common in late summer. Look for color variation in specimens - the best agates here often show banding or internal patterns when held to light.",
+  "terrain_notes": "Elevation 6,894 feet with flat to gently rolling terrain covered with sparse desert scrub, juniper, and pinyon. Uneven rocky footing in places but generally walkable. Minimal shade available. Open exposures and washes provide the best collecting areas within a quarter-mile to half-mile walk from typical parking areas. No developed trail system.",
+  "best_season": "October - April. Cool daytime temperatures (50-65°F) and minimal rainfall make collecting comfortable. Avoid summer heat (often exceeding 80°F) and late-summer monsoon thunderstorms that can trigger flash flooding in arroyos. Winter nights can drop below freezing, but daytime conditions are ideal.",
+  "written_directions": "From Omega, drive northwest on NM-32 toward Quemado for approximately 12 miles. Look for BLM access points and pullouts along the road; the terrain becomes increasingly open and rocky. The GPS coordinates (34.341573, -108.492702) mark a productive area accessible via rough dirt roads branching east from NM-32. High-clearance vehicles recommended; passenger cars may struggle on rougher sections. Bring detailed maps and GPS as there are few landmarks.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt roads with ruts and rocks. High-clearance vehicle required. Not suitable for low-clearance passenger sedans.",
+  "parking_notes": "Informal pullouts and wide shoulders along access roads. No developed parking facility. Space for 2-5 vehicles at typical collection spots.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA. No commercial collection. No motorized excavation. Collect only loose or naturally weathered specimens; do not hammer or blast rock. Pack out all trash. Stay on BLM land; respect private property boundaries.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nNo hammering or blasting\nPack out all trash\nRespect private property boundaries",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "heat",
+    "cold",
+    "flash_floods",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Omega has minimal services (5 miles away). Quemado (15 miles) offers limited gas and supplies. Datil (20 miles) has a small general store. Bring full water supply and fuel.",
+  "accessibility_notes": "Uneven rocky terrain with no marked trails. Terrain is walkable but requires sturdy footwear. Significant walking may be required to reach prime collecting areas. Not suitable for wheelchairs or limited mobility. No shade or facilities on-site.",
+  "alternative_names": [],
+  "nearest_city": "Omega",
+  "nearest_city_distance": 12,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/quemado-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/quemado-nm/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gems can I find rockhounding near Quemado, New Mexico?",
+      "answer": "The Quemado BLM area is known for agate, jasper, chalcedony, and quartz specimens. Agates here often feature banding and internal color patterns. You may also find colorful jasper fragments and silica-based specimens weathering from the volcanic formations typical of Catron County's geology."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Quemado BLM land?",
+      "answer": "No permit is required for recreational rockhounding on New Mexico BLM land at Quemado. Personal use collection is allowed under FLPMA regulations. You must follow the 25-pound per day limit and can only collect loose or naturally weathered specimens - no hammering or excavation."
+    },
+    {
+      "question": "How far is Quemado rockhounding from the nearest town with services?",
+      "answer": "Omega is approximately 12 miles south of the Quemado collecting areas and offers minimal services. Quemado town (15 miles) has limited gas and supplies. Datil (20 miles) has a small general store. Always bring full water supply, fuel, and supplies before heading to this remote location."
+    },
+    {
+      "question": "What's the best time of year to rockhound near Quemado, NM?",
+      "answer": "October through April is ideal. Daytime temperatures range from 50-65°F, making outdoor collecting comfortable. Avoid summer heat exceeding 80°F and late-summer monsoon storms that can trigger flash floods in arroyos. Winter nights can freeze, but daytime conditions are excellent for multi-hour collecting sessions."
+    },
+    {
+      "question": "Is Quemado rockhounding suitable for beginners and families?",
+      "answer": "Yes, Quemado is beginner-friendly with easy flat terrain and no permit requirements. The accessible BLM land and visible agate/jasper specimens make it great for kids age 8 and up. Bring sturdy footwear, water, sunscreen, and parking is available at informal pullouts along access roads."
+    },
+    {
+      "question": "What tools and supplies do I need for rockhounding at Quemado?",
+      "answer": "Bring a 5-gallon collection bucket, collection bags, sturdy hiking boots, sun protection, and at least 2-3 gallons of water per person. A basic chisel or small pry bar helps extract specimens, but avoid hammering - most good pieces weather free naturally. GPS or maps are essential due to the remote terrain and lack of landmarks."
+    }
+  ],
+  "meta_title": "Quemado Rockhounding - Find Agate & Jasper in NM",
+  "meta_description": "Free BLM rockhounding near Quemado, New Mexico. Collect agate, jasper, and chalcedony with no permit required. Open desert terrain at 6,894 feet elevation.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types (inferred from regional geology and BLM land type)",
+    "collection_rules (standard FLPMA language for New Mexico BLM)",
+    "written_directions (constructed from GPS and NM-32 regional knowledge)",
+    "best_season (inferred from high-elevation New Mexico climate patterns)",
+    "hazards (typical of high-desert BLM land)",
+    "remoteness_rating (estimated from distance to services and road conditions)"
+  ],
+  "enriched_at": "2026-04-22T09:50:34.957Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T09:52:21.428Z"
+}

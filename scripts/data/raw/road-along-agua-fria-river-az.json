@@ -1,0 +1,90 @@
+{
+  "slug": "road-along-agua-fria-river-az",
+  "name": "Road along Agua Fria River",
+  "lat": 33.809798,
+  "lng": -112.269852,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/road-along-agua-fria-river"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Road%20along%20Agua%20Fria%20River%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Road%20along%20Agua%20Fria%20River",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Road%20along%20Agua%20Fria%20River%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 1436,
+      "meters": 438
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Sun City West",
+      "distance_mi": 11,
+      "population": 25806
+    },
+    "roads": [
+      {
+        "name": "North 59th Avenue",
+        "ref": null,
+        "type": "secondary",
+        "dist": 9.9
+      },
+      {
+        "name": "West Lake Pleasant Parkway",
+        "ref": null,
+        "type": "primary",
+        "dist": 9.9
+      },
+      {
+        "name": "West Carefree Highway",
+        "ref": null,
+        "type": "primary",
+        "dist": 10.4
+      },
+      {
+        "name": "North 83rd Avenue",
+        "ref": null,
+        "type": "primary",
+        "dist": 11.9
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T16:56:06.095Z"
+  },
+  "scraped_at": "2026-04-20T16:56:06.095Z",
+  "scrape_quality": "partial"
+}

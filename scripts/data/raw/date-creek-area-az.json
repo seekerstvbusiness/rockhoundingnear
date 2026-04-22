@@ -1,0 +1,90 @@
+{
+  "slug": "date-creek-area-az",
+  "name": "Date Creek area",
+  "lat": 34.212639,
+  "lng": -113.049795,
+  "state": "Arizona",
+  "state_slug": "arizona",
+  "state_code": "AZ",
+  "city": null,
+  "city_slug": null,
+  "county": null,
+  "county_slug": null,
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/us/arizona/date-creek-area"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/locsearch.php?q=Date%20Creek%20area%20Arizona&country=US"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Date%20Creek%20area",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Date%20Creek%20area%20Arizona"
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Arizona BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2773,
+      "meters": 845
+    },
+    "slope": "flat",
+    "nearest_city": {
+      "name": "Prescott",
+      "distance_mi": 40,
+      "population": 45827
+    },
+    "roads": [
+      {
+        "name": "Wickenburg–Kingman Highway",
+        "ref": "US 93",
+        "type": "trunk",
+        "dist": 1
+      },
+      {
+        "name": "Wickenburg-Kingman Highway",
+        "ref": "US 93",
+        "type": "trunk",
+        "dist": 8.2
+      },
+      {
+        "name": "Wickenburg-Kingman Highway",
+        "ref": "US 93",
+        "type": "trunk",
+        "dist": 8.4
+      },
+      {
+        "name": "Wickenburg–Kingman Highway",
+        "ref": "US 93",
+        "type": "trunk",
+        "dist": 10.5
+      }
+    ],
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-20T17:09:59.193Z"
+  },
+  "scraped_at": "2026-04-20T17:09:59.193Z",
+  "scrape_quality": "partial"
+}

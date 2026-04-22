@@ -1,0 +1,60 @@
+{
+  "slug": "irish-creek-va",
+  "name": "Irish Creek",
+  "lat": 37.849891,
+  "lng": -79.170372,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Rockbridge County",
+  "city_slug": "rockbridge-county",
+  "county": "Rockbridge",
+  "county_slug": "rockbridge",
+  "geocoded_city": "Irish Creek",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Irish%20Creek%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Irish%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Irish%20Creek%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 2266,
+      "meters": 691
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:07:53.032Z"
+  },
+  "scraped_at": "2026-04-21T19:07:53.032Z",
+  "scrape_quality": "minimal"
+}

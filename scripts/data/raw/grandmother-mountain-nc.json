@@ -1,0 +1,60 @@
+{
+  "slug": "grandmother-mountain-nc",
+  "name": "Grandmother Mountain",
+  "lat": 36.063244,
+  "lng": -81.843187,
+  "state": "North Carolina",
+  "state_slug": "north-carolina",
+  "state_code": "NC",
+  "city": "Avery County",
+  "city_slug": "avery-county",
+  "county": "Avery",
+  "county_slug": "avery",
+  "geocoded_city": "Linville",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-north-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Grandmother%20Mountain%20North%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Grandmother%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Grandmother%20Mountain%20North%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 4605,
+      "meters": 1404
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:35:04.549Z"
+  },
+  "scraped_at": "2026-04-21T19:35:04.549Z",
+  "scrape_quality": "minimal"
+}

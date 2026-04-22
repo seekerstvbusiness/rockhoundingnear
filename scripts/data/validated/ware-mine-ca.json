@@ -1,0 +1,98 @@
+{
+  "slug": "ware-mine-ca",
+  "name": "Ware Mine",
+  "state": "California",
+  "state_slug": "california",
+  "city": "Julian",
+  "city_slug": "julian",
+  "county": "San Diego",
+  "county_slug": "san-diego",
+  "lat": 33.332872,
+  "lng": -116.767546,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Public BLM rockhounding site in San Diego County with moderate terrain. Collect quartz, feldspar, and mica specimens under personal use limits with no permit required.",
+  "description": "Ware Mine is a publicly accessible BLM rockhounding location in San Diego County's Julian area, offering collectors the opportunity to find quartz, feldspar, and mica specimens. The site sits within the Peninsular Ranges geologic province, where Cretaceous granitic intrusions and associated pegmatites created the mineral-rich formations found here today. The terrain features moderate slopes typical of the foothills region, with scattered outcropping and accessible collecting areas suitable for both beginners and experienced rockhounders.\n\nThe location is managed under standard BLM recreational collection guidelines, making it an excellent choice for rockhounds seeking a free, permit-free collecting experience. The moderate slope terrain requires basic hiking ability but is generally manageable for most fitness levels. Visitors can expect to find quartz crystals in various forms, feldspar specimens, and mica flakes within weathered granite and pegmatite outcrops.\n\nThe area experiences typical San Diego County foothill conditions with warm, dry summers and mild winters. Spring and fall are ideal collecting seasons when temperatures are moderate and accessibility is best. The site's proximity to Julian, a popular mountain town, makes it convenient for day trips combined with local attractions.\n\nWhen collecting, focus on exposed granite faces, washes, and talus slopes where weathering has exposed fresh mineral surfaces. Bring proper tools for extracting specimens and be prepared for rocky, uneven terrain. Always respect the 25-pound daily limit per person and leave the site as you found it.",
+  "history": "Ware Mine sits within the Peninsular Ranges batholith, a massive Cretaceous granitic intrusion that formed 100-80 million years ago when subduction-related magmatism intruded the region. The pegmatites and quartz veins found here are products of late-stage crystallization within these granitic bodies, concentrating feldspar, quartz, and mica minerals that became accessible through erosion and weathering over millions of years.",
+  "tips": "Search in exposed granite outcrops and along wash channels where weathering has exposed fresh mineral faces - quartz crystals often project from feldspar-rich matrix. Bring a small hammer or chisel to carefully extract specimens from pegmatite seams; do not pry aggressively as specimens can shatter. Look for white to translucent quartz points and pink or tan feldspar blocks in angular fragments at the base of hillsides and in dry washes. Visit in late fall or early spring when cooler temperatures make sustained fieldwork more comfortable on the moderate slopes.",
+  "terrain_notes": "Moderate slope terrain typical of San Diego County foothills with scattered granite outcrops and dry washes. Elevation approximately 3,000-3,500 feet. Vegetation includes scattered oak, pine, and chaparral. Uneven rocky footing with exposed boulders and talus slopes. Walking distance from parking to active collecting areas typically 0.25-1 mile depending on outcrop focus.",
+  "best_season": "October - April. San Diego County foothills experience hot, dry summers (80-95 degrees F) making spring and fall ideal. Winter temperatures are mild (50-65 degrees F) at this elevation, and recent rains can improve accessibility to washes. Avoid June-September heat which can exceed 90 degrees F at this elevation.",
+  "written_directions": "From Julian, take Highway 78 east approximately 8 miles. Turn south on Forest Road 9S07 (rough dirt road, high-clearance vehicle recommended) and proceed approximately 3-4 miles. The Ware Mine area is accessible from pullouts along this forest service road and associated side roads. GPS coordinates are 33.332872, -116.767546. A detailed map or GPS device is strongly recommended as roads in this area can be poorly marked.",
+  "directions": null,
+  "difficulty": "moderate",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "awd",
+  "road_conditions": "Rough dirt forest service road with some washboard. High-clearance or 4WD vehicle recommended, especially after rain. Passenger cars may have difficulty with road conditions.",
+  "parking_notes": "Limited pullouts along forest service roads. No formal parking area or amenities. Park off-road in designated pullout areas; space for 2-4 vehicles.",
+  "cell_service": "spotty",
+  "remoteness_rating": 4,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or powered tools. Collect only loose material and hand-extracted specimens. Do not damage formations or blast. Remove all trash and leave the site undisturbed for future collectors.",
+  "quantity_limits": "25 lbs per day per person",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation\nHand tools only\nRemove all trash\nLeave formations intact",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "8+",
+  "hazards": [
+    "snakes",
+    "heat",
+    "sharp_material",
+    "loose_rock",
+    "remote"
+  ],
+  "nearest_services": "Julian, California approximately 8-12 miles west. Full services including gas, food, water, and supplies.",
+  "accessibility_notes": "Moderate terrain with uneven rocky footing and scattered boulders. Not wheelchair accessible. Sturdy hiking boots required. Moderate hiking fitness needed for slopes. Rough dirt road access requires high-clearance or 4WD vehicle. No established trails; navigation by map/GPS necessary.",
+  "alternative_names": [],
+  "nearest_city": "Julian",
+  "nearest_city_distance": 10,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/california/ware-mine-ca/cover.jpg",
+  "images": [],
+  "faq": [
+    {
+      "question": "What gemstones and minerals can I find at Ware Mine in San Diego County?",
+      "answer": "Ware Mine is known for quartz, feldspar, and mica specimens. Quartz crystals range from clear to smoky, often found projecting from feldspar-rich granite. Pink to tan feldspar blocks are common, along with mica flakes and small sheets. The site's Cretaceous granitic formations create ideal conditions for these pegmatite minerals."
+    },
+    {
+      "question": "Is a permit required for rockhounding at Ware Mine?",
+      "answer": "No permit is required for recreational collecting at Ware Mine. It is BLM public land where personal use collection is allowed under standard FLPMA guidelines. You are limited to 25 lbs per day per person with no commercial use permitted."
+    },
+    {
+      "question": "What is the best time to go rockhounding at Ware Mine near Julian, California?",
+      "answer": "October through April is ideal. San Diego County foothills experience hot summers (80-95 degrees F) that make collecting uncomfortable. Fall and spring offer moderate temperatures (60-75 degrees F) perfect for fieldwork on moderate slopes. Winter is mild at this elevation with occasional rain refreshing access to washes."
+    },
+    {
+      "question": "What tools do I need for collecting quartz and feldspar at Ware Mine?",
+      "answer": "Bring a small hammer, chisel, or pry bar for hand extraction. A 5-gallon bucket helps carry specimens within the 25-lb limit. Wear sturdy boots for rocky terrain and gloves to protect hands from sharp quartz and feldspar edges. A map or GPS device is essential as roads are poorly marked."
+    },
+    {
+      "question": "Is Ware Mine beginner-friendly for rockhounding?",
+      "answer": "Yes, Ware Mine is suitable for beginners. The moderate terrain and accessible granite outcrops make specimen collection straightforward. Quartz and feldspar are easy to identify, and the site requires no special permits or fees. Bring proper tools and respect the 25-lb daily limit."
+    },
+    {
+      "question": "Can I bring my dog rockhounding at Ware Mine?",
+      "answer": "Yes, dogs are allowed on BLM land at Ware Mine. Keep them under control, bring plenty of water for hot months, and be aware of snakes and wildlife in the area. The rocky terrain and moderate slopes are manageable for most dogs with decent stamina."
+    }
+  ],
+  "meta_title": "Ware Mine Rockhounding - San Diego County, CA",
+  "meta_description": "Find quartz, feldspar, and mica at Ware Mine on San Diego County BLM land. Free permit-free collecting near Julian. 25 lb daily limit. Visit October-April.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "nearest_city_distance",
+    "elevation_estimate",
+    "road_names_verification",
+    "vehicle_requirement_level"
+  ],
+  "enriched_at": "2026-04-21T19:32:42.609Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:35:53.468Z"
+}

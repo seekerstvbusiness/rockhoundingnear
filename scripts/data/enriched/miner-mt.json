@@ -1,0 +1,99 @@
+{
+  "slug": "miner-mt",
+  "name": "Miner",
+  "state": "Montana",
+  "state_slug": "montana",
+  "city": "Miner",
+  "city_slug": "park-county",
+  "county": "Park",
+  "county_slug": "park",
+  "lat": 45.191839,
+  "lng": -110.927115,
+  "gem_types": [
+    "Quartz",
+    "Agate",
+    "Chalcedony"
+  ],
+  "short_description": "BLM rockhounding site in Park County with opportunities to find quartz, agate, and chalcedony in gentle terrain near the Absaroka Range foothills.",
+  "description": "Miner is a public BLM rockhounding location in Park County, Montana, situated at 5,317 feet elevation on gentle sloping terrain typical of the region's transitional zone between valley and mountain environments. The area offers recreational collectors the chance to search for quartz varieties, agate, and chalcedony specimens in an accessible setting without permit requirements. The geology here reflects the complex mineral systems of south-central Montana, where Tertiary-age hydrothermal activity and weathering of older metamorphic and igneous host rocks created secondary mineral deposits and float material suitable for surface collecting.\n\nThe site benefits from gentle terrain that makes it approachable for rockhounds of varying experience levels. Collectors should plan their visits during the optimal season and bring appropriate tools for breaking and prying specimens from exposed outcrops or retrieving loose material from washes and hillsides. The BLM regulations here are straightforward: personal use collection only, with a 25-pound daily limit per Federal Land Policy and Management Act (FLPMA) guidelines.\n\nParking and access are generally straightforward on this public land, making it a reliable option for day trips from nearby towns. The gentle slope of the terrain reduces physical strain compared to steeper mountain collecting sites, though rockhounders should still wear sturdy footwear and bring adequate water. Late spring through early fall provides the most comfortable collecting conditions, though shoulder seasons can also be productive.",
+  "history": "This area sits within south-central Montana's transition zone between the Absaroka Range and Paradise Valley, where Tertiary-age hydrothermal fluids associated with regional magmatism created secondary mineral deposits in fractured host rocks. Historical prospecting and small-scale mining activity in Park County established many of the mineral-bearing sites that rockhounders still work today, with quartz and chalcedony representing common byproducts of larger mineral systems.",
+  "tips": "Search the gentle hillsides and minor washes for float material - agate and chalcedony fragments often weathered free from their host rock. Use a pry bar and cold chisel to carefully work specimens from exposed quartz-rich outcrops; look for color banding or translucency to distinguish quality agate from plain chalcedony. The best material often accumulates at the base of slopes where gravity and seasonal runoff concentrate heavier specimens. Bring at least two 5-gallon buckets to organize specimens and track your 25-pound daily limit.",
+  "terrain_notes": "Elevation 5,317 feet with gentle slopes and open terrain typical of Montana's intermountain valleys. Vegetation varies from scattered sagebrush to grassy meadows with occasional rock outcrops. Walking distances from parking are generally moderate (1-3 miles of exploration), and footing is relatively even with minimal loose scree, though scattered rocks and uneven ground require sturdy hiking boots.",
+  "best_season": "May - September. Late spring through early fall provides the most comfortable temperatures and easiest access after winter snow. Daytime highs range from 70-80 degrees F in summer; early and late season days are cooler but often clearer. Avoid winter months when snow and ice can restrict access to roads and high-elevation collecting areas.",
+  "written_directions": "From Livingston (the nearest major town, approximately 35 miles north), take US Highway 89 south toward Gardiner. Continue south past Emigrant and the Paradise Valley communities. Turn east on local Park County access roads toward the Miner area (specific road names vary by current BLM signage and county maintenance). A high-clearance vehicle is recommended for final approach roads, which may be unpaved and rough depending on recent weather and maintenance. Contact the Gardiner BLM field office for current road conditions and specific access details, as seasonal closures and road work can affect routes.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "Mix of paved and unpaved access roads. County roads may be washboarded or rough depending on season and maintenance; high-clearance vehicle helpful but not required for main approach.",
+  "parking_notes": "Informal pullouts and parking areas typical of BLM land. No developed parking lot. Space for 2-4 vehicles at most pullouts. Plan for remote parking and walking to productive areas.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 pounds per day per Federal Land Policy and Management Act (FLPMA). No commercial collection. No motorized excavation or mechanical collection equipment. Collect only loose specimens or small samples that can be hand-extracted. Leave all mining claims, mine adits, and marked private property untouched. Pack out all trash and collect responsibly to preserve the site for future rockhounders.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 pounds per day per FLPMA\nNo commercial collection\nNo motorized excavation\nNo heavy equipment\nRespect all mining claims and private property\nLeave the site as you found it",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "loose_rock"
+  ],
+  "nearest_services": "Gardiner, Montana (approximately 35 miles south) offers gas, food, lodging, and supplies. Livingston, Montana (approximately 35 miles north) is a larger town with full services. Stock up on water before heading to the site.",
+  "accessibility_notes": "Relatively flat to gently sloping terrain accessible to most hikers with average fitness. Uneven rocky ground and scattered loose rocks require sturdy footwear. No wheelchair access due to unpaved roads and natural terrain. Most collecting areas are within 1-3 miles of parking. Elevation of 5,317 feet is moderate; visitors from lower elevations may need time to acclimate.",
+  "alternative_names": [],
+  "nearest_city": "Gardiner",
+  "nearest_city_distance": 35,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/miner-mt/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/miner-mt/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/montana/miner-mt/mineral-2-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What gemstones can I find rockhounding near Miner, Montana?",
+      "answer": "At Miner, you can find quartz varieties, agate, and chalcedony specimens. These minerals are secondary products of Tertiary hydrothermal systems in this area of Park County. The agate here often displays color banding and translucency, making it popular with collectors. Chalcedony is more common but specimens with good color and clarity are worth keeping."
+    },
+    {
+      "question": "Do I need a permit to rockhound at Miner on BLM land?",
+      "answer": "No permit is required for recreational rockhounding at Miner. Montana BLM land allows personal use collection without a permit. You must follow the 25-pound daily limit per FLPMA and collect only for personal use - not commercial resale."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Miner?",
+      "answer": "The best season to visit Miner is May through September when temperatures are mild and roads are most accessible. Summer months (June-August) offer the warmest, most predictable weather. Late spring and early fall can be excellent with fewer crowds. Avoid winter when snow can block access."
+    },
+    {
+      "question": "How far is it from Livingston to the Miner rockhounding site?",
+      "answer": "Miner is approximately 35 miles south of Livingston. From Livingston, take US Highway 89 south toward Gardiner, then turn east on Park County access roads. Allow 1-1.5 hours for the drive depending on road conditions."
+    },
+    {
+      "question": "Is Miner a good rockhounding site for beginners and families?",
+      "answer": "Yes, Miner is very beginner-friendly. The gentle terrain and accessible parking make it suitable for families with children aged 6 and up. Surface collecting of agate and quartz is straightforward - you do not need advanced prospecting skills to find specimens here."
+    },
+    {
+      "question": "What tools and supplies should I bring rockhounding at Miner, Montana?",
+      "answer": "Bring a pry bar and cold chisel for working specimens from outcrops, sturdy hiking boots, plenty of water, two 5-gallon buckets for organizing finds, a backpack, and sun protection. A hand lens helps identify chalcedony quality. Plan for cool mornings and evenings, and bring a map since cell service is spotty in this remote area."
+    }
+  ],
+  "meta_title": "Miner Rockhounding - Montana BLM",
+  "meta_description": "Find quartz, agate, and chalcedony at Miner on Montana BLM land near Gardiner. No permit required. 25 lb daily limit. Family-friendly collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "written_directions",
+    "road_conditions",
+    "parking_notes",
+    "gem_types",
+    "history"
+  ],
+  "enriched_at": "2026-04-21T19:07:57.390Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T19:11:54.816Z"
+}

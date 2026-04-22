@@ -1,0 +1,60 @@
+{
+  "slug": "hawks-bluff-farm-rocks-and-drusy-mo",
+  "name": "Hawks Bluff Farm Rocks and Drusy",
+  "lat": 38.02849313,
+  "lng": -90.64977269,
+  "state": "Missouri",
+  "state_slug": "missouri",
+  "state_code": "MO",
+  "city": "Washington County",
+  "city_slug": "washington-county",
+  "county": "Washington",
+  "county_slug": "washington",
+  "geocoded_city": "Tiff",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-missouri.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Hawks%20Bluff%20Farm%20Rocks%20and%20Drusy%20Missouri"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Hawks%20Bluff%20Farm%20Rocks%20and%20Drusy",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Hawks%20Bluff%20Farm%20Rocks%20and%20Drusy%20Missouri"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 792,
+      "meters": 241
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:17:02.134Z"
+  },
+  "scraped_at": "2026-04-21T19:17:02.134Z",
+  "scrape_quality": "minimal"
+}

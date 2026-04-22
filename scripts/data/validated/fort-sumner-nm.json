@@ -1,0 +1,98 @@
+{
+  "slug": "fort-sumner-nm",
+  "name": "Fort Sumner",
+  "state": "New Mexico",
+  "state_slug": "new-mexico",
+  "city": "Fort Sumner",
+  "city_slug": "fort-sumner",
+  "county": "De Baca",
+  "county_slug": "de-baca",
+  "lat": 34.459063,
+  "lng": -104.239603,
+  "gem_types": [
+    "Agate",
+    "Chalcedony",
+    "Jasper",
+    "Quartz"
+  ],
+  "short_description": "BLM public land near Fort Sumner offering free rockhounding for agate, chalcedony, and jasper. No permit required - collect up to 25 lbs per day across gently rolling high desert terrain.",
+  "description": "Fort Sumner sits on productive New Mexico BLM land in the eastern plains region where the Pecos River valley opens into semi-arid grassland dotted with volcanic and sedimentary outcrops. This location is ideal for beginner and casual rockhounds seeking free, permit-free collecting on public land. The terrain is relatively accessible high desert with scattered arroyos and wash systems where agates and chalcedony nodules concentrate in erosional contexts.\n\nThe geology here reflects New Mexico's complex volcanic and sedimentary history. Miocene-age volcanic activity and subsequent erosion have exposed chalcedony-bearing formations across the region. Secondary silica deposits, including banded agate and semi-transparent chalcedony, weathered out of host rocks and accumulated in washes and hillside talus. Jasper deposits also occur in these same formations, often displaying rich reds and browns from iron oxide staining.\n\nExpect to find nodular agate and chalcedony in arroyos and along hillside wash banks. Material ranges from thumb-sized nodules to larger specimens suitable for cutting and polishing. The collecting is relatively easy and suitable for families and beginners. Because this is BLM land with no infrastructure, be prepared for exposure to sun, wind, and heat - bring plenty of water and sunscreen.\n\nThis location rewards patient surface collecting. Focus on recent erosion exposures, the inside curves of washes where material concentrates, and the bases of small ridges where gravity has collected loose stones. The reward is genuine free rockhounding with a reasonable chance of finding display-quality specimens.",
+  "history": "This region of De Baca County sits within the transition zone between New Mexico's southeastern volcanic plateau and the Pecos River valley. Miocene silica-rich volcanic fluids and hydrothermal activity created the chalcedony and agate deposits found here today, with millions of years of erosion concentrating loose nodules in accessible wash systems.",
+  "tips": "Search arroyos and wash bottoms where water action concentrates heavy agate and chalcedony nodules - walk the streambed banks carefully during and after any rain events. Look for banded or translucent nodules ranging from pea-sized to fist-sized; jasper appears as opaque reds and browns with smooth texture. Bring a crack hammer and small crowbar to carefully extract specimens from outcrop - never use power tools on BLM land. Focus your search in late afternoon light when shadows reveal subtle color variations in material on the ground.",
+  "terrain_notes": "Rolling high desert terrain at approximately 4,500 feet elevation with scattered volcanic and sedimentary outcrops. Vegetation is sparse grass, low shrubs, and occasional yucca. Multiple small arroyos dissect the landscape. Walking distances from parking areas typically range from 100 yards to 1 mile depending on access point. Footing is generally stable but uneven with scattered loose rocks - wear sturdy boots. No major obstacles or steep drop-offs.",
+  "best_season": "October - April. The high desert here experiences scorching summers with temperatures regularly exceeding 95 degrees Fahrenheit and very intense sun exposure. Fall through spring offers comfortable collecting temperatures (50-70 degrees) with lower UV intensity, making extended search sessions manageable.",
+  "written_directions": "From Fort Sumner, take US 60 east approximately 8 miles. Look for BLM land access points marked with brown BLM signs on either side of the highway. Several unsigned pullouts and informal parking areas exist along this stretch where collectors access wash systems. GPS coordinates 34.459063, -104.239603 mark a productive area accessible by short walk from the highway shoulder.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "public_blm",
+  "vehicle_required": "passenger",
+  "road_conditions": "US 60 is fully paved. Pullouts are unpaved but suitable for passenger vehicles. No 4WD required.",
+  "parking_notes": "Informal pullouts along US 60 east of Fort Sumner. Limited developed facilities - expect gravel or dirt areas accommodating 2-4 vehicles. No amenities.",
+  "cell_service": "spotty",
+  "remoteness_rating": 2,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal use only. Maximum 25 lbs per day per FLPMA regulations. No commercial collection or sale of materials. No motorized excavation. No explosives. Pack out all trash. Respect other users and the landscape.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day per FLPMA\nNo commercial collection\nNo motorized excavation or power tools\nNo explosives\nPack out all trash\nRespect other users and the landscape",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "heat",
+    "snakes",
+    "remote"
+  ],
+  "nearest_services": "Fort Sumner, approximately 8 miles west. Gas, food, and water available in town.",
+  "accessibility_notes": "Relatively flat to gently rolling terrain accessible to most hikers. Parking areas directly off US 60 require only short walks (under 1 mile) to productive collecting zones. Uneven rocky footing and scattered loose material require sturdy footwear. No wheelchair access or paved paths. Not suitable for limited mobility but manageable for families with children comfortable walking on uneven ground.",
+  "alternative_names": [],
+  "nearest_city": "Fort Sumner",
+  "nearest_city_distance": 8,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/fort-sumner-nm/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/new-mexico/fort-sumner-nm/mineral-1-agate.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What can you find rockhounding near Fort Sumner, New Mexico?",
+      "answer": "Fort Sumner BLM land yields agate, chalcedony, and jasper specimens. Most collectors find thumb to fist-sized nodules with banding or translucency in washes and arroyos. Jasper appears as opaque reds and browns. Material is suitable for display, tumbling, or cutting and polishing."
+    },
+    {
+      "question": "Do you need a permit to rockhound at Fort Sumner?",
+      "answer": "No permit is required for recreational rockhounding at Fort Sumner BLM land. Collection is free and open to the public under FLPMA regulations, with only a 25 lb per day personal use limit."
+    },
+    {
+      "question": "What is the best time of year to collect agate at Fort Sumner?",
+      "answer": "October through April is ideal for Fort Sumner rockhounding. Summer temperatures regularly exceed 95 degrees with intense sun exposure. Fall through spring offers comfortable 50-70 degree temperatures and lower UV intensity, making extended collecting sessions possible."
+    },
+    {
+      "question": "Is Fort Sumner rockhounding beginner-friendly?",
+      "answer": "Yes. Fort Sumner is excellent for beginners. The terrain is relatively flat and accessible, specimens are abundant in surface washes, and no special permits or equipment are required. Families with children 6 and up can successfully collect here with basic tools like a crack hammer."
+    },
+    {
+      "question": "How far is Fort Sumner rockhounding from town and what tools do you need?",
+      "answer": "Fort Sumner BLM collecting areas are only 8 miles east of Fort Sumner town via US 60. Bring a small crack hammer, crowbar, collection bag, plenty of water, sunscreen, and a field guide. Sturdy hiking boots are essential for uneven footing."
+    },
+    {
+      "question": "Where exactly should you search for agates at Fort Sumner?",
+      "answer": "Focus your search in arroyos and wash bottoms where water action concentrates heavy nodules. Check the inside curves of washes, wash banks, and the bases of hillsides. Recent erosion exposures and post-rain areas yield the best results. Walk carefully along streambed edges to spot loose specimens."
+    }
+  ],
+  "meta_title": "Fort Sumner Rockhounding - Free BLM Agate & Chalcedony",
+  "meta_description": "Free rockhounding near Fort Sumner, NM on BLM land. Find agate, chalcedony, and jasper. No permit required. 25 lb daily limit. Beginner-friendly collecting.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "nearest_city (inferred as Fort Sumner rather than De Baca County which is not a town)",
+    "specific_pullout_locations (no precise addresses provided in source data)",
+    "cell_service (inferred as spotty based on rural high desert location)",
+    "gem_type_abundance (no frequency data provided in source)"
+  ],
+  "enriched_at": "2026-04-22T10:17:45.482Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-22T10:18:39.118Z"
+}

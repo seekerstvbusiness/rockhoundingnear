@@ -1,0 +1,60 @@
+{
+  "slug": "atka-island-ak",
+  "name": "Atka Island",
+  "lat": 52.16672,
+  "lng": -174.334893,
+  "state": "Alaska",
+  "state_slug": "alaska",
+  "state_code": "AK",
+  "city": "Unorganized Borough",
+  "city_slug": "unorganized-borough",
+  "county": "Unorganized Borough",
+  "county_slug": "unorganized-borough",
+  "geocoded_city": "Unorganized Borough",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-alaska.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Atka%20Island%20Alaska"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Atka%20Island",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Atka%20Island%20Alaska"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 599,
+      "meters": 183
+    },
+    "slope": null,
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T18:21:00.447Z"
+  },
+  "scraped_at": "2026-04-21T18:21:00.447Z",
+  "scrape_quality": "minimal"
+}

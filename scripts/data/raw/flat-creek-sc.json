@@ -1,0 +1,60 @@
+{
+  "slug": "flat-creek-sc",
+  "name": "Flat Creek",
+  "lat": 34.684934,
+  "lng": -80.586279,
+  "state": "South Carolina",
+  "state_slug": "south-carolina",
+  "state_code": "SC",
+  "city": "Lancaster County",
+  "city_slug": "lancaster-county",
+  "county": "Lancaster",
+  "county_slug": "lancaster",
+  "geocoded_city": "Lancaster County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-south-carolina.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Flat%20Creek%20South%20Carolina"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Flat%20Creek",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Flat%20Creek%20South%20Carolina"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 425,
+      "meters": 130
+    },
+    "slope": "flat",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T17:51:24.183Z"
+  },
+  "scraped_at": "2026-04-21T17:51:24.183Z",
+  "scrape_quality": "minimal"
+}

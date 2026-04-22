@@ -1,0 +1,65 @@
+{
+  "slug": "chalk-creek-gravels-co",
+  "name": "Chalk Creek gravels",
+  "lat": 38.713806,
+  "lng": -106.227834,
+  "state": "Colorado",
+  "state_slug": "colorado",
+  "state_code": "CO",
+  "city": "Chaffee County",
+  "city_slug": "chaffee-county",
+  "county": "Chaffee",
+  "county_slug": "chaffee",
+  "geocoded_city": "Chaffee County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-colorado.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Chalk%20Creek%20gravels%20Colorado"
+    },
+    "blm": {
+      "found": true,
+      "url": "https://www.blm.gov/programs/recreation/permits-and-fees",
+      "land_type_hint": "public_blm",
+      "description_snippet": "Colorado BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Chalk%20Creek%20gravels",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Chalk%20Creek%20gravels%20Colorado"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [
+      "[blm] Colorado BLM land — typical rules: personal use only, no permit required for recreational collecting, 25 lb/day limit per FLPMA."
+    ],
+    "images_found": [],
+    "land_type": "public_blm",
+    "scrape_quality": "partial",
+    "sources_found": 1
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 8672,
+      "meters": 2643
+    },
+    "slope": "gentle slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T16:49:11.142Z"
+  },
+  "scraped_at": "2026-04-21T16:49:11.142Z",
+  "scrape_quality": "partial"
+}

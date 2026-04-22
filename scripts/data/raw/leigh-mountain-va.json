@@ -1,0 +1,60 @@
+{
+  "slug": "leigh-mountain-va",
+  "name": "Leigh Mountain",
+  "lat": 37.203295,
+  "lng": -78.360945,
+  "state": "Virginia",
+  "state_slug": "virginia",
+  "state_code": "VA",
+  "city": "Prince Edward County",
+  "city_slug": "prince-edward-county",
+  "county": "Prince Edward",
+  "county_slug": "prince-edward",
+  "geocoded_city": "Prince Edward County Area",
+  "sources": {
+    "rockhounding_org": {
+      "found": false,
+      "url": "https://rockhounding.org/gem-and-mineral-hunting/rockhounding-in-virginia.html"
+    },
+    "mindat": {
+      "found": false,
+      "url": "https://www.mindat.org/search.php?q=Leigh%20Mountain%20Virginia"
+    },
+    "blm": {
+      "found": false
+    },
+    "rockhounding_map": {
+      "found": false,
+      "url": "https://rockhoundingmap.com/?s=Leigh%20Mountain",
+      "description_snippet": null
+    },
+    "alltrails": {
+      "found": false,
+      "url": "https://www.alltrails.com/search?q=Leigh%20Mountain%20Virginia"
+    },
+    "web_search": {
+      "found": false
+    }
+  },
+  "merged": {
+    "description_snippets": [],
+    "images_found": [],
+    "land_type": null,
+    "scrape_quality": "minimal",
+    "sources_found": 0
+  },
+  "terrain": {
+    "elevation": {
+      "feet": 551,
+      "meters": 168
+    },
+    "slope": "moderate slope",
+    "nearest_city": null,
+    "roads": null,
+    "water_features": null,
+    "protected_areas": null,
+    "analyzed_at": "2026-04-21T19:08:27.333Z"
+  },
+  "scraped_at": "2026-04-21T19:08:27.333Z",
+  "scrape_quality": "minimal"
+}

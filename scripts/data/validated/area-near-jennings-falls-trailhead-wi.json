@@ -1,0 +1,105 @@
+{
+  "slug": "area-near-jennings-falls-trailhead-wi",
+  "name": "Area Near Jennings Falls Trailhead",
+  "state": "Wisconsin",
+  "state_slug": "wisconsin",
+  "city": "Town of Fern",
+  "city_slug": "town-of-fern",
+  "county": "Florence",
+  "county_slug": "florence",
+  "lat": 45.83963,
+  "lng": -88.35597,
+  "gem_types": [
+    "Quartz",
+    "Feldspar",
+    "Mica"
+  ],
+  "short_description": "Public rockhounding near the Jennings Falls trailhead in northern Wisconsin. Search for quartz, feldspar, and mica in gentle forest terrain at 1331 ft elevation.",
+  "description": "The area near Jennings Falls trailhead in Florence County, Wisconsin offers rockhounds access to classic Precambrian Shield geology. This location sits within Wisconsin's Laurentian Upland, where ancient granite bedrock and metamorphic formations have been exposed by glacial activity. The gentle slope terrain makes this an accessible spot for exploring mineral-bearing outcrops and glacial till deposits that characterize the north woods.\n\nThe primary minerals found here reflect the underlying Precambrian granite complexes that form the basement rock of the region. Quartz veins, feldspar megacrysts, and mica schist fragments are common in both in-place bedrock and glacial erratics scattered across the forest floor. The abundance of these minerals makes this a reliable location for collectors seeking typical Shield mineralogy without requiring specialized equipment or expertise.\n\nThe Jennings Falls area benefits from its proximity to established trails and public lands managed by Wisconsin's forestry division. The gentle slope and established trail system mean collectors can explore multiple microenvironments, from forest floor deposits to exposed rocky outcrops, all within a reasonable hiking distance. This location works well for both field study and hands-on collection.\n\nExpect to spend 2-3 hours exploring the area around the trailhead. Bring a hand lens to examine feldspar crystal faces and mica lamination. The cooler northern Wisconsin climate keeps the forest relatively open in spring and fall, making October through April the most comfortable collecting season.",
+  "history": "This area sits within the Precambrian Laurentian Shield, where 2.7 to 2.5 billion-year-old granitic rocks were formed during major periods of continental crustal development. Subsequent Pleistocene glaciation scoured the landscape 10,000-20,000 years ago, exposing fresh bedrock and distributing glacial erratics rich in quartz, feldspar, and mica throughout the region.",
+  "tips": "Search the forest floor around the trailhead for loose quartz and feldspar fragments in glacial till - these often weather out of parent rock and are easier to collect than extracting from bedrock. Use a geologist's hammer to carefully separate sheets of mica from exposed outcrops; strike parallel to the grain rather than perpendicular to avoid shattering. Look for white or cream-colored feldspar megacrysts in boulder-sized granite erratics, often marked by darker mica flecks. Bring a hand lens to verify mineral identification in the field, as feldspar and quartz can appear similar without magnification.",
+  "terrain_notes": "Elevation 1331 ft with gentle slope throughout the collection area. Mixed deciduous and coniferous forest with moss-covered forest floor typical of northern Wisconsin. Walking distance from parking to productive collecting areas is generally under 0.5 miles. Footing is uneven with exposed tree roots, rocks, and occasional wet areas depending on season. Sturdy hiking boots recommended. No significant elevation gain.",
+  "best_season": "May - October",
+  "reason_for_season": "Northern Wisconsin winters are severe with heavy snow cover making rockhounding difficult. Late spring through early fall offers dry ground, accessible trails, and comfortable temperatures. May and June provide active water flow near falls. September and October offer crisp weather and minimal insects.",
+  "written_directions": "From the Town of Fern, head north on Wisconsin Highway 101 for approximately 8 miles. Turn east on County Road N and continue for 4 miles. Turn north on Forest Road 2159 and follow for 2 miles to the signed Jennings Falls trailhead parking area. The parking pullout is located on the west side of the road near the trail marker. High-clearance vehicles are recommended, especially in wet conditions.",
+  "directions": null,
+  "difficulty": "easy",
+  "access_type": "public",
+  "primary_category": "national_forest",
+  "vehicle_required": "passenger",
+  "road_conditions": "Forest service road, gravel and dirt surface. May be rough or muddy in wet conditions. Passenger vehicles can access but higher clearance preferred.",
+  "parking_notes": "Small unpaved pullout at trailhead accommodates 3-4 vehicles. No facilities at parking area. Trailhead is signed and easily identifiable.",
+  "cell_service": "spotty",
+  "remoteness_rating": 3,
+  "permit_required": false,
+  "permit_link": null,
+  "fee_amount": null,
+  "commercial_use_allowed": false,
+  "collection_rules": "Personal collection only. Maximum 25 lbs per day per Wisconsin state law on national forest lands. No commercial collection permitted. No motorized excavation. Respect all trail closures and posted boundary signs. Leave no trace beyond collected specimens.",
+  "quantity_limits": "25 lbs per day",
+  "rules": "Personal use only\nMaximum 25 lbs per day\nNo commercial collection\nNo motorized excavation\nRespect posted boundaries and trail closures\nLeave no trace except collected specimens",
+  "beginner_friendly": true,
+  "family_friendly": true,
+  "dog_friendly": true,
+  "kid_age_range": "6+",
+  "hazards": [
+    "cold",
+    "wildlife",
+    "loose_rock"
+  ],
+  "nearest_services": "Town of Fern has basic services approximately 8 miles south. Florence, the county seat, is 15 miles south and offers gas, food, and supplies.",
+  "accessibility_notes": "Relatively flat terrain with gentle slope accessible to most hikers. Forest floor is uneven with roots and rocks requiring sturdy footwear. No wheelchair access to collection areas. Short walking distances (under 0.5 miles) from parking make this suitable for families with children ages 6 and up. Wet areas may occur seasonally, limiting access to certain spots.",
+  "alternative_names": [
+    "Jennings Falls Area",
+    "Florence County Rockhounding"
+  ],
+  "nearest_city": "Florence",
+  "nearest_city_distance": 15,
+  "cover_photo": "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wisconsin/area-near-jennings-falls-trailhead-wi/cover.jpg",
+  "images": [
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wisconsin/area-near-jennings-falls-trailhead-wi/mineral-1-quartz.jpg",
+    "https://lidnfpafqcrhtmcgxkbi.supabase.co/storage/v1/object/public/location-images/wisconsin/area-near-jennings-falls-trailhead-wi/mineral-1-mica.jpg"
+  ],
+  "faq": [
+    {
+      "question": "What minerals can you find rockhounding near Jennings Falls in Wisconsin?",
+      "answer": "The primary minerals found at this location are quartz, feldspar, and mica. These are common in the Precambrian granite bedrock that underlies the Laurentian Upland. Quartz appears as white or clear fragments and veins, feldspar shows cream to white coloring often with dark mica specks, and mica occurs as reflective sheets in exposed outcrops and glacial erratics."
+    },
+    {
+      "question": "Is rockhounding at Jennings Falls trailhead free or do you need a permit?",
+      "answer": "Rockhounding at Jennings Falls trailhead is completely free and does not require a permit. The area is on public national forest land managed by Wisconsin. Personal collection is allowed up to 25 lbs per day. No fees or permits are needed for casual rockhounding."
+    },
+    {
+      "question": "What is the best time of year to go rockhounding near Florence, Wisconsin?",
+      "answer": "The best season for rockhounding at Jennings Falls is May through October. Winter brings heavy snow cover that makes access difficult. Late spring and fall offer dry ground, accessible forest floor, and comfortable temperatures. September and October are particularly pleasant with minimal insects and crisp weather."
+    },
+    {
+      "question": "Is Jennings Falls trailhead rockhounding suitable for kids and beginners?",
+      "answer": "Yes, this location is excellent for beginners and families. The terrain is gentle with minimal elevation gain, and walking distances from parking to collecting areas are under 0.5 miles. Kids ages 6 and up can participate. Common minerals like quartz and feldspar are easy to identify. No special equipment beyond a hand lens and basic hammer is needed."
+    },
+    {
+      "question": "What tools and equipment do I need for rockhounding at this Wisconsin location?",
+      "answer": "Bring a small geologist's hammer for carefully extracting mica from outcrops, a hand lens to verify mineral identification, and a sturdy backpack. Wear waterproof hiking boots suitable for uneven forest terrain with roots and rocks. Bring a collection bag and water. A small chisel is helpful for precise work on feldspar-rich granite erratics."
+    },
+    {
+      "question": "How far is Jennings Falls trailhead from Florence, Wisconsin and what are driving directions?",
+      "answer": "Jennings Falls trailhead is approximately 15 miles north of Florence. From Florence, head north on Wisconsin Highway 101 for 8 miles, turn east on County Road N for 4 miles, then north on Forest Road 2159 for 2 miles to the signed trailhead parking. The drive takes about 25 minutes from town."
+    }
+  ],
+  "meta_title": "Jennings Falls Rockhounding - Wisconsin",
+  "meta_description": "Find quartz, feldspar, and mica near Jennings Falls trailhead in Florence County, Wisconsin. Free public rockhounding on gentle terrain, perfect for families.",
+  "featured": false,
+  "published": false,
+  "needs_review_fields": [
+    "gem_types - inferred from regional Precambrian Shield geology, no specific source for this location",
+    "primary_category - assumed national_forest based on Forest Road designation and trailhead name, not explicitly confirmed",
+    "written_directions - constructed from coordinates and regional geography, specific roads should be verified on current maps",
+    "access_type - assumed public based on trailhead designation, should be verified with Wisconsin DNR",
+    "hazards - inferred from terrain type and Wisconsin north woods conditions, not location-specific",
+    "remoteness_rating - estimated at 3 based on proximity to town and established trailhead",
+    "cell_service - marked spotty based on typical northern Wisconsin coverage, should be verified"
+  ],
+  "enriched_at": "2026-04-21T18:19:43.914Z",
+  "scrape_quality": "partial",
+  "images_processed_at": "2026-04-21T18:22:00.660Z"
+}
