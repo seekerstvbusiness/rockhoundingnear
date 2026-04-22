@@ -2,8 +2,8 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react'
 import { useRouter } from 'next/navigation'
-import { Search, MapPin, Gem, Mountain } from 'lucide-react'
-import { US_STATES, GEM_TYPES } from '@/lib/constants'
+import { Search, MapPin, Mountain } from 'lucide-react'
+import { US_STATES } from '@/lib/constants'
 
 interface LocationResult {
   name: string
@@ -16,7 +16,7 @@ interface LocationResult {
 }
 
 interface SuggestionItem {
-  type: 'state' | 'gem' | 'location'
+  type: 'state' | 'location'
   label: string
   sublabel?: string
   href: string
@@ -36,16 +36,6 @@ function buildSuggestions(query: string, locations: LocationResult[]): Suggestio
       href: `/locations/${s.slug}`,
     }))
 
-  const matchedGems = GEM_TYPES
-    .filter((g) => g.toLowerCase().startsWith(q))
-    .slice(0, 3)
-    .map((g): SuggestionItem => ({
-      type: 'gem',
-      label: g,
-      sublabel: 'Gem type',
-      href: `/gem-types/${g.toLowerCase().replace(/\s+/g, '-')}`,
-    }))
-
   const matchedLocations = locations.map((l): SuggestionItem => ({
     type: 'location',
     label: l.name,
@@ -53,7 +43,7 @@ function buildSuggestions(query: string, locations: LocationResult[]): Suggestio
     href: l.url ?? `/locations/${l.state_slug}${l.city_slug ? `#rockhounding-in-${l.city_slug}` : ''}`,
   }))
 
-  items.push(...matchedStates, ...matchedGems, ...matchedLocations)
+  items.push(...matchedStates, ...matchedLocations)
   return items
 }
 
@@ -141,7 +131,6 @@ export function SearchBar() {
 
   const iconFor = (type: SuggestionItem['type']) => {
     if (type === 'state') return <MapPin className="w-3.5 h-3.5 text-ruby-400 shrink-0" />
-    if (type === 'gem') return <Gem className="w-3.5 h-3.5 text-ruby-400 shrink-0" />
     return <Mountain className="w-3.5 h-3.5 text-muted-foreground shrink-0" />
   }
 

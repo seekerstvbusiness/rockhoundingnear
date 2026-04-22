@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { MapPin, ArrowLeft, Gem, Mountain } from 'lucide-react'
+import { MapPin, ArrowLeft, Mountain } from 'lucide-react'
 
 export default function NotFound() {
   return (
@@ -42,10 +42,6 @@ export default function NotFound() {
             <Link href="/states" className="inline-flex items-center gap-1.5 text-sm text-foreground border border-border rounded-full px-3.5 py-1.5 hover:border-ruby-300 hover:bg-ruby-50 hover:text-primary transition-all">
               <Mountain className="w-3.5 h-3.5 text-ruby-300" />
               Browse by State
-            </Link>
-            <Link href="/gem-types" className="inline-flex items-center gap-1.5 text-sm text-foreground border border-border rounded-full px-3.5 py-1.5 hover:border-ruby-300 hover:bg-ruby-50 hover:text-primary transition-all">
-              <Gem className="w-3.5 h-3.5 text-ruby-300" />
-              Browse by Gem Type
             </Link>
           </div>
         </div>

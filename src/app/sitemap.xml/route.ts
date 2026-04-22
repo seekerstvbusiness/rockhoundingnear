@@ -9,7 +9,6 @@ export async function GET() {
   const xml = buildSitemapIndex([
     { loc: `${SITE_URL}/sitemap-pages.xml`, lastmod: today },
     { loc: `${SITE_URL}/sitemap-states.xml`, lastmod: today },
-    { loc: `${SITE_URL}/sitemap-gems.xml`, lastmod: today },
     { loc: `${SITE_URL}/sitemap-locations.xml`, lastmod: today },
   ])
 

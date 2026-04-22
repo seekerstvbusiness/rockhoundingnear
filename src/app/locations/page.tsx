@@ -5,7 +5,7 @@ import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbP
 import { LocationCard } from '@/components/locations/LocationCard'
 import { BreadcrumbSchema } from '@/components/seo/JsonLd'
 import { getLocations } from '@/lib/supabase'
-import { US_STATES, GEM_TYPES, SITE_URL, SITE_NAME } from '@/lib/constants'
+import { US_STATES, SITE_URL, SITE_NAME } from '@/lib/constants'
 
 export const metadata: Metadata = {
   title: 'All Rockhounding Locations',
@@ -17,11 +17,6 @@ export const metadata: Metadata = {
     url: `${SITE_URL}/locations`,
   },
 }
-
-const FEATURED_GEM_TYPES = [
-  'Agate', 'Amethyst', 'Garnet', 'Gold', 'Jasper',
-  'Obsidian', 'Opal', 'Petrified Wood', 'Quartz', 'Turquoise',
-]
 
 const STATE_REGIONS: { label: string; states: string[] }[] = [
   { label: 'Southwest', states: ['arizona', 'new-mexico', 'nevada', 'utah', 'colorado'] },
@@ -73,34 +68,6 @@ export default async function LocationsPage() {
       </section>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-
-        {/* Browse by gem type */}
-        <section className="mb-14">
-          <div className="flex items-center justify-between mb-5">
-            <h2 className="font-heading text-2xl font-bold text-foreground">Browse by Gem Type</h2>
-            <Link href="/gem-types" className="text-sm text-primary hover:underline flex items-center gap-1">
-              All gem types <ChevronRight className="w-3.5 h-3.5" />
-            </Link>
-          </div>
-          <div className="flex flex-wrap gap-2">
-            {FEATURED_GEM_TYPES.map((gem) => (
-              <Link
-                key={gem}
-                href={`/gem-types/${gem.toLowerCase().replace(/\s+/g, '-')}`}
-                className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full border border-border bg-card hover:border-ruby-300 hover:bg-ruby-50 hover:text-primary text-sm font-medium transition-all"
-              >
-                <Gem className="w-3.5 h-3.5 text-ruby-400" />
-                {gem}
-              </Link>
-            ))}
-            <Link
-              href="/gem-types"
-              className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full border border-dashed border-border text-muted-foreground hover:border-ruby-300 hover:text-primary text-sm transition-all"
-            >
-              +{GEM_TYPES.length - FEATURED_GEM_TYPES.length} more →
-            </Link>
-          </div>
-        </section>
 
         {/* Browse by region / state */}
         <section className="mb-14">
