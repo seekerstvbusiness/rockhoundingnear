@@ -27,8 +27,8 @@ export function StateTOC({ entries, stateName }: StateTOCProps) {
       className="flex items-center justify-between gap-2 py-1.5 px-2 rounded-md text-sm text-foreground/80 hover:text-primary hover:bg-ruby-50 transition-colors group"
       onClick={() => setMobileOpen(false)}
     >
-      <span className="truncate group-hover:text-primary">Rockhounding in {e.city}</span>
-      <span className="shrink-0 text-xs text-muted-foreground tabular-nums">{e.count}</span>
+      <span className="leading-snug group-hover:text-primary">Rockhounding in {e.city}</span>
+      <span className="shrink-0 text-xs text-muted-foreground tabular-nums ml-1">{e.count}</span>
     </a>
   ))
 

@@ -37,7 +37,7 @@ export function LocationEntry({ location }: LocationEntryProps) {
   return (
     <article
       id={location.slug}
-      className="border border-border rounded-2xl bg-card overflow-hidden scroll-mt-6"
+      className="border border-border rounded-2xl bg-card overflow-hidden scroll-mt-24"
     >
       {/* Cover photo or gradient header */}
       {coverImage ? (

@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef, useCallback } from 'react'
 import { useRouter } from 'next/navigation'
-import { Search, MapPin, Mountain } from 'lucide-react'
+import { Search, MapPin, Mountain, Building2 } from 'lucide-react'
 import { US_STATES } from '@/lib/constants'
 
 interface LocationResult {
@@ -15,14 +15,21 @@ interface LocationResult {
   url?: string
 }
 
+interface CityResult {
+  city: string
+  state: string
+  state_slug: string
+  city_slug: string
+}
+
 interface SuggestionItem {
-  type: 'state' | 'location'
+  type: 'state' | 'city' | 'location'
   label: string
   sublabel?: string
   href: string
 }
 
-function buildSuggestions(query: string, locations: LocationResult[]): SuggestionItem[] {
+function buildSuggestions(query: string, locations: LocationResult[], cities: CityResult[]): SuggestionItem[] {
   const q = query.toLowerCase()
   const items: SuggestionItem[] = []
 
@@ -36,6 +43,13 @@ function buildSuggestions(query: string, locations: LocationResult[]): Suggestio
       href: `/locations/${s.slug}`,
     }))
 
+  const matchedCities = cities.map((c): SuggestionItem => ({
+    type: 'city',
+    label: c.city,
+    sublabel: c.state,
+    href: `/locations/${c.state_slug}#rockhounding-in-${c.city_slug}`,
+  }))
+
   const matchedLocations = locations.map((l): SuggestionItem => ({
     type: 'location',
     label: l.name,
@@ -43,41 +57,46 @@ function buildSuggestions(query: string, locations: LocationResult[]): Suggestio
     href: l.url ?? `/locations/${l.state_slug}${l.city_slug ? `#rockhounding-in-${l.city_slug}` : ''}`,
   }))
 
-  items.push(...matchedStates, ...matchedLocations)
+  items.push(...matchedStates, ...matchedCities, ...matchedLocations)
   return items
 }
 
-export function SearchBar() {
+interface SearchBarProps {
+  compact?: boolean
+}
+
+export function SearchBar({ compact = false }: SearchBarProps) {
   const router = useRouter()
   const [query, setQuery] = useState('')
   const [locations, setLocations] = useState<LocationResult[]>([])
+  const [cities, setCities] = useState<CityResult[]>([])
   const [open, setOpen] = useState(false)
   const [focusedIdx, setFocusedIdx] = useState(-1)
   const containerRef = useRef<HTMLDivElement>(null)
   const inputRef = useRef<HTMLInputElement>(null)
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null)
 
-  const suggestions = query.trim().length >= 1 ? buildSuggestions(query.trim(), locations) : []
+  const suggestions = query.trim().length >= 1 ? buildSuggestions(query.trim(), locations, cities) : []
 
-  // Fetch location suggestions with debounce
   useEffect(() => {
     if (debounceRef.current) clearTimeout(debounceRef.current)
-    if (query.trim().length < 2) { setLocations([]); return }
+    if (query.trim().length < 2) { setLocations([]); setCities([]); return }
 
     debounceRef.current = setTimeout(async () => {
       try {
         const res = await fetch(`/api/search?q=${encodeURIComponent(query.trim())}`)
         const data = await res.json()
         setLocations(data.locations ?? [])
+        setCities(data.cities ?? [])
       } catch {
         setLocations([])
+        setCities([])
       }
     }, 250)
 
     return () => { if (debounceRef.current) clearTimeout(debounceRef.current) }
   }, [query])
 
-  // Close on outside click
   useEffect(() => {
     function onMouseDown(e: MouseEvent) {
       if (containerRef.current && !containerRef.current.contains(e.target as Node)) {
@@ -131,18 +150,22 @@ export function SearchBar() {
 
   const iconFor = (type: SuggestionItem['type']) => {
     if (type === 'state') return <MapPin className="w-3.5 h-3.5 text-ruby-400 shrink-0" />
+    if (type === 'city') return <Building2 className="w-3.5 h-3.5 text-ruby-300 shrink-0" />
     return <Mountain className="w-3.5 h-3.5 text-muted-foreground shrink-0" />
   }
 
+  const inputH = compact ? 'h-9' : 'h-12'
+  const btnH = compact ? 'h-9 px-4' : 'h-12 px-6'
+
   return (
-    <div ref={containerRef} className="relative max-w-xl mx-auto">
+    <div ref={containerRef} className="relative w-full">
       <form onSubmit={handleSubmit} className="flex gap-2">
         <div className="relative flex-1">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground pointer-events-none" />
           <input
             ref={inputRef}
             type="text"
-            placeholder="Search by state, city, or gem type..."
+            placeholder="Search states, cities, locations..."
             value={query}
             onChange={(e) => { setQuery(e.target.value); setOpen(true); setFocusedIdx(-1) }}
             onFocus={() => { if (query.trim().length >= 1) setOpen(true) }}
@@ -150,18 +173,27 @@ export function SearchBar() {
             aria-label="Search rockhounding locations"
             aria-autocomplete="list"
             aria-expanded={open && suggestions.length > 0}
-            className="w-full pl-10 pr-4 h-12 bg-white border border-white/30 text-foreground placeholder:text-muted-foreground shadow-lg rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary transition-colors"
+            className={`w-full pl-10 pr-4 ${inputH} bg-white border border-border text-foreground placeholder:text-muted-foreground rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-primary/30 focus:border-primary transition-colors ${compact ? '' : 'shadow-lg border-white/30'}`}
           />
         </div>
-        <button
-          type="submit"
-          className="h-12 px-6 bg-primary hover:bg-ruby-700 text-white shadow-lg font-semibold rounded-lg text-sm transition-colors"
-        >
-          Search
-        </button>
+        {!compact && (
+          <button
+            type="submit"
+            className={`${btnH} bg-primary hover:bg-ruby-700 text-white shadow-lg font-semibold rounded-lg text-sm transition-colors`}
+          >
+            Search
+          </button>
+        )}
+        {compact && (
+          <button
+            type="submit"
+            className={`${btnH} bg-primary hover:bg-ruby-700 text-white font-semibold rounded-lg text-sm transition-colors`}
+          >
+            <Search className="w-4 h-4" />
+          </button>
+        )}
       </form>
 
-      {/* Dropdown */}
       {open && suggestions.length > 0 && (
         <div className="absolute left-0 right-0 top-[calc(100%+6px)] bg-white rounded-xl border border-border shadow-xl z-50 overflow-hidden">
           {suggestions.map((item, idx) => (

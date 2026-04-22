@@ -36,7 +36,7 @@ export function buildSitemapIndex(sitemaps: Array<{ loc: string; lastmod: string
     )
     .join('\n')
 
-  return `<?xml version="1.0" encoding="UTF-8"?>\n<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${entries}\n</sitemapindex>`
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${entries}\n</sitemapindex>`
 }
 
 export function buildSitemap(urls: SitemapUrl[]): string {
@@ -55,8 +55,6 @@ export function buildSitemap(urls: SitemapUrl[]): string {
         '  <url>',
         `    <loc>${escapeXml(u.loc)}</loc>`,
         u.lastmod ? `    <lastmod>${u.lastmod}</lastmod>` : '',
-        u.changefreq ? `    <changefreq>${u.changefreq}</changefreq>` : '',
-        u.priority !== undefined ? `    <priority>${u.priority.toFixed(1)}</priority>` : '',
         imgTags,
         '  </url>',
       ]
@@ -65,7 +63,7 @@ export function buildSitemap(urls: SitemapUrl[]): string {
     })
     .join('\n')
 
-  return `<?xml version="1.0" encoding="UTF-8"?>\n<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>\n<urlset\n  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"\n  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n${entries}\n</urlset>`
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset\n  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"\n  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n${entries}\n</urlset>`
 }
 
 export const XML_HEADERS = {
