@@ -217,7 +217,7 @@ export default async function StatePage({ params }: Props) {
         {locations.length === 0 ? (
           <EmptyState stateName={stateInfo.name} nearbyStatesData={nearbyStatesData} />
         ) : (
-          <div className="flex gap-10 items-start">
+          <div className="flex gap-10 items-stretch">
             {/* TOC sidebar (desktop) / bar (mobile) */}
             <StateTOC entries={tocEntries} stateName={stateInfo.name} />
 

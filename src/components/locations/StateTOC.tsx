@@ -55,12 +55,12 @@ export function StateTOC({ entries, stateName }: StateTOCProps) {
 
       {/* Desktop: sticky sidebar */}
       <aside className="hidden lg:block w-64 shrink-0">
-        <div className="sticky top-20 border border-border rounded-xl bg-card overflow-hidden">
+        <div className="sticky top-20 self-start border border-border rounded-xl bg-card overflow-hidden">
           <div className="px-4 py-3 border-b border-border bg-ruby-50/60 flex items-center gap-2">
             <List className="w-4 h-4 text-primary" />
             <span className="text-sm font-semibold text-foreground">Table of Contents</span>
           </div>
-          <nav className="p-2 max-h-[calc(100vh-8rem)] overflow-y-auto">
+          <nav className="p-2 max-h-[calc(100vh-6rem)] overflow-y-auto">
             {links}
           </nav>
         </div>
