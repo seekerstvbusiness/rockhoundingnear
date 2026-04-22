@@ -4,7 +4,7 @@ const features = [
   {
     icon: MapPin,
     title: 'Verified Locations',
-    desc: 'Every site is hand-researched and verified with GPS coordinates, directions, and access info  -  no generic AI filler.',
+    desc: 'Every site is hand-researched and verified with GPS coordinates, directions, and access info. No generic AI filler.',
   },
   {
     icon: Shield,
@@ -26,10 +26,13 @@ const features = [
 export function WhySection() {
   return (
     <section className="py-16 md:py-20 bg-ruby-gradient relative overflow-hidden">
-      {/* Light texture */}
-      <div className="absolute inset-0 opacity-5" style={{
-        backgroundImage: `url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff'%3E%3Cpath d='M0 0h40v40H0z'/%3E%3C/g%3E%3C/svg%3E")`,
-      }} />
+      {/* Texture overlay */}
+      <div
+        className="absolute inset-0 opacity-10"
+        style={{
+          backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='1'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`,
+        }}
+      />
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">

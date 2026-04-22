@@ -2,8 +2,8 @@
 
 import Link from 'next/link'
 import { useState } from 'react'
+import { usePathname } from 'next/navigation'
 import { Menu, X, Gem, Search } from 'lucide-react'
-import { Button } from '@/components/ui/button'
 import { buttonVariants } from '@/components/ui/button'
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet'
 import { cn } from '@/lib/utils'
@@ -18,6 +18,7 @@ const navLinks = [
 
 export function Header() {
   const [open, setOpen] = useState(false)
+  const pathname = usePathname()
 
   return (
     <header className="sticky top-0 z-50 w-full border-b border-ruby-200/40 bg-white/95 backdrop-blur-sm">
@@ -40,15 +41,23 @@ export function Header() {
 
           {/* Desktop nav */}
           <nav className="hidden md:flex items-center gap-1">
-            {navLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                className="px-4 py-2 text-sm font-medium text-foreground/70 hover:text-primary rounded-md hover:bg-ruby-50 transition-colors"
-              >
-                {link.label}
-              </Link>
-            ))}
+            {navLinks.map((link) => {
+              const active = pathname === link.href || (link.href !== '/' && pathname.startsWith(link.href))
+              return (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className={cn(
+                    'px-4 py-2 text-sm font-medium rounded-md transition-colors',
+                    active
+                      ? 'text-primary bg-ruby-50'
+                      : 'text-foreground/70 hover:text-primary hover:bg-ruby-50'
+                  )}
+                >
+                  {link.label}
+                </Link>
+              )
+            })}
           </nav>
 
           {/* CTA */}
@@ -78,16 +87,22 @@ export function Header() {
                 <span className="font-heading font-bold text-primary">{SITE_NAME}</span>
               </div>
               <nav className="flex flex-col gap-1">
-                {navLinks.map((link) => (
-                  <Link
-                    key={link.href}
-                    href={link.href}
-                    onClick={() => setOpen(false)}
-                    className="flex items-center px-3 py-3 text-base font-medium rounded-md hover:bg-ruby-50 hover:text-primary transition-colors"
-                  >
-                    {link.label}
-                  </Link>
-                ))}
+                {navLinks.map((link) => {
+                  const active = pathname === link.href || (link.href !== '/' && pathname.startsWith(link.href))
+                  return (
+                    <Link
+                      key={link.href}
+                      href={link.href}
+                      onClick={() => setOpen(false)}
+                      className={cn(
+                        'flex items-center px-3 py-3 text-base font-medium rounded-md transition-colors',
+                        active ? 'text-primary bg-ruby-50' : 'hover:bg-ruby-50 hover:text-primary'
+                      )}
+                    >
+                      {link.label}
+                    </Link>
+                  )
+                })}
                 <div className="pt-4 mt-2 border-t border-border">
                   <Link
                     href="/locations"

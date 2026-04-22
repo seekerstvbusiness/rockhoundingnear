@@ -6,27 +6,29 @@ const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
 
 export const supabase = createClient(supabaseUrl, supabaseAnonKey)
 
+const CARD_FIELDS = 'id, name, slug, state, state_slug, city, city_slug, short_description, cover_photo, images, gem_types, featured, difficulty'
+
 export async function getLocations(limit = 12): Promise<Location[]> {
   const { data, error } = await supabase
     .from('locations')
-    .select('*')
+    .select(CARD_FIELDS)
     .eq('published', true)
     .order('featured', { ascending: false })
     .order('name')
     .limit(limit)
   if (error) { console.error(error); return [] }
-  return data ?? []
+  return (data ?? []) as unknown as Location[]
 }
 
 export async function getFeaturedLocations(): Promise<Location[]> {
   const { data, error } = await supabase
     .from('locations')
-    .select('*')
+    .select(CARD_FIELDS)
     .eq('published', true)
     .eq('featured', true)
     .limit(6)
   if (error) { console.error(error); return [] }
-  return data ?? []
+  return (data ?? []) as unknown as Location[]
 }
 
 export async function getLocationBySlug(
@@ -49,13 +51,25 @@ export async function getLocationBySlug(
 export async function getLocationsByState(stateSlug: string): Promise<Location[]> {
   const { data, error } = await supabase
     .from('locations')
+    .select(CARD_FIELDS)
+    .eq('state_slug', stateSlug)
+    .eq('published', true)
+    .order('featured', { ascending: false })
+    .order('name')
+  if (error) { console.error(error); return [] }
+  return (data ?? []) as unknown as Location[]
+}
+
+export async function getFullLocationsByState(stateSlug: string): Promise<Location[]> {
+  const { data, error } = await supabase
+    .from('locations')
     .select('*')
     .eq('state_slug', stateSlug)
     .eq('published', true)
     .order('featured', { ascending: false })
     .order('name')
   if (error) { console.error(error); return [] }
-  return data ?? []
+  return (data ?? []) as Location[]
 }
 
 export async function getLocationsByCity(
@@ -64,13 +78,13 @@ export async function getLocationsByCity(
 ): Promise<Location[]> {
   const { data, error } = await supabase
     .from('locations')
-    .select('*')
+    .select(CARD_FIELDS)
     .eq('state_slug', stateSlug)
     .eq('city_slug', citySlug)
     .eq('published', true)
     .order('name')
   if (error) { console.error(error); return [] }
-  return data ?? []
+  return (data ?? []) as unknown as Location[]
 }
 
 export async function getNearbyLocations(
@@ -80,13 +94,13 @@ export async function getNearbyLocations(
 ): Promise<Location[]> {
   const { data, error } = await supabase
     .from('locations')
-    .select('*')
+    .select(CARD_FIELDS)
     .eq('state_slug', stateSlug)
     .neq('slug', excludeSlug)
     .eq('published', true)
     .limit(limit)
   if (error) { console.error(error); return [] }
-  return data ?? []
+  return (data ?? []) as unknown as Location[]
 }
 
 export async function getStateData(slug: string): Promise<StateData | null> {
@@ -115,13 +129,20 @@ export async function getCitiesInState(stateSlug: string) {
     .eq('state_slug', stateSlug)
     .eq('published', true)
     .not('city', 'is', null)
+    .not('city_slug', 'is', null)
   if (error) { console.error(error); return [] }
-  const seen = new Set<string>()
-  return (data ?? []).filter((r) => {
-    if (!r.city_slug || seen.has(r.city_slug)) return false
-    seen.add(r.city_slug)
-    return true
-  })
+
+  // Count locations per city, keep only cities with 2+ locations
+  const counts = new Map<string, { city: string; city_slug: string; count: number }>()
+  for (const r of data ?? []) {
+    if (!r.city_slug) continue
+    const existing = counts.get(r.city_slug)
+    if (existing) existing.count++
+    else counts.set(r.city_slug, { city: r.city, city_slug: r.city_slug, count: 1 })
+  }
+
+  return [...counts.values()]
+    .sort((a, b) => b.count - a.count || a.city.localeCompare(b.city))
 }
 
 export async function getReviewsForLocation(locationId: string): Promise<Review[]> {
@@ -154,14 +175,14 @@ export async function uploadReviewPhoto(
 export async function getLocationsByGemType(gemType: string, limit = 24): Promise<Location[]> {
   const { data, error } = await supabase
     .from('locations')
-    .select('*')
+    .select(CARD_FIELDS)
     .contains('gem_types', [gemType])
     .eq('published', true)
     .order('featured', { ascending: false })
     .order('name')
     .limit(limit)
   if (error) { console.error(error); return [] }
-  return data ?? []
+  return (data ?? []) as unknown as Location[]
 }
 
 export async function submitReview(review: {

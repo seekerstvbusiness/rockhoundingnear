@@ -8,11 +8,6 @@ const featuredStates = [
   'nevada', 'new-mexico', 'utah', 'wyoming', 'idaho',
 ]
 
-const popularGems = [
-  'Agate', 'Jasper', 'Obsidian', 'Quartz', 'Garnet',
-  'Turquoise', 'Opal', 'Petrified Wood', 'Gold', 'Amethyst',
-]
-
 export function Footer() {
   const year = new Date().getFullYear()
 
@@ -25,7 +20,7 @@ export function Footer() {
             Ready to Start Your Hunt?
           </h2>
           <p className="text-white/80 mb-5 text-sm max-w-xl mx-auto">
-            Browse over 1,000 rockhounding locations across all 50 states  -  free, curated, and detailed.
+            Browse over 1,000 rockhounding locations across all 50 states. Free, curated, and detailed.
           </p>
           <Link
             href="/locations"
@@ -38,7 +33,7 @@ export function Footer() {
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
           {/* Brand */}
           <div className="lg:col-span-1">
             <Link href="/" className="flex items-center gap-2 group mb-4">
@@ -75,25 +70,6 @@ export function Footer() {
                   View All States →
                 </Link>
               </li>
-            </ul>
-          </div>
-
-          {/* Popular Gems */}
-          <div>
-            <h3 className="font-heading font-semibold text-white text-sm uppercase tracking-widest mb-4">
-              Find by Gem
-            </h3>
-            <ul className="space-y-2">
-              {popularGems.map((gem) => (
-                <li key={gem}>
-                  <Link
-                    href={`/gem-types/${gem.toLowerCase().replace(/\s+/g, '-')}`}
-                    className="text-sm text-white/60 hover:text-white transition-colors"
-                  >
-                    {gem}
-                  </Link>
-                </li>
-              ))}
             </ul>
           </div>
 

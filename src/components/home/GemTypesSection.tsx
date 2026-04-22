@@ -1,15 +1,24 @@
 ﻿import Link from 'next/link'
-import { Gem } from 'lucide-react'
+import { Gem, Layers, Circle, Zap, Diamond, Leaf, Coins } from 'lucide-react'
+import type { LucideIcon } from 'lucide-react'
 
-const gems = [
-  { name: 'Agate', emoji: '🪨', desc: 'Colorful banded chalcedony found across the West' },
-  { name: 'Jasper', emoji: '🟤', desc: 'Opaque quartz in rich red, yellow, and green hues' },
-  { name: 'Obsidian', emoji: '⚫', desc: 'Volcanic glass prized by rockhounds in the Pacific Northwest' },
-  { name: 'Quartz', emoji: '💎', desc: 'The most abundant mineral  -  from clear to rose to smoky' },
-  { name: 'Garnet', emoji: '🔴', desc: 'Deep red crystals found in schist and metamorphic rock' },
-  { name: 'Turquoise', emoji: '🔵', desc: 'Iconic blue-green gem of the American Southwest' },
-  { name: 'Petrified Wood', emoji: '🌲', desc: 'Ancient trees preserved as mineral in spectacular detail' },
-  { name: 'Gold', emoji: '🥇', desc: 'Placer gold still found in streams across many states' },
+interface GemEntry {
+  name: string
+  desc: string
+  icon: LucideIcon
+  bg: string
+  text: string
+}
+
+const gems: GemEntry[] = [
+  { name: 'Agate', desc: 'Colorful banded chalcedony found across the West', icon: Layers, bg: 'bg-amber-100', text: 'text-amber-700' },
+  { name: 'Jasper', desc: 'Opaque quartz in rich red, yellow, and green hues', icon: Circle, bg: 'bg-orange-100', text: 'text-orange-700' },
+  { name: 'Obsidian', desc: 'Volcanic glass prized by rockhounds in the Pacific Northwest', icon: Zap, bg: 'bg-slate-200', text: 'text-slate-700' },
+  { name: 'Quartz', desc: 'The most abundant mineral. from clear to rose to smoky', icon: Gem, bg: 'bg-violet-100', text: 'text-violet-700' },
+  { name: 'Garnet', desc: 'Deep red crystals found in schist and metamorphic rock', icon: Diamond, bg: 'bg-ruby-100', text: 'text-ruby-700' },
+  { name: 'Turquoise', desc: 'Iconic blue-green gem of the American Southwest', icon: Circle, bg: 'bg-teal-100', text: 'text-teal-700' },
+  { name: 'Petrified Wood', desc: 'Ancient trees preserved as mineral in spectacular detail', icon: Leaf, bg: 'bg-lime-100', text: 'text-lime-700' },
+  { name: 'Gold', desc: 'Placer gold still found in streams across many states', icon: Coins, bg: 'bg-yellow-100', text: 'text-yellow-700' },
 ]
 
 export function GemTypesSection() {
@@ -29,18 +38,20 @@ export function GemTypesSection() {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          {gems.map((gem) => (
+          {gems.map(({ name, desc, icon: Icon, bg, text }) => (
             <Link
-              key={gem.name}
-              href={`/gem-types/${gem.name.toLowerCase().replace(/\s+/g, '-')}`}
+              key={name}
+              href={`/gem-types/${name.toLowerCase().replace(/\s+/g, '-')}`}
               className="group flex items-start gap-4 p-5 rounded-xl border border-border hover:border-ruby-300 hover:bg-ruby-50/40 bg-card transition-all duration-200"
             >
-              <span className="text-2xl shrink-0 mt-0.5">{gem.emoji}</span>
+              <div className={`shrink-0 mt-0.5 w-9 h-9 rounded-lg ${bg} flex items-center justify-center`}>
+                <Icon className={`w-4.5 h-4.5 ${text}`} />
+              </div>
               <div>
                 <div className="font-heading font-semibold text-foreground group-hover:text-primary transition-colors mb-1">
-                  {gem.name}
+                  {name}
                 </div>
-                <p className="text-xs text-muted-foreground leading-relaxed">{gem.desc}</p>
+                <p className="text-xs text-muted-foreground leading-relaxed">{desc}</p>
               </div>
             </Link>
           ))}

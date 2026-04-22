@@ -109,14 +109,51 @@ export function BreadcrumbSchema({ items }: { items: { name: string; url: string
   return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
 }
 
-export function StatePageSchema({ stateName, stateSlug, description }: { stateName: string; stateSlug: string; description: string }) {
-  const schema = {
+export function StatePageSchema({
+  stateName,
+  stateSlug,
+  description,
+  locationCount,
+  gemTypes,
+  topLocations,
+}: {
+  stateName: string
+  stateSlug: string
+  description: string
+  locationCount?: number
+  gemTypes?: string[]
+  topLocations?: string[]
+}) {
+  const schema: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
     name: `Rockhounding in ${stateName}`,
     url: `${SITE_URL}/locations/${stateSlug}`,
     description,
     about: { '@type': 'Place', name: stateName, address: { '@type': 'PostalAddress', addressRegion: stateName, addressCountry: 'US' } },
+    ...(locationCount != null && { numberOfItems: locationCount }),
+    ...(gemTypes?.length && { keywords: gemTypes.join(', ') }),
+    ...(topLocations?.length && {
+      itemListElement: topLocations.map((name, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name,
+      })),
+    }),
+  }
+  return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+}
+
+export function StateFaqSchema({ faqs }: { faqs: import('@/lib/types').FaqItem[] }) {
+  if (!faqs?.length) return null
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: { '@type': 'Answer', text: faq.answer },
+    })),
   }
   return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
 }

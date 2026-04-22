@@ -6,7 +6,7 @@ import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbP
 import { LocationCard } from '@/components/locations/LocationCard'
 import { BreadcrumbSchema } from '@/components/seo/JsonLd'
 import { getLocationsByGemType } from '@/lib/supabase'
-import { GEM_TYPES, SITE_URL, SITE_NAME } from '@/lib/constants'
+import { GEM_TYPES, US_STATES, SITE_URL, SITE_NAME } from '@/lib/constants'
 
 type Props = { params: Promise<{ gem: string }> }
 
@@ -20,11 +20,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!gemName) return {}
 
   return {
-    title: `Where to Find ${gemName} - Rockhounding Locations | ${SITE_NAME}`,
+    title: `Where to Find ${gemName}`,
     description: `Find rockhounding sites where ${gemName} has been reported across the US. Locations include GPS coordinates, access details, and tips from fellow rockhounds.`,
     alternates: { canonical: `${SITE_URL}/gem-types/${gemSlug}` },
     openGraph: {
-      title: `Where to Find ${gemName} | ${SITE_NAME}`,
+      title: `Where to Find ${gemName} | Rockhounding Locations`,
       description: `Rockhounding locations where ${gemName} has been found across the US.`,
     },
   }
@@ -48,7 +48,7 @@ export default async function GemTypePage({ params }: Props) {
       ]} />
 
       {/* Hero */}
-      <section className="bg-ruby-gradient py-14">
+      <section className="bg-ruby-gradient py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <Breadcrumb className="mb-6">
             <BreadcrumbList className="text-white/70">
@@ -97,16 +97,27 @@ export default async function GemTypePage({ params }: Props) {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 
-        {/* States filter */}
+        {/* States */}
         {statesRepresented.length > 1 && (
           <div className="mb-8">
-            <div className="text-sm font-medium text-muted-foreground mb-3">States with {gemName} locations:</div>
+            <div className="text-sm font-medium text-muted-foreground mb-3">Found in {statesRepresented.length} states:</div>
             <div className="flex flex-wrap gap-2">
-              {statesRepresented.map((state) => (
-                <span key={state} className="text-xs px-3 py-1.5 rounded-full border border-border bg-card text-foreground">
-                  {state}
-                </span>
-              ))}
+              {statesRepresented.map((stateName) => {
+                const stateInfo = US_STATES.find((s) => s.name === stateName)
+                return stateInfo ? (
+                  <Link
+                    key={stateName}
+                    href={`/locations/${stateInfo.slug}`}
+                    className="text-xs px-3 py-1.5 rounded-full border border-border bg-card text-foreground hover:border-ruby-300 hover:bg-ruby-50 hover:text-primary transition-all"
+                  >
+                    {stateName}
+                  </Link>
+                ) : (
+                  <span key={stateName} className="text-xs px-3 py-1.5 rounded-full border border-border bg-card text-foreground">
+                    {stateName}
+                  </span>
+                )
+              })}
             </div>
           </div>
         )}

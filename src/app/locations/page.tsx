@@ -1,6 +1,6 @@
 ﻿import type { Metadata } from 'next'
 import Link from 'next/link'
-import { MapPin, ChevronRight, Gem, SlidersHorizontal } from 'lucide-react'
+import { MapPin, ChevronRight, Gem, Clock } from 'lucide-react'
 import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbPage, BreadcrumbSeparator } from '@/components/ui/breadcrumb'
 import { LocationCard } from '@/components/locations/LocationCard'
 import { BreadcrumbSchema } from '@/components/seo/JsonLd'
@@ -8,11 +8,11 @@ import { getLocations } from '@/lib/supabase'
 import { US_STATES, GEM_TYPES, SITE_URL, SITE_NAME } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: `All Rockhounding Locations  -  ${SITE_NAME}`,
+  title: 'All Rockhounding Locations',
   description: 'Browse rockhounding sites across all 50 US states. Filter by state, gem type, difficulty, or access. Find your next adventure with maps, GPS, and tips.',
   alternates: { canonical: `${SITE_URL}/locations` },
   openGraph: {
-    title: `All Rockhounding Locations  -  ${SITE_NAME}`,
+    title: 'All Rockhounding Locations',
     description: 'Browse rockhounding sites across all 50 US states.',
     url: `${SITE_URL}/locations`,
   },
@@ -47,7 +47,7 @@ export default async function LocationsPage() {
       <BreadcrumbSchema items={breadcrumbItems} />
 
       {/* Hero */}
-      <section className="bg-ruby-gradient py-14">
+      <section className="bg-ruby-gradient py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <Breadcrumb className="mb-6">
             <BreadcrumbList className="text-white/70">
@@ -67,7 +67,7 @@ export default async function LocationsPage() {
             Rockhounding Locations
           </h1>
           <p className="text-white/75 text-lg max-w-2xl">
-            Verified gem hunting, mineral collecting, and fossil sites across every US state  -  with GPS, access details, and rockhound-reviewed tips.
+            Verified gem hunting, mineral collecting, and fossil sites across every US state, with GPS, access details, and rockhound-reviewed tips.
           </p>
         </div>
       </section>
@@ -125,7 +125,7 @@ export default async function LocationsPage() {
                       <Link
                         key={slug}
                         href={`/locations/${slug}`}
-                        className="text-sm text-foreground hover:text-primary hover:underline"
+                        className="text-xs font-medium text-foreground bg-muted hover:bg-ruby-50 hover:text-primary hover:border-ruby-200 border border-transparent px-2.5 py-1 rounded-full transition-all"
                       >
                         {state.name}
                       </Link>
@@ -160,8 +160,8 @@ export default async function LocationsPage() {
           <div className="flex items-center justify-between mb-6">
             <h2 className="font-heading text-2xl font-bold text-foreground">Featured Locations</h2>
             <div className="flex items-center gap-1.5 text-sm text-muted-foreground">
-              <SlidersHorizontal className="w-3.5 h-3.5" />
-              More locations added weekly
+              <Clock className="w-3.5 h-3.5" />
+              Updated weekly
             </div>
           </div>
 
@@ -181,7 +181,7 @@ export default async function LocationsPage() {
         </section>
 
         {/* CTA strip */}
-        <div className="mt-16 rounded-2xl bg-ruby-gradient p-10 text-center text-white">
+        <div className="mt-16 rounded-2xl bg-ruby-gradient px-6 py-10 md:p-10 text-center text-white">
           <h2 className="font-heading text-2xl font-bold mb-3">Know a great spot?</h2>
           <p className="text-white/75 mb-6 max-w-md mx-auto text-sm">
             Help the community by suggesting a rockhounding location. We verify every submission before publishing.

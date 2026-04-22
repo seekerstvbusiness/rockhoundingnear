@@ -1,6 +1,7 @@
 ﻿'use client'
 
 import { useState, useRef } from 'react'
+import Image from 'next/image'
 import { Star, ThumbsUp, Camera, X, Upload, ImageIcon } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { submitReview, uploadReviewPhoto } from '@/lib/supabase'
@@ -173,7 +174,7 @@ export function ReviewSection({
                       onClick={() => setLightbox(url)}
                       className="relative w-20 h-20 rounded-lg overflow-hidden border border-border hover:opacity-90 transition-opacity"
                     >
-                      <img src={url} alt={`Review photo ${i + 1}`} className="w-full h-full object-cover" />
+                      <Image fill src={url} alt={`Review photo ${i + 1}`} className="object-cover" sizes="80px" />
                     </button>
                   ))}
                 </div>

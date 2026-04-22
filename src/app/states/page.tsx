@@ -6,7 +6,7 @@ import { BreadcrumbSchema } from '@/components/seo/JsonLd'
 import { US_STATES, SITE_URL, SITE_NAME } from '@/lib/constants'
 
 export const metadata: Metadata = {
-  title: `Rockhounding by State  -  All 50 States | ${SITE_NAME}`,
+  title: 'Rockhounding Locations by State',
   description: 'Find rockhounding locations in every US state. Browse gem hunting sites, mineral collecting spots, and fossil beds by state with maps, GPS, and expert tips.',
   alternates: { canonical: `${SITE_URL}/states` },
 }
@@ -40,7 +40,7 @@ export default function StatesPage() {
       ]} />
 
       {/* Hero */}
-      <section className="bg-ruby-gradient py-14">
+      <section className="bg-ruby-gradient py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <Breadcrumb className="mb-6">
             <BreadcrumbList className="text-white/70">
@@ -127,9 +127,9 @@ export default function StatesPage() {
         {/* Info strip */}
         <div className="mt-14 grid grid-cols-1 sm:grid-cols-3 gap-5">
           {[
-            { label: 'Public BLM Land', desc: 'Millions of acres open for rockhounding in the western US  -  no permit needed for personal quantities.' },
+            { label: 'Public BLM Land', desc: 'Millions of acres open for rockhounding in the western US . No permit needed for personal quantities.' },
             { label: 'Fee Dig Sites', desc: 'Pay-to-dig operations let you keep everything you find. Great for beginners and families.' },
-            { label: 'National Forests', desc: 'Collection of reasonable quantities for personal use is typically allowed  -  check local forest rules first.' },
+            { label: 'National Forests', desc: 'Collection of reasonable quantities for personal use is typically allowed . Check local forest rules first.' },
           ].map((item) => (
             <div key={item.label} className="border border-border rounded-xl p-5 bg-card">
               <div className="font-semibold text-foreground text-sm mb-2">{item.label}</div>

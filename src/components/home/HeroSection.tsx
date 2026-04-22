@@ -38,7 +38,7 @@ export function HeroSection() {
           {/* Subheading */}
           <p className="text-white/75 text-lg sm:text-xl mb-10 max-w-2xl mx-auto leading-relaxed">
             Discover over 1,000 hand-curated rockhounding locations across all 50 states.
-            From agates to amethysts  -  your next gem hunt starts here.
+            From agates to amethysts: your next gem hunt starts here.
           </p>
 
           {/* Search */}
@@ -66,9 +66,9 @@ export function HeroSection() {
           </div>
 
           {/* Stats */}
-          <div className="grid grid-cols-3 gap-4 max-w-lg mx-auto">
+          <div className="flex items-center justify-center divide-x divide-white/20 max-w-lg mx-auto">
             {stats.map(({ icon: Icon, value, label }) => (
-              <div key={label} className="text-center">
+              <div key={label} className="flex-1 text-center px-4">
                 <div className="flex justify-center mb-1.5">
                   <Icon className="w-4 h-4 text-ruby-200" />
                 </div>

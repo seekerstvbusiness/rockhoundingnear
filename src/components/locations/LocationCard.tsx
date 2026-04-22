@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { MapPin, Mountain, Gem } from 'lucide-react'
 import { Badge } from '@/components/ui/badge'
 import { Card, CardContent } from '@/components/ui/card'
@@ -19,7 +20,7 @@ const difficultyColor: Record<string, string> = {
 }
 
 export function LocationCard({ location, className }: LocationCardProps) {
-  const href = `/locations/${location.state_slug}/${location.city_slug ?? 'unknown'}/${location.slug}`
+  const href = `/locations/${location.state_slug}${location.city_slug ? `#rockhounding-in-${location.city_slug}` : ''}`
 
   return (
     <Link href={href} className={cn('group block', className)}>
@@ -27,10 +28,12 @@ export function LocationCard({ location, className }: LocationCardProps) {
         {/* Image placeholder */}
         <div className="relative h-44 bg-gradient-to-br from-ruby-100 to-cream-100 overflow-hidden">
           {(location.cover_photo ?? location.images?.[0]) ? (
-            <img
-              src={location.cover_photo ?? location.images[0]}
+            <Image
+              fill
+              src={location.cover_photo ?? location.images?.[0]}
               alt={location.name}
-              className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+              className="object-cover group-hover:scale-105 transition-transform duration-300"
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             />
           ) : (
             <div className="w-full h-full flex items-center justify-center">

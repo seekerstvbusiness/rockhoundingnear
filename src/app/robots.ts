@@ -7,9 +7,14 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: '*',
         allow: '/',
-        disallow: ['/api/', '/_next/'],
+        disallow: [
+          '/api/',
+          '/_next/',
+          '/admin/',
+        ],
       },
     ],
+    // Sitemap index: Googlebot, Bingbot etc. will discover all sub-sitemaps from here
     sitemap: `${SITE_URL}/sitemap.xml`,
     host: SITE_URL,
   }

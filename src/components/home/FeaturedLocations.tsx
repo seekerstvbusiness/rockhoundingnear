@@ -16,9 +16,12 @@ export async function FeaturedLocations() {
             <p className="text-primary font-medium text-sm uppercase tracking-widest mb-2">
               Staff Picks
             </p>
-            <h2 className="font-heading text-3xl md:text-4xl font-bold text-foreground">
+            <h2 className="font-heading text-3xl md:text-4xl font-bold text-foreground mb-2">
               Featured Locations
             </h2>
+            <p className="text-muted-foreground max-w-lg">
+              Hand-picked sites with exceptional access, scenery, and finds.
+            </p>
           </div>
           <Link
             href="/locations"

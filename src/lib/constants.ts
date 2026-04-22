@@ -126,4 +126,4 @@ export const HAZARD_LABELS: Record<string, string> = {
 export const SITE_NAME = 'RockhoundingNear.com'
 export const SITE_URL = 'https://www.rockhoundingnear.com'
 export const SITE_DESCRIPTION =
-  'Find the best rockhounding sites near you across all 50 US states. Discover locations for agates, fossils, crystals, gems, and minerals with maps, tips, and directions.'
+  'Find the best rockhounding sites near you across all 50 US states. Gem hunting, mineral collecting, and fossil sites with GPS, maps, and directions.'
