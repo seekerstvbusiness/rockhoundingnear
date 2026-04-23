@@ -1,9 +1,12 @@
 ﻿import type { Metadata } from 'next'
 import { Inter, Playfair_Display } from 'next/font/google'
+import Script from 'next/script'
 import './globals.css'
 import { Header } from '@/components/layout/Header'
 import { Footer } from '@/components/layout/Footer'
 import { SITE_NAME, SITE_URL, SITE_DESCRIPTION } from '@/lib/constants'
+
+const GA_ID = 'G-73ZHTLP6J7'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -40,11 +43,13 @@ export const metadata: Metadata = {
     siteName: SITE_NAME,
     title: `${SITE_NAME} : Find Rockhounding Sites Across America`,
     description: SITE_DESCRIPTION,
+    images: [{ url: '/opengraph-image', width: 1200, height: 630, alt: `${SITE_NAME} — Find Rockhounding Sites` }],
   },
   twitter: {
     card: 'summary_large_image',
     title: `${SITE_NAME} : Find Rockhounding Sites Across America`,
     description: SITE_DESCRIPTION,
+    images: ['/opengraph-image'],
   },
   robots: {
     index: true,
@@ -60,6 +65,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: SITE_URL,
   },
+  verification: {
+    google: 'O0O2PrtBt2EOsxqI0JFyfma5YYyBtCHUE06LwzVEZxo',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -69,6 +77,18 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_ID}');
+          `}
+        </Script>
       </body>
     </html>
   )
