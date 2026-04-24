@@ -29,6 +29,12 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'rockhoundingnear.com' }],
+        destination: 'https://www.rockhoundingnear.com/:path*',
+        permanent: true,
+      },
+      {
         source: '/locations/:state/:city/:slug',
         destination: '/locations/:state',
         permanent: true,
@@ -47,6 +53,20 @@ const nextConfig: NextConfig = {
         source: '/sitemap',
         destination: '/sitemap.xml',
         permanent: true,
+      },
+    ]
+  },
+  async headers() {
+    return [
+      {
+        source: '/(.*)',
+        headers: [
+          { key: 'X-Content-Type-Options', value: 'nosniff' },
+          { key: 'X-Frame-Options', value: 'DENY' },
+          { key: 'X-XSS-Protection', value: '1; mode=block' },
+          { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
+          { key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=()' },
+        ],
       },
     ]
   },

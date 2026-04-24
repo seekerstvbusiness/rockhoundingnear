@@ -10,8 +10,9 @@ export const metadata: Metadata = {
   description: 'Browse rockhounding sites across all 50 US states. Filter by state, gem type, difficulty, or access. Find your next adventure with maps, GPS, and tips.',
   alternates: { canonical: `${SITE_URL}/locations` },
   openGraph: {
+    type: 'website',
     title: 'All Rockhounding Locations',
-    description: 'Browse rockhounding sites across all 50 US states.',
+    description: 'Browse rockhounding sites across all 50 US states. Filter by state, gem type, difficulty, or access. Find your next adventure with maps, GPS, and tips.',
     url: `${SITE_URL}/locations`,
   },
 }

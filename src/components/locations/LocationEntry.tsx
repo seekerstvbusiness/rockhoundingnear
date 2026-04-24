@@ -41,7 +41,7 @@ export function LocationEntry({ location }: LocationEntryProps) {
     >
       {/* Cover photo or gradient header */}
       {coverImage ? (
-        <div className="relative h-64 sm:h-72 w-full">
+        <div className="relative h-44 sm:h-64 w-full">
           <Image
             src={coverImage}
             alt={location.name}
@@ -64,7 +64,7 @@ export function LocationEntry({ location }: LocationEntryProps) {
         </div>
       )}
 
-      <div className="p-5 sm:p-6 space-y-5">
+      <div className="p-4 sm:p-6 space-y-4 sm:space-y-5">
         {/* Alternative names */}
         {location.alternative_names?.length > 0 && (
           <p className="text-xs text-muted-foreground italic">

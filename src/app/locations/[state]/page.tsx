@@ -7,7 +7,7 @@ import { StateTOC } from '@/components/locations/StateTOC'
 import { LocationEntry } from '@/components/locations/LocationEntry'
 import { NearbyStatesSection } from '@/components/locations/NearbyStatesSection'
 import { StatePageSchema, BreadcrumbSchema, StateFaqSchema } from '@/components/seo/JsonLd'
-import { getFullLocationsByState, getStateData, getAllStates } from '@/lib/supabase'
+import { getFullLocationsByState, getStateData, getNearbyStatesEnriched } from '@/lib/supabase'
 import { getNearbyStateInfo } from '@/lib/nearby-states'
 import { generateStateFaqs } from '@/lib/state-faqs'
 import { US_STATES, SITE_URL } from '@/lib/constants'
@@ -53,6 +53,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description,
     alternates: { canonical: `${SITE_URL}/locations/${stateSlug}` },
     openGraph: {
+      type: 'website',
       title,
       description,
       url: `${SITE_URL}/locations/${stateSlug}`,
@@ -82,10 +83,12 @@ export default async function StatePage({ params }: Props) {
   const stateInfo = US_STATES.find((s) => s.slug === stateSlug)
   if (!stateInfo) notFound()
 
-  const [locations, stateData, allStatesData] = await Promise.all([
+  const nearbyStateSlugs = getNearbyStateInfo(stateSlug, 6)
+
+  const [locations, stateData, nearbyStatesData] = await Promise.all([
     getFullLocationsByState(stateSlug),
     getStateData(stateSlug),
-    getAllStates(),
+    getNearbyStatesEnriched(nearbyStateSlugs.map((s) => s.slug)),
   ])
 
   const citySections = groupByCity(locations)
@@ -108,23 +111,6 @@ export default async function StatePage({ params }: Props) {
   const introLocations = featuredLocations.length >= 3 ? featuredLocations.slice(0, 5) : locations.slice(0, 5)
 
   const faqs = generateStateFaqs(stateInfo.name, locations)
-  const nearbyStateSlugs = getNearbyStateInfo(stateSlug, 6)
-  const nearbyStatesData = nearbyStateSlugs.map((si) => {
-    const dbData = allStatesData.find((s) => s.slug === si.slug)
-    return dbData ?? {
-      id: si.slug,
-      name: si.name,
-      slug: si.slug,
-      abbreviation: si.abbreviation,
-      short_description: null,
-      description: null,
-      location_count: 0,
-      image_url: null,
-      meta_title: null,
-      meta_description: null,
-      featured_gems: [],
-    }
-  })
 
   const description = stateData?.description
     ?? stateData?.short_description
@@ -202,7 +188,7 @@ export default async function StatePage({ params }: Props) {
           .map((l) => ({ id: l.id, name: l.name, slug: l.slug, latitude: l.latitude!, longitude: l.longitude! }))
         return mapLocations.length > 0 ? (
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-            <div className="rounded-2xl overflow-hidden border border-border shadow-sm" style={{ height: '380px', isolation: 'isolate', position: 'relative', zIndex: 0 }}>
+            <div className="h-52 sm:h-64 lg:h-[380px] rounded-2xl overflow-hidden border border-border shadow-sm" style={{ isolation: 'isolate', position: 'relative', zIndex: 0 }}>
               <StateMapLoader locations={mapLocations} />
             </div>
             <p className="text-xs text-muted-foreground mt-2 text-center">
@@ -217,43 +203,44 @@ export default async function StatePage({ params }: Props) {
         {locations.length === 0 ? (
           <EmptyState stateName={stateInfo.name} nearbyStatesData={nearbyStatesData} />
         ) : (
-          <div className="flex gap-10 items-stretch">
-            {/* TOC sidebar (desktop) / bar (mobile) */}
-            <StateTOC entries={tocEntries} stateName={stateInfo.name} />
+          <>
+            {/* State intro paragraph — always full-width above TOC */}
+            <div className="max-w-none mb-8">
+              <p className="text-foreground/80 leading-relaxed text-sm sm:text-base mb-3">
+                {stateInfo.name} is home to {locations.length} documented rockhounding {locations.length === 1 ? 'site' : 'sites'} spread across {citySections.length} {citySections.length === 1 ? 'region' : 'regions'} of the state.
+                {topGems.length > 0
+                  ? ` Collectors regularly find ${topGems.slice(0, 5).join(', ')}, and more, at sites ranging from easy roadside stops to remote backcountry terrain.`
+                  : ` Sites range from easy roadside stops to remote backcountry terrain.`}
+                {` Every location includes GPS coordinates, access details, difficulty ratings, and on-the-ground collecting notes so you can plan your trip with confidence.`}
+                {citySections.length > 1 && ` Use the table of contents below to jump to any region, or head straight to a standout location using the picks below.`}
+              </p>
+              {introLocations.length > 0 && (
+                <div>
+                  <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground mb-2">Our Picks</p>
+                  <ul className="flex flex-wrap gap-2">
+                    {introLocations.map((loc) => (
+                      <li key={loc.id}>
+                        <a
+                          href={`#${loc.slug}`}
+                          className="inline-flex items-center gap-1.5 text-sm text-primary hover:text-ruby-700 border border-ruby-200 hover:border-ruby-400 bg-ruby-50 hover:bg-ruby-100 rounded-full px-3 py-1 transition-colors"
+                        >
+                          <MapPin className="w-3 h-3 shrink-0" />
+                          {loc.name}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </div>
 
-            {/* Content */}
-            <div className="flex-1 min-w-0 space-y-16">
-              {/* State intro paragraph */}
-              <div className="max-w-none">
-                <p className="text-foreground/80 leading-relaxed text-sm sm:text-base mb-3">
-                  {stateInfo.name} is home to {locations.length} documented rockhounding {locations.length === 1 ? 'site' : 'sites'} spread across {citySections.length} {citySections.length === 1 ? 'region' : 'regions'} of the state.
-                  {topGems.length > 0
-                    ? ` Collectors regularly find ${topGems.slice(0, 5).join(', ')}, and more, at sites ranging from easy roadside stops to remote backcountry terrain.`
-                    : ` Sites range from easy roadside stops to remote backcountry terrain.`}
-                  {` Every location includes GPS coordinates, access details, difficulty ratings, and on-the-ground collecting notes so you can plan your trip with confidence.`}
-                  {citySections.length > 1 && ` Use the table of contents on the left to jump to any region, or head straight to a standout location using the picks below.`}
-                </p>
-                {introLocations.length > 0 && (
-                  <div>
-                    <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground mb-2">Our Picks</p>
-                    <ul className="flex flex-wrap gap-2">
-                      {introLocations.map((loc) => (
-                        <li key={loc.id}>
-                          <a
-                            href={`#${loc.slug}`}
-                            className="inline-flex items-center gap-1.5 text-sm text-primary hover:text-ruby-700 border border-ruby-200 hover:border-ruby-400 bg-ruby-50 hover:bg-ruby-100 rounded-full px-3 py-1 transition-colors"
-                          >
-                            <MapPin className="w-3 h-3 shrink-0" />
-                            {loc.name}
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                )}
-              </div>
+            <div className="flex flex-col lg:flex-row gap-0 lg:gap-10 lg:items-stretch">
+              {/* TOC collapsible (mobile) / sidebar (desktop) */}
+              <StateTOC entries={tocEntries} stateName={stateInfo.name} />
 
-              {citySections.map((citySection) => (
+              {/* Content */}
+              <div className="flex-1 min-w-0 space-y-16">
+                {citySections.map((citySection) => (
                 <section
                   key={citySection.city_slug}
                   id={`rockhounding-in-${citySection.city_slug}`}
@@ -343,7 +330,8 @@ export default async function StatePage({ params }: Props) {
                 />
               )}
             </div>
-          </div>
+            </div>
+          </>
         )}
       </div>
     </>

@@ -269,7 +269,7 @@ export function ReviewSection({
                         'w-20 h-20 rounded-lg overflow-hidden border-2',
                         photo.error ? 'border-red-300 opacity-60' : 'border-border'
                       )}>
-                        <img src={photo.preview} alt="" className="w-full h-full object-cover" />
+                        <img src={photo.preview} alt="Photo preview" className="w-full h-full object-cover" />
                       </div>
                       {photo.error && (
                         <div className="absolute inset-0 flex items-center justify-center bg-black/50 rounded-lg">

@@ -41,7 +41,9 @@ export function StateMap({ locations }: { locations: MapLocation[] }) {
     <MapContainer
       center={[centerLat, centerLng]}
       zoom={6}
-      scrollWheelZoom={false}
+      scrollWheelZoom={true}
+      touchZoom={true}
+      zoomControl={true}
       style={{ height: '100%', width: '100%' }}
     >
       <TileLayer

@@ -1,11 +1,18 @@
 ﻿import type { Metadata } from 'next'
 import { Gem, Shield, MapPin, Heart } from 'lucide-react'
 import { SITE_NAME, SITE_URL } from '@/lib/constants'
+import { OrganizationSchema, BreadcrumbSchema } from '@/components/seo/JsonLd'
 
 export const metadata: Metadata = {
   title: 'About Us',
-  description: `Learn about ${SITE_NAME} : our mission to help rockhounds find the best gem hunting locations across all 50 US states.`,
+  description: `Learn about ${SITE_NAME} — our mission to help rockhounds find the best gem hunting locations across all 50 US states. Built by rockhounds, for rockhounds.`,
   alternates: { canonical: `${SITE_URL}/about` },
+  openGraph: {
+    type: 'website',
+    title: `About ${SITE_NAME}`,
+    description: `We built the rockhounding directory we always wished existed. Honest, detailed, and genuinely useful — ${SITE_NAME} covers 1,000+ verified sites across all 50 US states.`,
+    url: `${SITE_URL}/about`,
+  },
 }
 
 const values = [
@@ -34,6 +41,11 @@ const values = [
 export default function AboutPage() {
   return (
     <div>
+      <OrganizationSchema />
+      <BreadcrumbSchema items={[
+        { name: 'Home', url: SITE_URL },
+        { name: 'About', url: `${SITE_URL}/about` },
+      ]} />
       {/* Hero */}
       <section className="bg-ruby-gradient py-16">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

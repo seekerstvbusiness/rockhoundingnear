@@ -2,16 +2,27 @@ import type { Metadata } from 'next'
 import { Mail, MessageSquare, MapPin } from 'lucide-react'
 import { ContactForm } from '@/components/contact/ContactForm'
 import { SITE_NAME, SITE_URL } from '@/lib/constants'
+import { BreadcrumbSchema } from '@/components/seo/JsonLd'
 
 export const metadata: Metadata = {
   title: 'Contact Us',
   description: `Get in touch with the ${SITE_NAME} team. Report a location error, suggest a new site, or just say hello.`,
   alternates: { canonical: `${SITE_URL}/contact` },
+  openGraph: {
+    type: 'website',
+    title: `Contact ${SITE_NAME}`,
+    description: `Get in touch with the ${SITE_NAME} team. Report a location error, suggest a new site, or just say hello.`,
+    url: `${SITE_URL}/contact`,
+  },
 }
 
 export default function ContactPage() {
   return (
     <div>
+      <BreadcrumbSchema items={[
+        { name: 'Home', url: SITE_URL },
+        { name: 'Contact', url: `${SITE_URL}/contact` },
+      ]} />
       {/* Hero */}
       <section className="bg-ruby-gradient py-16">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

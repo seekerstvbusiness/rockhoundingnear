@@ -166,6 +166,47 @@ export async function getCitiesInState(stateSlug: string) {
     .sort((a, b) => b.count - a.count || a.city.localeCompare(b.city))
 }
 
+export async function getNearbyStatesEnriched(slugs: string[]): Promise<StateData[]> {
+  if (slugs.length === 0) return []
+
+  const [{ data: statesRows }, { data: locRows }] = await Promise.all([
+    supabase.from('states').select('slug, name, abbreviation, image_url, featured_gems').in('slug', slugs),
+    supabase.from('locations').select('state_slug, cover_photo, gem_types').in('state_slug', slugs).eq('published', true),
+  ])
+
+  // Compute per-state counts, first cover photo, and top gems from locations
+  const computed = new Map<string, { count: number; image: string | null; gemCounts: Map<string, number> }>()
+  for (const loc of locRows ?? []) {
+    const entry = computed.get(loc.state_slug) ?? { count: 0, image: null, gemCounts: new Map() }
+    entry.count++
+    if (!entry.image && loc.cover_photo) entry.image = loc.cover_photo
+    for (const gem of loc.gem_types ?? []) {
+      entry.gemCounts.set(gem, (entry.gemCounts.get(gem) ?? 0) + 1)
+    }
+    computed.set(loc.state_slug, entry)
+  }
+
+  return slugs.map((slug) => {
+    const db = statesRows?.find((s) => s.slug === slug)
+    const c = computed.get(slug) ?? { count: 0, image: null, gemCounts: new Map() }
+    const topGems = [...c.gemCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3).map(([g]) => g)
+
+    return {
+      id: slug,
+      name: db?.name ?? slug,
+      slug,
+      abbreviation: db?.abbreviation ?? slug.slice(0, 2).toUpperCase(),
+      short_description: null,
+      description: null,
+      location_count: c.count,
+      image_url: db?.image_url ?? c.image,
+      meta_title: null,
+      meta_description: null,
+      featured_gems: db?.featured_gems?.length ? db.featured_gems : topGems,
+    } satisfies StateData
+  })
+}
+
 export async function getReviewsForLocation(locationId: string): Promise<Review[]> {
   const { data, error } = await supabase
     .from('reviews')

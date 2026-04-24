@@ -64,16 +64,6 @@
       letter-spacing: 0.15em;
       text-transform: uppercase;
     }
-    .header-badge {
-      margin-left: auto;
-      background: rgba(255,255,255,0.12);
-      border: 1px solid rgba(255,255,255,0.2);
-      color: rgba(255,255,255,0.85);
-      font-size: 11px;
-      font-weight: 500;
-      padding: 4px 12px;
-      border-radius: 20px;
-    }
 
     /* ── Content ── */
     .content {
@@ -232,7 +222,6 @@
         <span class="logo-main">RockhoundingNear.com</span>
         <span class="logo-sub">XML Sitemap</span>
       </div>
-      <span class="header-badge">Search Engine Sitemap</span>
     </div>
   </div>
 
