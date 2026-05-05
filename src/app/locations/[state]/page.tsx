@@ -13,6 +13,7 @@ import { generateStateFaqs } from '@/lib/state-faqs'
 import { US_STATES, SITE_URL } from '@/lib/constants'
 import type { Location } from '@/lib/types'
 import { StateMapLoader } from '@/components/locations/StateMapLoader'
+import { JournalPromo } from '@/components/locations/JournalPromo'
 
 type Props = { params: Promise<{ state: string }> }
 
@@ -234,7 +235,18 @@ export default async function StatePage({ params }: Props) {
               )}
             </div>
 
-            <div className="flex flex-col lg:flex-row gap-0 lg:gap-10 lg:items-stretch">
+            <div className="relative flex flex-col lg:flex-row gap-0 lg:gap-10 lg:items-stretch">
+              {/* Field journal promo — aligns with TOC top, sticks while in-view */}
+              <aside
+                aria-label="Field Journal promo"
+                className="hidden xl:block absolute top-0 h-full pointer-events-none z-30"
+                style={{ right: 'calc(1rem - (100vw - 76rem) / 2)' }}
+              >
+                <div className="sticky top-20 pointer-events-auto">
+                  <JournalPromo />
+                </div>
+              </aside>
+
               {/* TOC collapsible (mobile) / sidebar (desktop) */}
               <StateTOC entries={tocEntries} stateName={stateInfo.name} />
 
