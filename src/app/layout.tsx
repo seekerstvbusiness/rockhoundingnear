@@ -78,6 +78,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="flex-1">{children}</main>
         <Footer />
         <Script
+          id="grow-me-init"
+          strategy="beforeInteractive"
+          data-grow-initializer=""
+        >
+          {`!(function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTpmZTNhZjM5NC1kMTE4LTQzOTYtYmI1Ni0xYzliZWY1MWNlZWY=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);})();`}
+        </Script>
+        <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
           strategy="afterInteractive"
         />
